@@ -1,0 +1,359 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02097048536
+Data/Hora:  02/10/2026, 17:27:03
+Tempo API:  797ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 020.970.485-36
+Nome: LIDIA ALESSANDRA DE JESUS SILVA
+Primeiro Nome: LIDIA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 14/12/1979
+Nome da Mãe: EVANILDES SOUZA DE JESUS
+Nome do Pai: JORGE LUIZ DA SILVA
+RG: 1164887009
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: BA
+Mosaic: F18
+Ocupação: Administrador
+Score:
+  Value: 414
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 788
+Income Bracket: 1
+Cbo: 422310
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: LEOLINDA BACELAR LIMA
+  Bairro: CENTRO
+  Cidade: FEIRA DE SANTANA
+  Estado: BAHIA
+  CEP: 44001-248
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LEOLINDA BACELAR LIMA
+    Bairro: CENTRO
+    Cidade: FEIRA DE SANTANA
+    Estado: BAHIA
+    CEP: 44001-248
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA JORDANIA
+    Número: 46
+    Bairro: PONTO CENTRAL
+    Cidade: FEIRA DE SANTANA - BA
+    Fonte: DATASUS
+  [3]
+    Rua: POSSIDONIO NUNES
+    Tipo: R
+    Número: 729
+    Bairro: CAPIATA
+    Cidade: ARAPIRACA
+    Estado: AL
+    CEP: 57310-100
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: LEONILDO LUIZ DA SILVA
+    Tipo: R
+    Número: 39
+    Bairro: CARIANOS
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88047-579
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: AUGUSTO JOSE TAMANINI
+    Número: 62
+    Bairro: CARMELO DE DENT
+    Cidade: SAO JOAO BATISTA
+    Estado: SC
+    CEP: 88240-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DA CRUZ
+    Tipo: R
+    Número: 225
+    Bairro: NORDESTE
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59042-150
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: JORDANIA
+    Tipo: R
+    Número: 46
+    Complemento: PX AO BR DO NAL
+    Bairro: PONTO CENTRAL
+    Cidade: FEIRA DE SANTANA
+    Estado: BA
+    CEP: 44075-379
+    Data Atualizacao: 10/03/2015
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (75) 98803-6906
+  - (75) 3491-2848
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: FEIRA DE SANTANA - BA
+Cns: 706809234230422
+Rg Issue Date: 931402800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/12/2019
+    Mosaic: F18
+    Mosaic New: G24
+    Mosaic Secondary: G23
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: POSSIDONIO NUNES
+      Número: 729
+      Bairro: CAPIATA
+      Cidade: ARAPIRACA
+      Estado: AL
+      CEP: 57310-100
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: LEONILDO LUIZ DA SILVA
+      Número: 39
+      Bairro: CARIANOS
+      Cidade: FLORIANOPOLIS
+      Estado: SC
+      CEP: 88047-579
+      Date Added: 30/04/2015
+    [3]
+      Rua: AUGUSTO JOSE TAMANINI
+      Número: 62
+      Bairro: CARMELO DE DENT
+      Cidade: SAO JOAO BATISTA
+      Estado: SC
+      CEP: 88240-000
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: DA CRUZ
+      Número: 225
+      Bairro: NORDESTE
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59042-150
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: JORDANIA
+      Número: 46
+      Complemento: PX AO BR DO NAL
+      Bairro: PONTO CENTRAL
+      Cidade: FEIRA DE SANTANA
+      Estado: BA
+      CEP: 44075-379
+      Date Added: 13/11/2014
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 34912848
+      Ddd: 75
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 08/04/2011
+      Info Date: 14/02/2011
+  Score:
+    CSBA: 414
+    CSBA FAIXA: MEDIO
+  Parentes: (12 item(s))
+    [1]
+      CPF: 282401547
+      Nome: LUIZ JADSON DE JESUS SILVA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 989.690.305-06
+      Nome: FRANCISCA SOUZA DE JESUS
+      Vinculo: TIA(O)
+    [3]
+      CPF: 377.119.385-00
+      Nome: ANTONIO ALMAQUE SOUZA DE JESUS
+      Vinculo: TIA(O)
+    [4]
+      CPF: 951.188.885-49
+      Nome: CLAUDIONOR SOUZA DE ASSIS
+      Vinculo: TIA(O)
+    [5]
+      CPF: 3139011555
+      Nome: LUIZ HENRIQUE DE JESUS GONZAGA
+      Vinculo: FILHA(O)
+    [6]
+      CPF: 955.195.215-49
+      Nome: EVANILDES SOUZA DE JESUS
+      Vinculo: MAE
+    [7]
+      CPF: 519.168.005-72
+      Nome: JONAS SOUZA DE JESUS
+      Vinculo: TIA(O)
+    [8]
+      CPF: 250.443.128-78
+      Nome: ANTONIO ALMAQUE SOUZA DE JESUS
+      Vinculo: TIA(O)
+    [9]
+      CPF: 3678286500
+      Nome: ANDERSON MICHEL DE JESUS SILVA
+      Vinculo: IRMA(O)
+    [10]
+      CPF: 639.866.205-91
+      Nome: NILTON HENRIQUE SOUZA DE JESUS
+      Vinculo: TIA(O)
+    [11]
+      CPF: 271.615.955-68
+      Nome: TENINA ALVES DE SOUZA
+      Vinculo: AVO
+    [12]
+      CPF: 28559509
+      Nome: LUIZ ALESSANDRO DE JESUS SILVA
+      Vinculo: IRMA(O)
+  Pis: 12794140045
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 500.82
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 534.622.545-53
+    Nome: TERCIO ALVES DE SOUSA
+    Logradouro: POSSIDONIO NUNES
+    Número: 590
+    Bairro: CAPIATA
+  [2]
+    CPF: 387.757.434-34
+    Nome: MAILZA BEZERRA OLIVEIRA
+    Logradouro: POSSIDONIO NUNES
+    Número: 811
+    Bairro: CAPIATA
+  [3]
+    CPF: 332.353.504-97
+    Nome: HAMILTON LIMA E SILVA
+    Logradouro: POSSIDONIO NUNES
+    Número: 900
+    Bairro: CAPIATA
+  [4]
+    CPF: 139.652.714-15
+    Nome: APARECIDA PEREIRA DE MELO
+    Logradouro: POSSIDONIO NUNES
+    Número: 589
+    Bairro: CAPIATA
+  [5]
+    CPF: 469.215.594-91
+    Nome: VANUZA ALVES DANTAS
+    Logradouro: POSSIDONIO NUNES
+    Número: SN
+    Bairro: CAPIATA
+  [6]
+    CPF: 040.282.644-21
+    Nome: MARIA HERMINIA MANDU ROQUE
+    Logradouro: POSSIDONIO NUNES
+    Número: 668
+    Bairro: CAPIATA
+  [7]
+    CPF: 099.705.784-05
+    Nome: JOSE DAMIAO OLEGARIO SANTOS
+    Logradouro: POSSIDONIO NUNES
+    Número: 703
+    Bairro: CAPIATA
+  [8]
+    CPF: 083.394.225-53
+    Nome: PAULO AUGUSTO VIEIRA DOS SANTOS
+    Logradouro: POSSIDONIO NUNES
+    Número: 736
+    Bairro: CAPIATA
+  [9]
+    CPF: 029.195.394-85
+    Nome: GENIVALDO BARBOSA DO NASCIMENTO
+    Logradouro: POSSIDONIO NUNES
+    Número: 783
+    Bairro: CAPIATA
+  [10]
+    CPF: 008.051.074-44
+    Nome: JOSE AILTON BARROS DOS SANTOS
+    Logradouro: POSSIDONIO NUNES
+    Número: 1048
+    Bairro: CAPIATA
+  [11]
+    CPF: 113.889.594-61
+    Nome: MARCOS VINICIUS DUARTE ROMEIRO
+    Logradouro: POSSIDONIO NUNES
+    Número: 1042
+    Bairro: CAPIATA
+  [12]
+    CPF: 123.070.734-42
+    Nome: LUAN MATHEUS BORGES DE OLIVEIRA
+    Logradouro: POSSIDONIO NUNES
+    Número: 1051
+    Bairro: CAPIATA
+  [13]
+    CPF: 096.325.634-33
+    Nome: JESSICA MARIA FEITOZA DE SOUZA
+    Logradouro: POSSIDONIO NUNES
+    Número: 660
+    Bairro: CAPIATA
+  [14]
+    CPF: 517.131.524-87
+    Nome: JOAO JOSE DE LIMA
+    Logradouro: POSSIDONIO NUNES
+    Número: 660
+    Bairro: CAPIATA
+  [15]
+    CPF: 072.069.024-21
+    Nome: LIVIA CARLA AMORIM OLIVEIRA
+    Logradouro: POSSIDONIO NUNES
+    Número: 714
+    Bairro: CAPIATA
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 788
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 500.82
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (75) 3491-2848
+    Ddd: 75
+    Número: 34912848
+    Tipo: FIXO
+    Data Inclusao: 08/04/2011
+    Data Informacao: 14/02/2011
+    Classificacao: D2
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,312 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01814293302
+Data/Hora:  04/10/2026, 11:53:47
+Tempo API:  717ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 018.142.933-02
+Nome: JOSE MARCOS CANDIDO GALVAO
+Primeiro Nome: JOSE
+Sobrenome: GALVAO
+Sexo: Masculino
+Data de Nascimento: 15/11/1984
+Nome da Mãe: FRANCISCA CANDIDO MACHADO
+Mosaic: F20
+Ocupação: Limpador a seco, à máquina
+Score:
+  Value: 375
+  Range: ALTO
+E-mail: daniikeda213@gmail.com
+Additional Emails: (1 item(s))
+  - daniikeda213@gmail.com
+Federal Status: REGULAR
+Renda: 1938
+Income Bracket: 2
+Cbo: 516320
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO DE ALCANTARA
+  Número: 293
+  Complemento: VL SAO P
+  Bairro: MONTANHAO
+  Cidade: SAO BERNARDO DO CAMPO
+  Estado: SAO PAULO
+  CEP: 09784-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO DE ALCANTARA
+    Número: 293
+    Complemento: VL SAO P
+    Bairro: MONTANHAO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SAO PAULO
+    CEP: 09784-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PEDRO DE ALCANTARA
+    Tipo: AV
+    Número: 77
+    Bairro: MONTANHAO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09784-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: PEDRO DE ALCANTARA
+    Tipo: AV
+    Número: 185
+    Bairro: MONTANHAO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09784-000
+    Data Atualizacao: 02/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Mosaic: F20
+    Mosaic New: D09
+    Mosaic Secondary: H25
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: AV
+      Rua: PEDRO DE ALCANTARA
+      Número: 293
+      Complemento: C 3
+      Bairro: MONTANHAO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09784-000
+      Date Added: 21/01/2019
+    [2]
+      Tipo: AV
+      Rua: PEDRO DE ALCANTARA
+      Número: 77
+      Bairro: MONTANHAO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09784-000
+      Date Added: 19/11/2018
+    [3]
+      Tipo: AV
+      Rua: PEDRO DE ALCANTARA
+      Número: 185
+      Bairro: MONTANHAO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09784-000
+      Date Added: 11/02/2016
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 43579487
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 16/12/2014
+      Info Date: 25/06/2015
+    [2]
+      Telefone: 41272724
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 07/02/2016
+      Info Date: 27/08/2018
+    [3]
+      Telefone: 957000661
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/06/2019
+      Info Date: 10/11/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: daniikeda213@gmail.com
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/03/2019
+  Score:
+    CSB8: 465
+    CSB8 FAIXA: MEDIO
+    CSBA: 375
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 2267285363
+      Nome: FERNANDA LOPES
+      Vinculo: CONJUGE
+    [2]
+      CPF: 423.336.013-53
+      Nome: ANTONIA LOPES
+      Vinculo: SOGRA
+    [3]
+      Nome: FRANCISCA CANDIDO MACHADO
+      Vinculo: MAE
+  Pis: 16051981986
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 717.65
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Telefones: (3 item(s))
+  - (11) 4357-9487
+  - (11) 4127-2724
+  - (11) 95700-0661
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.088.788-36
+    Nome: BENITA ALCANTARA DE SOUSA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 158
+    Bairro: MONTANHAO
+  [2]
+    CPF: 051.980.968-81
+    Nome: VALDIR SOARES DA SILVA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 213
+    Bairro: MONTANHAO
+  [3]
+    CPF: 343.555.128-35
+    Nome: ANA PAULA RODRIGUES PEREIRA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 775
+    Bairro: MONTANHAO
+  [4]
+    CPF: 909.108.934-20
+    Nome: CACILDA LOPES DA SILVA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 147
+    Bairro: MONTANHAO
+  [5]
+    CPF: 483.121.398-50
+    Nome: MARLENE DE JESUS SANTOS
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 25
+    Bairro: MONTANHAO
+  [6]
+    CPF: 226.484.528-77
+    Nome: KELLY FRANCISCA DA SILVA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 370
+    Bairro: MONTANHAO
+  [7]
+    CPF: 030.048.128-43
+    Nome: LAURI MARTIN BIANCO
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 349
+    Bairro: MONTANHAO
+  [8]
+    CPF: 420.027.838-37
+    Nome: GABRIELA FERNANDES TEIXEIRA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 489
+    Bairro: MONTANHAO
+  [9]
+    CPF: 403.476.958-09
+    Nome: FLAVIO FELIPE DE JESUS COSTA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 30
+    Bairro: MONTANHAO
+  [10]
+    CPF: 057.362.614-64
+    Nome: PAULINO CLARINDO RODRIGUES NETO
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 160
+    Bairro: MONTANHAO
+  [11]
+    CPF: 155.345.238-08
+    Nome: CLAUDIO TRUCHAN GOMES
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 317
+    Bairro: MONTANHAO
+  [12]
+    CPF: 476.505.914-68
+    Nome: JOSE NIVALDO ALVES DA SILVA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 195
+    Bairro: MONTANHAO
+  [13]
+    CPF: 019.761.264-44
+    Nome: REJANE MARIA FERREIRA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 240
+    Bairro: MONTANHAO
+  [14]
+    CPF: 056.077.664-03
+    Nome: QUITERIA DA SILVA
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 1000
+    Bairro: MONTANHAO
+  [15]
+    CPF: 013.503.734-43
+    Nome: GILMARA ALVES FERNANDES
+    Logradouro: PEDRO DE ALCANTARA
+    Número: 62
+    Bairro: MONTANHAO
+E-mails: (1 item(s))
+  - daniikeda213@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1938
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 717.65
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 4357-9487
+    Ddd: 11
+    Número: 43579487
+    Tipo: FIXO
+    Data Inclusao: 16/12/2014
+    Data Informacao: 25/06/2015
+    Classificacao: D2
+  [2]
+    Telefone: (11) 4127-2724
+    Ddd: 11
+    Número: 41272724
+    Tipo: FIXO
+    Data Inclusao: 07/02/2016
+    Data Informacao: 27/08/2018
+    Classificacao: D2
+  [3]
+    Telefone: (11) 95700-0661
+    Ddd: 11
+    Número: 957000661
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 10/11/2018
+    Classificacao: A0
+Occupation Code: 516320
+Occupation Name: Limpador a seco, à máquina
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,546 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08644483846
+Data/Hora:  04/10/2026, 15:12:36
+Tempo API:  251ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 086.444.838-46
+Nome: DIJANIRA DA SILVA MARTINS
+Primeiro Nome: DIJANIRA
+Sobrenome: MARTINS
+Sexo: Feminino
+Data de Nascimento: 20/01/1966
+Nome da Mãe: BERTILIA LUZIA DA SILVA
+Voter Id: 080592620175
+Mosaic: B03
+Ocupação: Caixa de banco
+Score:
+  Value: 695
+  Range: BAIXO
+E-mail: djanira.martins@hotmail.com
+Additional Emails: (3 item(s))
+  - djanira.martins@hotmail.com
+  - dijanira.martins@safra.com.br
+  - dijanira.martins@hotmail.com
+Federal Status: REGULAR
+Renda: 2870
+Income Bracket: 3
+Cbo: 252210
+Endereço:
+  Tipo: RUA
+  Rua: REINOSO FERNANDES
+  Bairro: VILA CARRAO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03429-050
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: REINOSO FERNANDES
+    Bairro: VILA CARRAO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03429-050
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EVANGELINA
+    Tipo: R
+    Número: 1
+    Bairro: VL CARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03421-000
+    Data Atualizacao: 16/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: AZEVEDO SOARES
+    Tipo: R
+    Número: 1043
+    Complemento: SL PR
+    Bairro: VL GOMES CARDIM
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03322-001
+    Data Atualizacao: 30/08/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: EVANGELINA
+    Tipo: R
+    Número: 1001
+    Complemento: AP 26
+    Bairro: VL CARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03421-000
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: LUTECIA
+    Tipo: R
+    Número: 950
+    Complemento: AP 182
+    Bairro: VL CARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03423-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: COELHO BASTOS
+    Tipo: R
+    Número: 23
+    Bairro: JD WANDA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05864-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: LUTECIA
+    Rua: R
+    Número: 0000950
+    Bairro: VILACARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03423-000
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: EVANGELINA
+    Número: 0001001
+    Bairro: VILA CARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03421-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: I
+      Modelo: HYUNDAI SONATA GLS
+      Ano: 2011
+    [2]
+      Marca: VW
+      Modelo: NOVA SAVEIRO CS
+      Ano: 2013
+Telefones: (13 item(s))
+  - (11) 99136-2102
+  - (99) 98494-7794
+  - (11) 99000-1266
+  - (11) 97206-7022
+  - (11) 96314-1771
+  - (11) 97634-5984
+  - (11) 99168-4811
+  - (11) 2093-0915
+  - +55 (11) 99136-2102
+  - 551120930915
+  - (11) 2307-3473
+  - (11) 3175-9164
+  - (11) 2093-3473
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 27/11/2019
+    Info Date: 08/10/2007
+    Mosaic: B03
+    Mosaic New: A02
+    Mosaic Secondary: A01
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: EVANGELINA
+      Número: 1
+      Bairro: VL CARRAO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03421-000
+      Date Added: 10/10/2018
+    [2]
+      Tipo: R
+      Rua: AZEVEDO SOARES
+      Número: 1043
+      Complemento: SL PR
+      Bairro: VL GOMES CARDIM
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03322-001
+      Date Added: 16/05/2019
+    [3]
+      Tipo: R
+      Rua: EVANGELINA
+      Número: 1001
+      Complemento: AP 26
+      Bairro: VL CARRAO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03421-000
+      Date Added: 07/01/2014
+    [4]
+      Tipo: R
+      Rua: LUTECIA
+      Número: 950
+      Complemento: AP 182
+      Bairro: VL CARRAO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03423-000
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: COELHO BASTOS
+      Número: 23
+      Bairro: JD WANDA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05864-040
+      Date Added: 09/07/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 23073473
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 30/09/2010
+    [2]
+      Telefone: 31759164
+      Ddd: 11
+      Tipo: 2
+      Classificacao: C
+      Date Added: 22/05/2012
+    [3]
+      Telefone: 20933473
+      Ddd: 11
+      Tipo: 2
+      Classificacao: C
+      Date Added: 03/03/2013
+    [4]
+      Telefone: 991684811
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 991362102
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: dijanira.martins@safra.com.br
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 453
+    CSB8 FAIXA: MEDIO
+    CSBA: 695
+    CSBA FAIXA: BAIXO
+  Parentes: (25 item(s))
+    [1]
+      CPF: 151.972.408-06
+      Nome: CATARINA LUZIA DA SILVA ELIAS
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 985.379.209-59
+      Nome: IRENE APARECIDA DE MOURA DOS SANTOS
+      Vinculo: PRIMA(O)
+    [3]
+      CPF: 270.170.008-62
+      Nome: CAIO AUGUSTUS CANHEO
+      Vinculo: PRIMA(O)
+    [4]
+      CPF: 985.379.549-34
+      Nome: VALDIRENE DE MOURA ROCHA
+      Vinculo: PRIMA(O)
+    [5]
+      CPF: 295.547.628-52
+      Nome: THIAGO AUGUSTO DOS SANTOS
+      Vinculo: SOBRINHA(O)
+    [6]
+      CPF: 4179857898
+      Nome: WAGNER DE OLIVEIRA MARTINS
+      Vinculo: CONJUGE
+    [7]
+      CPF: 267.651.011-87
+      Nome: JOSE DA SILVA
+      Vinculo: TIA(O)
+    [8]
+      CPF: 252.928.938-70
+      Nome: MARIA PAZETO
+      Vinculo: AVO
+    [9]
+      CPF: 222.042.318-27
+      Nome: KARINA ANGELICA CANHEO
+      Vinculo: PRIMA(O)
+    [10]
+      CPF: 4431727906
+      Nome: CLARA VARALDO DE MOURA
+      Vinculo: TIA(O)
+    [11]
+      CPF: 401.163.578-27
+      Nome: FELIPE AUGUSTO DOS SANTOS
+      Vinculo: SOBRINHA(O)
+    [12]
+      CPF: 784483876
+      Nome: DINORA MARIA DA SILVA
+      Vinculo: IRMA(O)
+    [13]
+      CPF: 105.369.368-03
+      Nome: DIVA DA SILVA
+      Vinculo: IRMA(O)
+    [14]
+      CPF: 349.657.328-71
+      Nome: MONIQUE AGATA SILVA LOPES
+      Vinculo: SOBRINHA(O)
+    [15]
+      CPF: 3972759860
+      Nome: ALUIZIO DA SILVA
+      Vinculo: IRMA(O)
+    [16]
+      CPF: 120.666.418-55
+      Nome: VALQUIRIA APARECIDA PAZETO
+      Vinculo: TIA(O)
+    [17]
+      CPF: 2169400877
+      Nome: ANTONIO ZANCHETO
+      Vinculo: TIA(O)
+    [18]
+      CPF: 907.213.738-87
+      Nome: SONIA MARIA BALERO CANHEO
+      Vinculo: TIA(O)
+    [19]
+      CPF: 239.907.248-00
+      Nome: GERALDO MARCATO
+      Vinculo: TIA(O)
+    [20]
+      CPF: 127.319.968-54
+      Nome: ANA MARIA DA SILVA
+      Vinculo: IRMA(O)
+    [21]
+      CPF: 400.443.848-90
+      Nome: CAROLINE SILVA MARTINS
+      Vinculo: FILHA(O)
+    [22]
+      CPF: 5645671910
+      Nome: SIRLENE APARECIDA DE MOURA
+      Vinculo: PRIMA(O)
+    [23]
+      CPF: 129.556.928-08
+      Nome: ZENITH DE OLIVEIRA PERES
+      Vinculo: SOGRA
+    [24]
+      CPF: 166.182.098-03
+      Nome: BERTILIA LUZIA DA SILVA
+      Vinculo: MAE
+    [25]
+      CPF: 409.202.968-31
+      Nome: GUILHERME SILVA MARTINS
+      Vinculo: FILHA(O)
+  Pis: 12211649434
+  Tse:
+    Titulo: 80592620175
+    Zona: 248
+    Secao: 21
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 049.030.918-64
+    Nome: MARIA DOS ANJOS DOS SANTOS
+    Logradouro: EVANGELINA
+    Número: 921
+    Bairro: VL CARRAO
+  [2]
+    CPF: 010.591.888-13
+    Nome: GERSON ANTONIO TADEU LEONE
+    Logradouro: EVANGELINA
+    Número: 1387
+    Bairro: VL CARRAO
+  [3]
+    CPF: 046.094.698-63
+    Nome: VALMIR DAS NEVES CHAGAS
+    Logradouro: EVANGELINA
+    Número: 1334
+    Bairro: VL CARRAO
+  [4]
+    CPF: 454.470.488-00
+    Nome: GABRIEL VELOSO PINHEIRO
+    Logradouro: EVANGELINA
+    Número: 1001
+    Bairro: VL CARRAO
+  [5]
+    CPF: 172.254.238-19
+    Nome: CLAUDSON LINCOLN BEGGIATO
+    Logradouro: EVANGELINA
+    Número: 1001
+    Bairro: VL CARRAO
+  [6]
+    CPF: 268.414.828-75
+    Nome: DANIELLA ORTEGA ARAUJO BUZZO DE CAMPOS
+    Logradouro: EVANGELINA
+    Número: 1334
+    Bairro: VL CARRAO
+  [7]
+    CPF: 256.305.408-74
+    Nome: VAGNER JAYME OLIVEIRA
+    Logradouro: EVANGELINA
+    Número: 1001
+    Bairro: VL CARRAO
+  [8]
+    CPF: 986.893.988-72
+    Nome: HELIO NONATO DE CARVALHO
+    Logradouro: EVANGELINA
+    Número: 635
+    Bairro: VL CARRAO
+  [9]
+    CPF: 399.250.998-20
+    Nome: UILSON NUNES DA SILVA
+    Logradouro: EVANGELINA
+    Número: 646
+    Bairro: VL CARRAO
+  [10]
+    CPF: 417.959.168-50
+    Nome: LILIANE DE ARRUDA SANTOS
+    Logradouro: EVANGELINA
+    Número: 171
+    Bairro: VL CARRAO
+  [11]
+    CPF: 295.395.118-01
+    Nome: KAREN GIUDICE
+    Logradouro: EVANGELINA
+    Número: 1001
+    Bairro: VL CARRAO
+  [12]
+    CPF: 021.823.318-32
+    Nome: DIRCE PAVON SANCHEZ CARVALHO
+    Logradouro: EVANGELINA
+    Número: SN
+    Bairro: VL CARRAO
+  [13]
+    CPF: 246.160.658-70
+    Nome: LUCIANA ANTUNES DE MACEDO COLLAVITO
+    Logradouro: EVANGELINA
+    Número: 1001
+    Bairro: VL CARRAO
+  [14]
+    CPF: 003.965.858-92
+    Nome: JUVENAL SIMAS SOUZA
+    Logradouro: EVANGELINA
+    Número: 12
+    Bairro: VL CARRAO
+  [15]
+    CPF: 039.384.318-14
+    Nome: JORGE CRISCIMANI
+    Logradouro: EVANGELINA
+    Número: 134
+    Bairro: VL CARRAO
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (11) 97634-5984
+    Nome: DIJANIRA DA SILVA MARTINS
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 99168-4811
+    Nome: DJANIRA DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 96314-1771
+    Nome: DIJANIRA DA SILVA MARTINS
+    Cidade: SAO PAULO
+    UF: SP
+  [4]
+    Telefone: (11) 97206-7022
+    Nome: DIJANIRA DA SILVA MARTINS
+    Cidade: SAO PAULO
+    UF: SP
+  [5]
+    Telefone: (11) 99136-2102
+    Nome: DIJANIRA DA SILVA MARTINS
+    Cidade: SAO PAULO
+    UF: SP
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 2093-0915
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 23NOV2018:15:15:54
+    Cel Contato: +5511991362102
+    Complemento: AP - Apartamento: 26;
+    Tipo Cliente: Residencial
+E-mails: (3 item(s))
+  - djanira.martins@hotmail.com
+  - dijanira.martins@safra.com.br
+  - dijanira.martins@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2870
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2307-3473
+    Ddd: 11
+    Número: 23073473
+    Tipo: FIXO
+    Data Inclusao: 30/09/2010
+    Classificacao: A0
+  [2]
+    Telefone: (11) 3175-9164
+    Ddd: 11
+    Número: 31759164
+    Tipo: CELULAR
+    Data Inclusao: 22/05/2012
+    Classificacao: C
+  [3]
+    Telefone: (11) 2093-3473
+    Ddd: 11
+    Número: 20933473
+    Tipo: CELULAR
+    Data Inclusao: 03/03/2013
+    Classificacao: C
+  [4]
+    Telefone: (11) 99168-4811
+    Ddd: 11
+    Número: 991684811
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: C
+  [5]
+    Telefone: (11) 99136-2102
+    Ddd: 11
+    Número: 991362102
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: C
+Occupation Code: 413210
+Occupation Name: Caixa de banco
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

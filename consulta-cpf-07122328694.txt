@@ -1,0 +1,410 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  07122328694
+Data/Hora:  04/10/2026, 15:18:49
+Tempo API:  416ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 071.223.286-94
+Nome: VALQUIRIA DE FATIMA FONSECA
+Primeiro Nome: VALQUIRIA
+Sobrenome: FONSECA
+Sexo: Feminino
+Data de Nascimento: 16/03/1983
+Nome da Mãe: LUZIA ALVES DA FONSECA
+Nome do Pai: JOSE DOS REIS FONSECA
+RG: 357696
+Rg Issuer: 10/MG
+Voter Id: 154621800230
+Mosaic: F20
+Ocupação: Copeiro
+Score:
+  Value: 400
+  Range: ALTO
+E-mail: valkiria3632@gmail.com
+Additional Emails: (1 item(s))
+  - valkiria3632@gmail.com
+Federal Status: REGULAR
+Renda: 1131
+Income Bracket: 2
+Cbo: 513425
+Endereço:
+  Tipo: RUA
+  Rua: STA LIGIA
+  Complemento: LE B BX
+  Bairro: PARANGABA
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 60720-720
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: STA LIGIA
+    Complemento: LE B BX
+    Bairro: PARANGABA
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 60720-720
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ALBERTINA BONTEMPO DE SOUSA
+    Tipo: TV
+    Número: 4
+    Complemento: FDS
+    Bairro: AQUARIUS
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-640
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: DEZENOVE
+    Tipo: R
+    Número: 87
+    Complemento: Q B 20 LT 9
+    Bairro: JD ITAMARATI
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38702-309
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: A
+    Tipo: R
+    Número: 80
+    Bairro: BRASIL
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38700-191
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ORLANDO DE BARROS SILVA
+    Tipo: R
+    Número: 80
+    Bairro: AQUARIUS
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-638
+    Data Atualizacao: 01/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: VALQUIRIA DE FATIMA FONSECA
+    Rua: 0000080
+    Número: A
+    Bairro: AQUARIUS
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-638
+    Fonte: ASSECC
+  [7]
+    Tipo: VALQUIRIA DE FATIMA FONSECA
+    Rua: 0000080
+    Número: ORLANDO DE BARROS SILVA
+    Bairro: AQUARIUS
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 03870-338
+    Fonte: ASSECC
+  [8]
+    Tipo: A
+    Rua: [empty]
+    Número: 0000080
+    Bairro: AQUARIUS
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-638
+    Fonte: ASSECC
+  [9]
+    Rua: RUA ORLANDO DE BARROS SILVA
+    Número: 80
+    Bairro: AQUARIUS
+    Estado: MG
+    CEP: 38703-638
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (85) 3242-9626
+  - (34) 99945-7530
+  - (34) 99805-3562
+  - (34) 99803-8855
+  - (34) 3822-8887
+Cns: 704609663741521
+Rg Date: 16/04/1983
+Race: BRANCA
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/11/2019
+    Mosaic: F20
+    Mosaic New: I31
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: TV
+      Rua: ALBERTINA BONTEMPO DE SOUSA
+      Número: 4
+      Complemento: FDS
+      Bairro: AQUARIUS
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38703-640
+      Date Added: 07/01/2014
+    [2]
+      Tipo: R
+      Rua: DEZENOVE
+      Número: 87
+      Complemento: Q B 20 LT 9
+      Bairro: JD ITAMARATI
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38702-309
+      Date Added: 17/01/2017
+    [3]
+      Tipo: R
+      Rua: A
+      Número: 80
+      Bairro: BRASIL
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38700-191
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: ORLANDO DE BARROS SILVA
+      Número: 80
+      Bairro: AQUARIUS
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38703-638
+      Date Added: 09/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 38228887
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 08/05/2012
+      Info Date: 05/03/2012
+    [2]
+      Telefone: 998053562
+      Ddd: 34
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 01/02/2018
+  Score:
+    CSB8: 545
+    CSB8 FAIXA: BAIXO
+    CSBA: 400
+    CSBA FAIXA: ALTO
+  Parentes: (8 item(s))
+    [1]
+      CPF: 6872105690
+      Nome: BRUNO FONSECA REZENDE
+      Vinculo: SOBRINHA(O)
+    [2]
+      CPF: 9130002648
+      Nome: GILBERTO ANTUNES MOREIRA
+      Vinculo: SOBRINHA(O)
+    [3]
+      CPF: 239.310.866-15
+      Nome: LUZIA ALVES DA FONSECA
+      Vinculo: MAE
+    [4]
+      CPF: 8913920689
+      Nome: GUILHERME FONSECA REZENDE
+      Vinculo: SOBRINHA(O)
+    [5]
+      CPF: 3110058618
+      Nome: VERA LUCIA FONSECA REZENDE
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 6431401662
+      Nome: LIDIANE APARECIDA MOREIRA FONSECA
+      Vinculo: SOBRINHA(O)
+    [7]
+      CPF: 4819167685
+      Nome: VALERIA APARECIDA FONSECA MOREIRA
+      Vinculo: IRMA(O)
+    [8]
+      CPF: 655.766.246-53
+      Nome: VALMIR ANTONIO FONSECA
+      Vinculo: IRMA(O)
+  Pis: 16606396795
+  Tse:
+    Titulo: 154621800230
+    Zona: 210
+    Secao: 195
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 444.53
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 395.087.306-68
+    Nome: OLIVEIRA INACIO DE BRITO
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 120
+    Bairro: AQUARIUS
+  [2]
+    CPF: 105.032.716-08
+    Nome: ITALA ROBERTA CANDIDA FERREIRA
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 118
+    Bairro: AQUARIUS
+  [3]
+    CPF: 045.830.796-30
+    Nome: CARLA CRISTINA MARQUES
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 25
+    Bairro: AQUARIUS
+  [4]
+    CPF: 810.378.996-87
+    Nome: CATIA REGINA MARQUES
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 30
+    Bairro: AQUARIUS
+  [5]
+    CPF: 999.606.806-49
+    Nome: CLAUDIA APARECIDA SILVA
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 62
+    Bairro: AQUARIUS
+  [6]
+    CPF: 011.869.526-60
+    Nome: MATUSALEM ROCHA
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 20
+    Bairro: AQUARIUS
+  [7]
+    CPF: 043.588.266-01
+    Nome: TEREZINHA PEREIRA DE ANDRADE
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 40
+    Bairro: AQUARIUS
+  [8]
+    CPF: 130.360.476-03
+    Nome: ANA LUCIA PEREIRA SILVA
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 30
+    Bairro: AQUARIUS
+  [9]
+    CPF: 717.642.596-53
+    Nome: EULER APARECIDO DA SILVA
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 30
+    Bairro: AQUARIUS
+  [10]
+    CPF: 043.593.716-24
+    Nome: ADRIANO ALEXANDRE DE MORAIS
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 114
+    Bairro: AQUARIUS
+  [11]
+    CPF: 039.121.426-88
+    Nome: IRAIDES MOREIRA SOARES NAZARIO
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 40
+    Bairro: AQUARIUS
+  [12]
+    CPF: 777.864.596-34
+    Nome: MAGNA DE FATIMA BERGANHON
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 20
+    Bairro: AQUARIUS
+  [13]
+    CPF: 006.775.276-40
+    Nome: JOSE DOS REIS DE LIMA
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 114
+    Bairro: AQUARIUS
+  [14]
+    CPF: 810.378.996-87
+    Nome: CATIA REGINA MARQUES
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 5
+    Bairro: AQUARIUS
+  [15]
+    CPF: 783.676.976-34
+    Nome: CLEONICE DE FATIMA LUIS DOS REIS
+    Logradouro: ALBERTINA BONTEMPO DE SOUSA
+    Número: 72
+    Bairro: AQUARIUS
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (34) 99805-3562
+    Nome: [empty]
+    Cidade: PATOS DE MINAS
+    UF: MG
+  [2]
+    Telefone: (34) 99945-7530
+    Nome: [empty]
+    Cidade: PATOS DE MINAS
+    UF: MG
+  [3]
+    Telefone: (34) 99803-8855
+    Nome: VALQUIRIA DE FATIMA FONSECA
+    Cidade: PATOS DE MINAS
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (34) 99945-7530
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 17/11/2017
+    Valor Fatura: 74.99
+    Mes Referencia: 202010
+E-mails: (1 item(s))
+  - valkiria3632@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1131
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 444.53
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (34) 3822-8887
+    Ddd: 34
+    Número: 38228887
+    Tipo: FIXO
+    Data Inclusao: 08/05/2012
+    Data Informacao: 05/03/2012
+    Classificacao: D2
+  [2]
+    Telefone: (34) 99805-3562
+    Ddd: 34
+    Número: 998053562
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: A0
+Occupation Code: 513425
+Occupation Name: Copeiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

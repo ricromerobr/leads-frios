@@ -1,0 +1,651 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  32934519856
+Data/Hora:  03/10/2026, 15:52:34
+Tempo API:  710ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 329.345.198-56
+Nome: DEBORA CRISTINA RODRIGUES
+Primeiro Nome: DEBORA
+Sobrenome: RODRIGUES
+Sexo: Feminino
+Data de Nascimento: 19/09/1981
+Nome da Mãe: MARIA APARECIDA PAWLOVSKI
+Nome do Pai: SERGIO RODRIGUES
+RG: 34081499
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 291862290124
+Mosaic: E17
+Ocupação: Barman
+Score:
+  Value: 525
+  Range: MEDIO
+E-mail: debora.rodrigues01@hotmail.com
+Additional Emails: (5 item(s))
+  - debora.rodrigues01@hotmail.com
+  - debyiantrocandoreceitinhas@gmail.com
+  - paiva486@itelefonica.com.br
+  - moniquehxc@yahoo.com.br
+  - paiva486@vivointernetdiscada.com.br
+Federal Status: REGULAR
+Renda: 600
+Income Bracket: 1
+Cbo: 513420
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO MORATO KRAHEMBUHL
+  Complemento: CS  CASA 2
+  Bairro: JARAGUA
+  Cidade: PIRACICABA
+  Estado: SAO PAULO
+  CEP: 13403-023
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO MORATO KRAHEMBUHL
+    Complemento: CS  CASA 2
+    Bairro: JARAGUA
+    Cidade: PIRACICABA
+    Estado: SAO PAULO
+    CEP: 13403-023
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PEDRO MORATO KRAHEMBUHL
+    Número: 273
+    Bairro: JARAGUA
+    Cidade: PIRACICABA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: JOAO SAMPAIO
+    Tipo: R
+    Número: 1849
+    Complemento: AP 53
+    Bairro: S JUDAS
+    Cidade: PIRACICABA
+    Estado: SP
+    CEP: 13416-383
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MARIA INACIA
+    Tipo: R
+    Número: 55
+    Complemento: C 4
+    Bairro: VL NOVA MAZZEI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02312-070
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 793
+    Bairro: CENTRO
+    Cidade: ARARAQUARA
+    Estado: SP
+    CEP: 14801-050
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: GUAPIRA
+    Tipo: AV
+    Número: 535
+    Bairro: TUCURUVI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02265-001
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: PEDRO MORATO KRAHEMBUHL
+    Tipo: R
+    Número: 273
+    Bairro: JARAGUA
+    Cidade: PIRACICABA
+    Estado: SP
+    CEP: 13403-023
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: MARIA INACIA
+    Número: 0000055
+    Bairro: VILA NOVA MAZZEI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02312-070
+    Fonte: ASSECC
+  [9]
+    Rua: RUA R PEDRO MORATO KRAHEMBUHL
+    Número: 273
+    Complemento: C C
+    Bairro: JARAGUA
+    Estado: SP
+    CEP: 13403-023
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (12 item(s))
+  - (19) 2533-0629
+  - (19) 99681-6938
+  - (11) 96994-0897
+  - (19) 2534-1613
+  - +55 (19) 98179-2772
+  - +55 (19) 98441-2159
+  - (19) 99838-1693
+  - (19) 99938-1321
+  - (19) 3302-0711
+  - (16) 3322-5699
+  - (19) 98179-2772
+  - (19) 98441-2159
+Datasus Phones: (1 item(s))
+  - (19) 2533-0629
+Cidade de Nascimento: ARARAQUARA - SP
+Cns: 709200248281530
+Rg Issue Date: 1109300400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/07/2019
+    Info Date: 21/12/2008
+    Mosaic: E17
+    Mosaic New: D13
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAO SAMPAIO
+      Número: 1849
+      Complemento: AP 53
+      Bairro: S JUDAS
+      Cidade: PIRACICABA
+      Estado: SP
+      CEP: 13416-383
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: MARIA INACIA
+      Número: 55
+      Complemento: C 4
+      Bairro: VL NOVA MAZZEI
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02312-070
+      Date Added: 09/12/2014
+    [3]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 793
+      Bairro: CENTRO
+      Cidade: ARARAQUARA
+      Estado: SP
+      CEP: 14801-050
+      Date Added: 25/08/2016
+    [4]
+      Tipo: AV
+      Rua: GUAPIRA
+      Número: 535
+      Bairro: TUCURUVI
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02265-001
+      Date Added: 28/02/2013
+    [5]
+      Tipo: R
+      Rua: PEDRO MORATO KRAHEMBUHL
+      Número: 273
+      Bairro: JARAGUA
+      Cidade: PIRACICABA
+      Estado: SP
+      CEP: 13403-023
+      Date Added: 30/06/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 25341613
+      Ddd: 19
+      Tipo: 1
+      Classificacao: B
+      Date Added: 01/07/2014
+      Info Date: 11/10/2014
+    [2]
+      Telefone: 33020711
+      Ddd: 19
+      Tipo: 1
+      Classificacao: D
+      Date Added: 06/01/2015
+      Info Date: 30/12/2014
+    [3]
+      Telefone: 33225699
+      Ddd: 16
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 981792772
+      Ddd: 19
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 984412159
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  E-mails: (5 item(s))
+    [1]
+      E-mail: debyiantrocandoreceitinhas@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 04/05/2017
+    [2]
+      E-mail: paiva486@itelefonica.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 04/05/2017
+    [3]
+      E-mail: moniquehxc@yahoo.com.br
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: paiva486@vivointernetdiscada.com.br
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [5]
+      E-mail: debora.rodrigues01@hotmail.com
+      Priority: 5
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 85
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 525
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 205.496.388-73
+      Nome: MARIA APARECIDA PAWLOVSKI
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 851.27
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 044.254.328-00
+    Nome: THEREZINHA LAUDISSI AMALFI
+    Logradouro: JOAO SAMPAIO
+    Número: 1849
+    Bairro: S JUDAS
+  [2]
+    CPF: 028.014.108-45
+    Nome: MARIA APARECIDA DA CUNHA
+    Logradouro: JOAO SAMPAIO
+    Número: 1725
+    Bairro: S JUDAS
+  [3]
+    CPF: 196.888.218-96
+    Nome: MARIA HELENA BILCHE
+    Logradouro: JOAO SAMPAIO
+    Número: 1830
+    Bairro: S JUDAS
+  [4]
+    CPF: 191.766.928-33
+    Nome: MELINA BETHIOL
+    Logradouro: JOAO SAMPAIO
+    Número: 1607
+    Bairro: S JUDAS
+  [5]
+    CPF: 271.781.078-12
+    Nome: PAULO FERNANDO CAVALCANTI DE MORAIS DUTRA
+    Logradouro: JOAO SAMPAIO
+    Número: 1849
+    Bairro: S JUDAS
+  [6]
+    CPF: 272.232.198-07
+    Nome: MARISETE APARECIDA JUVENAL
+    Logradouro: JOAO SAMPAIO
+    Número: 1495
+    Bairro: S JUDAS
+  [7]
+    CPF: 191.752.278-94
+    Nome: VIVIANE COLOMBARI PEDRAZZINI DOS SANTOS
+    Logradouro: JOAO SAMPAIO
+    Número: 1620
+    Bairro: S JUDAS
+  [8]
+    CPF: 115.227.148-20
+    Nome: MARCIO PEDRO FRASSETTO
+    Logradouro: JOAO SAMPAIO
+    Número: 1717
+    Bairro: S JUDAS
+  [9]
+    CPF: 108.825.478-01
+    Nome: CATIA FREIRE DE CARVALHO
+    Logradouro: JOAO SAMPAIO
+    Número: 1791
+    Bairro: S JUDAS
+  [10]
+    CPF: 071.427.578-68
+    Nome: NELSON ROCHA
+    Logradouro: JOAO SAMPAIO
+    Número: 1642
+    Bairro: S JUDAS
+  [11]
+    CPF: 308.086.198-10
+    Nome: JOSIANE AZEVEDO SOUZA
+    Logradouro: JOAO SAMPAIO
+    Número: 1733
+    Bairro: S JUDAS
+  [12]
+    CPF: 139.216.228-91
+    Nome: CARLOS CELLA
+    Logradouro: JOAO SAMPAIO
+    Número: 1748
+    Bairro: S JUDAS
+  [13]
+    CPF: 449.197.602-30
+    Nome: TEREZINHA AVELINO DOS SANTOS
+    Logradouro: JOAO SAMPAIO
+    Número: 1849
+    Bairro: S JUDAS
+  [14]
+    CPF: 002.118.048-27
+    Nome: LUIZA MARGARIDA DONDELLI
+    Logradouro: JOAO SAMPAIO
+    Número: 1617
+    Bairro: S JUDAS
+  [15]
+    CPF: 219.148.028-45
+    Nome: RAFAEL CARMELLO MORETI
+    Logradouro: JOAO SAMPAIO
+    Número: 1620
+    Bairro: S JUDAS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96994-0897
+    Nome: DEBORA CRISTINA RODRIGUES
+    Cidade: SAO PAULO
+    UF: SP
+Vivo Linhas: (5 item(s))
+  [1]
+    Telefone: (19) 2534-1613
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 02JAN2014:15:32:44
+    Cel Contato: +5519981792772
+    Complemento: CS - Casa: GARAGEM;
+    Data Retirada: 26DEC2014:15:55:30
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (19) 2533-0629
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 18AUG2014:11:23:37
+    Cel Contato: +5519981792772
+    Complemento: CS - Casa: 2;
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (19) 99681-6938
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 27JUL2015
+    Ultima Recarga: 25AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 27/07/2015
+  [4]
+    Telefone: (19) 99838-1693
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 26JUL2020
+    Ultima Recarga: 25AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 03/07/2020
+  [5]
+    Telefone: (19) 99938-1321
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 28MAR2020
+    Ultima Recarga: 25AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 20/03/2020
+E-mails: (5 item(s))
+  - debora.rodrigues01@hotmail.com
+  - debyiantrocandoreceitinhas@gmail.com
+  - paiva486@itelefonica.com.br
+  - moniquehxc@yahoo.com.br
+  - paiva486@vivointernetdiscada.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 600
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 851.27
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (19) 2534-1613
+    Ddd: 19
+    Número: 25341613
+    Tipo: FIXO
+    Data Inclusao: 01/07/2014
+    Data Informacao: 11/10/2014
+    Classificacao: B
+  [2]
+    Telefone: (19) 3302-0711
+    Ddd: 19
+    Número: 33020711
+    Tipo: FIXO
+    Data Inclusao: 06/01/2015
+    Data Informacao: 30/12/2014
+    Classificacao: D
+  [3]
+    Telefone: (16) 3322-5699
+    Ddd: 16
+    Número: 33225699
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: B
+  [4]
+    Telefone: (19) 98179-2772
+    Ddd: 19
+    Número: 981792772
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: A1
+  [5]
+    Telefone: (19) 98441-2159
+    Ddd: 19
+    Número: 984412159
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Processos: (13 item(s))
+  [1]
+    Número: 1111373-25.2014.8.26.0100
+    Classe: Usucapião
+    Assunto: Usucapião Especial (Constitucional)
+    Vara: 2ª Vara de Registros Públicos
+    Data: 05/11/2014
+    Partes: (1 item(s))
+      [1]
+        Papel: TitDomin
+        Nome: DÉBORA CRISTINA RODRIGUES ALVES,
+  [2]
+    Número: 0171115-66.2012.8.26.0100
+    Classe: Ação de Exigir Contas
+    Assunto: Contratos Bancários
+    Vara: 38ª Vara Cível
+    Data: 24/07/2012
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Debora Cristina Rodrigues
+  [3]
+    Número: 0067648-61.2011.8.26.0050
+    Classe: Procedimento Especial da Lei Antitóxicos
+    Assunto: Tráfico de Drogas e Condutas Afins
+    Vara: 27ª Vara Criminal
+    Data: 17/08/2011
+    Partes: (1 item(s))
+      [1]
+        Papel: Ré
+        Nome: Debora Cristina Rodrigues dos Santos
+  [4]
+    Número: 0050119-78.2001.8.26.0050
+    Classe: Outros Feitos não Especificados
+    Vara: 10ª Vara Criminal
+    Data: 11/07/2001
+    Partes: (1 item(s))
+      [1]
+        Papel: Ré
+        Nome: Débora Cristina Rodrigues Barbosa
+  [5]
+    Número: 0008529-72.2014.8.26.0016
+    Classe: Reclamação Pré-processual
+    Assunto: Expediente Pré-Processual
+    Vara: Juizado Especial Cível Digital
+    Data: 20/08/2014
+    Partes: (1 item(s))
+      [1]
+        Papel: Reclamante
+        Nome: Debora Cristina Rodrigues Pereira
+  [6]
+    Número: 1567372-44.2022.8.26.0090
+    Classe: Execução Fiscal
+    Assunto: IPTU/ Imposto Predial e Territorial Urbano
+    Vara: Vara das Execuções Fiscais Municipais
+    Data: 24/09/2022
+    Partes: (1 item(s))
+      [1]
+        Papel: Exectda
+        Nome: Debora Cristina de Moura Rodrigues
+  [7]
+    Número: 1629857-17.2021.8.26.0090
+    Classe: Execução Fiscal
+    Assunto: IPTU/ Imposto Predial e Territorial Urbano
+    Vara: Vara das Execuções Fiscais Municipais
+    Data: 26/07/2021
+    Partes: (1 item(s))
+      [1]
+        Papel: Exectda
+        Nome: Debora Cristina de Moura Rodrigues
+  [8]
+    Número: 1564123-22.2021.8.26.0090
+    Classe: Execução Fiscal
+    Assunto: IPTU/ Imposto Predial e Territorial Urbano
+    Vara: Vara das Execuções Fiscais Municipais
+    Data: 07/06/2021
+    Partes: (1 item(s))
+      [1]
+        Papel: Exectda
+        Nome: Debora Cristina de Moura Rodrigues
+  [9]
+    Número: 1002185-36.2025.8.26.0028
+    Classe: Inventário
+    Assunto: Inventário e Partilha
+    Vara: 1ª Vara
+    Data: 09/10/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Invtante
+        Nome: Débora Cristina Jonas Rodrigues Marcondes
+  [10]
+    Número: 1000486-10.2025.8.26.0028
+    Classe: Procedimento Comum Cível
+    Assunto: Alteração de Coisa Comum
+    Vara: 1ª Vara
+    Data: 17/03/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Débora Cristina Jonas Rodrigues Marcondes
+  [11]
+    Número: 1001927-42.2021.8.26.0068
+    Classe: Execução de Título Extrajudicial
+    Assunto: Penhora / Depósito / Avaliação
+    Vara: 4ª Vara Cível
+    Data: 15/02/2021
+    Partes: (1 item(s))
+      [1]
+        Papel: TerIntCer
+        Nome: Débora Cristina de Moura Rodrigues
+  [12]
+    Número: 1526415-73.2018.8.26.0176
+    Classe: Execução Fiscal
+    Assunto: Impostos
+    Vara: SAF - Serviço de Anexo Fiscal
+    Data: 02/02/2018
+    Partes: (1 item(s))
+      [1]
+        Papel: Exectdo
+        Nome: Debora Cristina Rodrigues Branco
+  [13]
+    Número: 1000830-88.2024.8.26.0201
+    Classe: Ação de Exigir Contas
+    Assunto: Espécies de Contratos
+    Vara: 3ª Vara
+    Data: 14/03/2024
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Debora Cristina Rodrigues Muccillo
+Occupation Code: 513420
+Occupation Name: Barman
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

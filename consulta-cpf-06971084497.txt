@@ -1,0 +1,303 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06971084497
+Data/Hora:  03/10/2026, 18:02:02
+Tempo API:  389ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 069.710.844-97
+Nome: GEYMERSON ERNANDES FLORENCIO SANTOS
+Primeiro Nome: GEYMERSON
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 24/09/1986
+Nome da Mãe: TEREZINHA FLORENCIO SANTOS
+Mosaic: D13
+Ocupação: Administrador
+Score:
+  Value: 522
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 1605
+Income Bracket: 2
+Cbo: 142305
+Corporate Share Pct: 2
+Endereço:
+  Tipo: PRACA
+  Rua: MELO BASTOS
+  Bairro: CENTRO
+  Cidade: CUPIRA
+  Estado: PERNAMBUCO
+  CEP: 55460-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: PRACA
+    Rua: MELO BASTOS
+    Bairro: CENTRO
+    Cidade: CUPIRA
+    Estado: PERNAMBUCO
+    CEP: 55460-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DE CARUARU
+    Tipo: R
+    Número: 170
+    Bairro: SALGADO
+    Cidade: CARUARU
+    Estado: PE
+    CEP: 55018-370
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: AGUAS BELAS
+    Tipo: R
+    Número: 76
+    Complemento: C
+    Bairro: BOA VISTA
+    Cidade: CARUARU
+    Estado: PE
+    CEP: 55038-480
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: 0000076
+    Número: AGUAS BELAS
+    Bairro: BOA VISTA
+    Cidade: CARUARU
+    Estado: PE
+    CEP: 55038-480
+    Fonte: ASSECC
+  [5]
+    Tipo: AGUAS BELAS
+    Rua: R
+    Número: 0000076
+    Bairro: BOA VISTA
+    Cidade: CARUARU
+    Estado: PE
+    CEP: 55038-480
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Mosaic: D13
+    Mosaic New: G24
+    Mosaic Secondary: G23
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: DE CARUARU
+      Número: 170
+      Bairro: SALGADO
+      Cidade: CARUARU
+      Estado: PE
+      CEP: 55018-370
+      Date Added: 12/11/2015
+    [2]
+      Tipo: R
+      Rua: AGUAS BELAS
+      Número: 76
+      Complemento: C
+      Bairro: BOA VISTA
+      Cidade: CARUARU
+      Estado: PE
+      CEP: 55038-480
+      Date Added: 21/01/2019
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 991367515
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [2]
+      Telefone: 37225202
+      Ddd: 81
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/01/2016
+      Info Date: 07/05/2018
+  Score:
+    CSB8: 144
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 522
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 583.896.444-87
+      Nome: TEREZINHA FLORENCIO SANTOS
+      Vinculo: MAE
+  Pis: 16232967144
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1354.26
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (6 item(s))
+  - (81) 99580-1502
+  - (81) 99136-7452
+  - (81) 99285-3960
+  - (81) 99313-1123
+  - (81) 99136-7515
+  - (81) 3722-5202
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 042.972.504-38
+    Nome: LUIS ANTONIO DA SILVA
+    Logradouro: DE CARUARU
+    Número: 118
+    Bairro: SALGADO
+  [2]
+    CPF: 418.733.194-87
+    Nome: MARLUCE SILVA GOMES
+    Logradouro: DE CARUARU
+    Número: 114
+    Bairro: SALGADO
+  [3]
+    CPF: 031.915.404-15
+    Nome: EDMILSON LOURENCO DOS SANTOS
+    Logradouro: DE CARUARU
+    Número: 225
+    Bairro: SALGADO
+  [4]
+    CPF: 008.063.854-64
+    Nome: WESTONES DE MIRANDA VALDEVINO
+    Logradouro: DE CARUARU
+    Número: 277
+    Bairro: SALGADO
+  [5]
+    CPF: 071.954.074-70
+    Nome: BRUNO HENRIQUE SOUSA DA SILVA
+    Logradouro: DE CARUARU
+    Número: 9
+    Bairro: SALGADO
+  [6]
+    CPF: 066.113.384-20
+    Nome: MANOEL JOSE DA SILVA
+    Logradouro: DE CARUARU
+    Número: 78
+    Bairro: SALGADO
+  [7]
+    CPF: 066.232.734-92
+    Nome: ELAYNE CRISTINA DA SILVA
+    Logradouro: DE CARUARU
+    Número: 264
+    Bairro: SALGADO
+  [8]
+    CPF: 035.311.084-17
+    Nome: ALMIR TAVARES DA SILVA
+    Logradouro: DE CARUARU
+    Número: 178
+    Bairro: SALGADO
+  [9]
+    CPF: 021.275.414-99
+    Nome: CECILIA AMARA DA SILVA ANDRADE
+    Logradouro: DE CARUARU
+    Número: 250
+    Bairro: SALGADO
+  [10]
+    CPF: 115.922.478-14
+    Nome: EDSON JOSE DA SILVA
+    Logradouro: DE CARUARU
+    Número: 153
+    Bairro: SALGADO
+  [11]
+    CPF: 495.633.864-34
+    Nome: MARIA NAZARETE PEREIRA DA SILVA
+    Logradouro: DE CARUARU
+    Número: 109
+    Bairro: SALGADO
+  [12]
+    CPF: 914.136.134-20
+    Nome: SANDRO MAGNO NEPOMUCENO DA SILVA
+    Logradouro: DE CARUARU
+    Número: 193
+    Bairro: SALGADO
+  [13]
+    CPF: 005.301.216-03
+    Nome: CANDIDA VALERIA DE SOUSA CARDOSO
+    Logradouro: DE CARUARU
+    Número: 210
+    Bairro: SALGADO
+  [14]
+    CPF: 018.614.494-61
+    Nome: CHRISTIANO CALIXTO DE MELO
+    Logradouro: DE CARUARU
+    Número: 49
+    Bairro: SALGADO
+  [15]
+    CPF: 084.569.634-37
+    Nome: TALLITHA MORGANA ALVES DA SILVA
+    Logradouro: DE CARUARU
+    Número: 214
+    Bairro: SALGADO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (81) 99580-1502
+    Nome: GEYMERSON ERNANDES FLORENCIO SANTOS
+    Cidade: CARUARU
+    UF: PE
+  [2]
+    Telefone: (81) 99136-7452
+    Nome: GEYMERSON ERNANDES FLORENCIO SANTOS
+    Cidade: CARUARU
+    UF: PE
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (81) 99285-3960
+    Nome: GEYMERSON ERNANDES FLORENCIO SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (81) 99313-1123
+    Nome: GEYMERSON ERNANDES FLORENCIO SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1605
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1354.26
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (81) 99136-7515
+    Ddd: 81
+    Número: 991367515
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [2]
+    Telefone: (81) 3722-5202
+    Ddd: 81
+    Número: 37225202
+    Tipo: FIXO
+    Data Inclusao: 15/01/2016
+    Data Informacao: 07/05/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

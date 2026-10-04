@@ -1,0 +1,496 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  31773971808
+Data/Hora:  03/10/2026, 21:51:15
+Tempo API:  727ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 317.739.718-08
+Nome: LUCIENE BATISTA
+Primeiro Nome: LUCIENE
+Sobrenome: BATISTA
+Sexo: Feminino
+Data de Nascimento: 25/12/1984
+Nome da Mãe: MARIA DA CONCEICAO BATISTA OLIVEIRA
+Nome do Pai: ANTONIO FERNANDO DE ALMEIDA
+Voter Id: 308394290116
+Mosaic: F20
+Ocupação: Operador de caixa
+Score:
+  Value: 237
+  Range: ALTO
+E-mail: ldark870@gmail.com
+Additional Emails: (2 item(s))
+  - ldark870@gmail.com
+  - lucas_2007_84@hotmail.com
+Federal Status: REGULAR
+Renda: 1739
+Income Bracket: 2
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: SELMA KURTZ
+  Número: 462
+  Bairro: JARDIM MARIA LUIZA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04434-010
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SELMA KURTZ
+    Número: 462
+    Bairro: JARDIM MARIA LUIZA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04434-010
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PADRE LINCOLN LEME
+    Número: 340
+    Bairro: CIDADE PLANEJADA II
+    Cidade: BRAGANCA PAULISTA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: JORGE CASSIANO
+    Tipo: AV
+    Número: 262
+    Bairro: JD AGUAS CLARAS
+    Cidade: BRAGANCA PAULISTA
+    Estado: SP
+    CEP: 12929-060
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: LINCOLN LEME
+    Tipo: R
+    Número: 340
+    Complemento: C
+    Bairro: CIDADE PLANEJADA II
+    Cidade: BRAGANCA PAULISTA
+    Estado: SP
+    CEP: 12922-760
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: AMAZONAS
+    Tipo: R
+    Número: 564
+    Complemento: CS
+    Bairro: PRQ DOS ESTADOS
+    Cidade: BRAGANCA PAULISTA
+    Estado: SP
+    CEP: 12922-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: JACINTO DOMINGUES
+    Tipo: PC
+    Número: 43
+    Bairro: CENTRO
+    Cidade: BRAGANCA PAULISTA
+    Estado: SP
+    CEP: 12900-170
+    Data Atualizacao: 10/03/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: AV
+    Rua: A
+    Bairro: MARCOS FREIRE II
+    Cidade: NOSSA SENHORA DO SOCORRO
+    Estado: SE
+    CEP: 00000-000
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: PADRE LINCOLN LEME
+    Número: 0000340
+    Bairro: CIDADE PLANEJADA II
+    Cidade: BRAGANCA PAULISTA
+    Estado: SP
+    CEP: 12922-760
+    Fonte: ASSECC
+  [9]
+    Tipo: LINCOLN LEME
+    Rua: R
+    Número: 0000340
+    Bairro: CIDADE PLANEJADA II
+    Cidade: BRAGANCA PAULISTA
+    Estado: 12922760
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: SELMA KURTZ
+    Número: 0000462
+    Bairro: JARDIM MARIA LUIZA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04434-010
+    Fonte: ASSECC
+  [11]
+    Rua: RUA R PE LINCOLN LEME 340 C
+    Número: 340
+    Complemento: C
+    Bairro: CIDADE PLANEJADA II
+    Estado: SP
+    CEP: 12922-760
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: YAMAHA
+      Modelo: CRYPTON T105E
+      Ano: 1999
+    [2]
+      Marca: GM
+      Modelo: CORSA WIND
+      Ano: 2000
+Telefones: (12 item(s))
+  - (11) 98276-6611
+  - (11) 94711-1670
+  - (11) 94915-7457
+  - (11) 93459-9557
+  - (11) 98453-0040
+  - (11) 99597-4066
+  - (11) 99561-9140
+  - (11) 3559-9734
+  - (11) 96476-9892
+  - (11) 97552-4492
+  - (11) 99757-0239
+  - (11) 95321-1247
+Datasus Phones: (1 item(s))
+  - (11) 4031-2147
+Cidade de Nascimento: BRAGANCA PAULISTA - SP
+Cns: 700005858223901
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Info Date: 25/03/2004
+    Mosaic: F20
+    Mosaic New: D11
+    Mosaic Secondary: D12
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: JORGE CASSIANO
+      Número: 262
+      Bairro: JD AGUAS CLARAS
+      Cidade: BRAGANCA PAULISTA
+      Estado: SP
+      CEP: 12929-060
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: LINCOLN LEME
+      Número: 340
+      Complemento: C
+      Bairro: CIDADE PLANEJADA II
+      Cidade: BRAGANCA PAULISTA
+      Estado: SP
+      CEP: 12922-760
+      Date Added: 19/12/2018
+    [3]
+      Tipo: R
+      Rua: AMAZONAS
+      Número: 564
+      Complemento: CS
+      Bairro: PRQ DOS ESTADOS
+      Cidade: BRAGANCA PAULISTA
+      Estado: SP
+      CEP: 12922-000
+      Date Added: 25/08/2016
+    [4]
+      Tipo: PC
+      Rua: JACINTO DOMINGUES
+      Número: 43
+      Bairro: CENTRO
+      Cidade: BRAGANCA PAULISTA
+      Estado: SP
+      CEP: 12900-170
+      Date Added: 07/11/2011
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 35599734
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 964769892
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 975524492
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 997570239
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 953211247
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: lucas_2007_84@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+    [2]
+      E-mail: ldark870@gmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+  Score:
+    CSB8: 72
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 237
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DA CONCEICAO BATISTA OLIVEIRA
+      Vinculo: MAE
+  Pis: 12793939228
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1446.76
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 035.276.646-88
+    Nome: RENATO GOMES DO PRADO
+    Logradouro: JORGE CASSIANO
+    Número: 160
+    Bairro: JD AGUAS CLARAS
+  [2]
+    CPF: 296.377.358-79
+    Nome: LUIS FERNANDO LEME DE SOUZA
+    Logradouro: JORGE CASSIANO
+    Número: 255
+    Bairro: JD AGUAS CLARAS
+  [3]
+    CPF: 354.919.438-27
+    Nome: CARLA PRADO RIBEIRO
+    Logradouro: JORGE CASSIANO
+    Número: 396
+    Bairro: JD AGUAS CLARAS
+  [4]
+    CPF: 226.044.688-40
+    Nome: HUGO DE SOUZA SANTOS
+    Logradouro: JORGE CASSIANO
+    Número: 166
+    Bairro: JD AGUAS CLARAS
+  [5]
+    CPF: 029.854.138-69
+    Nome: MARIA LUCIA DA ROCHA SILVA
+    Logradouro: JORGE CASSIANO
+    Número: 262
+    Bairro: JD AGUAS CLARAS
+  [6]
+    CPF: 188.060.648-86
+    Nome: ELAINE CECCONELO DE OLIVEIRA DELL ORTI
+    Logradouro: JORGE CASSIANO
+    Número: 175
+    Bairro: JD AGUAS CLARAS
+  [7]
+    CPF: 298.300.498-84
+    Nome: ADILSON DE MORAES
+    Logradouro: JORGE CASSIANO
+    Número: 486
+    Bairro: JD AGUAS CLARAS
+  [8]
+    CPF: 189.165.206-06
+    Nome: HONORIO GALVAO BUENO
+    Logradouro: JORGE CASSIANO
+    Número: 498
+    Bairro: JD AGUAS CLARAS
+  [9]
+    CPF: 271.375.608-14
+    Nome: MARIA DA PIEDADE GOMES SEISDEDOS
+    Logradouro: JORGE CASSIANO
+    Número: 393
+    Bairro: JD AGUAS CLARAS
+  [10]
+    CPF: 298.990.928-19
+    Nome: VAGNER EUGENIO DOS SANTOS
+    Logradouro: JORGE CASSIANO
+    Número: 422
+    Bairro: JD AGUAS CLARAS
+  [11]
+    CPF: 292.800.168-90
+    Nome: JOSE NATALINO DE OLIVEIRA DORTA
+    Logradouro: JORGE CASSIANO
+    Número: 139
+    Bairro: JD AGUAS CLARAS
+  [12]
+    CPF: 391.626.478-81
+    Nome: RENAN APARECIDO DE LIMA SANTOS
+    Logradouro: JORGE CASSIANO
+    Número: 413
+    Bairro: JD AGUAS CLARAS
+  [13]
+    CPF: 388.082.988-84
+    Nome: ANTONIO RODRIGUES DIAS
+    Logradouro: JORGE CASSIANO
+    Número: 428
+    Bairro: JD AGUAS CLARAS
+  [14]
+    CPF: 114.253.258-58
+    Nome: TANIA SALETTI DOS SANTOS
+    Logradouro: JORGE CASSIANO
+    Número: 192
+    Bairro: JD AGUAS CLARAS
+  [15]
+    CPF: 155.890.908-73
+    Nome: NERCI APARECIDA DE AZEVEDO
+    Logradouro: JORGE CASSIANO
+    Número: 515
+    Bairro: JD AGUAS CLARAS
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (11) 93459-9557
+    Nome: LUCIENE  BATISTA
+    Cidade: NOSSA SENHORA DO SOCORRO
+    UF: SE
+  [2]
+    Telefone: (11) 98453-0040
+    Nome: LUCIENE BATISTA
+    Cidade: BRAGANCA PAULISTA
+    UF: SP
+  [3]
+    Telefone: (11) 99597-4066
+    Nome: LUIS FERNANDO BATISTA
+    Cidade: BRAGANCA PAULISTA
+    UF: 12922760
+  [4]
+    Telefone: (11) 94711-1670
+    Nome: LUCIENE BATISTA
+    Cidade: BRAGANCA PAULISTA
+    UF: SP
+  [5]
+    Telefone: (11) 98276-6611
+    Nome: LUIS FERNANDO BATISTA
+    Cidade: SAO PAULO
+    UF: SP
+  [6]
+    Telefone: (11) 94915-7457
+    Nome: LUIZ FERNANDO BATISTA
+    Cidade: [empty]
+    UF: SP
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 98276-6611
+    Nome: LUIS FERNANDO BATISTA
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 94915-7457
+    Nome: LUIZ FERNANDO BATISTA
+    Cidade: BRAGANCA PAULISTA
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 99561-9140
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 09JUL2020
+    Ultima Recarga: 11AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 09/07/2020
+E-mails: (2 item(s))
+  - ldark870@gmail.com
+  - lucas_2007_84@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1739
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1446.76
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 3559-9734
+    Ddd: 11
+    Número: 35599734
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: D
+  [2]
+    Telefone: (11) 96476-9892
+    Ddd: 11
+    Número: 964769892
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (11) 97552-4492
+    Ddd: 11
+    Número: 975524492
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 99757-0239
+    Ddd: 11
+    Número: 997570239
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (11) 95321-1247
+    Ddd: 11
+    Número: 953211247
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Occupation Code: 421125
+Occupation Name: Operador de caixa
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

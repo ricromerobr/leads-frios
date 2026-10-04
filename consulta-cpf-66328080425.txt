@@ -1,0 +1,486 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  66328080425
+Data/Hora:  03/10/2026, 14:48:46
+Tempo API:  246ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 663.280.804-25
+Nome: EDIMILSON JOSE FERREIRA DA SILVA
+Primeiro Nome: EDIMILSON
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 14/08/1971
+Nome da Mãe: VERA MARIA F DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 365319168
+Rg State: AL
+Mosaic: F23
+Ocupação: Açougueiro
+Score:
+  Value: 376
+  Range: ALTO
+E-mail: edimilsonfereira2@gmail.com
+Additional Emails: (3 item(s))
+  - edimilsonfereira2@gmail.com
+  - edimilsonjoseferreira2@gmail.com
+  - EDIMILSONJOSEFERREIRA2@GMAIL.COM
+Federal Status: REGULAR
+Renda: 1311
+Income Bracket: 2
+Cbo: 848510
+Endereço:
+  Tipo: RUA
+  Rua: ADELARDO GURJAO COTRIM
+  Número: 69
+  Complemento: CASA 1
+  Bairro: JARDIM ANGELICA
+  Cidade: CARAPICUIBA
+  Estado: SAO PAULO
+  CEP: 06365-600
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ADELARDO GURJAO COTRIM
+    Número: 69
+    Complemento: CASA 1
+    Bairro: JARDIM ANGELICA
+    Cidade: CARAPICUIBA
+    Estado: SAO PAULO
+    CEP: 06365-600
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R FEICAO
+    Número: 18
+    Bairro: JACINTENHO
+    Cidade: MACEIO - AL
+    Fonte: DATASUS
+  [3]
+    Rua: Y KAKIZAKI
+    Tipo: R
+    Número: 4
+    Complemento: C
+    Bairro: VL STO ANTONIO
+    Cidade: CARAPICUIBA
+    Estado: SP
+    CEP: 06390-140
+    Data Atualizacao: 26/11/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: URATINGA
+    Tipo: R
+    Número: 177
+    Complemento: FDS
+    Bairro: VL PALMEIRAS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02933-140
+    Data Atualizacao: 18/05/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: PARANHOS
+    Tipo: R
+    Número: 18
+    Complemento: CS
+    Bairro: JACINTINHO
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57040-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: ADELARDO GURJAO COTRIM
+    Rua: R
+    Número: 0000069
+    Bairro: JARDIM ANGELICA
+    Cidade: CARAPICUIBA
+    Estado: SP
+    CEP: 06365-600
+    Fonte: ASSECC
+  [7]
+    Tipo: NAO IDENTIFICADO
+    Rua: TV SANSAO  16 BL H - 90
+    Número: 16
+    Complemento: APT 11
+    Bairro: PARQUE SAMPAIO VIANA
+    Cidade: CARAPICUIBA
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (11) 94772-6532
+  - (11) 97754-4027
+  - (11) 94015-0417
+  - (11) 94772-5945
+  - (11) 94018-2882
+  - 551940150417
+  - (11) 4778-8449
+  - (11) 4015-0417
+  - (11) 94013-7001
+  - (11) 94796-7749
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 704003388484462
+Paycom:
+  E-mail: edimilsonjoseferreira2@gmail.com
+  Data de Nascimento: 23/03/2019
+  Created At: 2019-03-23 21:45:20
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Y Kakizaki
+    Número: 4
+    Complemento: casa 1
+    Bairro: Vila Santo Antonio
+    Cidade: Carapicuiba
+    Estado: SP
+    País: BR
+    CEP: 4
+    Telephone: 551940150417
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Info Date: 08/06/1999
+    Rg State: AL
+    Mosaic: F23
+    Mosaic New: D09
+    Mosaic Secondary: C07
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: Y KAKIZAKI
+      Número: 4
+      Complemento: C
+      Bairro: VL STO ANTONIO
+      Cidade: CARAPICUIBA
+      Estado: SP
+      CEP: 06390-140
+      Date Added: 09/07/2018
+    [2]
+      Tipo: R
+      Rua: ADELARDO GURJAO COTRIM
+      Número: 69
+      Complemento: C 1
+      Bairro: JD ANGELICA
+      Cidade: CARAPICUIBA
+      Estado: SP
+      CEP: 06365-600
+      Date Added: 07/09/2016
+    [3]
+      Tipo: R
+      Rua: URATINGA
+      Número: 177
+      Complemento: FDS
+      Bairro: VL PALMEIRAS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02933-140
+      Date Added: 10/06/2008
+    [4]
+      Tipo: R
+      Rua: PARANHOS
+      Número: 18
+      Complemento: CS
+      Bairro: JACINTINHO
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57040-000
+      Date Added: 25/08/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 47788449
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/09/2016
+      Info Date: 18/06/2016
+    [2]
+      Telefone: 977544027
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 08/11/2017
+    [3]
+      Telefone: 40150417
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A1
+      Date Added: 09/07/2018
+      Info Date: 22/11/2018
+    [4]
+      Telefone: 940137001
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 947967749
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: edimilsonjoseferreira2@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [2]
+      E-mail: edimilsonfereira2@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 581
+    CSB8 FAIXA: BAIXO
+    CSBA: 376
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: VERA MARIA F DA SILVA
+      Vinculo: MAE
+  Pis: 12437403169
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 286.628.968-47
+    Nome: RONALDO AUGUSTO DE OLIVEIRA
+    Logradouro: Y KAKIZAKI
+    Número: 31
+    Bairro: VL STO ANTONIO
+  [2]
+    CPF: 298.884.888-21
+    Nome: MARLENE CICERA DOS SANTOS
+    Logradouro: Y KAKIZAKI
+    Número: 63
+    Bairro: VL STO ANTONIO
+  [3]
+    CPF: 008.085.778-75
+    Nome: JOAO PEDRO DE OLIVEIRA
+    Logradouro: Y KAKIZAKI
+    Número: 11
+    Bairro: VL STO ANTONIO
+  [4]
+    CPF: 269.592.368-60
+    Nome: CARLOS AUGUSTO LOPES
+    Logradouro: Y KAKIZAKI
+    Número: 4
+    Bairro: VL STO ANTONIO
+  [5]
+    CPF: 343.889.098-40
+    Nome: GRACIELE AGRIPINO LEANDRO DE OLIVEIRA
+    Logradouro: Y KAKIZAKI
+    Número: 9
+    Bairro: VL STO ANTONIO
+  [6]
+    CPF: 031.662.858-14
+    Nome: ALMIR LOPES PAES
+    Logradouro: Y KAKIZAKI
+    Número: 9
+    Bairro: VL STO ANTONIO
+  [7]
+    CPF: 007.383.348-71
+    Nome: ADAIAS GERALDO SANTOS DE SOUZA
+    Logradouro: Y KAKIZAKI
+    Número: 3
+    Bairro: VL STO ANTONIO
+  [8]
+    CPF: 143.476.178-95
+    Nome: JOSE VIEIRA DA SILVA FILHO
+    Logradouro: Y KAKIZAKI
+    Número: 569
+    Bairro: VL STO ANTONIO
+  [9]
+    CPF: 311.116.598-18
+    Nome: BIANCA DE BRITO SILVA
+    Logradouro: Y KAKIZAKI
+    Número: 13
+    Bairro: VL STO ANTONIO
+  [10]
+    CPF: 144.228.278-98
+    Nome: JOSE ERIVAN FERREIRA DA SILVA
+    Logradouro: Y KAKIZAKI
+    Número: 47
+    Bairro: VL STO ANTONIO
+  [11]
+    CPF: 303.012.998-54
+    Nome: ANA LUCIA SILVA DE ANDRADE
+    Logradouro: Y KAKIZAKI
+    Número: 74
+    Bairro: VL STO ANTONIO
+  [12]
+    CPF: 977.670.344-53
+    Nome: MARIA GORETE SILVA
+    Logradouro: Y KAKIZAKI
+    Número: 78
+    Bairro: VL STO ANTONIO
+  [13]
+    CPF: 288.294.598-10
+    Nome: CLEUZA MARIA DA SILVA
+    Logradouro: Y KAKIZAKI
+    Número: 20
+    Bairro: VL STO ANTONIO
+  [14]
+    CPF: 391.997.218-05
+    Nome: ELIVALDO LUIZ DA SILVA FILHO
+    Logradouro: Y KAKIZAKI
+    Número: 74
+    Bairro: VL STO ANTONIO
+  [15]
+    CPF: 323.361.578-70
+    Nome: CINTIA MARQUES PRATES
+    Logradouro: Y KAKIZAKI
+    Número: 88
+    Bairro: VL STO ANTONIO
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (11) 97754-4027
+    Nome: EDIMILSON JOSE FERREIRA DA SILVA
+    Cidade: CARAPICUIBA
+    UF: SP
+  [2]
+    Telefone: (11) 94772-5945
+    Nome: EDIMILSON JOSE FERREIRA DA SILVA
+    Cidade: CARAPICUIBA
+    UF: SP
+  [3]
+    Telefone: (11) 94015-0417
+    Nome: EDIMILSON JOSE FERREIRA DA SILVA
+    Cidade: CARAPICUIBA
+    UF: SP
+  [4]
+    Telefone: (11) 94018-2882
+    Nome: EDIMILSON JOSE FERREIRA DA SILVA
+    Cidade: CARAPICUIBA
+    UF: SP
+  [5]
+    Telefone: (11) 94772-6532
+    Nome: EDIMILSON JOSE FERREIRA DA SILVA
+    Cidade: CARAPICUIBA
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 97754-4027
+    Nome: EDIMILSON JOSE FERREIRA DA SILVA
+    Cidade: CARAPICUIBA
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 1425208
+    Operadora: 533
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 22/11/2019
+    Tempo Base: 8
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201911
+    Geo:
+      Ibge Municipio: 3510609
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 14/08/1971
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 2452
+      Classe Social: C2
+      Score: 677
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 452
+        Net: 334
+        Ctv: 324
+        Faixa Cmv: 435 - 547
+        Faixa Net: 286 - 348
+        Faixa Ctv: 1 - 453
+        Risco Cmv: MEDIO
+        Risco Net: ALTO
+        Risco Ctv: CRÍTICO
+        Idade: 49
+E-mails: (2 item(s))
+  - edimilsonfereira2@gmail.com
+  - edimilsonjoseferreira2@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1311
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Media Familiar:
+    Valor: 2452
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4778-8449
+    Ddd: 11
+    Número: 47788449
+    Tipo: FIXO
+    Data Inclusao: 07/09/2016
+    Data Informacao: 18/06/2016
+    Classificacao: D
+  [2]
+    Telefone: (11) 97754-4027
+    Ddd: 11
+    Número: 977544027
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: C2
+  [3]
+    Telefone: (11) 4015-0417
+    Ddd: 11
+    Número: 40150417
+    Tipo: FIXO
+    Data Inclusao: 09/07/2018
+    Data Informacao: 22/11/2018
+    Classificacao: A1
+  [4]
+    Telefone: (11) 94013-7001
+    Ddd: 11
+    Número: 940137001
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 94796-7749
+    Ddd: 11
+    Número: 947967749
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 848510
+Occupation Name: Açougueiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,400 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08331768701
+Data/Hora:  03/10/2026, 22:43:26
+Tempo API:  389ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 083.317.687-01
+Nome: RENATA APARECIDA DA ROCHA DE SOUZA
+Primeiro Nome: RENATA
+Sobrenome: SOUZA
+Sexo: Feminino
+Data de Nascimento: 06/11/1976
+Nome da Mãe: SONIA APARECIDA GUIMARAES DA ROCHA DE SOUZA
+Voter Id: 095524620329
+Mosaic: D13
+Ocupação: Diretor de instituição educacional da área privada
+Score:
+  Value: 670
+  Range: BAIXO
+E-mail: jromero@globo.com
+Additional Emails: (2 item(s))
+  - jromero@globo.com
+  - renatainsa@globomail.com
+Federal Status: REGULAR
+Renda: 2293
+Income Bracket: 3
+Cbo: 131305
+Endereço:
+  Tipo: TRAVESSA
+  Rua: DIAS PEREIRA
+  Complemento: NR 16 AP 201
+  Bairro: PIEDADE
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 20745-240
+All Addresses: (5 item(s))
+  [1]
+    Tipo: TRAVESSA
+    Rua: DIAS PEREIRA
+    Complemento: NR 16 AP 201
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 20745-240
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DIAS PEREIRA
+    Tipo: TV
+    Número: 16
+    Complemento: AP 2 1
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20745-240
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: TV
+    Rua: DIAS PEREIRA
+    Número: 0000016
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 02074-540
+    Fonte: ASSECC
+  [4]
+    Tipo: DIAS PEREIRA
+    Rua: TV
+    Número: 0000016
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20745-240
+    Fonte: ASSECC
+  [5]
+    Rua: TV DIAS PEREIRA
+    Número: 16
+    Bairro: PIEDADE
+    Estado: RJ
+    CEP: 20745-240
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (21) 3274-4226
+  - (21) 97233-9698
+  - (21) 97564-6359
+  - (21) 99445-2645
+  - (21) 99528-7064
+  - (21) 98667-1176
+  - (21) 2593-4674
+  - (21) 3271-6291
+  - (21) 99111-6081
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/05/2019
+    Info Date: 27/11/2007
+    Mosaic: D13
+    Mosaic New: A02
+    Mosaic Secondary: E17
+    Income Bracket Id: 4
+  Endereços: (1 item(s))
+    [1]
+      Tipo: TV
+      Rua: DIAS PEREIRA
+      Número: 16
+      Complemento: AP 2 1
+      Bairro: PIEDADE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20745-240
+      Date Added: 11/08/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 25934674
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 10/06/2009
+    [2]
+      Telefone: 32744226
+      Ddd: 21
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 18/06/2007
+      Info Date: 23/07/2015
+    [3]
+      Telefone: 32716291
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 20/07/2017
+    [4]
+      Telefone: 972339698
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [5]
+      Telefone: 991116081
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: renatainsa@globomail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: jromero@globo.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 512
+    CSB8 FAIXA: BAIXO
+    CSBA: 670
+    CSBA FAIXA: BAIXO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 243.013.967-72
+      Nome: JORGE SOUZA GUIMARAES
+      Vinculo: TIA(O)
+    [2]
+      CPF: 854.165.687-04
+      Nome: SONIA APARECIDA GUIMARAES DA ROCHA DE SOUZA
+      Vinculo: MAE
+    [3]
+      CPF: 272.475.207-44
+      Nome: UBIRASY DE SOUZA GUIMARAES
+      Vinculo: AVO
+    [4]
+      CPF: 345.104.357-20
+      Nome: JOSE ROMERO DA ROCHA DE SOUZA
+      Vinculo: PAI
+    [5]
+      CPF: 5644306763
+      Nome: LUCIANA APARECIDA DA ROCHA DE SOUZA
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2293.28
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 072.565.207-19
+    Nome: MARCIO REBELO DA ROCHA
+    Logradouro: DIAS PEREIRA
+    Número: 27
+    Bairro: PIEDADE
+  [2]
+    CPF: 012.109.657-20
+    Nome: CARLA MARTINS MONTEIRO
+    Logradouro: DIAS PEREIRA
+    Número: 15
+    Bairro: PIEDADE
+  [3]
+    CPF: 021.616.907-01
+    Nome: ROBSON GONCALVES PERALTA
+    Logradouro: DIAS PEREIRA
+    Número: 24
+    Bairro: PIEDADE
+  [4]
+    CPF: 033.084.036-33
+    Nome: HELIO DIAS FERREIRA
+    Logradouro: DIAS PEREIRA
+    Número: 27
+    Bairro: PIEDADE
+  [5]
+    CPF: 459.668.777-34
+    Nome: JUSSARA DE FATIMA LIZARDO DE CARVALHO
+    Logradouro: DIAS PEREIRA
+    Número: 9
+    Bairro: PIEDADE
+  [6]
+    CPF: 462.401.107-44
+    Nome: EDUARDO DARIO MARTINEZ RODRIGUEZ
+    Logradouro: DIAS PEREIRA
+    Número: 24
+    Bairro: PIEDADE
+  [7]
+    CPF: 829.445.987-91
+    Nome: CLAUDIO ALVES GUIMARAES
+    Logradouro: DIAS PEREIRA
+    Número: 16
+    Bairro: PIEDADE
+  [8]
+    CPF: 102.745.377-53
+    Nome: ANTONIO CARLOS TEIXEIRA
+    Logradouro: DIAS PEREIRA
+    Número: 17
+    Bairro: PIEDADE
+  [9]
+    CPF: 057.047.447-70
+    Nome: VERONICA DA SILVA CRUZ
+    Logradouro: DIAS PEREIRA
+    Número: 26
+    Bairro: PIEDADE
+  [10]
+    CPF: 082.392.297-94
+    Nome: LADEZU FELIPE DE LIRA
+    Logradouro: DIAS PEREIRA
+    Número: 29
+    Bairro: PIEDADE
+  [11]
+    CPF: 492.671.917-72
+    Nome: AUGUSTO LUIZ LESSA DE ARAUJO
+    Logradouro: DIAS PEREIRA
+    Número: 24
+    Bairro: PIEDADE
+  [12]
+    CPF: 003.630.657-68
+    Nome: ALBERTO JOSE DA SILVEIRA
+    Logradouro: DIAS PEREIRA
+    Número: 8
+    Bairro: PIEDADE
+  [13]
+    CPF: 185.456.967-87
+    Nome: ALMIR SIMOES
+    Logradouro: DIAS PEREIRA
+    Número: 6
+    Bairro: PIEDADE
+  [14]
+    CPF: 492.671.917-72
+    Nome: AUGUSTO LUIZ LESSA DE ARAUJO
+    Logradouro: DIAS PEREIRA
+    Número: 24
+    Bairro: PIEDADE
+  [15]
+    CPF: 020.456.647-91
+    Nome: DINAH TANGERINI
+    Logradouro: DIAS PEREIRA
+    Número: 12
+    Bairro: PIEDADE
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (21) 97233-9698
+    Nome: RENATA APARECIDA  APARECIDA DA ROCHA DE SOUZA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [2]
+    Telefone: (21) 99528-7064
+    Nome: RENATA APARECIDA APARECIDA DA ROCHA DE SOUZA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [3]
+    Telefone: (21) 98667-1176
+    Nome: RENATA APARECIDA DA ROCHA DE SOUSA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [4]
+    Telefone: (21) 99445-2645
+    Nome: RENATA APARECIDA DA ROCHA DE SOUZA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [5]
+    Telefone: (21) 97564-6359
+    Nome: RENATA APARECIDA DA ROCHA DE SOUZA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (21) 97233-9698
+    Tipo: pos
+    Status Linha: SUSPENS�O PARCIAL
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (21) 99528-7064
+    Plano: PF_POS_PURO
+    Data Instalacao: 18/03/2017
+    Flag Divida: 1
+    Maior Atraso: -8
+    Menor Atraso: -8
+    Valor Fatura: 136.85
+    Mes Referencia: 202009
+E-mails: (2 item(s))
+  - jromero@globo.com
+  - renatainsa@globomail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2293
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2293.28
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 2593-4674
+    Ddd: 21
+    Número: 25934674
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 10/06/2009
+    Classificacao: D
+  [2]
+    Telefone: (21) 3274-4226
+    Ddd: 21
+    Número: 32744226
+    Tipo: FIXO
+    Data Inclusao: 18/06/2007
+    Data Informacao: 23/07/2015
+    Classificacao: A0
+  [3]
+    Telefone: (21) 3271-6291
+    Ddd: 21
+    Número: 32716291
+    Tipo: FIXO
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (21) 97233-9698
+    Ddd: 21
+    Número: 972339698
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (21) 99111-6081
+    Ddd: 21
+    Número: 991116081
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+Occupation Code: 131305
+Occupation Name: Diretor de instituição educacional da área privada
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

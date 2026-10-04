@@ -1,0 +1,435 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  29784243890
+Data/Hora:  03/10/2026, 23:28:36
+Tempo API:  715ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 297.842.438-90
+Nome: ODETE PEREIRA DUARTE ARAUJO
+Primeiro Nome: ODETE
+Sobrenome: ARAUJO
+Sexo: Feminino
+Data de Nascimento: 21/08/1978
+Nome da Mãe: GUILHERMINA FERREIRA DUARTE
+Nome do Pai: ERODITO PEREIRA DOS REIS
+RG: 35163578
+Rg Issuer: 10/MG
+Rg State: MG
+Voter Id: 115958950299
+Mosaic: J35
+Score:
+  Value: 562
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 512
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: RIO DO PEIXE
+  Bairro: LAURO FONTORA
+  Cidade: CAMPO FLORIDO
+  Estado: MINAS GERAIS
+  CEP: 38130-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: RIO DO PEIXE
+    Bairro: LAURO FONTORA
+    Cidade: CAMPO FLORIDO
+    Estado: MINAS GERAIS
+    CEP: 38130-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO PRASO
+    Número: 510
+    Bairro: JURUPEBA
+    Cidade: PALESTINA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO PRADO
+    Tipo: R
+    Número: 2403
+    Bairro: CENTRO
+    Cidade: PALESTINA
+    Estado: SP
+    CEP: 15470-000
+    Data Atualizacao: 09/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ANTONIO LUIZ
+    Tipo: R
+    Número: 370
+    Bairro: JURUPEBA
+    Cidade: PALESTINA
+    Estado: SP
+    CEP: 15470-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: PAULOS
+    Tipo: R
+    Número: 1391
+    Bairro: CENTRO
+    Cidade: PALESTINA
+    Estado: SP
+    CEP: 15470-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: JULIO DE RASS
+    Tipo: R
+    Número: 26
+    Bairro: CENTRO
+    Cidade: CAMPO FLORIDO
+    Estado: MG
+    CEP: 38130-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 1388
+    Bairro: CENTRO
+    Cidade: NOVA GRANADA
+    Estado: SP
+    CEP: 15440-000
+    Data Atualizacao: 16/02/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Rua: RUA RIO DO PEIXE
+    Número: 26
+    Bairro: LAURO FONTORA
+    Estado: SP
+    CEP: 38130-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Cns: 704200296964684
+Rg Date: 20/06/1997
+Race: AMARELA
+Telefones: (8 item(s))
+  - +55 (17) 99757-5830
+  - 551732933117
+  - (17) 99774-5753
+  - (17) 99669-8334
+  - (17) 3293-1732
+  - (79) 99210-3107
+  - (17) 99716-9508
+  - (17) 98818-5415
+Datasus Phones: (2 item(s))
+  - (17) 99757-5830
+  - (17) 3293-3117
+Cidade de Nascimento: NOVO CRUZEIRO - MG
+Rg Issue Date: 866775600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/11/2019
+    Mosaic: J35
+    Mosaic New: I31
+    Mosaic Secondary: I30
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO PRADO
+      Número: 2403
+      Bairro: CENTRO
+      Cidade: PALESTINA
+      Estado: SP
+      CEP: 15470-000
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: ANTONIO LUIZ
+      Número: 370
+      Bairro: JURUPEBA
+      Cidade: PALESTINA
+      Estado: SP
+      CEP: 15470-000
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: PAULOS
+      Número: 1391
+      Bairro: CENTRO
+      Cidade: PALESTINA
+      Estado: SP
+      CEP: 15470-000
+      Date Added: 29/04/2011
+    [4]
+      Tipo: R
+      Rua: JULIO DE RASS
+      Número: 26
+      Bairro: CENTRO
+      Cidade: CAMPO FLORIDO
+      Estado: MG
+      CEP: 38130-000
+      Date Added: 25/08/2016
+    [5]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 1388
+      Bairro: CENTRO
+      Cidade: NOVA GRANADA
+      Estado: SP
+      CEP: 15440-000
+      Date Added: 19/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32931732
+      Ddd: 17
+      Tipo: 2
+      Classificacao: D2
+      Date Added: 10/05/2011
+      Info Date: 04/05/2011
+    [2]
+      Telefone: 992103107
+      Ddd: 79
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2014
+      Info Date: 30/09/2013
+    [3]
+      Telefone: 997169508
+      Ddd: 17
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 997745753
+      Ddd: 17
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/05/2017
+    [5]
+      Telefone: 988185415
+      Ddd: 17
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+  Score:
+    CSB8: 833
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 562
+    CSBA FAIXA: BAIXO
+  Parentes: (10 item(s))
+    [1]
+      CPF: 331.843.348-99
+      Nome: MISAEL PEREIRA DUARTE
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 319.944.168-82
+      Nome: BENEDITA FRANCISCA BARBINO ARAUJO
+      Vinculo: SOGRA
+    [3]
+      CPF: 8688393613
+      Nome: MARTA PEREIRA DUARTE
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 3659041637
+      Nome: DANIEL PEREIRA DUARTE
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 1660441641
+      Nome: EUGENIO REIS FERREIRA DUARTE
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 367.523.578-54
+      Nome: LUANA FERREIRA ARAUJO
+      Vinculo: FILHA(O)
+    [7]
+      CPF: 202.700.648-69
+      Nome: JOAO ARAUJO
+      Vinculo: CONJUGE
+    [8]
+      CPF: 386.660.978-76
+      Nome: LILIAN PEREIRA DUARTE
+      Vinculo: IRMA(O)
+    [9]
+      CPF: 6866767695
+      Nome: GUILHERMINA FERREIRA DUARTE
+      Vinculo: MAE
+    [10]
+      CPF: 293.498.218-18
+      Nome: SUELI PEREIRA DUARTE
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 512.95
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 316.192.868-74
+    Nome: JULIO CESAR PENA DA SILVA
+    Logradouro: VE DE JULHO
+    Número: 1590
+    Bairro: CENTRO
+  [2]
+    CPF: 417.343.158-90
+    Nome: JOSIANE ESTEFANI FERNANDES AGUIAR DA SILVA
+    Logradouro: JORGE ANTONIO NASSER
+    Número: 753
+    Bairro: CENTRO
+  [3]
+    CPF: 086.395.368-99
+    Nome: ROSANA MARTA PAPANI SCALCO
+    Logradouro: ARGENTINA
+    Número: 1000
+  [4]
+    CPF: 362.732.118-92
+    Nome: JAQUELINE STORTI
+    Logradouro: OSWALDO CRUZ
+    Número: 168
+    Bairro: CENTRO
+  [5]
+    CPF: 342.893.478-43
+    Nome: ROBERTO ROCHA SANTOS
+    Logradouro: ZINHO DUTRA
+    Número: 944
+  [6]
+    CPF: 044.277.665-95
+    Nome: FABIANO SILVA ARAUJO
+    Logradouro: PRIMEIRO DE MAIO
+    Número: 980
+    Bairro: CENTRO
+  [7]
+    CPF: 418.796.918-76
+    Nome: JESSICA FRANCIELE SOARES OLIVEIRA
+    Logradouro: JOAQUIM HONORATO DE ME
+    Número: 1090
+    Bairro: COHAB
+  [8]
+    CPF: 418.796.918-76
+    Nome: JESSICA FRANCIELE SOARES OLIVEIRA
+    Logradouro: SIQUEIRA CAMPOS
+    Número: 1380
+    Bairro: CENTRO
+  [9]
+    CPF: 359.784.158-97
+    Nome: LUCIANA DUARTE
+    Logradouro: PAULO ARAUJO
+    Número: 1148
+    Bairro: CENTRO
+  [10]
+    CPF: 043.353.948-88
+    Nome: OSVALDAIR DIOGO BORGES
+    Logradouro: JOAO GONCALVES VICENTE
+    Número: 1211
+    Bairro: CENTRO
+  [11]
+    CPF: 246.462.718-69
+    Nome: LUCINEI DE BRITO
+    Logradouro: JOSE M D CARVALHO
+    Número: 964
+    Bairro: JOAO EVANGELIST
+  [12]
+    CPF: 974.822.008-78
+    Nome: MOACIR BONATO
+    Logradouro: DOMINGOS
+    Número: 1000
+    Bairro: CENTRO
+  [13]
+    CPF: 183.157.388-10
+    Nome: ROSINEI GOMES BARAO
+    Logradouro: OVESP SARIN
+    Número: 892
+    Bairro: COHAB
+  [14]
+    CPF: 147.149.218-43
+    Nome: ESTEVO BUKI
+    Logradouro: GUIANA
+    Número: 571
+  [15]
+    CPF: 326.136.748-22
+    Nome: ALESSANDRO DO BOMFIM BRAGA
+    Logradouro: HALIM JOSE CURY
+    Número: 1159
+    Bairro: CENTRO
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (17) 99774-5753
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 01AUG2016
+    Ultima Recarga: 11SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 23/03/2016
+  [2]
+    Telefone: (17) 99669-8334
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 04JUL2020
+    Ultima Recarga: 29AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 04/07/2020
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 512
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 512.95
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (17) 3293-1732
+    Ddd: 17
+    Número: 32931732
+    Tipo: CELULAR
+    Data Inclusao: 10/05/2011
+    Data Informacao: 04/05/2011
+    Classificacao: D2
+  [2]
+    Telefone: (79) 99210-3107
+    Ddd: 79
+    Número: 992103107
+    Tipo: 3
+    Data Inclusao: 15/12/2014
+    Data Informacao: 30/09/2013
+    Classificacao: D
+  [3]
+    Telefone: (17) 99716-9508
+    Ddd: 17
+    Número: 997169508
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D2
+  [4]
+    Telefone: (17) 99774-5753
+    Ddd: 17
+    Número: 997745753
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: A0
+  [5]
+    Telefone: (17) 98818-5415
+    Ddd: 17
+    Número: 988185415
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

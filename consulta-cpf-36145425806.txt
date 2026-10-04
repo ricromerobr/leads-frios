@@ -1,0 +1,486 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  36145425806
+Data/Hora:  02/10/2026, 17:27:35
+Tempo API:  793ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 361.454.258-06
+Nome: FELIPE TREVIZAN DIAS
+Primeiro Nome: FELIPE
+Sobrenome: DIAS
+Sexo: Masculino
+Data de Nascimento: 14/04/1990
+Nome da Mãe: ROSA APARECIDA TREVIZAN
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 368129720116
+Ocupação: Porteiro de edifícios
+Score:
+  Value: 618
+  Range: BAIXO
+E-mail: FLP_VIDALOKA_FLP@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 1568
+Income Bracket: 2
+Cbo: 517410
+Endereço:
+  Tipo: RUA
+  Rua: VEREADOR SADAMITU OMOSAKO
+  Número: 1353
+  Complemento: CS 4
+  Bairro: MUNHOZ JUNIOR
+  Cidade: OSASCO
+  Estado: SAO PAULO
+  CEP: 06240-190
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VEREADOR SADAMITU OMOSAKO
+    Número: 1353
+    Complemento: CS 4
+    Bairro: MUNHOZ JUNIOR
+    Cidade: OSASCO
+    Estado: SAO PAULO
+    CEP: 06240-190
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AV EDUARDO CARLOS PEREIRA
+    Número: 39
+    Bairro: JARDIM ELVIRA
+    Cidade: OSASCO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: CAVALIERI
+    Tipo: R
+    Número: 32
+    Bairro: QUARTA PARADA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03175-060
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ISAIAS BEZERRA VENTURA
+    Tipo: R
+    Número: 160
+    Complemento: C 1
+    Bairro: ALIANCA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06236-090
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: COSTA E SILVA
+    Tipo: R
+    Número: 67
+    Complemento: CS
+    Bairro: HELENA MARIA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06253-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: EDUARDO CARLOS PEREIRA
+    Tipo: AV
+    Número: 39
+    Bairro: JD ELVIRA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06243-060
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: VEREADOR SADAMITU OMOSAKO
+    Número: 0001353
+    Bairro: MUNHOZ JUNIOR
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06240-190
+    Fonte: ASSECC
+  [8]
+    Tipo: RUA
+    Rua: R HEBE  224 CASA 2
+    Número: 224
+    Bairro: PARQUE DOS CAMARGOS
+    Cidade: BARUERI
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 0
+Cidade de Nascimento: INVALIDO
+Cns: 700708915632271
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/10/2019
+    Mosaic New: D09
+    Mosaic Secondary: D13
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CAVALIERI
+      Número: 32
+      Bairro: QUARTA PARADA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03175-060
+      Date Added: 27/07/2011
+    [2]
+      Tipo: R
+      Rua: SADAMITU OMOSAKO
+      Número: 1353
+      Complemento: C 4
+      Bairro: MUNHOZ JUNIOR
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06240-190
+      Date Added: 28/02/2013
+    [3]
+      Tipo: R
+      Rua: ISAIAS BEZERRA VENTURA
+      Número: 160
+      Complemento: C 1
+      Bairro: ALIANCA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06236-090
+      Date Added: 28/02/2013
+    [4]
+      Tipo: R
+      Rua: COSTA E SILVA
+      Número: 67
+      Complemento: CS
+      Bairro: HELENA MARIA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06253-000
+      Date Added: 25/08/2016
+    [5]
+      Tipo: AV
+      Rua: EDUARDO CARLOS PEREIRA
+      Número: 39
+      Bairro: JD ELVIRA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06243-060
+      Date Added: 05/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 26968562
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 26/07/2011
+    [2]
+      Telefone: 975451872
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 975364057
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 986876437
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 995107797
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 19/07/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: flp_vidaloka_flp@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: flp.vidaloka.flp5@gmail.com
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 175
+    CSB8 FAIXA: ALTO
+    CSBA: 618
+    CSBA FAIXA: BAIXO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 632814810
+      Nome: RIBERTO TREVIZAN
+      Vinculo: TIA(O)
+    [2]
+      CPF: 308.930.658-11
+      Nome: FLORINDA ANDREATA TREVIZAN
+      Vinculo: AVO
+    [3]
+      CPF: 3637568845
+      Nome: ROSA APARECIDA TREVIZAN
+      Vinculo: MAE
+    [4]
+      CPF: 858.405.568-15
+      Nome: CLAUDIO TREVISAN
+      Vinculo: TIA(O)
+    [5]
+      CPF: 3111087840
+      Nome: CARLOS ROBERTO TREVIZAN
+      Vinculo: TIA(O)
+    [6]
+      CPF: 6134936804
+      Nome: AGNALDO TREVIZAN
+      Vinculo: TIA(O)
+    [7]
+      CPF: 4957654816
+      Nome: TERESINHA TREVIZAN
+      Vinculo: TIA(O)
+  Pis: 16314701172
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1303.19
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (6 item(s))
+  - (11) 98687-6437
+  - (11) 93011-2328
+  - (11) 2696-8562
+  - (11) 97545-1872
+  - (11) 97536-4057
+  - (11) 99510-7797
+Additional Emails: (3 item(s))
+  - flp_vidaloka_flp@hotmail.com
+  - flp.vidaloka.flp5@gmail.com
+  - mariadasgracassouzaaguiar@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 127.344.808-16
+    Nome: NELSON LEMOS FILHO
+    Logradouro: CAVALIERI
+    Número: 70
+    Bairro: QUARTA PARADA
+  [2]
+    CPF: 910.910.478-04
+    Nome: NICOLAU CONSTANTINO NETO
+    Logradouro: CAVALIERI
+    Número: 80
+    Bairro: QUARTA PARADA
+  [3]
+    CPF: 030.970.605-02
+    Nome: MARIA JOSE DOS SANTOS MACIEL
+    Logradouro: CAVALIERI
+    Número: 41
+    Bairro: QUARTA PARADA
+  [4]
+    CPF: 302.953.588-66
+    Nome: SIMONE DO NASCIMENTO DE CASTRO
+    Logradouro: CAVALIERI
+    Número: 37
+    Bairro: QUARTA PARADA
+  [5]
+    CPF: 188.755.948-56
+    Nome: IZABEL CRISTINA PEREIRA
+    Logradouro: CAVALIERI
+    Número: 41
+    Bairro: QUARTA PARADA
+  [6]
+    CPF: 011.103.268-74
+    Nome: ANTONIA CASTRO DE LIMA
+    Logradouro: CAVALIERI
+    Número: 102
+    Bairro: QUARTA PARADA
+  [7]
+    CPF: 266.380.718-40
+    Nome: MILENA CID PESSOA
+    Logradouro: CAVALIERI
+    Número: 70
+    Bairro: QUARTA PARADA
+  [8]
+    CPF: 089.551.629-28
+    Nome: LUANA MARIA ROCHA
+    Logradouro: CAVALIERI
+    Número: 49
+    Bairro: QUARTA PARADA
+  [9]
+    CPF: 027.937.695-25
+    Nome: ADAILTON DA SILVA MACIEL
+    Logradouro: CAVALIERI
+    Número: 41
+    Bairro: QUARTA PARADA
+  [10]
+    CPF: 216.473.028-38
+    Nome: ITAMAR BESSA SANTOS
+    Logradouro: CAVALIERI
+    Número: 70
+    Bairro: QUARTA PARADA
+  [11]
+    CPF: 275.429.418-01
+    Nome: RONALDO DA COSTA ALVES
+    Logradouro: CAVALIERI
+    Número: 95
+    Bairro: QUARTA PARADA
+  [12]
+    CPF: 070.857.225-17
+    Nome: GILBERTO XAVIER DOS SANTOS
+    Logradouro: CAVALIERI
+    Número: 70
+    Bairro: QUARTA PARADA
+  [13]
+    CPF: 113.155.608-95
+    Nome: RAIMUNDO FERREIRA DE LIMA
+    Logradouro: CAVALIERI
+    Número: 55
+    Bairro: QUARTA PARADA
+  [14]
+    CPF: 232.403.138-80
+    Nome: RODRIGO ALEXIS ARRASCAETA
+    Logradouro: CAVALIERI
+    Número: 99
+    Bairro: QUARTA PARADA
+  [15]
+    CPF: 007.564.448-70
+    Nome: APRIGIO FERREIRA DA SILVA
+    Logradouro: CAVALIERI
+    Número: 37
+    Bairro: QUARTA PARADA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 98687-6437
+    Nome: FELIPE TREVIZAN DIAS
+    Cidade: OSASCO
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 98687-6437
+    Nome: FELIPE TREVIZAN DIAS
+    Cidade: OSASCO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 2339888
+    Operadora: 443
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 22/10/2019
+    Tempo Base: 9
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201910
+    Geo:
+      Ibge Municipio: 3505708
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 14/04/1990
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 3552
+      Classe Social: C1
+      Score: 571
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 373
+        Net: 389
+        Ctv: 361
+        Faixa Cmv: 346 - 399
+        Faixa Net: 349 - 669
+        Faixa Ctv: 1 - 453
+        Risco Cmv: ALTISSIMO
+        Risco Net: MEDIO
+        Risco Ctv: CRÍTICO
+        Idade: 30
+E-mails: (3 item(s))
+  - flp_vidaloka_flp@hotmail.com
+  - flp.vidaloka.flp5@gmail.com
+  - mariadasgracassouzaaguiar@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1568
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1303.19
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 3552
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2696-8562
+    Ddd: 11
+    Número: 26968562
+    Tipo: FIXO
+    Data Inclusao: 26/07/2011
+    Classificacao: D
+  [2]
+    Telefone: (11) 97545-1872
+    Ddd: 11
+    Número: 975451872
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (11) 97536-4057
+    Ddd: 11
+    Número: 975364057
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 98687-6437
+    Ddd: 11
+    Número: 986876437
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 99510-7797
+    Ddd: 11
+    Número: 995107797
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: A2
+Occupation Code: 517410
+Occupation Name: Porteiro de edifícios
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,388 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  74427210791
+Data/Hora:  02/10/2026, 16:40:53
+Tempo API:  930ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 744.272.107-91
+Nome: KLEBER BALDISSARA CHAVES
+Primeiro Nome: KLEBER
+Sobrenome: CHAVES
+Sexo: Masculino
+Data de Nascimento: 31/01/1959
+Nome da Mãe: PHILOMENA BALDISSARA CHAVES
+RG: 47653399
+Voter Id: 081029310345
+Mosaic: C09
+Ocupação: Frentista
+Score:
+  Value: 164
+  Range: ALTISSIMO
+E-mail: KLEBER_BALDISSARA_CHAVES@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 1236
+Income Bracket: 2
+Cbo: 517410
+Endereço:
+  Tipo: RUA
+  Rua: CARDOSO QUINTAO
+  Complemento: CS
+  Bairro: PIEDADE
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21381-140
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CARDOSO QUINTAO
+    Complemento: CS
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21381-140
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ITALIA D INCAU
+    Tipo: R
+    Número: 324
+    Complemento: LJ
+    Bairro: TOMAS COELHO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21381-240
+    Data Atualizacao: 05/11/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: ITALIA D INCAU
+    Tipo: R
+    Número: 1
+    Complemento: BL 7 AP 303
+    Bairro: TOMAS COELHO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21381-240
+    Data Atualizacao: 05/09/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CARDOSO QUINTAO
+    Tipo: TV
+    Número: 65
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21381-140
+    Data Atualizacao: 16/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: TRAVESSA CARDOSO QUINTAO
+    Rua: [empty]
+    Número: 0000065
+    Bairro: PIEDADE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21381-140
+    Fonte: ASSECC
+  [6]
+    Rua: TV CARDOSO QUINTAO
+    Número: 65
+    Complemento: FDS
+    Bairro: PIEDADE
+    Estado: RJ
+    CEP: 21381-140
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (21) 98885-6373
+  - (21) 97363-8757
+  - (21) 97493-9566
+  - (21) 99714-2489
+  - (21) 99574-0236
+  - (21) 3272-3280
+  - (21) 99511-1158
+  - (21) 98964-4380
+  - (21) 97694-5330
+Mte Data:
+  Nome: Kleber Baldissara Chaves
+  Data de Nascimento: 31/01/1959
+  Nome da Mãe: Philomena Baldissara Chaves
+  Endereço:
+    Rua: Travessa Cardoso Quintao
+    Número: 65
+    Bairro: Quintino
+    Cidade: Rio De Janeiro
+    Estado: RJ
+    CEP: 21381-140
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/08/2019
+    Info Date: 21/12/2008
+    Mosaic: C09
+    Mosaic New: E15
+    Mosaic Secondary: E17
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: ITALIA D INCAU
+      Número: 324
+      Complemento: LJ
+      Bairro: TOMAS COELHO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21381-240
+      Date Added: 17/08/2010
+    [2]
+      Tipo: R
+      Rua: ITALIA D INCAU
+      Número: 1
+      Complemento: BL 7 AP 303
+      Bairro: TOMAS COELHO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21381-240
+      Date Added: 03/01/2017
+    [3]
+      Tipo: TV
+      Rua: CARDOSO QUINTAO
+      Número: 65
+      Bairro: PIEDADE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21381-140
+      Date Added: 15/08/2006
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32723280
+      Ddd: 21
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 28/08/2006
+      Info Date: 30/12/2014
+    [2]
+      Telefone: 995111158
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 989644380
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [4]
+      Telefone: 976945330
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: kleber_baldissara_chaves@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 132
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 164
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: PHILOMENA BALDISSARA CHAVES
+      Vinculo: MAE
+  Pis: 10732240899
+  Tse:
+    Titulo: 81029310345
+    Zona: 14
+    Secao: 392
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 644.77
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (1 item(s))
+  - kleber_baldissara_chaves@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.649.077-59
+    Nome: MARCELO LIRA PESSOA
+    Logradouro: ITALIA D INCAU
+    Número: 4
+    Bairro: TOMAS COELHO
+  [2]
+    CPF: 660.626.754-49
+    Nome: LOURIVAL PEDRO DOS SANTOS
+    Logradouro: ITALIA D INCAU
+    Número: 238
+    Bairro: TOMAS COELHO
+  [3]
+    CPF: 021.403.777-02
+    Nome: NILSON DOS SANTOS ASSIS
+    Logradouro: ITALIA D INCAU
+    Número: 160
+    Bairro: TOMAS COELHO
+  [4]
+    CPF: 598.230.467-00
+    Nome: SOLANGE DE MENEZES MELO
+    Logradouro: ITALIA D INCAU
+    Número: 269
+    Bairro: TOMAS COELHO
+  [5]
+    CPF: 013.704.443-70
+    Nome: JOANA PAULA FERREIRA
+    Logradouro: ITALIA D INCAU
+    Número: 45
+    Bairro: TOMAS COELHO
+  [6]
+    CPF: 798.702.604-20
+    Nome: MARIA CLAUDIA SOUSA DOS SANTOS
+    Logradouro: ITALIA D INCAU
+    Número: 238
+    Bairro: TOMAS COELHO
+  [7]
+    CPF: 897.995.427-15
+    Nome: ELIANE BARCELLOS NEVES
+    Logradouro: ITALIA D INCAU
+    Número: 238
+    Bairro: TOMAS COELHO
+  [8]
+    CPF: 037.685.047-78
+    Nome: ALINE PATRICIA DO ESPIRITO SANTO
+    Logradouro: ITALIA D INCAU
+    Número: 203
+    Bairro: TOMAS COELHO
+  [9]
+    CPF: 136.089.217-61
+    Nome: MARCOS VINICIUS NEVES SIXEL
+    Logradouro: ITALIA D INCAU
+    Número: 258
+    Bairro: TOMAS COELHO
+  [10]
+    CPF: 051.529.777-10
+    Nome: DANYELLE RABELLO DA SILVA
+    Logradouro: ITALIA D INCAU
+    Número: 194
+    Bairro: TOMAS COELHO
+  [11]
+    CPF: 069.642.017-18
+    Nome: JAQUELINE FERREIRA DE BRITO
+    Logradouro: ITALIA D INCAU
+    Número: 9
+    Bairro: TOMAS COELHO
+  [12]
+    CPF: 112.415.777-81
+    Nome: JESANIA MARIA DA SILVA NASCIMENTO DOS SANTOS
+    Logradouro: ITALIA D INCAU
+    Número: 118
+    Bairro: TOMAS COELHO
+  [13]
+    CPF: 508.418.667-91
+    Nome: VERISSIMO LASSE GOMES
+    Logradouro: ITALIA D INCAU
+    Número: 2
+    Bairro: TOMAS COELHO
+  [14]
+    CPF: 708.836.297-04
+    Nome: MERLY DE PAULO SOUZA
+    Logradouro: ITALIA D INCAU
+    Número: 10
+    Bairro: TOMAS COELHO
+  [15]
+    CPF: 691.507.887-87
+    Nome: VERA FIGUEIREDO GONCALVES
+    Logradouro: ITALIA D INCAU
+    Número: 167
+    Bairro: TOMAS COELHO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (21) 99714-2489
+    Nome: KLEBER  BALDISSARA CHAVES
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (21) 99574-0236
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 21MAY2019
+    Ultima Recarga: 11SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 17/05/2019
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (21) 97363-8757
+    Nome: KLEBER BALDISSARA CHAVES
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - kleber_baldissara_chaves@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1236
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 644.77
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (21) 3272-3280
+    Ddd: 21
+    Número: 32723280
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Data Informacao: 30/12/2014
+    Classificacao: A0
+  [2]
+    Telefone: (21) 99511-1158
+    Ddd: 21
+    Número: 995111158
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (21) 98964-4380
+    Ddd: 21
+    Número: 989644380
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [4]
+    Telefone: (21) 97694-5330
+    Ddd: 21
+    Número: 976945330
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 521135
+Occupation Name: Frentista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

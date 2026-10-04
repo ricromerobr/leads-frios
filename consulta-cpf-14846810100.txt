@@ -1,0 +1,316 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14846810100
+Data/Hora:  04/10/2026, 12:48:43
+Tempo API:  227ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 148.468.101-00
+Nome: EMIDIO ROMAO
+Primeiro Nome: EMIDIO
+Sobrenome: ROMAO
+Sexo: Masculino
+Data de Nascimento: 22/03/1960
+Nome da Mãe: MARIA DE LOURDES CONCEICAO
+Mosaic: J38
+Ocupação: Trabalhadores da Producao de Bens e Servicos Industriais (categoria CBO)
+Score:
+  Value: 65
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1430
+Income Bracket: 2
+Cbo: 724315
+Corporate Share Pct: 0
+Endereço:
+  Tipo: RUA
+  Rua: ANTONIO SCHIAVE NETO
+  Número: 401
+  Complemento: CORREIOS
+  Bairro: CENTRO
+  Cidade: GLORIA DE DOURADOS
+  Estado: MATO GROSSO DO SUL
+  CEP: 79730-970
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANTONIO SCHIAVE NETO
+    Número: 401
+    Complemento: CORREIOS
+    Bairro: CENTRO
+    Cidade: GLORIA DE DOURADOS
+    Estado: MATO GROSSO DO SUL
+    CEP: 79730-970
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AMADEU TELES TAMANDARE
+    Tipo: AV
+    Número: 1617
+    Cidade: MIRASSOL D OESTE
+    Estado: MT
+    CEP: 78280-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: DE GLORIA
+    Tipo: R
+    Número: 40
+    Bairro: VL INDUST
+    Cidade: GLORIA DE DOURADOS
+    Estado: MS
+    CEP: 79730-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CATARINA
+    Tipo: R
+    Número: 1
+    Bairro: CENTRO
+    Cidade: CURVELANDIA
+    Estado: MT
+    CEP: 78237-000
+    Data Atualizacao: 07/07/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DO RIO BRANCO
+    Tipo: R
+    Número: 770
+    Cidade: MARACAJU
+    Estado: MS
+    CEP: 79150-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: CATARINA
+    Tipo: R
+    Número: 2940
+    Cidade: CURVELANDIA
+    Estado: MT
+    CEP: 78237-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: ANTONIO SCHIAVE NETO
+    Número: 401
+    Complemento: . CORREIOS
+    Bairro: CENTRO
+    Estado: MT
+    CEP: 79730-970
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 27/04/2019
+    Info Date: 12/04/2008
+    Mosaic: J38
+    Mosaic New: H26
+    Mosaic Secondary: H27
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: AMADEU TELES TAMANDARE
+      Número: 1617
+      Cidade: MIRASSOL D OESTE
+      Estado: MT
+      CEP: 78280-000
+      Date Added: 15/12/2009
+    [2]
+      Tipo: R
+      Rua: DE GLORIA
+      Número: 40
+      Bairro: VL INDUST
+      Cidade: GLORIA DE DOURADOS
+      Estado: MS
+      CEP: 79730-000
+      Date Added: 09/12/2019
+    [3]
+      Tipo: R
+      Rua: CATARINA
+      Número: 1
+      Bairro: CENTRO
+      Cidade: CURVELANDIA
+      Estado: MT
+      CEP: 78237-000
+      Date Added: 05/05/2015
+    [4]
+      Tipo: R
+      Rua: DO RIO BRANCO
+      Número: 770
+      Cidade: MARACAJU
+      Estado: MS
+      CEP: 79150-000
+      Date Added: 05/04/2018
+    [5]
+      Tipo: R
+      Rua: CATARINA
+      Número: 2940
+      Cidade: CURVELANDIA
+      Estado: MT
+      CEP: 78237-000
+      Date Added: 13/04/2010
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 999398864
+      Ddd: 65
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  Score:
+    CSB8: 12
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 65
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DE LOURDES CONCEICAO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 508.6
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (1 item(s))
+  - (65) 99939-8864
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 033.070.811-28
+    Nome: AMILTON FLAVIO COLETA LEAL
+    Logradouro: GERMANO GREVE
+    Número: 407
+    Bairro: CENTRO
+  [2]
+    CPF: 028.263.681-17
+    Nome: MARIA LUCIA CEBALHO
+    Logradouro: ACRIZIO LEITE DE OLIVEIRA
+    Número: 1
+    Bairro: JD DAS FLORES II
+  [3]
+    CPF: 051.062.196-12
+    Nome: TULIO CEZAR GUIMARAES
+    Logradouro: AMADEU TELES TAMANDARE
+    Número: 2210
+    Bairro: CENTRO
+  [4]
+    CPF: 023.938.931-05
+    Nome: SILVANA PEREIRA LOPES
+    Logradouro: VINTE E CINCO DE MAIO
+    Número: 688
+    Bairro: JD S PAULO
+  [5]
+    CPF: 027.392.631-47
+    Nome: THIAGO MARCELO DE OLIVEIRA
+    Logradouro: HENRIQUE DELLA ROQUE
+    Número: 2778
+    Bairro: JD DAS FLORES
+  [6]
+    CPF: 020.933.251-44
+    Nome: MARILENE BATISTA
+    Logradouro: VINTE E OITO DE OUTUBRO
+    Número: 3893
+    Bairro: CENTRO
+  [7]
+    CPF: 980.819.421-49
+    Nome: SIDNEI BATISTA DA SILVA
+    Logradouro: BENEDITA SILVA
+    Número: 124
+    Bairro: AT BOA VISTA
+  [8]
+    CPF: 030.283.181-99
+    Nome: DARLEY SALA DOURADO
+    Logradouro: JUDAS TADEU
+    Número: 1737
+    Bairro: CIDADE TAMANDARE
+  [9]
+    CPF: 022.713.751-50
+    Nome: WELLINGTON THIAGO VALERIO BUZATI
+    Logradouro: LEONORIO LOURENCAO
+    Número: 7
+    Bairro: CENTRO
+  [10]
+    CPF: 032.870.491-19
+    Nome: LUCIANA GRACIANO DE SOUZA
+    Logradouro: MADALENA MARIANA MARQUES
+    Número: 1589
+    Bairro: CENTRO
+  [11]
+    CPF: 031.883.211-98
+    Nome: ELIAS MARQUES RIBEIRO
+    Logradouro: GERMANO GREVE
+    Número: 407
+    Bairro: CENTRO
+  [12]
+    CPF: 943.181.401-30
+    Nome: MARFISA RODRIGUES
+    Logradouro: VALDENOR DE ANUNCIACAO
+    Número: 83
+    Bairro: CENTRO
+  [13]
+    CPF: 010.954.791-80
+    Nome: LEONINA APARECIDA FERREIRA ALVIM
+    Logradouro: GERMANO GREVE
+    Número: 1142
+    Bairro: CENTRO
+  [14]
+    CPF: 050.027.851-23
+    Nome: GENISES CANDIDA VARGA
+    Logradouro: ANTONIO MARTINS A COSTA
+    Número: 964
+    Bairro: CENTRO
+  [15]
+    CPF: 033.444.391-11
+    Nome: ROBISON SOARES DE MENEZES
+    Logradouro: NILMA PEREIRA LEITE
+    Número: 1049
+    Bairro: CENTRO
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (65) 99939-8864
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 04MAY2017
+    Ultima Recarga: 10SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 04/05/2017
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1430
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 508.6
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (65) 99939-8864
+    Ddd: 65
+    Número: 999398864
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 7252
+Occupation Name: Trabalhadores da Producao de Bens e Servicos Industriais (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

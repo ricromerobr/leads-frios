@@ -1,0 +1,876 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  45317828791
+Data/Hora:  04/10/2026, 10:21:21
+Tempo API:  554ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 453.178.287-91
+Nome: JAIR MESSIAS BOLSONARO
+Primeiro Nome: JAIR
+Sobrenome: BOLSONARO
+Sexo: Masculino
+Data de Nascimento: 21/03/1955
+Nome da Mãe: OLINDA BONTURI BOLSONARO
+Voter Id: 015564190337
+Mosaic: B03
+Ocupação: Administrador
+Score:
+  Value: 756
+  Range: BAIXISSIMO RISCO
+E-mail: lucianosbq@gmail.com
+Additional Emails: (24 item(s))
+  - lucianosbq@gmail.com
+  - dep.jairbolsonaro@terra.com.br
+  - gghenry14@gmail.com
+  - selva105@terra.com.br
+  - soubolsonaro@gmail.com
+  - soulivrenaescola@gmail.com
+  - shoping251jair@gmail.com
+  - jair.messiasbolsonaro@yahoo.com.br
+  - jair_bolsonaro@hotmail.com
+  - portalsenado@yahoo.com.br
+  - jairbolsonaro@oi.com.br
+  - deputado@flaviobolsonaro.com.br
+  - leticiabezerra56@gmail.com
+  - jair_bol@hotmail.com
+  - jairmessiasbolsonaro@bol.com.br
+  - contato@carlosbolsonaro.com.br
+  - vereador@carlosbolsonaro.com.br
+  - ronaldosuzano2010@hotmail.com
+  - gab.bsb@bolsonaro.com.br
+  - anderson.silva.fagundis@gmail.com
+  - jorgefco@terra.com.br
+  - pauloppff@hotmail.com
+  - sarmento_assessoria@hotmail.com
+  - dep.jairbolsonaro@camara.leg.br
+Federal Status: REGULAR
+Renda: 3806
+Income Bracket: 4
+Cbo: 252105
+Endereço:
+  Tipo: RUA
+  Rua: DIVISORIA
+  Número: 30
+  Complemento: CSFU
+  Bairro: BENTO RIBEIRO
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21331-250
+All Addresses: (16 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DIVISORIA
+    Número: 30
+    Complemento: CSFU
+    Bairro: BENTO RIBEIRO
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21331-250
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PRAÇA DOS TRÊS PODERES, ANEXO III
+    Número: GAB 482
+    Complemento: CÂMARA DOS DEPU
+    Bairro: ZONA CÍVICO-ADMINISTRATIVA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 70160-900
+    Fonte: SARAIVA
+  [3]
+    Rua: DOS TRES PODERES
+    Tipo: PC
+    Complemento: PODERES SS01
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 70100-000
+    Data Atualizacao: 30/06/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: MARIA
+    Tipo: R
+    Número: 71
+    Complemento: BL 1 AP 503
+    Bairro: VL ISABEL
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20541-901
+    Data Atualizacao: 15/05/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: 3
+    Tipo: PC
+    Complemento: PODERES SS 1
+    Bairro: ST LESTE GAMA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72460-120
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: LUCIO COSTA
+    Tipo: AV
+    Número: 3100
+    Complemento: CS 58
+    Bairro: BARRA DA TIJUCA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22620-904
+    Data Atualizacao: 04/04/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: FAZ
+    Rua: ALECRIM MIUDO
+    Bairro: CENTRO
+    Cidade: FEIRA DE SANTANA
+    Estado: BA
+    CEP: 44000-000
+    Fonte: ASSECC
+  [8]
+    Tipo: AV
+    Rua: INDEPENDENCIA
+    Bairro: INDEPENDENCIA
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 90035-073
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: A
+    Número: 0000019
+    Bairro: FORMOZA
+    Cidade: ALVORADA
+    Estado: RS
+    CEP: 94818-508
+    Fonte: ASSECC
+  [10]
+    Tipo: PC
+    Rua: DOS TRES PODERES
+    Número: 0000102
+    Bairro: ZONA CIVICOADMINISTRATIVA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 00000-000
+    Fonte: ASSECC
+  [11]
+    Tipo: QD
+    Rua: QR 417 CONJUNTO N
+    Bairro: SANTA MARIA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72547-715
+    Fonte: ASSECC
+  [12]
+    Tipo: AV
+    Rua: 15 DE NOVEMBRO
+    Número: 0000892
+    Bairro: 0000000000000000000
+    Cidade: SANTA LUCIA
+    Estado: SP
+    CEP: 14825-000
+    Fonte: ASSECC
+  [13]
+    Rua: ESTRADA CHIMARR O
+    Número: 330
+    Bairro: INTERIOR
+    Estado: RS
+    CEP: 95310-000
+    Fonte: VIVO_PRE
+  [14]
+    Tipo: SQN
+    Rua: QD
+    Número: 202
+    Complemento: BL J APT 503
+    Bairro: ASA NORTE
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 70832-100
+    Fonte: ALGAR
+  [15]
+    Tipo: R
+    Rua: DAS FLORES
+    Número: 411
+    Bairro: VILA HISTORICA
+    Cidade: BARLAVENTO
+    Estado: RJ
+    CEP: 23951-310
+    Fonte: ALGAR
+  [16]
+    Tipo: R
+    Rua: DONA MARIA
+    Número: 71
+    Complemento: BL 1 AP 503
+    Bairro: VILA ISABEL
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20541-030
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (26 item(s))
+  - (21) 2288-2779
+  - (21) 3350-2841
+  - (61) 3532-1618
+  - (24) 3362-2042
+  - (65) 99242-2446
+  - (69) 99330-9480
+  - (11) 93216-0314
+  - (75) 98171-4679
+  - (95) 98424-8085
+  - (61) 8157-2757
+  - (98) 99159-6320
+  - (55) 98115-1699
+  - (51) 99868-8555
+  - (61) 99533-4313
+  - (21) 99991-1717
+  - (11) 98168-2265
+  - (54) 99909-1514
+  - (61) 3879-7701
+  - (21) 3350-2463
+  - (61) 99211-6414
+  - (31) 98242-8608
+  - (11) 96304-2434
+  - (86) 99463-8249
+  - (77) 98158-4273
+  - (73) 98201-3156
+  - (61) 99380-9056
+Saraiva:
+  Customer Id: 5042549
+  Telefone: (61) 8157-2757
+  E-mail: dep.jairbolsonaro@terra.com.br
+  Data de Nascimento: 21/03/1954
+Paycom:
+  E-mail: gghenry14@gmail.com
+  Created At: 2021-02-27 22:05:13
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Ricardo Pinto
+    Número: 53
+    Complemento: 8
+    Bairro: Aparecida
+    Cidade: Santos
+    Estado: SP
+    País: BRA
+    CEP: 11035-171
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 28/08/2019
+    Info Date: 21/12/2008
+    Mosaic: B03
+    Mosaic New: E17
+    Mosaic Secondary: E16
+    Income Bracket Id: 6
+  Endereços: (4 item(s))
+    [1]
+      Tipo: PC
+      Rua: DOS TRES PODERES
+      Complemento: PODERES SS01
+      Bairro: ZONA CIVICO ADMINISTRATIVA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 70100-000
+      Date Added: 19/08/2015
+    [2]
+      Tipo: R
+      Rua: MARIA
+      Número: 71
+      Complemento: BL 1 AP 503
+      Bairro: VL ISABEL
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20541-901
+      Date Added: 15/12/2009
+    [3]
+      Tipo: PC
+      Rua: 3
+      Complemento: PODERES SS 1
+      Bairro: ST LESTE GAMA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72460-120
+      Date Added: 06/03/2014
+    [4]
+      Tipo: AV
+      Rua: LUCIO COSTA
+      Número: 3100
+      Complemento: CS 58
+      Bairro: BARRA DA TIJUCA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22620-904
+      Date Added: 19/08/2015
+  E-mails: (23 item(s))
+    [1]
+      E-mail: lucianosbq@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [2]
+      E-mail: selva105@terra.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: soubolsonaro@gmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [4]
+      E-mail: soulivrenaescola@gmail.com
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [5]
+      E-mail: shoping251jair@gmail.com
+      Priority: 5
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [6]
+      E-mail: jair.messiasbolsonaro@yahoo.com.br
+      Priority: 6
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [7]
+      E-mail: jair_bolsonaro@hotmail.com
+      Priority: 7
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [8]
+      E-mail: portalsenado@yahoo.com.br
+      Priority: 8
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [9]
+      E-mail: jairbolsonaro@oi.com.br
+      Priority: 9
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [10]
+      E-mail: deputado@flaviobolsonaro.com.br
+      Priority: 10
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+    [11]
+      E-mail: leticiabezerra56@gmail.com
+      Priority: 11
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [12]
+      E-mail: jair_bol@hotmail.com
+      Priority: 12
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [13]
+      E-mail: jairmessiasbolsonaro@bol.com.br
+      Priority: 13
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [14]
+      E-mail: contato@carlosbolsonaro.com.br
+      Priority: 14
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+    [15]
+      E-mail: vereador@carlosbolsonaro.com.br
+      Priority: 15
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+    [16]
+      E-mail: ronaldosuzano2010@hotmail.com
+      Priority: 16
+      Quality: POTENCIALMENTE BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/04/2019
+    [17]
+      E-mail: gab.bsb@bolsonaro.com.br
+      Priority: 17
+      Quality: POTENCIALMENTE BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+    [18]
+      E-mail: anderson.silva.fagundis@gmail.com
+      Priority: 18
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [19]
+      E-mail: jorgefco@terra.com.br
+      Priority: 19
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [20]
+      E-mail: dep.jairbolsonaro@terra.com.br
+      Priority: 20
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [21]
+      E-mail: pauloppff@hotmail.com
+      Priority: 21
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [22]
+      E-mail: sarmento_assessoria@hotmail.com
+      Priority: 22
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [23]
+      E-mail: dep.jairbolsonaro@camara.leg.br
+      Priority: 23
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 596
+    CSB8 FAIXA: BAIXO
+    CSBA: 756
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 251.478.308-98
+      Nome: OLINDA BONTURI BOLSONARO
+      Vinculo: MAE
+    [2]
+      CPF: 7425227843
+      Nome: RENATO ANTONIO BOLSONARO
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 4484463830
+      Nome: ANGELO GUIDO BONTURI BOLSONARO
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 562779892
+      Nome: MARIA DENISE BOLSONARO CAMPOS
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 214.718.228-18
+      Nome: ORESTES BOLSONARO CAMPOS
+      Vinculo: SOBRINHA(O)
+    [6]
+      CPF: 308.525.278-96
+      Nome: OSVALDO BOLSONARO CAMPOS
+      Vinculo: SOBRINHA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3806.85
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 258.720.281-72
+    Nome: ANTONIO CARLOS DA SILVA SANTANA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [2]
+    CPF: 046.770.721-91
+    Nome: FRANCISCO CANDIDO NETO
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [3]
+    CPF: 043.137.984-04
+    Nome: JOAO BASTOS COLACO DIAS
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [4]
+    CPF: 868.017.671-00
+    Nome: SAMARA DE OLIVEIRA SANTOS LEDA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [5]
+    CPF: 146.427.001-53
+    Nome: MARIA LUIZA COELHO CAMPOS
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [6]
+    CPF: 493.350.811-91
+    Nome: DORVALINA LUIZ DA SILVA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [7]
+    CPF: 027.633.571-64
+    Nome: RAQUEL DE SOUSA RIBEIRO VERSIANE
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [8]
+    CPF: 227.155.411-04
+    Nome: IRIS CARLOS SANTOS DA SILVA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [9]
+    CPF: 149.758.151-68
+    Nome: SIMONE MOURTHE NOGUEIRA STARLING
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [10]
+    CPF: 341.078.199-49
+    Nome: ARY KFFURI FILHO
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [11]
+    CPF: 296.065.781-00
+    Nome: EDGAR BENICIO ROSA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [12]
+    CPF: 428.144.724-53
+    Nome: RICARDO DANTAS BARRETO
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [13]
+    CPF: 509.457.771-91
+    Nome: MARCO AURELIO VOLPI DE OLIVEIRA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [14]
+    CPF: 411.105.011-53
+    Nome: FLAVIA RESENDE PORTUGAL MOURA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+  [15]
+    CPF: 001.814.843-31
+    Nome: WANESSA DE JESUS SILVA
+    Logradouro: DOS TRES PODERES
+    Bairro: ZONA CIVICO ADMINISTRATIVA
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (98) 99159-6320
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: FEIRA DE SANTANA
+    UF: BA
+  [2]
+    Telefone: (55) 98115-1699
+    Nome: JAEL MESSIAS BOLSANOVA
+    Cidade: PORTO ALEGRE
+    UF: RS
+  [3]
+    Telefone: (51) 99868-8555
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: ALVORADA
+    UF: RS
+  [4]
+    Telefone: (61) 99533-4313
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: BRASILIA
+    UF: DF
+  [5]
+    Telefone: (21) 99991-1717
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: BRASILIA
+    UF: DF
+  [6]
+    Telefone: (11) 98168-2265
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: SANTA LUCIA
+    UF: SP
+Telefones Operadoras: (12 item(s))
+  [1]
+    Telefone: (55) 98115-1699
+    Nome: JAEL MESSIAS BOLSANOVA
+    Cidade: PORTO ALEGRE
+    UF: RS
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (61) 3879-7701
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: BRASILIA
+    UF: DF
+    Operadora: EMBRATEL
+    Fonte: algar
+  [3]
+    Telefone: (24) 3362-2042
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: BARLAVENTO
+    UF: RJ
+    Operadora: TELEMAR - TELERJ
+    Fonte: algar
+  [4]
+    Telefone: (21) 2288-2779
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+    Operadora: TELEMAR - TELERJ
+    Fonte: algar
+  [5]
+    Telefone: (21) 3350-2463
+    Nome: JAIR MESSIAS BOLSONARO
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+    Operadora: EMBRATEL
+    Fonte: algar
+  [6]
+    Telefone: (61) 99211-6414
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [7]
+    Telefone: (31) 98242-8608
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [8]
+    Telefone: (11) 96304-2434
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [9]
+    Telefone: (86) 99463-8249
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [10]
+    Telefone: (77) 98158-4273
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [11]
+    Telefone: (73) 98201-3156
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [12]
+    Telefone: (61) 99380-9056
+    Nome: JAIR MESSIAS BOLSONARO
+    Operadora: CLARO
+    Fonte: claro_cpf
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (54) 99909-1514
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 30MAR2010
+    Ultima Recarga: 24AUG2020
+    Telefone Anterior: (54) 9909-1514
+    Plano: PF_PRE_PURO
+    Data Instalacao: 24/03/2010
+E-mails: (24 item(s))
+  - lucianosbq@gmail.com
+  - dep.jairbolsonaro@terra.com.br
+  - gghenry14@gmail.com
+  - selva105@terra.com.br
+  - soubolsonaro@gmail.com
+  - soulivrenaescola@gmail.com
+  - shoping251jair@gmail.com
+  - jair.messiasbolsonaro@yahoo.com.br
+  - jair_bolsonaro@hotmail.com
+  - portalsenado@yahoo.com.br
+  - jairbolsonaro@oi.com.br
+  - deputado@flaviobolsonaro.com.br
+  - leticiabezerra56@gmail.com
+  - jair_bol@hotmail.com
+  - jairmessiasbolsonaro@bol.com.br
+  - contato@carlosbolsonaro.com.br
+  - vereador@carlosbolsonaro.com.br
+  - ronaldosuzano2010@hotmail.com
+  - gab.bsb@bolsonaro.com.br
+  - anderson.silva.fagundis@gmail.com
+  - jorgefco@terra.com.br
+  - pauloppff@hotmail.com
+  - sarmento_assessoria@hotmail.com
+  - dep.jairbolsonaro@camara.leg.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3806
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3806.85
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Processos: (6 item(s))
+  [1]
+    Número: 1015597-90.2024.8.26.0053
+    Classe: Ação Popular
+    Assunto: Violação aos Princípios Administrativos
+    Vara: 2ª Vara de Fazenda Pública
+    Data: 09/03/2024
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqdo
+        Nome: Jair Messias Bolsonaro
+  [2]
+    Número: 1061704-66.2022.8.26.0053
+    Classe: Ação Popular
+    Assunto: Violação aos Princípios Administrativos
+    Vara: 10ª Vara de Fazenda Pública
+    Data: 19/10/2022
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqdo
+        Nome: Jair Messias Bolsonaro
+  [3]
+    Número: 1053408-79.2020.8.26.0100
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Material
+    Vara: 31ª Vara Cível
+    Data: 24/06/2020
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqdo
+        Nome: Jair Messias Bolsonaro
+  [4]
+    Número: 1020260-77.2020.8.26.0100
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 19ª Vara Cível
+    Data: 06/03/2020
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqdo
+        Nome: Jair Messias Bolsonaro
+  [5]
+    Número: 1000084-04.2018.8.26.0050
+    Classe: Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular
+    Assunto: Calúnia
+    Vara: 20ª Vara Criminal
+    Data: 08/02/2018
+    Partes: (1 item(s))
+      [1]
+        Papel: Querelante
+        Nome: Jair Messias Bolsonaro
+  [6]
+    Número: 1019069-18.2021.8.26.0114
+    Classe: Inventário
+    Assunto: Inventário e Partilha
+    Vara: 4ª Vara de Família e Sucessões
+    Data: 12/05/2021
+    Partes: (1 item(s))
+      [1]
+        Papel: Herdeiro
+        Nome: Jair Messias Bolsonaro
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

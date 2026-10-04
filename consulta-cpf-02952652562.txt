@@ -1,0 +1,271 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02952652562
+Data/Hora:  04/10/2026, 00:46:49
+Tempo API:  712ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 029.526.525-62
+Nome: VANIA DE SOUZA SANTOS
+Primeiro Nome: VANIA
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 24/08/1980
+Nome da Mãe: LAURITA SOUZA SANTOS
+Nome do Pai: ELZIR DOS SANTOS
+Voter Id: 103097190582
+Score:
+  Value: 406
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 255
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MEN DE SA
+  Bairro: GERCINO COELHO
+  Cidade: PETROLINA
+  Estado: PERNAMBUCO
+  CEP: 56306-280
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MEN DE SA
+    Bairro: GERCINO COELHO
+    Cidade: PETROLINA
+    Estado: PERNAMBUCO
+    CEP: 56306-280
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GETULIO VARGAS
+    Bairro: QUADRA
+    Cidade: REMANSO - BA
+    Fonte: DATASUS
+  [3]
+    Rua: VIRGILIO SA
+    Tipo: R
+    Número: 3
+    Bairro: CENTRO
+    Cidade: REMANSO
+    Estado: BA
+    CEP: 47200-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: A
+    Tipo: R
+    Número: 150
+    Bairro: Q 20
+    Cidade: REMANSO
+    Estado: BA
+    CEP: 47200-000
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: PACIFICO DA LUZ
+    Número: 0000054
+    Bairro: CENTRO
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56304-010
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (87) 99116-1889
+  - (84) 98630-6284
+  - (84) 99901-5922
+  - (87) 99209-0167
+  - (74) 98853-6843
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: REMANSO - BA
+Cns: 705104494262670
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 20/12/2019
+    Mosaic New: D11
+    Mosaic Secondary: J33
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: VIRGILIO SA
+      Número: 3
+      Bairro: CENTRO
+      Cidade: REMANSO
+      Estado: BA
+      CEP: 47200-000
+      Date Added: 02/12/2014
+    [2]
+      Tipo: R
+      Rua: A
+      Número: 150
+      Bairro: Q 20
+      Cidade: REMANSO
+      Estado: BA
+      CEP: 47200-000
+      Date Added: 30/04/2015
+    [3]
+      Tipo: AV
+      Rua: GETULIO VARGAS
+      Número: 3
+      Bairro: Q 12
+      Cidade: REMANSO
+      Estado: BA
+      CEP: 47200-000
+      Date Added: 13/03/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 988536843
+      Ddd: 74
+      Tipo: 3
+      Classificacao: D
+      Date Added: 13/03/2019
+  Score:
+    CSB8: 452
+    CSB8 FAIXA: MEDIO
+    CSBA: 406
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LAURITA SOUZA SANTOS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 255.25
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 146.351.088-80
+    Nome: ALESSANDRO NUNES PEREIRA
+    Logradouro: OLIMPIO CAMPINHO
+    Número: 556
+    Bairro: CENTRO
+  [2]
+    CPF: 030.105.235-21
+    Nome: BERLANDIA PEREIRA DE OLIVEIRA
+    Logradouro: UM
+    Número: 75
+    Bairro: NOVA ESPERANCA
+  [3]
+    CPF: 493.194.775-15
+    Nome: ROSANGELA QUEIROZ DE CASTRO
+    Logradouro: AREA INDUSTRIAL
+    Número: SN
+    Bairro: Q 14
+  [4]
+    CPF: 243.523.495-34
+    Nome: EVERANICE MUNIZ MALVEZZI
+    Logradouro: EURICO GUANAIS
+    Número: 204
+    Bairro: CENTRO
+  [5]
+    CPF: 006.482.925-17
+    Nome: MARLENE LIMA NOGUEIRA
+    Logradouro: SIT PEDRINHAS II
+    Número: SN
+    Bairro: ZONA RURAL
+  [6]
+    CPF: 051.293.355-38
+    Nome: ALINE DA SILVA SANTOS
+    Logradouro: LANDULFO GUANAIS
+    Número: 96
+    Bairro: CENTRO
+  [7]
+    CPF: 004.322.905-08
+    Nome: MARILENE MACEDO DO NASCIMENTO
+    Logradouro: CENTRO DE IDENTIFICACAO
+    Número: 435
+    Bairro: Q 4
+  [8]
+    CPF: 493.201.305-15
+    Nome: ALVARO PEREIRA DE BRITO FILHO
+    Logradouro: SERGIPE
+    Número: 53
+    Bairro: Q 14
+  [9]
+    CPF: 040.086.485-18
+    Nome: JOSIANE NUNES DE CASTRO
+    Logradouro: SEABRA
+    Número: 63
+    Bairro: Q 08
+  [10]
+    CPF: 050.748.355-34
+    Nome: RENATO RUBENS SANTOS
+    Logradouro: THEODULO DE ALBUQUERQUE
+    Número: 33
+  [11]
+    CPF: 036.507.895-66
+    Nome: ADEMIR JOSE DA SILVA
+    Logradouro: PO LAGOA DO BARRO DOS BAIOS
+    Número: 1250
+    Bairro: LGA DO BARRO DOS B
+  [12]
+    CPF: 054.971.725-04
+    Nome: VALQUIRIA DOS SANTOS RODRIGUES
+    Logradouro: TRES
+    Número: 26
+    Bairro: CENTRO
+  [13]
+    CPF: 255.332.118-02
+    Nome: JEREMIAS DOS REIS FERREIRA LIMA
+    Logradouro: JOSE BONIFACIO
+    Número: 72
+    Bairro: CENTRO
+  [14]
+    CPF: 036.127.425-40
+    Nome: LIANA RODRIGUES DE ANDRADE
+    Logradouro: MATILDE
+    Número: 365
+    Bairro: VL MATILDE
+  [15]
+    CPF: 032.862.625-28
+    Nome: SOLANGE FERREIRA DE ANDRADE
+    Logradouro: JOSE BONIFACIO
+    Número: 43
+    Bairro: Q 10
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (87) 99209-0167
+    Nome: VANIA DE SOUZA SANTOS
+    Cidade: PETROLINA
+    UF: PE
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 255
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 255.25
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (74) 98853-6843
+    Ddd: 74
+    Número: 988536843
+    Tipo: 3
+    Data Inclusao: 13/03/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

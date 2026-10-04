@@ -1,0 +1,384 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02362482944
+Data/Hora:  03/10/2026, 23:26:39
+Tempo API:  699ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 023.624.829-44
+Nome: DARIO PEREIRA DO NASCIMENTO
+Primeiro Nome: DARIO
+Sobrenome: NASCIMENTO
+Sexo: Masculino
+Data de Nascimento: 08/02/1970
+Nome da Mãe: ANA APARECIDA DO NASCIMENTO
+Nome do Pai: ALBERTO PEREIRA DO NASCIMENTO
+RG: 58325716
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PR
+Voter Id: 051824800698
+Mosaic: J33
+Ocupação: Pedreiro
+Score:
+  Value: 809
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 1122
+Income Bracket: 2
+Cbo: 715210
+Endereço:
+  Tipo: RUA
+  Rua: JOSE NAZARIO REBELLO
+  Número: 40
+  Bairro: VELHA CENTRAL
+  Cidade: BLUMENAU
+  Estado: SANTA CATARINA
+  CEP: 89040-363
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSE NAZARIO REBELLO
+    Número: 40
+    Bairro: VELHA CENTRAL
+    Cidade: BLUMENAU
+    Estado: SANTA CATARINA
+    CEP: 89040-363
+    Fonte: PRINCIPAL
+  [2]
+    Rua: HERMANN TRIBESS 585/1489
+    Número: 1568
+    Bairro: TRIBESS
+    Cidade: BLUMENAU - SC
+    Fonte: DATASUS
+  [3]
+    Rua: VINTE E CINCO DE JULHO
+    Tipo: R
+    Número: 571
+    Bairro: ITOUPAVA NORTE
+    Cidade: BLUMENAU
+    Estado: SC
+    CEP: 89053-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: LOURENCO JOSE DE PAULA
+    Tipo: R
+    Número: 1377
+    Complemento: C
+    Bairro: PRQ DA FONTE
+    Cidade: SAO JOSE DOS PINHAIS
+    Estado: PR
+    CEP: 83050-120
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: FRANCISCO BECKER
+    Tipo: R
+    Número: 40
+    Complemento: LT 40
+    Bairro: VELHA CENTRAL
+    Cidade: BLUMENAU
+    Estado: SC
+    CEP: 89040-360
+    Data Atualizacao: 22/10/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: SAMUEL MORSE
+    Tipo: R
+    Número: 944
+    Complemento: LT 40
+    Bairro: FORTALEZA ALTA
+    Cidade: BLUMENAU
+    Estado: SC
+    CEP: 89058-010
+    Data Atualizacao: 06/11/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: JOSE NAZARIO REBELLO
+    Número: 0000040
+    Bairro: VELHA CENTRAL
+    Cidade: BLUMENAU
+    Estado: SC
+    CEP: 89040-363
+    Fonte: ASSECC
+  [8]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (47) 99617-5137
+  - (47) 99121-7165
+  - (41) 3586-0412
+  - (55) 3430-8938
+  - (47) 99137-5156
+Datasus Phones: (2 item(s))
+  - (47) 3330-1804
+  - (47) 99617-5137
+Cidade de Nascimento: CURITIBA - PR
+Cns: 702800684316165
+Rg Issue Date: 885178800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/09/2019
+    Mosaic: J33
+    Mosaic New: H25
+    Mosaic Secondary: E18
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE NAZARIO REBELLO
+      Número: 40
+      Bairro: VELHA CENTRAL
+      Cidade: BLUMENAU
+      Estado: SC
+      CEP: 89040-363
+      Date Added: 01/02/2018
+    [2]
+      Tipo: R
+      Rua: VINTE E CINCO DE JULHO
+      Número: 571
+      Bairro: ITOUPAVA NORTE
+      Cidade: BLUMENAU
+      Estado: SC
+      CEP: 89053-000
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: LOURENCO JOSE DE PAULA
+      Número: 1377
+      Complemento: C
+      Bairro: PRQ DA FONTE
+      Cidade: SAO JOSE DOS PINHAIS
+      Estado: PR
+      CEP: 83050-120
+      Date Added: 30/04/2015
+    [4]
+      Tipo: R
+      Rua: FRANCISCO BECKER
+      Número: 40
+      Complemento: LT 40
+      Bairro: VELHA CENTRAL
+      Cidade: BLUMENAU
+      Estado: SC
+      CEP: 89040-360
+      Date Added: 02/03/2009
+    [5]
+      Tipo: R
+      Rua: SAMUEL MORSE
+      Número: 944
+      Complemento: LT 40
+      Bairro: FORTALEZA ALTA
+      Cidade: BLUMENAU
+      Estado: SC
+      CEP: 89058-010
+      Date Added: 01/06/2010
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 991217165
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 35860412
+      Ddd: 41
+      Tipo: 2
+      Classificacao: C2
+      Date Added: 15/07/2014
+      Info Date: 16/10/2015
+    [3]
+      Telefone: 34308938
+      Ddd: 55
+      Tipo: 1
+      Classificacao: D
+      Date Added: 19/07/2017
+    [4]
+      Telefone: 991375156
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSBA: 809
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ANA APARECIDA DO NASCIMENTO
+      Vinculo: MAE
+  Pis: 12284969412
+  Tse:
+    Titulo: 51824800698
+    Zona: 88
+    Secao: 240
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1332.89
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 039.560.539-31
+    Nome: ANDERSON FRANZOI
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 860
+    Bairro: VELHA CENTRAL
+  [2]
+    CPF: 040.100.329-95
+    Nome: AUDENIR DE SOUZA
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 860
+    Bairro: VELHA CENTRAL
+  [3]
+    CPF: 607.159.529-00
+    Nome: ELIANE APARECIDA NICOLUZI
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 731
+    Bairro: VELHA CENTRAL
+  [4]
+    CPF: 032.230.499-75
+    Nome: JORGE LUIZ PFIFFER
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 25
+    Bairro: VELHA CENTRAL
+  [5]
+    CPF: 294.393.459-34
+    Nome: MARIA FRANZOI IMTHURN
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 860
+    Bairro: VELHA CENTRAL
+  [6]
+    CPF: 489.100.909-87
+    Nome: ELIANA NEU
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 40
+    Bairro: VELHA CENTRAL
+  [7]
+    CPF: 113.041.329-27
+    Nome: JULIA BROD VALVERDE
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 547
+    Bairro: VELHA CENTRAL
+  [8]
+    CPF: 294.393.459-34
+    Nome: MARIA FRANZOI IMTHURN
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 80
+    Bairro: VELHA CENTRAL
+  [9]
+    CPF: 647.075.717-00
+    Nome: SHIRLE CABRAL DE SOUZA
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 10
+    Bairro: VELHA CENTRAL
+  [10]
+    CPF: 013.770.707-00
+    Nome: MARIA LUIZA AZEVEDO MARQUES
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 80
+    Bairro: VELHA CENTRAL
+  [11]
+    CPF: 728.404.559-00
+    Nome: NEUSA MARIA DE SOUZA ERHARDT
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 38
+    Bairro: VELHA CENTRAL
+  [12]
+    CPF: 494.071.639-20
+    Nome: MARIA OLIVIA REBELLO
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 28
+    Bairro: VELHA CENTRAL
+  [13]
+    CPF: 810.370.318-49
+    Nome: MOACIR IMTHURN
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 19
+    Bairro: VELHA CENTRAL
+  [14]
+    CPF: 039.560.539-31
+    Nome: ANDERSON FRANZOI
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 19
+    Bairro: VELHA CENTRAL
+  [15]
+    CPF: 428.830.087-87
+    Nome: SHIRLEY CABRAL DOS SANTOS
+    Logradouro: JOSE NAZARIO REBELLO
+    Número: 21
+    Bairro: VELHA CENTRAL
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (47) 99617-5137
+    Nome: DARIO PEREIRA DO NASCIMENTO
+    Cidade: BLUMENAU
+    UF: SC
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (47) 99617-5137
+    Nome: DARIO PEREIRA DO NASCIMENTO
+    Operadora: TIM - Celular
+    Fonte: br21m
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1122
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1332.89
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (47) 99121-7165
+    Ddd: 47
+    Número: 991217165
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (41) 3586-0412
+    Ddd: 41
+    Número: 35860412
+    Tipo: CELULAR
+    Data Inclusao: 15/07/2014
+    Data Informacao: 16/10/2015
+    Classificacao: C2
+  [3]
+    Telefone: (55) 3430-8938
+    Ddd: 55
+    Número: 34308938
+    Tipo: FIXO
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (47) 99137-5156
+    Ddd: 47
+    Número: 991375156
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 715210
+Occupation Name: Pedreiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

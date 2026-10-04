@@ -1,0 +1,395 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13628119391
+Data/Hora:  03/10/2026, 17:01:28
+Tempo API:  749ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 136.281.193-91
+Nome: JORAN HENRIQUE DA ROCHA
+Primeiro Nome: JORAN
+Sobrenome: ROCHA
+Sexo: Masculino
+Data de Nascimento: 27/05/1962
+Nome da Mãe: OSMARINA MESQUITA ROCHA
+Mosaic: C10
+Ocupação: Trabalhadores dos Servicos e Vendedores do Comercio (categoria CBO)
+Score:
+  Value: 14
+  Range: ALTISSIMO
+E-mail: joranhenrique27@gmail.com
+Additional Emails: (2 item(s))
+  - joranhenrique27@gmail.com
+  - gildete@abeu.com.br
+Federal Status: REGULAR
+Renda: 211
+Income Bracket: 1
+Cbo: 111410
+Corporate Share Pct: 0
+Endereço:
+  Tipo: RUA
+  Rua: PADRE GUERRA
+  Número: 2256
+  Bairro: ALAGADICO
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 60455-360
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PADRE GUERRA
+    Número: 2256
+    Bairro: ALAGADICO
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 60455-360
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GUERRA
+    Tipo: R
+    Número: 2256
+    Complemento: AMADEU FURTADO
+    Bairro: PARQUELANDIA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60455-365
+    Data Atualizacao: 30/06/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: PEDRO DE QUEIROS
+    Tipo: R
+    Número: 2250
+    Bairro: AMADEU FURTADO
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60455-505
+    Data Atualizacao: 02/08/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: GUERRA
+    Tipo: R
+    Número: 2122
+    Bairro: PARQUELANDIA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60455-365
+    Data Atualizacao: 02/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: SALES
+    Tipo: R
+    Número: 480
+    Bairro: PARQUELANDIA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60450-125
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: SALES
+    Tipo: R
+    Número: 518
+    Complemento: C A
+    Bairro: PARQUELANDIA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60450-125
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (85) 98940-2151
+  - (85) 99942-2227
+  - (85) 3094-5388
+  - (85) 3287-6290
+  - (85) 98955-9228
+  - (85) 98540-0531
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/01/2020
+    Info Date: 25/11/2008
+    Mosaic: C10
+    Mosaic New: E15
+    Mosaic Secondary: D10
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: GUERRA
+      Número: 2256
+      Complemento: AMADEU FURTADO
+      Bairro: PARQUELANDIA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60455-365
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: PEDRO DE QUEIROS
+      Número: 2250
+      Bairro: AMADEU FURTADO
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60455-505
+      Date Added: 26/06/2010
+    [3]
+      Tipo: R
+      Rua: GUERRA
+      Número: 2122
+      Bairro: PARQUELANDIA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60455-365
+      Date Added: 27/03/2019
+    [4]
+      Tipo: R
+      Rua: SALES
+      Número: 480
+      Bairro: PARQUELANDIA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60450-125
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: SALES
+      Número: 518
+      Complemento: C A
+      Bairro: PARQUELANDIA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60450-125
+      Date Added: 03/08/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 30945388
+      Ddd: 85
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/03/2009
+      Info Date: 25/11/2008
+    [2]
+      Telefone: 32876290
+      Ddd: 85
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 22/10/2010
+      Info Date: 02/09/2009
+    [3]
+      Telefone: 989402151
+      Ddd: 85
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 989559228
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [5]
+      Telefone: 985400531
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: joranhenrique27@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [2]
+      E-mail: gildete@abeu.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 6
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 14
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: OSMARINA MESQUITA ROCHA
+      Vinculo: MAE
+  Pis: 10878462926
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 759.389.523-87
+    Nome: JOAQUIM VERIDIANO DE CARVALHO FILHO
+    Logradouro: GUERRA
+    Número: 1105
+    Bairro: PARQUELANDIA
+  [2]
+    CPF: 043.899.343-84
+    Nome: ANTONIO MARCOS BARRETO LIMA
+    Logradouro: GUERRA
+    Número: 1585
+    Bairro: PARQUELANDIA
+  [3]
+    CPF: 118.959.853-15
+    Nome: LUIZA MARIA DE ARAUJO LIMA
+    Logradouro: GUERRA
+    Número: 1055
+    Bairro: PARQUELANDIA
+  [4]
+    CPF: 500.568.593-68
+    Nome: LILIAN MAGALHAES DANTAS
+    Logradouro: GUERRA
+    Número: 1649
+    Bairro: PARQUELANDIA
+  [5]
+    CPF: 359.424.603-53
+    Nome: MARIA AUREA MAGALHAES RODRIGUES
+    Logradouro: GUERRA
+    Número: 917
+    Bairro: PARQUELANDIA
+  [6]
+    CPF: 006.180.223-92
+    Nome: LUCIA LOPES SOUSA
+    Logradouro: GUERRA
+    Número: 2113
+    Bairro: PARQUELANDIA
+  [7]
+    CPF: 005.982.873-02
+    Nome: NAYARA FROTA CARVALHO
+    Logradouro: GUERRA
+    Número: 2144
+    Bairro: PARQUELANDIA
+  [8]
+    CPF: 002.692.273-85
+    Nome: SUELLEN LUNA DE MATOS
+    Logradouro: GUERRA
+    Número: 1192
+    Bairro: PARQUELANDIA
+  [9]
+    CPF: 001.243.193-19
+    Nome: PEDRO JEFFERSON ALBUQUERQUE DE FARIAS
+    Logradouro: GUERRA
+    Número: 2275
+    Bairro: PARQUELANDIA
+  [10]
+    CPF: 857.222.943-49
+    Nome: ANA CLAUDIA MARTINS DO NASCIMENTO
+    Logradouro: GUERRA
+    Número: 1570
+    Bairro: PARQUELANDIA
+  [11]
+    CPF: 636.489.383-04
+    Nome: OTAVIO CENILSON PINHEIRO JUNIOR
+    Logradouro: GUERRA
+    Número: 2115
+    Bairro: PARQUELANDIA
+  [12]
+    CPF: 383.303.693-15
+    Nome: MARIA ROSEMEIRE SOUSA
+    Logradouro: GUERRA
+    Número: 2103
+    Bairro: PARQUELANDIA
+  [13]
+    CPF: 370.226.103-63
+    Nome: MARIA AUXILIADORA ROCHA DE LIMA ALMEIDA
+    Logradouro: GUERRA
+    Número: 1532
+    Bairro: PARQUELANDIA
+  [14]
+    CPF: 359.390.953-72
+    Nome: MARIA JUSTINA MODESTO DA SILVA
+    Logradouro: GUERRA
+    Número: 2145
+    Bairro: PARQUELANDIA
+  [15]
+    CPF: 247.500.343-04
+    Nome: ANA MARIA SOARES DE SOUZA
+    Logradouro: GUERRA
+    Número: 2204
+    Bairro: PARQUELANDIA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (85) 99942-2227
+    Nome: JORAN HENRRIQUE DA ROCHA
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (2 item(s))
+  - joranhenrique27@gmail.com
+  - gildete@abeu.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 211
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (85) 3094-5388
+    Ddd: 85
+    Número: 30945388
+    Tipo: FIXO
+    Data Inclusao: 02/03/2009
+    Data Informacao: 25/11/2008
+    Classificacao: D
+  [2]
+    Telefone: (85) 3287-6290
+    Ddd: 85
+    Número: 32876290
+    Tipo: FIXO
+    Data Inclusao: 22/10/2010
+    Data Informacao: 02/09/2009
+    Classificacao: A0
+  [3]
+    Telefone: (85) 98940-2151
+    Ddd: 85
+    Número: 989402151
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: A0
+  [4]
+    Telefone: (85) 98955-9228
+    Ddd: 85
+    Número: 989559228
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [5]
+    Telefone: (85) 98540-0531
+    Ddd: 85
+    Número: 985400531
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 5172
+Occupation Name: Trabalhadores dos Servicos e Vendedores do Comercio (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

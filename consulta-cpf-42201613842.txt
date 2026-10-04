@@ -1,0 +1,273 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  42201613842
+Data/Hora:  03/10/2026, 20:52:22
+Tempo API:  710ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 422.016.138-42
+Nome: BRUNA APARECIDA NAVAS DOS SANTOS
+Primeiro Nome: BRUNA
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 28/03/1995
+Nome da Mãe: MARINEUZA NAVAS DOS SANTOS
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares)
+Score:
+  Value: 427
+  Range: MEDIO
+E-mail: crivelarorogerio@hotmail.com
+Additional Emails: (1 item(s))
+  - crivelarorogerio@hotmail.com
+Federal Status: REGULAR
+Renda: 2057
+Income Bracket: 3
+Cbo: 731110
+Endereço:
+  Tipo: RUA
+  Rua: TRES
+  Número: 130
+  Complemento: CH
+  Bairro: AGUA DOCE
+  Cidade: JUNDIAI
+  Estado: SAO PAULO
+  CEP: 13213-154
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: TRES
+    Número: 130
+    Complemento: CH
+    Bairro: AGUA DOCE
+    Cidade: JUNDIAI
+    Estado: SAO PAULO
+    CEP: 13213-154
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R TRES
+    Número: 130
+    Bairro: AGUA DOCE
+    Cidade: JUNDIAI - SP
+    Fonte: DATASUS
+  [3]
+    Rua: UM
+    Tipo: R
+    Número: 213
+    Bairro: AGUA DOCE
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 13213-150
+    Data Atualizacao: 10/01/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DEODORO DA FONSECA
+    Número: 52
+    Bairro: CENTRO
+    Estado: SP
+    CEP: 13201-002
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (1 item(s))
+  - (11) 97440-3919
+Datasus Phones: (1 item(s))
+  - (11) 97440-3919
+Cidade de Nascimento: INVALIDO
+Cns: 704507353689512
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Mosaic New: D11
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: UM
+      Número: 213
+      Bairro: AGUA DOCE
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13213-150
+      Date Added: 23/04/2015
+    [2]
+      Tipo: R
+      Rua: TRES
+      Número: 130
+      Complemento: CH
+      Bairro: AGUA DOCE
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13213-154
+      Date Added: 27/03/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 974403919
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 27/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: crivelarorogerio@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 427
+    CSBA FAIXA: MEDIO
+  Pis: 14412010151
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 302.89
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 966.798.248-34
+    Nome: JOSE JULIO DE SOUZA
+    Logradouro: UM
+    Número: 95
+    Bairro: AGUA DOCE
+  [2]
+    CPF: 002.074.088-31
+    Nome: PEDRO JOSE DA SILVA
+    Logradouro: UM
+    Número: 169
+    Bairro: AGUA DOCE
+  [3]
+    CPF: 004.118.715-60
+    Nome: JOSE EDUARDO DA CRUZ SILVA SANTOS
+    Logradouro: UM
+    Número: 125
+    Bairro: AGUA DOCE
+  [4]
+    CPF: 427.263.458-59
+    Nome: MAYARA SIGNORI RODRIGUES GALASSE
+    Logradouro: UM
+    Número: 61
+    Bairro: AGUA DOCE
+  [5]
+    CPF: 066.706.228-99
+    Nome: GILSON FERNANDES VIEIRA
+    Logradouro: UM
+    Número: 1585
+    Bairro: AGUA DOCE
+  [6]
+    CPF: 348.941.648-17
+    Nome: ANA PAULA CECATO MATHIA
+    Logradouro: UM
+    Número: 370
+    Bairro: AGUA DOCE
+  [7]
+    CPF: 189.186.218-92
+    Nome: VIVIANE DE CASSIA CRUZ VIEIRA
+    Logradouro: UM
+    Número: 141
+    Bairro: AGUA DOCE
+  [8]
+    CPF: 119.317.818-50
+    Nome: CICERO LUIZ DOS SANTOS
+    Logradouro: UM
+    Número: 263
+    Bairro: AGUA DOCE
+  [9]
+    CPF: 378.002.538-80
+    Nome: JOAO CARLOS HENRIQUE DA SILVA
+    Logradouro: UM
+    Número: 119
+    Bairro: AGUA DOCE
+  [10]
+    CPF: 224.215.698-50
+    Nome: PRISCILA GUIMARAES LIMA
+    Logradouro: UM
+    Número: 169
+    Bairro: AGUA DOCE
+  [11]
+    CPF: 004.075.306-90
+    Nome: RICARDO NOVAES MANTOVANI
+    Logradouro: UM
+    Número: 52
+    Bairro: AGUA DOCE
+  [12]
+    CPF: 093.867.198-78
+    Nome: EDGAR PEREIRA DE SOUZA
+    Logradouro: UM
+    Número: 253
+    Bairro: AGUA DOCE
+  [13]
+    CPF: 164.828.918-53
+    Nome: RAMON BONILHA DE GODOI
+    Logradouro: UM
+    Número: 253
+    Bairro: AGUA DOCE
+  [14]
+    CPF: 595.676.515-15
+    Nome: LUCENEIDE DA CONCEICAO GOMES
+    Logradouro: UM
+    Número: 94
+    Bairro: AGUA DOCE
+  [15]
+    CPF: 283.426.068-05
+    Nome: WITYSLEI DA SILVEIRA
+    Logradouro: UM
+    Número: 132
+    Bairro: AGUA DOCE
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 97440-3919
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 08APR2008
+    Ultima Recarga: 13SEP2020
+    Telefone Anterior: (11) 7440-3919
+    Plano: PF_PRE_PURO
+    Data Instalacao: 28/02/2008
+E-mails: (1 item(s))
+  - crivelarorogerio@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2057
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 302.89
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (11) 97440-3919
+    Ddd: 11
+    Número: 974403919
+    Tipo: 3
+    Data Inclusao: 27/03/2019
+    Classificacao: A0
+Occupation Code: 731110
+Occupation Name: Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

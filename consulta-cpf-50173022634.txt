@@ -1,0 +1,500 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  50173022634
+Data/Hora:  03/10/2026, 22:33:41
+Tempo API:  233ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 501.730.226-34
+Nome: CRISTINA SOUZA PEREIRA
+Primeiro Nome: CRISTINA
+Sobrenome: PEREIRA
+Sexo: Feminino
+Data de Nascimento: 17/07/1964
+Nome da Mãe: LICY SILVA DE SOUZA
+RG: 2792752
+Rg Issuer: SSP
+Rg State: MG
+Mosaic: B04
+Ocupação: Comerciante atacadista
+Score:
+  Value: 968
+  Range: BAIXISSIMO RISCO
+E-mail: cristinasouza.p@hotmail.com
+Additional Emails: (4 item(s))
+  - cristinasouza.p@hotmail.com
+  - l.beaujard@wanadoo.fr
+  - lu.souza.p@hotmail.com
+  - cristinasouzap@outlook.com
+Federal Status: REGULAR
+Renda: 1398
+Income Bracket: 2
+Cbo: 410105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: BR RIO BRANCO
+  Complemento: AP1301
+  Bairro: CENTRO
+  Cidade: GOVERNADOR VALADARES
+  Estado: MINAS GERAIS
+  CEP: 35010-030
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BR RIO BRANCO
+    Complemento: AP1301
+    Bairro: CENTRO
+    Cidade: GOVERNADOR VALADARES
+    Estado: MINAS GERAIS
+    CEP: 35010-030
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PAULO
+    Tipo: R
+    Número: 935
+    Bairro: CENTRO
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 35010-180
+    Data Atualizacao: 24/06/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: FRANCA
+    Tipo: R
+    Número: 372
+    Bairro: GRA DUQUESA
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 35057-260
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: OLEGARIO MACIEL
+    Tipo: R
+    Número: 897
+    Complemento: AP 801
+    Bairro: ESPLANADA
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 35010-200
+    Data Atualizacao: 04/04/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GONCALO COSTA
+    Tipo: R
+    Número: 237
+    Bairro: NOSSA SENHORA DAS GRACAS
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 35058-110
+    Data Atualizacao: 27/09/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: CRISTINA SOUZA PEREIRA
+    Rua: 0000897
+    Número: OLEGARIO MACIEL
+    Bairro: ESPLANADA
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 35010-200
+    Fonte: ASSECC
+  [7]
+    Tipo: [empty]
+    Rua: OLEGARIO MACIEL
+    Número: 0000897
+    Bairro: ESPLANADA
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 03501-000
+    Fonte: ASSECC
+  [8]
+    Tipo: R.
+    Rua: DOM PEDRO II
+    Número: 477
+    Complemento: AP - Apartamento: 601;
+    Bairro: GOVERNADOR VALADARES
+    Cidade: GOVERNADOR VALADARES
+    Estado: MG
+    CEP: 35010-090
+    Fonte: VIVO_FIXO
+  [9]
+    Rua: R BR DO RIO BRANCO
+    Número: 149
+    Complemento: AP 1301
+    Bairro: CENTRO
+    Estado: MG
+    CEP: 35010-030
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (33) 99121-0512
+  - (33) 99113-3834
+  - (33) 3273-7674
+  - +55 (33) 99191-7159
+  - 553332737674
+  - (33) 99973-2727
+  - (33) 3276-1568
+  - (33) 99902-3696
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: O
+    Status Date: 27/11/2019
+    Info Date: 20/12/2007
+    Rg Issuer: SSP
+    Rg State: MG
+    Mosaic: B04
+    Mosaic New: A02
+    Mosaic Secondary: B04
+    Income Bracket Id: 5
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: PAULO
+      Número: 935
+      Bairro: CENTRO
+      Cidade: GOVERNADOR VALADARES
+      Estado: MG
+      CEP: 35010-180
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: FRANCA
+      Número: 372
+      Bairro: GRA DUQUESA
+      Cidade: GOVERNADOR VALADARES
+      Estado: MG
+      CEP: 35057-260
+      Date Added: 02/02/2016
+    [3]
+      Tipo: R
+      Rua: OLEGARIO MACIEL
+      Número: 897
+      Complemento: AP 801
+      Bairro: ESPLANADA
+      Cidade: GOVERNADOR VALADARES
+      Estado: MG
+      CEP: 35010-200
+      Date Added: 01/01/2016
+    [4]
+      Tipo: R
+      Rua: GONCALO COSTA
+      Número: 237
+      Bairro: NOSSA SENHORA DAS GRACAS
+      Cidade: GOVERNADOR VALADARES
+      Estado: MG
+      CEP: 35058-110
+      Date Added: 16/08/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32737674
+      Ddd: 33
+      Tipo: 1
+      Classificacao: B
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 32761568
+      Ddd: 33
+      Tipo: 1
+      Classificacao: C2
+      Date Added: 28/08/2006
+    [3]
+      Telefone: 991210512
+      Ddd: 33
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 23/01/2016
+    [4]
+      Telefone: 999732727
+      Ddd: 33
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/01/2016
+    [5]
+      Telefone: 999023696
+      Ddd: 33
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (3 item(s))
+    [1]
+      E-mail: cristinasouza.p@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: l.beaujard@wanadoo.fr
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 12/07/2017
+    [3]
+      E-mail: lu.souza.p@hotmail.com
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 948
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 968
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 452.947.986-20
+      Nome: LUCIANO SILVA DE SOUZA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 543.726.586-72
+      Nome: MARCIA SILVA DE SOUZA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 3327443610
+      Nome: LICY SILVA DE SOUZA
+      Vinculo: MAE
+    [4]
+      CPF: 467.386.906-06
+      Nome: ROBERTO CARLOS MELO PEREIRA
+      Vinculo: CONJUGE
+    [5]
+      CPF: 9813456620
+      Nome: LUIZA SOUZA PEREIRA
+      Vinculo: FILHA(O)
+    [6]
+      CPF: 945.702.056-15
+      Nome: KARINE SILVA DE SOUZA
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2960.77
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 008.902.146-03
+    Nome: CARLOS EUGENIO DE ALMEIDA
+    Logradouro: PAULO
+    Número: 910
+    Bairro: CENTRO
+  [2]
+    CPF: 127.039.686-20
+    Nome: ALANE ALVES CORREA
+    Logradouro: PAULO
+    Número: 176
+    Bairro: CENTRO
+  [3]
+    CPF: 071.218.996-39
+    Nome: MONICA MARIA DE SOUZA SOARES RODRIGUES
+    Logradouro: PAULO
+    Número: SN
+    Bairro: CENTRO
+  [4]
+    CPF: 153.257.096-15
+    Nome: MARIA VICENTINA FIALHO
+    Logradouro: PAULO
+    Número: 460
+    Bairro: CENTRO
+  [5]
+    CPF: 989.592.398-87
+    Nome: ADAO DE OLIVEIRA GONCALVES
+    Logradouro: PAULO
+    Número: 476
+    Bairro: CENTRO
+  [6]
+    CPF: 024.916.106-04
+    Nome: GLAYDSON WILLEN CAUS NICO
+    Logradouro: PAULO
+    Número: 476
+    Bairro: CENTRO
+  [7]
+    CPF: 078.950.466-91
+    Nome: JOSE GERALDO PEDRA SA
+    Logradouro: PAULO
+    Número: 798
+    Bairro: CENTRO
+  [8]
+    CPF: 427.313.056-49
+    Nome: TELMA PINHEIRO ZACCHE
+    Logradouro: PAULO
+    Número: 176
+    Bairro: CENTRO
+  [9]
+    CPF: 012.694.466-06
+    Nome: MILLY MACHADO RIBEIRO
+    Logradouro: PAULO
+    Número: 380
+    Bairro: CENTRO
+  [10]
+    CPF: 006.454.006-53
+    Nome: JOAO SIMOES
+    Logradouro: PAULO
+    Número: 365
+    Bairro: CENTRO
+  [11]
+    CPF: 066.048.986-44
+    Nome: GUSTAVO BARROSO CAMARA
+    Logradouro: PAULO
+    Número: 811
+    Bairro: CENTRO
+  [12]
+    CPF: 433.762.666-20
+    Nome: ERCELI MARIA MAGALHAES
+    Logradouro: PAULO
+    Número: 476
+    Bairro: CENTRO
+  [13]
+    CPF: 004.471.106-91
+    Nome: RAUL FERNANDO CHAVES CORREA
+    Logradouro: PAULO
+    Número: 176
+    Bairro: CENTRO
+  [14]
+    CPF: 975.748.131-91
+    Nome: ALEX ENEAS DE OLIVEIRA
+    Logradouro: PAULO
+    Número: 935
+    Bairro: CENTRO
+  [15]
+    CPF: 759.664.686-72
+    Nome: VANAIR VIEIRA DE SOUZA LEMOS
+    Logradouro: PAULO
+    Número: 910
+    Bairro: CENTRO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (33) 99113-3834
+    Nome: R
+    Cidade: GOVERNADOR VALADARES
+    UF: MG
+  [2]
+    Telefone: (33) 99121-0512
+    Nome: CRISTINA  SOUZA PEREIRA
+    Cidade: GOVERNADOR VALADARES
+    UF: MG
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (33) 3273-7674
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 26JUL2017:08:07:08
+    Cel Contato: +5533991917159
+    Complemento: AP - Apartamento: 601;
+    Data Retirada: 02APR2020:16:35:06
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (33) 99121-0512
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (33) 9121-0512
+    Plano: PF_POS_PURO
+    Data Instalacao: 08/10/2010
+    Flag Divida: 1
+    Maior Atraso: -8
+    Menor Atraso: -8
+    Valor Fatura: 297.96
+    Mes Referencia: 202009
+  [3]
+    Telefone: (33) 99973-2727
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (33) 9973-2727
+    Plano: PF_POS_PURO
+    Data Instalacao: 15/12/2006
+    Flag Divida: 1
+    Maior Atraso: -8
+    Menor Atraso: -8
+    Valor Fatura: 297.96
+    Mes Referencia: 202009
+E-mails: (4 item(s))
+  - cristinasouza.p@hotmail.com
+  - l.beaujard@wanadoo.fr
+  - lu.souza.p@hotmail.com
+  - cristinasouzap@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1398
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2960.77
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (33) 3273-7674
+    Ddd: 33
+    Número: 32737674
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: B
+  [2]
+    Telefone: (33) 3276-1568
+    Ddd: 33
+    Número: 32761568
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: C2
+  [3]
+    Telefone: (33) 99121-0512
+    Ddd: 33
+    Número: 991210512
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: C2
+  [4]
+    Telefone: (33) 99973-2727
+    Ddd: 33
+    Número: 999732727
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: A0
+  [5]
+    Telefone: (33) 99902-3696
+    Ddd: 33
+    Número: 999023696
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 141405
+Occupation Name: Comerciante atacadista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

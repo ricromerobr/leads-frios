@@ -1,0 +1,405 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  62260235034
+Data/Hora:  03/10/2026, 22:27:01
+Tempo API:  709ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 622.602.350-34
+Nome: ARMANDO SCHUMANN
+Primeiro Nome: ARMANDO
+Sobrenome: SCHUMANN
+Sexo: Masculino
+Data de Nascimento: 02/03/1969
+Nome da Mãe: WILMA JANKE SCHUMANN
+Nome do Pai: EDWINO SCHUMANN
+RG: 3049931599
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RS
+Mosaic: C09
+Ocupação: Trabalhadores da Producao de Bens e Servicos Industriais (categoria CBO)
+Score:
+  Value: 299
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 2617
+Income Bracket: 3
+Cbo: 723330
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: ANTONIO GAUER
+  Número: 140
+  Complemento: CONTRATO DE COMPRA E VEND A I
+  Bairro: AEROPORTO
+  Cidade: ERECHIM
+  Estado: RIO GRANDE DO SUL
+  CEP: 99708-892
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANTONIO GAUER
+    Número: 140
+    Complemento: CONTRATO DE COMPRA E VEND A I
+    Bairro: AEROPORTO
+    Cidade: ERECHIM
+    Estado: RIO GRANDE DO SUL
+    CEP: 99708-892
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO GAUER
+    Número: 104
+    Bairro: SANTA ISABEL
+    Cidade: ERECHIM - RS
+    Fonte: DATASUS
+  [3]
+    Rua: ALBERTO PARENTI
+    Tipo: R
+    Número: 10
+    Bairro: ATLANTICO
+    Cidade: ERECHIM
+    Estado: RS
+    CEP: 99705-492
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: THEREZA DAL VESCO
+    Tipo: R
+    Número: 27
+    Bairro: BOA VISTA
+    Cidade: ERECHIM
+    Estado: RS
+    CEP: 99714-104
+    Data Atualizacao: 15/04/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MARIA THEREZA FAVERO
+    Tipo: R
+    Número: 27
+    Complemento: CS
+    Bairro: TRES VENDAS
+    Cidade: ERECHIM
+    Estado: RS
+    CEP: 99713-060
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: THEREZA DAL VESCO
+    Número: 0000027
+    Bairro: BOA VISTA
+    Cidade: ERECHIM
+    Estado: RS
+    CEP: 99714-104
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: MARIA THEREZA FAVERO
+    Número: 0000027
+    Bairro: TRES VENDAS
+    Cidade: ERECHIM
+    Estado: RS
+    CEP: 99713-060
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (54) 99689-7068
+  - (54) 99670-8268
+  - (21) 2263-3180
+  - (54) 99604-1543
+  - (54) 3712-5693
+Cidade de Nascimento: ERECHIM - RS
+Cns: 700906926570198
+Rg Issue Date: 683780400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/08/2019
+    Mosaic: C09
+    Mosaic New: E18
+    Mosaic Secondary: H26
+    Income Bracket Id: 3
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO GAUER
+      Número: 140
+      Complemento: CONTRATO DE COMPRA E VEND A I
+      Bairro: AEROPORTO
+      Cidade: ERECHIM
+      Estado: RS
+      CEP: 99708-892
+      Date Added: 08/10/2018
+    [2]
+      Tipo: R
+      Rua: ALBERTO PARENTI
+      Número: 10
+      Bairro: ATLANTICO
+      Cidade: ERECHIM
+      Estado: RS
+      CEP: 99705-492
+      Date Added: 30/10/2017
+    [3]
+      Tipo: R
+      Rua: THEREZA DAL VESCO
+      Número: 27
+      Bairro: BOA VISTA
+      Cidade: ERECHIM
+      Estado: RS
+      CEP: 99714-104
+      Date Added: 11/02/2015
+    [4]
+      Tipo: R
+      Rua: MARIA THEREZA FAVERO
+      Número: 27
+      Complemento: CS
+      Bairro: TRES VENDAS
+      Cidade: ERECHIM
+      Estado: RS
+      CEP: 99713-060
+      Date Added: 01/02/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 22633180
+      Ddd: 21
+      Tipo: 2
+      Classificacao: D
+      Date Added: 13/06/2011
+    [2]
+      Telefone: 996041543
+      Ddd: 54
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 996708268
+      Ddd: 54
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/11/2017
+    [4]
+      Telefone: 996897068
+      Ddd: 54
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 37125693
+      Ddd: 54
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 18/06/2019
+      Info Date: 23/10/2017
+  Score:
+    CSBA: 299
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 853.741.649-53
+      Nome: LOURDES GONCALVES SCHUMANN
+      Vinculo: SOGRA
+    [2]
+      CPF: 915.022.689-49
+      Nome: IVANI SCHUMANN
+      Vinculo: CONJUGE
+    [3]
+      Nome: WILMA JANKE SCHUMANN
+      Vinculo: MAE
+  Pis: 12581836670
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1615.91
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 005.357.580-65
+    Nome: ROSANGELA DE OLIVEIRA
+    Logradouro: ANTONIO GAUER
+    Número: 256
+    Bairro: AEROPORTO
+  [2]
+    CPF: 003.905.010-69
+    Nome: ELISANGELA POSSERA
+    Logradouro: ANTONIO GAUER
+    Número: 60
+    Bairro: AEROPORTO
+  [3]
+    CPF: 830.950.040-87
+    Nome: ELAINE FELIPE NAISINGER
+    Logradouro: ANTONIO GAUER
+    Número: 238
+    Bairro: AEROPORTO
+  [4]
+    CPF: 003.905.010-69
+    Nome: ELISANGELA POSSERA
+    Logradouro: ANTONIO GAUER
+    Número: 88
+    Bairro: AEROPORTO
+  [5]
+    CPF: 004.055.040-04
+    Nome: ALEXANDRO AMARAL
+    Logradouro: ANTONIO GAUER
+    Número: 20
+    Bairro: AEROPORTO
+  [6]
+    CPF: 342.562.450-49
+    Nome: CIPRIANO BAZI
+    Logradouro: ANTONIO GAUER
+    Número: 500
+    Bairro: AEROPORTO
+  [7]
+    CPF: 457.809.270-49
+    Nome: OTAVIO VITOSOAFSKI
+    Logradouro: ANTONIO GAUER
+    Número: 518
+    Bairro: AEROPORTO
+  [8]
+    CPF: 956.801.360-15
+    Nome: VALDOMIRO REINALDO DO AMARAL CASTANHO
+    Logradouro: ANTONIO GAUER
+    Número: 108
+    Bairro: AEROPORTO
+  [9]
+    CPF: 839.856.200-59
+    Nome: GEFERSON KUFNER
+    Logradouro: ANTONIO GAUER
+    Número: 590
+    Bairro: AEROPORTO
+  [10]
+    CPF: 001.166.680-32
+    Nome: ELISIANE TAISA DE CHAVES
+    Logradouro: ANTONIO GAUER
+    Número: 340
+    Bairro: AEROPORTO
+  [11]
+    CPF: 002.649.720-40
+    Nome: ALINE MARIA CISCHINI
+    Logradouro: ANTONIO GAUER
+    Número: 532
+    Bairro: AEROPORTO
+  [12]
+    CPF: 006.978.600-35
+    Nome: JANICE VEIGA
+    Logradouro: ANTONIO GAUER
+    Número: 2150
+    Bairro: AEROPORTO
+  [13]
+    CPF: 325.768.540-87
+    Nome: JOAO CLARO GUIMARAES
+    Logradouro: ANTONIO GAUER
+    Número: 200
+    Bairro: AEROPORTO
+  [14]
+    CPF: 308.033.570-87
+    Nome: JOSE LUIZ BOEIRA DE OLIVEIRA
+    Logradouro: ANTONIO GAUER
+    Número: 150
+    Bairro: AEROPORTO
+  [15]
+    CPF: 952.439.920-20
+    Nome: FRANCISCO RODRIGUES DA ROSA
+    Logradouro: ANTONIO GAUER
+    Número: 60
+    Bairro: AEROPORTO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (54) 99689-7068
+    Nome: ARMANDO SCHUMANN
+    Cidade: ERECHIM
+    UF: RS
+  [2]
+    Telefone: (54) 99670-8268
+    Nome: ARMANDO SCHUMANN
+    Cidade: ERECHIM
+    UF: RS
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (54) 99670-8268
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_CONTROLE
+    Data Instalacao: 09/01/2017
+    Valor Fatura: 56.99
+    Mes Referencia: 202009
+E-mail: ivanirschmann@gmail.com
+Additional Emails: (1 item(s))
+  - ivanirschmann@gmail.com
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (54) 99689-7068
+    Nome: ARMANDO SCHUMANN
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - ivanirschmann@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2617
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1615.91
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 2263-3180
+    Ddd: 21
+    Número: 22633180
+    Tipo: CELULAR
+    Data Inclusao: 13/06/2011
+    Classificacao: D
+  [2]
+    Telefone: (54) 99604-1543
+    Ddd: 54
+    Número: 996041543
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [3]
+    Telefone: (54) 99670-8268
+    Ddd: 54
+    Número: 996708268
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: A0
+  [4]
+    Telefone: (54) 99689-7068
+    Ddd: 54
+    Número: 996897068
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: C2
+  [5]
+    Telefone: (54) 3712-5693
+    Ddd: 54
+    Número: 37125693
+    Tipo: FIXO
+    Data Inclusao: 18/06/2019
+    Data Informacao: 23/10/2017
+    Classificacao: D2
+Occupation Code: 8414
+Occupation Name: Trabalhadores da Producao de Bens e Servicos Industriais (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

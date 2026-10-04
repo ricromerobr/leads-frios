@@ -1,0 +1,286 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  85909821571
+Data/Hora:  02/10/2026, 15:41:22
+Tempo API:  8502ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 859.098.215-71
+Nome: IGOR DE JESUS DOS SANTOS
+Primeiro Nome: IGOR
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 24/08/1995
+Nome da Mãe: IVANETE OLIVEIRA DE JESIS
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Cozinheiro geral
+Score:
+  Value: 141
+  Range: ALTISSIMO
+E-mail: iguigu54@gmail.com
+Federal Status: REGULAR
+Renda: 1275
+Income Bracket: 2
+Cbo: 513205
+Endereço:
+  Tipo: RUA
+  Rua: ENGENHEIROALUISIOMARQUES
+  Número: 205
+  Bairro: PARQUEMARIAHELENA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05854-110
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ENGENHEIROALUISIOMARQUES
+    Número: 205
+    Bairro: PARQUEMARIAHELENA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05854-110
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R DO GRAVATA
+    Número: 22
+    Bairro: PERIPERI
+    Cidade: SALVADOR - BA
+    Fonte: DATASUS
+  [3]
+    Rua: CIPOTUBA
+    Tipo: R
+    Número: 140
+    Complemento: C 3
+    Bairro: MRO DO INDIO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05873-190
+    Data Atualizacao: 25/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CIPOTUBA
+    Tipo: R
+    Número: 788
+    Bairro: MRO DO INDIO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05873-190
+    Data Atualizacao: 01/05/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: ENGENHEIROALUISIOMARQUES
+    Número: 0000205
+    Bairro: PARQUEMARIAHELENA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05854-110
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (11) 96425-2765
+  - +55 (11) 94589-4305
+  - (11) 98332-3213
+Datasus Phones: (1 item(s))
+  - (71) 3308-0144
+Cidade de Nascimento: INVALIDO
+Cns: 700000573596802
+Paycom:
+  E-mail: iguigu54@gmail.com
+  Data de Nascimento: 24/08/1995
+  Created At: 2020-12-18 14:54:57
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: rua engenheiro aluísio marques
+    Número: 205
+    Complemento: meu bom
+    Bairro: parque maria helena
+    Cidade: são paulo
+    Estado: SP
+    País: BRA
+    CEP: 05854-110
+    Telephone: +55 (11) 94589-4305
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/08/2019
+    Mosaic New: D10
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: CIPOTUBA
+      Número: 140
+      Complemento: C 3
+      Bairro: MRO DO INDIO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05873-190
+      Date Added: 02/05/2017
+    [2]
+      Tipo: R
+      Rua: CIPOTUBA
+      Número: 788
+      Bairro: MRO DO INDIO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05873-190
+      Date Added: 23/04/2015
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 983323213
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  Score:
+    CSB8: 439
+    CSB8 FAIXA: MEDIO
+    CSBA: 141
+    CSBA FAIXA: ALTISSIMO
+  Pis: 20011849325
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 405.14
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 151.867.578-61
+    Nome: ELIVALDO MIGUEL DA SILVA
+    Logradouro: CIPOTUBA
+    Número: 13
+    Bairro: MRO DO INDIO
+  [2]
+    CPF: 433.360.515-68
+    Nome: CARLOS FERNANDES SANTOS SILVA
+    Logradouro: CIPOTUBA
+    Número: 251
+    Bairro: MRO DO INDIO
+  [3]
+    CPF: 274.219.768-09
+    Nome: REJANE CONCEICAO FERREIRA
+    Logradouro: CIPOTUBA
+    Número: 30
+    Bairro: MRO DO INDIO
+  [4]
+    CPF: 657.237.918-34
+    Nome: LUIZ CAMILO DE OLIVEIRA
+    Logradouro: CIPOTUBA
+    Número: 98
+    Bairro: MRO DO INDIO
+  [5]
+    CPF: 263.685.688-95
+    Nome: NEUZA MIRANDA DE OLIVEIRA
+    Logradouro: CIPOTUBA
+    Número: 45
+    Bairro: MRO DO INDIO
+  [6]
+    CPF: 174.885.358-98
+    Nome: MARIA DAS GRACAS JESUS SANTOS
+    Logradouro: CIPOTUBA
+    Número: 1000
+    Bairro: MRO DO INDIO
+  [7]
+    CPF: 443.408.558-12
+    Nome: DENIS OLIVEIRA DOS SANTOS
+    Logradouro: CIPOTUBA
+    Número: 30
+    Bairro: MRO DO INDIO
+  [8]
+    CPF: 419.367.428-29
+    Nome: RENATA GOMES CARREIRO
+    Logradouro: CIPOTUBA
+    Número: 749
+    Bairro: MRO DO INDIO
+  [9]
+    CPF: 228.120.948-26
+    Nome: JOSEMEIRE PEREIRA
+    Logradouro: CIPOTUBA
+    Número: 867
+    Bairro: MRO DO INDIO
+  [10]
+    CPF: 171.009.608-00
+    Nome: EDNA MARIA SILVA
+    Logradouro: CIPOTUBA
+    Número: 37
+    Bairro: MRO DO INDIO
+  [11]
+    CPF: 420.647.898-80
+    Nome: LORENA ALVES FLORES
+    Logradouro: CIPOTUBA
+    Número: 111
+    Bairro: MRO DO INDIO
+  [12]
+    CPF: 359.122.268-24
+    Nome: MIRIA SANTANA SOUZA
+    Logradouro: CIPOTUBA
+    Número: 100
+    Bairro: MRO DO INDIO
+  [13]
+    CPF: 011.366.625-02
+    Nome: IZABEL DOS SANTOS BARBOSA
+    Logradouro: CIPOTUBA
+    Número: 122
+    Bairro: MRO DO INDIO
+  [14]
+    CPF: 019.061.095-67
+    Nome: ERIVALDO NERY BRITO SILVA
+    Logradouro: CIPOTUBA
+    Número: 63
+    Bairro: MRO DO INDIO
+  [15]
+    CPF: 017.560.425-86
+    Nome: MANOEL OLIVEIRA DAMACENA
+    Logradouro: CIPOTUBA
+    Número: 873
+    Bairro: MRO DO INDIO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96425-2765
+    Nome: IGOR DE JESUS DOS SANTOS
+    Cidade: SAO PAULO
+    UF: SP
+E-mails: (1 item(s))
+  - iguigu54@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1275
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 405.14
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (11) 98332-3213
+    Ddd: 11
+    Número: 983323213
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+Occupation Code: 513205
+Occupation Name: Cozinheiro geral
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

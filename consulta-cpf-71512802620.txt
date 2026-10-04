@@ -1,0 +1,439 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  71512802620
+Data/Hora:  03/10/2026, 16:32:12
+Tempo API:  577ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 715.128.026-20
+Nome: SUELI DA SILVA MARCAL LIMA
+Primeiro Nome: SUELI
+Sobrenome: LIMA
+Sexo: Feminino
+Data de Nascimento: 08/01/1965
+Nome da Mãe: SEBASTIANA DA SILVA MARCAL
+Nome do Pai: SILVENTINO MARÇAL
+RG: 4387502
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MG
+Mosaic: E17
+Ocupação: Trabalhador de serviços de limpeza e conservação de áreas públicas
+Score:
+  Value: 20
+  Range: ALTISSIMO
+E-mail: carloiz@weg.com.br
+Additional Emails: (1 item(s))
+  - carloiz@weg.com.br
+Federal Status: REGULAR
+Renda: 1141
+Income Bracket: 2
+Cbo: 514225
+Endereço:
+  Tipo: RUA
+  Rua: AREIAS
+  Número: 150
+  Bairro: SAO MATEUS
+  Cidade: BELO HORIZONTE
+  Estado: MINAS GERAIS
+  CEP: 32180-677
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AREIAS
+    Número: 150
+    Bairro: SAO MATEUS
+    Cidade: BELO HORIZONTE
+    Estado: MINAS GERAIS
+    CEP: 32180-677
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AREAS
+    Número: 150
+    Bairro: SAO MATEUS
+    Cidade: CONTAGEM - MG
+    Fonte: DATASUS
+  [3]
+    Rua: VINTE
+    Tipo: R
+    Número: 672
+    Bairro: VL OPERARIA
+    Cidade: DUQUE DE CAXIAS
+    Estado: RJ
+    CEP: 25081-110
+    Data Atualizacao: 07/07/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: QNM 24 CJ N
+    Complemento: CJ N 20
+    Bairro: CEILANDIA NORTE CEILANDIA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72210-254
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: NELIO CERQUEIRA
+    Tipo: AV
+    Número: 701
+    Bairro: TIROL BARREIRO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30662-060
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: AREIAS
+    Número: 0000150
+    Bairro: SAO MATEUS
+    Cidade: CONTAGEM
+    Estado: MG
+    CEP: 32180-677
+    Fonte: ASSECC
+  [7]
+    Tipo: [empty]
+    Rua: DAS PEROLAS
+    Número: 0000390
+    Bairro: SANTA MARIA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 03052-500
+    Fonte: ASSECC
+  [8]
+    Rua: R AREIAS
+    Número: 150
+    Bairro: SAO MATEUS
+    Estado: MG
+    CEP: 32180-677
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (31) 99512-1077
+  - (31) 98276-9892
+  - (31) 3377-4480
+  - (31) 3355-6718
+  - (31) 3913-6153
+  - (31) 3049-9615
+Datasus Phones: (1 item(s))
+  - (31) 99512-1077
+Cidade de Nascimento: BELO HORIZONTE - MG
+Cns: 703403225867719
+Rg Issue Date: 531975600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 02/10/2019
+    Info Date: 05/11/2008
+    Rg Issuer: SSP
+    Mosaic: E17
+    Mosaic New: H26
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: AREIAS
+      Número: 150
+      Bairro: S MATEUS
+      Cidade: CONTAGEM
+      Estado: MG
+      CEP: 32180-677
+      Date Added: 17/12/2018
+    [2]
+      Tipo: R
+      Rua: VINTE
+      Número: 672
+      Bairro: VL OPERARIA
+      Cidade: DUQUE DE CAXIAS
+      Estado: RJ
+      CEP: 25081-110
+      Date Added: 09/12/2014
+    [3]
+      Rua: QNM 24 CJ N
+      Complemento: CJ N 20
+      Bairro: CEILANDIA NORTE CEILANDIA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72210-254
+      Date Added: 30/04/2015
+    [4]
+      Tipo: AV
+      Rua: NELIO CERQUEIRA
+      Número: 701
+      Bairro: TIROL BARREIRO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30662-060
+      Date Added: 11/10/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33774480
+      Ddd: 31
+      Tipo: 1
+      Classificacao: C
+      Date Added: 05/03/2009
+    [2]
+      Telefone: 33556718
+      Ddd: 31
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 17/05/2011
+      Info Date: 07/05/2011
+    [3]
+      Telefone: 39136153
+      Ddd: 31
+      Tipo: 2
+      Classificacao: A0
+      Date Added: 17/05/2011
+    [4]
+      Telefone: 30499615
+      Ddd: 31
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 27/11/2014
+      Info Date: 18/07/2013
+    [5]
+      Telefone: 995121077
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/01/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: carloiz@weg.com.br
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 21
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 20
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (8 item(s))
+    [1]
+      CPF: 716.530.076-72
+      Nome: PEDRO DA SILVA MARCAL
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 301.073.506-53
+      Nome: JUVENTINO MARCAL
+      Vinculo: PAI
+    [3]
+      CPF: 813.222.676-34
+      Nome: GUMERCINDO MARCAL
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 7050727628
+      Nome: VAGNER GONCALVES MARCAL LIMA
+      Vinculo: FILHA(O)
+    [5]
+      Nome: SEBASTIANA DA SILVA MARCAL
+      Vinculo: MAE
+    [6]
+      CPF: 203.361.796-34
+      Nome: REDELCINO MARCAL
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 588.925.916-49
+      Nome: SONIA APARECIDA MARCAL
+      Vinculo: IRMA(O)
+    [8]
+      CPF: 8140436666
+      Nome: ANA PAULA MARCAL LIMA
+      Vinculo: FILHA(O)
+  Pis: 12417913374
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 634.3
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 420.663.876-49
+    Nome: DIVA FRANCISCA VELARDE
+    Logradouro: AREIAS
+    Número: 47
+    Bairro: S MATEUS
+  [2]
+    CPF: 491.410.825-91
+    Nome: JOSEFA FRANCISCA REZENDES
+    Logradouro: AREIAS
+    Número: 17
+    Bairro: S MATEUS
+  [3]
+    CPF: 115.019.416-23
+    Nome: IGOR CESAR CARVALHO JANUARIO
+    Logradouro: AREIAS
+    Número: 7
+    Bairro: S MATEUS
+  [4]
+    CPF: 000.001.146-00
+    Nome: ANTONIO MARCOS FONSECA DE OLIVEIRA
+    Logradouro: AREIAS
+    Número: 110
+    Bairro: S MATEUS
+  [5]
+    CPF: 129.680.116-00
+    Nome: JESSICA CRISTINA ARAUJO DA SILVA
+    Logradouro: AREIAS
+    Número: 95
+    Bairro: S MATEUS
+  [6]
+    CPF: 063.722.536-82
+    Nome: DANIEL FRANCISCO PEREIRA
+    Logradouro: AREIAS
+    Número: 120
+    Bairro: S MATEUS
+  [7]
+    CPF: 990.517.886-49
+    Nome: ROSIMAR EMERSON NASCIMENTO
+    Logradouro: AREIAS
+    Número: 155
+    Bairro: S MATEUS
+  [8]
+    CPF: 067.553.236-16
+    Nome: ADAILTON DE ALMEIDA
+    Logradouro: AREIAS
+    Número: 5
+    Bairro: S MATEUS
+  [9]
+    CPF: 096.952.106-51
+    Nome: TARICK ROGER RAMOS MENDONCA
+    Logradouro: AREIAS
+    Número: 85
+    Bairro: S MATEUS
+  [10]
+    CPF: 151.952.218-55
+    Nome: AFONSO RAIMUNDO GASPAR
+    Logradouro: AREIAS
+    Número: 16
+    Bairro: S MATEUS
+  [11]
+    CPF: 151.952.218-55
+    Nome: AFONSO RAIMUNDO GASPAR
+    Logradouro: AREIAS
+    Número: 23
+    Bairro: S MATEUS
+  [12]
+    CPF: 765.277.437-34
+    Nome: MARIO DE BARROS
+    Logradouro: AREIAS
+    Número: 50
+    Bairro: S MATEUS
+  [13]
+    CPF: 135.893.156-95
+    Nome: DIEGO HENRIQUE SILVA REIS
+    Logradouro: AREIAS
+    Número: 155
+    Bairro: S MATEUS
+  [14]
+    CPF: 825.428.992-15
+    Nome: MARIA CONCEBIDA BRAS MARTINS
+    Logradouro: AREIAS
+    Número: 95
+    Bairro: S MATEUS
+  [15]
+    CPF: 325.967.156-00
+    Nome: DORVALINA DIAS DE BARROS
+    Logradouro: AREIAS
+    Número: 60
+    Bairro: S MATEUS
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (31) 98276-9892
+    Nome: SRA  SUELI DA SILVA MARCAL LIMA
+    Cidade: CONTAGEM
+    UF: MG
+  [2]
+    Telefone: (31) 99512-1077
+    Nome: SUELI  DA SILVA MARSAL LIMA
+    Cidade: BELO HORIZONTE
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (31) 99512-1077
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (31) 9512-1077
+    Plano: PF_CONTROLE
+    Data Instalacao: 16/02/2012
+    Valor Fatura: 61.89
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - carloiz@weg.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1141
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 634.3
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (31) 3377-4480
+    Ddd: 31
+    Número: 33774480
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Classificacao: C
+  [2]
+    Telefone: (31) 3355-6718
+    Ddd: 31
+    Número: 33556718
+    Tipo: FIXO
+    Data Inclusao: 17/05/2011
+    Data Informacao: 07/05/2011
+    Classificacao: A0
+  [3]
+    Telefone: (31) 3913-6153
+    Ddd: 31
+    Número: 39136153
+    Tipo: CELULAR
+    Data Inclusao: 17/05/2011
+    Classificacao: A0
+  [4]
+    Telefone: (31) 3049-9615
+    Ddd: 31
+    Número: 30499615
+    Tipo: FIXO
+    Data Inclusao: 27/11/2014
+    Data Informacao: 18/07/2013
+    Classificacao: A0
+  [5]
+    Telefone: (31) 99512-1077
+    Ddd: 31
+    Número: 995121077
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: A0
+Occupation Code: 514225
+Occupation Name: Trabalhador de serviços de limpeza e conservação de áreas públicas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

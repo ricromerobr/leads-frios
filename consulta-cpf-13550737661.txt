@@ -1,0 +1,389 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13550737661
+Data/Hora:  03/10/2026, 18:16:27
+Tempo API:  420ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 135.507.376-61
+Nome: JANDERSON COUTO CARVALHO
+Primeiro Nome: JANDERSON
+Sobrenome: CARVALHO
+Sexo: Masculino
+Data de Nascimento: 15/12/1995
+Nome da Mãe: MARLENE COUTO CARVALHO
+Nome do Pai: JOSE GERALDO CARVALHO
+Ocupação: Organizador de evento
+Score:
+  Value: 802
+  Range: BAIXISSIMO RISCO
+E-mail: jandersoncoutocarvalho@yahoo.com
+Additional Emails: (3 item(s))
+  - jandersoncoutocarvalho@yahoo.com
+  - jandersoncouto18@gmail.com
+  - jandersoncoutocarvalho@yahoo.com.br
+Federal Status: REGULAR
+Renda: 1177
+Income Bracket: 2
+Cbo: 371410
+Endereço:
+  Tipo: RUA
+  Rua: MANOEL MATIAS
+  Bairro: CHACARA PRIMAVERA I
+  Cidade: POUSO ALEGRE
+  Estado: MINAS GERAIS
+  CEP: 37552-022
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MANOEL MATIAS
+    Bairro: CHACARA PRIMAVERA I
+    Cidade: POUSO ALEGRE
+    Estado: MINAS GERAIS
+    CEP: 37552-022
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FRANCISCO CABRAL
+    Número: 495
+    Bairro: NOSSA SENHORA DE LOURDES
+    Cidade: FORMIGA - MG
+    Fonte: DATASUS
+  [3]
+    Rua: JOAQUIM PEDRO DA SILVA
+    Tipo: R
+    Número: 128
+    Complemento: CS
+    Bairro: ITAUNENSE
+    Cidade: ITAUNA
+    Estado: MG
+    CEP: 35681-098
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FRANCISCO CABRAL
+    Número: 495
+    Complemento: C
+    Bairro: NS DE LOUR
+    Cidade: FORMIGA
+    Estado: MG
+    CEP: 35570-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: FRANCISCO CABRAL
+    Número: 0000495
+    Bairro: NOSSA SENHORA DE LOURDES
+    Cidade: FORMIGA
+    Estado: MG
+    CEP: 03557-000
+    Fonte: ASSECC
+  [6]
+    Rua: RUA FLORIANO PEIXOTO
+    Número: 5
+    Bairro: CENTRO
+    Estado: MG
+    CEP: 35570-970
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (35) 3422-3844
+  - (37) 99842-5723
+  - +55 (37) 99125-4739
+  - (37) 99862-2077
+  - (37) 99941-0973
+  - (37) 3321-7273
+  - (37) 99108-4158
+Datasus Phones: (1 item(s))
+  - (37) 9941-0973
+Cidade de Nascimento: FORMIGA - MG
+Cns: 708604599879481
+Paycom:
+  E-mail: jandersoncouto18@gmail.com
+  Data de Nascimento: 15/12/1995
+  Created At: 2018-10-18 23:27:48
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Francisco Cabral 
+    Número: 0
+    Bairro: Nossa Senhora de Lourdes
+    Cidade: Formiga
+    Estado: MG
+    País: BRA
+    CEP: 35570-000
+    Telephone: +55 (37) 99125-4739
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/09/2019
+    Mosaic New: D13
+    Mosaic Secondary: D11
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAQUIM PEDRO DA SILVA
+      Número: 128
+      Complemento: CS
+      Bairro: ITAUNENSE
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35681-098
+      Date Added: 01/02/2018
+    [2]
+      Rua: FRANCISCO CABRAL
+      Número: 495
+      Complemento: C
+      Bairro: NS DE LOUR
+      Cidade: FORMIGA
+      Estado: MG
+      CEP: 35570-000
+      Date Added: 30/07/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 998622077
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 02/07/2014
+    [2]
+      Telefone: 998425723
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [3]
+      Telefone: 999410973
+      Ddd: 37
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 33217273
+      Ddd: 37
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 26/03/2019
+    [5]
+      Telefone: 991084158
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/03/2019
+  E-mails: (3 item(s))
+    [1]
+      E-mail: jandersoncouto18@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: jandersoncoutocarvalho@yahoo.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [3]
+      E-mail: jandersoncoutocarvalho@yahoo.com
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 761
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 802
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1059.5
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 087.649.696-65
+    Nome: CINTIA FERREIRA ANTUNES MAXIMO
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 53
+    Bairro: ITAUNENSE
+  [2]
+    CPF: 257.209.106-20
+    Nome: PAULO FARIA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 63
+    Bairro: ITAUNENSE
+  [3]
+    CPF: 093.237.516-26
+    Nome: DENISE ANGELICA DA SILVA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 36
+    Bairro: ITAUNENSE
+  [4]
+    CPF: 030.770.956-61
+    Nome: LUCIANE GONCALVES LIMA VIEIRA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 93
+    Bairro: ITAUNENSE
+  [5]
+    CPF: 072.012.206-67
+    Nome: JORCIEL AUGUSTO FARIA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 63
+    Bairro: ITAUNENSE
+  [6]
+    CPF: 985.763.726-49
+    Nome: EDIMAR DE JESUS
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 102
+    Bairro: ITAUNENSE
+  [7]
+    CPF: 357.866.046-91
+    Nome: INACIO MONTEIRO ALVES
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 112
+    Bairro: ITAUNENSE
+  [8]
+    CPF: 097.375.116-97
+    Nome: ERIC HENRIQUE GONCALVES DA SILVA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 82
+    Bairro: ITAUNENSE
+  [9]
+    CPF: 204.833.096-72
+    Nome: JOSE AGOSTINHO DA SILVA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 23
+    Bairro: ITAUNENSE
+  [10]
+    CPF: 005.963.936-95
+    Nome: REGINA MARQUES DE CAMARGOS
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 83
+    Bairro: ITAUNENSE
+  [11]
+    CPF: 113.106.276-06
+    Nome: RAIANE PEREIRA CARVALHO
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 128
+    Bairro: ITAUNENSE
+  [12]
+    CPF: 512.756.606-06
+    Nome: SEBASTIAO DE OLIVEIRA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 62
+    Bairro: ITAUNENSE
+  [13]
+    CPF: 066.393.146-06
+    Nome: TIAGO FERREIRA ALVES
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 11
+    Bairro: ITAUNENSE
+  [14]
+    CPF: 357.021.846-53
+    Nome: ADEMAR FELIX DE CASTRO
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 112
+    Bairro: ITAUNENSE
+  [15]
+    CPF: 364.581.126-53
+    Nome: VICENTE TOMAZ FERREIRA
+    Logradouro: JOAQUIM PEDRO DA SILVA
+    Número: 15
+    Bairro: ITAUNENSE
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (37) 99842-5723
+    Nome: JANDERSON COUTO CARVALHO
+    Cidade: FORMIGA
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (37) 99842-5723
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 29APR2017
+    Ultima Recarga: 13SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 29/04/2017
+E-mails: (3 item(s))
+  - jandersoncoutocarvalho@yahoo.com
+  - jandersoncouto18@gmail.com
+  - jandersoncoutocarvalho@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1177
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1059.5
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (37) 99862-2077
+    Ddd: 37
+    Número: 998622077
+    Tipo: 3
+    Data Inclusao: 02/07/2014
+    Classificacao: D
+  [2]
+    Telefone: (37) 99842-5723
+    Ddd: 37
+    Número: 998425723
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [3]
+    Telefone: (37) 99941-0973
+    Ddd: 37
+    Número: 999410973
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A0
+  [4]
+    Telefone: (37) 3321-7273
+    Ddd: 37
+    Número: 33217273
+    Tipo: FIXO
+    Data Inclusao: 26/03/2019
+    Classificacao: D2
+  [5]
+    Telefone: (37) 99108-4158
+    Ddd: 37
+    Número: 991084158
+    Tipo: 3
+    Data Inclusao: 26/03/2019
+    Classificacao: D
+Occupation Code: 354820
+Occupation Name: Organizador de evento
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

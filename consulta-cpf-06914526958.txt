@@ -1,0 +1,384 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06914526958
+Data/Hora:  04/10/2026, 08:10:56
+Tempo API:  760ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 069.145.269-58
+Nome: DANILO ARAUJO DA SILVA
+Primeiro Nome: DANILO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 24/07/1989
+Nome da Mãe: VALDELICE ARAUJO DA SILVA
+Mosaic: F21
+Ocupação: Faxineiro
+Score:
+  Value: 520
+  Range: MEDIO
+E-mail: danilofjusjp@gmail.com
+Additional Emails: (1 item(s))
+  - danilofjusjp@gmail.com
+Federal Status: REGULAR
+Renda: 1166
+Income Bracket: 2
+Cbo: 784205
+Endereço:
+  Tipo: RUA
+  Rua: MINAS GERAIS
+  Número: 9
+  Bairro: VILA NOVA
+  Cidade: CORNELIO PROCOPIO
+  Estado: PARANA
+  CEP: 86300-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MINAS GERAIS
+    Número: 9
+    Bairro: VILA NOVA
+    Cidade: CORNELIO PROCOPIO
+    Estado: PARANA
+    CEP: 86300-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANA MARIA DE JESUS
+    Tipo: R
+    Número: 300
+    Bairro: VL NOVA
+    Cidade: CORNELIO PROCOPIO
+    Estado: PR
+    CEP: 86300-000
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: INTERLAGOS
+    Tipo: R
+    Número: 622
+    Complemento: 622 C
+    Bairro: CENTRO
+    Cidade: CORNELIO PROCOPIO
+    Estado: PR
+    CEP: 86300-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: RDR OSVALDO SEIXAS QUEIROZ
+    Número: 85
+    Bairro: CENTRO
+    Cidade: CORNELIO PROCOPIO
+    Estado: PR
+    CEP: 86300-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANTONIO VIDOLIN
+    Tipo: R
+    Número: 924
+    Bairro: CRUZEIRO
+    Cidade: SAO JOSE DOS PINHAIS
+    Estado: PR
+    CEP: 83010-380
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: MINAS GERAIS
+    Número: 0000009
+    Bairro: VILA NOVA
+    Cidade: CORNELIO PROCOPIO
+    Estado: PR
+    CEP: 86300-000
+    Fonte: ASSECC
+  [7]
+    Tipo: DOMINGOS ELEUTERIO DE CAMPOS
+    Rua: R
+    Número: 0000034
+    Bairro: VILA SANTA TEREZINHA
+    Cidade: CORNELIO PROCOPIO
+    Estado: PR
+    CEP: 86300-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (43) 98821-2379
+  - (43) 99866-3410
+  - (43) 98841-3758
+  - (43) 98839-4105
+  - (43) 3523-7411
+  - (41) 98748-4743
+  - (33) 3358-3338
+  - (41) 3358-3338
+  - (43) 99641-0811
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 28/08/2019
+    Mosaic: F21
+    Mosaic New: E18
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ANA MARIA DE JESUS
+      Número: 300
+      Bairro: VL NOVA
+      Cidade: CORNELIO PROCOPIO
+      Estado: PR
+      CEP: 86300-000
+      Date Added: 16/04/2009
+    [2]
+      Tipo: R
+      Rua: INTERLAGOS
+      Número: 622
+      Complemento: 622 C
+      Bairro: CENTRO
+      Cidade: CORNELIO PROCOPIO
+      Estado: PR
+      CEP: 86300-000
+      Date Added: 28/02/2013
+    [3]
+      Rua: RDR OSVALDO SEIXAS QUEIROZ
+      Número: 85
+      Bairro: CENTRO
+      Cidade: CORNELIO PROCOPIO
+      Estado: PR
+      CEP: 86300-000
+      Date Added: 02/01/2018
+    [4]
+      Tipo: R
+      Rua: ANTONIO VIDOLIN
+      Número: 924
+      Bairro: CRUZEIRO
+      Cidade: SAO JOSE DOS PINHAIS
+      Estado: PR
+      CEP: 83010-380
+      Date Added: 06/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 35237411
+      Ddd: 43
+      Tipo: 1
+      Classificacao: D
+      Date Added: 16/04/2009
+    [2]
+      Telefone: 987484743
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [3]
+      Telefone: 33583338
+      Ddd: 33
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 33583338
+      Ddd: 41
+      Tipo: 2
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [5]
+      Telefone: 996410811
+      Ddd: 43
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: danilofjusjp@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSBA: 520
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: VALDELICE ARAUJO DA SILVA
+      Vinculo: MAE
+  Pis: 16017917367
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 925.67
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.148.899-09
+    Nome: CLAUDETE GONCALVES
+    Logradouro: ALBERTO SPAGOLA
+    Número: 832
+  [2]
+    CPF: 052.129.419-38
+    Nome: LEANDRO NATALINO DE OLIVEIRA
+    Logradouro: HERMENEGILDO DEL ROVERE
+    Número: 167
+  [3]
+    CPF: 052.043.879-51
+    Nome: RICARDO LUIS DINIZ
+    Logradouro: AVELINO NUNES COSTA
+    Número: 368
+  [4]
+    CPF: 051.979.279-33
+    Nome: JAQUELINE MENDES PEREIRA SARAGOCA
+    Logradouro: ALBERTO CAMPOS GATTI
+    Número: 33
+  [5]
+    CPF: 051.934.249-61
+    Nome: LUIS RICARDO DE OLIVEIRA
+    Logradouro: ALIOMAR BALEEIRO
+    Número: 35
+  [6]
+    CPF: 051.917.589-19
+    Nome: CALEB ARAUJO DE OLIVEIRA
+    Logradouro: FRANCISCO MORATO
+    Número: 215
+    Bairro: VL STAIGER
+  [7]
+    CPF: 051.877.339-66
+    Nome: SEBASTIAO DOS SANTOS
+    Logradouro: ANTONIO SILVEIRA BRASIL
+    Número: 60
+  [8]
+    CPF: 051.877.339-66
+    Nome: SEBASTIAO DOS SANTOS
+    Logradouro: ANTONIO SILVEIRA BRASIL
+    Número: 93
+  [9]
+    CPF: 795.646.159-68
+    Nome: MARCIO DONIZETE PIUGA
+    Logradouro: ANTONIO PIMENTA SOBRINHO
+    Número: 280
+    Bairro: JD BANDEIRANTES
+  [10]
+    CPF: 705.753.479-53
+    Nome: MARIA HELENA PANCINI DE MORAES
+    Logradouro: BENTIVI
+    Número: 58
+    Bairro: CJ NOVA E A
+  [11]
+    CPF: 448.988.869-49
+    Nome: ARLINDO NALDES
+    Logradouro: UIRAPURU
+    Número: 204
+  [12]
+    CPF: 051.721.279-09
+    Nome: MARIA CLAUDINEIA ADAO
+    Logradouro: DOMINGUES DE CAMPOS
+    Número: 20
+  [13]
+    CPF: 051.721.279-09
+    Nome: MARIA CLAUDINEIA ADAO
+    Logradouro: DOMINGOS ELEOTERIO CAMPOS
+    Número: 143
+    Bairro: VL STA TEREZINHA
+  [14]
+    CPF: 052.262.219-40
+    Nome: MARCIA JUREMA MARCELINO
+    Logradouro: ARI BARROSO
+    Número: 175
+  [15]
+    CPF: 450.901.499-68
+    Nome: PEDRO MARCOS BOSCARDIM
+    Logradouro: BAHIA
+    Número: 450
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (43) 99866-3410
+    Nome: DANILO ARAUJO DA SILVA
+    Cidade: CORNELIO PROCOPIO
+    UF: PR
+  [2]
+    Telefone: (43) 98821-2379
+    Nome: DANILO ARAUJO DA SILVA
+    Cidade: CORNELIO PROCOPIO
+    UF: PR
+  [3]
+    Telefone: (43) 98841-3758
+    Nome: DANILO ARAUJO DA SILVA
+    Cidade: CORNELIO PROCOPIO
+    UF: PR
+  [4]
+    Telefone: (43) 98839-4105
+    Nome: DANILO ARAUJO DA SILVA
+    Cidade: CORNELIO PROCOPIO
+    UF: PR
+E-mails: (1 item(s))
+  - danilofjusjp@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1166
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 925.67
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (43) 3523-7411
+    Ddd: 43
+    Número: 35237411
+    Tipo: FIXO
+    Data Inclusao: 16/04/2009
+    Classificacao: D
+  [2]
+    Telefone: (41) 98748-4743
+    Ddd: 41
+    Número: 987484743
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (33) 3358-3338
+    Ddd: 33
+    Número: 33583338
+    Tipo: FIXO
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [4]
+    Telefone: (41) 3358-3338
+    Ddd: 41
+    Número: 33583338
+    Tipo: CELULAR
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [5]
+    Telefone: (43) 99641-0811
+    Ddd: 43
+    Número: 996410811
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

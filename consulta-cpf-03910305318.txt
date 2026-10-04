@@ -1,0 +1,408 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03910305318
+Data/Hora:  03/10/2026, 15:12:14
+Tempo API:  418ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 039.103.053-18
+Nome: MACIANA DE SOUZA MOURA
+Primeiro Nome: MACIANA
+Sobrenome: MOURA
+Sexo: Feminino
+Data de Nascimento: 24/02/1990
+Nome da Mãe: TEREZA DE SOUZA MOURA
+Nome do Pai: JOSE PINTO DE MOURA FILHO
+RG: 263268856
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: RJ
+Mosaic: C10
+Ocupação: Operador de caixa
+Score:
+  Value: 767
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 1237
+Income Bracket: 2
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: JAUAPERI
+  Número: 148
+  Complemento: CS
+  Bairro: CASCADURA
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21311-260
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JAUAPERI
+    Número: 148
+    Complemento: CS
+    Bairro: CASCADURA
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21311-260
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JAUAPERI
+    Número: 148
+    Bairro: CASCADURA
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: ABATIRA
+    Tipo: R
+    Número: 131
+    Complemento: C 2
+    Bairro: ENGENHO NOVO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20715-040
+    Data Atualizacao: 21/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CAJUI
+    Tipo: R
+    Número: 15
+    Bairro: QUINTINO BOCAIUVA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20740-130
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ACARE
+    Tipo: R
+    Número: 99
+    Complemento: CA 5
+    Bairro: ENGENHO NOVO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20715-070
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ZIZI
+    Tipo: R
+    Número: 999
+    Complemento: AP 903
+    Bairro: LINS DE VASCONCELOS
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20710-320
+    Data Atualizacao: 21/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: CAJUI
+    Número: 0000015
+    Bairro: QUINTINO BOCAIUVA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20740-130
+    Fonte: ASSECC
+  [8]
+    Tipo: ACARE
+    Rua: R
+    Número: 0000099
+    Bairro: ENGENHO NOVO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20715-070
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (21) 99278-1899
+  - (21) 98320-9304
+  - (21) 97966-2470
+  - (21) 96571-8219
+  - +55 (21) 96571-8219
+  - (21) 98444-3382
+  - (21) 2596-2551
+Datasus Phones: (1 item(s))
+  - (21) 8066-5178
+Cidade de Nascimento: BOA VIAGEM - CE
+Cns: 706301784157377
+Rg Issue Date: 1191553200000
+Paycom:
+  E-mail: marciamorais45@hotmail.com
+  Data de Nascimento: 24/02/1990
+  Created At: 2019-03-10 12:52:27
+E-mail: marciamorais45@hotmail.com
+Additional Emails: (1 item(s))
+  - marciamorais45@hotmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Cajui
+    Número: 15
+    Complemento: Casa
+    Bairro: Quintino Bocaiúva
+    Cidade: Rio de Janeiro
+    Estado: RJ
+    País: BRA
+    CEP: 20740-130
+    Telephone: +55 (21) 96571-8219
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/08/2019
+    Mosaic: C10
+    Mosaic New: H29
+    Mosaic Secondary: D11
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ABATIRA
+      Número: 131
+      Complemento: C 2
+      Bairro: ENGENHO NOVO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20715-040
+      Date Added: 16/03/2011
+    [2]
+      Tipo: R
+      Rua: CAJUI
+      Número: 15
+      Bairro: QUINTINO BOCAIUVA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20740-130
+      Date Added: 30/09/2019
+    [3]
+      Tipo: R
+      Rua: ACARE
+      Número: 99
+      Complemento: CA 5
+      Bairro: ENGENHO NOVO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20715-070
+      Date Added: 29/07/2013
+    [4]
+      Tipo: R
+      Rua: JAUAPERI
+      Número: 148
+      Complemento: CS
+      Bairro: CASCADURA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21311-260
+      Date Added: 22/03/2019
+    [5]
+      Tipo: R
+      Rua: ZIZI
+      Número: 999
+      Complemento: AP 903
+      Bairro: LINS DE VASCONCELOS
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20710-320
+      Date Added: 20/06/2011
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 965718219
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D1
+      Date Added: 21/03/2019
+    [2]
+      Telefone: 984443382
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/03/2019
+    [3]
+      Telefone: 25962551
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 30/09/2019
+      Info Date: 11/02/2016
+  Score:
+    CSB8: 337
+    CSB8 FAIXA: MEDIO
+    CSBA: 767
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: TEREZA DE SOUZA MOURA
+      Vinculo: MAE
+  Pis: 20174693715
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1030.97
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 042.705.297-17
+    Nome: ALEXANDRE MEIRA MATOS SANTOS
+    Logradouro: ABATIRA
+    Número: 13
+    Bairro: ENGENHO NOVO
+  [2]
+    CPF: 127.289.197-63
+    Nome: ARTHUR CESAR DA SILVA LOPES
+    Logradouro: ABATIRA
+    Número: 70
+    Bairro: ENGENHO NOVO
+  [3]
+    CPF: 023.864.467-78
+    Nome: KATIA CILENE NASCIMENTO
+    Logradouro: ABATIRA
+    Número: 85
+    Bairro: ENGENHO NOVO
+  [4]
+    CPF: 084.315.247-82
+    Nome: SERGIO DE OLIVEIRA TAVARES
+    Logradouro: ABATIRA
+    Número: SN
+    Bairro: ENGENHO NOVO
+  [5]
+    CPF: 014.833.477-61
+    Nome: JOSE MATIAS SANTOS
+    Logradouro: ABATIRA
+    Número: 117
+    Bairro: ENGENHO NOVO
+  [6]
+    CPF: 003.248.247-77
+    Nome: ADILSON HENRIQUE ALVES JUNIOR
+    Logradouro: ABATIRA
+    Número: 85
+    Bairro: ENGENHO NOVO
+  [7]
+    CPF: 809.722.177-20
+    Nome: MANOEL ADRIANO DA SILVA
+    Logradouro: ABATIRA
+    Número: 24
+    Bairro: ENGENHO NOVO
+  [8]
+    CPF: 014.711.287-76
+    Nome: CRISTIANO SILVA THIBES
+    Logradouro: ABATIRA
+    Número: 89
+    Bairro: ENGENHO NOVO
+  [9]
+    CPF: 211.847.807-06
+    Nome: MANUEL DA SILVA SOARES
+    Logradouro: ABATIRA
+    Número: 2
+    Bairro: ENGENHO NOVO
+  [10]
+    CPF: 700.289.312-20
+    Nome: CLEBER VILAS BOAS PANTOJA
+    Logradouro: ABATIRA
+    Número: 123
+    Bairro: ENGENHO NOVO
+  [11]
+    CPF: 139.547.367-64
+    Nome: FELIPE BARBOSA LOPES DE SOUZA
+    Logradouro: ABATIRA
+    Número: 79
+    Bairro: ENGENHO NOVO
+  [12]
+    CPF: 025.841.797-84
+    Nome: REGINA IARA DOS SANTOS
+    Logradouro: ABATIRA
+    Número: 114
+    Bairro: ENGENHO NOVO
+  [13]
+    CPF: 066.755.844-64
+    Nome: FLAVIANA NASCIMENTO COSTA
+    Logradouro: ABATIRA
+    Número: 114
+    Bairro: ENGENHO NOVO
+  [14]
+    CPF: 262.345.133-87
+    Nome: LUCIANO PAZ DE OLIVEIRA
+    Logradouro: ABATIRA
+    Número: 87
+    Bairro: ENGENHO NOVO
+  [15]
+    CPF: 068.504.636-24
+    Nome: VALDEMIR RODRIGUES SIQUEIRA
+    Logradouro: ABATIRA
+    Número: 93
+    Bairro: ENGENHO NOVO
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (21) 98320-9304
+    Nome: MACIANA DE SOUSA MOURA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [2]
+    Telefone: (21) 99278-1899
+    Nome: MACIANA DE SOUZA MOURA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [3]
+    Telefone: (21) 96571-8219
+    Nome: MACIANA DE SOUSA MOURA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [4]
+    Telefone: (21) 98444-3382
+    Nome: MACIANA DE SOUSA MOURA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+E-mails: (1 item(s))
+  - marciamorais45@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1237
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1030.97
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (21) 96571-8219
+    Ddd: 21
+    Número: 965718219
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: D1
+  [2]
+    Telefone: (21) 98444-3382
+    Ddd: 21
+    Número: 984443382
+    Tipo: 3
+    Data Inclusao: 26/03/2019
+    Classificacao: D
+  [3]
+    Telefone: (21) 2596-2551
+    Ddd: 21
+    Número: 25962551
+    Tipo: FIXO
+    Data Inclusao: 30/09/2019
+    Data Informacao: 11/02/2016
+    Classificacao: D2
+Occupation Code: 421125
+Occupation Name: Operador de caixa
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

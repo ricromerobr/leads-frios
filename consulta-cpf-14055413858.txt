@@ -1,0 +1,546 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14055413858
+Data/Hora:  04/10/2026, 02:25:02
+Tempo API:  545ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 140.554.138-58
+Nome: SIRLEI CARDOSO SENA DOS SANTOS
+Primeiro Nome: SIRLEI
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 15/03/1974
+Nome da Mãe: ALZIRA CARDOSO SENA
+RG: 237335001
+Rg Issuer: SSP
+Rg State: SP
+Mosaic: D11
+Ocupação: Administrador
+Score:
+  Value: 378
+  Range: ALTO
+E-mail: jonaplansaude@terra.com.br
+Additional Emails: (4 item(s))
+  - jonaplansaude@terra.com.br
+  - suporte@jonaplanconsultoria.com.br
+  - comercial@jonaplanconsultoria.com.br
+  - edson.saudeodonto@gmail.com
+Federal Status: REGULAR
+Renda: 1191
+Income Bracket: 2
+Cbo: 252105
+Endereço:
+  Tipo: RUA
+  Rua: CANAA
+  Número: 65
+  Complemento: CASA
+  Bairro: JARDIMSANTOANDRE
+  Cidade: SANTO ANDRE
+  Estado: SAO PAULO
+  CEP: 09132-470
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CANAA
+    Número: 65
+    Complemento: CASA
+    Bairro: JARDIMSANTOANDRE
+    Cidade: SANTO ANDRE
+    Estado: SAO PAULO
+    CEP: 09132-470
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LEONARDO FIORAVANTI
+    Tipo: R
+    Número: 30
+    Bairro: JD LAS VEGAS
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09182-470
+    Data Atualizacao: 10/09/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: DAS MINAS
+    Tipo: R
+    Número: 92
+    Bairro: SIT DOS VIANAS
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09171-730
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CAMPOS SALES
+    Tipo: R
+    Número: 58
+    Complemento: LJ 34
+    Bairro: CENTRO
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09015-200
+    Data Atualizacao: 30/06/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: CANAS
+    Tipo: R
+    Número: 65
+    Bairro: VL STA MARIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02561-050
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: CANAA
+    Número: 0000065
+    Bairro: JARDIM SANTO ANDRE
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 00913-270
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: CANAA
+    Número: 0000065
+    Bairro: JARDIM SANTO ANDRE
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09132-470
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (13 item(s))
+  - (11) 4451-0090
+  - (11) 93734-9220
+  - (11) 93735-1067
+  - (11) 3438-6493
+  - (11) 93736-6637
+  - (11) 97198-7066
+  - (11) 94032-8016
+  - (11) 94796-6340
+  - (11) 94031-3869
+  - +55 (11) 99231-2183
+  - +55 (11) 97198-7066
+  - (11) 99231-2183
+  - (11) 97866-9806
+Saraiva:
+  Customer Id: 9222255
+  Telefone: (11) 3438-6493
+  E-mail: suporte@jonaplanconsultoria.com.br
+  Data de Nascimento: 15/03/1974
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: O
+    Status Date: 20/01/2019
+    Info Date: 09/04/2008
+    Rg Issuer: SSP
+    Rg State: SP
+    Mosaic: D11
+    Mosaic New: E17
+    Mosaic Secondary: G22
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: LEONARDO FIORAVANTI
+      Número: 30
+      Bairro: JD LAS VEGAS
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09182-470
+      Date Added: 07/10/2015
+    [2]
+      Tipo: R
+      Rua: DAS MINAS
+      Número: 92
+      Bairro: SIT DOS VIANAS
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09171-730
+      Date Added: 07/11/2011
+    [3]
+      Tipo: R
+      Rua: CAMPOS SALES
+      Número: 58
+      Complemento: LJ 34
+      Bairro: CENTRO
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09015-200
+      Date Added: 28/02/2016
+    [4]
+      Tipo: R
+      Rua: CANAS
+      Número: 65
+      Bairro: VL STA MARIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02561-050
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: CANAA
+      Número: 65
+      Complemento: JD STO ANDR
+      Bairro: JD STO ANDRE
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09132-470
+      Date Added: 13/04/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 44510090
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 28/08/2006
+      Info Date: 05/09/2018
+    [2]
+      Telefone: 992312183
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 34386493
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 971987066
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 978669806
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: comercial@jonaplanconsultoria.com.br
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/01/2018
+    [2]
+      E-mail: suporte@jonaplanconsultoria.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: jonaplansaude@terra.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 144
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 378
+    CSBA FAIXA: ALTO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 376.643.948-05
+      Nome: JANAINA CARDOSO SENA BELIZARIO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 375.270.958-81
+      Nome: JONATHAS SENA SANTOS
+      Vinculo: FILHA(O)
+    [3]
+      CPF: 340.399.248-94
+      Nome: SHEILA CARDOSO SENA BISPO
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 341.116.448-48
+      Nome: DIEGO CARDOSO SENA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 344.536.008-10
+      Nome: ALZIRA CARDOSO SENA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1191.99
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 331.527.538-61
+    Nome: MURILO PINHATA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 83
+    Bairro: JD LAS VEGAS
+  [2]
+    CPF: 352.950.788-17
+    Nome: BRUNA MISQUITA ALVES MARQUES
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 58
+    Bairro: JD LAS VEGAS
+  [3]
+    CPF: 166.692.858-50
+    Nome: CRISTIANE GALDINO DA COSTA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 195
+    Bairro: JD LAS VEGAS
+  [4]
+    CPF: 107.580.158-36
+    Nome: ANTONIO CARLOS DA SILVA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 125
+    Bairro: JD LAS VEGAS
+  [5]
+    CPF: 116.279.188-84
+    Nome: FRANCISCO CEZAR RUIZ MARTUCCI
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 90
+    Bairro: JD LAS VEGAS
+  [6]
+    CPF: 355.800.508-28
+    Nome: ALEX LEITE DA SILVA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 16
+    Bairro: JD LAS VEGAS
+  [7]
+    CPF: 318.215.638-16
+    Nome: MARIA INES FERREIRA DE MEDEIROS
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 221
+    Bairro: JD LAS VEGAS
+  [8]
+    CPF: 390.876.028-39
+    Nome: FERNANDO AXEL LUCENA DA SILVA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 78
+    Bairro: JD LAS VEGAS
+  [9]
+    CPF: 555.737.208-30
+    Nome: GERALDO VENANCIO
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 68
+    Bairro: JD LAS VEGAS
+  [10]
+    CPF: 267.165.688-24
+    Nome: ANDREIA DE SOUZA COSTA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 33
+    Bairro: JD LAS VEGAS
+  [11]
+    CPF: 274.155.158-89
+    Nome: DENNIS AUGUSTO BERANGER
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 5
+    Bairro: JD LAS VEGAS
+  [12]
+    CPF: 101.675.445-00
+    Nome: MARIA RODRIGUES DA SILVA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 127
+    Bairro: JD LAS VEGAS
+  [13]
+    CPF: 087.380.138-51
+    Nome: FRANCISCA DAS CHAGAS DE SOUSA LEITAO
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 11
+    Bairro: JD LAS VEGAS
+  [14]
+    CPF: 537.166.988-49
+    Nome: CELSO BELVIS GARCIA
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 50
+    Bairro: JD LAS VEGAS
+  [15]
+    CPF: 284.624.308-52
+    Nome: JOCELI APARECIDA SANCHES TOLEDANO
+    Logradouro: LEONARDO FIORAVANTI
+    Número: 352
+    Bairro: JD LAS VEGAS
+Telefones Assecc: (7 item(s))
+  [1]
+    Telefone: (11) 93736-6637
+    Nome: SIRLEI CARDOSO SENA DOS  SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+  [2]
+    Telefone: (11) 93734-9220
+    Nome: SIRLEI CARDOSO SENA DOS  SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+  [3]
+    Telefone: (11) 93735-1067
+    Nome: SIRLEI CARDOSO SENA DOS  SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+  [4]
+    Telefone: (11) 97198-7066
+    Nome: SIRLEI  CARDOSO SENA DOS SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+  [5]
+    Telefone: (11) 94032-8016
+    Nome: SIRLEI CARDOSO SENA DOS  SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+  [6]
+    Telefone: (11) 94796-6340
+    Nome: SIRLEI CARDOSO SENA DOS  SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+  [7]
+    Telefone: (11) 94031-3869
+    Nome: SIRLEI CARDOSO SENA DOS  SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+Vivo Linhas: (5 item(s))
+  [1]
+    Telefone: C00755435B
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Data Ativacao: 11SEP2020:20:15:04
+    Cel Contato: +5511992312183
+    Complemento: CS - Casa: CASA;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 4451-0090
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 13MAY2014:01:04:43
+    Cel Contato: +5511992312183
+    Complemento: CS - Casa: CASA;
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (11) 94031-3869
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (11) 93734-9220
+    Plano: PF_POS_PURO
+    Data Instalacao: 07/09/2020
+    Valor Fatura: 169.98
+    Mes Referencia: 202010
+  [4]
+    Telefone: (11) 94796-6340
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (11) 93736-6637
+    Plano: PF_CONTROLE
+    Data Instalacao: 07/09/2020
+    Valor Fatura: 169.98
+    Mes Referencia: 202010
+  [5]
+    Telefone: (11) 94032-8016
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (11) 93735-1067
+    Plano: PF_POS_PURO
+    Data Instalacao: 07/09/2020
+    Valor Fatura: 169.98
+    Mes Referencia: 202010
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 4451-0090
+    Nome: SIRLEI CARDOSO SENA DOS SANTOS
+    Cidade: SANTO ANDRE
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+E-mails: (4 item(s))
+  - jonaplansaude@terra.com.br
+  - suporte@jonaplanconsultoria.com.br
+  - comercial@jonaplanconsultoria.com.br
+  - edson.saudeodonto@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1191
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1191.99
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4451-0090
+    Ddd: 11
+    Número: 44510090
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Data Informacao: 05/09/2018
+    Classificacao: A0
+  [2]
+    Telefone: (11) 99231-2183
+    Ddd: 11
+    Número: 992312183
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: C2
+  [3]
+    Telefone: (11) 3438-6493
+    Ddd: 11
+    Número: 34386493
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: B
+  [4]
+    Telefone: (11) 97198-7066
+    Ddd: 11
+    Número: 971987066
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: C2
+  [5]
+    Telefone: (11) 97866-9806
+    Ddd: 11
+    Número: 978669806
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

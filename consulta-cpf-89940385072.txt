@@ -1,0 +1,557 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  89940385072
+Data/Hora:  03/10/2026, 15:29:33
+Tempo API:  741ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 899.403.850-72
+Nome: ALEXSANDER BORBA DA SILVA
+Primeiro Nome: ALEXSANDER
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 08/10/1976
+Nome da Mãe: TEREZINHA BORBA DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 064992410418
+Mosaic: B03
+Ocupação: Trabalhadores de Servicos Administrativos (categoria CBO)
+Score:
+  Value: 437
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 2045
+Income Bracket: 3
+Cbo: 419
+Endereço:
+  Tipo: RUA
+  Rua: AMAPA
+  Bairro: MATHIAS VELHO
+  Cidade: CANOAS
+  Estado: RIO GRANDE DO SUL
+  CEP: 92340-000
+All Addresses: (13 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AMAPA
+    Bairro: MATHIAS VELHO
+    Cidade: CANOAS
+    Estado: RIO GRANDE DO SUL
+    CEP: 92340-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R DOUTOR BARCELLOS
+    Número: 1115
+    Bairro: CENTRO
+    Cidade: CANOAS - RS
+    Fonte: DATASUS
+  [3]
+    Rua: AMAPA
+    Tipo: R
+    Número: 203
+    Bairro: MATHIAS VELHO
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92340-000
+    Data Atualizacao: 07/08/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: CARLOS SANTOS ROCHA
+    Tipo: PC
+    Número: 123
+    Bairro: CENTRO
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92010-320
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GASPAR MARTINS
+    Tipo: R
+    Número: 482
+    Bairro: FLORESTA
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 90220-160
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: ABILIO DOS SANTOS
+    Tipo: R
+    Número: 454
+    Bairro: CHICO DE PAULA
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11085-430
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: DA PROSPERIDADE
+    Tipo: R
+    Número: 260
+    Bairro: ETN VELHA
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92031-030
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: BRASIL
+    Número: 0001297
+    Bairro: HARMONIA
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92310-150
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: 0001115
+    Número: CENTRO
+    Bairro: DOUTOR BARCELOS
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92310-200
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: 0001297
+    Número: HARMONIA
+    Bairro: BRASIL
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92310-150
+    Fonte: ASSECC
+  [11]
+    Tipo: R.
+    Rua: VICTOR RYCEMBEL (GVT:999439)
+    Número: 111
+    Complemento: AP 401
+    Bairro: CANOAS
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92310-715
+    Fonte: VIVO_FIXO
+  [12]
+    Rua: R DA PROSPERIDADE
+    Número: 260
+    Bairro: ESTANCIA VELHA
+    Estado: RS
+    CEP: 92031-030
+    Fonte: VIVO_PRE
+  [13]
+    Rua: VICTOR RYCEMBEL
+    Número: 111
+    Complemento: 401
+    Bairro: CENTRO
+    Estado: RS
+    CEP: 92310-715
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: I
+      Modelo: FORD EXPLORER XLT4X4
+      Ano: 1994
+    [2]
+      Marca: I
+      Modelo: HYUNDAI SONATA GLS
+      Ano: 2011
+    [3]
+      Marca: IMP
+      Modelo: FORD MONDEO CLX FD
+      Ano: 1997
+Telefones: (13 item(s))
+  - (51) 99949-1717
+  - (51) 99980-1717
+  - (51) 99926-1717
+  - (51) 98212-0992
+  - (51) 8212-0992
+  - (51) 3425-1010
+  - 555184478000
+  - 555134251010
+  - (51) 3032-1714
+  - (51) 3476-7336
+  - (47) 99229-8560
+  - (51) 99507-5123
+  - (51) 99910-0173
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 700400431641049
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/10/2019
+    Info Date: 15/08/2006
+    Mosaic: B03
+    Mosaic New: C07
+    Mosaic Secondary: E16
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: AMAPA
+      Número: 203
+      Bairro: MATHIAS VELHO
+      Cidade: CANOAS
+      Estado: RS
+      CEP: 92340-000
+      Date Added: 11/10/2006
+    [2]
+      Tipo: PC
+      Rua: CARLOS SANTOS ROCHA
+      Número: 123
+      Bairro: CENTRO
+      Cidade: CANOAS
+      Estado: RS
+      CEP: 92010-320
+      Date Added: 08/11/2016
+    [3]
+      Tipo: R
+      Rua: GASPAR MARTINS
+      Número: 482
+      Bairro: FLORESTA
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 90220-160
+      Date Added: 05/04/2018
+    [4]
+      Tipo: R
+      Rua: ABILIO DOS SANTOS
+      Número: 454
+      Bairro: CHICO DE PAULA
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11085-430
+      Date Added: 25/08/2016
+    [5]
+      Tipo: R
+      Rua: DA PROSPERIDADE
+      Número: 260
+      Bairro: ETN VELHA
+      Cidade: CANOAS
+      Estado: RS
+      CEP: 92031-030
+      Date Added: 27/04/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34767336
+      Ddd: 51
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+    [2]
+      Telefone: 992298560
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [3]
+      Telefone: 999801717
+      Ddd: 51
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/05/2017
+    [4]
+      Telefone: 995075123
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 999100173
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  Score:
+    CSBA: 437
+    CSBA FAIXA: MEDIO
+  Parentes: (12 item(s))
+    [1]
+      CPF: 506.315.430-15
+      Nome: MARIA HELENA BORBA DA SILVA
+      Vinculo: TIA(O)
+    [2]
+      CPF: 506.129.999-04
+      Nome: GEOVANIS DA SILVA
+      Vinculo: TIA(O)
+    [3]
+      CPF: 7593978990
+      Nome: MARIANA DA SILVA SOETHE
+      Vinculo: PRIMA(O)
+    [4]
+      CPF: 550.619.409-97
+      Nome: JAIRO DA SILVA
+      Vinculo: TIA(O)
+    [5]
+      CPF: 906.901.099-20
+      Nome: JANECI DA SILVA
+      Vinculo: TIA(O)
+    [6]
+      CPF: 517.000.340-49
+      Nome: LUIS CARLOS BORBA DA SILVA
+      Vinculo: TIA(O)
+    [7]
+      CPF: 7593975975
+      Nome: ISRAEL DA SILVA SOETHE
+      Vinculo: PRIMA(O)
+    [8]
+      CPF: 3831211914
+      Nome: ANGELICA DA SILVA
+      Vinculo: PRIMA(O)
+    [9]
+      CPF: 375.322.009-49
+      Nome: DOCILIA BORBA DA SILVA
+      Vinculo: AVO
+    [10]
+      CPF: 173.129.220-15
+      Nome: TEREZINHA BORBA DA SILVA
+      Vinculo: MAE
+    [11]
+      CPF: 950.570.489-53
+      Nome: GEANE DA SILVA SOETHE
+      Vinculo: TIA(O)
+    [12]
+      CPF: 1089186029
+      Nome: ANDERSON DA SILVA RODRIGUES
+      Vinculo: IRMA(O)
+  Tse:
+    Titulo: 64992410418
+    Zona: 66
+    Secao: 284
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2045.18
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 014.705.960-75
+    Nome: FRANCINE DEPAOLI LEMOS
+    Logradouro: AMAPA
+    Número: 185
+    Bairro: MATHIAS VELHO
+  [2]
+    CPF: 026.855.210-03
+    Nome: CRISTIAN BRAGA TEXEIRA
+    Logradouro: AMAPA
+    Número: 70
+    Bairro: MATHIAS VELHO
+  [3]
+    CPF: 614.000.410-15
+    Nome: MARIA EVA MENDES DORNELLES
+    Logradouro: AMAPA
+    Número: 51
+    Bairro: MATHIAS VELHO
+  [4]
+    CPF: 534.865.870-72
+    Nome: BERENICE QUADRADO MANGANELLI
+    Logradouro: AMAPA
+    Número: 61
+    Bairro: MATHIAS VELHO
+  [5]
+    CPF: 002.072.320-24
+    Nome: CLEITON VARGAS BARBOSA
+    Logradouro: AMAPA
+    Número: 70
+    Bairro: MATHIAS VELHO
+  [6]
+    CPF: 000.919.070-80
+    Nome: CINTIA DA SILVA BORGES
+    Logradouro: AMAPA
+    Número: 70
+    Bairro: MATHIAS VELHO
+  [7]
+    CPF: 824.015.350-04
+    Nome: LUCIANO DA SILVA BRAGA
+    Logradouro: AMAPA
+    Número: 121
+    Bairro: MATHIAS VELHO
+  [8]
+    CPF: 529.305.050-87
+    Nome: PAULO ROBERTO RODRIGUES DA SILVA
+    Logradouro: AMAPA
+    Número: 346
+    Bairro: MATHIAS VELHO
+  [9]
+    CPF: 095.025.210-72
+    Nome: JURANDIR BILHALBA DUARTE
+    Logradouro: AMAPA
+    Número: 61
+    Bairro: MATHIAS VELHO
+  [10]
+    CPF: 481.792.720-87
+    Nome: ADRIANO DE SOUZA ASTRAN
+    Logradouro: AMAPA
+    Número: 165
+    Bairro: MATHIAS VELHO
+  [11]
+    CPF: 506.286.150-00
+    Nome: NOECI DIAS FERREIRA
+    Logradouro: AMAPA
+    Número: 61
+    Bairro: MATHIAS VELHO
+  [12]
+    CPF: 506.338.050-68
+    Nome: DENISE DOS PASSOS DORNELLES
+    Logradouro: AMAPA
+    Número: 232
+    Bairro: MATHIAS VELHO
+  [13]
+    CPF: 455.488.970-04
+    Nome: GILMAR SILVA DA CUNHA
+    Logradouro: AMAPA
+    Número: 1
+    Bairro: MATHIAS VELHO
+  [14]
+    CPF: 984.534.830-00
+    Nome: MARIA LORECI SCHMIEDEL DUTRA
+    Logradouro: AMAPA
+    Número: 393
+    Bairro: MATHIAS VELHO
+  [15]
+    CPF: 038.210.490-06
+    Nome: SUZANE MARTINS VIANA
+    Logradouro: AMAPA
+    Número: 54
+    Bairro: MATHIAS VELHO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (51) 98212-0992
+    Nome: ALEXSANDER BORBA DA SILVA
+    Cidade: CANOAS
+    UF: RS
+  [2]
+    Telefone: (51) 99980-1717
+    Nome: ALEXSANDER  BORBA DA SILVA
+    Cidade: CANOAS
+    UF: RS
+  [3]
+    Telefone: (51) 8212-0992
+    Nome: ALEXSANDER BORBA DA SILVA
+    Cidade: CANOAS
+    UF: RS
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (51) 98212-0992
+    Nome: ALEXSANDER BORBA DA SILVA
+    Cidade: CANOAS
+    UF: RS
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (5 item(s))
+  [1]
+    Telefone: (51) 3425-1010
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Data Ativacao: 14DEC2009:16:05:21
+    Cel Contato: +555184478000
+    Complemento: AP 401
+    Data Retirada: 01OCT2010:16:30:21
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (51) 3032-1714
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Data Ativacao: 12JUL2001:00:00:00
+    Cel Contato: +555184478000
+    Data Retirada: 28FEB2002:16:26:00
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (51) 99980-1717
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 06JUL2010
+    Ultima Recarga: 17JUN2020
+    Telefone Anterior: (51) 9980-1717
+    Plano: PF_PRE_PURO
+    Data Instalacao: 02/07/2010
+  [4]
+    Telefone: (51) 99926-1717
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 21AUG2010
+    Ultima Recarga: 09JUL2020
+    Telefone Anterior: (51) 9926-1717
+    Plano: PF_PRE_PURO
+    Data Instalacao: 22/07/2010
+  [5]
+    Telefone: (51) 99949-1717
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 29JUN2010
+    Ultima Recarga: 15AUG2020
+    Telefone Anterior: (51) 9949-1717
+    Plano: PF_PRE_PURO
+    Data Instalacao: 29/06/2010
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2045
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2045.18
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (51) 3476-7336
+    Ddd: 51
+    Número: 34767336
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Classificacao: D
+  [2]
+    Telefone: (47) 99229-8560
+    Ddd: 47
+    Número: 992298560
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [3]
+    Telefone: (51) 99980-1717
+    Ddd: 51
+    Número: 999801717
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: A0
+  [4]
+    Telefone: (51) 99507-5123
+    Ddd: 51
+    Número: 995075123
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (51) 99910-0173
+    Ddd: 51
+    Número: 999100173
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Occupation Code: 419
+Occupation Name: Trabalhadores de Servicos Administrativos (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

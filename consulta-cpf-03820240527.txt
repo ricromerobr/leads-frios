@@ -1,0 +1,327 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03820240527
+Data/Hora:  04/10/2026, 13:30:21
+Tempo API:  717ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 038.202.405-27
+Nome: JOSE ROGERIO SANTOS DE ANDRADE JUNIOR
+Primeiro Nome: JOSE
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 16/03/1994
+Nome da Mãe: JOVINA PIRES DOS SANTOS ANDRADE
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 520
+  Range: MEDIO
+E-mail: junyoors@hotmail.com
+Additional Emails: (3 item(s))
+  - junyoors@hotmail.com
+  - joserogerioandrade1@gmail.com
+  - rogerioandradejr@gmail.com
+Federal Status: REGULAR
+Renda: 459
+Income Bracket: 1
+Cbo: 411005
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: PO TERRAO
+  Complemento: C
+  Bairro: RURAL
+  Cidade: SAO FELIPE
+  Estado: BAHIA
+  CEP: 44550-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PO TERRAO
+    Complemento: C
+    Bairro: RURAL
+    Cidade: SAO FELIPE
+    Estado: BAHIA
+    CEP: 44550-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: TERRAO
+    Número: S/N
+    Bairro: RURAL
+    Cidade: SAO FELIPE - BA
+    Fonte: DATASUS
+  [3]
+    Rua: PO TERRAO
+    Número: 175
+    Complemento: C
+    Bairro: RURAL
+    Cidade: SAO FELIPE
+    Estado: BA
+    CEP: 44550-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ARTUR ORRICO
+    Tipo: R
+    Número: 28
+    Bairro: CAMPINAS DE PIRAJA
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41275-490
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (75) 98807-9097
+  - (75) 99922-8886
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: SAO FELIPE - BA
+Cns: 705804441897535
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 07/08/2019
+    Mosaic New: G24
+    Mosaic Secondary: J33
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Rua: PO TERRAO
+      Número: 175
+      Complemento: C
+      Bairro: RURAL
+      Cidade: SAO FELIPE
+      Estado: BA
+      CEP: 44550-000
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: ARTUR ORRICO
+      Número: 28
+      Bairro: CAMPINAS DE PIRAJA
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41275-490
+      Date Added: 23/12/2019
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 988079097
+      Ddd: 75
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 999228886
+      Ddd: 75
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+  E-mails: (3 item(s))
+    [1]
+      E-mail: joserogerioandrade1@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: junyoors@hotmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [3]
+      E-mail: rogerioandradejr@gmail.com
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+  Score:
+    CSB8: 317
+    CSB8 FAIXA: MEDIO
+    CSBA: 520
+    CSBA FAIXA: MEDIO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 190889578
+      Nome: DOMINGOS PIRES DOS SANTOS
+      Vinculo: TIA(O)
+    [2]
+      CPF: 445.487.535-91
+      Nome: JOSE DOS REIS PIRES DOS SANTOS
+      Vinculo: TIA(O)
+    [3]
+      CPF: 930.225.495-04
+      Nome: MARIA JOSE PIRES DOS SANTOS
+      Vinculo: AVO
+    [4]
+      CPF: 3820239510
+      Nome: PATRICIA DOS SANTOS ANDRADE
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 958.120.325-72
+      Nome: ROQUE PIRES DOS SANTOS
+      Vinculo: TIA(O)
+    [6]
+      CPF: 1856984508
+      Nome: JOVINA PIRES DOS SANTOS ANDRADE
+      Vinculo: MAE
+    [7]
+      CPF: 1310553564
+      Nome: MANOEL PIRES DOS SANTOS
+      Vinculo: TIA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 459.6
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 536.724.615-04
+    Nome: JOAO BOSCO LESSA
+    Logradouro: PO BAIXA DE AREIA
+    Número: 15
+    Bairro: RURAL SAO FELIPE
+  [2]
+    CPF: 025.310.105-05
+    Nome: VALDETE OLIVEIRA SANTOS
+    Logradouro: PO JENIPAPO
+    Número: 9998
+    Bairro: RURAL SAO FELIPE
+  [3]
+    CPF: 025.834.625-63
+    Nome: REGINA VIEIRA DOS SANTOS
+    Logradouro: VILA CARAIPE
+    Número: 76
+    Bairro: ZN RURAL
+  [4]
+    CPF: 031.760.655-74
+    Nome: JORGE ANDRADE DOS SANTOS
+    Logradouro: PO TAPERA DO JAGUARIPE
+    Número: 10
+    Bairro: RURAL SAO FELIPE
+  [5]
+    CPF: 852.924.945-34
+    Nome: RITA DE CASSIA PEREIRA BOMJARDIM
+    Logradouro: PO PEQUI RETIRO
+    Número: 49
+    Bairro: RURAL SAO FELIPE
+  [6]
+    CPF: 043.870.755-97
+    Nome: MARIA DAS GRACAS DO ROSARIO CONCEICAO
+    Logradouro: PO SOBRADINHO
+    Número: 280
+    Bairro: RURAL SAO FELIPE
+  [7]
+    CPF: 033.274.175-39
+    Nome: CRISPIM NASCIMENTO DOS SANTOS
+    Logradouro: PO COPIOBA MIRIM
+    Número: 140
+    Bairro: RURAL SAO FELIPE
+  [8]
+    CPF: 033.758.255-60
+    Nome: RENAILDE FERREIRA DA SILVA
+    Logradouro: PO SOBRADINHO
+    Número: 60
+    Bairro: RURAL SAO FELIPE
+  [9]
+    CPF: 035.630.195-84
+    Nome: VALDIR DO ROSARIO BARBOSA
+    Logradouro: PO ANDAIA DA PITINGA
+    Número: 50
+    Bairro: RURAL SAO FELIPE
+  [10]
+    CPF: 038.037.445-55
+    Nome: EDSON DE JESUS SOUZA JUNIOR
+    Logradouro: BENEDITO REBOUCAS
+    Número: 7
+    Bairro: CENTRO
+  [11]
+    CPF: 475.734.225-04
+    Nome: CALISTO GUEDES DE SANTANA
+    Logradouro: CARAIPE
+    Número: 39
+  [12]
+    CPF: 809.911.225-34
+    Nome: PAULO SERGIO JAQUEIRA RAMOS
+    Logradouro: DAS FLORES
+    Número: 149
+  [13]
+    CPF: 000.593.855-45
+    Nome: MARILENE DOS SANTOS SOARES
+    Logradouro: DO CAJUEIRO
+    Número: 757
+    Bairro: CENTRO SAO FELIPE
+  [14]
+    CPF: 176.578.305-49
+    Nome: EDVAL PASSOS CERQUEIRA
+    Logradouro: ANTONIO CARLOS MAGALHAES
+    Número: 6
+    Bairro: CENTRO SAO FELIPE
+  [15]
+    CPF: 065.179.475-74
+    Nome: DANDARA AMORIM DE JESUS
+    Logradouro: BENIGNO SOARES DOS REIS
+    Número: 3
+    Bairro: CENTRO
+E-mails: (3 item(s))
+  - junyoors@hotmail.com
+  - joserogerioandrade1@gmail.com
+  - rogerioandradejr@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 459
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 459.6
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (75) 98807-9097
+    Ddd: 75
+    Número: 988079097
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A0
+  [2]
+    Telefone: (75) 99922-8886
+    Ddd: 75
+    Número: 999228886
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

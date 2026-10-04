@@ -1,0 +1,273 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  42398649253
+Data/Hora:  03/10/2026, 20:43:07
+Tempo API:  535ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 423.986.492-53
+Nome: MARCELO BARBOSA DA COSTA DE MORAIS
+Primeiro Nome: MARCELO
+Sobrenome: MORAIS
+Sexo: Masculino
+Data de Nascimento: 02/06/1972
+Nome da Mãe: LAURA BARBOSA DA COSTA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 2307449
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PA
+Mosaic: J35
+Ocupação: Alimentador de linha de produção
+Score:
+  Value: 89
+  Range: ALTISSIMO
+E-mail: marcelobarbosadacosta@hotmail.com
+Additional Emails: (1 item(s))
+  - marcelobarbosadacosta@hotmail.com
+Federal Status: REGULAR
+Renda: 1059
+Income Bracket: 2
+Cbo: 784205
+Endereço:
+  Tipo: RUA
+  Rua: S JOAO
+  Número: 578
+  Bairro: BRASILIA OUTEIRO
+  Cidade: BELEM
+  Estado: PARA
+  CEP: 66845-340
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: S JOAO
+    Número: 578
+    Bairro: BRASILIA OUTEIRO
+    Cidade: BELEM
+    Estado: PARA
+    CEP: 66845-340
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SÃO JOÃO
+    Número: 578
+    Bairro: OUTEIRO
+    Cidade: BELEM - PA
+    Fonte: DATASUS
+  [3]
+    Tipo: R
+    Rua: S JOAO
+    Número: 0000578
+    Bairro: JURUNAS
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66025-807
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (91) 98847-9419
+Cidade de Nascimento: SANTO ANTONIO DO TAUA - PA
+Cns: 708200637257144
+Rg Issue Date: 1231124400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/06/2019
+    Mosaic: J35
+    Mosaic New: H26
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAO
+      Número: 578
+      Bairro: BRASILIA OUTEIRO
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66845-340
+      Date Added: 03/08/2009
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 991327929
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [2]
+      Telefone: 988220795
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 25/01/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: marcelobarbosadacosta@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 119
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 89
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LAURA BARBOSA DA COSTA
+      Vinculo: MAE
+  Pis: 20333843147
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 195.08
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (91) 99277-6346
+  - (91) 99132-7929
+  - (91) 98822-0795
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 632.736.832-87
+    Nome: MARIA JOSE NEVES MAGNO
+    Logradouro: JOAO
+    Número: 509
+    Bairro: BRASILIA OUTEIRO
+  [2]
+    CPF: 526.834.942-20
+    Nome: ELAINE CRISTINA LIMA COUTO
+    Logradouro: JOAO
+    Número: 384
+    Bairro: BRASILIA OUTEIRO
+  [3]
+    CPF: 994.747.002-49
+    Nome: CLEYDE CRISTINA MENDES SILVA
+    Logradouro: JOAO
+    Número: 437
+    Bairro: BRASILIA OUTEIRO
+  [4]
+    CPF: 526.055.902-91
+    Nome: JOAO BATISTA DA SILVA
+    Logradouro: JOAO
+    Número: 353
+    Bairro: BRASILIA OUTEIRO
+  [5]
+    CPF: 995.824.572-87
+    Nome: ALON DE JESUS DOS SANTOS MARTINS
+    Logradouro: JOAO
+    Número: 535
+    Bairro: BRASILIA OUTEIRO
+  [6]
+    CPF: 442.945.222-91
+    Nome: MARIA DO SOCORRO RODRIGUES DOS SANTOS
+    Logradouro: JOAO
+    Número: 563
+    Bairro: BRASILIA OUTEIRO
+  [7]
+    CPF: 449.817.162-49
+    Nome: SANDRA MARIA DOS SANTOS MARTINS
+    Logradouro: JOAO
+    Número: 335
+    Bairro: BRASILIA OUTEIRO
+  [8]
+    CPF: 056.837.182-87
+    Nome: TEREZINHA DOS SANTOS RIBEIRO
+    Logradouro: JOAO
+    Número: 569
+    Bairro: BRASILIA OUTEIRO
+  [9]
+    CPF: 002.742.652-14
+    Nome: GISELE DA SILVA MACIEL
+    Logradouro: JOAO
+    Número: 574
+    Bairro: BRASILIA OUTEIRO
+  [10]
+    CPF: 367.600.302-06
+    Nome: AMELIA MARIA DA CRUZ PINHEIRO
+    Logradouro: JOAO
+    Número: 441
+    Bairro: BRASILIA OUTEIRO
+  [11]
+    CPF: 306.047.962-34
+    Nome: JOANA DARC DA SILVA FARIA
+    Logradouro: JOAO
+    Número: 392
+    Bairro: BRASILIA OUTEIRO
+  [12]
+    CPF: 026.544.802-67
+    Nome: HAMILTON SOUZA DE SOUZA
+    Logradouro: JOAO
+    Número: 55
+    Bairro: BRASILIA OUTEIRO
+  [13]
+    CPF: 025.127.732-13
+    Nome: WELLIGTON ENGELS NASCIMENTO DIAS
+    Logradouro: JOAO
+    Número: 513
+    Bairro: BRASILIA OUTEIRO
+  [14]
+    CPF: 837.281.982-34
+    Nome: MARCELO BELOS DUARTE
+    Logradouro: JOAO
+    Número: 1
+    Bairro: BRASILIA OUTEIRO
+  [15]
+    CPF: 029.509.022-78
+    Nome: SADY JORGE NETO
+    Logradouro: JOAO
+    Número: 422
+    Bairro: BRASILIA OUTEIRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (91) 99277-6346
+    Nome: MARCELO BARBOSA DA COSTA
+    Cidade: BELEM
+    UF: PA
+E-mails: (1 item(s))
+  - marcelobarbosadacosta@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1059
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 195.08
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (91) 99132-7929
+    Ddd: 91
+    Número: 991327929
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [2]
+    Telefone: (91) 98822-0795
+    Ddd: 91
+    Número: 988220795
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D2
+Occupation Code: 784205
+Occupation Name: Alimentador de linha de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

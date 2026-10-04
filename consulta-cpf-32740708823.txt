@@ -1,0 +1,463 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  32740708823
+Data/Hora:  02/10/2026, 17:13:29
+Tempo API:  898ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 327.407.088-23
+Nome: DIEGO AUGUSTO URSULINO DA SILVA
+Primeiro Nome: DIEGO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 15/10/1984
+Nome da Mãe: MARIA DO CARMO URSULINO DA SILVA
+Nome do Pai: ESPEDITO PEREIRA DA SILVA
+RG: 33828615
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 318513640116
+Mosaic: C09
+Ocupação: Agente de segurança penitenciária
+Score:
+  Value: 43
+  Range: ALTISSIMO
+E-mail: DIEGO_A_SILVA@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 4111
+Income Bracket: 4
+Cbo: 517315
+Endereço:
+  Tipo: RUA
+  Rua: JHONY ANDERSON DE OLIVEIRA SALVADOR
+  Número: 656
+  Complemento: R 2
+  Bairro: RES PASTOREIRO
+  Cidade: COTIA
+  Estado: SAO PAULO
+  CEP: 06727-300
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 656
+    Complemento: R 2
+    Bairro: RES PASTOREIRO
+    Cidade: COTIA
+    Estado: SAO PAULO
+    CEP: 06727-300
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MIGUEL GOBBI
+    Número: 173
+    Bairro: VILA EUCLIDES
+    Cidade: SAO BERNARDO DO CAMPO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Tipo: R
+    Número: 152
+    Complemento: C 6
+    Bairro: RES PASTOREIRO
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06727-300
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOAO ANTONIO DE OLIVEIRA
+    Tipo: R
+    Número: 152
+    Complemento: RES R 2 C 656
+    Bairro: JD DAS OLIVEIRAS CAUCAIA DO ALTO
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06727-117
+    Data Atualizacao: 08/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MIGUEL GOBBI
+    Tipo: R
+    Número: 173
+    Bairro: VL EUCLIDES
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09725-560
+    Data Atualizacao: 13/03/2013
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: VARGAS
+    Tipo: AV
+    Número: 2516
+    Complemento: 2 R C B 2
+    Bairro: VL STO AMARO
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79112-010
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: PEUGEOT
+      Modelo: 206 14 FELINE
+      Ano: 2005
+Datasus Phones: (1 item(s))
+  - (11) 96464-2245
+Cidade de Nascimento: SAO BERNARDO DO CAMPO - SP
+Cns: 709007817922517
+Rg Issue Date: 1259290800000
+Mte Data:
+  Nome: Diego Augusto Ursulino Da Silva
+  Data de Nascimento: 15/10/1984
+  Nome da Mãe: Maria Do Carmo Ursulino Da Silva
+  Endereço:
+    Rua: Jhoy Anderson De Oliveira Salvador
+    Número: 152
+    Complemento: R 2 Cs 656 Cond Cauca
+    Bairro: Caucaia Do Alto
+    Cidade: Cotia
+    Estado: SP
+    CEP: 06727-300
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/09/2019
+    Info Date: 01/12/2007
+    Mosaic: C09
+    Mosaic New: D11
+    Mosaic Secondary: H26
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: JHONY ANDERSON DE OLIVEIRA SALVADOR
+      Número: 152
+      Complemento: C 6
+      Bairro: RES PASTOREIRO
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06727-300
+      Date Added: 04/07/2017
+    [2]
+      Tipo: R
+      Rua: JOAO ANTONIO DE OLIVEIRA
+      Número: 152
+      Complemento: RES R 2 C 656
+      Bairro: JD DAS OLIVEIRAS CAUCAIA DO ALTO
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06727-117
+      Date Added: 23/05/2015
+    [3]
+      Tipo: R
+      Rua: JHONY ANDERSON DE OLIVEIRA SALVADOR
+      Número: 656
+      Complemento: R 2
+      Bairro: RES PASTOREIRO
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06727-300
+      Date Added: 13/08/2018
+    [4]
+      Tipo: R
+      Rua: MIGUEL GOBBI
+      Número: 173
+      Bairro: VL EUCLIDES
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09725-560
+      Date Added: 18/08/2011
+    [5]
+      Tipo: AV
+      Rua: VARGAS
+      Número: 2516
+      Complemento: 2 R C B 2
+      Bairro: VL STO AMARO
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79112-010
+      Date Added: 02/02/2016
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32633965
+      Ddd: 18
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 39187551
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/05/2015
+      Info Date: 29/09/2018
+    [3]
+      Telefone: 995747935
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/07/2017
+      Info Date: 11/05/2017
+    [4]
+      Telefone: 967977452
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: irani.gama@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2017
+    [2]
+      E-mail: emerson.luis.souza@terra.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+  Score:
+    CSB8: 68
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 43
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (9 item(s))
+    [1]
+      CPF: 4832399411
+      Nome: SEVERINA CLEMENTINO DA SILVA OLIVEIRA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 5919864770
+      Nome: CAMILA CLEMENTINO DA SILVA
+      Vinculo: SOBRINHA(O)
+    [3]
+      CPF: 3302209428
+      Nome: MARIA DO CARMO URSULINO DA SILVA
+      Vinculo: MAE
+    [4]
+      CPF: 9006238708
+      Nome: ELIANE CLEMENTINO DA SILVA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 305.745.418-61
+      Nome: WILLIAM URSULINO DA SILVA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 5998463480
+      Nome: VALDIR CLEMENTINO DA SILVA
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 363.701.498-02
+      Nome: CAMILA URSULINO DA SILVA
+      Vinculo: IRMA(O)
+    [8]
+      CPF: 7713358498
+      Nome: CLEONICE CLEMENTINO DA SILVA
+      Vinculo: IRMA(O)
+    [9]
+      CPF: 5625088489
+      Nome: JOSE ROBERTO DA SILVA CAMILO
+      Vinculo: IRMA(O)
+  Pis: 19018664491
+  Tse:
+    Titulo: 318513640116
+    Zona: 117
+    Secao: 38
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2029.64
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Telefones: (5 item(s))
+  - (11) 95353-9065
+  - (18) 3263-3965
+  - (11) 3918-7551
+  - (11) 99574-7935
+  - (11) 96797-7452
+Additional Emails: (2 item(s))
+  - irani.gama@gmail.com
+  - emerson.luis.souza@terra.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 205.113.228-36
+    Nome: ARIOVALDO VALERIO
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 152
+    Bairro: RES PASTOREIRO
+  [2]
+    CPF: 291.491.318-42
+    Nome: ACILANDIA PEREIRA TITO SILVA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 152
+    Bairro: RES PASTOREIRO
+  [3]
+    CPF: 273.398.728-33
+    Nome: GILBERTO DOS SANTOS SILVA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 152
+    Bairro: RES PASTOREIRO
+  [4]
+    CPF: 133.023.208-92
+    Nome: ANTONIO CARLOS GONCALVES
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 265
+    Bairro: RES PASTOREIRO
+  [5]
+    CPF: 917.873.861-04
+    Nome: RUBERLEY GARCIA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 188
+    Bairro: RES PASTOREIRO
+  [6]
+    CPF: 427.361.818-40
+    Nome: ISAIAS PEREIRA ANDRADE
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 152
+    Bairro: RES PASTOREIRO
+  [7]
+    CPF: 287.282.938-51
+    Nome: ALLAN ALVES DOS SANTOS
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 152
+    Bairro: RES PASTOREIRO
+  [8]
+    CPF: 157.188.798-93
+    Nome: ANTONIO REINALDO DE ARAUJO
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 76
+    Bairro: RES PASTOREIRO
+  [9]
+    CPF: 228.898.288-83
+    Nome: LUANA CASSIA MENDES MOREIRA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 15
+    Bairro: RES PASTOREIRO
+  [10]
+    CPF: 051.215.048-61
+    Nome: GERALDO MARTINS DA ROCHA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 102
+    Bairro: RES PASTOREIRO
+  [11]
+    CPF: 678.935.035-72
+    Nome: FRANCISVAL MACEDO NASCIMENTO
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 152
+    Bairro: RES PASTOREIRO
+  [12]
+    CPF: 284.222.289-04
+    Nome: JOSE OSWALDO FERREIRA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 42
+    Bairro: RES PASTOREIRO
+  [13]
+    CPF: 368.965.648-65
+    Nome: LEANDRO MANOEL XAVIER NUNES
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 94
+    Bairro: RES PASTOREIRO
+  [14]
+    CPF: 089.950.208-30
+    Nome: NILO SOARES DE OLIVEIRA
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 1
+    Bairro: RES PASTOREIRO
+  [15]
+    CPF: 262.707.558-67
+    Nome: CLAUDIOMIR GEREVIN
+    Logradouro: JHONY ANDERSON DE OLIVEIRA SALVADOR
+    Número: 161
+    Bairro: RES PASTOREIRO
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 95353-9065
+    Nome: DIEGO AUGUSTO URSULINO DA SILVA
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (3 item(s))
+  - diego_a_silva@hotmail.com
+  - irani.gama@gmail.com
+  - emerson.luis.souza@terra.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 4111
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2029.64
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: DIEGO AUGUSTO URSULINO DA SILVA
+    Ano Vestibular: 2014
+    Faculdade: UNIVERSIDADE CIDADE DE SAO PAULO
+    Curso: FILOSOFIA
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (18) 3263-3965
+    Ddd: 18
+    Número: 32633965
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (11) 3918-7551
+    Ddd: 11
+    Número: 39187551
+    Tipo: FIXO
+    Data Inclusao: 22/05/2015
+    Data Informacao: 29/09/2018
+    Classificacao: D2
+  [3]
+    Telefone: (11) 99574-7935
+    Ddd: 11
+    Número: 995747935
+    Tipo: 3
+    Data Inclusao: 04/07/2017
+    Data Informacao: 11/05/2017
+    Classificacao: D
+  [4]
+    Telefone: (11) 96797-7452
+    Ddd: 11
+    Número: 967977452
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: A1
+Occupation Code: 517315
+Occupation Name: Agente de segurança penitenciária
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

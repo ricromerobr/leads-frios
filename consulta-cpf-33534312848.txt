@@ -1,0 +1,448 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  33534312848
+Data/Hora:  04/10/2026, 01:00:30
+Tempo API:  723ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 335.343.128-48
+Nome: FABIO HENRIQUE PEREIRA
+Primeiro Nome: FABIO
+Sobrenome: PEREIRA
+Sexo: Masculino
+Data de Nascimento: 05/06/1986
+Nome da Mãe: IOLANDA PEREIRA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 442290093
+Voter Id: 334910500116
+Mosaic: F18
+Ocupação: Professor de nível médio no ensino fundamental
+Score:
+  Value: 516
+  Range: MEDIO
+E-mail: lyndinha30@hotmail.com
+Additional Emails: (2 item(s))
+  - lyndinha30@hotmail.com
+  - fhpsophia@yahoo.com.br
+Federal Status: REGULAR
+Renda: 3325
+Income Bracket: 4
+Cbo: 331205
+Endereço:
+  Tipo: RUA
+  Rua: ASPASIA
+  Bairro: VL SILVIANIA
+  Cidade: CARAPICUIBA
+  Estado: SAO PAULO
+  CEP: 06381-250
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ASPASIA
+    Bairro: VL SILVIANIA
+    Cidade: CARAPICUIBA
+    Estado: SAO PAULO
+    CEP: 06381-250
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R ASPASIA
+    Número: 70
+    Bairro: VILA SILVIANA
+    Cidade: CARAPICUIBA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ASPASIA
+    Tipo: R
+    Número: 70
+    Complemento: CARAPICUIBA
+    Bairro: VL SILVIANIA
+    Cidade: CARAPICUIBA
+    Estado: SP
+    CEP: 06381-250
+    Data Atualizacao: 10/06/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MARIA LUCIA
+    Tipo: R
+    Número: 239
+    Bairro: VL CERES
+    Cidade: BARUERI
+    Estado: SP
+    CEP: 06406-130
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: RUA
+    Rua: R SOL  226
+    Número: 226
+    Bairro: JARDIM TUPANCI
+    Cidade: BARUERI
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HONDA
+      Modelo: PCX 150
+      Ano: 2015
+Telefones: (6 item(s))
+  - (11) 96127-2485
+  - (11) 96947-4771
+  - (11) 4198-6296
+  - (11) 4187-8576
+  - (11) 97476-9375
+  - (11) 96533-9596
+Cidade de Nascimento: INVALIDO
+Cns: 707601245369799
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/12/2019
+    Info Date: 25/08/2008
+    Mosaic: F18
+    Mosaic New: E18
+    Mosaic Secondary: D13
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: ASPASIA
+      Número: 70
+      Complemento: CARAPICUIBA
+      Bairro: VL SILVIANIA
+      Cidade: CARAPICUIBA
+      Estado: SP
+      CEP: 06381-250
+      Date Added: 11/10/2006
+    [2]
+      Tipo: R
+      Rua: MARIA LUCIA
+      Número: 239
+      Bairro: VL CERES
+      Cidade: BARUERI
+      Estado: SP
+      CEP: 06406-130
+      Date Added: 30/09/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 41878576
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 974769375
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 41986296
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 15/12/2014
+    [4]
+      Telefone: 965339596
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [5]
+      Telefone: 969474771
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+      Info Date: 20/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: lyndinha30@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: fhpsophia@yahoo.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 740
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 516
+    CSBA FAIXA: MEDIO
+  Parentes: (13 item(s))
+    [1]
+      CPF: 282.880.248-58
+      Nome: SHEILA PEREIRA DE OLIVEIRA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 289.707.988-62
+      Nome: IOLANDA PEREIRA
+      Vinculo: MAE
+    [3]
+      CPF: 763.902.848-53
+      Nome: MAGNOLIA ALVES DIAS
+      Vinculo: TIA(O)
+    [4]
+      CPF: 916.721.208-53
+      Nome: JAIME ALVES DIAS
+      Vinculo: TIA(O)
+    [5]
+      CPF: 143.472.848-02
+      Nome: ELIETE ALVES DIAS DE SALES
+      Vinculo: TIA(O)
+    [6]
+      CPF: 322.382.178-35
+      Nome: MARCELO LUIZ PEREIRA
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 312.796.568-08
+      Nome: EDERSON LUIZ DOS SANTOS
+      Vinculo: PRIMA(O)
+    [8]
+      CPF: 306.833.228-18
+      Nome: VILMA ALVES DIAS DOS SANTOS
+      Vinculo: TIA(O)
+    [9]
+      CPF: 301.561.158-59
+      Nome: JAIR PEREIRA JUNIOR
+      Vinculo: IRMA(O)
+    [10]
+      CPF: 305.892.808-48
+      Nome: VANESSA ALVES DOS SANTOS CAMARGO
+      Vinculo: PRIMA(O)
+    [11]
+      CPF: 920201865
+      Nome: MARIA ALVES PORTUGAL
+      Vinculo: AVO
+    [12]
+      CPF: 342.428.598-64
+      Nome: RAMON DIAS DE SALES
+      Vinculo: PRIMA(O)
+    [13]
+      CPF: 351.823.018-20
+      Nome: FABIANA CATARINE PEREIRA
+      Vinculo: IRMA(O)
+  Pis: 13372060899
+  Tse:
+    Titulo: 334910500116
+    Zona: 388
+    Secao: 235
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1196.91
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 975.813.058-72
+    Nome: HELIO TOMIO MURAKAMI
+    Logradouro: ASPASIA
+    Número: 101
+    Bairro: VL SILVIANIA
+  [2]
+    CPF: 037.123.988-59
+    Nome: MARIA VALERIA BATISTA
+    Logradouro: ASPASIA
+    Número: 244
+    Bairro: VL SILVIANIA
+  [3]
+    CPF: 695.419.303-87
+    Nome: AREALDA RIBEIRO DA SILVA
+    Logradouro: ASPASIA
+    Número: 116
+    Bairro: VL SILVIANIA
+  [4]
+    CPF: 013.601.448-89
+    Nome: ANTONIO DOS REIS CARDOSO DE MOURA
+    Logradouro: ASPASIA
+    Número: 39
+    Bairro: VL SILVIANIA
+  [5]
+    CPF: 004.961.716-82
+    Nome: MARIA DO CARMO DA SILVA MORAES
+    Logradouro: ASPASIA
+    Número: 130
+    Bairro: VL SILVIANIA
+  [6]
+    CPF: 401.625.674-72
+    Nome: ALBERTO CESAR DA TRINDADE
+    Logradouro: ASPASIA
+    Número: 177
+    Bairro: VL SILVIANIA
+  [7]
+    CPF: 201.013.348-00
+    Nome: JEANE CRISTINA LARENA COSTA
+    Logradouro: ASPASIA
+    Número: 58
+    Bairro: VL SILVIANIA
+  [8]
+    CPF: 448.687.238-04
+    Nome: FLAVIO FERREIRA PIMENTEL
+    Logradouro: ASPASIA
+    Número: 182
+    Bairro: VL SILVIANIA
+  [9]
+    CPF: 061.326.288-35
+    Nome: MARIA LUCIA DE SOUZA PORTO VIANA
+    Logradouro: ASPASIA
+    Número: 67
+    Bairro: VL SILVIANIA
+  [10]
+    CPF: 554.434.945-20
+    Nome: ERALDO FERREIRA DE SOUZA
+    Logradouro: ASPASIA
+    Número: 59
+    Bairro: VL SILVIANIA
+  [11]
+    CPF: 079.102.988-38
+    Nome: CREUSA GOMES DA SILVA
+    Logradouro: ASPASIA
+    Número: 11
+    Bairro: VL SILVIANIA
+  [12]
+    CPF: 429.997.518-93
+    Nome: PRISCILA ALVES DE LIMA
+    Logradouro: ASPASIA
+    Número: 343
+    Bairro: VL SILVIANIA
+  [13]
+    CPF: 140.806.398-05
+    Nome: NILTON ALVES MARTINS
+    Logradouro: ASPASIA
+    Número: 286
+    Bairro: VL SILVIANIA
+  [14]
+    CPF: 145.113.858-07
+    Nome: MARIA DE LOURDES SOUZA
+    Logradouro: ASPASIA
+    Número: 22
+    Bairro: VL SILVIANIA
+  [15]
+    CPF: 128.826.968-41
+    Nome: MIRIAN GONCALVES DE SOUZA BARBOSA
+    Logradouro: ASPASIA
+    Número: 255
+    Bairro: VL SILVIANIA
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 50135571
+    Operadora: 443
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 22/07/2011
+    Tempo Base: 110
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201107
+    Geo:
+      Ibge Municipio: 3505708
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 05/06/1986
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 7499
+      Classe Social: B2
+      Score: 921
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 882
+        Net: 888
+        Ctv: 831
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 34
+E-mails: (2 item(s))
+  - lyndinha30@hotmail.com
+  - fhpsophia@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3325
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1196.91
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 7499
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4187-8576
+    Ddd: 11
+    Número: 41878576
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: C
+  [2]
+    Telefone: (11) 97476-9375
+    Ddd: 11
+    Número: 974769375
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: A0
+  [3]
+    Telefone: (11) 4198-6296
+    Ddd: 11
+    Número: 41986296
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Classificacao: B
+  [4]
+    Telefone: (11) 96533-9596
+    Ddd: 11
+    Número: 965339596
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 96947-4771
+    Ddd: 11
+    Número: 969474771
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Data Informacao: 20/10/2018
+    Classificacao: D
+Occupation Code: 331205
+Occupation Name: Professor de nível médio no ensino fundamental
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

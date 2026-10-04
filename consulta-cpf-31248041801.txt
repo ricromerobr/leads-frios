@@ -1,0 +1,500 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  31248041801
+Data/Hora:  03/10/2026, 15:04:54
+Tempo API:  702ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 312.480.418-01
+Nome: ANDRESA LOPES BORGES ROCHA
+Primeiro Nome: ANDRESA
+Sobrenome: ROCHA
+Sexo: Feminino
+Data de Nascimento: 16/12/1982
+Nome da Mãe: RITA DE FATIMA LOPES BORGES
+Nome do Pai: SEM INFORMAÇÃO
+RG: 00347574245
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 288105140116
+Mosaic: E17
+Ocupação: Auxiliar em saúde bucal
+Score:
+  Value: 274
+  Range: ALTO
+E-mail: almir.rocha2@hotmail.com
+Additional Emails: (2 item(s))
+  - almir.rocha2@hotmail.com
+  - dedebiolopes@hotmail.com
+Federal Status: REGULAR
+Renda: 1000
+Cbo: 322415
+Endereço:
+  Tipo: RUA
+  Rua: HOMERO BARBOSA SANDOVAL
+  Bairro: PARQUE MOEMA
+  Cidade: FRANCA
+  Estado: SAO PAULO
+  CEP: 14409-176
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HOMERO BARBOSA SANDOVAL
+    Bairro: PARQUE MOEMA
+    Cidade: FRANCA
+    Estado: SAO PAULO
+    CEP: 14409-176
+    Fonte: PRINCIPAL
+  [2]
+    Rua: QUINTINUO BOCAIUVA
+    Número: 1122
+    Bairro: CENTRO
+    Cidade: PATROCINIO PAULISTA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO GARCIA DE FREITAS
+    Tipo: R
+    Número: 5355
+    Bairro: RES JOSE DE CARLOS
+    Cidade: FRANCA
+    Estado: SP
+    CEP: 14403-834
+    Data Atualizacao: 12/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: QUINTINO BOCAIUVA
+    Tipo: R
+    Número: 122
+    Bairro: CENTRO
+    Cidade: PATROCINIO PAULISTA
+    Estado: SP
+    CEP: 14415-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CORUMBAIBA
+    Tipo: R
+    Número: 157
+    Bairro: VL ORATORIO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03189-010
+    Data Atualizacao: 17/04/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: QUINTINO BOCAIUVA
+    Tipo: AV
+    Número: 1122
+    Bairro: CENTRO
+    Cidade: PATROCINIO PAULISTA
+    Estado: SP
+    CEP: 14415-000
+    Data Atualizacao: 14/10/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: UDELIO SCODRO
+    Tipo: R
+    Número: 44
+    Complemento: AP 32
+    Bairro: BSQ DAS JURITIS
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14021-680
+    Data Atualizacao: 10/10/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: QUINTINO BOCAIUVA
+    Número: 0001122
+    Bairro: CENTRO
+    Cidade: PATROCINIO PAULISTA
+    Estado: SP
+    CEP: 14415-000
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: ALCIDES GUILHERME
+    Número: 0005490
+    Bairro: RESIDENCIAL SAO JERONIMO
+    Cidade: FRANCA
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: ANTONIO GARCIA DE FREITAS
+    Número: 0005355
+    Bairro: RESIDENCIAL JOSE DE CARLOS
+    Cidade: FRANCA
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+  [11]
+    Tipo: R
+    Rua: JOSE DO PATROCINIO
+    Número: 2330
+    Bairro: FRANCA
+    Cidade: FRANCA
+    Estado: SP
+    CEP: 14401-199
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: GM
+      Modelo: CORSA WIND
+      Ano: 1996
+Telefones: (12 item(s))
+  - (16) 99430-4344
+  - (16) 99111-2335
+  - (16) 99347-1992
+  - (16) 99392-0076
+  - (16) 3939-1758
+  - +55 (16) 99105-5982
+  - (16) 99602-7046
+  - (16) 99105-5982
+  - (16) 99189-2527
+  - (16) 3145-1044
+  - (16) 98165-6595
+  - (11) 98315-1947
+Datasus Phones: (1 item(s))
+  - (16) 3145-1758
+Cidade de Nascimento: PATROCINIO PAULISTA - SP
+Cns: 700101939229816
+Rg Issue Date: 836881200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/09/2019
+    Info Date: 26/09/2007
+    Rg Issuer: SSP
+    Mosaic: E17
+    Mosaic New: D12
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO GARCIA DE FREITAS
+      Número: 5355
+      Bairro: RES JOSE DE CARLOS
+      Cidade: FRANCA
+      Estado: SP
+      CEP: 14403-834
+      Date Added: 02/05/2017
+    [2]
+      Tipo: R
+      Rua: QUINTINO BOCAIUVA
+      Número: 122
+      Bairro: CENTRO
+      Cidade: PATROCINIO PAULISTA
+      Estado: SP
+      CEP: 14415-000
+      Date Added: 08/08/2011
+    [3]
+      Tipo: R
+      Rua: CORUMBAIBA
+      Número: 157
+      Bairro: VL ORATORIO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03189-010
+      Date Added: 10/11/2015
+    [4]
+      Tipo: AV
+      Rua: QUINTINO BOCAIUVA
+      Número: 1122
+      Bairro: CENTRO
+      Cidade: PATROCINIO PAULISTA
+      Estado: SP
+      CEP: 14415-000
+      Date Added: 07/11/2011
+    [5]
+      Tipo: R
+      Rua: UDELIO SCODRO
+      Número: 44
+      Complemento: AP 32
+      Bairro: BSQ DAS JURITIS
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14021-680
+      Date Added: 21/04/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991892527
+      Ddd: 16
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 26/01/2012
+    [2]
+      Telefone: 31451044
+      Ddd: 16
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [3]
+      Telefone: 981656595
+      Ddd: 16
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [4]
+      Telefone: 983151947
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 29/08/2017
+      Info Date: 10/07/2017
+    [5]
+      Telefone: 993920076
+      Ddd: 16
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 17/03/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: dedebiolopes@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/07/2017
+  Score:
+    CSB8: 191
+    CSB8 FAIXA: ALTO
+    CSBA: 274
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: RITA DE FATIMA LOPES BORGES
+      Vinculo: MAE
+  Pis: 16056737404
+  Tse:
+    Titulo: 288105140116
+    Zona: 85
+    Secao: 18
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 787.81
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 056.274.298-01
+    Nome: SERGIO APARECIDO FERREIRA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5385
+    Bairro: RES JOSE DE CARLOS
+  [2]
+    CPF: 054.336.558-14
+    Nome: LUIZ ROBERTO DE SOUZA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5314
+    Bairro: RES JOSE DE CARLOS
+  [3]
+    CPF: 408.305.898-64
+    Nome: ANDRE LUIS MARTINS
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5414
+    Bairro: RES JOSE DE CARLOS
+  [4]
+    CPF: 325.753.078-13
+    Nome: GEISA BATISTA FERREIRA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5334
+    Bairro: RES JOSE DE CARLOS
+  [5]
+    CPF: 292.757.718-80
+    Nome: EDNEIA COSTA DO NASCIMENTO
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5344
+    Bairro: RES JOSE DE CARLOS
+  [6]
+    CPF: 035.785.658-90
+    Nome: FLORISVAL BINATI MARUSCHI
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5385
+    Bairro: RES JOSE DE CARLOS
+  [7]
+    CPF: 080.687.816-92
+    Nome: FRANCIELE TOMAZ MODESTO FARIA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5304
+    Bairro: RES JOSE DE CARLOS
+  [8]
+    CPF: 274.290.718-13
+    Nome: EDUARDO SILVA PEREIRA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5335
+    Bairro: RES JOSE DE CARLOS
+  [9]
+    CPF: 141.075.658-07
+    Nome: ANGELICA CRISTINA FERREIRA TELLES PALMA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5254
+    Bairro: RES JOSE DE CARLOS
+  [10]
+    CPF: 549.871.998-15
+    Nome: MARCOS ANTONIO DE ANDRADE
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: SN
+    Bairro: RES JOSE DE CARLOS
+  [11]
+    CPF: 030.457.286-18
+    Nome: MAOME BITTAR
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5364
+    Bairro: RES JOSE DE CARLOS
+  [12]
+    CPF: 980.044.848-91
+    Nome: CLEIDE ALVES FERREIRA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5385
+    Bairro: RES JOSE DE CARLOS
+  [13]
+    CPF: 283.527.418-96
+    Nome: GEISLA KARINA LESPINASSE INOCENCIO
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5274
+    Bairro: RES JOSE DE CARLOS
+  [14]
+    CPF: 312.454.108-14
+    Nome: ERIC AZEVEDO MENDONCA
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5374
+    Bairro: RES JOSE DE CARLOS
+  [15]
+    CPF: 299.390.378-05
+    Nome: DANIELA CRISTINA RODRIGUES FREITAS
+    Logradouro: ANTONIO GARCIA DE FREITAS
+    Número: 5294
+    Bairro: RES JOSE DE CARLOS
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (16) 99347-1992
+    Nome: ANDRESA LOPES BORGES
+    Cidade: PATROCINIO PAULISTA
+    UF: SP
+  [2]
+    Telefone: (16) 99111-2335
+    Nome: ANDRESA LOPES BORGES ROCHA
+    Cidade: FRANCA
+    UF: SP
+  [3]
+    Telefone: (16) 99392-0076
+    Nome: ANDRESA LOPES BORGES ROCHA
+    Cidade: FRANCA
+    UF: SP
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (16) 3939-1758
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 22JUN2019:12:26:52
+    Cel Contato: +5516991055982
+    Data Retirada: 17JUN2020:21:01:33
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (16) 99602-7046
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 07/09/2020
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (16) 3939-1758
+    Nome: ANDREZA LOPES BORGES ROCHA
+    Cidade: FRANCA
+    UF: SP
+    Operadora: VIVO
+    Fonte: algar
+  [2]
+    Telefone: (16) 99105-5982
+    Nome: ANDRESA LOPES BORGES ROCHA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (16) 99111-2335
+    Nome: ANDRESA LOPES BORGES ROCHA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - almir.rocha2@hotmail.com
+  - dedebiolopes@hotmail.com
+Renda Estimativas:
+  Presumida:
+    Valor: 1000
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 787.81
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (16) 99189-2527
+    Ddd: 16
+    Número: 991892527
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: A2
+  [2]
+    Telefone: (16) 3145-1044
+    Ddd: 16
+    Número: 31451044
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [3]
+    Telefone: (16) 98165-6595
+    Ddd: 16
+    Número: 981656595
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [4]
+    Telefone: (11) 98315-1947
+    Ddd: 11
+    Número: 983151947
+    Tipo: 3
+    Data Inclusao: 29/08/2017
+    Data Informacao: 10/07/2017
+    Classificacao: A1
+  [5]
+    Telefone: (16) 99392-0076
+    Ddd: 16
+    Número: 993920076
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 17/03/2017
+    Classificacao: D
+Occupation Code: 322415
+Occupation Name: Auxiliar em saúde bucal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

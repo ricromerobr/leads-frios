@@ -1,0 +1,469 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  16769939835
+Data/Hora:  03/10/2026, 18:32:22
+Tempo API:  765ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 167.699.398-35
+Nome: DEBORA NAKANDAKARI VICENTE
+Primeiro Nome: DEBORA
+Sobrenome: VICENTE
+Sexo: Feminino
+Data de Nascimento: 13/07/1970
+Nome da Mãe: TIYOKO NAKANDAKARI
+Nome do Pai: SEM INFORMAÇÃO
+RG: 18390514
+Voter Id: 166067050191
+Mosaic: A01
+Ocupação: Operador de telemarketing ativo
+Score:
+  Value: 446
+  Range: MEDIO
+E-mail: deboran.vicente@gmail.com
+Additional Emails: (5 item(s))
+  - deboran.vicente@gmail.com
+  - debora-vicente@uol.com.br
+  - ppvicente@terra.com.br
+  - debora_vicente@terra.com.br
+  - persio.vicente@uol.com.br
+Federal Status: REGULAR
+Renda: 1854
+Income Bracket: 2
+Cbo: 422305
+Corporate Share Pct: 95
+Endereço:
+  Tipo: RUA
+  Rua: ASSUNGUI
+  Bairro: VILA GUMERCINDO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04131-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ASSUNGUI
+    Bairro: VILA GUMERCINDO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04131-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R LOPES DE OLIVEIRA
+    Número: 112
+    Bairro: BARRA FUNDA
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: RUA ASSUNGUI
+    Número: 50
+    Complemento: 212 / 2
+    Bairro: VILA GUMERCINDO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04131-000
+    Fonte: SARAIVA
+  [4]
+    Rua: LOPES DE OLIVEIRA
+    Tipo: R
+    Número: 112
+    Complemento: AP 91 C
+    Bairro: BARRA FUNDA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01152-010
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: ASSUNGUI
+    Número: 0000050
+    Bairro: VILA GUMERCINDO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04131-000
+    Fonte: ASSECC
+  [6]
+    Rua: R ASSUNGUI
+    Número: 50
+    Complemento: AP 212 BL 2
+    Bairro: VILA GUMERCINDO
+    Estado: SP
+    CEP: 04131-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HYUNDAI
+      Modelo: CRETA 20A PRESTI
+      Ano: 2019
+Telefones: (8 item(s))
+  - (11) 99122-5694
+  - (11) 99787-5694
+  - (11) 97579-5694
+  - (11) 99156-4114
+  - (11) 5067-9220
+  - (11) 3848-1390
+  - (11) 97271-5376
+  - (11) 99670-4158
+Datasus Phones: (1 item(s))
+  - (11) 3848-1390
+Cidade de Nascimento: INVALIDO
+Cns: 702004875274581
+Saraiva:
+  Customer Id: 2925059
+  Telefone: (11) 5067-9220
+  E-mail: debora-vicente@uol.com.br
+  Data de Nascimento: 13/07/1970
+Paycom:
+  E-mail: deboran.vicente@gmail.com
+  Created At: 2021-07-19 16:53:40
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Assungui,50,Vila Gumercindo
+    Número: 0
+    Cidade: São Paulo
+    Estado: SP
+    País: BRA
+    CEP: 04131-000
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 22/11/2019
+    Info Date: 21/12/2008
+    Mosaic: A01
+    Mosaic New: C06
+    Mosaic Secondary: A02
+    Income Bracket Id: 3
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: ASSUNGUI
+      Número: 50
+      Complemento: BL 2 AP 212
+      Bairro: VL GUMERCINDO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04131-000
+      Date Added: 16/10/2018
+    [2]
+      Tipo: R
+      Rua: LOPES DE OLIVEIRA
+      Número: 112
+      Complemento: AP 91 C
+      Bairro: BARRA FUNDA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01152-010
+      Date Added: 26/06/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 38481390
+      Ddd: 11
+      Tipo: 2
+      Classificacao: D
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 991225694
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 972715376
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 996704158
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 997875694
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 10/10/2018
+  E-mails: (5 item(s))
+    [1]
+      E-mail: deboran.vicente@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: ppvicente@terra.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: debora_vicente@terra.com.br
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: persio.vicente@uol.com.br
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [5]
+      E-mail: debora-vicente@uol.com.br
+      Priority: 5
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 796
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 446
+    CSBA FAIXA: MEDIO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 124.390.398-88
+      Nome: DENISE SHIZUE NAKANDAKARI
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 3336410860
+      Nome: TIYOKO NAKANDAKARI
+      Vinculo: MAE
+    [3]
+      CPF: 101.339.708-84
+      Nome: RUI NAKANDAKARI
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1854.29
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 170.802.248-10
+    Nome: EMERSON ARAUJO DA SILVA
+    Logradouro: ASSUNGUI
+    Número: 310
+    Bairro: VL GUMERCINDO
+  [2]
+    CPF: 259.766.978-52
+    Nome: PATRICIA CUSTODIO PASSOS
+    Logradouro: ASSUNGUI
+    Número: 310
+    Bairro: VL GUMERCINDO
+  [3]
+    CPF: 418.322.408-00
+    Nome: PAULO ANTONIO PARRA
+    Logradouro: ASSUNGUI
+    Número: 50
+    Bairro: VL GUMERCINDO
+  [4]
+    CPF: 032.160.708-24
+    Nome: GILBERTO ALVES DA SILVA
+    Logradouro: ASSUNGUI
+    Número: 202
+    Bairro: VL GUMERCINDO
+  [5]
+    CPF: 105.280.228-14
+    Nome: CARLOS SERGIO FACCI FERREIRA JUNIOR
+    Logradouro: ASSUNGUI
+    Número: 140
+    Bairro: VL GUMERCINDO
+  [6]
+    CPF: 055.159.448-95
+    Nome: SOLANGE OZILIO CORREA
+    Logradouro: ASSUNGUI
+    Número: 558
+    Bairro: VL GUMERCINDO
+  [7]
+    CPF: 012.454.395-29
+    Nome: CARISVALDO DOS SANTOS SILVA
+    Logradouro: ASSUNGUI
+    Número: 28
+    Bairro: VL GUMERCINDO
+  [8]
+    CPF: 275.192.128-07
+    Nome: MARINEIDE AMARANTE DE SANTANA
+    Logradouro: ASSUNGUI
+    Número: 310
+    Bairro: VL GUMERCINDO
+  [9]
+    CPF: 009.791.343-07
+    Nome: ANTONEIDE FERREIRA JUNIOR
+    Logradouro: ASSUNGUI
+    Número: 2
+    Bairro: VL GUMERCINDO
+  [10]
+    CPF: 039.501.108-60
+    Nome: MIRELLA TURRIN
+    Logradouro: ASSUNGUI
+    Número: 50
+    Bairro: VL GUMERCINDO
+  [11]
+    CPF: 310.512.608-25
+    Nome: GILBERTO AURELIO MOSCARDO
+    Logradouro: ASSUNGUI
+    Número: 458
+    Bairro: VL GUMERCINDO
+  [12]
+    CPF: 213.859.548-09
+    Nome: GIULIANA MIRAMONTES RIBEIRO
+    Logradouro: ASSUNGUI
+    Número: 310
+    Bairro: VL GUMERCINDO
+  [13]
+    CPF: 205.347.358-43
+    Nome: PAULO SERGIO RODRIGUES
+    Logradouro: ASSUNGUI
+    Número: 134
+    Bairro: VL GUMERCINDO
+  [14]
+    CPF: 080.574.877-63
+    Nome: VALDINEI PEREIRA DE SOUZA
+    Logradouro: ASSUNGUI
+    Número: 50
+    Bairro: VL GUMERCINDO
+  [15]
+    CPF: 385.435.738-90
+    Nome: DANIELE MOREIRA NASCIMENTO
+    Logradouro: ASSUNGUI
+    Número: 310
+    Bairro: VL GUMERCINDO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (11) 99156-4114
+    Nome: DEBORA NAKANDAKARI VICENTE
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 99122-5694
+    Nome: DEBORA NAKANDAKARI VICENTE
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 99787-5694
+    Nome: DEBORA NAKANDAKARI VICENTI
+    Cidade: SAO PAULO
+    UF: SP
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 97579-5694
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 22MAY2019
+    Ultima Recarga: 28AUG2020
+    Plano: PF_CONTROLE
+    Data Instalacao: 22/05/2019
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (11) 99787-5694
+    Nome: DEBORA NAKANDAKARI
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (11) 99156-4114
+    Nome: DEBORA NAKANDAKARI
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (11) 99122-5694
+    Nome: DEBORA NAKANDAKARI
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (5 item(s))
+  - deboran.vicente@gmail.com
+  - debora-vicente@uol.com.br
+  - ppvicente@terra.com.br
+  - debora_vicente@terra.com.br
+  - persio.vicente@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1854
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1854.29
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 3848-1390
+    Ddd: 11
+    Número: 38481390
+    Tipo: CELULAR
+    Data Inclusao: 22/11/2006
+    Classificacao: D
+  [2]
+    Telefone: (11) 99122-5694
+    Ddd: 11
+    Número: 991225694
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: A0
+  [3]
+    Telefone: (11) 97271-5376
+    Ddd: 11
+    Número: 972715376
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 99670-4158
+    Ddd: 11
+    Número: 996704158
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 99787-5694
+    Ddd: 11
+    Número: 997875694
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: C2
+Occupation Code: 422305
+Occupation Name: Operador de telemarketing ativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

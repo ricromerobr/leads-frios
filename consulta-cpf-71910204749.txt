@@ -1,0 +1,464 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  71910204749
+Data/Hora:  03/10/2026, 15:43:41
+Tempo API:  706ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 719.102.047-49
+Nome: VALDIR CAVAZZAN DORNELAS
+Primeiro Nome: VALDIR
+Sobrenome: DORNELAS
+Sexo: Masculino
+Data de Nascimento: 23/03/1962
+Nome da Mãe: APARECIDA CAVAZZAN DORNELAS
+Voter Id: 019129240361
+Mosaic: E14
+Ocupação: Cirurgião dentista - dentística
+Score:
+  Value: 441
+  Range: MEDIO
+E-mail: ickle_genge@hotmail.com
+Additional Emails: (3 item(s))
+  - ickle_genge@hotmail.com
+  - valdircavazzan@yahoo.com.br
+  - valdircavazzan@yahoo.com
+Federal Status: REGULAR
+Renda: 3200
+Income Bracket: 4
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: GETULIO ALVES
+  Número: 193
+  Bairro: VILA ELIZA
+  Cidade: PRESIDENTE JANIO QUADROS
+  Estado: BAHIA
+  CEP: 46250-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GETULIO ALVES
+    Número: 193
+    Bairro: VILA ELIZA
+    Cidade: PRESIDENTE JANIO QUADROS
+    Estado: BAHIA
+    CEP: 46250-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: avenida antonio carlos magalhaes
+    Número: 00079
+    Complemento: casa
+    Bairro: centro
+    Cidade: PRESIDENTE JANIO QUADROS
+    Estado: BA
+    CEP: 46250-000
+    Fonte: SARAIVA
+  [3]
+    Rua: MANUEL VIEIRA
+    Tipo: R
+    Número: 74
+    Complemento: SL 209
+    Bairro: VL MERITI
+    Cidade: DUQUE DE CAXIAS
+    Estado: RJ
+    CEP: 25020-210
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: BALTAZAR LISBOA
+    Tipo: R
+    Número: 12
+    Complemento: AP 302
+    Bairro: VL ISABEL
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20540-130
+    Data Atualizacao: 01/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DAS LARANJEIRAS
+    Tipo: R
+    Número: 462
+    Bairro: LARANJEIRAS
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22240-006
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: ANTONIO CARLOS MAGALHAES
+    Tipo: AV
+    Número: 713
+    Bairro: CENTRO
+    Cidade: PRESIDENTE JANIO QUADROS
+    Estado: BA
+    CEP: 46250-000
+    Data Atualizacao: 04/02/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: RICARDO ALVES VIEIRA
+    Número: 0000005
+    Bairro: CENTRO
+    Cidade: PRESIDENTE JANIO QUADROS
+    Estado: BA
+    CEP: 46250-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (77) 98129-9331
+  - (77) 8811-4301
+  - (77) 98142-8425
+  - (77) 3492-2232
+  - (77) 3492-2306
+  - (77) 98828-9911
+  - (33) 3745-3051
+  - (77) 98801-1187
+Saraiva:
+  Customer Id: 390900
+  Telefone: (77) 8811-4301
+  E-mail: valdircavazzan@yahoo.com.br
+  Data de Nascimento: 23/03/1962
+Mte Data:
+  Nome: Valdir Cavazzan Dornelas
+  Data de Nascimento: 23/03/1962
+  Nome da Mãe: Aparecida Cavazzan Dornelas
+  Endereço:
+    Rua: Ricardo Alves Vieira
+    Número: 5
+    Complemento: Casa
+    Bairro: Centro
+    Cidade: Presidente Janio Quadros
+    Estado: BA
+    CEP: 46250-000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/12/2019
+    Info Date: 16/07/2008
+    Mosaic: E14
+    Mosaic New: A01
+    Mosaic Secondary: B03
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: GETULIO ALVES
+      Número: 193
+      Bairro: VL ELIZA
+      Cidade: PRESIDENTE JANIO QUADROS
+      Estado: BA
+      CEP: 46250-000
+      Date Added: 07/01/2014
+    [2]
+      Tipo: R
+      Rua: MANUEL VIEIRA
+      Número: 74
+      Complemento: SL 209
+      Bairro: VL MERITI
+      Cidade: DUQUE DE CAXIAS
+      Estado: RJ
+      CEP: 25020-210
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: BALTAZAR LISBOA
+      Número: 12
+      Complemento: AP 302
+      Bairro: VL ISABEL
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20540-130
+      Date Added: 10/06/2008
+    [4]
+      Tipo: R
+      Rua: DAS LARANJEIRAS
+      Número: 462
+      Bairro: LARANJEIRAS
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22240-006
+      Date Added: 02/02/2016
+    [5]
+      Tipo: AV
+      Rua: ANTONIO CARLOS MAGALHAES
+      Número: 713
+      Bairro: CENTRO
+      Cidade: PRESIDENTE JANIO QUADROS
+      Estado: BA
+      CEP: 46250-000
+      Date Added: 13/04/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34922232
+      Ddd: 77
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 02/12/2009
+      Info Date: 06/06/2010
+    [2]
+      Telefone: 34922306
+      Ddd: 77
+      Tipo: 1
+      Classificacao: B
+      Date Added: 26/12/2012
+    [3]
+      Telefone: 988289911
+      Ddd: 77
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 37453051
+      Ddd: 33
+      Tipo: 1
+      Classificacao: C
+      Date Added: 23/01/2018
+    [5]
+      Telefone: 988011187
+      Ddd: 77
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 25/01/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: valdircavazzan@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: valdircavazzan@yahoo.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: ickle_genge@hotmail.com
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 22/11/2016
+  Score:
+    CSB8: 323
+    CSB8 FAIXA: MEDIO
+    CSBA: 441
+    CSBA FAIXA: MEDIO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 8575247719
+      Nome: LUCIANA DORNELAS DE MEDEIROS
+      Vinculo: SOBRINHA(O)
+    [2]
+      CPF: 8129742713
+      Nome: FABIO DORNELAS PEREIRA NUNES
+      Vinculo: SOBRINHA(O)
+    [3]
+      CPF: 369.747.067-15
+      Nome: CLAUDIO CAVAZZAN DORNELAS
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 437.525.607-97
+      Nome: APARECIDA CAVAZZAN DORNELAS
+      Vinculo: MAE
+    [5]
+      CPF: 369.759.667-53
+      Nome: IRMA CAVAZZAN DORNELAS
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 108.801.047-40
+      Nome: DENISE DORNELAS PEREIRA NUNES
+      Vinculo: SOBRINHA(O)
+    [7]
+      CPF: 348.560.487-91
+      Nome: CELIA CAVAZZAN DORNELAS PEREIRA NUNES
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1351.49
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 048.754.005-00
+    Nome: HERMES XAVIER DO NASCIMENTO
+    Logradouro: MANOEL GOMES
+    Número: 192
+  [2]
+    CPF: 674.588.585-91
+    Nome: MARINEIDE ALVES RIBEIRO SILVA
+    Logradouro: TON JOBIN
+    Número: 79
+    Bairro: VL ELIZA
+  [3]
+    CPF: 005.996.925-37
+    Nome: CLAUDECI FARIAS DA SILVA
+    Logradouro: MIRANTE
+    Número: SN
+  [4]
+    CPF: 739.235.595-34
+    Nome: GILBERTO LIMA ROCHA
+    Logradouro: DINAMARCA
+    Número: 76
+  [5]
+    CPF: 418.592.515-87
+    Nome: ANTONIO DA SILVA MATOS
+    Logradouro: MARIO COVAS
+    Número: 27
+    Bairro: VL VALQUIRIA
+  [6]
+    CPF: 007.068.865-69
+    Nome: SIDNEI JOSE DA SILVA
+    Logradouro: JOAQUIM
+    Número: SN
+  [7]
+    CPF: 526.100.395-49
+    Nome: ROMILDA RIBEIRO DOS SANTOS
+    Logradouro: CARAIBAS
+    Número: SN
+  [8]
+    CPF: 022.453.555-20
+    Nome: MARILEIA RIBEIRO DE SOUSA
+    Logradouro: TABOLEIRO COMPRIDO
+    Número: SN
+  [9]
+    CPF: 054.467.685-82
+    Nome: MARCOS DOS SANTOS SILVA
+    Logradouro: AVENIDA ANTONIO CARLOS MAGALHAES
+    Número: 11
+    Bairro: CENTRO
+  [10]
+    CPF: 024.927.915-05
+    Nome: VAILDE SILVA VIANA
+    Logradouro: MRO DO SIMPLICIO
+    Número: SN
+  [11]
+    CPF: 034.213.586-48
+    Nome: PATRICIA PORTUGAL MORAES
+    Logradouro: HERCULANO VIEIRA
+    Número: 91
+    Bairro: CENTRO
+  [12]
+    CPF: 020.152.485-60
+    Nome: APARECIDA GOMES DE MATOS
+    Logradouro: BARRA VELHA
+    Número: SN
+  [13]
+    CPF: 170.218.958-95
+    Nome: ELITA MARIA DA SILVA
+    Logradouro: MUCAMBO AC STR
+    Número: SN
+    Bairro: ZONA RURAL
+  [14]
+    CPF: 029.617.375-40
+    Nome: AILTON BARBOSA PIRES
+    Logradouro: SALINA
+    Número: SN
+  [15]
+    CPF: 738.762.405-49
+    Nome: EURIPEDES RIBEIRO DE OLIVEIRA
+    Logradouro: LAGOA DE DENTRO
+    Número: SN
+    Bairro: ZONA RURAL
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (77) 98142-8425
+    Nome: VALDIR CAVAZZANS DORNELAS
+    Cidade: PRESIDENTE JANIO QUADROS
+    UF: BA
+  [2]
+    Telefone: (77) 98129-9331
+    Nome: VALDIR CAVAZZAN DONELAS
+    Cidade: PRESIDENTE JANIO QUADROS
+    UF: BA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (77) 98129-9331
+    Nome: VALDIR CAVAZZAN DORNELAS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - ickle_genge@hotmail.com
+  - valdircavazzan@yahoo.com.br
+  - valdircavazzan@yahoo.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3200
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1351.49
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (77) 3492-2232
+    Ddd: 77
+    Número: 34922232
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 06/06/2010
+    Classificacao: A0
+  [2]
+    Telefone: (77) 3492-2306
+    Ddd: 77
+    Número: 34922306
+    Tipo: FIXO
+    Data Inclusao: 26/12/2012
+    Classificacao: B
+  [3]
+    Telefone: (77) 98828-9911
+    Ddd: 77
+    Número: 988289911
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: A0
+  [4]
+    Telefone: (33) 3745-3051
+    Ddd: 33
+    Número: 37453051
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: C
+  [5]
+    Telefone: (77) 98801-1187
+    Ddd: 77
+    Número: 988011187
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: A0
+Occupation Code: 223280
+Occupation Name: Cirurgião dentista - dentística
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

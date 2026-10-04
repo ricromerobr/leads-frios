@@ -1,0 +1,409 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00291661874
+Data/Hora:  04/10/2026, 12:47:06
+Tempo API:  727ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 002.916.618-74
+Nome: OLIMPIO MARTINS JUNIOR
+Primeiro Nome: OLIMPIO
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 17/12/1958
+Nome da Mãe: APARECIDA DA SILVA MARTINS
+Nome do Pai: SEM INFORMAÇÃO
+RG: 146893281
+Rg Issuer: SSP
+Voter Id: 147161020191
+Mosaic: G26
+Ocupação: Gerente administrativo
+Score:
+  Value: 68
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 950
+Income Bracket: 1
+Cbo: 724440
+Endereço:
+  Tipo: RUA
+  Rua: CAP DAVID JOAQ
+  Bairro: VL DA FONTE
+  Cidade: SOROCABA
+  Estado: SAO PAULO
+  CEP: 18070-145
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CAP DAVID JOAQ
+    Bairro: VL DA FONTE
+    Cidade: SOROCABA
+    Estado: SAO PAULO
+    CEP: 18070-145
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R JULIO MAGALHAES JUNIOR
+    Número: 797
+    Bairro: VILA MINEIRAO
+    Cidade: SOROCABA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: DAVID JOAQUIM AUGUSTO
+    Tipo: R
+    Número: 142
+    Bairro: VL DA FONTE
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18070-145
+    Data Atualizacao: 01/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JULIO MAGALHAES JUNIOR
+    Tipo: R
+    Número: 797
+    Bairro: VL MINEIRAO
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18076-485
+    Data Atualizacao: 22/10/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOAQUIM GREGORIO DE OLIVEIRA
+    Tipo: R
+    Número: 781
+    Complemento: C 11
+    Bairro: JD NOGUEIRA
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18065-385
+    Data Atualizacao: 18/08/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ISALTINO GUANABARA RODRIGUES COSTA
+    Tipo: R
+    Número: 825
+    Bairro: VL BARAO
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18065-480
+    Data Atualizacao: 05/05/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: ALVORADA
+    Tipo: R
+    Número: 61
+    Bairro: JD CAMILA
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18066-008
+    Data Atualizacao: 05/04/2016
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: FORD
+      Modelo: CORCEL II
+      Ano: 1977
+    [2]
+      Marca: VW
+      Modelo: VW FUSCA
+      Ano: 1986
+Telefones: (6 item(s))
+  - (15) 98814-9488
+  - (15) 3327-3675
+  - (15) 2104-6360
+  - (15) 3016-2196
+  - (15) 99652-4602
+  - (71) 3424-3129
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 704803566156647
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 22/09/2019
+    Rg Issuer: SSP
+    Mosaic: G26
+    Mosaic New: E15
+    Mosaic Secondary: I30
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: DAVID JOAQUIM AUGUSTO
+      Número: 142
+      Bairro: VL DA FONTE
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18070-145
+      Date Added: 04/05/2011
+    [2]
+      Tipo: R
+      Rua: JULIO MAGALHAES JUNIOR
+      Número: 797
+      Bairro: VL MINEIRAO
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18076-485
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: JOAQUIM GREGORIO DE OLIVEIRA
+      Número: 781
+      Complemento: C 11
+      Bairro: JD NOGUEIRA
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18065-385
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: ISALTINO GUANABARA RODRIGUES COSTA
+      Número: 825
+      Bairro: VL BARAO
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18065-480
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: ALVORADA
+      Número: 61
+      Bairro: JD CAMILA
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18066-008
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33273675
+      Ddd: 15
+      Tipo: 1
+      Classificacao: D
+      Date Added: 03/05/2011
+      Info Date: 06/01/2014
+    [2]
+      Telefone: 21046360
+      Ddd: 15
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/05/2011
+      Info Date: 27/04/2011
+    [3]
+      Telefone: 30162196
+      Ddd: 15
+      Tipo: 1
+      Classificacao: D
+      Date Added: 29/01/2014
+      Info Date: 06/01/2014
+    [4]
+      Telefone: 996524602
+      Ddd: 15
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+    [5]
+      Telefone: 34243129
+      Ddd: 71
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+  Score:
+    CSB8: 115
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 68
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 9932294845
+      Nome: APARECIDA DA SILVA MARTINS
+      Vinculo: MAE
+    [2]
+      CPF: 3391594802
+      Nome: JOSE MARTINS
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 9932295817
+      Nome: SIDNEY MARTINS
+      Vinculo: IRMA(O)
+    [4]
+      Nome: 624
+      Vinculo: BAIXO
+  Pis: 10563411470
+  Tse:
+    Titulo: 147161020191
+    Zona: 356
+    Secao: 98
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 621.26
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 260.743.378-96
+    Nome: ALESSANDRO ROBERTO DOS SANTOS
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 275
+    Bairro: VL DA FONTE
+  [2]
+    CPF: 282.646.108-70
+    Nome: EDUARDO DEFACIO
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 269
+    Bairro: VL DA FONTE
+  [3]
+    CPF: 985.713.118-20
+    Nome: MARLENE ELIAS CARRASCO
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 269
+    Bairro: VL DA FONTE
+  [4]
+    CPF: 071.981.538-01
+    Nome: REGINALDO RONDELIS
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 170
+    Bairro: VL DA FONTE
+  [5]
+    CPF: 396.871.618-33
+    Nome: CAIO CESAR LIMA
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 240
+    Bairro: VL DA FONTE
+  [6]
+    CPF: 220.064.948-72
+    Nome: NESTOR RODRIGUES AZANHAS
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 253
+    Bairro: VL DA FONTE
+  [7]
+    CPF: 000.721.478-22
+    Nome: ELISABETE APARECIDA GOMES DOS SANTOS
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 292
+    Bairro: VL DA FONTE
+  [8]
+    CPF: 214.687.168-75
+    Nome: ENEIDA CRISTINA VIEIRA THEODORO
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 278
+    Bairro: VL DA FONTE
+  [9]
+    CPF: 281.431.418-10
+    Nome: JOSECLEIDE FRANCISCA DA SILVA SOUZA
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 323
+    Bairro: VL DA FONTE
+  [10]
+    CPF: 183.970.368-73
+    Nome: PATRICIA DE FATIMA DA SILVA PORTO
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 323
+    Bairro: VL DA FONTE
+  [11]
+    CPF: 122.703.458-00
+    Nome: RILDO ALVES DE ARAUJO
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 208
+    Bairro: VL DA FONTE
+  [12]
+    CPF: 812.625.079-87
+    Nome: JOSE APARECIDO SABINO
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 292
+    Bairro: VL DA FONTE
+  [13]
+    CPF: 074.312.788-96
+    Nome: ELIAS SILVERIO LETE
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 275
+    Bairro: VL DA FONTE
+  [14]
+    CPF: 292.604.048-27
+    Nome: MARCIA MARIA GOMES CABRAL
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 323
+    Bairro: VL DA FONTE
+  [15]
+    CPF: 794.270.908-63
+    Nome: ADAO DE ARRUDA
+    Logradouro: DAVID JOAQUIM AUGUSTO
+    Número: 267
+    Bairro: VL DA FONTE
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 950
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 621.26
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (15) 3327-3675
+    Ddd: 15
+    Número: 33273675
+    Tipo: FIXO
+    Data Inclusao: 03/05/2011
+    Data Informacao: 06/01/2014
+    Classificacao: D
+  [2]
+    Telefone: (15) 2104-6360
+    Ddd: 15
+    Número: 21046360
+    Tipo: FIXO
+    Data Inclusao: 05/05/2011
+    Data Informacao: 27/04/2011
+    Classificacao: D
+  [3]
+    Telefone: (15) 3016-2196
+    Ddd: 15
+    Número: 30162196
+    Tipo: FIXO
+    Data Inclusao: 29/01/2014
+    Data Informacao: 06/01/2014
+    Classificacao: D
+  [4]
+    Telefone: (15) 99652-4602
+    Ddd: 15
+    Número: 996524602
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+  [5]
+    Telefone: (71) 3424-3129
+    Ddd: 71
+    Número: 34243129
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+Foto: 📸 ENVIADA SEPARADAMENTE NO TELEGRAM
+Foto Source: redis_cache
+Occupation Code: 142105
+Occupation Name: Gerente administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

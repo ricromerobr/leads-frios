@@ -1,0 +1,341 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  22828411826
+Data/Hora:  03/10/2026, 22:40:37
+Tempo API:  716ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 228.284.118-26
+Nome: JESSICA GALACHE A COSTA RIBEIRO
+Primeiro Nome: JESSICA
+Sobrenome: RIBEIRO
+Sexo: Feminino
+Data de Nascimento: 14/10/1996
+Nome da Mãe: SOLANGE GALACHE A COSTA CANO
+Nome do Pai: SEM INFORMAÇÃO
+RG: 371202413
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Mosaic: F22
+Ocupação: Assistente de vendas
+Score:
+  Value: 96
+  Range: ALTISSIMO
+E-mail: reehsouto9001@gmail.com
+Additional Emails: (2 item(s))
+  - reehsouto9001@gmail.com
+  - jessicagalache6@gmail.com
+Federal Status: REGULAR
+Renda: 1140
+Income Bracket: 2
+Cbo: 354125
+Endereço:
+  Tipo: RUA
+  Rua: PIRACICABA
+  Bairro: VILA MONTE BELO
+  Cidade: ITAQUAQUECETUBA
+  Estado: SAO PAULO
+  CEP: 00857-790
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PIRACICABA
+    Bairro: VILA MONTE BELO
+    Cidade: ITAQUAQUECETUBA
+    Estado: SAO PAULO
+    CEP: 00857-790
+    Fonte: PRINCIPAL
+  [2]
+    Rua: QUELUZ
+    Número: 107
+    Bairro: VILA GEPINA
+    Cidade: ITAQUAQUECETUBA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: DOS EXPEDICIONARIOS
+    Tipo: PC
+    Número: 80
+    Complemento: MIG
+    Bairro: CENTRO
+    Cidade: ITAQUAQUECETUBA
+    Estado: SP
+    CEP: 08570-020
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: QUELUZ
+    Tipo: R
+    Número: 107
+    Bairro: VL GEPINA
+    Cidade: ITAQUAQUECETUBA
+    Estado: SP
+    CEP: 08577-220
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: QUELUZ
+    Número: 0000107
+    Bairro: VILA GEPINA
+    Cidade: ITAQUAQUECETUBA
+    Estado: SP
+    CEP: 08577-220
+    Fonte: ASSECC
+  [6]
+    Tipo: QUELUZ
+    Rua: R
+    Número: 0000107
+    Bairro: VILA GEPINA
+    Cidade: ITAQUAQUECETUBA
+    Estado: 08577220
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (11) 99622-3651
+  - (11) 99301-2047
+  - (11) 98834-1472
+  - (11) 98260-6709
+  - +55 (11) 95960-0027
+  - (11) 99010-5648
+  - (11) 94026-7864
+  - (11) 4647-5606
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 708603523725784
+Rg Issue Date: 962766000000
+Paycom:
+  E-mail: jessicagalache6@gmail.com
+  Data de Nascimento: 14/10/1996
+  Created At: 2021-07-03 01:31:22
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: R. Queluz
+    Número: 107
+    Complemento: Casa
+    Bairro: Vila Gepina
+    Cidade: Itaquaquecetuba
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 95960-0027
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 20/11/2019
+    Info Date: 14/07/2008
+    Mosaic: F22
+    Mosaic New: D14
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: PC
+      Rua: DOS EXPEDICIONARIOS
+      Número: 80
+      Complemento: MIG
+      Bairro: CENTRO
+      Cidade: ITAQUAQUECETUBA
+      Estado: SP
+      CEP: 08570-020
+      Date Added: 23/05/2015
+    [2]
+      Tipo: R
+      Rua: QUELUZ
+      Número: 107
+      Bairro: VL GEPINA
+      Cidade: ITAQUAQUECETUBA
+      Estado: SP
+      CEP: 08577-220
+      Date Added: 02/02/2016
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 46475606
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+  E-mails: (1 item(s))
+    [1]
+      E-mail: reehsouto9001@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 96
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 185.814.798-04
+      Nome: SOLANGE GALACHE A COSTA CANO
+      Vinculo: MAE
+  Pis: 21290786684
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 368.79
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 419.907.998-09
+    Nome: JANAINA SANTOS LIMA
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 20
+    Bairro: CENTRO
+  [2]
+    CPF: 394.851.668-50
+    Nome: GUILHERME AUGUSTO MORAES SILVA
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 37
+    Bairro: CENTRO
+  [3]
+    CPF: 295.504.298-65
+    Nome: DANIEL FLORENCIO CAVALCANTE
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 40
+    Bairro: CENTRO
+  [4]
+    CPF: 162.037.818-35
+    Nome: VALDEMUPLES JESUS DE SOUZA
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 8
+    Bairro: CENTRO
+  [5]
+    CPF: 303.625.018-23
+    Nome: LILIANE DE FATIMA E SILVA RAYMUNDO
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 37
+    Bairro: CENTRO
+  [6]
+    CPF: 370.446.618-23
+    Nome: NAYARA CUSTODIO DANTAS
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 43
+    Bairro: CENTRO
+  [7]
+    CPF: 057.129.598-36
+    Nome: IRAMILDES MADALENA SILVA DO SACRAMENTO
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 52
+    Bairro: CENTRO
+  [8]
+    CPF: 395.965.798-60
+    Nome: ANA PAULA VAZ DA SILVA CASSONE
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 37
+    Bairro: CENTRO
+  [9]
+    CPF: 286.279.748-02
+    Nome: DANIELE APARECIDA RESENDE BRANDAO
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 44
+    Bairro: CENTRO
+  [10]
+    CPF: 067.185.058-03
+    Nome: ANTONIA VALDA BRITO
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 44
+    Bairro: CENTRO
+  [11]
+    CPF: 221.964.988-15
+    Nome: NELSON AUGUSTO DE JESUS
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 8
+    Bairro: CENTRO
+  [12]
+    CPF: 160.564.878-73
+    Nome: EDEILDO PINTO MATOS
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 44
+    Bairro: CENTRO
+  [13]
+    CPF: 489.786.168-36
+    Nome: RAFAEL HENRIQUE DA SILVA
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 11
+    Bairro: CENTRO
+  [14]
+    CPF: 334.302.458-93
+    Nome: CRISTIANO OLIVEIRA NOVAES
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 37
+    Bairro: CENTRO
+  [15]
+    CPF: 397.135.718-00
+    Nome: VALDEMAR ARRIVETTE
+    Logradouro: DOS EXPEDICIONARIOS
+    Número: 46
+    Bairro: CENTRO
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (11) 99010-5648
+    Nome: JESSICA GALACHE A COSTA RIBEIRO
+    Cidade: ITAQUAQUECETUBA
+    UF: SP
+  [2]
+    Telefone: (11) 98260-6709
+    Nome: JESSICA GALACHE A COSTA RIBEIRO
+    Cidade: ITAQUAQUECETUBA
+    UF: SP
+  [3]
+    Telefone: (11) 98834-1472
+    Nome: JESSICA GALACHE A COSTA RIBEIRO
+    Cidade: ITAQUAQUECETUBA
+    UF: 08577220
+  [4]
+    Telefone: (11) 94026-7864
+    Nome: JESSICA GALACHE A COSTA RIBEIRO
+    Cidade: ITAQUAQUECETUBA
+    UF: 08577220
+  [5]
+    Telefone: (11) 99301-2047
+    Nome: JESSICA GALACHE
+    Cidade: ITAQUAQUECETUBA
+    UF: SP
+E-mails: (2 item(s))
+  - reehsouto9001@gmail.com
+  - jessicagalache6@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1140
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 368.79
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (11) 4647-5606
+    Ddd: 11
+    Número: 46475606
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+Occupation Code: 354125
+Occupation Name: Assistente de vendas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

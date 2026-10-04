@@ -1,0 +1,318 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08012132664
+Data/Hora:  03/10/2026, 15:17:20
+Tempo API:  441ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 080.121.326-64
+Nome: MIRIAN DA SILVA BERNARDES
+Primeiro Nome: MIRIAN
+Sobrenome: BERNARDES
+Sexo: Feminino
+Data de Nascimento: 15/11/1984
+Nome da Mãe: MARIA LUCIA DA SILVA BERNARDES
+Ocupação: Faxineiro
+Score:
+  Value: 48
+  Range: ALTISSIMO
+E-mail: mariansilvabernardes23@gmail.com
+Additional Emails: (1 item(s))
+  - mariansilvabernardes23@gmail.com
+Federal Status: REGULAR
+Renda: 817
+Income Bracket: 1
+Cbo: 848520
+Endereço:
+  Tipo: RUA
+  Rua: CAMPO BELO
+  Número: 78
+  Complemento: CASA
+  Bairro: MARIMBA
+  Cidade: BETIM
+  Estado: MINAS GERAIS
+  CEP: 32623-380
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CAMPO BELO
+    Número: 78
+    Complemento: CASA
+    Bairro: MARIMBA
+    Cidade: BETIM
+    Estado: MINAS GERAIS
+    CEP: 32623-380
+    Fonte: PRINCIPAL
+  [2]
+    Tipo: R
+    Rua: CAMPO BELO
+    Número: 0000078
+    Bairro: MARIMBA
+    Cidade: BETIM
+    Estado: MG
+    CEP: 32623-380
+    Fonte: ASSECC
+  [3]
+    Tipo: R
+    Rua: CAMPO BELO
+    Número: 0000078
+    Bairro: MARIMBA
+    Cidade: BETIM
+    Estado: MG
+    CEP: 32617-590
+    Fonte: ASSECC
+  [4]
+    Rua: RUA R CAMPO BELO
+    Número: 78
+    Complemento: C
+    Bairro: MARIMBA
+    Estado: MG
+    CEP: 32623-380
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Mosaic New: H28
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: CAMPO BELO
+      Número: 78
+      Complemento: C
+      Bairro: MARIMBA
+      Cidade: BETIM
+      Estado: MG
+      CEP: 32623-380
+      Date Added: 05/05/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 35964830
+      Ddd: 31
+      Tipo: 2
+      Classificacao: D
+      Date Added: 26/12/2013
+    [2]
+      Telefone: 983592571
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [3]
+      Telefone: 999422141
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [4]
+      Telefone: 994119775
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 29/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: mariansilvabernardes23@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 203
+    CSB8 FAIXA: ALTO
+    CSBA: 48
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA LUCIA DA SILVA BERNARDES
+      Vinculo: MAE
+  Pis: 20634618800
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 411.94
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (5 item(s))
+  - (31) 98359-2571
+  - (31) 99942-2141
+  - (31) 97171-2383
+  - (31) 3596-4830
+  - (31) 99411-9775
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 319.692.676-15
+    Nome: DOMINGOS EUSTAQUIO VIEIRA
+    Logradouro: CAMPO BELO
+    Número: 157
+    Bairro: MARIMBA
+  [2]
+    CPF: 823.477.786-68
+    Nome: JOSE CARLOS DE BARROS
+    Logradouro: CAMPO BELO
+    Número: 105
+    Bairro: MARIMBA
+  [3]
+    CPF: 605.326.882-87
+    Nome: JOSE MARQUES TEIXEIRA DA CRUZ
+    Logradouro: CAMPO BELO
+    Número: 201
+    Bairro: MARIMBA
+  [4]
+    CPF: 363.821.592-04
+    Nome: MARIA DO SOCORRO SANTOS SILVA
+    Logradouro: CAMPO BELO
+    Número: 88
+    Bairro: MARIMBA
+  [5]
+    CPF: 683.069.708-53
+    Nome: VALDEMAR RODRIGUES DA COSTA
+    Logradouro: CAMPO BELO
+    Número: 60
+    Bairro: MARIMBA
+  [6]
+    CPF: 112.466.326-67
+    Nome: NATHALIA CAMILA BENTO DA SILVA SOARES
+    Logradouro: CAMPO BELO
+    Número: 22
+    Bairro: MARIMBA
+  [7]
+    CPF: 014.113.376-70
+    Nome: IDALINA PONTES ARAUJO
+    Logradouro: CAMPO BELO
+    Número: 26
+    Bairro: MARIMBA
+  [8]
+    CPF: 058.390.426-25
+    Nome: JAIRO DA SILVA CORREA
+    Logradouro: CAMPO BELO
+    Número: 159
+    Bairro: MARIMBA
+  [9]
+    CPF: 028.296.006-65
+    Nome: FABIO JOSE MONTEIRO
+    Logradouro: CAMPO BELO
+    Número: 211
+    Bairro: MARIMBA
+  [10]
+    CPF: 293.549.866-68
+    Nome: JOSE BARCELOS FIRMINO
+    Logradouro: CAMPO BELO
+    Número: 107
+    Bairro: MARIMBA
+  [11]
+    CPF: 038.149.386-58
+    Nome: CLAUDENIR RODRIGUES DA SILVA
+    Logradouro: CAMPO BELO
+    Número: 128
+    Bairro: MARIMBA
+  [12]
+    CPF: 122.923.226-50
+    Nome: TALITA PIRES FELICIO DOS SANTOS CARAPINA
+    Logradouro: CAMPO BELO
+    Número: 54
+    Bairro: MARIMBA
+  [13]
+    CPF: 812.374.306-82
+    Nome: VANIA LUCIA DUARTE
+    Logradouro: CAMPO BELO
+    Número: 52
+    Bairro: MARIMBA
+  [14]
+    CPF: 115.663.266-80
+    Nome: LUCAS HUMBERTO DA COSTA SILVA
+    Logradouro: CAMPO BELO
+    Número: 22
+    Bairro: MARIMBA
+  [15]
+    CPF: 012.491.996-03
+    Nome: CASSIA MARIA DA CRUZ LEAL
+    Logradouro: CAMPO BELO
+    Número: 51
+    Bairro: MARIMBA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (31) 98359-2571
+    Nome: MIRIAN DA SILVA BERNARDES
+    Cidade: BETIM
+    UF: MG
+  [2]
+    Telefone: (31) 99942-2141
+    Nome: MIRIAN DA SILVA BERNARDES
+    Cidade: BETIM
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (31) 97171-2383
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 31OCT2019
+    Ultima Recarga: 06AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 21/08/2019
+E-mails: (1 item(s))
+  - mariansilvabernardes23@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 817
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 411.94
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (31) 3596-4830
+    Ddd: 31
+    Número: 35964830
+    Tipo: CELULAR
+    Data Inclusao: 26/12/2013
+    Classificacao: D
+  [2]
+    Telefone: (31) 98359-2571
+    Ddd: 31
+    Número: 983592571
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (31) 99942-2141
+    Ddd: 31
+    Número: 999422141
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (31) 99411-9775
+    Ddd: 31
+    Número: 994119775
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: A2
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

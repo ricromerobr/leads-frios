@@ -1,0 +1,458 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02781676322
+Data/Hora:  03/10/2026, 14:56:16
+Tempo API:  707ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 027.816.763-22
+Nome: LEO VICTOR XEREZ PEIXOTO FERREIRA
+Primeiro Nome: LEO
+Sobrenome: FERREIRA
+Sexo: Masculino
+Data de Nascimento: 04/08/1990
+Nome da Mãe: SONIA MARIA XEREZ PEIXOTO
+Nome do Pai: SEM INFORMAÇÃO
+Mosaic: F18
+Ocupação: Segundo oficial de máquinas da marinha mercante
+Score:
+  Value: 505
+  Range: MEDIO
+E-mail: leovictorxerez@gmail.com
+Additional Emails: (2 item(s))
+  - leovictorxerez@gmail.com
+  - leovicturs@hotmail.com
+Federal Status: REGULAR
+Renda: 16728
+Income Bracket: 8
+Cbo: 215215
+Endereço:
+  Tipo: RUA
+  Rua: COMTIPO 118
+  Número: 79
+  Bairro: PARQUE DOIS IRMAOS
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 06074-470
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: COMTIPO 118
+    Número: 79
+    Bairro: PARQUE DOIS IRMAOS
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 06074-470
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RDV ARTHUR BERNARDES
+    Número: 245
+    Bairro: PRATINHA
+    Cidade: BELEM - PA
+    Fonte: DATASUS
+  [3]
+    Rua: RUA 118
+    Número: 79
+    Bairro: PASARÉ
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60744-570
+    Fonte: SARAIVA
+  [4]
+    Rua: XINGU
+    Tipo: AV
+    Número: 104
+    Complemento: COND DA EMBRAPA TV ENEAS P SN
+    Bairro: MARCO
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66095-680
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ARTUR BERNARDES
+    Tipo: ROD
+    Número: 245
+    Bairro: TELEGRAFO SEM FIO
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66115-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: 118
+    Número: 0000079
+    Bairro: PARQUE DOIS IRMAOS
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 06074-470
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: 118
+    Bairro: PARQUE DOIS IRMAOS
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60744-570
+    Fonte: ASSECC
+  [8]
+    Rua: R 118
+    Número: S/N
+    Bairro: PARQUE DOIS IRMAOS
+    Estado: PE
+    CEP: 60744-570
+    Fonte: VIVO_PRE
+  [9]
+    Rua: PEREIRA DE MIRANDA
+    Número: 113
+    Complemento: TOR 06 AP 113
+    Bairro: PAPICU
+    Estado: AM
+    CEP: 60175-045
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (92) 99512-8757
+  - (85) 3493-2477
+  - +55 (91) 98362-2892
+  - (92) 99307-9926
+  - (81) 98130-0079
+  - (92) 99294-6873
+  - (92) 99443-6575
+  - (91) 98362-2892
+  - (85) 98800-5794
+  - (53) 99923-4946
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 707608225856798
+Saraiva:
+  Customer Id: 6722326
+  Telefone: (85) 3493-2477
+  E-mail: leovicturs@hotmail.com
+  Data de Nascimento: 04/08/1990
+Paycom:
+  E-mail: leovictorxerez@gmail.com
+  Data de Nascimento: 01/01/1990
+  Created At: 2018-11-03 12:20:15
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua 118, 79 / conjunto tupã mirim
+    Número: 0
+    Bairro: Parque Dois Irmãos
+    Cidade: Fortaleza
+    Estado: Ceará
+    País: BRA
+    CEP: 60744-570
+    Telephone: +55 (91) 98362-2892
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/12/2019
+    Mosaic: F18
+    Mosaic New: D13
+    Mosaic Secondary: D09
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: CENTO E DEZOITO
+      Número: 79
+      Complemento: PRQ 2
+      Bairro: PRQ DOIS IRMAOS
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60744-570
+      Date Added: 04/02/2015
+    [2]
+      Tipo: AV
+      Rua: XINGU
+      Número: 104
+      Complemento: COND DA EMBRAPA TV ENEAS P SN
+      Bairro: MARCO
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66095-680
+      Date Added: 01/01/2016
+    [3]
+      Tipo: ROD
+      Rua: ARTUR BERNARDES
+      Número: 245
+      Bairro: TELEGRAFO SEM FIO
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66115-000
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 34932477
+      Ddd: 85
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/11/2011
+      Info Date: 23/10/2013
+    [2]
+      Telefone: 983622892
+      Ddd: 91
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/08/2013
+    [3]
+      Telefone: 988005794
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 999234946
+      Ddd: 53
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: leovicturs@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: leovictorxerez@gmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 532
+    CSB8 FAIXA: BAIXO
+    CSBA: 505
+    CSBA FAIXA: MEDIO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 5443780328
+      Nome: LARA XEREZ PEIXOTO FERREIRA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 135.721.133-34
+      Nome: JOSE LEONARDO DE LIMA FERREIRA
+      Vinculo: PAI
+    [3]
+      CPF: 8860149304
+      Nome: SONIA MARIA XEREZ PEIXOTO
+      Vinculo: MAE
+  Pis: 15055198765
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 648.22
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 245.088.453-04
+    Nome: ANA NAZARE CORREIA DO NASCIMENTO
+    Logradouro: CENTO E DEZOITO
+    Número: 49
+    Bairro: PRQ DOIS IRMAOS
+  [2]
+    CPF: 294.174.573-49
+    Nome: ANITA FERREIRA LIMA
+    Logradouro: CENTO E DEZOITO
+    Número: 30
+    Bairro: PRQ DOIS IRMAOS
+  [3]
+    CPF: 118.367.333-72
+    Nome: MARIA BEZERRA DE CARVALHO
+    Logradouro: CENTO E DEZOITO
+    Número: 111
+    Bairro: PRQ DOIS IRMAOS
+  [4]
+    CPF: 464.010.243-72
+    Nome: ROUSE LOPES VALENTIM
+    Logradouro: CENTO E DEZOITO
+    Número: 130
+    Bairro: PRQ DOIS IRMAOS
+  [5]
+    CPF: 494.952.911-00
+    Nome: HELOISA HELENA LOTFI SANTOS
+    Logradouro: CENTO E DEZOITO
+    Número: 43
+    Bairro: PRQ DOIS IRMAOS
+  [6]
+    CPF: 283.557.415-87
+    Nome: ANTONIETA VASCONCELOS LIMA
+    Logradouro: CENTO E DEZOITO
+    Número: 98
+    Bairro: PRQ DOIS IRMAOS
+  [7]
+    CPF: 071.109.283-49
+    Nome: ANTONIO ALVES PEREIRA
+    Logradouro: CENTO E DEZOITO
+    Número: 6
+    Bairro: PRQ DOIS IRMAOS
+  [8]
+    CPF: 399.031.503-00
+    Nome: ERNANDES ALVES LOBO
+    Logradouro: CENTO E DEZOITO
+    Número: 115
+    Bairro: PRQ DOIS IRMAOS
+  [9]
+    CPF: 012.578.343-47
+    Nome: JOAO PAULO DA SILVA
+    Logradouro: CENTO E DEZOITO
+    Número: 61
+    Bairro: PRQ DOIS IRMAOS
+  [10]
+    CPF: 275.353.123-49
+    Nome: RITA MARIA LIMA DE OLIVEIRA
+    Logradouro: CENTO E DEZOITO
+    Número: 370
+    Bairro: PRQ DOIS IRMAOS
+  [11]
+    CPF: 258.249.613-87
+    Nome: MARIA DO PERPETUO SOCORRO PONTE DA SILVA
+    Logradouro: CENTO E DEZOITO
+    Número: 85
+    Bairro: PRQ DOIS IRMAOS
+  [12]
+    CPF: 277.806.193-20
+    Nome: FRANCISCO DE ASSIS LOPES BARROS
+    Logradouro: CENTO E DEZOITO
+    Número: 56
+    Bairro: PRQ DOIS IRMAOS
+  [13]
+    CPF: 423.537.343-91
+    Nome: ADRIANO FEITOSA DE CARVALHO
+    Logradouro: CENTO E DEZOITO
+    Número: 501
+    Bairro: PRQ DOIS IRMAOS
+  [14]
+    CPF: 781.818.793-68
+    Nome: VANDA MARIA BANDEIRA LIMA OLIVEIRA
+    Logradouro: CENTO E DEZOITO
+    Número: 6565
+    Bairro: PRQ DOIS IRMAOS
+  [15]
+    CPF: 040.206.703-74
+    Nome: CLEIDIANE MARIA DE ASSIS DA SILVA
+    Logradouro: CENTO E DEZOITO
+    Número: SN
+    Bairro: PRQ DOIS IRMAOS
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (92) 99512-8757
+    Nome: LEO VICTOR XEREZ PEIXOTO FERREIRA
+    Cidade: FORTALEZA
+    UF: CE
+  [2]
+    Telefone: (92) 99307-9926
+    Nome: LEO VICTOR XEREZ PEIXOTO FERREIRA
+    Cidade: FORTALEZA
+    UF: CE
+Vivo Linhas: (4 item(s))
+  [1]
+    Telefone: (81) 98130-0079
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 02FEB2020
+    Ultima Recarga: 25AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 02/02/2020
+  [2]
+    Telefone: (92) 99294-6873
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 29AUG2020
+    Ultima Recarga: 30AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 29/08/2020
+  [3]
+    Telefone: (92) 99443-6575
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 19AUG2020
+    Ultima Recarga: 28AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 19/08/2020
+  [4]
+    Telefone: (92) 99512-8757
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_POS_PLACA
+    Data Instalacao: 14/01/2019
+    Valor Fatura: 119.99
+    Mes Referencia: 202010
+E-mails: (2 item(s))
+  - leovictorxerez@gmail.com
+  - leovicturs@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 16728
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 648.22
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (85) 3493-2477
+    Ddd: 85
+    Número: 34932477
+    Tipo: FIXO
+    Data Inclusao: 20/11/2011
+    Data Informacao: 23/10/2013
+    Classificacao: D2
+  [2]
+    Telefone: (91) 98362-2892
+    Ddd: 91
+    Número: 983622892
+    Tipo: 3
+    Data Inclusao: 08/08/2013
+    Classificacao: A0
+  [3]
+    Telefone: (85) 98800-5794
+    Ddd: 85
+    Número: 988005794
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (53) 99923-4946
+    Ddd: 53
+    Número: 999234946
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 215215
+Occupation Name: Segundo oficial de máquinas da marinha mercante
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

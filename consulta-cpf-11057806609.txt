@@ -1,0 +1,405 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  11057806609
+Data/Hora:  03/10/2026, 19:39:07
+Tempo API:  250ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 110.578.066-09
+Nome: DAYANE ALVES DOS SANTOS
+Primeiro Nome: DAYANE
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 17/08/1991
+Nome da Mãe: ROSITA ALVES DA ROCHA
+Nome do Pai: TONI JANES RODRIGUES DOS SANTOS
+RG: 17544979
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MG
+Ocupação: Enfermeiro
+Score:
+  Value: 716
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 1111
+Income Bracket: 2
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: EDUARDO RODRIGUES BARBOSA
+  Bairro: CENTRO
+  Cidade: UNAI
+  Estado: MINAS GERAIS
+  CEP: 38610-000
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EDUARDO RODRIGUES BARBOSA
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MINAS GERAIS
+    CEP: 38610-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EDUARDO RODRIGUES BARBOSA
+    Número: 153
+    Bairro: CENTRO
+    Cidade: UNAI - MG
+    Fonte: DATASUS
+  [3]
+    Rua: EDUARDO RODRIGUES BARBOSA
+    Tipo: R
+    Número: 153
+    Complemento: C
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-061
+    Data Atualizacao: 30/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CAXAMBU
+    Tipo: R
+    Número: 19
+    Bairro: STA LUZIA
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38613-191
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: EDUARDO BARBOSA
+    Tipo: R
+    Número: 153
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-000
+    Data Atualizacao: 30/04/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: NATAL J DA COSTA
+    Tipo: R
+    Número: 654
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: DAYANE ALVES DOS SANTOS
+    Rua: 0000153
+    Número: EDUARDO RODRIGUES BARBOSA
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-000
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: EDUARDO RODRIGUES BARBOSA
+    Número: 0000153
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 03861-061
+    Fonte: ASSECC
+  [9]
+    Rua: RUA R  EDUARDO BARBOSA 153
+    Número: 153
+    Bairro: CENTRO
+    Estado: MG
+    CEP: 38610-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (38) 99929-2114
+  - (38) 99832-1836
+  - (38) 99899-4374
+  - (38) 99950-8861
+  - (38) 3676-9668
+  - (38) 3677-3510
+  - (38) 99850-1171
+Datasus Phones: (1 item(s))
+  - (38) 9924-5073
+Cidade de Nascimento: UNAI - MG
+Cns: 708103520834730
+Rg Issue Date: 1212548400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Mosaic New: D09
+    Mosaic Secondary: C07
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: EDUARDO RODRIGUES BARBOSA
+      Número: 153
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-061
+      Date Added: 08/07/2019
+    [2]
+      Tipo: R
+      Rua: CAXAMBU
+      Número: 19
+      Bairro: STA LUZIA
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38613-191
+      Date Added: 30/04/2018
+    [3]
+      Tipo: R
+      Rua: EDUARDO BARBOSA
+      Número: 153
+      Bairro: CENTRO
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-000
+      Date Added: 13/02/2013
+    [4]
+      Tipo: R
+      Rua: NATAL J DA COSTA
+      Número: 654
+      Bairro: CENTRO
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-000
+      Date Added: 11/02/2016
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 36769668
+      Ddd: 38
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 16/12/2015
+      Info Date: 26/04/2018
+    [2]
+      Telefone: 36773510
+      Ddd: 38
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/02/2016
+      Info Date: 11/01/2016
+    [3]
+      Telefone: 998501171
+      Ddd: 38
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: dayane1720@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 761
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 716
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ROSITA ALVES DA ROCHA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1038.28
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Additional Emails: (1 item(s))
+  - dayane1720@hotmail.com
+E-mail: dayane1720@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 133.376.266-61
+    Nome: LOYSLENE DA SILVA PAZ
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 277
+    Bairro: CENTRO
+  [2]
+    CPF: 051.721.416-42
+    Nome: ROBERTA OLIVEIRA SOUZA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 276
+    Bairro: CENTRO
+  [3]
+    CPF: 826.149.626-00
+    Nome: ALICE LOPES SOUTO TOMAZ
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 356
+    Bairro: CENTRO
+  [4]
+    CPF: 303.723.486-53
+    Nome: ALAOR CAETANO DE FARIA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 345
+    Bairro: CENTRO
+  [5]
+    CPF: 015.164.526-40
+    Nome: MARCUS VINICIUS DE MELO SANTOS
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 108
+    Bairro: CENTRO
+  [6]
+    CPF: 521.587.806-49
+    Nome: OMAR LACERDA DOS REIS
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 74
+    Bairro: CENTRO
+  [7]
+    CPF: 139.270.781-15
+    Nome: IRINEU ANSELMO URBAN
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 3
+    Bairro: CENTRO
+  [8]
+    CPF: 126.935.756-56
+    Nome: WELLINGTON AGUIAR DE SOUSA JUNIOR
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 213
+    Bairro: CENTRO
+  [9]
+    CPF: 826.716.307-78
+    Nome: GELSON SIMONELLI QUADRA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 295
+    Bairro: CENTRO
+  [10]
+    CPF: 055.212.166-50
+    Nome: FRANCINE SOARES SILVA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 345
+    Bairro: CENTRO
+  [11]
+    CPF: 103.782.576-41
+    Nome: FABIANO SOUTO TOMAZ
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 356
+    Bairro: CENTRO
+  [12]
+    CPF: 470.403.946-34
+    Nome: ANTONIO AUGUSTO DE OLIVEIRA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 340
+    Bairro: CENTRO
+  [13]
+    CPF: 101.749.867-93
+    Nome: GUILHERME BORGES DA COSTA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 357
+    Bairro: CENTRO
+  [14]
+    CPF: 042.901.406-61
+    Nome: VALSIANE DOMINGUES FRANCO
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 345
+    Bairro: CENTRO
+  [15]
+    CPF: 643.921.636-87
+    Nome: VALTER TOMAZ CORREA
+    Logradouro: EDUARDO RODRIGUES BARBOSA
+    Número: 356
+    Bairro: CENTRO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (38) 99929-2114
+    Nome: R
+    Cidade: UNAI
+    UF: MG
+  [2]
+    Telefone: (38) 99832-1836
+    Nome: DAYANE SANTOS
+    Cidade: UNAI
+    UF: MG
+  [3]
+    Telefone: (38) 99899-4374
+    Nome: DAYANE  ALVES DOS SANTOS
+    Cidade: UNAI
+    UF: MG
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (38) 99950-8861
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 22JUL2020
+    Ultima Recarga: 31AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 07/06/2020
+  [2]
+    Telefone: (38) 99899-4374
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 07/05/2018
+    Valor Fatura: 63.74
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - dayane1720@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1111
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1038.28
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (38) 3676-9668
+    Ddd: 38
+    Número: 36769668
+    Tipo: FIXO
+    Data Inclusao: 16/12/2015
+    Data Informacao: 26/04/2018
+    Classificacao: A0
+  [2]
+    Telefone: (38) 3677-3510
+    Ddd: 38
+    Número: 36773510
+    Tipo: FIXO
+    Data Inclusao: 07/02/2016
+    Data Informacao: 11/01/2016
+    Classificacao: D
+  [3]
+    Telefone: (38) 99850-1171
+    Ddd: 38
+    Número: 998501171
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 223505
+Occupation Name: Enfermeiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

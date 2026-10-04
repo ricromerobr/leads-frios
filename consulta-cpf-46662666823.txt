@@ -1,0 +1,260 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  46662666823
+Data/Hora:  04/10/2026, 14:51:02
+Tempo API:  726ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 466.626.668-23
+Nome: EDVANIO DA SILVA MARQUES
+Primeiro Nome: EDVANIO
+Sobrenome: MARQUES
+Sexo: Masculino
+Data de Nascimento: 03/01/1997
+Nome da Mãe: MARINEIDE DA SILVA
+Ocupação: Auxiliar de laboratório de análises clínicas
+Score:
+  Value: 385
+  Range: ALTO
+E-mail: edyvanio1997@gmail.com
+Additional Emails: (1 item(s))
+  - edyvanio1997@gmail.com
+Federal Status: REGULAR
+Renda: 1441
+Income Bracket: 2
+Cbo: 515215
+Endereço:
+  Tipo: RUA
+  Rua: A6
+  Bairro: JARDIM PROGRESSO
+  Cidade: RIBEIRAO PRETO
+  Estado: SAO PAULO
+  CEP: 14031-830
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: A6
+    Bairro: JARDIM PROGRESSO
+    Cidade: RIBEIRAO PRETO
+    Estado: SAO PAULO
+    CEP: 14031-830
+    Fonte: PRINCIPAL
+  [2]
+    Rua: A SEIS
+    Tipo: R
+    Número: 325
+    Bairro: JD PROGRESSO
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14031-830
+    Data Atualizacao: 16/09/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: PIO DOZE
+    Tipo: AV
+    Número: 589
+    Bairro: VL VIRGINIA
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14030-250
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: A6
+    Número: 0000325
+    Bairro: JARDIM PROGRESSO
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14031-830
+    Fonte: ASSECC
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: YAMAHA
+      Modelo: FZ25 FAZER
+      Ano: 2018
+Telefones: (1 item(s))
+  - (16) 99265-5817
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: A SEIS
+      Número: 325
+      Bairro: JD PROGRESSO
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14031-830
+      Date Added: 15/01/2019
+    [2]
+      Tipo: AV
+      Rua: PIO DOZE
+      Número: 589
+      Bairro: VL VIRGINIA
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14030-250
+      Date Added: 23/01/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: edyvanio1997@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+  Score:
+    CSB8: 238
+    CSB8 FAIXA: ALTO
+    CSBA: 385
+    CSBA FAIXA: ALTO
+  Pis: 16084071385
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 159.73
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 035.704.778-86
+    Nome: MARIA INEZ MARTINS POTOLOHA
+    Logradouro: A SEIS
+    Número: 295
+    Bairro: JD PROGRESSO
+  [2]
+    CPF: 053.828.614-80
+    Nome: ELIAS JOSE DA SILVA
+    Logradouro: A SEIS
+    Número: 181
+    Bairro: JD PROGRESSO
+  [3]
+    CPF: 033.343.396-37
+    Nome: MARIA APARECIDA DE JESUS
+    Logradouro: A SEIS
+    Número: 215
+    Bairro: JD PROGRESSO
+  [4]
+    CPF: 421.037.544-68
+    Nome: NOE BARBOSA SILVA
+    Logradouro: A SEIS
+    Número: 318
+    Bairro: JD PROGRESSO
+  [5]
+    CPF: 011.891.844-35
+    Nome: JULIANO DE OLIVEIRA
+    Logradouro: A SEIS
+    Número: 314
+    Bairro: JD PROGRESSO
+  [6]
+    CPF: 005.716.833-47
+    Nome: GLORIA MARIA SILVA DE SOUSA
+    Logradouro: A SEIS
+    Número: 60
+    Bairro: JD PROGRESSO
+  [7]
+    CPF: 001.214.233-60
+    Nome: ANTONIO CARLOS PIRES DOS PASSOS
+    Logradouro: A SEIS
+    Número: 81
+    Bairro: JD PROGRESSO
+  [8]
+    CPF: 160.645.338-62
+    Nome: MARIA DE FATIMA DO NASCIMENTO SOUZA
+    Logradouro: A SEIS
+    Número: 374
+    Bairro: JD PROGRESSO
+  [9]
+    CPF: 396.594.368-58
+    Nome: ANDERSON DA SILVA SIQUEIRA
+    Logradouro: A SEIS
+    Número: 6371
+    Bairro: JD PROGRESSO
+  [10]
+    CPF: 992.679.345-20
+    Nome: GILSON PEREIRA DE SOUZA
+    Logradouro: A SEIS
+    Número: 374
+    Bairro: JD PROGRESSO
+  [11]
+    CPF: 755.130.215-87
+    Nome: ADILSON VIEIRA DE OLIVEIRA
+    Logradouro: A SEIS
+    Número: 384
+    Bairro: JD PROGRESSO
+  [12]
+    CPF: 679.396.274-49
+    Nome: JOSE IVALDO SOARES DA SILVA
+    Logradouro: A SEIS
+    Número: 380
+    Bairro: JD PROGRESSO
+  [13]
+    CPF: 391.091.958-82
+    Nome: CRISTIANE DA CONCEICAO
+    Logradouro: A SEIS
+    Número: 345
+    Bairro: JD PROGRESSO
+  [14]
+    CPF: 384.227.308-80
+    Nome: MAIRA ANDRESSA OLIMPIO
+    Logradouro: A SEIS
+    Número: 45
+    Bairro: JD PROGRESSO
+  [15]
+    CPF: 221.211.748-50
+    Nome: ANDRE RIBEIRO DE OLIVEIRA
+    Logradouro: A SEIS
+    Número: 180
+    Bairro: JD PROGRESSO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (16) 99265-5817
+    Nome: EDVANIO BALTAZAR DA SILVA
+    Cidade: RIBEIRAO PRETO
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (16) 99265-5817
+    Nome: EDVANIO BALTAZAR DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - edyvanio1997@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1441
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 159.73
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Occupation Code: 515215
+Occupation Name: Auxiliar de laboratório de análises clínicas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,326 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04948101907
+Data/Hora:  04/10/2026, 13:47:34
+Tempo API:  428ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 049.481.019-07
+Nome: CLEIR DA SILVA
+Primeiro Nome: CLEIR
+Sobrenome: SILVA
+Sexo: I
+Data de Nascimento: 01/01/1976
+Nome da Mãe: DARCY MARQUES INACIO
+RG: 3677592
+Rg Issuer: SSP
+Voter Id: 040596520949
+Mosaic: J34
+Ocupação: Faxineiro
+Score:
+  Value: 141
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1207
+Income Bracket: 2
+Cbo: 514320
+Endereço:
+  Tipo: RUA
+  Rua: BRAULIO ARAUJO DA SILVA C
+  Número: 1
+  Complemento: R A ESQUERDA APO
+  Bairro: AMBROSIO
+  Cidade: GAROPABA
+  Estado: SANTA CATARINA
+  CEP: 88495-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BRAULIO ARAUJO DA SILVA C
+    Número: 1
+    Complemento: R A ESQUERDA APO
+    Bairro: AMBROSIO
+    Cidade: GAROPABA
+    Estado: SANTA CATARINA
+    CEP: 88495-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BRAULIO ARAUJO DA SILVA
+    Número: 246
+    Complemento: BR SERGIO
+    Bairro: AMBROSIO DE FORA
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: SC 434
+    Tipo: ROD
+    Complemento: KM 3 1
+    Bairro: PALHOCINHA
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: GERAL DO AMBROSIO DE FORA
+    Tipo: EST
+    Número: SN
+    Bairro: AMBROSIO
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: DO AMBROSIO
+    Tipo: R
+    Número: 99
+    Complemento: JJ BR
+    Bairro: AMBROSIO
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/08/2019
+    Info Date: 11/02/2008
+    Rg Issuer: SSP
+    Mosaic: J34
+    Mosaic New: K35
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Rua: BRAULIO ARAUJO DA SILVA
+      Número: 246
+      Complemento: BR SERGIO
+      Bairro: AMBROSIO DE FORA
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 07/01/2019
+    [2]
+      Tipo: ROD
+      Rua: SC 434
+      Complemento: KM 3 1
+      Bairro: PALHOCINHA
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 17/08/2010
+    [3]
+      Tipo: EST
+      Rua: GERAL DO AMBROSIO DE FORA
+      Número: SN
+      Bairro: AMBROSIO
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 09/10/2013
+    [4]
+      Tipo: R
+      Rua: BRAULIO ARAUJO DA SILVA C
+      Número: 1
+      Complemento: R A ESQUERDA APO
+      Bairro: AMBROSIO
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 17/07/2019
+    [5]
+      Tipo: R
+      Rua: DO AMBROSIO
+      Número: 99
+      Complemento: JJ BR
+      Bairro: AMBROSIO
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 999912586
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 32548002
+      Ddd: 48
+      Tipo: 2
+      Classificacao: D
+      Date Added: 20/10/2010
+      Info Date: 06/12/2008
+    [3]
+      Telefone: 999243817
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/10/2010
+      Info Date: 16/12/2008
+  Score:
+    CSBA: 141
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: DARCY MARQUES INACIO
+      Vinculo: MAE
+  Tse:
+    Titulo: 40596520949
+    Zona: 73
+    Secao: 88
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 235.65
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (48) 99991-2586
+  - (48) 3254-8002
+  - (48) 99924-3817
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.979.999-26
+    Nome: ROSANGELA DE ARAUJO
+    Logradouro: GERAL
+    Número: SN
+  [2]
+    CPF: 051.893.979-04
+    Nome: RAFAEL TORQUATO
+    Logradouro: TRINTA DE DEZEMBRO
+    Número: SN
+  [3]
+    CPF: 507.060.399-04
+    Nome: PAULINO BATISTA
+    Logradouro: GRP
+    Número: 10
+  [4]
+    CPF: 808.053.020-34
+    Nome: RODRIGO DA SILVA MEDEIROS
+    Logradouro: JOAO ORESTES DE ARAUJO
+    Número: 989
+  [5]
+    CPF: 051.323.189-75
+    Nome: JOSE CARLOS GUIMARAES DE AGUIAR
+    Logradouro: MANOEL CASCAES
+    Número: 510
+  [6]
+    CPF: 051.132.239-99
+    Nome: DAYANA CARDOSO MARQUES
+    Logradouro: GERAL CAPAO
+    Número: 1
+    Bairro: FERRUGEM
+  [7]
+    CPF: 050.603.369-48
+    Nome: GUILHERME ALEXANDRE PALUCH CARVALHO
+    Logradouro: RCARIBE
+    Número: 137
+  [8]
+    CPF: 417.398.849-49
+    Nome: LUIZ CARLOS DE ABREU
+    Logradouro: FRANCISCO PACHECO DE SOUZA
+    Número: 1
+    Bairro: CENTRO
+  [9]
+    CPF: 072.407.119-94
+    Nome: LUIZ HENRIQUE DA SILVA
+    Logradouro: MANOEL ALVARO DE ARAUJO
+    Número: 193
+    Bairro: CENTRO
+  [10]
+    CPF: 052.358.119-09
+    Nome: CATIANE DA SILVA PEREIRA
+    Logradouro: LAJEADO
+    Número: 532
+    Bairro: PINGUIRITO
+  [11]
+    CPF: 049.691.159-74
+    Nome: THONY MARTIM DE SOUZA
+    Logradouro: DOS ACORES
+    Número: 971
+    Bairro: LTM VILLAGE
+  [12]
+    CPF: 288.964.750-15
+    Nome: SERGIO SILVA DA SILVA
+    Logradouro: OLIVIO DUARTE SENA
+    Número: 95
+    Bairro: CENTRO
+  [13]
+    CPF: 052.400.369-69
+    Nome: DIEGO FRANCISCO
+    Logradouro: SC
+    Número: 434
+  [14]
+    CPF: 049.426.599-06
+    Nome: RENATA ZAPPELINI MENDONCA
+    Logradouro: RIO GRANDE DO SUL
+    Número: 56
+  [15]
+    CPF: 049.254.469-75
+    Nome: DANIEL ABREU DE AVILA
+    Logradouro: DO ENGENHO
+    Número: SN
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1207
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 235.65
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (48) 99991-2586
+    Ddd: 48
+    Número: 999912586
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (48) 3254-8002
+    Ddd: 48
+    Número: 32548002
+    Tipo: CELULAR
+    Data Inclusao: 20/10/2010
+    Data Informacao: 06/12/2008
+    Classificacao: D
+  [3]
+    Telefone: (48) 99924-3817
+    Ddd: 48
+    Número: 999243817
+    Tipo: 3
+    Data Inclusao: 26/10/2010
+    Data Informacao: 16/12/2008
+    Classificacao: D
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

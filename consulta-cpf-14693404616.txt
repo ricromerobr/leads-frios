@@ -1,0 +1,263 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14693404616
+Data/Hora:  03/10/2026, 22:00:56
+Tempo API:  367ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 146.934.046-16
+Nome: LORRAYNE THAIS DAMASCENO SILVA CRUZ
+Primeiro Nome: LORRAYNE
+Sobrenome: CRUZ
+Sexo: Feminino
+Data de Nascimento: 21/03/1999
+Nome da Mãe: NUBIA FLAVIA DAMASCENO
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 388
+  Range: ALTO
+E-mail: loraynethays@hotmail.com
+Additional Emails: (1 item(s))
+  - loraynethays@hotmail.com
+Federal Status: REGULAR
+Renda: 720
+Income Bracket: 1
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: FERNAO DIAS
+  Número: 1127
+  Complemento: BC CLAREA
+  Bairro: VERA CRUZ
+  Cidade: BELO HORIZONTE
+  Estado: MINAS GERAIS
+  CEP: 30285-160
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FERNAO DIAS
+    Número: 1127
+    Complemento: BC CLAREA
+    Bairro: VERA CRUZ
+    Cidade: BELO HORIZONTE
+    Estado: MINAS GERAIS
+    CEP: 30285-160
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FERNAO DIAS
+    Tipo: R
+    Número: 298
+    Bairro: MARIANO DE ABREU
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31050-364
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Paycom:
+  E-mail: loraynethays@hotmail.com
+  Created At: 2020-10-08 10:08:45
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Fernão Dias,1127,Vera Cruz
+    Número: 0
+    Cidade: Belo Horizonte
+    Estado: MG
+    País: BRA
+    CEP: 30285-160
+Telefones: (2 item(s))
+  - (31) 98476-4639
+  - (31) 97566-2170
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/10/2019
+    Mosaic New: D11
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: FERNAO DIAS
+      Número: 298
+      Bairro: MARIANO DE ABREU
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31050-364
+      Date Added: 12/11/2018
+    [2]
+      Tipo: R
+      Rua: FERNAO DIAS
+      Número: 1127
+      Complemento: C 8
+      Bairro: VERA CRUZ
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30285-160
+      Date Added: 29/10/2018
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 975662170
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: loraynethays@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 388
+    CSBA FAIXA: ALTO
+  Pis: 16434217111
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 477.82
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 957.848.616-20
+    Nome: FLAVIA DIAS LACERDA
+    Logradouro: FERNAO DIAS
+    Número: 182
+    Bairro: MARIANO DE ABREU
+  [2]
+    CPF: 063.662.966-00
+    Nome: JOSIANE PIEDADE DE BRITO
+    Logradouro: FERNAO DIAS
+    Número: 72
+    Bairro: MARIANO DE ABREU
+  [3]
+    CPF: 435.089.956-15
+    Nome: FRANCISCA DE ASSIS LUCAS
+    Logradouro: FERNAO DIAS
+    Número: 22
+    Bairro: MARIANO DE ABREU
+  [4]
+    CPF: 012.659.046-00
+    Nome: CLELIO DE FREITAS BARROSO
+    Logradouro: FERNAO DIAS
+    Número: 82
+    Bairro: MARIANO DE ABREU
+  [5]
+    CPF: 087.782.536-08
+    Nome: ERIKA DE CASSIA DA SILVA
+    Logradouro: FERNAO DIAS
+    Número: 2
+    Bairro: MARIANO DE ABREU
+  [6]
+    CPF: 117.869.696-02
+    Nome: ANA PAULA SIMOES FURTADO
+    Logradouro: FERNAO DIAS
+    Número: 158
+    Bairro: MARIANO DE ABREU
+  [7]
+    CPF: 043.714.566-26
+    Nome: MARCOS JESUS DE SOUZA
+    Logradouro: FERNAO DIAS
+    Número: 250
+    Bairro: MARIANO DE ABREU
+  [8]
+    CPF: 060.229.656-08
+    Nome: ERCI CORREIA SILVA
+    Logradouro: FERNAO DIAS
+    Número: 178
+    Bairro: MARIANO DE ABREU
+  [9]
+    CPF: 073.932.696-19
+    Nome: CLAUDIANE JANUARIA JACOB DA SILVA
+    Logradouro: FERNAO DIAS
+    Número: 82
+    Bairro: MARIANO DE ABREU
+  [10]
+    CPF: 018.971.276-77
+    Nome: ANA BEATRIZ VIEIRA DIAS
+    Logradouro: FERNAO DIAS
+    Número: 24
+    Bairro: MARIANO DE ABREU
+  [11]
+    CPF: 298.980.646-68
+    Nome: ROBERTO DA SILVA SANTOS
+    Logradouro: FERNAO DIAS
+    Número: 236
+    Bairro: MARIANO DE ABREU
+  [12]
+    CPF: 848.127.296-53
+    Nome: DEUSMIRA VIEIRA DA SILVA
+    Logradouro: FERNAO DIAS
+    Número: 344
+    Bairro: MARIANO DE ABREU
+  [13]
+    CPF: 045.288.446-21
+    Nome: EVA GONZAGA DE JESUS
+    Logradouro: FERNAO DIAS
+    Número: 312
+    Bairro: MARIANO DE ABREU
+  [14]
+    CPF: 096.005.596-78
+    Nome: INGRID LACERDA PEREIRA
+    Logradouro: FERNAO DIAS
+    Número: 182
+    Bairro: MARIANO DE ABREU
+  [15]
+    CPF: 098.686.136-71
+    Nome: MATHEUS HENRIQUE REZENDE
+    Logradouro: FERNAO DIAS
+    Número: 90
+    Bairro: MARIANO DE ABREU
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (31) 98476-4639
+    Nome: LORRAYNE THAIS DAMASCENO SILVA CRUZ
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - loraynethays@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 720
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 477.82
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (31) 97566-2170
+    Ddd: 31
+    Número: 975662170
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

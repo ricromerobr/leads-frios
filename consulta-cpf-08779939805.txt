@@ -1,0 +1,425 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08779939805
+Data/Hora:  03/10/2026, 19:40:52
+Tempo API:  560ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 087.799.398-05
+Nome: ALEXANDRE APARECIDO FALEIROS BAPTISTA
+Primeiro Nome: ALEXANDRE
+Sobrenome: BAPTISTA
+Sexo: Masculino
+Data de Nascimento: 07/12/1964
+Nome da Mãe: BENEDTIA FALEIRO BATISTA
+Voter Id: 092205560191
+Mosaic: G25
+Ocupação: Trabalhadores da Producao de Bens e Servicos Industriais (categoria CBO)
+Score:
+  Value: 746
+  Range: BAIXISSIMO RISCO
+E-mail: roseli.1967@globo.com
+Additional Emails: (2 item(s))
+  - roseli.1967@globo.com
+  - rosaybe@ig.com.br
+Federal Status: REGULAR
+Renda: 7003
+Income Bracket: 5
+Cbo: 782510
+Endereço:
+  Tipo: RUA
+  Rua: CANANEIA
+  Número: 120
+  Bairro: VL PRCE DE GALES
+  Cidade: SANTO ANDRE
+  Estado: SAO PAULO
+  CEP: 09060-480
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CANANEIA
+    Número: 120
+    Bairro: VL PRCE DE GALES
+    Cidade: SANTO ANDRE
+    Estado: SAO PAULO
+    CEP: 09060-480
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ITAPAJE
+    Tipo: R
+    Número: 225
+    Bairro: VL NOVA CACHOEIRINHA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02612-050
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: JOSE FERREIRA DE CASTRO
+    Tipo: R
+    Número: 259
+    Complemento: AP 53 BAN A
+    Bairro: VL AMELIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02615-010
+    Data Atualizacao: 28/12/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MOREIRA DE BARROS
+    Tipo: R
+    Número: 4282
+    Complemento: AP 71
+    Bairro: LAUZANE PAULISTA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02430-002
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOAQUIM PRUDENCIO
+    Tipo: R
+    Número: 236
+    Bairro: JD PERI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02675-020
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: CANANEIA
+    Rua: [empty]
+    Número: 0000120
+    Bairro: VILA PRINCIPE DE GALES
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09060-480
+    Fonte: ASSECC
+  [7]
+    Rua: ITAPAJE
+    Número: 225
+    Complemento: .
+    Bairro: VILA NOVA CACHOEIRINHA
+    Estado: SP
+    CEP: 02612-050
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 5
+  List: (5 item(s))
+    [1]
+      Marca: FORD
+      Modelo: FORD F 600
+      Ano: 1980
+    [2]
+      Marca: FORD
+      Modelo: BELINA II L
+      Ano: 1980
+    [3]
+      Marca: VW
+      Modelo: FUSCA 1300
+      Ano: 1983
+    [4]
+      Marca: M.BENZ
+      Modelo: LB 2213
+      Ano: 1981
+    [5]
+      Marca: REB
+      Modelo: AVS
+      Ano: 1991
+Telefones: (9 item(s))
+  - (11) 99167-7639
+  - (11) 97736-0644
+  - (11) 97745-8418
+  - (11) 3983-8209
+  - +55 (11) 98536-3784
+  - (11) 99944-3784
+  - (11) 3851-6059
+  - (11) 99863-5350
+  - (11) 99749-2023
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/08/2019
+    Info Date: 21/12/2008
+    Mosaic: G25
+    Mosaic New: B04
+    Mosaic Secondary: A02
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ITAPAJE
+      Número: 225
+      Bairro: VL NOVA CACHOEIRINHA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02612-050
+      Date Added: 01/02/2018
+    [2]
+      Tipo: R
+      Rua: JOSE FERREIRA DE CASTRO
+      Número: 259
+      Complemento: AP 53 BAN A
+      Bairro: VL AMELIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02615-010
+      Date Added: 11/05/2015
+    [3]
+      Tipo: R
+      Rua: MOREIRA DE BARROS
+      Número: 4282
+      Complemento: AP 71
+      Bairro: LAUZANE PAULISTA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02430-002
+      Date Added: 02/12/2014
+    [4]
+      Tipo: R
+      Rua: CANANEIA
+      Número: 120
+      Bairro: VL PRCE DE GALES
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09060-480
+      Date Added: 30/01/2019
+    [5]
+      Tipo: R
+      Rua: JOAQUIM PRUDENCIO
+      Número: 236
+      Bairro: JD PERI
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02675-020
+      Date Added: 15/08/2006
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 38516059
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 998635350
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 997492023
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: roseli.1967@globo.com
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 562
+    CSB8 FAIXA: BAIXO
+    CSBA: 746
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: BENEDTIA FALEIRO BATISTA
+      Vinculo: MAE
+  Pis: 12194149815
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1956.05
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 049.165.868-08
+    Nome: KLEBER PEREIRA DA SILVA
+    Logradouro: ITAPAJE
+    Número: 35
+    Bairro: VL NOVA CACHOEIRINHA
+  [2]
+    CPF: 258.193.008-07
+    Nome: SILVIA LOPES PEREIRA
+    Logradouro: ITAPAJE
+    Número: 43
+    Bairro: VL NOVA CACHOEIRINHA
+  [3]
+    CPF: 044.968.798-83
+    Nome: MARIA DE LOURDES MATIAS GRUJE
+    Logradouro: ITAPAJE
+    Número: 86
+    Bairro: VL NOVA CACHOEIRINHA
+  [4]
+    CPF: 277.701.415-91
+    Nome: ANTONIO MARQUES PIRES
+    Logradouro: ITAPAJE
+    Número: 3
+    Bairro: VL NOVA CACHOEIRINHA
+  [5]
+    CPF: 116.720.098-55
+    Nome: AGUIDA LUCIA DA COSTA
+    Logradouro: ITAPAJE
+    Número: 241
+    Bairro: VL NOVA CACHOEIRINHA
+  [6]
+    CPF: 376.440.458-21
+    Nome: ALEXANDRE DE SOUZA LEAO
+    Logradouro: ITAPAJE
+    Número: 253
+    Bairro: VL NOVA CACHOEIRINHA
+  [7]
+    CPF: 358.735.938-50
+    Nome: LEANDRO DOS SANTOS MOISES
+    Logradouro: ITAPAJE
+    Número: 222
+    Bairro: VL NOVA CACHOEIRINHA
+  [8]
+    CPF: 074.050.928-45
+    Nome: ROBERTO FERREIRA DA SILVA
+    Logradouro: ITAPAJE
+    Número: 202
+    Bairro: VL NOVA CACHOEIRINHA
+  [9]
+    CPF: 281.821.668-02
+    Nome: ELTON RODRIGO VITALINO
+    Logradouro: ITAPAJE
+    Número: 151
+    Bairro: VL NOVA CACHOEIRINHA
+  [10]
+    CPF: 842.529.100-30
+    Nome: RODRIGO RAMOS RODRIGUEZ
+    Logradouro: ITAPAJE
+    Número: 226
+    Bairro: VL NOVA CACHOEIRINHA
+  [11]
+    CPF: 302.923.628-54
+    Nome: RAFAEL RODRIGO CORREA
+    Logradouro: ITAPAJE
+    Número: 271
+    Bairro: VL NOVA CACHOEIRINHA
+  [12]
+    CPF: 392.296.158-46
+    Nome: MAX RUIZ DOS SANTOS
+    Logradouro: ITAPAJE
+    Número: 287
+    Bairro: VL NOVA CACHOEIRINHA
+  [13]
+    CPF: 268.341.818-30
+    Nome: PATRICIA BISPO DA SILVA
+    Logradouro: ITAPAJE
+    Número: 175
+    Bairro: VL NOVA CACHOEIRINHA
+  [14]
+    CPF: 116.752.478-03
+    Nome: ELISANGELA ZANOTI
+    Logradouro: ITAPAJE
+    Número: 123
+    Bairro: VL NOVA CACHOEIRINHA
+  [15]
+    CPF: 232.371.528-38
+    Nome: MARLI CARLOS CERQUEIRA
+    Logradouro: ITAPAJE
+    Número: 365
+    Bairro: VL NOVA CACHOEIRINHA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (11) 97736-0644
+    Nome: ALEXANDRE ANTONIO FALEIROS BAPTISTA
+    Cidade: SANTO ANDRE
+    UF: SP
+  [2]
+    Telefone: (11) 97745-8418
+    Nome: ALEXANDRE ANTONIO FALEIROS BAPTISTA
+    Cidade: SANTO ANDRE
+    UF: SP
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (11) 3983-8209
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 20JUN1996:00:00:00
+    Cel Contato: +5511985363784
+    Complemento: AP - Apartamento: 71;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 99944-3784
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 03/04/2017
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 99167-7639
+    Nome: ALEXANDRE A FALEIROS BAPTISTA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - roseli.1967@globo.com
+  - rosaybe@ig.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 5
+Renda Estimativas:
+  Presumida:
+    Valor: 7003
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1956.05
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 3851-6059
+    Ddd: 11
+    Número: 38516059
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (11) 99863-5350
+    Ddd: 11
+    Número: 998635350
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (11) 99749-2023
+    Ddd: 11
+    Número: 997492023
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 7825
+Occupation Name: Trabalhadores da Producao de Bens e Servicos Industriais (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,430 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  64428990804
+Data/Hora:  03/10/2026, 20:29:13
+Tempo API:  734ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 644.289.908-04
+Nome: ANA APARECIDA DE ALMEIDA GALVAO
+Primeiro Nome: ANA
+Sobrenome: GALVAO
+Sexo: Feminino
+Data de Nascimento: 20/03/1953
+Nome da Mãe: VALENTINA BASSO DE ALMEIDA
+RG: 5999989
+Mosaic: B06
+Score:
+  Value: 973
+  Range: BAIXISSIMO RISCO
+E-mail: ana-a.almeida@hotmail.com
+Additional Emails: (11 item(s))
+  - ana-a.almeida@hotmail.com
+  - ana_aalmeida@hotmail.com
+  - anafelldmann@uol.com.br
+  - anaaalmeida@ig.com.br
+  - ana.a.almeida@globo.com
+  - ana.aalmeida97@gmail.com
+  - anaa.almeida@live.com
+  - anaa_almeida@hotmail.com
+  - anaaalmeida@hotmail.com
+  - ana___soqui@msn.com
+  - anaaalmeida@sefaz.al.gov.br
+Federal Status: REGULAR
+Renda: 1404
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: RIO DE JANEIRO
+  Número: 230
+  Bairro: JD NOVA MOCOCA
+  Cidade: MOCOCA
+  Estado: SAO PAULO
+  CEP: 13731-290
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: RIO DE JANEIRO
+    Número: 230
+    Bairro: JD NOVA MOCOCA
+    Cidade: MOCOCA
+    Estado: SAO PAULO
+    CEP: 13731-290
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CAMBAUBA
+    Tipo: R
+    Número: 354
+    Complemento: AP 101
+    Bairro: JD GUANABARA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21940-005
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: COLINA
+    Tipo: R
+    Número: 25
+    Complemento: BL 2 AP 203
+    Bairro: JD GUANABARA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21931-380
+    Data Atualizacao: 12/05/2011
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Cns: 703204684875498
+Telefones: (3 item(s))
+  - (21) 2462-1855
+  - (21) 2562-6266
+  - (16) 3031-9969
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/08/2019
+    Info Date: 07/08/2007
+    Mosaic: B06
+    Mosaic New: I30
+    Mosaic Secondary: F20
+    Income Bracket Id: 3
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: CAMBAUBA
+      Número: 354
+      Complemento: AP 101
+      Bairro: JD GUANABARA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21940-005
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: COLINA
+      Número: 25
+      Complemento: BL 2 AP 203
+      Bairro: JD GUANABARA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21931-380
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: RIO DE JANEIRO
+      Número: 230
+      Bairro: JD NOVA MOCOCA
+      Cidade: MOCOCA
+      Estado: SP
+      CEP: 13731-290
+      Date Added: 21/10/2012
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 24621855
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 28/10/2010
+    [2]
+      Telefone: 25626266
+      Ddd: 21
+      Tipo: 2
+      Classificacao: D
+      Date Added: 01/02/2011
+      Info Date: 26/11/2010
+    [3]
+      Telefone: 30319969
+      Ddd: 16
+      Tipo: 1
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (11 item(s))
+    [1]
+      E-mail: ana_aalmeida@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [2]
+      E-mail: ana-a.almeida@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [3]
+      E-mail: anafelldmann@uol.com.br
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [4]
+      E-mail: anaaalmeida@ig.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [5]
+      E-mail: ana.a.almeida@globo.com
+      Priority: 5
+      Quality: POTENCIALMENTE BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [6]
+      E-mail: ana.aalmeida97@gmail.com
+      Priority: 6
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [7]
+      E-mail: anaa.almeida@live.com
+      Priority: 7
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [8]
+      E-mail: anaa_almeida@hotmail.com
+      Priority: 8
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [9]
+      E-mail: anaaalmeida@hotmail.com
+      Priority: 9
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [10]
+      E-mail: ana___soqui@msn.com
+      Priority: 10
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [11]
+      E-mail: anaaalmeida@sefaz.al.gov.br
+      Priority: 11
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+  Score:
+    CSB8: 833
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 973
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 598671838
+      Nome: VALTER DE ALMEIDA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 644.290.838-00
+      Nome: JOSE ROBERTO DE ALMEIDA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 285.745.138-57
+      Nome: VALENTINA BASSO DE ALMEIDA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1709.5
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 877.208.687-49
+    Nome: REGINA DE OLIVEIRA BARBOSA SANTOS
+    Logradouro: CAMBAUBA
+    Número: 364
+    Bairro: JD GUANABARA
+  [2]
+    CPF: 417.765.267-91
+    Nome: ANA MARIA LUSVARDI MANEA
+    Logradouro: CAMBAUBA
+    Número: 785
+    Bairro: JD GUANABARA
+  [3]
+    CPF: 015.106.777-55
+    Nome: JOAO ANDRE FERREIRA MARTINS
+    Logradouro: CAMBAUBA
+    Número: 753
+    Bairro: JD GUANABARA
+  [4]
+    CPF: 817.543.297-72
+    Nome: ROSANA CLAUDIA DE OLIVEIRA VIANNA
+    Logradouro: CAMBAUBA
+    Número: 1290
+    Bairro: JD GUANABARA
+  [5]
+    CPF: 056.890.057-03
+    Nome: ANNA CAROLINA DOS SANTOS NOGUEIRA DIAS
+    Logradouro: CAMBAUBA
+    Número: 550
+    Bairro: JD GUANABARA
+  [6]
+    CPF: 055.153.617-92
+    Nome: ANA BEATRIZ SIMOES CAMUSSI
+    Logradouro: CAMBAUBA
+    Número: 500
+    Bairro: JD GUANABARA
+  [7]
+    CPF: 458.784.719-49
+    Nome: ZILDA MARIA RIBEIRO JUSTINO
+    Logradouro: CAMBAUBA
+    Número: 315
+    Bairro: JD GUANABARA
+  [8]
+    CPF: 054.710.497-99
+    Nome: DANIELLE CASTELOES TAVARES DE SOUZA
+    Logradouro: CAMBAUBA
+    Número: 520
+    Bairro: JD GUANABARA
+  [9]
+    CPF: 329.275.417-87
+    Nome: SONIA MARIA DA SILVEIRA
+    Logradouro: CAMBAUBA
+    Número: 200
+    Bairro: JD GUANABARA
+  [10]
+    CPF: 329.435.557-20
+    Nome: LUCIA HELENA DA SILVA OLIVEIRA
+    Logradouro: CAMBAUBA
+    Número: 200
+    Bairro: JD GUANABARA
+  [11]
+    CPF: 060.615.757-34
+    Nome: JAIR DA SILVA RODRIGUES
+    Logradouro: CAMBAUBA
+    Número: 463
+    Bairro: JD GUANABARA
+  [12]
+    CPF: 014.695.647-85
+    Nome: SANDRA PATRICIA SILVA DE MORAES
+    Logradouro: CAMBAUBA
+    Número: 832
+    Bairro: JD GUANABARA
+  [13]
+    CPF: 057.225.147-56
+    Nome: IGOR LUDWIG MATO FARIA
+    Logradouro: CAMBAUBA
+    Número: 160
+    Bairro: JD GUANABARA
+  [14]
+    CPF: 069.815.787-78
+    Nome: CRISTIANE RANGEL RODRIGUES FERNANDES
+    Logradouro: CAMBAUBA
+    Número: 1290
+    Bairro: JD GUANABARA
+  [15]
+    CPF: 447.682.147-20
+    Nome: CHEILA MARIA MONTEIRO VIEIRA DA COSTA
+    Logradouro: CAMBAUBA
+    Número: 1258
+    Bairro: JD GUANABARA
+E-mails: (11 item(s))
+  - ana-a.almeida@hotmail.com
+  - ana_aalmeida@hotmail.com
+  - anafelldmann@uol.com.br
+  - anaaalmeida@ig.com.br
+  - ana.a.almeida@globo.com
+  - ana.aalmeida97@gmail.com
+  - anaa.almeida@live.com
+  - anaa_almeida@hotmail.com
+  - anaaalmeida@hotmail.com
+  - ana___soqui@msn.com
+  - anaaalmeida@sefaz.al.gov.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1404
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1709.5
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (21) 2462-1855
+    Ddd: 21
+    Número: 24621855
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 28/10/2010
+    Classificacao: D2
+  [2]
+    Telefone: (21) 2562-6266
+    Ddd: 21
+    Número: 25626266
+    Tipo: CELULAR
+    Data Inclusao: 01/02/2011
+    Data Informacao: 26/11/2010
+    Classificacao: D
+  [3]
+    Telefone: (16) 3031-9969
+    Ddd: 16
+    Número: 30319969
+    Tipo: FIXO
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

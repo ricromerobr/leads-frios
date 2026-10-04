@@ -1,0 +1,456 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  79137490834
+Data/Hora:  03/10/2026, 19:01:23
+Tempo API:  543ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 791.374.908-34
+Nome: MARIO ADAMO SEABRA
+Primeiro Nome: MARIO
+Sobrenome: SEABRA
+Sexo: Masculino
+Data de Nascimento: 11/03/1952
+Nome da Mãe: LYANNI ELVIRA ADAMO SEABRA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 5026734
+Voter Id: 002355852100
+Mosaic: B05
+Ocupação: Diretor geral de empresa e organizações (exceto de interesse público)
+Score:
+  Value: 32
+  Range: ALTISSIMO
+E-mail: marioseabra@uol.com.br
+Additional Emails: (2 item(s))
+  - marioseabra@uol.com.br
+  - marioseabra@hotmail.com
+Federal Status: REGULAR
+Renda: 1882
+Income Bracket: 2
+Cbo: 411005
+Corporate Share Pct: 0
+Endereço:
+  Tipo: RUA
+  Rua: PINTASSILGO
+  Número: 185
+  Complemento: BLOCO 2 APARTAMENTO 44
+  Bairro: VILA UBERABINHA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04514-030
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PINTASSILGO
+    Número: 185
+    Complemento: BLOCO 2 APARTAMENTO 44
+    Bairro: VILA UBERABINHA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04514-030
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SEM INFORMAÇÃO
+    Número: 522
+    Bairro: SEM INFORMAÇÃO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: DOS CAMPINEIROS
+    Tipo: R
+    Número: 345
+    Bairro: MOOCA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03167-020
+    Data Atualizacao: 05/04/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ELIS REGINA
+    Tipo: PC
+    Número: 80
+    Bairro: VL GOMES
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05539-090
+    Data Atualizacao: 22/07/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: PINTASSILGO
+    Número: 0000185
+    Bairro: VILA UBERABINHA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04514-030
+    Fonte: ASSECC
+  [6]
+    Tipo: RUA
+    Rua: R PINTASSILGO  185 BL 2
+    Número: 185
+    Complemento: APT 44
+    Bairro: VILA UBERABINHA
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: VW
+      Modelo: FOX 1.6 GII
+      Ano: 2013
+    [2]
+      Marca: VW
+      Modelo: LOGUS CLI
+      Ano: 1996
+Telefones: (5 item(s))
+  - (11) 96427-8227
+  - (11) 5535-9365
+  - (11) 5561-0713
+  - (11) 97113-1745
+  - (19) 99691-4008
+Cidade de Nascimento: INVALIDO
+Cns: 706302708910478
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: D
+    Status Date: 25/10/2019
+    Info Date: 24/09/2007
+    Mosaic: B05
+    Mosaic New: G22
+    Mosaic Secondary: A02
+    Income Bracket Id: 12
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: DOS CAMPINEIROS
+      Número: 345
+      Bairro: MOOCA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03167-020
+      Date Added: 16/03/2011
+    [2]
+      Tipo: PC
+      Rua: ELIS REGINA
+      Número: 80
+      Bairro: VL GOMES
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05539-090
+      Date Added: 13/04/2010
+    [3]
+      Tipo: R
+      Rua: PINTASSILGO
+      Número: 185
+      Complemento: AP 44 BL
+      Bairro: VL UBERABINHA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04514-902
+      Date Added: 15/08/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 55359365
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 05/03/2009
+      Info Date: 07/04/2002
+    [2]
+      Telefone: 55610713
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 21/09/2017
+    [3]
+      Telefone: 971131745
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 15/12/2009
+    [4]
+      Telefone: 996914008
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2014
+      Info Date: 15/11/2013
+    [5]
+      Telefone: 964278227
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 09/02/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: marioseabra@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2017
+    [2]
+      E-mail: marioseabra@uol.com.br
+      Priority: 2
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 25
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 32
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 213.818.918-02
+      Nome: ALMA ELVIRA ADAMO CAPOZZI
+      Vinculo: TIA(O)
+    [2]
+      CPF: 130.157.668-99
+      Nome: LYANNI ELVIRA ADAMO SEABRA
+      Vinculo: MAE
+    [3]
+      CPF: 699.192.758-91
+      Nome: LYDIA PASTANA ADAMO
+      Vinculo: AVO
+    [4]
+      CPF: 524.027.898-91
+      Nome: EDUARDO ADAMO CAPOZZI
+      Vinculo: PRIMA(O)
+    [5]
+      CPF: 2295993890
+      Nome: MAURO ADAMO SEABRA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 327.092.188-87
+      Nome: MARIO HORACIO SAMPAIO SEABRA
+      Vinculo: PAI
+  Pis: 10069937157
+  Tse:
+    Titulo: 2355852100
+    Zona: 4
+    Secao: 349
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 19224.64
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 354.210.948-71
+    Nome: THAYANE ALFANO SULAS
+    Logradouro: DOS CAMPINEIROS
+    Número: 771
+    Bairro: MOOCA
+  [2]
+    CPF: 059.632.895-80
+    Nome: WILZA ALVES DA SILVA
+    Logradouro: DOS CAMPINEIROS
+    Número: 274
+    Bairro: MOOCA
+  [3]
+    CPF: 040.261.928-57
+    Nome: NEUSA MARIA RUIS
+    Logradouro: DOS CAMPINEIROS
+    Número: 838
+    Bairro: MOOCA
+  [4]
+    CPF: 039.203.828-54
+    Nome: ESMERALDA APARECIDA LOPES
+    Logradouro: DOS CAMPINEIROS
+    Número: 814
+    Bairro: MOOCA
+  [5]
+    CPF: 231.288.538-78
+    Nome: JULIO CABEZAS DE LA FUENTE
+    Logradouro: DOS CAMPINEIROS
+    Número: 785
+    Bairro: MOOCA
+  [6]
+    CPF: 298.435.778-76
+    Nome: LAILA MARIA MELO DOS SANTOS
+    Logradouro: DOS CAMPINEIROS
+    Número: 441
+    Bairro: MOOCA
+  [7]
+    CPF: 268.089.188-05
+    Nome: EDUARDO TADEU BORGES DOS SANTOS TRINCADO
+    Logradouro: DOS CAMPINEIROS
+    Número: 446
+    Bairro: MOOCA
+  [8]
+    CPF: 246.648.768-31
+    Nome: MARIA ALVES DE ASSIS
+    Logradouro: DOS CAMPINEIROS
+    Número: 240
+    Bairro: MOOCA
+  [9]
+    CPF: 061.375.468-96
+    Nome: MARIA SOCORRO DA SILVA
+    Logradouro: DOS CAMPINEIROS
+    Número: 701
+    Bairro: MOOCA
+  [10]
+    CPF: 526.458.518-00
+    Nome: LUZIA DE JESUS PASSOS
+    Logradouro: DOS CAMPINEIROS
+    Número: 343
+    Bairro: MOOCA
+  [11]
+    CPF: 470.892.536-00
+    Nome: GILVANIO BERNARDES DE FARIA
+    Logradouro: DOS CAMPINEIROS
+    Número: 814
+    Bairro: MOOCA
+  [12]
+    CPF: 361.242.149-20
+    Nome: OTACILIA ROSA DOS SANTOS
+    Logradouro: DOS CAMPINEIROS
+    Número: 291
+    Bairro: MOOCA
+  [13]
+    CPF: 329.473.678-98
+    Nome: DANIEL ALENCAR IWANTSCHUK
+    Logradouro: DOS CAMPINEIROS
+    Número: 173
+    Bairro: MOOCA
+  [14]
+    CPF: 271.750.038-38
+    Nome: MARGARIDA LETICI DE LIMA
+    Logradouro: DOS CAMPINEIROS
+    Número: 432
+    Bairro: MOOCA
+  [15]
+    CPF: 213.229.648-07
+    Nome: CATIA CILENE OLIVEIRA CARO MARTINS
+    Logradouro: DOS CAMPINEIROS
+    Número: 291
+    Bairro: MOOCA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96427-8227
+    Nome: MARIO ADAMO SEABRA
+    Cidade: SAO PAULO
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 355203424
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 10/05/2012
+    Tempo Base: 100
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201205
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 11/03/1952
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 22637
+      Classe Social: A
+      Score: 3
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 558
+        Net: 535
+        Ctv: 535
+        Faixa Cmv: 548 - 788
+        Faixa Net: 349 - 669
+        Faixa Ctv: 454 - 556
+        Risco Cmv: BAIXO
+        Risco Net: MEDIO
+        Risco Ctv: ALTISSIMO
+        Idade: 68
+E-mails: (2 item(s))
+  - marioseabra@uol.com.br
+  - marioseabra@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1882
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 19224.64
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 22637
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 5535-9365
+    Ddd: 11
+    Número: 55359365
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 07/04/2002
+    Classificacao: A0
+  [2]
+    Telefone: (11) 5561-0713
+    Ddd: 11
+    Número: 55610713
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 21/09/2017
+    Classificacao: D
+  [3]
+    Telefone: (11) 97113-1745
+    Ddd: 11
+    Número: 971131745
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: A0
+  [4]
+    Telefone: (19) 99691-4008
+    Ddd: 19
+    Número: 996914008
+    Tipo: 3
+    Data Inclusao: 15/12/2014
+    Data Informacao: 15/11/2013
+    Classificacao: D
+  [5]
+    Telefone: (11) 96427-8227
+    Ddd: 11
+    Número: 964278227
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: A0
+Occupation Code: 121010
+Occupation Name: Diretor geral de empresa e organizações (exceto de interesse público)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,247 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04452057411
+Data/Hora:  02/10/2026, 15:17:06
+Tempo API:  8463ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 044.520.574-11
+Nome: MARIA DOS PRAZERES DA SILVA
+Primeiro Nome: MARIA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 27/04/1976
+Nome da Mãe: SEVERINA FRANCISCA DA CONCEICAO
+RG: 6636344
+Rg Issuer: SDS
+Voter Id: 060544210809
+Mosaic: J35
+Score:
+  Value: 632
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 271
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: SIT  MUTUNS SN
+  Bairro: ZONA RURAL
+  Cidade: URUCU MIRIM
+  Estado: PERNAMBUCO
+  CEP: 55648-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SIT  MUTUNS SN
+    Bairro: ZONA RURAL
+    Cidade: URUCU MIRIM
+    Estado: PERNAMBUCO
+    CEP: 55648-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MUTUNS
+    Tipo: SIT
+    Número: SN
+    Bairro: ZONA RURAL
+    Cidade: URUCU MIRIM
+    Estado: PE
+    CEP: 55648-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: RUA SIT  MUTUNS SN
+    Número: SN
+    Bairro: ZONA RURAL
+    Estado: PE
+    CEP: 55648-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/05/2019
+    Rg Issuer: SDS
+    Mosaic: J35
+    Mosaic New: I31
+    Mosaic Secondary: J34
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: SIT
+      Rua: MUTUNS
+      Número: SN
+      Bairro: ZONA RURAL
+      Cidade: URUCU MIRIM
+      Estado: PE
+      CEP: 55648-000
+      Date Added: 09/12/2014
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 971027440
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+  Score:
+    CSB8: 392
+    CSB8 FAIXA: MEDIO
+    CSBA: 632
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: SEVERINA FRANCISCA DA CONCEICAO
+      Vinculo: MAE
+  Tse:
+    Titulo: 60544210809
+    Zona: 30
+    Secao: 127
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 271.55
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (81) 98222-8566
+  - (81) 98123-5940
+  - (81) 97102-7440
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 446.777.154-91
+    Nome: MARIA GOMES DE SOUZA NASCIMENTO
+    Logradouro: IPEDRA
+    Número: 96
+    Bairro: URUCURI
+  [2]
+    CPF: 310.236.488-81
+    Nome: JIDEALDO MANOEL DANTAS
+    Logradouro: CRUZEIRO
+    Número: 137
+    Bairro: CENTRO
+  [3]
+    CPF: 858.678.704-30
+    Nome: VALQUIRIA SEVERINA DA SILVA
+    Logradouro: DO CRUZEIRO
+    Número: 30
+    Bairro: CENTRO
+  [4]
+    CPF: 098.133.874-75
+    Nome: JOSE FABIO BEZERRA DE LIMA
+    Logradouro: JOAQUIM PAULINO DE FARIAS
+    Número: 74
+    Bairro: CENTRO
+  [5]
+    CPF: 072.679.804-57
+    Nome: MARIA APARECIDA DE FRANCA
+    Logradouro: SI BOA SORTE
+    Número: 260
+    Bairro: ZONA RURAL
+  [6]
+    CPF: 121.227.064-90
+    Nome: ROSINEIDE NASCIMENTO DE ARAUJO
+    Logradouro: MASSARANDUBA
+    Número: 6
+    Bairro: VL MASSARANDUBA
+  [7]
+    CPF: 190.127.214-15
+    Nome: FRANCISCO PEREIRA DE SOUSA
+    Logradouro: DO CRUZEIRO
+    Número: 72
+  [8]
+    CPF: 476.825.584-15
+    Nome: COSME GALDINO DE OLIVEIRA
+    Logradouro: JOAQUIN P FARIAS
+    Número: 60
+    Bairro: URUCU MIRIM
+  [9]
+    CPF: 113.612.884-00
+    Nome: IARA PRISCILA DE ALBUQUERQUE PIMENTEL
+    Logradouro: IDALINO J ALBUQUERQUE
+    Número: 9
+    Bairro: CENTRO
+  [10]
+    CPF: 802.303.344-15
+    Nome: MARIA DE LOURDES DE LIMA
+    Logradouro: COMERCIO
+    Número: 233
+    Bairro: CENTRO
+  [11]
+    CPF: 846.537.104-06
+    Nome: JURACI MARIA DO NASCIMENTO
+    Logradouro: COMERCIO
+    Número: 81
+    Bairro: CENTRO
+  [12]
+    CPF: 003.163.184-34
+    Nome: HELIO PIMENTEL BRANDAO
+    Logradouro: COMERCIO
+    Número: 166
+    Bairro: CENTRO
+  [13]
+    CPF: 514.814.484-04
+    Nome: MARIA VALDILENE DA SILVA OLIVEIRA
+    Logradouro: JOAQUIM PAULINO FARIAS
+    Número: 60
+  [14]
+    CPF: 082.424.644-64
+    Nome: FABIO JUNIO DA SILVA
+    Logradouro: IDALINO JOSE ALBUQUERQUE
+    Número: 26
+    Bairro: URUCU MIRIM
+  [15]
+    CPF: 077.099.984-02
+    Nome: GILVAN JOSE MONTEIRO
+    Logradouro: MERDO
+    Número: 501
+    Bairro: CENTRO
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (81) 98222-8566
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 18JUL2018
+    Ultima Recarga: 18AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 18/07/2018
+  [2]
+    Telefone: (81) 98123-5940
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 23DEC2017
+    Ultima Recarga: 11SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 22/12/2017
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 271
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 271.55
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (81) 97102-7440
+    Ddd: 81
+    Número: 971027440
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

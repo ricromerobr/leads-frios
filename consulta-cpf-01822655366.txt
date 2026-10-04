@@ -1,0 +1,432 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01822655366
+Data/Hora:  04/10/2026, 15:49:12
+Tempo API:  256ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 018.226.553-66
+Nome: ARY JAMERSON CARDOSO DE MACEDO
+Primeiro Nome: ARY
+Sobrenome: MACEDO
+Sexo: Masculino
+Data de Nascimento: 04/08/1989
+Nome da Mãe: MARIA DAS DORES CARDOSO
+Nome do Pai: ANGELITO LOPES DE MACEDO
+RG: 8180915
+Rg Issuer: SDS
+Voter Id: 077128970841
+Mosaic: D13
+Ocupação: Administrador
+Score:
+  Value: 263
+  Range: ALTO
+E-mail: ary.jamerson@hotmail.com
+Additional Emails: (3 item(s))
+  - ary.jamerson@hotmail.com
+  - 41750fc151db42af99586dffafd084cf@ct.vtex.com.br
+  - aryjamerson@yahoo.com.br
+Federal Status: REGULAR
+Income Bracket: 1
+Cbo: 239405
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: COMTIPO TV RIO DE JANEIRO
+  Bairro: DNER
+  Cidade: FEIRA DE SANTANA
+  Estado: BAHIA
+  CEP: 44080-100
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: COMTIPO TV RIO DE JANEIRO
+    Bairro: DNER
+    Cidade: FEIRA DE SANTANA
+    Estado: BAHIA
+    CEP: 44080-100
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE CAITANO
+    Número: 407
+    Bairro: ANTONIO VIEIRA
+    Cidade: JUAZEIRO DO NORTE - CE
+    Fonte: DATASUS
+  [3]
+    Rua: RIO DO OURO
+    Tipo: R
+    Número: 14
+    Complemento: PETROLI
+    Bairro: JOSE E MARIA
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56320-180
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ANANIAS
+    Tipo: R
+    Número: SN
+    Bairro: D AVELAR
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56323-810
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANANIAS
+    Tipo: R
+    Número: 251
+    Bairro: D AVELAR
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56323-810
+    Data Atualizacao: 13/09/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DO VIOLEIRO
+    Tipo: R
+    Número: 531
+    Complemento: LT 23 Q 1
+    Bairro: ANTONIO CASSIMIRO
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56321-130
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: VIOLEIRO
+    Número: 0000531
+    Bairro: SANTA LUZIA
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56321-130
+    Fonte: ASSECC
+  [8]
+    Tipo: ARY JAMERSON CARDOSO DE MACEDO
+    Rua: 0000468
+    Número: DA BAHIA
+    Bairro: CENTRO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30160-010
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (87) 98843-6358
+  - +55 (87) 98843-6358
+  - (87) 98865-1171
+  - (33) 98424-4912
+  - (87) 98841-9422
+  - (87) 98856-1556
+  - (31) 98626-2951
+  - (87) 98828-9806
+Datasus Phones: (1 item(s))
+  - (81) 9716-3323
+Cidade de Nascimento: JUAZEIRO DO NORTE - CE
+Cns: 700601924830166
+Paycom:
+  E-mail: 41750fc151db42af99586dffafd084cf@ct.vtex.com.br
+  Data de Nascimento: 30/12/1988
+  Created At: 2020-01-30 11:08:28
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Galileia
+    Número: 91
+    Complemento: Casa
+    Bairro: Vila Eulália
+    Cidade: Petrolina
+    Estado: PE
+    País: BRA
+    CEP: 56331-230
+    Telephone: +55 (87) 98843-6358
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 10/08/2019
+    Info Date: 21/11/2008
+    Rg Issuer: SDS
+    Mosaic: D13
+    Mosaic New: G24
+    Mosaic Secondary: H28
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: RIO DO OURO
+      Número: 14
+      Complemento: PETROLI
+      Bairro: JOSE E MARIA
+      Cidade: PETROLINA
+      Estado: PE
+      CEP: 56320-180
+      Date Added: 04/04/2017
+    [2]
+      Tipo: R
+      Rua: ANANIAS
+      Número: SN
+      Bairro: D AVELAR
+      Cidade: PETROLINA
+      Estado: PE
+      CEP: 56323-810
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ANANIAS
+      Número: 251
+      Bairro: D AVELAR
+      Cidade: PETROLINA
+      Estado: PE
+      CEP: 56323-810
+      Date Added: 07/08/2011
+    [4]
+      Tipo: R
+      Rua: DO VIOLEIRO
+      Número: 531
+      Complemento: LT 23 Q 1
+      Bairro: ANTONIO CASSIMIRO
+      Cidade: PETROLINA
+      Estado: PE
+      CEP: 56321-130
+      Date Added: 16/10/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988419422
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [2]
+      Telefone: 988561556
+      Ddd: 87
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 22/10/2015
+    [3]
+      Telefone: 986262951
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 988289806
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 988651171
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: aryjamerson@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: ary.jamerson@hotmail.com
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/05/2017
+  Score:
+    CSB8: 87
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 263
+    CSBA FAIXA: ALTO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 387.066.104-63
+      Nome: ANGELITO LOPES DE MACEDO
+      Vinculo: PAI
+    [2]
+      Nome: MARIA DAS DORES CARDOSO
+      Vinculo: MAE
+  Pis: 16086209007
+  Tse:
+    Titulo: 77128970841
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 056.827.174-22
+    Nome: LEIDE DAIANA MARIA DOS SANTOS
+    Logradouro: RIO DO OURO
+    Número: 131
+    Bairro: JOSE E MARIA
+  [2]
+    CPF: 064.512.136-32
+    Nome: ALEXSANDRA GOMES PEREIRA
+    Logradouro: RIO DO OURO
+    Número: 10
+    Bairro: JOSE E MARIA
+  [3]
+    CPF: 046.022.164-71
+    Nome: MARILENE LIMA DA SILVA
+    Logradouro: RIO DO OURO
+    Número: 13
+    Bairro: JOSE E MARIA
+  [4]
+    CPF: 340.077.334-49
+    Nome: LUIZ GONZAGA DA SILVA
+    Logradouro: RIO DO OURO
+    Número: 7
+    Bairro: JOSE E MARIA
+  [5]
+    CPF: 104.932.374-29
+    Nome: FLAVIO VALDECIO SILVA
+    Logradouro: RIO DO OURO
+    Número: 12
+    Bairro: JOSE E MARIA
+  [6]
+    CPF: 115.315.824-86
+    Nome: LEONDAS PEREIRA TIBURCIO
+    Logradouro: RIO DO OURO
+    Número: 8
+    Bairro: JOSE E MARIA
+  [7]
+    CPF: 131.589.023-20
+    Nome: JOSE ORLANDO NONATO
+    Logradouro: RIO DO OURO
+    Número: 5
+    Bairro: JOSE E MARIA
+  [8]
+    CPF: 104.158.774-07
+    Nome: FLAVIO DE LIMA MELLO
+    Logradouro: RIO DO OURO
+    Número: 4
+    Bairro: JOSE E MARIA
+  [9]
+    CPF: 065.761.724-51
+    Nome: ELIDA EMANUELA RODRIGUES COSTA
+    Logradouro: RIO DO OURO
+    Número: 9
+    Bairro: JOSE E MARIA
+  [10]
+    CPF: 212.224.524-72
+    Nome: ERCILIO SEBASTIAO GRANDE
+    Logradouro: RIO DO OURO
+    Número: 3
+    Bairro: JOSE E MARIA
+  [11]
+    CPF: 906.174.954-91
+    Nome: LENICE RIBEIRO DE SOUZA ROCHA
+    Logradouro: RIO DO OURO
+    Número: 8
+    Bairro: JOSE E MARIA
+  [12]
+    CPF: 212.229.244-04
+    Nome: REGINALDO RODRIGUES CAMPOS
+    Logradouro: RIO DO OURO
+    Número: 2
+    Bairro: JOSE E MARIA
+  [13]
+    CPF: 449.713.704-04
+    Nome: JOSE FERREIRA ALVES
+    Logradouro: RIO DO OURO
+    Número: 134
+    Bairro: JOSE E MARIA
+  [14]
+    CPF: 456.844.724-00
+    Nome: JORGENILTON RODRIGUES DOS SANTOS
+    Logradouro: RIO DO OURO
+    Número: 130
+    Bairro: JOSE E MARIA
+  [15]
+    CPF: 081.867.834-82
+    Nome: GERLANDO DO NASCIMENTO
+    Logradouro: RIO DO OURO
+    Número: 10
+    Bairro: JOSE E MARIA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (87) 98865-1171
+    Nome: ARY JAMERSON CARDOSO DE MACEDO
+    Cidade: PETROLINA
+    UF: PE
+  [2]
+    Telefone: (33) 98424-4912
+    Nome: R
+    Cidade: BELO HORIZONTE
+    UF: MG
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (33) 98424-4912
+    Nome: ARY JAMERSON CARDOSO DE MACEDO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - ary.jamerson@hotmail.com
+  - 41750fc151db42af99586dffafd084cf@ct.vtex.com.br
+  - aryjamerson@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Universitarios: (1 item(s))
+  [1]
+    Nome: ARY JAMERSON CARDOSO DE MACEDO
+    Ano Vestibular: 2011
+    Faculdade: UNIVERSIDADE DE PERNAMBUCO
+    Curso: LINGUA E LITERATURAS DA LINGUA INGLESA
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (87) 98841-9422
+    Ddd: 87
+    Número: 988419422
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [2]
+    Telefone: (87) 98856-1556
+    Ddd: 87
+    Número: 988561556
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: A1
+  [3]
+    Telefone: (31) 98626-2951
+    Ddd: 31
+    Número: 986262951
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [4]
+    Telefone: (87) 98828-9806
+    Ddd: 87
+    Número: 988289806
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (87) 98865-1171
+    Ddd: 87
+    Número: 988651171
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

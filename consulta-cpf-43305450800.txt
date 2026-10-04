@@ -1,0 +1,382 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  43305450800
+Data/Hora:  04/10/2026, 06:50:18
+Tempo API:  942ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 433.054.508-00
+Nome: JANAINA DA SILVA FERMINO
+Primeiro Nome: JANAINA
+Sobrenome: FERMINO
+Sexo: Feminino
+Data de Nascimento: 04/10/1993
+Nome da Mãe: EDINALVA MARIA DA SILVA
+Nome do Pai: MARCOS FERMINO
+RG: 40047347
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Score:
+  Value: 129
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 419
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: OTAVIO VICENTE DA SILVA
+  Bairro: VILA SANTA ROSA
+  Cidade: PIRAPOZINHO
+  Estado: SAO PAULO
+  CEP: 19200-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: OTAVIO VICENTE DA SILVA
+    Bairro: VILA SANTA ROSA
+    Cidade: PIRAPOZINHO
+    Estado: SAO PAULO
+    CEP: 19200-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CASSIO CAMPOS DE AGUIAR
+    Número: 249
+    Bairro: VILA SANTA ROSA
+    Cidade: PIRAPOZINHO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: JOSE DE ALENCAR
+    Tipo: R
+    Número: 215
+    Bairro: CENTRO
+    Cidade: PIRAPOZINHO
+    Estado: SP
+    CEP: 19200-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FORTUNATO BARALDO
+    Tipo: R
+    Número: 56
+    Bairro: CENTRO
+    Cidade: PIRAPOZINHO
+    Estado: SP
+    CEP: 19200-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ISIDORO PASSARI
+    Tipo: R
+    Número: 618
+    Bairro: STA ROSA
+    Cidade: PIRAPOZINHO
+    Estado: SP
+    CEP: 19200-000
+    Data Atualizacao: 09/03/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MACHADO DE ASSIS
+    Tipo: R
+    Número: 131
+    Bairro: CENTRO
+    Cidade: PIRAPOZINHO
+    Estado: SP
+    CEP: 19200-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: MANOEL PARADA DE CARVALHO
+    Tipo: R
+    Número: 28
+    Complemento: CS
+    Bairro: CENTRO
+    Cidade: VALPARAISO
+    Estado: SP
+    CEP: 16880-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: OTAVIO VICENTE DA SILVA
+    Rua: R
+    Número: 0000235
+    Bairro: VILA SANTA ROSA
+    Cidade: PIRAPOZINHO
+    Estado: 19200000
+    Fonte: ASSECC
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HONDA
+      Modelo: CG150 START
+      Ano: 2015
+Telefones: (7 item(s))
+  - (18) 98820-7833
+  - (18) 98816-9645
+  - (18) 99821-2411
+  - (18) 3269-2438
+  - (18) 99751-6306
+  - (18) 3269-5496
+  - (18) 99726-6147
+Datasus Phones: (1 item(s))
+  - (18) 99820-7833
+Cidade de Nascimento: PIRAPOZINHO - SP
+Cns: 700401977280243
+Rg Issue Date: 1285038000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/04/2019
+    Mosaic New: D12
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE DE ALENCAR
+      Número: 215
+      Bairro: CENTRO
+      Cidade: PIRAPOZINHO
+      Estado: SP
+      CEP: 19200-000
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: FORTUNATO BARALDO
+      Número: 56
+      Bairro: CENTRO
+      Cidade: PIRAPOZINHO
+      Estado: SP
+      CEP: 19200-000
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: ISIDORO PASSARI
+      Número: 618
+      Bairro: STA ROSA
+      Cidade: PIRAPOZINHO
+      Estado: SP
+      CEP: 19200-000
+      Date Added: 08/07/2015
+    [4]
+      Tipo: R
+      Rua: MACHADO DE ASSIS
+      Número: 131
+      Bairro: CENTRO
+      Cidade: PIRAPOZINHO
+      Estado: SP
+      CEP: 19200-000
+      Date Added: 21/10/2012
+    [5]
+      Tipo: R
+      Rua: MANOEL PARADA DE CARVALHO
+      Número: 28
+      Complemento: CS
+      Bairro: CENTRO
+      Cidade: VALPARAISO
+      Estado: SP
+      CEP: 16880-000
+      Date Added: 17/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32692438
+      Ddd: 18
+      Tipo: 1
+      Classificacao: C
+      Date Added: 23/06/2012
+      Info Date: 04/03/2013
+    [2]
+      Telefone: 997516306
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [3]
+      Telefone: 32695496
+      Ddd: 18
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 07/07/2015
+      Info Date: 30/01/2016
+    [4]
+      Telefone: 997266147
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 998212411
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  Score:
+    CSB8: 144
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 129
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: EDINALVA MARIA DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 419.46
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 097.563.048-20
+    Nome: CIDIOMAR REBELLO TENDOLO
+    Logradouro: JACY TEIXEIRA CAMARGO
+    Número: 720
+    Bairro: GRA DUQUESA
+  [2]
+    CPF: 051.872.418-26
+    Nome: MARIA DO CARMO SOUZA ROVIRA
+    Logradouro: CLAUDIO Y TOMITA
+    Número: 219
+  [3]
+    CPF: 272.334.798-28
+    Nome: GIANNI LEANDRO MIGUEL
+    Logradouro: FLORISVALDO R DE BES
+    Número: 206
+    Bairro: CENTRO
+  [4]
+    CPF: 051.752.118-03
+    Nome: JOSE WILSON CAMPEONI SANCHEZ
+    Logradouro: DIAMANTINO Y SUDA
+    Número: 241
+  [5]
+    CPF: 407.171.288-06
+    Nome: VANESSA SILVA PEREIRA
+    Logradouro: ARMANDO CARREIRA
+    Número: 575
+    Bairro: JD SOLEDADE
+  [6]
+    CPF: 276.002.098-37
+    Nome: FERNANDA BERTASSO DE MOURA BRAGHIN
+    Logradouro: BERTASSO
+    Número: 1772
+    Bairro: JD SOLEDADE
+  [7]
+    CPF: 050.819.968-90
+    Nome: JOAO DO NASCIMENTO
+    Logradouro: RUI BARBOSA
+    Número: 1004
+  [8]
+    CPF: 050.471.718-92
+    Nome: ROSANGELA DE OLIVEIRA
+    Logradouro: WALTER LONCHIATE
+    Número: 155
+    Bairro: PANORAMA
+  [9]
+    CPF: 050.472.118-60
+    Nome: BENEDITO ANTONIO DOS SANTOS
+    Logradouro: ORESTES MAGRO
+    Número: 80
+  [10]
+    CPF: 050.472.398-70
+    Nome: FRANCISCO PEREIRA DOS SANTOS
+    Logradouro: TIRADENTES
+    Número: 1305
+    Bairro: CENTRO
+  [11]
+    CPF: 050.472.458-45
+    Nome: ARMINDO GAMA
+    Logradouro: B
+    Número: 179
+  [12]
+    CPF: 050.472.528-92
+    Nome: LEDA PEREIRA TOSTA DE LIMA
+    Logradouro: SEBASTIAO DONADAO
+    Número: 160
+  [13]
+    CPF: 050.472.768-05
+    Nome: NEUSA GARCIA DE OLIVEIRA
+    Logradouro: FLORISVALDO RIBEIRA BESSA
+    Número: 753
+    Bairro: CENTRO
+  [14]
+    CPF: 050.472.988-84
+    Nome: JOSE FERREIRA DA SILVA
+    Logradouro: DIRCE DIAS JORGE
+    Número: 173
+  [15]
+    CPF: 049.980.918-16
+    Nome: SILVANA DE CASSIA DE SOUZA MARTINS
+    Logradouro: RUBENS FERREIRA LOBO
+    Número: 365
+    Bairro: V MARQUES
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (18) 99821-2411
+    Nome: JANAINA DA SILVA PERNINO
+    Cidade: PIRAPOZINHO
+    UF: 19200000
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 419
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 419.46
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (18) 3269-2438
+    Ddd: 18
+    Número: 32692438
+    Tipo: FIXO
+    Data Inclusao: 23/06/2012
+    Data Informacao: 04/03/2013
+    Classificacao: C
+  [2]
+    Telefone: (18) 99751-6306
+    Ddd: 18
+    Número: 997516306
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (18) 3269-5496
+    Ddd: 18
+    Número: 32695496
+    Tipo: FIXO
+    Data Inclusao: 07/07/2015
+    Data Informacao: 30/01/2016
+    Classificacao: D2
+  [4]
+    Telefone: (18) 99726-6147
+    Ddd: 18
+    Número: 997266147
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (18) 99821-2411
+    Ddd: 18
+    Número: 998212411
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

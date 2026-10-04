@@ -1,0 +1,488 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  16938541809
+Data/Hora:  04/10/2026, 00:47:08
+Tempo API:  798ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 169.385.418-09
+Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+Primeiro Nome: KATLEM
+Sobrenome: CRIPPA
+Sexo: Feminino
+Data de Nascimento: 15/09/1948
+Nome da Mãe: JOSEPHA RODRIGUES ASTROLINO
+Nome do Pai: SEM INFORMAÇÃO
+RG: 3624300
+Voter Id: 148456660191
+Mosaic: A01
+Ocupação: Administrador
+Score:
+  Value: 953
+  Range: BAIXISSIMO RISCO
+E-mail: katlemcrippa@hotmail.com
+Additional Emails: (2 item(s))
+  - katlemcrippa@hotmail.com
+  - katlem.conceicao@terra.com.br
+Federal Status: REGULAR
+Renda: 1177
+Income Bracket: 2
+Cbo: 331205
+Endereço:
+  Tipo: RUA
+  Rua: ANIS CHACUR
+  Número: 398
+  Bairro: JARDIM ALVORADA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05528-110
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANIS CHACUR
+    Número: 398
+    Bairro: JARDIM ALVORADA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05528-110
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EST SAO FRANCISCO
+    Número: 2701
+    Bairro: PARQUE TABOAO
+    Cidade: TABOAO DA SERRA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: EDUARDO PEDRO MARIANO
+    Tipo: R
+    Número: 595
+    Cidade: ITANHAEM
+    Estado: SP
+    CEP: 11740-000
+    Data Atualizacao: 03/08/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: CANADA
+    Tipo: R
+    Número: 193
+    Complemento: AP 15
+    Bairro: JD CIBRATEL
+    Cidade: ITANHAEM
+    Estado: SP
+    CEP: 11740-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: SAO FRANCISCO
+    Tipo: EST
+    Número: 2701
+    Complemento: COND EKOS AP 54 BL 3
+    Bairro: JD WANDA
+    Cidade: TABOAO DA SERRA
+    Estado: SP
+    CEP: 06765-001
+    Data Atualizacao: 28/08/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: SAO FRANCISCO
+    Tipo: EST
+    Número: 2071
+    Complemento: AP 54
+    Bairro: JD WANDA
+    Cidade: TABOAO DA SERRA
+    Estado: SP
+    CEP: 06765-001
+    Data Atualizacao: 18/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: ESTR R EDUARDO PEDRO MARIANO
+    Número: 0000595
+    Bairro: JARDIM BELAS ARTES
+    Cidade: ITANHAEM
+    Estado: SP
+    CEP: 11740-000
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: ANIS CHACUR
+    Número: 0000398
+    Bairro: JARDIM ALVORADA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05528-110
+    Fonte: ASSECC
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: RENAULT
+      Modelo: CAPTUR LIFE 16 A
+      Ano: 2018
+    [2]
+      Marca: VW
+      Modelo: FUSCA 1300
+      Ano: 1980
+    [3]
+      Marca: TOYOTA
+      Modelo: COROLLA XRS FLEX
+      Ano: 2013
+Telefones: (9 item(s))
+  - (13) 3427-1459
+  - (11) 4385-7322
+  - (11) 98244-4219
+  - (13) 99994-1844
+  - (11) 98244-5630
+  - (11) 99994-1844
+  - +55 (11) 99994-1844
+  - (11) 3751-0526
+  - (11) 97389-5677
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 706403185242688
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 20/12/2019
+    Info Date: 21/12/2008
+    Mosaic: A01
+    Mosaic New: E17
+    Mosaic Secondary: G22
+    Income Bracket Id: 6
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: EDUARDO PEDRO MARIANO
+      Número: 595
+      Cidade: ITANHAEM
+      Estado: SP
+      CEP: 11740-000
+      Date Added: 31/03/2011
+    [2]
+      Tipo: R
+      Rua: CANADA
+      Número: 193
+      Complemento: AP 15
+      Bairro: JD CIBRATEL
+      Cidade: ITANHAEM
+      Estado: SP
+      CEP: 11740-000
+      Date Added: 16/08/2006
+    [3]
+      Tipo: EST
+      Rua: SAO FRANCISCO
+      Número: 2701
+      Complemento: COND EKOS AP 54 BL 3
+      Bairro: JD WANDA
+      Cidade: TABOAO DA SERRA
+      Estado: SP
+      CEP: 06765-001
+      Date Added: 09/07/2019
+    [4]
+      Tipo: EST
+      Rua: SAO FRANCISCO
+      Número: 2071
+      Complemento: AP 54
+      Bairro: JD WANDA
+      Cidade: TABOAO DA SERRA
+      Estado: SP
+      CEP: 06765-001
+      Date Added: 17/09/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34271459
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 37510526
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 22/11/2006
+    [3]
+      Telefone: 982444219
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2007
+    [4]
+      Telefone: 999941844
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/07/2013
+      Info Date: 04/12/2018
+    [5]
+      Telefone: 973895677
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (2 item(s))
+    [1]
+      E-mail: katlemcrippa@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: katlem.conceicao@terra.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 955
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 953
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 530.217.708-00
+      Nome: JOSEPHA RODRIGUES ASTROLINO
+      Vinculo: MAE
+    [2]
+      CPF: 152.435.318-39
+      Nome: PATRICIA ANDREA CRIPPA MARQUES
+      Vinculo: FILHA(O)
+    [3]
+      CPF: 220.880.318-39
+      Nome: RENATA CRISTINA CRIPPA DIEKMANN
+      Vinculo: FILHA(O)
+    [4]
+      CPF: 147.443.648-02
+      Nome: ANDRE RICARDO CRIPPA
+      Vinculo: FILHA(O)
+  Pis: 18077848112
+  Tse:
+    Titulo: 148456660191
+    Zona: 346
+    Secao: 97
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3805.81
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 926.919.948-72
+    Nome: EDIVALDO ELIAS GONCALVES
+    Logradouro: DIAMANTE
+    Número: 11
+  [2]
+    CPF: 113.360.758-64
+    Nome: MARIA AMELIA DE MATOS
+    Logradouro: MARIA BECHIR
+    Número: 177
+    Bairro: JD AMERICA
+  [3]
+    CPF: 031.523.048-70
+    Nome: MARIA ILMA DA SILVA AGOSTINHO
+    Logradouro: PEDRO II
+    Número: 58
+    Bairro: CENTRO
+  [4]
+    CPF: 052.061.528-03
+    Nome: VERA LUCIA ARAUJO DO NASCIMENTO
+    Logradouro: SEBASTIAO FERREIRA
+    Número: 1116
+  [5]
+    CPF: 052.058.648-42
+    Nome: MARIA DE FATIMA GASPAR RIBEIRO
+    Logradouro: EMILIO DE SOUZA
+    Número: 3351
+    Bairro: JD ITALMAR
+  [6]
+    CPF: 052.060.668-00
+    Nome: ALEXANDRE DUCLOS AMADO
+    Logradouro: AFONSO MEIRA JUNIOR
+    Número: 399
+    Bairro: VL S PAULO
+  [7]
+    CPF: 052.060.668-00
+    Nome: ALEXANDRE DUCLOS AMADO
+    Logradouro: ANTONIO MARQUES CARREIRA
+    Número: 221
+  [8]
+    CPF: 103.550.098-11
+    Nome: CEILA MARIA CARDOSO
+    Logradouro: JOSE MENDES ARAUJO
+    Número: 175
+    Bairro: CENTRO
+  [9]
+    CPF: 183.027.808-80
+    Nome: HELOIZA DE FATIMA SANDES PROCOPIO
+    Logradouro: ABEL FRANCISCO CANICAIS
+    Número: 78
+    Bairro: BAL ITANHAEM
+  [10]
+    CPF: 131.354.398-52
+    Nome: SILMARA DE SOUZA PASQUALE
+    Logradouro: OSASCO
+    Número: 280
+    Bairro: NOVA ITANHAEM
+  [11]
+    CPF: 051.622.158-21
+    Nome: GILBERTO DE ALMEIDA SARAIVA
+    Logradouro: ARISTIDES G ASSUNCAO
+    Número: 675
+    Bairro: JD AMERICA
+  [12]
+    CPF: 051.367.778-00
+    Nome: MARIA JOSE BELOTI
+    Logradouro: NEVADA
+    Número: 219
+    Bairro: LAS VEGAS
+  [13]
+    CPF: 282.176.998-95
+    Nome: ANDRE OLIVEIRA ABID HACHIF
+    Logradouro: THAIS
+    Número: 721
+  [14]
+    CPF: 052.353.718-28
+    Nome: FRANCISCO CHAVES
+    Logradouro: SEBASTIAO FERREIRA DE AZEV
+    Número: 410
+    Bairro: OASIS
+  [15]
+    CPF: 417.108.158-09
+    Nome: JAQUELINE SANTOS DA SILVA
+    Logradouro: GUILHERME MENZEL FILHO
+    Número: 210
+    Bairro: NS SION
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (11) 98244-5630
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Cidade: ITANHAEM
+    UF: SP
+  [2]
+    Telefone: (11) 99994-1844
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Cidade: ITANHAEM
+    UF: SP
+  [3]
+    Telefone: (11) 98244-4219
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (4 item(s))
+  [1]
+    Telefone: (11) 98244-4219
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (13) 3427-1459
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Cidade: ITANHAEM
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+  [3]
+    Telefone: (11) 98244-5630
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (11) 99994-1844
+    Nome: KATLEM CONCEICAO ASTROLINO CRIPPA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (13) 3427-1459
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 01JUL2001:00:00:00
+    Cel Contato: +5511999941844
+    Complemento: AP - Apartamento: 43 D;
+    Tipo Cliente: Residencial
+E-mails: (2 item(s))
+  - katlemcrippa@hotmail.com
+  - katlem.conceicao@terra.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1177
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3805.81
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (13) 3427-1459
+    Ddd: 13
+    Número: 34271459
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: D
+  [2]
+    Telefone: (11) 3751-0526
+    Ddd: 11
+    Número: 37510526
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Classificacao: A0
+  [3]
+    Telefone: (11) 98244-4219
+    Ddd: 11
+    Número: 982444219
+    Tipo: 3
+    Data Inclusao: 01/02/2007
+    Classificacao: D
+  [4]
+    Telefone: (11) 99994-1844
+    Ddd: 11
+    Número: 999941844
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Data Informacao: 04/12/2018
+    Classificacao: A0
+  [5]
+    Telefone: (11) 97389-5677
+    Ddd: 11
+    Número: 973895677
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

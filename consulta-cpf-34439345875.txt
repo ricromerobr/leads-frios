@@ -1,0 +1,593 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  34439345875
+Data/Hora:  04/10/2026, 00:51:34
+Tempo API:  696ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 344.393.458-75
+Nome: PRISCILA SOARES
+Primeiro Nome: PRISCILA
+Sobrenome: SOARES
+Sexo: Feminino
+Data de Nascimento: 21/12/1984
+Nome da Mãe: PEDRINA DA SILVA PINTO
+Nome do Pai: JOAO FRANCISCO SOARES
+RG: 45581896
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 316932490132
+Mosaic: F19
+Ocupação: Operador de caixa
+Score:
+  Value: 482
+  Range: MEDIO
+E-mail: pri_nasto@yahoo.com.br
+Additional Emails: (8 item(s))
+  - pri_nasto@yahoo.com.br
+  - priscilathecrazy@hotmail.com
+  - priscillathecrazy@hotmail.com
+  - priscilla-me@hotmail.com
+  - pripsico@globo.com
+  - priscila-me@hotmail.com
+  - wpvjr@terra.com.br
+  - priscilladuda.ps@gmail.com
+Federal Status: REGULAR
+Renda: 1020
+Income Bracket: 2
+Cbo: 513435
+Endereço:
+  Tipo: AVENIDA
+  Rua: BRASILIANA
+  Bairro: PARQUE ALVORADA
+  Cidade: SUZANO
+  Estado: SAO PAULO
+  CEP: 08655-040
+All Addresses: (12 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: BRASILIANA
+    Bairro: PARQUE ALVORADA
+    Cidade: SUZANO
+    Estado: SAO PAULO
+    CEP: 08655-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BRASILIANA
+    Número: 731
+    Bairro: PQ ALVORADA
+    Cidade: SUZANO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: BRASILIANA
+    Tipo: AV
+    Número: 731
+    Bairro: PRQ ALVORADA
+    Cidade: SUZANO
+    Estado: SP
+    CEP: 08655-040
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOAO PAULO ABLAS
+    Tipo: AV
+    Número: 731
+    Bairro: JD DA GLORIA
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06711-250
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: BRASIL
+    Tipo: AV
+    Número: SN
+    Complemento: C
+    Bairro: CALMON VIANA
+    Cidade: POA
+    Estado: SP
+    CEP: 08560-010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: JOAO PAULO ABLAS
+    Tipo: AV
+    Número: 1764
+    Complemento: ED 1 AP 101 A
+    Bairro: JD DA GLORIA
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06711-250
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: MAZEL
+    Número: 0000625
+    Bairro: PARQUE SAO GEORGE
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06708-235
+    Fonte: ASSECC
+  [8]
+    Tipo: JOAO PAULO ABLAS
+    Rua: [empty]
+    Número: 0001764
+    Bairro: JARDIM DA GLORIA
+    Cidade: SP
+    Estado: COTIA
+    CEP: 00671-150
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: [empty]
+    Bairro: [empty]
+    Cidade: SP
+    Estado: [empty]
+    CEP: 00000-000
+    Fonte: ASSECC
+  [10]
+    Tipo: BRASILIANA
+    Rua: AV
+    Número: 0000731
+    Bairro: PARQUE ALVORADA
+    Cidade: SP
+    Estado: SUZANO
+    CEP: 08655-040
+    Fonte: ASSECC
+  [11]
+    Tipo: AVENIDA
+    Rua: AV JOAO PAULO ABLAS 1764 BL 1
+    Número: 1764
+    Complemento: APT 101 A
+    Bairro: JARDIM DA GLORIA
+    Cidade: COTIA
+    Estado: SP
+    Fonte: NET
+  [12]
+    Rua: AV JOAO PAULO ABLAS
+    Número: 1764
+    Complemento: COND ANDORINHAS AP 101 A
+    Bairro: JARDIM DA GLORIA
+    Estado: SP
+    CEP: 06711-250
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: VW
+      Modelo: QUANTUM 2000 MI
+      Ano: 1997
+Telefones: (8 item(s))
+  - (11) 97231-9082
+  - (11) 97950-1371
+  - (11) 98490-7684
+  - (11) 94156-7027
+  - (11) 98603-7726
+  - (11) 4388-4279
+  - (11) 97576-3285
+  - (11) 4731-0579
+Datasus Phones: (1 item(s))
+  - (11) 4747-1449
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 701809262575675
+Rg Issue Date: 1332298800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/09/2019
+    Info Date: 21/12/2008
+    Rg Issuer: SSP
+    Mosaic: F19
+    Mosaic New: E18
+    Mosaic Secondary: H27
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: BRASILIANA
+      Número: 731
+      Bairro: PRQ ALVORADA
+      Cidade: SUZANO
+      Estado: SP
+      CEP: 08655-040
+      Date Added: 09/12/2014
+    [2]
+      Tipo: AV
+      Rua: JOAO PAULO ABLAS
+      Número: 731
+      Bairro: JD DA GLORIA
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06711-250
+      Date Added: 24/04/2018
+    [3]
+      Tipo: AV
+      Rua: BRASIL
+      Número: SN
+      Complemento: C
+      Bairro: CALMON VIANA
+      Cidade: POA
+      Estado: SP
+      CEP: 08560-010
+      Date Added: 09/12/2014
+    [4]
+      Tipo: AV
+      Rua: JOAO PAULO ABLAS
+      Número: 1764
+      Complemento: ED 1 AP 101 A
+      Bairro: JD DA GLORIA
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06711-250
+      Date Added: 05/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 979501371
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+    [2]
+      Telefone: 975763285
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 05/04/2018
+    [3]
+      Telefone: 984907684
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 47310579
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 10/10/2018
+      Info Date: 22/09/2016
+    [5]
+      Telefone: 941567027
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/10/2018
+  E-mails: (7 item(s))
+    [1]
+      E-mail: pri_nasto@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [2]
+      E-mail: priscilathecrazy@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+    [3]
+      E-mail: priscillathecrazy@hotmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 09/09/2016
+    [4]
+      E-mail: priscilla-me@hotmail.com
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [5]
+      E-mail: pripsico@globo.com
+      Priority: 5
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [6]
+      E-mail: priscila-me@hotmail.com
+      Priority: 6
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [7]
+      E-mail: wpvjr@terra.com.br
+      Priority: 7
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 19/09/2016
+  Score:
+    CSB8: 422
+    CSB8 FAIXA: MEDIO
+    CSBA: 482
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: PEDRINA DA SILVA PINTO
+      Vinculo: MAE
+  Pis: 13603795775
+  Tse:
+    Titulo: 316932490132
+    Zona: 181
+    Secao: 102
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 428.116.108-20
+    Nome: TATIANE MORAIS DOS SANTOS
+    Logradouro: BRASILIANA
+    Número: 947
+    Bairro: PRQ ALVORADA
+  [2]
+    CPF: 331.950.948-94
+    Nome: ROSILAINE CAETANO FROES
+    Logradouro: BRASILIANA
+    Número: 696
+    Bairro: PRQ ALVORADA
+  [3]
+    CPF: 129.737.048-12
+    Nome: SERGIO ALVES DOS SANTOS
+    Logradouro: BRASILIANA
+    Número: 890
+    Bairro: PRQ ALVORADA
+  [4]
+    CPF: 089.018.608-13
+    Nome: JOAO DELFINO DOS SANTOS FILHO
+    Logradouro: BRASILIANA
+    Número: 917
+    Bairro: PRQ ALVORADA
+  [5]
+    CPF: 169.067.078-92
+    Nome: LEONOR FATIMA NUNES ESPANGUER
+    Logradouro: BRASILIANA
+    Número: 315
+    Bairro: PRQ ALVORADA
+  [6]
+    CPF: 269.921.988-66
+    Nome: NEUZA RODRIGUES DE SOUZA
+    Logradouro: BRASILIANA
+    Número: 315
+    Bairro: PRQ ALVORADA
+  [7]
+    CPF: 332.074.218-30
+    Nome: CAMILA DA SILVA VARKONYI FERREIRA
+    Logradouro: BRASILIANA
+    Número: 696
+    Bairro: PRQ ALVORADA
+  [8]
+    CPF: 050.638.478-03
+    Nome: CICERO VICENTE DE LIMA
+    Logradouro: BRASILIANA
+    Número: 696
+    Bairro: PRQ ALVORADA
+  [9]
+    CPF: 317.114.718-10
+    Nome: ELVIS WILLIANS DA FONSECA
+    Logradouro: BRASILIANA
+    Número: 1050
+    Bairro: PRQ ALVORADA
+  [10]
+    CPF: 903.581.988-87
+    Nome: GERALDO PEDRO DOS SANTOS
+    Logradouro: BRASILIANA
+    Número: 557
+    Bairro: PRQ ALVORADA
+  [11]
+    CPF: 050.422.961-31
+    Nome: VALDIR GOMES DA SILVA
+    Logradouro: BRASILIANA
+    Número: 315
+    Bairro: PRQ ALVORADA
+  [12]
+    CPF: 247.624.818-58
+    Nome: LIDIANE FERREIRA VALENTE
+    Logradouro: BRASILIANA
+    Número: 733
+    Bairro: PRQ ALVORADA
+  [13]
+    CPF: 365.738.168-62
+    Nome: JOYCE CIPRIANO VICTURINO
+    Logradouro: BRASILIANA
+    Número: 890
+    Bairro: PRQ ALVORADA
+  [14]
+    CPF: 094.452.858-91
+    Nome: FABRICIO DE OLIVEIRA
+    Logradouro: BRASILIANA
+    Número: 1035
+    Bairro: PRQ ALVORADA
+  [15]
+    CPF: 022.393.848-32
+    Nome: DELVINA MARIGUELA SHINGAI
+    Logradouro: BRASILIANA
+    Número: 733
+    Bairro: PRQ ALVORADA
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (11) 97950-1371
+    Nome: PRISCILA SOARES
+    Cidade: COTIA
+    UF: SP
+  [2]
+    Telefone: (11) 94156-7027
+    Nome: PRISCILA  SOARES
+    Cidade: SP
+    UF: COTIA
+  [3]
+    Telefone: (11) 98603-7726
+    Nome: PRISCILA SOARES
+    Cidade: SP
+    UF: [empty]
+  [4]
+    Telefone: (11) 97231-9082
+    Nome: PRISCILA SOARES
+    Cidade: SP
+    UF: SUZANO
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (11) 98603-7726
+    Nome: PRISCILA SOARES
+    Cidade: SUZANO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 97950-1371
+    Nome: PRISCILA SOARES
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [3]
+    Telefone: (11) 4388-4279
+    Nome: PRISCILA SOARES
+    Cidade: SUZANO
+    UF: SP
+    Operadora: EMBRATEL - SP
+    Fonte: algar
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 8628947
+    Operadora: 567
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 01/08/2017
+    Tempo Base: 37
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201708
+    Geo:
+      Ibge Municipio: 3513009
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 21/12/1984
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 6363
+      Classe Social: B2
+      Score: 693
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 828
+        Net: 827
+        Ctv: 876
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 670 - 884
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXO
+        Risco Ctv: BAIXISSIMO
+        Idade: 36
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 94156-7027
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 19/08/2019
+    Valor Fatura: 34.99
+    Mes Referencia: 202009
+E-mails: (8 item(s))
+  - pri_nasto@yahoo.com.br
+  - priscilathecrazy@hotmail.com
+  - priscillathecrazy@hotmail.com
+  - priscilla-me@hotmail.com
+  - pripsico@globo.com
+  - priscila-me@hotmail.com
+  - wpvjr@terra.com.br
+  - priscilladuda.ps@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1020
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Media Familiar:
+    Valor: 6363
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 97950-1371
+    Ddd: 11
+    Número: 979501371
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+  [2]
+    Telefone: (11) 97576-3285
+    Ddd: 11
+    Número: 975763285
+    Tipo: 3
+    Data Inclusao: 05/04/2018
+    Classificacao: C2
+  [3]
+    Telefone: (11) 98490-7684
+    Ddd: 11
+    Número: 984907684
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A0
+  [4]
+    Telefone: (11) 4731-0579
+    Ddd: 11
+    Número: 47310579
+    Tipo: FIXO
+    Data Inclusao: 10/10/2018
+    Data Informacao: 22/09/2016
+    Classificacao: B
+  [5]
+    Telefone: (11) 94156-7027
+    Ddd: 11
+    Número: 941567027
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: A0
+Occupation Code: 421125
+Occupation Name: Operador de caixa
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

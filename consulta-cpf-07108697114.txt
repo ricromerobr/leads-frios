@@ -1,0 +1,266 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  07108697114
+Data/Hora:  03/10/2026, 22:41:19
+Tempo API:  725ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 071.086.971-14
+Nome: LUANA PADILHA FERREIRA
+Primeiro Nome: LUANA
+Sobrenome: FERREIRA
+Sexo: Feminino
+Data de Nascimento: 24/04/1999
+Nome da Mãe: IDAZIMA PADILHA FLORENCIO FERREIRA
+Nome do Pai: JEFERSON OJEDA FERREIRA
+Score:
+  Value: 588
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 734
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MONTE CASTELO
+  Número: 2240
+  Complemento: CS 2
+  Bairro: JARDIM SAO PEDRO
+  Cidade: DOURADOS
+  Estado: MATO GROSSO DO SUL
+  CEP: 79810-060
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MONTE CASTELO
+    Número: 2240
+    Complemento: CS 2
+    Bairro: JARDIM SAO PEDRO
+    Cidade: DOURADOS
+    Estado: MATO GROSSO DO SUL
+    CEP: 79810-060
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ONOFRE PEREIRA DE MATOS
+    Tipo: R
+    Número: 6240
+    Bairro: CENTRO
+    Cidade: DOURADOS
+    Estado: MS
+    CEP: 79802-011
+    Data Atualizacao: 05/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: AV AV MARCELINO PIRES
+    Número: 6465
+    Bairro: VILA INDUSTRIAL
+    Estado: MS
+    CEP: 79840-630
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (67) 99875-9421
+  - (67) 3422-8717
+  - (67) 99679-8918
+  - (67) 99979-0933
+Cns: 709802035057397
+Race: PARDA
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 09/07/2019
+    Mosaic New: C08
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ONOFRE PEREIRA DE MATOS
+      Número: 6240
+      Bairro: CENTRO
+      Cidade: DOURADOS
+      Estado: MS
+      CEP: 79802-011
+      Date Added: 11/01/2017
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 34228717
+      Ddd: 67
+      Tipo: 1
+      Classificacao: C
+      Date Added: 11/01/2017
+      Info Date: 25/11/2016
+    [2]
+      Telefone: 996798918
+      Ddd: 67
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [3]
+      Telefone: 999790933
+      Ddd: 67
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  Score:
+    CSB8: 341
+    CSB8 FAIXA: MEDIO
+    CSBA: 588
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 734.48
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.861.538-97
+    Nome: SIDNEIS BENEDITO RIBEIRO
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 2598
+    Bairro: CENTRO
+  [2]
+    CPF: 483.405.029-72
+    Nome: JOAO MACHADO
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 6320
+    Bairro: CENTRO
+  [3]
+    CPF: 017.312.571-98
+    Nome: MARINA DUARTE SOUZA
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 5775
+    Bairro: CENTRO
+  [4]
+    CPF: 421.731.161-34
+    Nome: RONEY EDSON CAMPOS MINELLA
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 3277
+    Bairro: CENTRO
+  [5]
+    CPF: 614.424.101-91
+    Nome: AGUEDA ARANDA REGUERA
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 2163
+    Bairro: CENTRO
+  [6]
+    CPF: 324.270.180-15
+    Nome: MARIA DA GRACA HARTMANN
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 3039
+    Bairro: CENTRO
+  [7]
+    CPF: 289.636.871-04
+    Nome: BENEDITO RIBEIRO MENDES FILHO
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 2163
+    Bairro: CENTRO
+  [8]
+    CPF: 465.174.801-53
+    Nome: JUCELINO BATISTA DOS SANTOS
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 81005
+    Bairro: CENTRO
+  [9]
+    CPF: 045.304.521-90
+    Nome: BIANCA BARBOSA BARCELOS
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 3256
+    Bairro: CENTRO
+  [10]
+    CPF: 475.249.790-53
+    Nome: ELIANE APARECIDA DE VARGAS JAGMIN
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 2812
+    Bairro: CENTRO
+  [11]
+    CPF: 518.937.701-68
+    Nome: AUREA DA SILVA
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 2451
+    Bairro: CENTRO
+  [12]
+    CPF: 028.015.301-58
+    Nome: ANA CRISTINA VIEIRA
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 5820
+    Bairro: CENTRO
+  [13]
+    CPF: 446.017.511-87
+    Nome: EDSON DA SILVA ARAUJO
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 7410
+    Bairro: CENTRO
+  [14]
+    CPF: 025.793.731-52
+    Nome: SILVIO PEREIRA DOS SANTOS
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 5520
+    Bairro: CENTRO
+  [15]
+    CPF: 465.393.289-15
+    Nome: LUCIMARIA ESCHIPIO DA COSTA
+    Logradouro: ONOFRE PEREIRA DE MATOS
+    Número: 3052
+    Bairro: CENTRO
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (67) 99875-9421
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 06/05/2020
+    Valor Fatura: 64.99
+    Mes Referencia: 202009
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 734
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 734.48
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (67) 3422-8717
+    Ddd: 67
+    Número: 34228717
+    Tipo: FIXO
+    Data Inclusao: 11/01/2017
+    Data Informacao: 25/11/2016
+    Classificacao: C
+  [2]
+    Telefone: (67) 99679-8918
+    Ddd: 67
+    Número: 996798918
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [3]
+    Telefone: (67) 99979-0933
+    Ddd: 67
+    Número: 999790933
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

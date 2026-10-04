@@ -1,0 +1,438 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01235049612
+Data/Hora:  03/10/2026, 19:47:15
+Tempo API:  354ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 012.350.496-12
+Nome: EUDES MARINO OLIVEIRA
+Primeiro Nome: EUDES
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 26/08/1975
+Nome da Mãe: MARIA DAS GRACAS DA CRUZ SOARES
+Nome do Pai: WILTON OLIVEIRA E SILVA
+RG: 12065482
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MG
+Voter Id: 117482980264
+Mosaic: F20
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 513
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 1363
+Income Bracket: 2
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: AFONSO PENA
+  Bairro: CENTRO
+  Cidade: UNAI
+  Estado: MINAS GERAIS
+  CEP: 38610-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AFONSO PENA
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MINAS GERAIS
+    CEP: 38610-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EDUARDO RODRIGUES BARBOSA
+    Número: 153
+    Bairro: CENTRO
+    Cidade: UNAI - MG
+    Fonte: DATASUS
+  [3]
+    Rua: AFONSO PENA
+    Tipo: R
+    Número: 76
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-000
+    Data Atualizacao: 20/04/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: AFONSO PENA
+    Tipo: R
+    Número: 124
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE
+    Tipo: R
+    Número: 606
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-026
+    Data Atualizacao: 28/03/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: AFONSO PENA
+    Tipo: R
+    Número: 70
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38610-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: ALPINO JACINTO
+    Tipo: R
+    Número: 7
+    Bairro: STA LUZIA
+    Cidade: UNAI
+    Estado: MG
+    CEP: 38613-176
+    Data Atualizacao: 05/09/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: EDUARDO RODRIGUES BARBOSA
+    Número: 0000253
+    Bairro: CENTRO
+    Cidade: UNAI
+    Estado: MG
+    CEP: 03861-061
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (11) 96783-8345
+  - (11) 94686-4299
+  - (11) 96088-0445
+  - (38) 99940-4932
+  - (11) 98092-8795
+  - (38) 3676-5152
+  - (38) 3676-4932
+Datasus Phones: (1 item(s))
+  - (38) 99940-4932
+Cidade de Nascimento: UNAI - MG
+Cns: 704208755707381
+Rg Issue Date: 907210800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/05/2019
+    Info Date: 18/09/2007
+    Mosaic: F20
+    Mosaic New: H26
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: AFONSO PENA
+      Número: 76
+      Bairro: CENTRO
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-000
+      Date Added: 09/11/2010
+    [2]
+      Tipo: R
+      Rua: AFONSO PENA
+      Número: 124
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-000
+      Date Added: 20/10/2010
+    [3]
+      Tipo: R
+      Rua: JOSE
+      Número: 606
+      Bairro: CENTRO
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-026
+      Date Added: 27/03/2019
+    [4]
+      Tipo: R
+      Rua: AFONSO PENA
+      Número: 70
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38610-000
+      Date Added: 07/11/2011
+    [5]
+      Tipo: R
+      Rua: ALPINO JACINTO
+      Número: 7
+      Bairro: STA LUZIA
+      Cidade: UNAI
+      Estado: MG
+      CEP: 38613-176
+      Date Added: 27/06/2017
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 36765152
+      Ddd: 38
+      Tipo: 1
+      Classificacao: C
+      Date Added: 15/04/2010
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 36764932
+      Ddd: 38
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 06/03/2012
+    [3]
+      Telefone: 999404932
+      Ddd: 38
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 27/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: eudesmarino@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+  Score:
+    CSB8: 345
+    CSB8 FAIXA: MEDIO
+    CSBA: 513
+    CSBA FAIXA: MEDIO
+  Parentes: (15 item(s))
+    [1]
+      CPF: 6971874625
+      Nome: KASSIA JUNIA OLIVEIRA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 8978817610
+      Nome: GUILHERME AUGUSTO SOARES DE ARAUJO
+      Vinculo: PRIMA(O)
+    [3]
+      CPF: 511.725.856-87
+      Nome: ALVANI PEREIRA DA CRUZ
+      Vinculo: AVO
+    [4]
+      CPF: 547.697.286-20
+      Nome: MARIA DO ROSARIO SOARES
+      Vinculo: TIA(O)
+    [5]
+      CPF: 1353226697
+      Nome: FABIANE MARA OLIVEIRA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 157.304.506-30
+      Nome: JOSE EUSTAQUIO SOARES DA CRUZ
+      Vinculo: TIA(O)
+    [7]
+      CPF: 8065337651
+      Nome: DANYLO ANDRE OLIVEIRA
+      Vinculo: IRMA(O)
+    [8]
+      CPF: 687.901.636-72
+      Nome: MARIA DAS GRACAS DA CRUZ SOARES
+      Vinculo: MAE
+    [9]
+      CPF: 442.434.726-53
+      Nome: RAIMUNDO SOARES PEREIRA
+      Vinculo: TIA(O)
+    [10]
+      CPF: 5596544647
+      Nome: KENIA CONCEICAO OLIVEIRA DORNELAS
+      Vinculo: IRMA(O)
+    [11]
+      CPF: 6930924679
+      Nome: EULYS FERNANDO OLIVEIRA
+      Vinculo: IRMA(O)
+    [12]
+      CPF: 407.707.536-04
+      Nome: JOAQUIM HUMBERTO DA CRUZ SOARES
+      Vinculo: TIA(O)
+    [13]
+      CPF: 5605801694
+      Nome: MICHELLE MARIA SOARES DE ARAUJO
+      Vinculo: PRIMA(O)
+    [14]
+      CPF: 245995650
+      Nome: MARIA APARECIDA SOARES DE ARAUJO
+      Vinculo: TIA(O)
+    [15]
+      CPF: 4075992667
+      Nome: VIVIANE MARIA DAS DORES OLIVEIRA VIEIRA
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 939.34
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (1 item(s))
+  - eudesmarino@gmail.com
+E-mail: eudesmarino@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 470.388.376-72
+    Nome: ELIANA MARIA COIMBRA
+    Logradouro: JOAO NASCISIO
+    Número: 66
+    Bairro: CENTRO
+  [2]
+    CPF: 052.185.216-12
+    Nome: TATIANA HELENA DOS REIS
+    Logradouro: CELINA LISBOA FREDERICO
+    Número: 568
+  [3]
+    CPF: 052.185.366-44
+    Nome: TEREZINHA APARECIDA VIEIRA DE SOUSA
+    Logradouro: DAS OLARIA
+    Número: 1007
+    Bairro: UNAI
+  [4]
+    CPF: 450.506.436-00
+    Nome: ZENTENIR SOUSA MACHADO
+    Logradouro: NOVA
+    Número: 88
+  [5]
+    CPF: 051.752.646-80
+    Nome: LEONARDO COSTA LARA
+    Logradouro: JOSE
+    Número: 570
+  [6]
+    CPF: 051.747.626-60
+    Nome: EDIRLEI MARQUES FERREIRA
+    Logradouro: FORMOSA
+    Número: 1036
+  [7]
+    CPF: 051.682.186-52
+    Nome: DANILO BONIFACIO GOES
+    Logradouro: FRANCISCO RODRIGUES DA SILVA
+    Número: 187
+  [8]
+    CPF: 051.628.016-31
+    Nome: JOAO CESAR DOS SANTOS
+    Logradouro: JUVENCIO CORREIO
+    Número: 433
+    Bairro: JACILANDIA
+  [9]
+    CPF: 051.216.746-00
+    Nome: FRANCISCO LEITE DA SILVA
+    Logradouro: MARIA GAIA
+    Número: 27
+    Bairro: CACHOEIRA
+  [10]
+    CPF: 051.170.186-13
+    Nome: APARECIDA FAUSTINO RAMOS
+    Logradouro: CECILIO
+    Número: 177
+    Bairro: UNAI
+  [11]
+    CPF: 051.135.036-81
+    Nome: JOAQUIM JOSINEI LEAL DA SILVA
+    Logradouro: JOAO DAREL FILHO
+    Número: 106
+  [12]
+    CPF: 051.078.776-21
+    Nome: EDUINA DE SOUZA RIBEIRO
+    Logradouro: FELIX DE SOUSA
+    Número: 38
+    Bairro: CENTRO
+  [13]
+    CPF: 051.013.066-65
+    Nome: GERALDA PEREIRA DOS SANTOS
+    Logradouro: OLIMPIO GONZAGA
+    Número: 136
+  [14]
+    CPF: 050.843.616-83
+    Nome: RENATA DIAS DA SILVA
+    Logradouro: VINTE E UM DE ABRIL
+    Número: 790
+  [15]
+    CPF: 050.764.466-24
+    Nome: ISRAEL CICERO FERREIRA
+    Logradouro: ADELIO ALVES
+    Número: 113
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (38) 99940-4932
+    Nome: EUDES  MARINO OLIVEIRA
+    Cidade: UNAI
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (38) 99940-4932
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (38) 9940-4932
+    Plano: PF_CONTROLE
+    Data Instalacao: 16/06/2012
+    Valor Fatura: 67.48
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - eudesmarino@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1363
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 939.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (38) 3676-5152
+    Ddd: 38
+    Número: 36765152
+    Tipo: FIXO
+    Data Inclusao: 15/04/2010
+    Data Informacao: 31/12/2002
+    Classificacao: C
+  [2]
+    Telefone: (38) 3676-4932
+    Ddd: 38
+    Número: 36764932
+    Tipo: FIXO
+    Data Inclusao: 06/03/2012
+    Classificacao: D2
+  [3]
+    Telefone: (38) 99940-4932
+    Ddd: 38
+    Número: 999404932
+    Tipo: 3
+    Data Inclusao: 27/03/2019
+    Classificacao: A0
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,566 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  25838170867
+Data/Hora:  04/10/2026, 01:59:56
+Tempo API:  377ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 258.381.708-67
+Nome: SANDRA APARECIDA DUARTE GOMES
+Primeiro Nome: SANDRA
+Sobrenome: GOMES
+Sexo: Feminino
+Data de Nascimento: 01/04/1977
+Nome da Mãe: ELISETE ROSALINA DUARTE GOMES
+Nome do Pai: SEM INFORMAÇÃO
+RG: 307060135
+Rg Issuer: SSP
+Voter Id: 260369660175
+Mosaic: B05
+Ocupação: Gerente administrativo
+Score:
+  Value: 800
+  Range: BAIXISSIMO RISCO
+E-mail: sandra.duarte@ig.com.br
+Additional Emails: (5 item(s))
+  - sandra.duarte@ig.com.br
+  - san.duarte77@gmail.com
+  - sandra.ducarte@ig.com.br
+  - atendimento@tubearte.com
+  - SAN.DUARTE77@GMAIL.COM
+Federal Status: REGULAR
+Renda: 2618
+Income Bracket: 3
+Cbo: 142105
+Endereço:
+  Tipo: RUA
+  Rua: LOURENCO CARLETTO
+  Bairro: CIPAVA
+  Cidade: OSASCO
+  Estado: SAO PAULO
+  CEP: 06075-060
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LOURENCO CARLETTO
+    Bairro: CIPAVA
+    Cidade: OSASCO
+    Estado: SAO PAULO
+    CEP: 06075-060
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R LOUENCO CARLETTO
+    Número: 170
+    Bairro: JARDIM CIPAVA
+    Cidade: OSASCO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: AV. DR. CARLOS DE MORAES BARROS
+    Número: 253
+    Bairro: CAMPESINA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06023-000
+    Fonte: SARAIVA
+  [4]
+    Rua: LOURENCO CARLETTO
+    Tipo: R
+    Número: 170
+    Bairro: CIPAVA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06075-060
+    Data Atualizacao: 01/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: NARCISO STURLINI
+    Tipo: R
+    Número: 62
+    Bairro: CENTRO
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06018-090
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: ANTONIO CARLOS COSTA
+    Tipo: AV
+    Número: 82
+    Complemento: AP 54
+    Bairro: BELA VISTA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06053-903
+    Data Atualizacao: 16/10/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: LOURENCO CARLETTO
+    Número: 0000170
+    Bairro: CIPAVA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06075-060
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: LOURENCO CARLETTO
+    Número: 0000170
+    Bairro: CIPAVA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 00607-560
+    Fonte: ASSECC
+  [9]
+    Tipo: RUA
+    Rua: R LOURENCO CARLETTO  170
+    Número: 170
+    Bairro: CIPAVA
+    Cidade: OSASCO
+    Estado: SP
+    Fonte: NET
+  [10]
+    Tipo: R
+    Rua: PRIMITIVA VIANCO,DA|ED:1
+    Número: 145
+    Complemento: SL - Sala: 202;
+    Bairro: OSASCO
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06010-000
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: GM
+      Modelo: CORSA WIND
+      Ano: 1996
+    [2]
+      Marca: I
+      Modelo: CITROEN C4L THP A EXCL
+      Ano: 2017
+Telefones: (13 item(s))
+  - (11) 99121-2913
+  - (11) 9121-2913
+  - +55 (11) 99121-2913
+  - (11) 99733-2205
+  - (11) 96308-4038
+  - (11) 3688-2121
+  - (11) 3654-4678
+  - (11) 3683-1258
+  - (11) 98914-3423
+  - (11) 3591-1462
+  - (11) 99124-1553
+  - (11) 99108-8996
+  - (11) 94330-4138
+Cidade de Nascimento: INVALIDO
+Cns: 702401009724522
+Saraiva:
+  Customer Id: 10124673
+  Telefone: (11) 9121-2913
+  E-mail: sandra.duarte@ig.com.br
+  Data de Nascimento: 01/04/1977
+Paycom:
+  E-mail: san.duarte77@gmail.com
+  Created At: 2020-07-22 13:02:19
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Nossa Senhora de Fátima
+    Número: 223
+    Bairro: Centro
+    Cidade: Osasco
+    Estado: SP
+    País: BRA
+    CEP: 06086-000
+    Telephone: +55 (11) 99121-2913
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/01/2020
+    Info Date: 14/02/2009
+    Rg Issuer: SSP
+    Mosaic: B05
+    Mosaic New: C07
+    Mosaic Secondary: D09
+    Income Bracket Id: 4
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: LOURENCO CARLETTO
+      Número: 170
+      Bairro: CIPAVA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06075-060
+      Date Added: 11/12/2009
+    [2]
+      Tipo: R
+      Rua: NARCISO STURLINI
+      Número: 62
+      Bairro: CENTRO
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06018-090
+      Date Added: 28/08/2019
+    [3]
+      Tipo: AV
+      Rua: ANTONIO CARLOS COSTA
+      Número: 82
+      Complemento: AP 54
+      Bairro: BELA VISTA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06053-903
+      Date Added: 24/08/2006
+    [4]
+      Tipo: R
+      Rua: CARLOS MORAIS DE BARROS
+      Número: 253
+      Bairro: VL CAMPESINA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06023-000
+      Date Added: 13/04/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991212913
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 01/02/2007
+      Info Date: 15/10/2019
+    [2]
+      Telefone: 35911462
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 02/03/2009
+      Info Date: 01/08/2010
+    [3]
+      Telefone: 991241553
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 991088996
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 943304138
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: sandra.duarte@ig.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: sandra.ducarte@ig.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+    [3]
+      E-mail: atendimento@tubearte.com
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 06/04/2017
+  Score:
+    CSB8: 371
+    CSB8 FAIXA: MEDIO
+    CSBA: 800
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 394.178.528-17
+      Nome: AMANDA APARECIDA DUARTE GOMES DE OLIVEIRA
+      Vinculo: FILHA(O)
+    [2]
+      CPF: 218.546.608-96
+      Nome: ADRIANO DUARTE GOMES
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 475.918.624-72
+      Nome: ELISETE ROSALINA DUARTE GOMES
+      Vinculo: MAE
+  Pis: 12520302323
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2445.09
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 160.940.138-75
+    Nome: LUCIMARA RIBEIRO DE OLIVEIRA NEVES
+    Logradouro: LOURENCO CARLETTO
+    Número: 64
+    Bairro: CIPAVA
+  [2]
+    CPF: 103.126.878-26
+    Nome: ENALDO TAVARES VIEIRA
+    Logradouro: LOURENCO CARLETTO
+    Número: 196
+    Bairro: CIPAVA
+  [3]
+    CPF: 145.014.718-67
+    Nome: MARCELO FRANCISCO DE SOUZA
+    Logradouro: LOURENCO CARLETTO
+    Número: 131
+    Bairro: CIPAVA
+  [4]
+    CPF: 366.101.188-09
+    Nome: RICHARD PONTES FRANCO
+    Logradouro: LOURENCO CARLETTO
+    Número: 130
+    Bairro: CIPAVA
+  [5]
+    CPF: 114.352.178-10
+    Nome: GILBERTO GONCALVES
+    Logradouro: LOURENCO CARLETTO
+    Número: 41
+    Bairro: CIPAVA
+  [6]
+    CPF: 222.368.288-02
+    Nome: SONIA MARIA LUZINNETTE MAGALHAES
+    Logradouro: LOURENCO CARLETTO
+    Número: 28
+    Bairro: CIPAVA
+  [7]
+    CPF: 960.128.385-49
+    Nome: CARLOS EDUARDO DOS SANTOS
+    Logradouro: LOURENCO CARLETTO
+    Número: 41
+    Bairro: CIPAVA
+  [8]
+    CPF: 372.469.348-63
+    Nome: JOAO PAULO DA CRUZ SANTIAGO
+    Logradouro: LOURENCO CARLETTO
+    Número: 212
+    Bairro: CIPAVA
+  [9]
+    CPF: 281.196.798-22
+    Nome: SHEILA MACIEL
+    Logradouro: LOURENCO CARLETTO
+    Número: 222
+    Bairro: CIPAVA
+  [10]
+    CPF: 205.112.558-96
+    Nome: MIRELE CRISTINA PARO
+    Logradouro: LOURENCO CARLETTO
+    Número: 128
+    Bairro: CIPAVA
+  [11]
+    CPF: 009.260.148-03
+    Nome: ALONSO PEREIRA DA SILVA
+    Logradouro: LOURENCO CARLETTO
+    Número: 168
+    Bairro: CIPAVA
+  [12]
+    CPF: 200.936.718-90
+    Nome: MARIA JOSE MACIEL MOMI
+    Logradouro: LOURENCO CARLETTO
+    Número: 222
+    Bairro: CIPAVA
+  [13]
+    CPF: 096.718.798-29
+    Nome: IARA MARIA BELMONTE DE LEMOS
+    Logradouro: LOURENCO CARLETTO
+    Número: 157
+    Bairro: CIPAVA
+  [14]
+    CPF: 248.891.218-20
+    Nome: VERGINIO POCO
+    Logradouro: LOURENCO CARLETTO
+    Número: 44
+    Bairro: CIPAVA
+  [15]
+    CPF: 293.608.238-21
+    Nome: MONICA VIANA MININEL
+    Logradouro: LOURENCO CARLETTO
+    Número: 173
+    Bairro: CIPAVA
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (11) 99121-2913
+    Nome: SANDRA APARECIDA DUARTE GOMES
+    Cidade: OSASCO
+    UF: SP
+  [2]
+    Telefone: (11) 99733-2205
+    Nome: SANDRA APARECIDA DUARTE GOMES
+    Cidade: OSASCO
+    UF: SP
+  [3]
+    Telefone: (11) 96308-4038
+    Nome: SANDRA APARECIDA DUARTE GOMES
+    Cidade: OSASCO
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 43756343
+    Operadora: 924
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 28/02/2011
+    Tempo Base: 115
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201102
+    Geo:
+      Ibge Municipio: 3534401
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 01/04/1977
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 5435
+      Classe Social: B2
+      Score: 921
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 922
+        Net: 883
+        Ctv: 889
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 670 - 884
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXO
+        Risco Ctv: BAIXISSIMO
+        Idade: 43
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (11) 3654-4678
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 04JAN2018:16:05:23
+    Cel Contato: +5511991212913
+    Complemento: SL - Sala: 202;
+    Data Retirada: 21DEC2018:10:19:11
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 3683-1258
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 20NOV2018:13:08:16
+    Cel Contato: +5511991212913
+    Complemento: PI - Piso: 906;
+    Data Retirada: 08SEP2020:19:32:27
+    Tipo Cliente: Residencial
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 99121-2913
+    Nome: SANDRA APARECIDA DUARTE GOMES
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (11) 98914-3423
+    Nome: SANDRA APARECIDA DUARTE GOMES
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - sandra.duarte@ig.com.br
+  - san.duarte77@gmail.com
+  - sandra.ducarte@ig.com.br
+  - atendimento@tubearte.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2618
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2445.09
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 5435
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 99121-2913
+    Ddd: 11
+    Número: 991212913
+    Tipo: 3
+    Data Inclusao: 01/02/2007
+    Data Informacao: 15/10/2019
+    Classificacao: A0
+  [2]
+    Telefone: (11) 3591-1462
+    Ddd: 11
+    Número: 35911462
+    Tipo: FIXO
+    Data Inclusao: 02/03/2009
+    Data Informacao: 01/08/2010
+    Classificacao: C
+  [3]
+    Telefone: (11) 99124-1553
+    Ddd: 11
+    Número: 991241553
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 99108-8996
+    Ddd: 11
+    Número: 991088996
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 94330-4138
+    Ddd: 11
+    Número: 943304138
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 142105
+Occupation Name: Gerente administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

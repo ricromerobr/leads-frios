@@ -1,0 +1,332 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08682667797
+Data/Hora:  04/10/2026, 00:54:20
+Tempo API:  687ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 086.826.677-97
+Nome: FERNANDO SALES DE OLIVEIRA
+Primeiro Nome: FERNANDO
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 24/08/1979
+Nome da Mãe: LINEIA GALVAO SALES OLIVEIRA
+Mosaic: F20
+Ocupação: Trabalhador de serviços de limpeza e conservação de áreas públicas
+Score:
+  Value: 160
+  Range: ALTISSIMO
+E-mail: fernando.salles@globo.com
+Additional Emails: (1 item(s))
+  - fernando.salles@globo.com
+Federal Status: REGULAR
+Renda: 664
+Income Bracket: 1
+Cbo: 717020
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: ANTONIO PACHE DE FARIA 55
+  Bairro: PRQ VERA CRUZ
+  Cidade: CAMPOS DOS GOYTACAZES
+  Estado: RIO DE JANEIRO
+  CEP: 28060-270
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANTONIO PACHE DE FARIA 55
+    Bairro: PRQ VERA CRUZ
+    Cidade: CAMPOS DOS GOYTACAZES
+    Estado: RIO DE JANEIRO
+    CEP: 28060-270
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO PACHE DE FARIA
+    Tipo: R
+    Número: 55
+    Bairro: PRQ VERA CRUZ
+    Cidade: CAMPOS DOS GOYTACAZES
+    Estado: RJ
+    CEP: 28060-270
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: [empty]
+    Rua: ANTONIO PACHE DE FARIA
+    Número: 0000055
+    Bairro: PARQUE VERA CRUZ
+    Cidade: 02806070
+    Estado: RJ
+    Fonte: ASSECC
+  [4]
+    Rua: R ANTONIO PACHE DE FARIA
+    Número: 55
+    Bairro: PARQUE VERA CRUZ
+    Estado: RJ
+    CEP: 28060-270
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (22) 99885-3525
+  - (22) 99901-1793
+  - (22) 2733-8142
+  - (22) 99838-9880
+  - (22) 99958-7884
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Info Date: 01/12/2004
+    Mosaic: F20
+    Mosaic New: G24
+    Mosaic Secondary: G23
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO PACHE DE FARIA
+      Número: 55
+      Bairro: PRQ VERA CRUZ
+      Cidade: CAMPOS DOS GOYTACAZES
+      Estado: RJ
+      CEP: 28060-270
+      Date Added: 11/10/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 27338142
+      Ddd: 22
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 13/02/2008
+    [2]
+      Telefone: 998389880
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 998853525
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [4]
+      Telefone: 999011793
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [5]
+      Telefone: 999587884
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: fernando.salles@globo.com
+      Priority: 1
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 05/05/2017
+  Score:
+    CSB8: 138
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 160
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LINEIA GALVAO SALES DE OLIVEIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 683.63
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 135.407.117-40
+    Nome: SERGIO DE ALENCAR CAETANO JUNIOR
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 27
+    Bairro: PRQ VERA CRUZ
+  [2]
+    CPF: 026.952.347-24
+    Nome: ADRIANO PACHECO DE SOUZA GOMES
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 62
+    Bairro: PRQ VERA CRUZ
+  [3]
+    CPF: 007.309.017-42
+    Nome: MARIA APARECIDA OLIVEIRA TERRA
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 51
+    Bairro: PRQ VERA CRUZ
+  [4]
+    CPF: 001.976.317-46
+    Nome: LUIZA CRISTINA NUNES
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 39
+    Bairro: PRQ VERA CRUZ
+  [5]
+    CPF: 570.833.207-72
+    Nome: BENEDITO PEREIRA CAMPOS
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 8
+    Bairro: PRQ VERA CRUZ
+  [6]
+    CPF: 098.977.497-05
+    Nome: VERUZA DA SILVA CALIXTO
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 39
+    Bairro: PRQ VERA CRUZ
+  [7]
+    CPF: 017.648.227-06
+    Nome: ANA LIDIA CONCEICAO MACHADO BRAGA
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 11
+    Bairro: PRQ VERA CRUZ
+  [8]
+    CPF: 524.870.597-53
+    Nome: MARIA APDA FIDELIS NASCIMENTO MARQUES
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 83
+    Bairro: PRQ VERA CRUZ
+  [9]
+    CPF: 143.375.617-06
+    Nome: FELIPE PECANHA DE SOUZA
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 81
+    Bairro: PRQ VERA CRUZ
+  [10]
+    CPF: 104.070.937-02
+    Nome: JOSE RENATO DO NASCIMENTO SANTOS
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 233
+    Bairro: PRQ VERA CRUZ
+  [11]
+    CPF: 054.765.387-55
+    Nome: WEMBRENS DOS SANTOS SILVA
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 137
+    Bairro: PRQ VERA CRUZ
+  [12]
+    CPF: 525.103.877-15
+    Nome: JOSE CARLOS FERNANDES MACHADO
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 59
+    Bairro: PRQ VERA CRUZ
+  [13]
+    CPF: 106.676.187-67
+    Nome: SONIA DA SILVA ALVES
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 81
+    Bairro: PRQ VERA CRUZ
+  [14]
+    CPF: 130.308.317-52
+    Nome: TATIANE BRUNET FERREIRA
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 78
+    Bairro: PRQ VERA CRUZ
+  [15]
+    CPF: 699.845.657-34
+    Nome: EDMILSON GOMES DE LIMA
+    Logradouro: ANTONIO PACHE DE FARIA
+    Número: 68
+    Bairro: PRQ VERA CRUZ
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (22) 99885-3525
+    Nome: FERNANDO  SALES DE OLIVEIRA
+    Cidade: 02806070
+    UF: RJ
+  [2]
+    Telefone: (22) 99901-1793
+    Nome: FERNANDO SALES DE OLIVEIRA
+    Cidade: 28060270
+    UF: RJ
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (22) 99885-3525
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (22) 9885-3525
+    Plano: PF_CONTROLE
+    Data Instalacao: 07/05/2012
+    Valor Fatura: 1.4
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - fernando.salles@globo.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 664
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 683.63
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (22) 2733-8142
+    Ddd: 22
+    Número: 27338142
+    Tipo: FIXO
+    Data Inclusao: 13/02/2008
+    Classificacao: D2
+  [2]
+    Telefone: (22) 99838-9880
+    Ddd: 22
+    Número: 998389880
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (22) 99885-3525
+    Ddd: 22
+    Número: 998853525
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [4]
+    Telefone: (22) 99901-1793
+    Ddd: 22
+    Número: 999011793
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [5]
+    Telefone: (22) 99958-7884
+    Ddd: 22
+    Número: 999587884
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+Occupation Code: 514225
+Occupation Name: Trabalhador de serviços de limpeza e conservação de áreas públicas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

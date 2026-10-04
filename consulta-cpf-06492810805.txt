@@ -1,0 +1,340 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06492810805
+Data/Hora:  03/10/2026, 21:17:30
+Tempo API:  570ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 064.928.108-05
+Nome: AGNALDO DA SILVA
+Primeiro Nome: AGNALDO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 07/04/1965
+Nome da Mãe: HILDA SPINDOLA DA SILVA
+Voter Id: 078947890183
+Mosaic: D13
+Ocupação: Motorista de carro de passeio
+Score:
+  Value: 160
+  Range: ALTISSIMO
+E-mail: naldodasilva_7@outlook.com
+Additional Emails: (1 item(s))
+  - naldodasilva_7@outlook.com
+Federal Status: REGULAR
+Renda: 1229
+Income Bracket: 2
+Cbo: 782305
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO II
+  Bairro: RENATO GONCALVES
+  Cidade: BARREIRAS
+  Estado: BAHIA
+  CEP: 04780-606
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO II
+    Bairro: RENATO GONCALVES
+    Cidade: BARREIRAS
+    Estado: BAHIA
+    CEP: 04780-606
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JORGE HANSEN
+    Tipo: R
+    Número: 215
+    Complemento: 215
+    Bairro: JD S VICENTE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08021-510
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: YOLTZ UNGER MATTOS
+    Tipo: R
+    Número: 85
+    Bairro: HELENA MARIA
+    Cidade: OSASCO
+    Estado: SP
+    CEP: 06253-280
+    Data Atualizacao: 01/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: DA ASSEMBLEIA DE DEUS
+    Tipo: R
+    Número: 1068
+    Bairro: S MIGUEL
+    Cidade: BARREIRAS
+    Estado: BA
+    CEP: 47800-406
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: VW
+      Modelo: KOMBI
+      Ano: 1973
+Telefones: (6 item(s))
+  - (77) 99823-7821
+  - (11) 97372-7839
+  - (77) 99813-0696
+  - (11) 99460-7011
+  - (11) 96282-4256
+  - (11) 99829-1029
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 01/05/2019
+    Mosaic: D13
+    Mosaic New: G23
+    Mosaic Secondary: H26
+    Income Bracket Id: 2
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: JORGE HANSEN
+      Número: 215
+      Complemento: 215
+      Bairro: JD S VICENTE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08021-510
+      Date Added: 20/08/2018
+    [2]
+      Tipo: R
+      Rua: YOLTZ UNGER MATTOS
+      Número: 85
+      Bairro: HELENA MARIA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06253-280
+      Date Added: 30/03/2016
+    [3]
+      Tipo: R
+      Rua: DA ASSEMBLEIA DE DEUS
+      Número: 1068
+      Bairro: S MIGUEL
+      Cidade: BARREIRAS
+      Estado: BA
+      CEP: 47800-406
+      Date Added: 07/05/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 973727839
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 998130696
+      Ddd: 77
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [3]
+      Telefone: 994607011
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [4]
+      Telefone: 962824256
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 20/07/2017
+    [5]
+      Telefone: 998291029
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 01/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: naldodasilva_7@outlook.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 855
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 160
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: HILDA SPINDOLA DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1229.28
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 388.012.858-84
+    Nome: AHMAD GHAZI ANKA
+    Logradouro: JORGE HANSEN
+    Número: 88
+    Bairro: JD S VICENTE
+  [2]
+    CPF: 222.415.698-79
+    Nome: TIAGO ARAUJO VIEIRA
+    Logradouro: JORGE HANSEN
+    Número: 241
+    Bairro: JD S VICENTE
+  [3]
+    CPF: 254.514.048-10
+    Nome: APARECIDA DE FATIMA DOS SANTOS
+    Logradouro: JORGE HANSEN
+    Número: 38
+    Bairro: JD S VICENTE
+  [4]
+    CPF: 374.209.728-85
+    Nome: MAIRTA SILVA ARAUJO
+    Logradouro: JORGE HANSEN
+    Número: 238
+    Bairro: JD S VICENTE
+  [5]
+    CPF: 525.224.828-15
+    Nome: JOSE CARLOS DE ALMEIDA
+    Logradouro: JORGE HANSEN
+    Número: 88
+    Bairro: JD S VICENTE
+  [6]
+    CPF: 334.037.085-00
+    Nome: MANOEL BRITO DA SILVA
+    Logradouro: JORGE HANSEN
+    Número: 181
+    Bairro: JD S VICENTE
+  [7]
+    CPF: 287.984.338-30
+    Nome: ANELITA CAVALCANTE BATISTA
+    Logradouro: JORGE HANSEN
+    Número: 201
+    Bairro: JD S VICENTE
+  [8]
+    CPF: 127.819.648-08
+    Nome: DIRCE GOMES DE MEDEIROS
+    Logradouro: JORGE HANSEN
+    Número: 20
+    Bairro: JD S VICENTE
+  [9]
+    CPF: 294.965.558-02
+    Nome: LUCIANO APARECIDO DE OLIVEIRA
+    Logradouro: JORGE HANSEN
+    Número: SN
+    Bairro: JD S VICENTE
+  [10]
+    CPF: 046.775.118-88
+    Nome: SUZANA BARBOSA DOS SANTOS
+    Logradouro: JORGE HANSEN
+    Número: 63
+    Bairro: JD S VICENTE
+  [11]
+    CPF: 176.317.548-02
+    Nome: MARIA CLEUZA DA SILVA
+    Logradouro: JORGE HANSEN
+    Número: 151
+    Bairro: JD S VICENTE
+  [12]
+    CPF: 168.945.398-20
+    Nome: MALVINA RABAQUIM DE MOURA
+    Logradouro: JORGE HANSEN
+    Número: 235
+    Bairro: JD S VICENTE
+  [13]
+    CPF: 376.881.348-70
+    Nome: SAMUEL ARAUJO PEREIRA
+    Logradouro: JORGE HANSEN
+    Número: 241
+    Bairro: JD S VICENTE
+  [14]
+    CPF: 193.528.438-00
+    Nome: SILVANA RODRIGUES LOPES
+    Logradouro: JORGE HANSEN
+    Número: 223
+    Bairro: JD S VICENTE
+  [15]
+    CPF: 417.678.868-29
+    Nome: FILIPE DE SOUSA SILVA
+    Logradouro: JORGE HANSEN
+    Número: 181
+    Bairro: JD S VICENTE
+E-mails: (1 item(s))
+  - naldodasilva_7@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1229
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1229.28
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 97372-7839
+    Ddd: 11
+    Número: 973727839
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (77) 99813-0696
+    Ddd: 77
+    Número: 998130696
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [3]
+    Telefone: (11) 99460-7011
+    Ddd: 11
+    Número: 994607011
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (11) 96282-4256
+    Ddd: 11
+    Número: 962824256
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: A2
+  [5]
+    Telefone: (11) 99829-1029
+    Ddd: 11
+    Número: 998291029
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: C
+Occupation Code: 782305
+Occupation Name: Motorista de carro de passeio
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

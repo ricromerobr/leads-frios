@@ -1,0 +1,303 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  43199170811
+Data/Hora:  04/10/2026, 14:05:17
+Tempo API:  754ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 431.991.708-11
+Nome: LAIANE CAROLINE SILVA CUNHA
+Primeiro Nome: LAIANE
+Sobrenome: CUNHA
+Sexo: Feminino
+Data de Nascimento: 09/01/1995
+Score:
+  Value: 887
+  Range: BAIXISSIMO RISCO
+E-mail: lai.caroline@hotmail.com
+Additional Emails: (2 item(s))
+  - lai.caroline@hotmail.com
+  - laiane.caroline@outlook.com
+Federal Status: REGULAR
+Renda: 1046
+Income Bracket: 2
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: SAMUEL SABATINI
+  Número: 50
+  Bairro: CENTRO
+  Cidade: SAO BERNARDO DO CAMPO
+  Estado: SAO PAULO
+  CEP: 09750-901
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SAO PAULO
+    CEP: 09750-901
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RITA MENDES DE OLIVEIRA
+    Tipo: R
+    Número: 166
+    Bairro: ALVARENGA
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09854-310
+    Data Atualizacao: 10/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: [empty]
+    Rua: [empty]
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (11) 96134-5913
+  - (11) 96448-6511
+  - +55 (11) 96448-6511
+  - (11) 96740-4884
+  - (11) 4358-2509
+  - (11) 96414-6511
+Paycom:
+  E-mail: laiane.caroline@outlook.com
+  Data de Nascimento: 09/01/1995
+  Created At: 2021-07-11 19:42:46
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua rosa de saron
+    Número: 39
+    Complemento: Casa
+    Bairro: Jardim Ipe
+    Cidade: São Bernardo do Campo
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 96448-6511
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/09/2019
+    Mosaic New: C08
+    Mosaic Secondary: D13
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: PC
+      Rua: SAMUEL SABATINI
+      Número: 50
+      Bairro: CENTRO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09750-901
+      Date Added: 29/08/2017
+    [2]
+      Tipo: R
+      Rua: RITA MENDES DE OLIVEIRA
+      Número: 166
+      Bairro: ALVARENGA
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09854-310
+      Date Added: 29/08/2017
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 967404884
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/03/2015
+    [2]
+      Telefone: 43582509
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 27/07/2017
+      Info Date: 06/07/2017
+    [3]
+      Telefone: 964146511
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 10/09/2019
+      Info Date: 04/09/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: lai.caroline@hotmail.com
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/07/2017
+  Score:
+    CSB8: 612
+    CSB8 FAIXA: BAIXO
+    CSBA: 887
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1046.03
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 149.254.568-65
+    Nome: ANTONIO ALEX ANDREZA DA SILVA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [2]
+    CPF: 297.622.218-50
+    Nome: MARCELO VERGILIO DE OLIVEIRA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [3]
+    CPF: 030.841.098-00
+    Nome: FERNANDO DOS SANTOS MENDES
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [4]
+    CPF: 253.685.998-38
+    Nome: MIRIANE SILVA ROCHA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [5]
+    CPF: 804.316.408-82
+    Nome: IVANILDE ALVES
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [6]
+    CPF: 299.035.133-72
+    Nome: SIDINEY VIEIRA ROCHA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [7]
+    CPF: 421.368.658-20
+    Nome: ALCI DE ALMEIDA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [8]
+    CPF: 318.326.458-78
+    Nome: ERICA NASCIMENTO DE JESUS TRINDADE
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [9]
+    CPF: 253.003.208-46
+    Nome: SANDRA MARIA DO NASCIMENTO FELIX
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [10]
+    CPF: 059.478.208-20
+    Nome: TSUGUIO IDE
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [11]
+    CPF: 427.081.348-25
+    Nome: BIANCA MIRANDA SILVA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [12]
+    CPF: 061.113.718-60
+    Nome: APARECIDA BERNARDETE LEITE
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [13]
+    CPF: 195.984.698-16
+    Nome: RUTE COELHO MOREIRA
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [14]
+    CPF: 337.873.958-49
+    Nome: JOAO AMERICO DE ANDRADE MARTINS
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+  [15]
+    CPF: 012.062.268-89
+    Nome: OSCAR NOYAMA PINHAL
+    Logradouro: SAMUEL SABATINI
+    Número: 50
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96448-6511
+    Nome: LAIANE CAROLINE SILVA CUNHA
+    Cidade: [empty]
+    UF: SP
+E-mails: (2 item(s))
+  - lai.caroline@hotmail.com
+  - laiane.caroline@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1046
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1046.03
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 96740-4884
+    Ddd: 11
+    Número: 967404884
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: A0
+  [2]
+    Telefone: (11) 4358-2509
+    Ddd: 11
+    Número: 43582509
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Data Informacao: 06/07/2017
+    Classificacao: A2
+  [3]
+    Telefone: (11) 96414-6511
+    Ddd: 11
+    Número: 964146511
+    Tipo: 3
+    Data Inclusao: 10/09/2019
+    Data Informacao: 04/09/2019
+    Classificacao: A0
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

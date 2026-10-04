@@ -1,0 +1,235 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  46516037850
+Data/Hora:  03/10/2026, 19:12:45
+Tempo API:  546ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 465.160.378-50
+Nome: JOANA BEATRIZ DOS SANTOS ARAUJO
+Primeiro Nome: JOANA
+Sobrenome: ARAUJO
+Sexo: Feminino
+Data de Nascimento: 18/10/1999
+Nome da Mãe: ANGELA CRISTINA DOS SANTOS ARAUJO
+Nome do Pai: ADAILSON DA SILVA ARAUJO
+Score:
+  Value: 306
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 444
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: ASTOLPHINA DUARTE DO PATEO
+  Número: 37
+  Bairro: JD UMARIZAL
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05756-200
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ASTOLPHINA DUARTE DO PATEO
+    Número: 37
+    Bairro: JD UMARIZAL
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05756-200
+    Fonte: PRINCIPAL
+  [2]
+    Rua: IDA ROMUSSI GASPARINETTI
+    Número: 376
+    Bairro: PARQUE LAGUNA
+    Cidade: TABOAO DA SERRA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ASTOLPHINA DUARTE DO PATEO
+    Número: 37
+    Bairro: JARDIM UMARIZAL
+    Estado: SP
+    CEP: 05756-200
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 708301211277760
+Paycom:
+  E-mail: joanab_s@hotmail.com
+  Data de Nascimento: 18/10/1999
+  Created At: 2020-10-25 15:52:52
+E-mail: joanab_s@hotmail.com
+Additional Emails: (1 item(s))
+  - joanab_s@hotmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Rua Astolphina Duarte do Páteo
+    Número: 37
+    Complemento: Casa
+    Bairro: Jardim Umarizal
+    Cidade: São Paulo
+    Estado: SP
+    País: BRA
+    CEP: 05756-200
+    Telephone: +55 (11) 94158-6669
+Telefones: (2 item(s))
+  - +55 (11) 94158-6669
+  - (11) 94158-6669
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Mosaic New: C08
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ASTOLPHINA DUARTE DO PATEO
+      Número: 37
+      Bairro: JD UMARIZAL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05756-200
+      Date Added: 05/04/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 306
+    CSBA FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 444.39
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 042.387.288-58
+    Nome: EDELVINA MEIRA DE AZEVEDO VIRGILIO
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 99
+    Bairro: JD UMARIZAL
+  [2]
+    CPF: 369.579.558-18
+    Nome: PAULO RICARDO SOUZA SILVESTRE
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 99
+    Bairro: JD UMARIZAL
+  [3]
+    CPF: 265.798.358-85
+    Nome: EDER DIAS DE ANDRADE
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 12
+    Bairro: JD UMARIZAL
+  [4]
+    CPF: 205.874.518-31
+    Nome: MARIA DO CARMO REIS SILVA
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 7
+    Bairro: JD UMARIZAL
+  [5]
+    CPF: 226.573.588-45
+    Nome: RAUL RAMOS DA SILVA
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 386
+    Bairro: JD UMARIZAL
+  [6]
+    CPF: 282.357.918-46
+    Nome: DENIS PILAO MOREIRA
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 89
+    Bairro: JD UMARIZAL
+  [7]
+    CPF: 114.192.838-80
+    Nome: MARCELO CARLOS DE CARVALHO
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 112
+    Bairro: JD UMARIZAL
+  [8]
+    CPF: 058.080.918-88
+    Nome: MONICA APARECIDA MARCHESIN
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 31
+    Bairro: JD UMARIZAL
+  [9]
+    CPF: 273.042.563-20
+    Nome: FRANCISCA MAGALHAES DE SOUSA
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 99
+    Bairro: JD UMARIZAL
+  [10]
+    CPF: 153.964.738-27
+    Nome: REINALDO REIS ALVES
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 7
+    Bairro: JD UMARIZAL
+  [11]
+    CPF: 019.139.315-01
+    Nome: MARCILENE FERREIRA BONFIM
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 25
+    Bairro: JD UMARIZAL
+  [12]
+    CPF: 111.367.798-84
+    Nome: EDUARDO SOUSA PADRAO
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 82
+    Bairro: JD UMARIZAL
+  [13]
+    CPF: 399.082.081-87
+    Nome: ADEMAR DE SOUZA FILHO
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 14
+    Bairro: JD UMARIZAL
+  [14]
+    CPF: 230.503.918-20
+    Nome: GABRIELLA RICARTE DE MIRANDA
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 95
+    Bairro: JD UMARIZAL
+  [15]
+    CPF: 200.832.118-53
+    Nome: ANTONIO JOAO DAMACENO
+    Logradouro: ASTOLPHINA DUARTE DO PATEO
+    Número: 26
+    Bairro: JD UMARIZAL
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 94158-6669
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 30DEC2013
+    Ultima Recarga: 10SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 24/12/2013
+E-mails: (1 item(s))
+  - joanab_s@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 444
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 444.39
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

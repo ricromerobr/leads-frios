@@ -1,0 +1,447 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01286574641
+Data/Hora:  04/10/2026, 14:41:35
+Tempo API:  695ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 012.865.746-41
+Nome: LUCIENE RODRIGUES SANTANA
+Primeiro Nome: LUCIENE
+Sobrenome: SANTANA
+Sexo: Feminino
+Data de Nascimento: 07/10/1982
+Nome da Mãe: MARIA DA PENHA RODRIGUES
+Nome do Pai: JOSE ANASTACIO RODRIGUES
+Voter Id: 144521430213
+Mosaic: F18
+Ocupação: Escriturário de banco
+Score:
+  Value: 647
+  Range: BAIXO
+E-mail: lualanisinha@yahoo.com.br
+Additional Emails: (3 item(s))
+  - lualanisinha@yahoo.com.br
+  - lucienerodriguessantana@gmail.com
+  - luciene_psicilogia@hotmail.com
+Federal Status: REGULAR
+Renda: 17450
+Income Bracket: 8
+Cbo: 351810
+Endereço:
+  Tipo: RUA
+  Rua: FAUSTINO ASSUMPCAO
+  Número: 195
+  Complemento: BL B AP
+  Bairro: ME GERTRUDES
+  Cidade: BELO HORIZONTE
+  Estado: MINAS GERAIS
+  CEP: 30518-250
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FAUSTINO ASSUMPCAO
+    Número: 195
+    Complemento: BL B AP
+    Bairro: ME GERTRUDES
+    Cidade: BELO HORIZONTE
+    Estado: MINAS GERAIS
+    CEP: 30518-250
+    Fonte: PRINCIPAL
+  [2]
+    Rua: IÇANA
+    Número: 157
+    Bairro: NOVA SUISSA
+    Cidade: BELO HORIZONTE - MG
+    Fonte: DATASUS
+  [3]
+    Rua: INACIO
+    Tipo: R
+    Número: 8
+    Complemento: BC DAS FLORES
+    Bairro: VISTA ALEGRE
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30512-570
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DAS CAMELIAS
+    Tipo: R
+    Número: 70
+    Complemento: AP 204
+    Bairro: NOVA SUISSA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30421-236
+    Data Atualizacao: 01/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: AMARO
+    Tipo: R
+    Número: 235
+    Bairro: BEATRIZ
+    Cidade: CONTAGEM
+    Estado: MG
+    CEP: 32040-070
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: GARRET
+    Tipo: R
+    Número: 345
+    Complemento: AP 601
+    Bairro: NOVA GRANADA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30431-355
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: ICANA
+    Número: 0000157
+    Bairro: NOVA SUISSA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30421-305
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (31) 99664-2329
+  - (31) 99361-8451
+  - +55 (31) 99664-2329
+  - (31) 3321-3877
+  - (31) 3386-4625
+  - (31) 3392-6593
+Datasus Phones: (2 item(s))
+  - (31) 3277-7042
+  - (21) 2105-0000
+Cidade de Nascimento: BELO HORIZONTE - MG
+Cns: 700303936364437
+Paycom:
+  E-mail: lucienerodriguessantana@gmail.com
+  Data de Nascimento: 07/10/1982
+  Created At: 2017-04-05 16:08:50
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Içana
+    Número: 157
+    Complemento: Apto 201
+    Bairro: Nova Suíssa
+    Cidade: Belo Horizonte
+    Estado: MG
+    País: BRA
+    CEP: 30421-305
+    Telephone: +55 (31) 99664-2329
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 26/09/2019
+    Info Date: 12/07/2008
+    Mosaic: F18
+    Mosaic New: E17
+    Mosaic Secondary: A02
+    Income Bracket Id: 12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: INACIO
+      Número: 8
+      Complemento: BC DAS FLORES
+      Bairro: VISTA ALEGRE
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30512-570
+      Date Added: 11/10/2006
+    [2]
+      Tipo: R
+      Rua: FAUSTINO ASSUMPCAO
+      Número: 195
+      Complemento: BL B AP
+      Bairro: ME GERTRUDES
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30518-250
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: DAS CAMELIAS
+      Número: 70
+      Complemento: AP 204
+      Bairro: NOVA SUISSA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30421-236
+      Date Added: 03/10/2016
+    [4]
+      Tipo: R
+      Rua: AMARO
+      Número: 235
+      Bairro: BEATRIZ
+      Cidade: CONTAGEM
+      Estado: MG
+      CEP: 32040-070
+      Date Added: 13/12/2011
+    [5]
+      Tipo: R
+      Rua: GARRET
+      Número: 345
+      Complemento: AP 601
+      Bairro: NOVA GRANADA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30431-355
+      Date Added: 05/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33213877
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+    [2]
+      Telefone: 33864625
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [3]
+      Telefone: 33926593
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 24/10/2011
+    [4]
+      Telefone: 993618451
+      Ddd: 31
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 996642329
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 01/02/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: lualanisinha@yahoo.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: luciene_psicilogia@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 416
+    CSB8 FAIXA: MEDIO
+    CSBA: 647
+    CSBA FAIXA: BAIXO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 2844138608
+      Nome: ANDREIA APARECIDA RODRIGUES
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 4336890641
+      Nome: GILBERTO RODRIGUES
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 1182733611
+      Nome: LUCINEA RODRIGUES SOUSA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 2662864613
+      Nome: MARIA DA PENHA RODRIGUES
+      Vinculo: MAE
+  Pis: 12678820094
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 15665.45
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.762.136-30
+    Nome: CLAUDECI JOSE AVELINO
+    Logradouro: INACIO
+    Número: 80
+    Bairro: VISTA ALEGRE
+  [2]
+    CPF: 042.622.996-78
+    Nome: SANDRA MARIA GALDINO
+    Logradouro: INACIO
+    Número: 90
+    Bairro: VISTA ALEGRE
+  [3]
+    CPF: 032.259.026-40
+    Nome: GEOVANE DE JESUS PINTO
+    Logradouro: INACIO
+    Número: 91
+    Bairro: VISTA ALEGRE
+  [4]
+    CPF: 059.158.866-80
+    Nome: CASSIA ALVES GONCALVES RUAS
+    Logradouro: INACIO
+    Número: 115
+    Bairro: VISTA ALEGRE
+  [5]
+    CPF: 121.666.096-43
+    Nome: DIENE APARECIDA DE SOUSA FERREIRA
+    Logradouro: INACIO
+    Número: 59
+    Bairro: VISTA ALEGRE
+  [6]
+    CPF: 013.032.786-77
+    Nome: MANOEL PEREIRA DA SILVA
+    Logradouro: INACIO
+    Número: 305
+    Bairro: VISTA ALEGRE
+  [7]
+    CPF: 009.533.676-14
+    Nome: CARLOS DA SILVA VENTURA
+    Logradouro: INACIO
+    Número: 70
+    Bairro: VISTA ALEGRE
+  [8]
+    CPF: 059.488.206-02
+    Nome: TATIANA OLEGARIO DOS SANTOS
+    Logradouro: INACIO
+    Número: 330
+    Bairro: VISTA ALEGRE
+  [9]
+    CPF: 104.250.006-13
+    Nome: JARDEL ALVES CAMPOS
+    Logradouro: INACIO
+    Número: 35
+    Bairro: VISTA ALEGRE
+  [10]
+    CPF: 062.696.166-11
+    Nome: RUTILEIA OLIVEIRA DA SILVA ALVES
+    Logradouro: INACIO
+    Número: 325
+    Bairro: VISTA ALEGRE
+  [11]
+    CPF: 061.895.736-73
+    Nome: JACO PINHEIRO E SILVA
+    Logradouro: INACIO
+    Número: 34
+    Bairro: VISTA ALEGRE
+  [12]
+    CPF: 081.084.106-14
+    Nome: DOLORES PATRICIA FAUSTINO
+    Logradouro: INACIO
+    Número: 12
+    Bairro: VISTA ALEGRE
+  [13]
+    CPF: 064.880.086-50
+    Nome: FLAVIO ALAN MONTEIRO
+    Logradouro: INACIO
+    Número: 34
+    Bairro: VISTA ALEGRE
+  [14]
+    CPF: 954.994.236-87
+    Nome: SUELY TOMAZ DIAS
+    Logradouro: INACIO
+    Número: 465
+    Bairro: VISTA ALEGRE
+  [15]
+    CPF: 069.076.536-30
+    Nome: LEANDRO CARLOS DA SILVA
+    Logradouro: INACIO
+    Número: 97
+    Bairro: VISTA ALEGRE
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (31) 99664-2329
+    Nome: LUCIENE APARECIDA RODRIGUES
+    Cidade: BELO HORIZONTE
+    UF: MG
+E-mails: (3 item(s))
+  - lualanisinha@yahoo.com.br
+  - lucienerodriguessantana@gmail.com
+  - luciene_psicilogia@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 17450
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 15665.45
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (31) 3321-3877
+    Ddd: 31
+    Número: 33213877
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Classificacao: D2
+  [2]
+    Telefone: (31) 3386-4625
+    Ddd: 31
+    Número: 33864625
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [3]
+    Telefone: (31) 3392-6593
+    Ddd: 31
+    Número: 33926593
+    Tipo: FIXO
+    Data Inclusao: 24/10/2011
+    Classificacao: D2
+  [4]
+    Telefone: (31) 99361-8451
+    Ddd: 31
+    Número: 993618451
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C2
+  [5]
+    Telefone: (31) 99664-2329
+    Ddd: 31
+    Número: 996642329
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: A0
+Occupation Code: 413225
+Occupation Name: Escriturário de banco
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

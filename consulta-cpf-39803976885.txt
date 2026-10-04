@@ -1,0 +1,311 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  39803976885
+Data/Hora:  03/10/2026, 18:51:20
+Tempo API:  550ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 398.039.768-85
+Nome: BRUNA DE CASTRO NUNES
+Primeiro Nome: BRUNA
+Sobrenome: NUNES
+Sexo: Feminino
+Data de Nascimento: 05/07/1989
+Nome da Mãe: IZABEL FEITOSA DE ACSTRO NUNES
+Voter Id: 370392190116
+Mosaic: F20
+Ocupação: Administrador
+Score:
+  Value: 729
+  Range: BAIXISSIMO RISCO
+E-mail: plinioazulegista@hotmail.com
+Additional Emails: (2 item(s))
+  - plinioazulegista@hotmail.com
+  - pliniovanci@hotmail.com
+Federal Status: REGULAR
+Renda: 590
+Income Bracket: 1
+Cbo: 331110
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MANOEL DAS NEVES
+  Número: 181
+  Bairro: RES MANABU MABE
+  Cidade: LINS
+  Estado: SAO PAULO
+  CEP: 16403-510
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MANOEL DAS NEVES
+    Número: 181
+    Bairro: RES MANABU MABE
+    Cidade: LINS
+    Estado: SAO PAULO
+    CEP: 16403-510
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOAQUIM FRANCISCO VALENTE
+    Tipo: R
+    Número: 596
+    Complemento: A
+    Bairro: JD TANGARA
+    Cidade: LINS
+    Estado: SP
+    CEP: 16402-300
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 4
+  List: (4 item(s))
+    [1]
+      Marca: VW
+      Modelo: SAVEIRO 1.6 CE
+      Ano: 2012
+    [2]
+      Marca: VW
+      Modelo: GOL CL
+      Ano: 1991
+    [3]
+      Marca: HONDA
+      Modelo: CG 125 FAN ES
+      Ano: 2009
+    [4]
+      Marca: HONDA
+      Modelo: CIVIC LXS
+      Ano: 2006
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Info Date: 28/04/2008
+    Mosaic: F20
+    Mosaic New: G24
+    Mosaic Secondary: G23
+    Income Bracket Id: 3
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAQUIM FRANCISCO VALENTE
+      Número: 596
+      Complemento: A
+      Bairro: JD TANGARA
+      Cidade: LINS
+      Estado: SP
+      CEP: 16402-300
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: MANOEL DAS NEVES
+      Número: 181
+      Bairro: RES MANABU MABE
+      Cidade: LINS
+      Estado: SP
+      CEP: 16403-510
+      Date Added: 13/04/2010
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 35323765
+      Ddd: 14
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+      Info Date: 04/04/2011
+    [2]
+      Telefone: 996962188
+      Ddd: 14
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 996836851
+      Ddd: 14
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 25/01/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: pliniovanci@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [2]
+      E-mail: plinioazulegista@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 504
+    CSB8 FAIXA: BAIXO
+    CSBA: 729
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: IZABEL FEITOSA DE ACSTRO NUNES
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1752.15
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Telefones: (3 item(s))
+  - (14) 3532-3765
+  - (14) 99696-2188
+  - (14) 99683-6851
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 019.124.329-94
+    Nome: MARCOS PACHECO
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 504
+    Bairro: JD TANGARA
+  [2]
+    CPF: 342.757.498-98
+    Nome: ALESSANDRA BUENO DA SILVA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 744
+    Bairro: JD TANGARA
+  [3]
+    CPF: 058.049.976-61
+    Nome: VILMAR ANTONIO DA SILVA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 744
+    Bairro: JD TANGARA
+  [4]
+    CPF: 076.295.264-40
+    Nome: MARIA DE FATIMA DE SOUSA BARBOSA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 745
+    Bairro: JD TANGARA
+  [5]
+    CPF: 191.559.318-20
+    Nome: ROSIMEIRE GUEDES DE ALMEIDA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 454
+    Bairro: JD TANGARA
+  [6]
+    CPF: 191.558.818-90
+    Nome: ANGELA MARIA DE OLIVEIRA SOUZA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 395
+    Bairro: JD TANGARA
+  [7]
+    CPF: 293.354.658-28
+    Nome: MARIA ANTONIA AGUILERA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 320
+    Bairro: JD TANGARA
+  [8]
+    CPF: 277.382.808-91
+    Nome: NILZA DE CAMPOS
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 505
+    Bairro: JD TANGARA
+  [9]
+    CPF: 283.661.538-94
+    Nome: SILEIDE DE LOURDES CARVALHO ALVES
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 577
+    Bairro: JD TANGARA
+  [10]
+    CPF: 481.396.468-06
+    Nome: JHONATA RAFAEL QUINTINO SOUZA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 394
+    Bairro: JD TANGARA
+  [11]
+    CPF: 342.757.498-98
+    Nome: ALESSANDRA BUENO DA SILVA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 780
+    Bairro: JD TANGARA
+  [12]
+    CPF: 351.936.768-80
+    Nome: MARCOS ANTONIO DOS SANTOS
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 385
+    Bairro: JD TANGARA
+  [13]
+    CPF: 298.293.028-57
+    Nome: RICARDO OLIVEIRA DE AMORIM
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 546
+    Bairro: JD TANGARA
+  [14]
+    CPF: 000.126.325-03
+    Nome: CINARA ROCHA SILVA PEREIRA
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 384
+    Bairro: JD TANGARA
+  [15]
+    CPF: 301.343.098-20
+    Nome: VALERIA MUNIZ MARQUES
+    Logradouro: JOAQUIM FRANCISCO VALENTE
+    Número: 404
+    Bairro: JD TANGARA
+E-mails: (2 item(s))
+  - plinioazulegista@hotmail.com
+  - pliniovanci@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 590
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1752.15
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (14) 3532-3765
+    Ddd: 14
+    Número: 35323765
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 04/04/2011
+    Classificacao: D2
+  [2]
+    Telefone: (14) 99696-2188
+    Ddd: 14
+    Número: 996962188
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (14) 99683-6851
+    Ddd: 14
+    Número: 996836851
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: A0
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

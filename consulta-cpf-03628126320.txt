@@ -1,0 +1,391 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03628126320
+Data/Hora:  02/10/2026, 16:22:46
+Tempo API:  773ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 036.281.263-20
+Nome: RAISA NUNES ECA DE QUEIROS
+Primeiro Nome: RAISA
+Sobrenome: QUEIROS
+Sexo: Feminino
+Data de Nascimento: 05/04/1990
+Nome da Mãe: KARLA BITTENCOURT NUNES
+Mosaic: F20
+Ocupação: Faxineiro
+Score:
+  Value: 170
+  Range: ALTISSIMO
+E-mail: RAISAQUEIROS@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 850
+Income Bracket: 1
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: VELEIROS
+  Número: 11
+  Bairro: ARACAGI
+  Cidade: SAO JOSE DE RIBAMAR
+  Estado: MARANHAO
+  CEP: 65110-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VELEIROS
+    Número: 11
+    Bairro: ARACAGI
+    Cidade: SAO JOSE DE RIBAMAR
+    Estado: MARANHAO
+    CEP: 65110-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LOURDES BERNARDES GARCIA
+    Tipo: R
+    Número: 37
+    Bairro: NOSSA SENHORA DAS GRACAS
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38402-122
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: MARIO MELO
+    Tipo: R
+    Número: 274
+    Complemento: D C D
+    Bairro: JD JORDAO
+    Cidade: JABOATAO DOS GUARARAPES
+    Estado: PE
+    CEP: 54315-100
+    Data Atualizacao: 06/05/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DOS VELEIROS
+    Tipo: R
+    Número: 11
+    Complemento: LT K
+    Bairro: CAMBOA
+    Cidade: SAO LUIS
+    Estado: MA
+    CEP: 65020-055
+    Data Atualizacao: 11/08/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: VELEIROS
+    Número: 0000011
+    Bairro: ARACAGY
+    Cidade: SAO LUIS
+    Estado: MA
+    CEP: 65068-550
+    Fonte: ASSECC
+  [6]
+    Tipo: R
+    Rua: VELEIROS
+    Número: 0000011
+    Bairro: ARACAGI
+    Cidade: SAO JOSE DE RIBAMAR
+    Estado: MA
+    CEP: 65110-000
+    Fonte: ASSECC
+  [7]
+    Tipo: [empty]
+    Rua: SEM ENDERECO
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: MA
+    CEP: 00000-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (98) 98103-7557
+  - (98) 98259-1281
+  - (98) 98712-8211
+  - (98) 3233-0363
+  - (98) 99908-0887
+  - (98) 99871-2821
+  - (98) 99968-3549
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 16/02/2019
+    Mosaic: F20
+    Mosaic New: H27
+    Mosaic Secondary: H29
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: LOURDES BERNARDES GARCIA
+      Número: 37
+      Bairro: NOSSA SENHORA DAS GRACAS
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38402-122
+      Date Added: 07/04/2014
+    [2]
+      Tipo: R
+      Rua: MARIO MELO
+      Número: 274
+      Complemento: D C D
+      Bairro: JD JORDAO
+      Cidade: JABOATAO DOS GUARARAPES
+      Estado: PE
+      CEP: 54315-100
+      Date Added: 28/02/2013
+    [3]
+      Tipo: R
+      Rua: DOS VELEIROS
+      Número: 11
+      Complemento: LT K
+      Bairro: CAMBOA
+      Cidade: SAO LUIS
+      Estado: MA
+      CEP: 65020-055
+      Date Added: 26/03/2013
+    [4]
+      Tipo: R
+      Rua: VELEIRO
+      Número: 11
+      Cidade: SAO JOSE DE RIBAMAR
+      Estado: MA
+      CEP: 65110-000
+      Date Added: 21/10/2012
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 987128211
+      Ddd: 98
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 32330363
+      Ddd: 98
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/04/2014
+    [3]
+      Telefone: 999080887
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [4]
+      Telefone: 998712821
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 11/08/2016
+    [5]
+      Telefone: 999683549
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: raisaqueiros@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 170
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: KARLA BITTENCOURT NUNES
+      Vinculo: MAE
+  Pis: 14299835944
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 355.77
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - raisaqueiros@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 771.598.616-04
+    Nome: ADILSON PEDRO FERREIRA
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 49
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [2]
+    CPF: 260.164.006-53
+    Nome: ERNESTINA CAETANO DE SOUSA BERNARDES
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 53
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [3]
+    CPF: 015.394.596-67
+    Nome: ADRIANO PINHEIRO DA CUNHA
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 83
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [4]
+    CPF: 031.227.161-19
+    Nome: RENATA FERNANDES DO NASCIMENTO
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 13
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [5]
+    CPF: 159.931.326-04
+    Nome: CELIO RESENDE PEREIRA
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 63
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [6]
+    CPF: 098.665.706-90
+    Nome: FAGNER CAETANO BERNARDES
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 53
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [7]
+    CPF: 297.276.690-34
+    Nome: GILBERTO GONCALVES DE VARGAS
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 13
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [8]
+    CPF: 076.585.826-62
+    Nome: MARIA NEDI PERES SANCHES
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 57
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [9]
+    CPF: 393.998.506-68
+    Nome: ADEMAR FERREIRA DOS SANTOS
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 21
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [10]
+    CPF: 360.687.056-68
+    Nome: MARIA JOSE TEIXEIRA VILHENA
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 83
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [11]
+    CPF: 595.847.346-87
+    Nome: MIRLAND MARCACINE MOREIRA
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 79
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [12]
+    CPF: 106.438.016-69
+    Nome: LIVIA BERIGO DE CARVALHO
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 57
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [13]
+    CPF: 191.414.166-00
+    Nome: ILDEFONSO MENDONCA
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 25
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [14]
+    CPF: 021.563.646-56
+    Nome: ALMIR APARECIDO DE CARVALHO FILHO
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 75
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [15]
+    CPF: 063.029.026-14
+    Nome: DEBORA BUIATTI
+    Logradouro: LOURDES BERNARDES GARCIA
+    Número: 25
+    Bairro: NOSSA SENHORA DAS GRACAS
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (98) 98712-8211
+    Nome: RAISA NUNES ECA DE QUEIROS
+    Cidade: SAO LUIS
+    UF: MA
+  [2]
+    Telefone: (98) 98259-1281
+    Nome: RAISA NUNES ECA DE QUEIROS
+    Cidade: SAO JOSE DE RIBAMAR
+    UF: MA
+  [3]
+    Telefone: (98) 98103-7557
+    Nome: RAISA NUNES ECA DE QUEIROS
+    Cidade: [empty]
+    UF: MA
+E-mails: (1 item(s))
+  - raisaqueiros@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 850
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 355.77
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (98) 98712-8211
+    Ddd: 98
+    Número: 987128211
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A2
+  [2]
+    Telefone: (98) 3233-0363
+    Ddd: 98
+    Número: 32330363
+    Tipo: FIXO
+    Data Inclusao: 07/04/2014
+    Classificacao: D
+  [3]
+    Telefone: (98) 99908-0887
+    Ddd: 98
+    Número: 999080887
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [4]
+    Telefone: (98) 99871-2821
+    Ddd: 98
+    Número: 998712821
+    Tipo: 3
+    Data Inclusao: 11/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (98) 99968-3549
+    Ddd: 98
+    Número: 999683549
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

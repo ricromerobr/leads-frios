@@ -1,0 +1,536 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  91778042953
+Data/Hora:  04/10/2026, 15:34:22
+Tempo API:  401ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 917.780.429-53
+Nome: JANAINA VANESSA DE CAMPOS SCHNEIDER
+Primeiro Nome: JANAINA
+Sobrenome: SCHNEIDER
+Sexo: Feminino
+Data de Nascimento: 09/03/1973
+Nome da Mãe: MARIA ELIZA DE OLIVEIRA CAMPOS
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 052269090647
+Mosaic: D11
+Ocupação: Produtor cultural
+Score:
+  Value: 232
+  Range: ALTO
+E-mail: tvvanessacampos@bol.com.br
+Additional Emails: (4 item(s))
+  - tvvanessacampos@bol.com.br
+  - campos.vanessa@uol.com.br
+  - vanessacampos99@yahoo.com.br
+  - vanessacampos.pr@gmail.com
+Federal Status: REGULAR
+Renda: 515
+Income Bracket: 1
+Cbo: 261715
+Endereço:
+  Tipo: RUA
+  Rua: COMTIPO CARACAS
+  Número: 377
+  Bairro: SANTA ROSA
+  Cidade: LONDRINA
+  Estado: PARANA
+  CEP: 08605-070
+All Addresses: (13 item(s))
+  [1]
+    Tipo: RUA
+    Rua: COMTIPO CARACAS
+    Número: 377
+    Bairro: SANTA ROSA
+    Cidade: LONDRINA
+    Estado: PARANA
+    CEP: 08605-070
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA LUIZ NATAL BONIN
+    Número: 580
+    Bairro: GRANVILLE PARQUE RE
+    Cidade: LONDRINA - PR
+    Fonte: DATASUS
+  [3]
+    Rua: HARRY PROCHET
+    Tipo: AV
+    Número: 305
+    Complemento: BX 59
+    Bairro: JD S JORGE
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86047-040
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: CARACAS
+    Tipo: R
+    Número: 500
+    Complemento: AP 1802 C BATLLO
+    Bairro: STA ROSA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86050-070
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: HIGIENOPOLIS
+    Tipo: AV
+    Número: 1100
+    Complemento: SL 31
+    Bairro: CENTRO
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86020-911
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: UGANDA
+    Tipo: R
+    Número: 588
+    Bairro: NACOES
+    Cidade: BALNEARIO CAMBORIU
+    Estado: SC
+    CEP: 88338-160
+    Data Atualizacao: 17/06/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: JULIO FUGANTI
+    Tipo: R
+    Número: 128
+    Complemento: 1
+    Bairro: BELA SUICA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86050-250
+    Data Atualizacao: 09/02/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: CARACAS
+    Número: 0000377
+    Bairro: SANTA ROSA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 08605-070
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: COMENDADOR JULIO FUGANTI
+    Número: 0000128
+    Bairro: BELA SUICA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86050-250
+    Fonte: ASSECC
+  [10]
+    Tipo: [empty]
+    Rua: CARACAS
+    Número: 0000277
+    Bairro: SANTA ROSA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 08605-070
+    Fonte: ASSECC
+  [11]
+    Tipo: R
+    Rua: LUIZ NATAL BONIN
+    Número: 0000580
+    Bairro: GRANVILLE PARQUE RESIDENCIAL
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86047-240
+    Fonte: ASSECC
+  [12]
+    Rua: CARACAS
+    Número: 277
+    Bairro: SANTA ROSA
+    Estado: PR
+    CEP: 86050-070
+    Fonte: VIVO_POS
+  [13]
+    Tipo: Q
+    Rua: SQSW 305 BL I
+    Complemento: APT 607
+    Bairro: SETOR SUDOESTE
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 70673-429
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (13 item(s))
+  - (61) 99885-1801
+  - (61) 99970-0903
+  - (43) 99138-1801
+  - (43) 99155-0903
+  - (47) 98803-2675
+  - (43) 99902-7257
+  - (48) 98849-2737
+  - (43) 9902-7257
+  - (61) 3257-1184
+  - (47) 99957-6297
+  - (47) 3360-0135
+  - (43) 3338-1919
+  - (43) 99900-8501
+Datasus Phones: (1 item(s))
+  - (43) 3342-4564
+Cidade de Nascimento: INVALIDO
+Cns: 707408052618477
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/08/2019
+    Info Date: 21/12/2008
+    Mosaic: D11
+    Mosaic New: A01
+    Mosaic Secondary: A02
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: HARRY PROCHET
+      Número: 305
+      Complemento: BX 59
+      Bairro: JD S JORGE
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86047-040
+      Date Added: 19/08/2015
+    [2]
+      Tipo: R
+      Rua: CARACAS
+      Número: 500
+      Complemento: AP 1802 C BATLLO
+      Bairro: STA ROSA
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86050-070
+      Date Added: 29/08/2017
+    [3]
+      Tipo: AV
+      Rua: HIGIENOPOLIS
+      Número: 1100
+      Complemento: SL 31
+      Bairro: CENTRO
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86020-911
+      Date Added: 08/12/2015
+    [4]
+      Tipo: R
+      Rua: UGANDA
+      Número: 588
+      Bairro: NACOES
+      Cidade: BALNEARIO CAMBORIU
+      Estado: SC
+      CEP: 88338-160
+      Date Added: 13/04/2010
+    [5]
+      Tipo: R
+      Rua: JULIO FUGANTI
+      Número: 128
+      Complemento: 1
+      Bairro: BELA SUICA
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86050-250
+      Date Added: 30/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 999576297
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 14/12/2004
+    [2]
+      Telefone: 33600135
+      Ddd: 47
+      Tipo: 2
+      Classificacao: C
+      Date Added: 03/08/2009
+      Info Date: 21/11/2012
+    [3]
+      Telefone: 33381919
+      Ddd: 43
+      Tipo: 1
+      Classificacao: B
+      Date Added: 20/08/2015
+      Info Date: 25/03/2015
+    [4]
+      Telefone: 999008501
+      Ddd: 43
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (3 item(s))
+    [1]
+      E-mail: campos.vanessa@uol.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2016
+    [2]
+      E-mail: tvvanessacampos@bol.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: vanessacampos99@yahoo.com.br
+      Priority: 3
+      Quality: PESSIMO
+      Personal: N
+      Blacklisted: S
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSBA: 232
+    CSBA FAIXA: ALTO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 869.352.409-72
+      Nome: MARIA ELIZA DE OLIVEIRA CAMPOS
+      Vinculo: MAE
+    [2]
+      CPF: 595.945.949-34
+      Nome: LUCIMARA APARECIDA CAMPOS CARRER
+      Vinculo: IRMA(O)
+  Tse:
+    Titulo: 52269090647
+    Zona: 42
+    Secao: 22
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 484.549.079-04
+    Nome: SANDRA DO NASCIMENTO SANTOS
+    Logradouro: HARRY PROCHET
+    Número: 1373
+    Bairro: JD S JORGE
+  [2]
+    CPF: 055.811.409-10
+    Nome: ZENEIDE DOS SANTOS FARIAS
+    Logradouro: HARRY PROCHET
+    Número: 677
+    Bairro: JD S JORGE
+  [3]
+    CPF: 036.013.289-84
+    Nome: WAGNER DONIZETE BRAGUIN
+    Logradouro: HARRY PROCHET
+    Número: 185
+    Bairro: JD S JORGE
+  [4]
+    CPF: 008.076.269-70
+    Nome: GISELE FAVORETTO DE OLIVEIRA
+    Logradouro: HARRY PROCHET
+    Número: 677
+    Bairro: JD S JORGE
+  [5]
+    CPF: 079.519.109-02
+    Nome: DIEGO CRISPIM
+    Logradouro: HARRY PROCHET
+    Número: 1270
+    Bairro: JD S JORGE
+  [6]
+    CPF: 115.697.359-72
+    Nome: ANGELO GUISLOTTI
+    Logradouro: HARRY PROCHET
+    Número: 1225
+    Bairro: JD S JORGE
+  [7]
+    CPF: 078.733.249-66
+    Nome: KERTILLA DE OLIVEIRA NANTES
+    Logradouro: HARRY PROCHET
+    Número: 1165
+    Bairro: JD S JORGE
+  [8]
+    CPF: 089.336.859-87
+    Nome: JOAO CARLOS MONTEIRO
+    Logradouro: HARRY PROCHET
+    Número: 325
+    Bairro: JD S JORGE
+  [9]
+    CPF: 069.907.958-67
+    Nome: TATIANA MALUF DE LIMA
+    Logradouro: HARRY PROCHET
+    Número: 1150
+    Bairro: JD S JORGE
+  [10]
+    CPF: 810.366.209-72
+    Nome: MARIA DO CARMO RUELLA
+    Logradouro: HARRY PROCHET
+    Número: 1373
+    Bairro: JD S JORGE
+  [11]
+    CPF: 042.930.119-78
+    Nome: NALINE TATIANE QUIROGA DELFINO
+    Logradouro: HARRY PROCHET
+    Número: 700
+    Bairro: JD S JORGE
+  [12]
+    CPF: 466.455.789-20
+    Nome: IODECEM VICENTE
+    Logradouro: HARRY PROCHET
+    Número: 305
+    Bairro: JD S JORGE
+  [13]
+    CPF: 473.945.798-91
+    Nome: MANOEL RUIZ
+    Logradouro: HARRY PROCHET
+    Número: 677
+    Bairro: JD S JORGE
+  [14]
+    CPF: 117.191.578-04
+    Nome: HELOISA CRISTINA LIMA DE OLIVEIRA
+    Logradouro: HARRY PROCHET
+    Número: 677
+    Bairro: JD S JORGE
+  [15]
+    CPF: 277.351.769-53
+    Nome: GILBERTO GERALDINO
+    Logradouro: HARRY PROCHET
+    Número: 305
+    Bairro: JD S JORGE
+Telefones Assecc: (7 item(s))
+  [1]
+    Telefone: (61) 99970-0903
+    Nome: JANAINA VANESSA CAMPOS SCHNEIDER
+    Cidade: LONDRINA
+    UF: PR
+  [2]
+    Telefone: (43) 99902-7257
+    Nome: JANAINA VANESSA DE CAMPOS SCHNIEDER
+    Cidade: LONDRINA
+    UF: PR
+  [3]
+    Telefone: (43) 99138-1801
+    Nome: JANAINA VANESSA  CAMPOS SCHNEIDER
+    Cidade: LONDRINA
+    UF: PR
+  [4]
+    Telefone: (43) 99155-0903
+    Nome: JANAINA VANESSA  CAMPOS SCHNEIDER
+    Cidade: LONDRINA
+    UF: PR
+  [5]
+    Telefone: (61) 99885-1801
+    Nome: JANAINA VANESSA CAMPOS SCHNEIDER
+    Cidade: LONDRINA
+    UF: PR
+  [6]
+    Telefone: (48) 98849-2737
+    Nome: JANAINA VANESSA DE CAMPOS
+    Cidade: LONDRINA
+    UF: PR
+  [7]
+    Telefone: (43) 9902-7257
+    Nome: JANAINA VANESSA DE CAMPOS SCHNIEDER
+    Cidade: LONDRINA
+    UF: PR
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (43) 99155-0903
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_POS_PURO
+    Data Instalacao: 07/05/2019
+    Valor Fatura: 279.8
+    Mes Referencia: 202010
+  [2]
+    Telefone: (43) 99138-1801
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_POS_PURO
+    Data Instalacao: 07/05/2019
+    Valor Fatura: 279.8
+    Mes Referencia: 202010
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (61) 3257-1184
+    Nome: JANAINA VANESSA DE CAMPOS SCHNEIDER
+    Cidade: BRASILIA
+    UF: DF
+    Operadora: EMBRATEL
+    Fonte: algar
+E-mails: (4 item(s))
+  - tvvanessacampos@bol.com.br
+  - campos.vanessa@uol.com.br
+  - vanessacampos99@yahoo.com.br
+  - vanessacampos.pr@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 515
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (47) 99957-6297
+    Ddd: 47
+    Número: 999576297
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 14/12/2004
+    Classificacao: D
+  [2]
+    Telefone: (47) 3360-0135
+    Ddd: 47
+    Número: 33600135
+    Tipo: CELULAR
+    Data Inclusao: 03/08/2009
+    Data Informacao: 21/11/2012
+    Classificacao: C
+  [3]
+    Telefone: (43) 3338-1919
+    Ddd: 43
+    Número: 33381919
+    Tipo: FIXO
+    Data Inclusao: 20/08/2015
+    Data Informacao: 25/03/2015
+    Classificacao: B
+  [4]
+    Telefone: (43) 99900-8501
+    Ddd: 43
+    Número: 999008501
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 262105
+Occupation Name: Produtor cultural
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

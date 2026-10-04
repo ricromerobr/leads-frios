@@ -1,0 +1,398 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  41034764861
+Data/Hora:  03/10/2026, 20:39:07
+Tempo API:  563ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 410.347.648-61
+Nome: PAMELA ALMEIDA AFONSO
+Primeiro Nome: PAMELA
+Sobrenome: AFONSO
+Sexo: Feminino
+Data de Nascimento: 16/01/1992
+Nome da Mãe: IRANILDE DOS ANJOS ALMEIDA
+Nome do Pai: JOSE WANDER AFONSO NETO
+Ocupação: Assistente administrativo
+Score:
+  Value: 319
+  Range: ALTO
+E-mail: pamella.almeida@icloud.com
+Additional Emails: (1 item(s))
+  - pamella.almeida@icloud.com
+Federal Status: REGULAR
+Renda: 1140
+Income Bracket: 2
+Cbo: 411010
+Endereço:
+  Tipo: RUA
+  Rua: ROSAS DE MAIO               48   BL 10 AP 4
+  Bairro: ALTOS DE VILA PRUDEN
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03978-760
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ROSAS DE MAIO               48   BL 10 AP 4
+    Bairro: ALTOS DE VILA PRUDEN
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03978-760
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SEM INFORMAÇÃO
+    Número: 1070
+    Bairro: VILA REGENTE FEIJO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: FELICE TOSI
+    Tipo: R
+    Número: 200
+    Complemento: AP 42 C
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03928-180
+    Data Atualizacao: 03/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FELICE TOSI
+    Tipo: R
+    Número: 42
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03928-180
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: RAGUEB CHOHFI
+    Tipo: PC
+    Número: 780
+    Complemento: C 4
+    Bairro: CENTRO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01022-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MIGUEL MOTA
+    Tipo: R
+    Número: 175
+    Complemento: CS A
+    Bairro: VL CANERO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03191-110
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: SOLAR DOS PINHEIROS
+    Tipo: R
+    Número: 383
+    Bairro: VL S NICOLAU
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03254-190
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Rua: R FELICE TOSI
+    Número: 0000200
+    Complemento: AP 42 C
+    Bairro: CONJUNTO HABITACIONAL TEOTONIO VILELA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03928-180
+    Fonte: BR21M
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: CHEVROLET
+      Modelo: ONIX 1.0MT LT
+      Ano: 2017
+Telefones: (5 item(s))
+  - (11) 99168-1557
+  - (11) 98535-3706
+  - (11) 99283-5980
+  - (11) 2012-8791
+  - (11) 2704-2707
+Datasus Phones: (1 item(s))
+  - (11) 2084-1447
+Cidade de Nascimento: INVALIDO
+Cns: 700301923480040
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/12/2019
+    Mosaic New: D09
+    Mosaic Secondary: C08
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: FELICE TOSI
+      Número: 200
+      Complemento: AP 42 C
+      Bairro: CJ HABITACIONAL TEOTONIO VILELA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03928-180
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: FELICE TOSI
+      Número: 42
+      Bairro: CJ HABITACIONAL TEOTONIO VILELA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03928-180
+      Date Added: 19/12/2014
+    [3]
+      Tipo: PC
+      Rua: RAGUEB CHOHFI
+      Número: 780
+      Complemento: C 4
+      Bairro: CENTRO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01022-040
+      Date Added: 30/04/2015
+    [4]
+      Tipo: R
+      Rua: MIGUEL MOTA
+      Número: 175
+      Complemento: CS A
+      Bairro: VL CANERO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03191-110
+      Date Added: 19/03/2015
+    [5]
+      Tipo: R
+      Rua: SOLAR DOS PINHEIROS
+      Número: 383
+      Bairro: VL S NICOLAU
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03254-190
+      Date Added: 07/01/2019
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 992835980
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 25/10/2012
+    [2]
+      Telefone: 20128791
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 18/03/2015
+    [3]
+      Telefone: 27042707
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/04/2017
+      Info Date: 28/02/2017
+    [4]
+      Telefone: 985353706
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: pamella.almeida@icloud.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 17/12/2018
+  Score:
+    CSB8: 411
+    CSB8 FAIXA: MEDIO
+    CSBA: 319
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 392.644.488-61
+      Nome: ADRIANA ALMEIDA AFONSO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 5056495867
+      Nome: JOSE WANDER AFONSO NETO
+      Vinculo: PAI
+    [3]
+      CPF: 728.624.594-53
+      Nome: IRANILDE DOS ANJOS ALMEIDA
+      Vinculo: MAE
+  Pis: 13809134936
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 128.931.048-35
+    Nome: IVONAIDE MACIEL DE MATOS
+    Logradouro: FELICE TOSI
+    Número: 42
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [2]
+    CPF: 128.883.938-32
+    Nome: ADAO SOUZA DE OLIVEIRA
+    Logradouro: FELICE TOSI
+    Número: 125
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [3]
+    CPF: 281.105.028-06
+    Nome: CLAUDIA MOURA DE JESUS
+    Logradouro: FELICE TOSI
+    Número: 16
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [4]
+    CPF: 168.270.728-86
+    Nome: ADILSON CARVALHO CAPELLETTE PORTO
+    Logradouro: FELICE TOSI
+    Número: 125
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [5]
+    CPF: 420.694.968-99
+    Nome: ALINE SILVA DE ALMEIDA
+    Logradouro: FELICE TOSI
+    Número: 12
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [6]
+    CPF: 425.143.648-25
+    Nome: ERICK ANUNCIACAO DOS SANTOS
+    Logradouro: FELICE TOSI
+    Número: 200
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [7]
+    CPF: 063.140.128-80
+    Nome: ALEXANDRE LEMBE
+    Logradouro: FELICE TOSI
+    Número: 185
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [8]
+    CPF: 171.253.528-55
+    Nome: ADILTON DA CRUZ SANTANA
+    Logradouro: FELICE TOSI
+    Número: 171
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [9]
+    CPF: 371.779.838-30
+    Nome: ALBIANE RODRIGUES BRITO
+    Logradouro: FELICE TOSI
+    Número: 185
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [10]
+    CPF: 421.875.088-20
+    Nome: PEDRO DE SOUSA ROCHA
+    Logradouro: FELICE TOSI
+    Número: 250
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [11]
+    CPF: 148.425.108-38
+    Nome: PAULO CESAR RODRIGUES
+    Logradouro: FELICE TOSI
+    Número: 25043
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [12]
+    CPF: 085.390.318-25
+    Nome: ROVILSON BENEDITO EMILIANO
+    Logradouro: FELICE TOSI
+    Número: 185
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [13]
+    CPF: 766.070.118-53
+    Nome: JACI BRITO ALMEIDA
+    Logradouro: FELICE TOSI
+    Número: 12554
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [14]
+    CPF: 149.164.548-20
+    Nome: FRANCISCA CELIA DE OLIVEIRA
+    Logradouro: FELICE TOSI
+    Número: 250
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+  [15]
+    CPF: 028.517.444-45
+    Nome: CARLOS DOS SANTOS GOMES
+    Logradouro: FELICE TOSI
+    Número: 6
+    Bairro: CJ HABITACIONAL TEOTONIO VILELA
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 98535-3706
+    Nome: PAMELA ALMEIDA AFONSO
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 99168-1557
+    Nome: PAMELA ALMEIDA AFONSO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - pamella.almeida@icloud.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1140
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (11) 99283-5980
+    Ddd: 11
+    Número: 992835980
+    Tipo: 3
+    Data Inclusao: 25/10/2012
+    Classificacao: A2
+  [2]
+    Telefone: (11) 2012-8791
+    Ddd: 11
+    Número: 20128791
+    Tipo: FIXO
+    Data Inclusao: 18/03/2015
+    Classificacao: D2
+  [3]
+    Telefone: (11) 2704-2707
+    Ddd: 11
+    Número: 27042707
+    Tipo: FIXO
+    Data Inclusao: 05/04/2017
+    Data Informacao: 28/02/2017
+    Classificacao: D2
+  [4]
+    Telefone: (11) 98535-3706
+    Ddd: 11
+    Número: 985353706
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 411010
+Occupation Name: Assistente administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

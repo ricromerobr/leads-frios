@@ -1,0 +1,267 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17426367134
+Data/Hora:  03/10/2026, 22:42:57
+Tempo API:  208ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 174.263.671-34
+Nome: ADAUTO BEZERRA DA SILVA
+Primeiro Nome: ADAUTO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 18/10/1958
+Nome da Mãe: MARIA FEITOZA DA SILVA
+Voter Id: 001936951961
+Mosaic: F23
+Score:
+  Value: 925
+  Range: BAIXISSIMO RISCO
+Death Date: 17/02/2020
+Federal Status: TITULAR FALECIDO
+Renda: 945
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: EQUADOR
+  Bairro: PARQUE DAS NACOES I
+  Cidade: DOURADOS
+  Estado: MATO GROSSO DO SUL
+  CEP: 79841-230
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EQUADOR
+    Bairro: PARQUE DAS NACOES I
+    Cidade: DOURADOS
+    Estado: MATO GROSSO DO SUL
+    CEP: 79841-230
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EQUADOR
+    Tipo: R
+    Número: 88
+    Bairro: PRQ DAS NACOES
+    Cidade: DOURADOS
+    Estado: MS
+    CEP: 79841-230
+    Data Atualizacao: 24/06/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: EQUADOR
+    Tipo: R
+    Número: 1426
+    Bairro: PRQ DAS NACOES
+    Cidade: DOURADOS
+    Estado: MS
+    CEP: 79841-230
+    Data Atualizacao: 15/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (67) 3424-8497
+  - (67) 3424-8657
+  - (67) 99957-7037
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Info Date: 12/04/2008
+    Mosaic: F23
+    Mosaic New: H25
+    Mosaic Secondary: H26
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: EQUADOR
+      Número: 88
+      Bairro: PRQ DAS NACOES
+      Cidade: DOURADOS
+      Estado: MS
+      CEP: 79841-230
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: EQUADOR
+      Número: 1426
+      Bairro: PRQ DAS NACOES
+      Cidade: DOURADOS
+      Estado: MS
+      CEP: 79841-230
+      Date Added: 24/03/2015
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 34248657
+      Ddd: 67
+      Tipo: 1
+      Classificacao: D
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 34248497
+      Ddd: 67
+      Tipo: 1
+      Classificacao: D
+      Date Added: 16/04/2009
+    [3]
+      Telefone: 999577037
+      Ddd: 67
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/04/2019
+  Score:
+    CSB8: 546
+    CSB8 FAIXA: BAIXO
+    CSBA: 925
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA FEITOZA DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1269.3
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 692.408.921-68
+    Nome: MARCIO LIMA DA ROCHA
+    Logradouro: EQUADOR
+    Número: 1357
+    Bairro: PRQ DAS NACOES
+  [2]
+    CPF: 027.358.341-74
+    Nome: ANA BEATRIZ BENITES LARANJEIRA
+    Logradouro: EQUADOR
+    Número: 620
+    Bairro: PRQ DAS NACOES
+  [3]
+    CPF: 636.640.541-72
+    Nome: ROSELI DE SOUZA SILVA
+    Logradouro: EQUADOR
+    Número: 1339
+    Bairro: PRQ DAS NACOES
+  [4]
+    CPF: 011.812.711-00
+    Nome: RONI MAICON DA SILVA
+    Logradouro: EQUADOR
+    Número: 1910
+    Bairro: PRQ DAS NACOES
+  [5]
+    CPF: 436.997.231-00
+    Nome: MARLI BELARMINO DA SILVA NASCIMENTO
+    Logradouro: EQUADOR
+    Número: 1424
+    Bairro: PRQ DAS NACOES
+  [6]
+    CPF: 945.671.901-49
+    Nome: MARCOS DOS SANTOS BRITO
+    Logradouro: EQUADOR
+    Número: 1835
+    Bairro: PRQ DAS NACOES
+  [7]
+    CPF: 977.885.381-91
+    Nome: ALEXANDRE VILELA VERAO
+    Logradouro: EQUADOR
+    Número: 1995
+    Bairro: PRQ DAS NACOES
+  [8]
+    CPF: 446.482.601-63
+    Nome: JOSE VIEIRA COSTA
+    Logradouro: EQUADOR
+    Número: 1630
+    Bairro: PRQ DAS NACOES
+  [9]
+    CPF: 475.453.131-00
+    Nome: WERNER HENSCHEL
+    Logradouro: EQUADOR
+    Número: 1406
+    Bairro: PRQ DAS NACOES
+  [10]
+    CPF: 585.473.988-72
+    Nome: ALMIR DA SILVA MARTINS
+    Logradouro: EQUADOR
+    Número: 2010
+    Bairro: PRQ DAS NACOES
+  [11]
+    CPF: 272.468.171-15
+    Nome: BERNARDINA SHIMURA COSTA
+    Logradouro: EQUADOR
+    Número: 1397
+    Bairro: PRQ DAS NACOES
+  [12]
+    CPF: 105.193.941-00
+    Nome: DIONISIO FERREIRA DA SILVA
+    Logradouro: EQUADOR
+    Número: 1335
+    Bairro: PRQ DAS NACOES
+  [13]
+    CPF: 061.679.104-64
+    Nome: ERIVALDO LAUDELINO DOS SANTOS
+    Logradouro: EQUADOR
+    Número: 1995
+    Bairro: PRQ DAS NACOES
+  [14]
+    CPF: 156.458.941-20
+    Nome: NARCISO RAIMUNDO DE SOUZA
+    Logradouro: EQUADOR
+    Número: 1351
+    Bairro: PRQ DAS NACOES
+  [15]
+    CPF: 637.073.301-68
+    Nome: JOSE ALVES RODRIGUES
+    Logradouro: EQUADOR
+    Número: 2020
+    Bairro: PRQ DAS NACOES
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 945
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1269.3
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (67) 3424-8657
+    Ddd: 67
+    Número: 34248657
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: D
+  [2]
+    Telefone: (67) 3424-8497
+    Ddd: 67
+    Número: 34248497
+    Tipo: FIXO
+    Data Inclusao: 16/04/2009
+    Classificacao: D
+  [3]
+    Telefone: (67) 99957-7037
+    Ddd: 67
+    Número: 999577037
+    Tipo: 3
+    Data Inclusao: 04/04/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

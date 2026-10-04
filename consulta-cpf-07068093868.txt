@@ -1,0 +1,1421 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  07068093868
+Data/Hora:  03/10/2026, 23:31:41
+Tempo API:  709ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 070.680.938-68
+Nome: LUIZ INACIO LULA DA SILVA
+Primeiro Nome: LUIZ
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 06/10/1945
+Nome da Mãe: EURIDICE FERREIRA DE MELO
+RG: 328309
+Rg Issuer: SSP
+Voter Id: 122418060191
+Mosaic: B05
+Ocupação: Artista (artes visuais)
+Score:
+  Value: 817
+  Range: BAIXISSIMO RISCO
+E-mail: 3445gf@yopmail.com
+Additional Emails: (51 item(s))
+  - 3445gf@yopmail.com
+  - vitor.ribeiro05@hotmail.com
+  - chupisco@hotmail.com
+  - kellyrose610@gmail.com
+  - danilsonjsilva@gmail.com
+  - eldermarcolino@gmail.com
+  - golosemass@gmail.com
+  - igor.carioni@gmail.com
+  - nininho625@hotmail.com
+  - nathannbk@outlook.com
+  - a41421356@outlook.com
+  - gilvar-2011@hotmail.com
+  - gustavocarpes1227@outlook.com
+  - heder.filho@hotmail.com
+  - medpharmax@hotmail.com
+  - victormms8@hotmail.com
+  - batosayhymuha@yahoo.com.br
+  - marilia1928@uol.com.br
+  - falusil@uol.com.br
+  - alin_guto@hotmail.com
+  - luizc823@gmail.com
+  - lula6565@gmail.com
+  - luladasilva0123@gmail.com
+  - runescapemember101@hotmail.com
+  - luizdedinho@brasil.com
+  - blackhole-100013964868228-1478018975@devnull.facebook.com
+  - luizinacio@presida.lko.kr
+  - auhauhauahauahu@tnc.com
+  - ayeskacardos08az@gmail.com
+  - joao_fla_pedro@hotmail.com
+  - kauanskc00@gmail.com
+  - mckodma@yahoo.com.br
+  - blogdastendencias@gmail.com
+  - ezequigamer81@gmail.com
+  - enricodamaro@gmail.com
+  - tinckamanda@gmail.com
+  - abedisalles@hotmail.com
+  - afonsomon@hotmail.com
+  - algameplays@outlook.com
+  - bataloca34@outlook.com
+  - dionvictor1@live.com
+  - frisonjr@outlook.com
+  - future_rox_157@hotmail.com
+  - gilvar-2013@hotmail.com
+  - gs095427@gmail.com
+  - guimo_sf@hotmail.com
+  - hamuraoficial@gmail.com
+  - igorbragasanto@gmail.com
+  - inaciooutlook@outlook.com
+  - israel_gv_@hotmail.com.br
+  - jcvsj@hotmail.com
+Federal Status: REGULAR
+Renda: 1394
+Income Bracket: 2
+Cbo: 514225
+Endereço:
+  Tipo: RUA
+  Rua: ALVARO MIRANDA
+  Bairro: PORTAL DAS TORRES
+  Cidade: MARINGA
+  Estado: PARANA
+  CEP: 87025-715
+All Addresses: (19 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ALVARO MIRANDA
+    Bairro: PORTAL DAS TORRES
+    Cidade: MARINGA
+    Estado: PARANA
+    CEP: 87025-715
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA ALMIR DUTRA
+    Número: 70
+    Complemento: CASA
+    Bairro: COQUEIRAL
+    Cidade: MARACANAU
+    Estado: CE
+    CEP: 61900-200
+    Fonte: SARAIVA
+  [3]
+    Rua: RIO DE JANEIRO
+    Tipo: R
+    Número: 1491
+    Cidade: CAPANEMA
+    Estado: PR
+    CEP: 85760-000
+    Data Atualizacao: 10/03/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ARCO IRIS
+    Tipo: R
+    Número: 89
+    Complemento: EMPREZA
+    Bairro: FELIPE CAMARAO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59074-310
+    Data Atualizacao: 22/10/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: FRANCISCO PRESTES MAIA
+    Tipo: AV
+    Número: 1501
+    Complemento: BL 1 AP 122 A
+    Bairro: CENTRO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09770-000
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DO MANDI
+    Tipo: ESTRADA MU
+    Número: 409
+    Bairro: MANDI
+    Cidade: ITAQUAQUECETUBA
+    Estado: SP
+    CEP: 08598-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: SANTOS
+    Tipo: AL
+    Número: 880
+    Complemento: AND 6
+    Bairro: CERQUEIRA CESAR
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01418-002
+    Data Atualizacao: 19/10/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: AV
+    Rua: CRUZEIRO DO SUL
+    Bairro: DIVINO ESPIRITO SANTO
+    Cidade: MINEIROS
+    Estado: GO
+    CEP: 75830-000
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: QNA 11
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: TAGUATINGA
+    Estado: DF
+    CEP: 72110-110
+    Fonte: ASSECC
+  [10]
+    Tipo: [empty]
+    Rua: CERES
+    Número: 0083636
+    Bairro: MINAS GERAIS
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38402-136
+    Fonte: ASSECC
+  [11]
+    Tipo: [empty]
+    Rua: FRANCISCO CIRILLO
+    Número: 0000010
+    Bairro: JARDIM HELENA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08090-620
+    Fonte: ASSECC
+  [12]
+    Tipo: AV
+    Rua: FRANCISCO PRESTE MAIA
+    Número: 0001501
+    Bairro: SANTA TEREZINHA
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09770-000
+    Fonte: ASSECC
+  [13]
+    Tipo: R
+    Rua: AVENIDA IGUATEMI 777
+    Número: 0005201
+    Bairro: VILA BRANDINA
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13092-902
+    Fonte: ASSECC
+  [14]
+    Rua: R ARCO IRIS
+    Número: 89
+    Bairro: FELIPE CAMARAO
+    Estado: ES
+    CEP: 59074-310
+    Fonte: VIVO_PRE
+  [15]
+    Rua: ARCO-IRIS
+    Número: S/N
+    Bairro: FELIPE CAMARAO
+    Estado: SP
+    CEP: 59074-310
+    Fonte: VIVO_PRE
+  [16]
+    Rua: SANDALIA MONZON
+    Número: 210
+    Complemento: . KITNET 26
+    Bairro: SANTA CANDIDA
+    Estado: MT
+    CEP: 82640-040
+    Fonte: VIVO_PRE
+  [17]
+    Rua: MANOEL DUVAL DE ANDRADE
+    Número: 33
+    Bairro: CENTRO
+    Estado: MG
+    CEP: 49600-000
+    Fonte: VIVO_PRE
+  [18]
+    Rua: RUA AL  D 79 C
+    Número: 79
+    Complemento: C
+    Bairro: LG AZUL
+    Estado: AM
+    CEP: 69018-415
+    Fonte: VIVO_PRE
+  [19]
+    Rua: RUA AVENIDA FRANCISCO PRESTES MAIA
+    Número: 1
+    Complemento: SOBRE LOJA
+    Bairro: CENTRO
+    Estado: MS
+    CEP: 09770-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: I
+      Modelo: FORD RANGER LTD CD4 32
+      Ano: 2013
+    [2]
+      Marca: FORD
+      Modelo: FORD F 1000
+      Ano: 1984
+    [3]
+      Marca: I
+      Modelo: GM OMEGA CD
+      Ano: 2010
+Telefones: (32 item(s))
+  - (11) 4335-4800
+  - (81) 98300-0056
+  - (63) 99117-5502
+  - (41) 98813-9112
+  - (11) 97671-2590
+  - (21) 98659-7371
+  - (85) 3371-4206
+  - (31) 8171-1711
+  - (64) 99612-9303
+  - (61) 98451-0169
+  - (61) 98451-0170
+  - (31) 99569-0822
+  - (11) 95976-8192
+  - (63) 99271-8991
+  - (19) 98927-6777
+  - (27) 99713-7030
+  - (11) 97188-9031
+  - (65) 99693-7164
+  - (38) 99969-0334
+  - (92) 99345-1143
+  - (67) 99994-8926
+  - (81) 98222-2186
+  - (94) 99216-5789
+  - (31) 98288-2286
+  - (21) 97604-6497
+  - (63) 99258-8499
+  - (62) 99574-3789
+  - (62) 99278-2621
+  - (61) 99296-1312
+  - (61) 99106-8566
+  - (44) 98852-2254
+  - (41) 98719-5709
+Saraiva:
+  Customer Id: 2381207
+  Telefone: (85) 3371-4206
+  E-mail: vitor.ribeiro05@hotmail.com
+  Data de Nascimento: 04/09/2000
+Paycom:
+  E-mail: chupisco@hotmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: rua do sobe e desce
+    Número: 171
+    Bairro: seu cu
+    Cidade: belo horizonte
+    Estado: Minas Gerais
+    País: Brasil
+    CEP: 31333-000
+    Telephone: (31) 8171-1711
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 28/09/2019
+    Info Date: 11/10/2008
+    Rg Issuer: SSP
+    Mosaic: B05
+    Mosaic New: E17
+    Mosaic Secondary: E16
+    Income Bracket Id: 5
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: RIO DE JANEIRO
+      Número: 1491
+      Cidade: CAPANEMA
+      Estado: PR
+      CEP: 85760-000
+      Date Added: 10/12/2009
+    [2]
+      Tipo: R
+      Rua: ARCO IRIS
+      Número: 89
+      Complemento: EMPREZA
+      Bairro: FELIPE CAMARAO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59074-310
+      Date Added: 10/12/2009
+    [3]
+      Tipo: AV
+      Rua: FRANCISCO PRESTES MAIA
+      Número: 1501
+      Complemento: BL 1 AP 122 A
+      Bairro: CENTRO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09770-000
+      Date Added: 09/12/2014
+    [4]
+      Tipo: ESTRADA MU
+      Rua: DO MANDI
+      Número: 409
+      Bairro: MANDI
+      Cidade: ITAQUAQUECETUBA
+      Estado: SP
+      CEP: 08598-000
+      Date Added: 09/12/2014
+    [5]
+      Tipo: AL
+      Rua: SANTOS
+      Número: 880
+      Complemento: AND 6
+      Bairro: CERQUEIRA CESAR
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01418-002
+      Date Added: 09/12/2014
+  E-mails: (50 item(s))
+    [1]
+      E-mail: kellyrose610@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [2]
+      E-mail: danilsonjsilva@gmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [3]
+      E-mail: eldermarcolino@gmail.com
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [4]
+      E-mail: golosemass@gmail.com
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [5]
+      E-mail: igor.carioni@gmail.com
+      Priority: 5
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [6]
+      E-mail: nininho625@hotmail.com
+      Priority: 6
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [7]
+      E-mail: nathannbk@outlook.com
+      Priority: 7
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [8]
+      E-mail: a41421356@outlook.com
+      Priority: 8
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [9]
+      E-mail: gilvar-2011@hotmail.com
+      Priority: 9
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [10]
+      E-mail: gustavocarpes1227@outlook.com
+      Priority: 10
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [11]
+      E-mail: heder.filho@hotmail.com
+      Priority: 11
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [12]
+      E-mail: medpharmax@hotmail.com
+      Priority: 12
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [13]
+      E-mail: victormms8@hotmail.com
+      Priority: 13
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [14]
+      E-mail: batosayhymuha@yahoo.com.br
+      Priority: 14
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [15]
+      E-mail: marilia1928@uol.com.br
+      Priority: 15
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [16]
+      E-mail: falusil@uol.com.br
+      Priority: 16
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [17]
+      E-mail: vitor.ribeiro05@hotmail.com
+      Priority: 17
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [18]
+      E-mail: alin_guto@hotmail.com
+      Priority: 18
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [19]
+      E-mail: luizc823@gmail.com
+      Priority: 19
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [20]
+      E-mail: lula6565@gmail.com
+      Priority: 20
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [21]
+      E-mail: luladasilva0123@gmail.com
+      Priority: 21
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [22]
+      E-mail: runescapemember101@hotmail.com
+      Priority: 22
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [23]
+      E-mail: luizdedinho@brasil.com
+      Priority: 23
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 07/11/2018
+    [24]
+      E-mail: blackhole-100013964868228-1478018975@devnull.facebook.com
+      Priority: 24
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/01/2018
+    [25]
+      E-mail: 3445gf@yopmail.com
+      Priority: 25
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 03/08/2017
+    [26]
+      E-mail: luizinacio@presida.lko.kr
+      Priority: 26
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+    [27]
+      E-mail: auhauhauahauahu@tnc.com
+      Priority: 27
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 06/04/2018
+    [28]
+      E-mail: ayeskacardos08az@gmail.com
+      Priority: 28
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+    [29]
+      E-mail: joao_fla_pedro@hotmail.com
+      Priority: 29
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [30]
+      E-mail: kauanskc00@gmail.com
+      Priority: 30
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [31]
+      E-mail: mckodma@yahoo.com.br
+      Priority: 31
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [32]
+      E-mail: blogdastendencias@gmail.com
+      Priority: 32
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+    [33]
+      E-mail: ezequigamer81@gmail.com
+      Priority: 33
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+    [34]
+      E-mail: enricodamaro@gmail.com
+      Priority: 34
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [35]
+      E-mail: tinckamanda@gmail.com
+      Priority: 35
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [36]
+      E-mail: abedisalles@hotmail.com
+      Priority: 36
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [37]
+      E-mail: afonsomon@hotmail.com
+      Priority: 37
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [38]
+      E-mail: algameplays@outlook.com
+      Priority: 38
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [39]
+      E-mail: bataloca34@outlook.com
+      Priority: 39
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [40]
+      E-mail: dionvictor1@live.com
+      Priority: 40
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [41]
+      E-mail: frisonjr@outlook.com
+      Priority: 41
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [42]
+      E-mail: future_rox_157@hotmail.com
+      Priority: 42
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [43]
+      E-mail: gilvar-2013@hotmail.com
+      Priority: 43
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [44]
+      E-mail: gs095427@gmail.com
+      Priority: 44
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [45]
+      E-mail: guimo_sf@hotmail.com
+      Priority: 45
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [46]
+      E-mail: hamuraoficial@gmail.com
+      Priority: 46
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [47]
+      E-mail: igorbragasanto@gmail.com
+      Priority: 47
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [48]
+      E-mail: inaciooutlook@outlook.com
+      Priority: 48
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [49]
+      E-mail: israel_gv_@hotmail.com.br
+      Priority: 49
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [50]
+      E-mail: jcvsj@hotmail.com
+      Priority: 50
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+  Score:
+    CSBA: 817
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 262.583.758-63
+      Nome: FABIO LUIS LULA DA SILVA
+      Vinculo: FILHA(O)
+    [2]
+      CPF: 296.539.278-50
+      Nome: SANDRO LUIS LULA DA SILVA
+      Vinculo: FILHA(O)
+    [3]
+      CPF: 218.950.438-40
+      Nome: MARISA LETICIA LULA DA SILVA
+      Vinculo: CONJUGE
+    [4]
+      Nome: EURIDICE FERREIRA DE MELO
+      Vinculo: MAE
+  Pis: 12463126185
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2895.14
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 034.534.789-75
+    Nome: ROSANE FELIPE
+    Logradouro: CIRILO
+    Número: 1172
+    Bairro: CENTRO
+  [2]
+    CPF: 593.779.330-72
+    Nome: CARLOS AUGUSTO AZEVEDO SILVA
+    Logradouro: CIRILO
+    Número: 910
+    Bairro: CENTRO
+  [3]
+    CPF: 037.683.809-47
+    Nome: RENATI DRESSLER
+    Logradouro: PARA
+    Número: 1091
+  [4]
+    CPF: 012.697.560-44
+    Nome: JACKSOMAR BELLINI
+    Logradouro: LINHA T ANGICOS
+    Número: 1
+    Bairro: ZONA RURAL
+  [5]
+    CPF: 050.670.469-61
+    Nome: GILMAR DA SILVA
+    Logradouro: MARTIN NOTTAR
+    Número: 196
+  [6]
+    CPF: 050.547.069-17
+    Nome: DANIELA APARECIDA SCHAAB
+    Logradouro: JACO TELBADO ERTAL
+    Número: 509
+    Bairro: STO ANTONIO
+  [7]
+    CPF: 050.493.299-30
+    Nome: INEZ SALETE MULLER
+    Logradouro: TAPAJOS
+    Número: 184
+  [8]
+    CPF: 050.475.249-90
+    Nome: VALDIRENE MARIA BELO
+    Logradouro: CIRILO
+    Número: 2063
+  [9]
+    CPF: 050.204.499-38
+    Nome: LURDES BASSANI
+    Logradouro: BRASIL
+    Número: 999
+  [10]
+    CPF: 049.731.719-21
+    Nome: SUELANI CRISTINA VONZ
+    Logradouro: LINHA GAUCHA
+    Número: SN
+    Bairro: ZONA RURAL
+  [11]
+    CPF: 048.904.559-65
+    Nome: CRISTIANE APARECIDA HANKE
+    Logradouro: ANTONIO MILHUES
+    Número: 65
+  [12]
+    CPF: 026.985.640-40
+    Nome: JULIANO CESAR DE OLIVEIRA
+    Logradouro: TERRITORIO DO ACRE
+    Número: 868
+    Bairro: S CRISTOVAO
+  [13]
+    CPF: 048.019.989-25
+    Nome: MARCOS ANDRE FRANCA
+    Logradouro: GIRASSOL
+    Número: 296
+  [14]
+    CPF: 046.844.769-52
+    Nome: ADRIANA DASSOLER DE OLIVEIRA
+    Logradouro: PARANA
+    Número: 281
+  [15]
+    CPF: 046.646.869-51
+    Nome: SANDRA MARIA SOARES
+    Logradouro: JOSE BRANDAO
+    Número: 70
+Telefones Assecc: (7 item(s))
+  [1]
+    Telefone: (64) 99612-9303
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: MINEIROS
+    UF: GO
+  [2]
+    Telefone: (61) 98451-0169
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: TAGUATINGA
+    UF: DF
+  [3]
+    Telefone: (61) 98451-0170
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: TAGUATINGA
+    UF: DF
+  [4]
+    Telefone: (31) 99569-0822
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: UBERLANDIA
+    UF: MG
+  [5]
+    Telefone: (11) 95976-8192
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [6]
+    Telefone: (63) 99271-8991
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: SAO BERNARDO DO CAMPO
+    UF: SP
+  [7]
+    Telefone: (19) 98927-6777
+    Nome: LUIZ INACIO LULA DA SILVA
+    Cidade: CAMPINAS
+    UF: SP
+Vivo Linhas: (9 item(s))
+  [1]
+    Telefone: (11) 4335-4800
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 01AUG1986:00:00:00
+    Complemento: COMPL - Complemento: BL 1 AP 122 A;
+    Tipo Cliente: SOHO
+  [2]
+    Telefone: (27) 99713-7030
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 06APR2015
+    Ultima Recarga: 01SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 06/04/2015
+  [3]
+    Telefone: (11) 97188-9031
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 09SEP2014
+    Ultima Recarga: 09SEP2014
+    Plano: PF_PRE_PURO
+    Data Instalacao: 09/09/2014
+  [4]
+    Telefone: (65) 99693-7164
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 06SEP2017
+    Ultima Recarga: 02SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 05/09/2017
+  [5]
+    Telefone: (38) 99969-0334
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 31JAN2019
+    Ultima Recarga: 15JUN2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 15/10/2018
+  [6]
+    Telefone: (92) 99345-1143
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01FEB2020
+    Ultima Recarga: 24JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 10/01/2020
+  [7]
+    Telefone: (67) 99994-8926
+    Tipo: pre
+    Status Linha: SUSPENSO POR ROUBO
+    Primeira Recarga: 04AUG2020
+    Ultima Recarga: 04AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 04/08/2020
+  [8]
+    Telefone: (81) 98222-2186
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 22AUG2020
+    Ultima Recarga: 12SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 11/08/2020
+  [9]
+    Telefone: (94) 99216-5789
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 18/08/2020
+Telefones Operadoras: (10 item(s))
+  [1]
+    Telefone: (31) 98288-2286
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (21) 97604-6497
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (19) 98927-6777
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (63) 99258-8499
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [5]
+    Telefone: (62) 99574-3789
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [6]
+    Telefone: (62) 99278-2621
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [7]
+    Telefone: (61) 99296-1312
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [8]
+    Telefone: (61) 99106-8566
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [9]
+    Telefone: (44) 98852-2254
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [10]
+    Telefone: (41) 98719-5709
+    Nome: LUIZ INACIO LULA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (51 item(s))
+  - 3445gf@yopmail.com
+  - vitor.ribeiro05@hotmail.com
+  - chupisco@hotmail.com
+  - kellyrose610@gmail.com
+  - danilsonjsilva@gmail.com
+  - eldermarcolino@gmail.com
+  - golosemass@gmail.com
+  - igor.carioni@gmail.com
+  - nininho625@hotmail.com
+  - nathannbk@outlook.com
+  - a41421356@outlook.com
+  - gilvar-2011@hotmail.com
+  - gustavocarpes1227@outlook.com
+  - heder.filho@hotmail.com
+  - medpharmax@hotmail.com
+  - victormms8@hotmail.com
+  - batosayhymuha@yahoo.com.br
+  - marilia1928@uol.com.br
+  - falusil@uol.com.br
+  - alin_guto@hotmail.com
+  - luizc823@gmail.com
+  - lula6565@gmail.com
+  - luladasilva0123@gmail.com
+  - runescapemember101@hotmail.com
+  - luizdedinho@brasil.com
+  - blackhole-100013964868228-1478018975@devnull.facebook.com
+  - luizinacio@presida.lko.kr
+  - auhauhauahauahu@tnc.com
+  - ayeskacardos08az@gmail.com
+  - joao_fla_pedro@hotmail.com
+  - kauanskc00@gmail.com
+  - mckodma@yahoo.com.br
+  - blogdastendencias@gmail.com
+  - ezequigamer81@gmail.com
+  - enricodamaro@gmail.com
+  - tinckamanda@gmail.com
+  - abedisalles@hotmail.com
+  - afonsomon@hotmail.com
+  - algameplays@outlook.com
+  - bataloca34@outlook.com
+  - dionvictor1@live.com
+  - frisonjr@outlook.com
+  - future_rox_157@hotmail.com
+  - gilvar-2013@hotmail.com
+  - gs095427@gmail.com
+  - guimo_sf@hotmail.com
+  - hamuraoficial@gmail.com
+  - igorbragasanto@gmail.com
+  - inaciooutlook@outlook.com
+  - israel_gv_@hotmail.com.br
+  - jcvsj@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1394
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2895.14
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Processos: (12 item(s))
+  [1]
+    Número: 1017550-84.2019.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 7ª Vara Cível
+    Data: 12/07/2019
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [2]
+    Número: 1017548-17.2019.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 2ª Vara Cível
+    Data: 12/07/2019
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [3]
+    Número: 1020176-47.2017.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Direito de Resposta ou Retificação do Ofendido - Lei 13188/2015
+    Vara: 8ª Vara Cível
+    Data: 09/08/2017
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [4]
+    Número: 1004316-06.2017.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 4ª Vara Cível
+    Data: 23/02/2017
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [5]
+    Número: 1000387-62.2017.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 3ª Vara Cível
+    Data: 12/01/2017
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: LUIZ INACIO LULA DA SILVA
+  [6]
+    Número: 1027158-14.2016.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 5ª Vara Cível
+    Data: 28/10/2016
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [7]
+    Número: 1014122-02.2016.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 2ª Vara Cível
+    Data: 10/06/2016
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [8]
+    Número: 1014084-87.2016.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Direito de Resposta ou Retificação do Ofendido - Lei 13188/2015
+    Vara: 2ª Vara Cível
+    Data: 10/06/2016
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [9]
+    Número: 1005915-14.2016.8.26.0564
+    Classe: Procedimento Comum Cível
+    Assunto: Direito de Resposta ou Retificação do Ofendido - Lei 13188/2015
+    Vara: 7ª Vara Cível
+    Data: 14/03/2016
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inacio Lula da Silva
+  [10]
+    Número: 1011567-56.2015.8.26.0011
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 5ª Vara Cível
+    Data: 03/11/2015
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Luiz Inácio Lula da Silva
+  [11]
+    Número: 0004928-54.1994.8.26.0050
+    Classe: Crimes de Imprensa
+    Assunto: Crimes de Imprensa
+    Vara: 29ª Vara Criminal
+    Data: 13/01/1994
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: LUIZ INACIO LULA DA SILVA
+  [12]
+    Número: 0020898-07.1994.8.26.0564
+    Classe: Outros Feitos não Especificados
+    Vara: 1ª Vara Criminal
+    Data: 14/02/2004
+    Partes: (1 item(s))
+      [1]
+        Papel: Indiciado
+        Nome: Luiz Inacio Lula da Silva-querelante
+Contas Google: (1 item(s))
+  [1]
+    E-mail: kellyrose610@gmail.com
+    Gaia Id: 100306111215112265173
+    Foto: https://lh3.googleusercontent.com/a-/ALV-UjV9CkOl9fVOriWszDgPdG8EttgrKyoT2EtqBoDETMQ0EmtC7A=s1024
+    Photo Url: https://lh3.googleusercontent.com/a-/ALV-UjV9CkOl9fVOriWszDgPdG8EttgrKyoT2EtqBoDETMQ0EmtC7A=s1024
+    Tipo Usuario: (1 item(s))
+      - GOOGLE_USER
+    Google Maps:
+      —
+    Maps Reviews Count: 0
+    Maps Photos Count: 0
+    Maps Contrib Url: https://www.google.com/maps/contrib/100306111215112265173
+    Ultima Edicao Perfil: 2023/03/29 04:22:24 (UTC)
+    PROFILE CONTAINER:
+      Profile:
+        Person Id: 100306111215112265173
+        Source Ids:
+          PROFILE:
+            Last Updated: 29/03/2023
+        E-mails:
+          PROFILE:
+            Value: kellyrose610@gmail.com
+        Names:
+          —
+        Profile Infos:
+          PROFILE:
+            User Types: (1 item(s))
+              - GOOGLE_USER
+        Profile Photos:
+          PROFILE:
+            Url: https://lh3.googleusercontent.com/a-/ALV-UjV9CkOl9fVOriWszDgPdG8EttgrKyoT2EtqBoDETMQ0EmtC7A
+            Flathash: ffffc3c3e7c38181
+        Cover Photos:
+          PROFILE:
+            Url: https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_
+        In App Reachability:
+          —
+        Extended Data:
+          Dynamite Data:
+            Presence: UNKNOWN
+            Entity Type: PERSON
+            Dnd State: AVAILABLE
+          Gplus Data:
+            —
+      Maps:
+        Stats:
+          —
+Foto Google: https://lh3.googleusercontent.com/a-/ALV-UjV9CkOl9fVOriWszDgPdG8EttgrKyoT2EtqBoDETMQ0EmtC7A=s1024
+Foto: https://lh3.googleusercontent.com/a-/ALV-UjV9CkOl9fVOriWszDgPdG8EttgrKyoT2EtqBoDETMQ0EmtC7A=s1024
+Foto Source: google_profile
+Rastreamento Midias Sociais: (4 item(s))
+  [1]
+    Nome: pinterest
+    Domain: pinterest.com
+  [2]
+    Nome: spotify
+    Domain: spotify.com
+  [3]
+    Nome: telegram
+    Domain: t.me
+  [4]
+    Nome: tumblr
+    Domain: tumblr.com
+Fotos Disponiveis: (1 item(s))
+  [1]
+    Tipo: google_profile
+    Url: https://lh3.googleusercontent.com/a-/ALV-UjV9CkOl9fVOriWszDgPdG8EttgrKyoT2EtqBoDETMQ0EmtC7A=s1024
+    Origem: google_profile
+    Resolucao: alta_resolucao_s1024
+Occupation Code: 262405
+Occupation Name: Artista (artes visuais)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

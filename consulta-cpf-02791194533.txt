@@ -1,0 +1,288 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02791194533
+Data/Hora:  03/10/2026, 22:25:26
+Tempo API:  525ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 027.911.945-33
+Nome: UELLINGTON JHONE INACIO DE LIMA
+Primeiro Nome: UELLINGTON
+Sobrenome: LIMA
+Sexo: Masculino
+Data de Nascimento: 22/02/1986
+Nome da Mãe: LINDETE INACIO DE LIMA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 976945681
+Rg Issuer: SSP
+Voter Id: 115803800574
+Mosaic: C09
+Score:
+  Value: 618
+  Range: BAIXO
+Death Date: 11/01/2019
+Federal Status: TITULAR FALECIDO
+Renda: 676
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: JOAO
+  Número: 25
+  Bairro: CENTRO
+  Cidade: VARZEA NOVA
+  Estado: BAHIA
+  CEP: 44690-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOAO
+    Número: 25
+    Bairro: CENTRO
+    Cidade: VARZEA NOVA
+    Estado: BAHIA
+    CEP: 44690-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA SAO DOMINGOS
+    Número: S/N
+    Bairro: SANTA LUZIA
+    Cidade: BARREIRAS - BA
+    Fonte: DATASUS
+  [3]
+    Rua: SGAS 607
+    Complemento: S 117 MOD 47 607
+    Bairro: ASA SUL
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 70200-670
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 898004833388318
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 01/03/2019
+    Rg Issuer: SSP
+    Mosaic: C09
+    Mosaic New: D13
+    Mosaic Secondary: D09
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAO
+      Número: 25
+      Bairro: CENTRO
+      Cidade: VARZEA NOVA
+      Estado: BA
+      CEP: 44690-000
+      Date Added: 11/08/2010
+    [2]
+      Rua: SGAS 607
+      Complemento: S 117 MOD 47 607
+      Bairro: ASA SUL
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 70200-670
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 36592524
+      Ddd: 77
+      Tipo: 1
+      Classificacao: D
+      Date Added: 06/08/2010
+    [2]
+      Telefone: 36592524
+      Ddd: 74
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 12/08/2010
+    [3]
+      Telefone: 36276218
+      Ddd: 61
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 06/01/2012
+      Info Date: 24/10/2011
+    [4]
+      Telefone: 984802008
+      Ddd: 61
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/01/2012
+      Info Date: 24/10/2011
+  Score:
+    CSB8: 416
+    CSB8 FAIXA: MEDIO
+    CSBA: 618
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LINDETE INACIO DE LIMA
+      Vinculo: MAE
+  Tse:
+    Titulo: 115803800574
+    Zona: 55
+    Secao: 193
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 676.04
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Telefones: (4 item(s))
+  - (77) 3659-2524
+  - (74) 3659-2524
+  - (61) 3627-6218
+  - (61) 98480-2008
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 024.167.075-66
+    Nome: VENERIVALDO DO NASCIMENTO
+    Logradouro: DE BOA ESPERANCA
+    Número: 1
+    Bairro: ZONA RURAL
+  [2]
+    CPF: 039.897.705-43
+    Nome: FABIANO DE OLIVEIRA MAIA
+    Logradouro: SETE DE SETEMBRO
+    Número: 190
+    Bairro: CENTRO VARZEA NOVA
+  [3]
+    CPF: 058.892.595-04
+    Nome: LUAN DA SILVA OLIVEIRA
+    Logradouro: ARIOBALDO
+    Número: 74
+    Bairro: CENTRO
+  [4]
+    CPF: 365.572.425-04
+    Nome: ADONEL MARTINS DA SILVA
+    Logradouro: DULCE DA BAHIA
+    Número: 50
+    Bairro: CENTRO VARZEA NOVA
+  [5]
+    CPF: 064.033.385-01
+    Nome: FERNANDA JESUS DOS SANTOS
+    Logradouro: JOSE JESUINO DA COSTA
+    Número: 167
+    Bairro: LOT NOVA ESPERANCA
+  [6]
+    CPF: 041.546.235-59
+    Nome: JILMARA DA SILVA OLIVEIRA
+    Logradouro: DULCE DA BAHIA
+    Número: 350
+  [7]
+    CPF: 963.926.145-91
+    Nome: MARILEIDE MARIA PEREIRA DA SILVA
+    Logradouro: JOAO B DOS SANTOS
+    Número: 621
+    Bairro: CENTRO
+  [8]
+    CPF: 075.868.345-63
+    Nome: MARLENE DOS SANTOS ALMEIDA
+    Logradouro: PO MALVA
+    Número: 5
+    Bairro: MALVA
+  [9]
+    CPF: 020.209.275-51
+    Nome: ANDRE DE JESUS
+    Logradouro: MATO DO MEL
+    Número: SN
+  [10]
+    CPF: 018.222.065-61
+    Nome: MARIA JUSENILDA ALMEIDA DOS SANTOS
+    Logradouro: MATA DO MEL
+    Número: 190
+    Bairro: MATA DO MEL
+  [11]
+    CPF: 973.696.325-04
+    Nome: ARIOBALDO SOUZA LIMA
+    Logradouro: GARCIA
+    Número: 15
+    Bairro: GARCIA
+  [12]
+    CPF: 875.276.935-68
+    Nome: MARGARIDA DANTAS DA SILVA OLIVEIRA
+    Logradouro: DA CONCEICAO
+    Número: 45
+    Bairro: CENTRO
+  [13]
+    CPF: 219.410.411-91
+    Nome: VALMIR ALVES DE ALCANTARA
+    Logradouro: ARIOBALDO FIGUEREIDO DE OLIVEIRA
+    Número: 39
+    Bairro: CENTRO VARZEA NOVA
+  [14]
+    CPF: 908.255.435-68
+    Nome: ARLINDA MARIA ARAUJO
+    Logradouro: JOSE JESUINO DA COSTA
+    Número: 31
+    Bairro: LOT STO EPAMINONDA
+  [15]
+    CPF: 122.633.465-20
+    Nome: IRENO ROCHA SOUZA
+    Logradouro: ANTONIO HELIODORIO DE CARVALHO
+    Número: 195
+    Bairro: CENTRO VARZEA NOVA
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 676
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 676.04
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (77) 3659-2524
+    Ddd: 77
+    Número: 36592524
+    Tipo: FIXO
+    Data Inclusao: 06/08/2010
+    Classificacao: D
+  [2]
+    Telefone: (74) 3659-2524
+    Ddd: 74
+    Número: 36592524
+    Tipo: FIXO
+    Data Inclusao: 12/08/2010
+    Classificacao: D2
+  [3]
+    Telefone: (61) 3627-6218
+    Ddd: 61
+    Número: 36276218
+    Tipo: FIXO
+    Data Inclusao: 06/01/2012
+    Data Informacao: 24/10/2011
+    Classificacao: D2
+  [4]
+    Telefone: (61) 98480-2008
+    Ddd: 61
+    Número: 984802008
+    Tipo: 3
+    Data Inclusao: 06/01/2012
+    Data Informacao: 24/10/2011
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,355 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05453536969
+Data/Hora:  04/10/2026, 12:18:36
+Tempo API:  690ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 054.535.369-69
+Nome: LUZIA APARECIDA PANCHESKI
+Primeiro Nome: LUZIA
+Sobrenome: PANCHESKI
+Sexo: Feminino
+Data de Nascimento: 03/09/1986
+Nome da Mãe: DIRCEA APARECIDA PANCHESCKI
+RG: 5196891
+Rg Issuer: SSP
+Voter Id: 045991220973
+Mosaic: J34
+Ocupação: Salsicheiro (fabricação de lingüiça, salsicha e produtos similares)
+Score:
+  Value: 685
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1399
+Income Bracket: 2
+Cbo: 848115
+Endereço:
+  Tipo: RUA
+  Rua: CARLA RUBIA DROSSE
+  Bairro: RAU
+  Cidade: JARAGUA DO SUL
+  Estado: SANTA CATARINA
+  CEP: 89254-282
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CARLA RUBIA DROSSE
+    Bairro: RAU
+    Cidade: JARAGUA DO SUL
+    Estado: SANTA CATARINA
+    CEP: 89254-282
+    Fonte: PRINCIPAL
+  [2]
+    Rua: IVO DE AQUINA
+    Número: 54
+    Bairro: INDUST I
+    Cidade: CANOINHAS
+    Estado: SC
+    CEP: 89460-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: MARCILIO MULLER
+    Número: 668
+    Bairro: JD ESPERANC
+    Cidade: CANOINHAS
+    Estado: SC
+    CEP: 89460-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: EURICO DUWE
+    Tipo: R
+    Número: 5230
+    Bairro: RIO DA LUZ
+    Cidade: JARAGUA DO SUL
+    Estado: SC
+    CEP: 89264-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: COLONIA SANTO ANTONIO
+    Tipo: EST
+    Número: SN
+    Cidade: MAJOR VIEIRA
+    Estado: SC
+    CEP: 89480-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: CARLA RUBIA DROSSE
+    Tipo: R
+    Número: 153
+    Bairro: RAU
+    Cidade: JARAGUA DO SUL
+    Estado: SC
+    CEP: 89254-282
+    Data Atualizacao: 17/01/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: CARLA RUBIA DROSSE
+    Número: 0000153
+    Bairro: RAU
+    Cidade: JARAGUA DO SUL
+    Estado: SC
+    CEP: 89254-282
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (47) 98420-7434
+  - (47) 98474-7312
+  - (47) 98471-7645
+  - (47) 98435-7489
+  - (47) 99176-2619
+  - (47) 3372-0826
+  - (47) 99996-1586
+  - (47) 3622-4588
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 10/08/2019
+    Rg Issuer: SSP
+    Mosaic: J34
+    Mosaic New: E18
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Rua: IVO DE AQUINA
+      Número: 54
+      Bairro: INDUST I
+      Cidade: CANOINHAS
+      Estado: SC
+      CEP: 89460-000
+      Date Added: 30/07/2018
+    [2]
+      Rua: MARCILIO MULLER
+      Número: 668
+      Bairro: JD ESPERANC
+      Cidade: CANOINHAS
+      Estado: SC
+      CEP: 89460-000
+      Date Added: 30/07/2018
+    [3]
+      Tipo: R
+      Rua: EURICO DUWE
+      Número: 5230
+      Bairro: RIO DA LUZ
+      Cidade: JARAGUA DO SUL
+      Estado: SC
+      CEP: 89264-000
+      Date Added: 09/12/2014
+    [4]
+      Tipo: EST
+      Rua: COLONIA SANTO ANTONIO
+      Número: SN
+      Cidade: MAJOR VIEIRA
+      Estado: SC
+      CEP: 89480-000
+      Date Added: 30/09/2009
+    [5]
+      Tipo: R
+      Rua: CARLA RUBIA DROSSE
+      Número: 153
+      Bairro: RAU
+      Cidade: JARAGUA DO SUL
+      Estado: SC
+      CEP: 89254-282
+      Date Added: 30/09/2009
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 991762619
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 33720826
+      Ddd: 47
+      Tipo: 1
+      Classificacao: C
+      Date Added: 15/12/2014
+      Info Date: 27/04/2010
+    [3]
+      Telefone: 999961586
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [4]
+      Telefone: 36224588
+      Ddd: 47
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 30/07/2018
+      Info Date: 20/07/2018
+  Score:
+    CSBA: 685
+    CSBA FAIXA: BAIXO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 556.251.349-87
+      Nome: LEONIDES PANCHESKI
+      Vinculo: PAI
+    [2]
+      Nome: DIRCEA APARECIDA PANCHESCKI
+      Vinculo: MAE
+    [3]
+      CPF: 6517517995
+      Nome: RODRIGO PANCHESKI
+      Vinculo: IRMA(O)
+  Pis: 20684860702
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1255.58
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 059.973.699-27
+    Nome: LEANDRO AUGUSTO GOMES DOS SANTOS
+    Logradouro: BR 280
+    Bairro: BOA VISTA
+  [2]
+    CPF: 060.762.729-88
+    Nome: FABIANA VICENTE DE LIMA
+    Logradouro: ALMEIDA CARDOSO
+    Número: 58
+    Bairro: CENTRO
+  [3]
+    CPF: 052.206.699-23
+    Nome: FRANCISCO GRAMZA NETO
+    Logradouro: DOZE DE SETEMBRO
+    Número: 550
+    Bairro: CENTRO
+  [4]
+    CPF: 052.210.369-32
+    Nome: JULIANA APARECIDA PIOTROVSKI DE LIMA
+    Logradouro: MENANDRO KAMPS
+    Número: 357
+  [5]
+    CPF: 052.210.369-32
+    Nome: JULIANA APARECIDA PIOTROVSKI DE LIMA
+    Logradouro: MENANDRO KAMPS
+    Número: 560
+  [6]
+    CPF: 051.642.869-12
+    Nome: LIDIANE MAIDEL
+    Logradouro: ALOIS STUBER
+    Número: 773
+  [7]
+    CPF: 051.109.089-74
+    Nome: MARIO CESAR PEREIRA FILHO
+    Logradouro: RIO BRANCO
+    Número: 516
+  [8]
+    CPF: 051.080.059-97
+    Nome: IVONEI GONCALVEZ PADILHA
+    Logradouro: PAULA PEREIRA
+    Número: SN
+  [9]
+    CPF: 050.975.729-47
+    Nome: JOSIANE MACANEIRO SCHAFASCHEK
+    Logradouro: CAETANO COSTA
+    Número: 1325
+    Bairro: AMIZADE
+  [10]
+    CPF: 050.956.669-36
+    Nome: ADRIANA VIEIRA ZIPPER
+    Logradouro: CARLOS WAGNER
+    Número: 2304
+  [11]
+    CPF: 052.275.149-09
+    Nome: MAYARA JARSCHEL GONCALVES ARAGON FERREIRA
+    Logradouro: DO RIO BRANCO
+    Número: 1390
+  [12]
+    CPF: 050.795.369-00
+    Nome: DELAIR MARIA DA SILVA GRESCZESCHEN
+    Logradouro: VIRGILIO TREVISANI
+    Número: 12
+    Bairro: JD ESPERANCA
+  [13]
+    CPF: 050.699.059-10
+    Nome: VALDECIR SAFANELLI
+    Logradouro: CRUZ
+    Número: 61
+  [14]
+    CPF: 050.695.929-55
+    Nome: SAMUEL CARLOS BARETTA
+    Logradouro: DOZE DE SETEMBRO
+    Número: 346
+  [15]
+    CPF: 050.443.929-44
+    Nome: ADIR DE JESUS MUNHOZ
+    Logradouro: RUBENS R SILVA
+    Número: 481
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (47) 99176-2619
+    Nome: LUZIA APARECIDA PANCHESKI
+    Cidade: JARAGUA DO SUL
+    UF: SC
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1399
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1255.58
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (47) 99176-2619
+    Ddd: 47
+    Número: 991762619
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: D
+  [2]
+    Telefone: (47) 3372-0826
+    Ddd: 47
+    Número: 33720826
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 27/04/2010
+    Classificacao: C
+  [3]
+    Telefone: (47) 99996-1586
+    Ddd: 47
+    Número: 999961586
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [4]
+    Telefone: (47) 3622-4588
+    Ddd: 47
+    Número: 36224588
+    Tipo: FIXO
+    Data Inclusao: 30/07/2018
+    Data Informacao: 20/07/2018
+    Classificacao: A0
+Occupation Code: 848115
+Occupation Name: Salsicheiro (fabricação de lingüiça, salsicha e produtos similares)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

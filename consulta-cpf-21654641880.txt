@@ -1,0 +1,411 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  21654641880
+Data/Hora:  02/10/2026, 15:56:30
+Tempo API:  413ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 216.546.418-80
+Nome: LUCIANA RAIMUNDA DA SILVA
+Primeiro Nome: LUCIANA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 07/05/1980
+Nome da Mãe: MARIA BENEDITA BRAZ DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 03301025643
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 280003060141
+Mosaic: F20
+Score:
+  Value: 717
+  Range: BAIXISSIMO RISCO
+E-mail: ROSANA.LEANDRO20@YAHOO.COM.BR
+Federal Status: REGULAR
+Renda: 1103
+Income Bracket: 2
+Endereço:
+  Tipo: AVENIDA
+  Rua: ARTHUR ANTONIO DOS SANTOS 1209 FT
+  Bairro: CIDADE MORUMBI
+  Cidade: SAO JOSE DOS CAMPOS
+  Estado: SAO PAULO
+  CEP: 12236-440
+All Addresses: (8 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: ARTHUR ANTONIO DOS SANTOS 1209 FT
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SAO PAULO
+    CEP: 12236-440
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LUIZ FERNANDES
+    Número: 643
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS - SP
+    Fonte: DATASUS
+  [3]
+    Rua: LUIZ FERNANDES
+    Tipo: R
+    Número: 643
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12236-750
+    Data Atualizacao: 16/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ADRIANO ESPINDOLA
+    Tipo: R
+    Número: 823
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12236-720
+    Data Atualizacao: 16/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ARTHUR ANTONIO DOS SANTOS
+    Tipo: AV
+    Número: 1209
+    Complemento: FT
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12236-440
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: LUIZ FERNANDES
+    Tipo: R
+    Número: 659
+    Complemento: FDS
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12236-750
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: LUIZ FERNANDES
+    Rua: R
+    Número: 0000643
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: 12236750
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: ADRIANO ESPINDOLA
+    Número: 0000823
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12236-720
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (12) 98845-3209
+  - (11) 98163-1318
+  - (12) 98121-7031
+  - (12) 98814-7251
+  - (12) 3937-7484
+  - (12) 98849-4014
+  - (12) 3209-9064
+  - (12) 3302-5788
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: SAO JOSE DOS CAMPOS - SP
+Cns: 702507349904130
+Rg Issue Date: 789966000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 08/09/2019
+    Mosaic: F20
+    Mosaic New: I30
+    Mosaic Secondary: D13
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: LUIZ FERNANDES
+      Número: 643
+      Bairro: CIDADE MORUMBI
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12236-750
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: ADRIANO ESPINDOLA
+      Número: 823
+      Bairro: CIDADE MORUMBI
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12236-720
+      Date Added: 11/10/2006
+    [3]
+      Tipo: AV
+      Rua: ARTHUR ANTONIO DOS SANTOS
+      Número: 1209
+      Complemento: FT
+      Bairro: CIDADE MORUMBI
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12236-440
+      Date Added: 16/05/2019
+    [4]
+      Tipo: R
+      Rua: LUIZ FERNANDES
+      Número: 659
+      Complemento: FDS
+      Bairro: CIDADE MORUMBI
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12236-750
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 39377484
+      Ddd: 12
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 09/04/2014
+    [2]
+      Telefone: 988494014
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+    [3]
+      Telefone: 981217031
+      Ddd: 12
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 17/11/2019
+    [4]
+      Telefone: 32099064
+      Ddd: 12
+      Tipo: 1
+      Classificacao: D
+      Date Added: 17/11/2019
+    [5]
+      Telefone: 33025788
+      Ddd: 12
+      Tipo: 1
+      Classificacao: D
+      Date Added: 17/11/2019
+  Score:
+    CSB8: 412
+    CSB8 FAIXA: MEDIO
+    CSBA: 717
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 119.226.927-60
+      Nome: ALTEMIR CONSTANTINO DA SILVA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 1013547705
+      Nome: ALTERINA MARIA DA SILVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 126.957.517-10
+      Nome: ALDAIR JOSE DA SILVA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 390.513.178-16
+      Nome: FERNANDO BRAZ DA SILVA SANTOS
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 511.007.464-04
+      Nome: MARIA EUNICE MUNIZ DO NASCIMENTO
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 126.352.317-02
+      Nome: MARIA BENEDITA BRAZ DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1103
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 047.231.838-17
+    Nome: TERESINHA DO MENINO JESUS LOPES ALVES
+    Logradouro: LUIZ FERNANDES
+    Número: 863
+    Bairro: CIDADE MORUMBI
+  [2]
+    CPF: 383.588.958-36
+    Nome: ALINE DIANE ARANTES
+    Logradouro: LUIZ FERNANDES
+    Número: 393
+    Bairro: CIDADE MORUMBI
+  [3]
+    CPF: 400.692.418-64
+    Nome: RAFAEL PIRES DA SILVA
+    Logradouro: LUIZ FERNANDES
+    Número: 502
+    Bairro: CIDADE MORUMBI
+  [4]
+    CPF: 026.022.688-28
+    Nome: WILSON LEMOS DA SILVA OLIVEIRA
+    Logradouro: LUIZ FERNANDES
+    Número: 632
+    Bairro: CIDADE MORUMBI
+  [5]
+    CPF: 426.612.058-37
+    Nome: JULIA ALMEIDA NOGUEIRA
+    Logradouro: LUIZ FERNANDES
+    Número: 722
+    Bairro: CIDADE MORUMBI
+  [6]
+    CPF: 340.960.568-12
+    Nome: MARCOS JOSE DE SOUZA
+    Logradouro: LUIZ FERNANDES
+    Número: 692
+    Bairro: CIDADE MORUMBI
+  [7]
+    CPF: 435.475.758-34
+    Nome: AUDATO ANTONIO FERREIRA
+    Logradouro: LUIZ FERNANDES
+    Número: 333
+    Bairro: CIDADE MORUMBI
+  [8]
+    CPF: 265.157.068-04
+    Nome: NAIR BENTO ALVES DOS SANTOS
+    Logradouro: LUIZ FERNANDES
+    Número: 542
+    Bairro: CIDADE MORUMBI
+  [9]
+    CPF: 898.640.428-15
+    Nome: MARIA BENEDICTA BRAZ DA SILVA
+    Logradouro: LUIZ FERNANDES
+    Número: 643
+    Bairro: CIDADE MORUMBI
+  [10]
+    CPF: 273.186.938-08
+    Nome: DIRCEU DONIZETTI DE ALMEIDA
+    Logradouro: LUIZ FERNANDES
+    Número: 380
+    Bairro: CIDADE MORUMBI
+  [11]
+    CPF: 045.293.796-55
+    Nome: GIOVANA MIRANDA
+    Logradouro: LUIZ FERNANDES
+    Número: 387
+    Bairro: CIDADE MORUMBI
+  [12]
+    CPF: 830.816.408-06
+    Nome: SAULO ALVES CORREA
+    Logradouro: LUIZ FERNANDES
+    Número: 240
+    Bairro: CIDADE MORUMBI
+  [13]
+    CPF: 342.245.798-47
+    Nome: EDUARDO PEREIRA DA SILVA
+    Logradouro: LUIZ FERNANDES
+    Número: 321
+    Bairro: CIDADE MORUMBI
+  [14]
+    CPF: 314.417.298-79
+    Nome: FABIANA TAIS OLIVEIRA
+    Logradouro: LUIZ FERNANDES
+    Número: 632
+    Bairro: CIDADE MORUMBI
+  [15]
+    CPF: 218.209.608-62
+    Nome: JOAO PAULO PEREIRA DA SILVA
+    Logradouro: LUIZ FERNANDES
+    Número: 321
+    Bairro: CIDADE MORUMBI
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (12) 98121-7031
+    Nome: LUCIANA RAIMUNDA DA SILVA
+    Cidade: SAO JOSE DOS CAMPOS
+    UF: 12236750
+  [2]
+    Telefone: (12) 98814-7251
+    Nome: LUCIANA RAIMUNDA DA SILVA
+    Cidade: SAO JOSE DOS CAMPOS
+    UF: SP
+  [3]
+    Telefone: (12) 98845-3209
+    Nome: LUCIANA RAIMUNDA DA SILVA
+    Cidade: SAO JOSE DOS CAMPOS
+    UF: SP
+E-mails: (1 item(s))
+  - rosana.leandro20@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1103
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1103
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (12) 3937-7484
+    Ddd: 12
+    Número: 39377484
+    Tipo: FIXO
+    Data Inclusao: 09/04/2014
+    Classificacao: D2
+  [2]
+    Telefone: (12) 98849-4014
+    Ddd: 12
+    Número: 988494014
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+  [3]
+    Telefone: (12) 98121-7031
+    Ddd: 12
+    Número: 981217031
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: C2
+  [4]
+    Telefone: (12) 3209-9064
+    Ddd: 12
+    Número: 32099064
+    Tipo: FIXO
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+  [5]
+    Telefone: (12) 3302-5788
+    Ddd: 12
+    Número: 33025788
+    Tipo: FIXO
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,434 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03547004489
+Data/Hora:  03/10/2026, 19:57:56
+Tempo API:  745ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 035.470.044-89
+Nome: PATRICIA CARLOS MORENO
+Primeiro Nome: PATRICIA
+Sobrenome: MORENO
+Sexo: Feminino
+Data de Nascimento: 07/08/1978
+Nome da Mãe: JOSEFA TOMAZ DA SILVA LIMAO
+Nome do Pai: PROTASIO CARLOS MORENO
+RG: 2177947
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PB
+Voter Id: 023938781210
+Mosaic: F19
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 958
+  Range: BAIXISSIMO RISCO
+E-mail: suzana.agra3@hotmail.com
+Additional Emails: (1 item(s))
+  - suzana.agra3@hotmail.com
+Federal Status: REGULAR
+Renda: 2425
+Income Bracket: 3
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: ROBERTO CAVALCANTE ALBUQUERQUE
+  Número: 891
+  Bairro: JARDIM PAULISTANO
+  Cidade: CAMPINA GRANDE
+  Estado: PARAIBA
+  CEP: 58415-145
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ROBERTO CAVALCANTE ALBUQUERQUE
+    Número: 891
+    Bairro: JARDIM PAULISTANO
+    Cidade: CAMPINA GRANDE
+    Estado: PARAIBA
+    CEP: 58415-145
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DEPUTADO ASCENDINO MOURA 1/99998
+    Número: 695
+    Bairro: JOSE PINHEIRO
+    Cidade: CAMPINA GRANDE - PB
+    Fonte: DATASUS
+  [3]
+    Rua: FRANCISCO ERNESTO DO REGO
+    Tipo: R
+    Número: 1778
+    Bairro: CRUZEIRO
+    Cidade: CAMPINA GRANDE
+    Estado: PB
+    CEP: 58415-620
+    Data Atualizacao: 10/01/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TEREZINHA GARCIA RIBEIRO
+    Tipo: R
+    Número: 86
+    Complemento: S JOSE PANIF
+    Bairro: NOVA BRASILIA
+    Cidade: CAMPINA GRANDE
+    Estado: PB
+    CEP: 58406-825
+    Data Atualizacao: 07/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE FLOR
+    Tipo: R
+    Número: 166
+    Bairro: LIBERDADE
+    Cidade: CAMPINA GRANDE
+    Estado: PB
+    CEP: 58414-340
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: ROBERTO CAVALCANTE ALBUQUERQUE
+    Número: 0000891
+    Bairro: JARDIM PAULISTANO
+    Cidade: CAMPINA GRANDE
+    Estado: PB
+    CEP: 58415-145
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (83) 99623-1369
+  - (83) 98838-5240
+  - (83) 3099-5890
+  - +55 (83) 98871-6047
+  - +55 (83) 99623-1369
+  - (83) 3065-5785
+  - (83) 3322-3280
+  - (83) 98871-6047
+Datasus Phones: (1 item(s))
+  - (83) 98899-3102
+Cidade de Nascimento: CAMPINA GRANDE - PB
+Cns: 708004355541126
+Rg Issue Date: 791694000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/09/2019
+    Info Date: 22/04/2008
+    Mosaic: F19
+    Mosaic New: E18
+    Mosaic Secondary: H27
+    Income Bracket Id: 4
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: FRANCISCO ERNESTO DO REGO
+      Número: 1778
+      Bairro: CRUZEIRO
+      Cidade: CAMPINA GRANDE
+      Estado: PB
+      CEP: 58415-620
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: TEREZINHA GARCIA RIBEIRO
+      Número: 86
+      Complemento: S JOSE PANIF
+      Bairro: NOVA BRASILIA
+      Cidade: CAMPINA GRANDE
+      Estado: PB
+      CEP: 58406-825
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: JOSE FLOR
+      Número: 166
+      Bairro: LIBERDADE
+      Cidade: CAMPINA GRANDE
+      Estado: PB
+      CEP: 58414-340
+      Date Added: 01/02/2018
+    [4]
+      Tipo: R
+      Rua: ROBERTO CAVALCANTE ALBUQUERQUE
+      Número: 891
+      Bairro: JD PAULISTANO
+      Cidade: CAMPINA GRANDE
+      Estado: PB
+      CEP: 58415-145
+      Date Added: 26/02/2018
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 33223280
+      Ddd: 83
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 988385240
+      Ddd: 83
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 996231369
+      Ddd: 83
+      Tipo: 3
+      Classificacao: C
+      Date Added: 01/02/2018
+    [4]
+      Telefone: 988716047
+      Ddd: 83
+      Tipo: 3
+      Classificacao: C
+      Date Added: 01/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: suzana.agra3@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+  Score:
+    CSB8: 297
+    CSB8 FAIXA: ALTO
+    CSBA: 958
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (11 item(s))
+    [1]
+      CPF: 288.575.004-97
+      Nome: JOSEFA TOMAZ DA SILVA LIMAO
+      Vinculo: MAE
+    [2]
+      CPF: 3331883492
+      Nome: EDUARDO DA SILVA BRITO
+      Vinculo: SOBRINHA(O)
+    [3]
+      CPF: 4079500440
+      Nome: ANDREA CARLOS MORENO NEVES DE SOUSA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 73425435
+      Nome: FERNANDA CRISTINA AGRA BORBOREMA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 8564390450
+      Nome: MARIA LUIZA DINIZ BORBOREMA
+      Vinculo: SOBRINHA(O)
+    [6]
+      CPF: 631.476.294-49
+      Nome: JOSEFA ZELIA DA SILVA LIMAO
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 6710156486
+      Nome: RAFAEL DA SILVA BRITO
+      Vinculo: SOBRINHA(O)
+    [8]
+      CPF: 839.165.984-49
+      Nome: ROSILMA DA SILVA LIMAO
+      Vinculo: IRMA(O)
+    [9]
+      CPF: 659.296.594-00
+      Nome: FRANCINETE DA SILVA BRITO
+      Vinculo: IRMA(O)
+    [10]
+      CPF: 695.669.334-87
+      Nome: IVANILDA DA SILVA LIMAO
+      Vinculo: IRMA(O)
+    [11]
+      CPF: 8564391422
+      Nome: LUIZ FHELIPE DINIZ BORBOREMA
+      Vinculo: SOBRINHA(O)
+  Pis: 12665645442
+  Tse:
+    Titulo: 23938781210
+    Zona: 16
+    Secao: 173
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2178.82
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 154.115.914-49
+    Nome: RIBAMAR DA COSTA SOARES
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 3130
+    Bairro: CRUZEIRO
+  [2]
+    CPF: 054.255.664-25
+    Nome: KARINA LIGIA PEREIRA DA SILVA
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2765
+    Bairro: CRUZEIRO
+  [3]
+    CPF: 080.356.114-88
+    Nome: VIVIANE MARIA DA SILVA
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 32
+    Bairro: CRUZEIRO
+  [4]
+    CPF: 020.221.474-56
+    Nome: ROZANGELA MARIA VENCERLAU FARIAS
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 3010
+    Bairro: CRUZEIRO
+  [5]
+    CPF: 488.478.874-53
+    Nome: ANA LUCIA ALVES DE FARIAS
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 1541
+    Bairro: CRUZEIRO
+  [6]
+    CPF: 018.767.004-83
+    Nome: EDMARA MARTINS DE FREITAS
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 3286
+    Bairro: CRUZEIRO
+  [7]
+    CPF: 991.754.364-34
+    Nome: MARIA OURIQUES DE MELO
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 1827
+    Bairro: CRUZEIRO
+  [8]
+    CPF: 264.023.514-15
+    Nome: ODETE DE ARAUJO LEITE
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2025
+    Bairro: CRUZEIRO
+  [9]
+    CPF: 041.459.924-15
+    Nome: REGINALDO GERVASIO DA CRUZ
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2036
+    Bairro: CRUZEIRO
+  [10]
+    CPF: 645.221.644-91
+    Nome: MARCIO BEZERRA MOTTA
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2196
+    Bairro: CRUZEIRO
+  [11]
+    CPF: 549.645.394-15
+    Nome: IRENE DUNDA DE ARAUJO MACEDO
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2329
+    Bairro: CRUZEIRO
+  [12]
+    CPF: 151.369.904-06
+    Nome: JORGE CAMILO DA SILVA
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2480
+    Bairro: CRUZEIRO
+  [13]
+    CPF: 397.773.324-91
+    Nome: VANIA DE LUNA PACHECO
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2116
+    Bairro: CRUZEIRO
+  [14]
+    CPF: 052.275.894-02
+    Nome: SILVIO MANUEL OLIVEIRA MELO
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 2474
+    Bairro: CRUZEIRO
+  [15]
+    CPF: 451.144.554-00
+    Nome: SIMIAO DE LEMOS BARRETO
+    Logradouro: FRANCISCO ERNESTO DO REGO
+    Número: 3312
+    Bairro: CRUZEIRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (83) 99623-1369
+    Nome: PATRICIA CARLOS MORENO
+    Cidade: CAMPINA GRANDE
+    UF: PB
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (83) 3099-5890
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Cel Contato: +5583988716047
+    Data Retirada: 09MAR2017:15:59:34
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (83) 3065-5785
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 26AUG2016:16:46:43
+    Cel Contato: +5583988716047
+    Data Retirada: 18JAN2017:16:31:55
+    Tipo Cliente: Residencial
+E-mails: (1 item(s))
+  - suzana.agra3@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2425
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2178.82
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (83) 3322-3280
+    Ddd: 83
+    Número: 33223280
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (83) 98838-5240
+    Ddd: 83
+    Número: 988385240
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A0
+  [3]
+    Telefone: (83) 99623-1369
+    Ddd: 83
+    Número: 996231369
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: C
+  [4]
+    Telefone: (83) 98871-6047
+    Ddd: 83
+    Número: 988716047
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: C
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

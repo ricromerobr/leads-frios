@@ -1,0 +1,437 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  33606670850
+Data/Hora:  03/10/2026, 17:35:15
+Tempo API:  796ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 336.066.708-50
+Nome: ALESSANDRA DA SILVA LIMA
+Primeiro Nome: ALESSANDRA
+Sobrenome: LIMA
+Sexo: Feminino
+Data de Nascimento: 27/11/1984
+Nome da Mãe: MARICELIA GERALDO DA SILVA
+Nome do Pai: VALTER DE LIMA
+RG: 343512105
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 324931500167
+Mosaic: E16
+Ocupação: Administrador
+Score:
+  Value: 121
+  Range: ALTISSIMO
+E-mail: meggmel@bol.com.br
+Additional Emails: (2 item(s))
+  - meggmel@bol.com.br
+  - ale_megg@hotmail.com
+Federal Status: REGULAR
+Renda: 1394
+Income Bracket: 2
+Cbo: 411010
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: UBIRAJARA SOUSA FREITAS
+  Bairro: JD PERUIBE
+  Cidade: PERUIBE
+  Estado: SAO PAULO
+  CEP: 11750-000
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: UBIRAJARA SOUSA FREITAS
+    Bairro: JD PERUIBE
+    Cidade: PERUIBE
+    Estado: SAO PAULO
+    CEP: 11750-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ALFREDO GOMES
+    Número: 646
+    Bairro: CENTRO
+    Cidade: PERUIBE - SP
+    Fonte: DATASUS
+  [3]
+    Rua: AV. PADRE ANCHIETA
+    Número: 2285
+    Bairro: BARRA DE JANGADA
+    Cidade: PERUIBE
+    Estado: SP
+    CEP: 11750-000
+    Fonte: SARAIVA
+  [4]
+    Rua: TAMBORE
+    Tipo: AV
+    Número: 267
+    Bairro: TORRE SUL
+    Cidade: PERUIBE
+    Estado: SP
+    CEP: 11750-000
+    Data Atualizacao: 05/02/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ALFREDO GOMES
+    Tipo: R
+    Número: 646
+    Bairro: CENTRO
+    Cidade: PERUIBE
+    Estado: SP
+    CEP: 11750-000
+    Data Atualizacao: 07/02/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ALFREDO GOMES
+    Tipo: R
+    Número: 632
+    Bairro: CENTRO
+    Cidade: PERUIBE
+    Estado: SP
+    CEP: 11750-000
+    Data Atualizacao: 12/11/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: LUCIANO DE BONA
+    Tipo: AV
+    Número: 3001
+    Complemento: SAO JOAO BATIS
+    Cidade: PERUIBE
+    Estado: SP
+    CEP: 11750-000
+    Data Atualizacao: 12/09/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: UBIRAJARA SOUSA FREITAS
+    Número: 0000015
+    Bairro: JARDIM PERUIBE
+    Cidade: PERUIBE
+    Estado: SP
+    CEP: 01175-000
+    Fonte: ASSECC
+  [9]
+    Rua: R UBIRAJARA SOUSA FREITAS
+    Número: 15
+    Bairro: JD PERUIBE
+    Estado: SP
+    CEP: 11750-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (13) 99650-2633
+  - (13) 3455-3996
+  - (13) 3453-1247
+  - (13) 99135-4662
+  - (13) 99762-5962
+  - (13) 99617-1996
+Cidade de Nascimento: PERUIBE - SP
+Cns: 706302728380873
+Rg Issue Date: 835758000000
+Saraiva:
+  Customer Id: 5370240
+  Telefone: (13) 3455-3996
+  E-mail: MEGGMEL@BOL.COM.BR
+  Data de Nascimento: 27/11/1984
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/05/2019
+    Info Date: 25/08/2008
+    Mosaic: E16
+    Mosaic New: G23
+    Mosaic Secondary: E15
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: TAMBORE
+      Número: 267
+      Bairro: TORRE SUL
+      Cidade: PERUIBE
+      Estado: SP
+      CEP: 11750-000
+      Date Added: 11/07/2017
+    [2]
+      Tipo: R
+      Rua: ALFREDO GOMES
+      Número: 646
+      Bairro: CENTRO
+      Cidade: PERUIBE
+      Estado: SP
+      CEP: 11750-000
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ALFREDO GOMES
+      Número: 632
+      Bairro: CENTRO
+      Cidade: PERUIBE
+      Estado: SP
+      CEP: 11750-000
+      Date Added: 07/11/2011
+    [4]
+      Tipo: AV
+      Rua: LUCIANO DE BONA
+      Número: 3001
+      Complemento: SAO JOAO BATIS
+      Cidade: PERUIBE
+      Estado: SP
+      CEP: 11750-000
+      Date Added: 07/10/2015
+    [5]
+      Tipo: AV
+      Rua: LUCIANO BONA
+      Número: 3001
+      Bairro: S JOAO BATISTA
+      Cidade: PERUIBE
+      Estado: SP
+      CEP: 11750-000
+      Date Added: 14/05/2018
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 34531247
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/11/2006
+      Info Date: 02/03/2019
+    [2]
+      Telefone: 991354662
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 997625962
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 996171996
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: meggmel@bol.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: ale_megg@hotmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 536
+    CSB8 FAIXA: BAIXO
+    CSBA: 121
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 249.452.958-16
+      Nome: ELIANE DA SILVA DE LIMA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 248.744.548-36
+      Nome: MARICELIA GERALDO DA SILVA
+      Vinculo: MAE
+    [3]
+      CPF: 255.497.598-10
+      Nome: ELISETE JOANA DA SILVA DE LIMA FERREIRA
+      Vinculo: IRMA(O)
+  Tse:
+    Titulo: 324931500167
+    Zona: 295
+    Secao: 39
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1302.34
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 148.840.858-09
+    Nome: JUSSARA JOSEFINA RODRIGUES VIANNA
+    Logradouro: COMTIPO PADRE ANCHIETA
+    Número: 6627
+    Bairro: S JOSE
+  [2]
+    CPF: 052.059.148-82
+    Nome: NOEL PEDRO DA SILVA
+    Logradouro: ANTIGA ESTRADA DOS INDIOS
+    Número: 344
+  [3]
+    CPF: 842.998.608-10
+    Nome: NELSON JOSE DA SILVA
+    Logradouro: BENEDITO ANDERSON LIBERT
+    Número: 97
+    Bairro: CARAGUAVA
+  [4]
+    CPF: 051.979.738-89
+    Nome: AVILMAR VIEIRA DUARTE
+    Logradouro: ARMANDO CUNHA
+    Número: SN
+    Bairro: GUATIARIA
+  [5]
+    CPF: 468.615.058-20
+    Nome: RUBENS PEREIRA DOS SANTOS
+    Logradouro: PERNAMBUCO
+    Número: 473
+  [6]
+    CPF: 051.385.968-37
+    Nome: APARECIDA DE OLIVEIRA FRANCA
+    Logradouro: AMAPA
+    Número: 268
+  [7]
+    CPF: 126.700.418-50
+    Nome: VANUZA FAGUNDES CORREIA
+    Logradouro: TUCURUVI
+    Número: 621
+    Bairro: CENTRO
+  [8]
+    CPF: 218.943.358-48
+    Nome: TEREZA COIMBRA DE SOUZA
+    Logradouro: R FERREIRA MARTINS
+    Número: 794
+    Bairro: CENTRO
+  [9]
+    CPF: 032.762.658-50
+    Nome: JOSE ANDRADE DE JESUS
+    Logradouro: LUCIANO BONA
+    Número: 1935
+    Bairro: VL ROMAR
+  [10]
+    CPF: 757.329.208-20
+    Nome: MAURO DE OLIVEIRA CAMILO
+    Logradouro: TANCREDO DE ALMEIDA NEVES
+    Número: 3060
+    Bairro: CARAGUAVA
+  [11]
+    CPF: 052.478.938-08
+    Nome: CREUSA HILDA DIAS JERONIMO
+    Logradouro: UM
+    Número: 119
+    Bairro: VL ERMINIA
+  [12]
+    CPF: 363.344.130-15
+    Nome: EVA BERENICE ALMEIDA SOARES
+    Logradouro: LIRIO PAZ
+    Número: 57
+    Bairro: JD DAS FLOR
+  [13]
+    CPF: 050.445.538-91
+    Nome: NELSON TILMAN
+    Logradouro: TAQUARITINGA
+    Número: 308
+    Bairro: PERUIBE
+  [14]
+    CPF: 050.348.388-50
+    Nome: VICENTE CIRIACO DA SILVA
+    Logradouro: TREZE
+    Número: 22
+    Bairro: GUARAU
+  [15]
+    CPF: 050.297.398-66
+    Nome: JOSE ADOLPHO DOS SANTOS
+    Logradouro: G
+    Número: 148
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (13) 99650-2633
+    Nome: ALESSANDRA DA SILVA LIMA
+    Cidade: PERUIBE
+    UF: SP
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (13) 99650-2633
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 31/05/2019
+    Flag Divida: 1
+    Maior Atraso: -1
+    Menor Atraso: -1
+    Valor Fatura: 74.99
+    Mes Referencia: 202009
+E-mails: (2 item(s))
+  - meggmel@bol.com.br
+  - ale_megg@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1394
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1302.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (13) 3453-1247
+    Ddd: 13
+    Número: 34531247
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 02/03/2019
+    Classificacao: D2
+  [2]
+    Telefone: (13) 99135-4662
+    Ddd: 13
+    Número: 991354662
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (13) 99762-5962
+    Ddd: 13
+    Número: 997625962
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (13) 99617-1996
+    Ddd: 13
+    Número: 996171996
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

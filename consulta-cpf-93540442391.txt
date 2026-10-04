@@ -1,0 +1,392 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  93540442391
+Data/Hora:  03/10/2026, 22:32:23
+Tempo API:  692ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 935.404.423-91
+Nome: CARLIZANGELA DA SILVA MACEDO ARRUDA
+Primeiro Nome: CARLIZANGELA
+Sobrenome: ARRUDA
+Sexo: Feminino
+Data de Nascimento: 26/05/1982
+Nome da Mãe: BENILDE COELHO DA SILVA
+Nome do Pai: JOSÉ BERNARDINO ALVES DE MACEDO
+RG: 1173492990
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MA
+Mosaic: J37
+Ocupação: Professor da educação de jovens e adultos do ensino fundamental (primeira a quarta série)
+Score:
+  Value: 839
+  Range: BAIXISSIMO RISCO
+E-mail: carlisangela.educ@gmail.com
+Additional Emails: (2 item(s))
+  - carlisangela.educ@gmail.com
+  - beatriz.lindona2012@gmail.com
+Federal Status: REGULAR
+Renda: 2293
+Income Bracket: 3
+Cbo: 231205
+Endereço:
+  Tipo: RUA
+  Rua: 22 DE ABRIL
+  Bairro: CENTRO
+  Cidade: FORMOSA DA SERRA NEGRA
+  Estado: MARANHAO
+  CEP: 65943-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 22 DE ABRIL
+    Bairro: CENTRO
+    Cidade: FORMOSA DA SERRA NEGRA
+    Estado: MARANHAO
+    CEP: 65943-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PROFESSOR ANTONIO MANOEL
+    Número: S/N
+    Bairro: VILA VIANA
+    Cidade: FORMOSA DA SERRA NEGRA - MA
+    Fonte: DATASUS
+  [3]
+    Rua: EDISON LOBAO
+    Tipo: TV
+    Número: 15
+    Bairro: CENTRO
+    Cidade: FORMOSA DA SERRA NEGRA
+    Estado: MA
+    CEP: 65943-000
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOAO MATA SILVA
+    Tipo: AV
+    Número: 190
+    Bairro: CENTRO
+    Cidade: FORMOSA DA SERRA NEGRA
+    Estado: MA
+    CEP: 65943-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: EFIGENIA
+    Tipo: R
+    Número: 10
+    Bairro: VL VIANA
+    Cidade: FORMOSA DA SERRA NEGRA
+    Estado: MA
+    CEP: 65943-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (99) 98451-8397
+  - (99) 98408-7303
+  - (99) 98489-7407
+  - +55 (99) 98489-7407
+  - (99) 98405-8689
+  - (99) 98434-1216
+  - (98) 3565-1131
+  - (99) 3565-1416
+  - (99) 3565-1216
+  - (99) 3565-1148
+Datasus Phones: (1 item(s))
+  - (99) 98403-2026
+Cidade de Nascimento: GRAJAU - MA
+Cns: 708200616867644
+Rg Issue Date: 926910000000
+Paycom:
+  E-mail: beatriz.lindona2012@gmail.com
+  Data de Nascimento: 26/05/1982
+  Created At: 2020-01-29 00:00:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: rua antônio manoel
+    Número: 10
+    Bairro: vila viana
+    Cidade: Formosa da Serra Negra
+    Estado: Maranhão
+    País: Brasil
+    CEP: 65943-000
+    Telephone: (99) 98408-7303
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Mosaic: J37
+    Mosaic New: H27
+    Mosaic Secondary: H28
+    Income Bracket Id: 3
+  Endereços: (4 item(s))
+    [1]
+      Tipo: TV
+      Rua: EDISON LOBAO
+      Número: 15
+      Bairro: CENTRO
+      Cidade: FORMOSA DA SERRA NEGRA
+      Estado: MA
+      CEP: 65943-000
+      Date Added: 07/01/2014
+    [2]
+      Tipo: AV
+      Rua: JOAO MATA SILVA
+      Número: 190
+      Bairro: CENTRO
+      Cidade: FORMOSA DA SERRA NEGRA
+      Estado: MA
+      CEP: 65943-000
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: EFIGENIA
+      Número: 10
+      Bairro: VL VIANA
+      Cidade: FORMOSA DA SERRA NEGRA
+      Estado: MA
+      CEP: 65943-000
+      Date Added: 20/03/2013
+    [4]
+      Rua: ANTONIO MANOEL
+      Número: 10
+      Bairro: VL VIANA
+      Cidade: FORMOSA DA SERRA NEGRA
+      Estado: MA
+      CEP: 65943-000
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 35651131
+      Ddd: 98
+      Tipo: 1
+      Classificacao: D
+      Date Added: 06/08/2010
+    [2]
+      Telefone: 35651416
+      Ddd: 99
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 11/06/2012
+      Info Date: 24/12/2012
+    [3]
+      Telefone: 35651216
+      Ddd: 99
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 18/03/2015
+    [4]
+      Telefone: 984087303
+      Ddd: 99
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 35651148
+      Ddd: 99
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: carlisangela.educ@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 502
+    CSB8 FAIXA: BAIXO
+    CSBA: 839
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 832.858.903-63
+      Nome: MARIA CARLIENE DA SILVA MACEDO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 364.221.423-15
+      Nome: BENILDE COELHO DA SILVA
+      Vinculo: MAE
+    [3]
+      CPF: 423486330
+      Nome: ISMAEL CARLOS DA SILVA MACEDO
+      Vinculo: IRMA(O)
+  Pis: 20994142727
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1786.37
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.202.723-08
+    Nome: JOSE DOURADO DE SOUSA
+    Logradouro: CABECEIRA VERDE
+    Número: 2
+    Bairro: ZONA RURAL
+  [2]
+    CPF: 054.142.383-59
+    Nome: LUIS FERNANDO PERES DE SOUSA
+    Logradouro: VINTE E DOIS DE ABRIL
+    Número: 22
+    Bairro: MERCIAL ARRUDA
+  [3]
+    CPF: 493.215.443-72
+    Nome: MARIA ANCELMA PEREIRA DE OLIVEIRA SANTOS
+    Logradouro: EDSON LOBAO
+    Número: 116
+    Bairro: CENTRO
+  [4]
+    CPF: 073.674.273-50
+    Nome: KAWANNE INGRIDY MESSIAS VASCONCELOS
+    Logradouro: VINTE UM
+    Número: 14
+    Bairro: CENTRO
+  [5]
+    CPF: 808.550.833-87
+    Nome: CLEONE BENVINDO DE SOUSA
+    Logradouro: BOM ESTAR
+    Número: 36
+    Bairro: CENTRO
+  [6]
+    CPF: 013.927.723-46
+    Nome: VALDIRENE OLIVEIRA DE SANTANA SILVA
+    Logradouro: MERCIAL ARRUDA
+    Número: 13
+  [7]
+    CPF: 019.359.523-07
+    Nome: EDMILSON FERNANDES MARTINS
+    Logradouro: JOSE MILHOMEM
+    Número: SN
+    Bairro: VL VIANA
+  [8]
+    CPF: 321.020.203-63
+    Nome: MARIA NASARE ARRUDA COELHO FIGUEREDO
+    Logradouro: SETE DE SETEMBRO
+    Número: 1
+    Bairro: CENTRO
+  [9]
+    CPF: 017.047.003-29
+    Nome: TEMISTA DA SILVA SOUZA
+    Logradouro: TANCREDO NEVES
+    Número: SN
+  [10]
+    CPF: 842.148.563-68
+    Nome: MARIJANE PEREIRA DOS SANTOS
+    Logradouro: ROSEANA SARNEY
+    Número: 12
+    Bairro: VL VIANA
+  [11]
+    CPF: 014.282.643-02
+    Nome: PATRICIA RIBEIRO DOS SANTOS
+    Logradouro: EDSON LOBAO
+    Número: SN
+  [12]
+    CPF: 012.944.653-09
+    Nome: ADONIAS DA SILVA PERES
+    Logradouro: MA
+    Número: 6
+  [13]
+    CPF: 750.476.673-91
+    Nome: ANTONIO SIMAO COELHO DE ANDRADE
+    Logradouro: PRINCIPAL
+    Número: 1
+  [14]
+    CPF: 010.700.283-39
+    Nome: MARIA AMELIA MARTINS DOS SANTOS LIMA
+    Logradouro: CAPIM BRANCO
+    Número: 40
+  [15]
+    CPF: 326.862.771-49
+    Nome: ANUNCIATO AFONSO RIBEIRO
+    Logradouro: DAS PEDRAS
+    Número: 49
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (99) 98405-8689
+    Nome: KARLIZANGELA DA SILVA MACEDO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (99) 98434-1216
+    Nome: KARLIZANGELA DA SILVA MACEDO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - carlisangela.educ@gmail.com
+  - beatriz.lindona2012@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2293
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1786.37
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (98) 3565-1131
+    Ddd: 98
+    Número: 35651131
+    Tipo: FIXO
+    Data Inclusao: 06/08/2010
+    Classificacao: D
+  [2]
+    Telefone: (99) 3565-1416
+    Ddd: 99
+    Número: 35651416
+    Tipo: FIXO
+    Data Inclusao: 11/06/2012
+    Data Informacao: 24/12/2012
+    Classificacao: D2
+  [3]
+    Telefone: (99) 3565-1216
+    Ddd: 99
+    Número: 35651216
+    Tipo: FIXO
+    Data Inclusao: 18/03/2015
+    Classificacao: D2
+  [4]
+    Telefone: (99) 98408-7303
+    Ddd: 99
+    Número: 984087303
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [5]
+    Telefone: (99) 3565-1148
+    Ddd: 99
+    Número: 35651148
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+Occupation Code: 231205
+Occupation Name: Professor da educação de jovens e adultos do ensino fundamental (primeira a quarta série)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

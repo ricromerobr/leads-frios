@@ -1,0 +1,415 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  83811605020
+Data/Hora:  02/10/2026, 17:21:42
+Tempo API:  692ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 838.116.050-20
+Nome: LUIS FERNANDO GONZALEZ MACHADO
+Primeiro Nome: LUIS
+Sobrenome: MACHADO
+Sexo: Masculino
+Data de Nascimento: 07/11/1987
+Nome da Mãe: IRACEMA GONZALEZ DE MELLO
+Nome do Pai: LUIZ MARIO RODRIGUES MACHADO
+RG: 1087384671
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RS
+Voter Id: 091450020400
+Mosaic: C09
+Ocupação: Administrador
+Score:
+  Value: 213
+  Range: ALTO
+E-mail: SILIARA@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 919
+Income Bracket: 1
+Cbo: 519935
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: GENERAL RONDON
+  Número: 50
+  Bairro: CAMPOS ELISEOS
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 01204-010
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GENERAL RONDON
+    Número: 50
+    Bairro: CAMPOS ELISEOS
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 01204-010
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CORONEL VICENTE
+    Número: 191
+    Bairro: CENTRO
+    Cidade: CANOAS - RS
+    Fonte: DATASUS
+  [3]
+    Rua: ANGELO GAYOTO
+    Tipo: R
+    Número: 152
+    Bairro: VL NOVA PARADA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02883-001
+    Data Atualizacao: 11/02/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FLORIANOPOLIS
+    Tipo: R
+    Número: 1092
+    Complemento: A
+    Bairro: MATHIAS VELHO
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92330-500
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CEARA
+    Tipo: R
+    Número: 341
+    Bairro: MATHIAS VELHO
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92340-020
+    Data Atualizacao: 07/08/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: GENERAL RONDON
+    Número: 0000050
+    Bairro: CAMPOS ELISEOS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01204-010
+    Fonte: BR21M
+  [7]
+    Tipo: R.
+    Rua: PASSO FUNDO (GVT:004855)
+    Número: 860
+    Complemento: FR .
+    Bairro: CANOAS
+    Cidade: CANOAS
+    Estado: RS
+    CEP: 92330-340
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (11) 97722-6843
+  - (51) 3059-8557
+  - 555192465475
+  - 555185428044
+  - (51) 3477-4710
+  - (51) 3032-2847
+  - (11) 95317-0406
+  - (11) 97460-1395
+  - (51) 98542-8044
+Datasus Phones: (2 item(s))
+  - (51) 3236-1659
+  - (51) 3236-1670
+Cidade de Nascimento: PORTO ALEGRE - RS
+Cns: 700107901467219
+Rg Issue Date: 949892400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 08/10/2018
+    Info Date: 21/12/2008
+    Rg Issuer: SSP
+    Mosaic: C09
+    Mosaic New: G23
+    Mosaic Secondary: G24
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ANGELO GAYOTO
+      Número: 152
+      Bairro: VL NOVA PARADA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02883-001
+      Date Added: 16/04/2009
+    [2]
+      Tipo: R
+      Rua: FLORIANOPOLIS
+      Número: 1092
+      Complemento: A
+      Bairro: MATHIAS VELHO
+      Cidade: CANOAS
+      Estado: RS
+      CEP: 92330-500
+      Date Added: 03/08/2009
+    [3]
+      Tipo: R
+      Rua: CEARA
+      Número: 341
+      Bairro: MATHIAS VELHO
+      Cidade: CANOAS
+      Estado: RS
+      CEP: 92340-020
+      Date Added: 19/01/2011
+    [4]
+      Tipo: R
+      Rua: RONDON
+      Número: 50
+      Bairro: CPO ELISEOS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01204-010
+      Date Added: 02/10/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34774710
+      Ddd: 51
+      Tipo: 2
+      Classificacao: C2
+      Date Added: 16/04/2009
+    [2]
+      Telefone: 30322847
+      Ddd: 51
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/01/2011
+    [3]
+      Telefone: 953170406
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [4]
+      Telefone: 974601395
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [5]
+      Telefone: 985428044
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/04/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: gmachado78@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [2]
+      E-mail: luinando@live.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSBA: 213
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 480.536.780-68
+      Nome: JUREMA COLVAR GONZALEZ
+      Vinculo: TIA(O)
+    [2]
+      CPF: 342.974.800-34
+      Nome: DALVANIR COLVAR GONZALEZ
+      Vinculo: AVO
+    [3]
+      CPF: 527.480.900-63
+      Nome: IRACEMA GONZALEZ DE MELLO
+      Vinculo: MAE
+Additional Emails: (2 item(s))
+  - gmachado78@hotmail.com
+  - luinando@live.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 047.656.678-98
+    Nome: LUIZ TADEU BARNABE
+    Logradouro: ANGELO GAYOTO
+    Número: 242
+    Bairro: VL NOVA PARADA
+  [2]
+    CPF: 046.017.548-36
+    Nome: JOAO CARLOS MENDES
+    Logradouro: ANGELO GAYOTO
+    Número: 249
+    Bairro: VL NOVA PARADA
+  [3]
+    CPF: 045.190.038-30
+    Nome: JOSE REGINALDO DA SILVA
+    Logradouro: ANGELO GAYOTO
+    Número: 439
+    Bairro: VL NOVA PARADA
+  [4]
+    CPF: 450.103.968-07
+    Nome: CARLOS NICULAU DOS SANTOS JUNIOR
+    Logradouro: ANGELO GAYOTO
+    Número: 178
+    Bairro: VL NOVA PARADA
+  [5]
+    CPF: 417.952.448-10
+    Nome: LETICIA DA SILVA RODRIGUES DOS SANTOS
+    Logradouro: ANGELO GAYOTO
+    Número: 551
+    Bairro: VL NOVA PARADA
+  [6]
+    CPF: 101.275.518-59
+    Nome: NAZARENO CRISTOVAO VENANCIO
+    Logradouro: ANGELO GAYOTO
+    Número: 604
+    Bairro: VL NOVA PARADA
+  [7]
+    CPF: 298.118.338-93
+    Nome: CLAUDIA PAES
+    Logradouro: ANGELO GAYOTO
+    Número: 153
+    Bairro: VL NOVA PARADA
+  [8]
+    CPF: 271.747.658-07
+    Nome: MARCIO RODRIGUES PINHEIRO
+    Logradouro: ANGELO GAYOTO
+    Número: 434
+    Bairro: VL NOVA PARADA
+  [9]
+    CPF: 255.237.948-64
+    Nome: ANA CARLA SAMPAIO FIGUEIREDO
+    Logradouro: ANGELO GAYOTO
+    Número: 186
+    Bairro: VL NOVA PARADA
+  [10]
+    CPF: 148.534.558-84
+    Nome: MARCOS ROBERTO DA SILVA
+    Logradouro: ANGELO GAYOTO
+    Número: 86
+    Bairro: VL NOVA PARADA
+  [11]
+    CPF: 132.538.138-19
+    Nome: CRISTINA GARBUS DE FREITAS
+    Logradouro: ANGELO GAYOTO
+    Número: 568
+    Bairro: VL NOVA PARADA
+  [12]
+    CPF: 057.194.688-70
+    Nome: CLAUDIONOR FERREIRA DA SILVA
+    Logradouro: ANGELO GAYOTO
+    Número: 439
+    Bairro: VL NOVA PARADA
+  [13]
+    CPF: 842.043.468-04
+    Nome: VAILDE APARECIDA DOS AFLITOS
+    Logradouro: ANGELO GAYOTO
+    Número: 153
+    Bairro: VL NOVA PARADA
+  [14]
+    CPF: 631.444.924-34
+    Nome: JOSE GONCALVES DE OLIVEIRA
+    Logradouro: ANGELO GAYOTO
+    Número: 185
+    Bairro: VL NOVA PARADA
+  [15]
+    CPF: 361.762.018-37
+    Nome: JOSE BENIGNO DA SILVA NETO
+    Logradouro: ANGELO GAYOTO
+    Número: 392
+    Bairro: VL NOVA PARADA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 97722-6843
+    Nome: LUIS FERNANDO GONZALEZ MACHADO
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (51) 3059-8557
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Data Ativacao: 21SEP2007:00:00:00
+    Cel Contato: +555192465475
+    Complemento: FR .
+    Data Retirada: 17DEC2010:17:32:18
+    Tipo Cliente: Residencial
+E-mails: (3 item(s))
+  - siliara@hotmail.com
+  - gmachado78@hotmail.com
+  - luinando@live.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 919
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (51) 3477-4710
+    Ddd: 51
+    Número: 34774710
+    Tipo: CELULAR
+    Data Inclusao: 16/04/2009
+    Classificacao: C2
+  [2]
+    Telefone: (51) 3032-2847
+    Ddd: 51
+    Número: 30322847
+    Tipo: FIXO
+    Data Inclusao: 07/01/2011
+    Classificacao: D
+  [3]
+    Telefone: (11) 95317-0406
+    Ddd: 11
+    Número: 953170406
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [4]
+    Telefone: (11) 97460-1395
+    Ddd: 11
+    Número: 974601395
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [5]
+    Telefone: (51) 98542-8044
+    Ddd: 51
+    Número: 985428044
+    Tipo: 3
+    Data Inclusao: 05/04/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

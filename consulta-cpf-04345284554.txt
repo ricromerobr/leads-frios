@@ -1,0 +1,427 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04345284554
+Data/Hora:  04/10/2026, 15:12:16
+Tempo API:  401ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 043.452.845-54
+Nome: EMERSON GRECCO DE MORAIS
+Primeiro Nome: EMERSON
+Sobrenome: MORAIS
+Sexo: Masculino
+Data de Nascimento: 12/10/1988
+Nome da Mãe: JACIRA GRECCO
+Nome do Pai: AILTON GONCALVES DE MORAIS
+RG: 1355378869
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: BA
+Voter Id: 130219510574
+Mosaic: F20
+Ocupação: Alimentador de linha de produção
+Score:
+  Value: 42
+  Range: ALTISSIMO
+E-mail: sinhogrecco@hotmail.com
+Additional Emails: (2 item(s))
+  - sinhogrecco@hotmail.com
+  - emersongrecco95@gmail.com
+Federal Status: REGULAR
+Renda: 1184
+Income Bracket: 2
+Cbo: 414140
+Corporate Share Pct: 100
+Endereço:
+  Tipo: AVENIDA
+  Rua: GETULIO VARGAS
+  Bairro: CENTRO
+  Cidade: DIAS DAVILA
+  Estado: BAHIA
+  CEP: 42850-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: GETULIO VARGAS
+    Bairro: CENTRO
+    Cidade: DIAS DAVILA
+    Estado: BAHIA
+    CEP: 42850-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: NOSSA SENHORA APARECIDA
+    Número: S/N
+    Bairro: ENTRONCAMENTO
+    Cidade: DIAS D'AVILA - BA
+    Fonte: DATASUS
+  [3]
+    Rua: APARECIDA
+    Tipo: R
+    Número: 148
+    Cidade: DIAS D AVILA
+    Estado: BA
+    CEP: 42850-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: APARECIDA
+    Tipo: R
+    Número: 180
+    Complemento: C B
+    Bairro: DIAS D AVILA
+    Cidade: DIAS D AVILA
+    Estado: BA
+    CEP: 42850-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DEZESSETE DO CANAL
+    Tipo: R
+    Número: 1
+    Complemento: AND
+    Bairro: GL A
+    Cidade: CAMACARI
+    Estado: BA
+    CEP: 42803-826
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: ORLANDO IMBASSAHY
+    Tipo: R
+    Número: 237
+    Bairro: STELLA MARIS
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41600-200
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: RUA R ORLANDO IMBASSAHY
+    Número: 237
+    Complemento: C A 4
+    Bairro: STELLA MARIS
+    Estado: BA
+    CEP: 41600-200
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (71) 98348-3907
+  - (71) 98419-5772
+  - (71) 99919-6159
+  - (71) 98129-3641
+  - (71) 98146-7440
+  - (71) 98127-4924
+  - (71) 3648-1170
+  - (71) 98135-0394
+  - (71) 98515-9339
+Datasus Phones: (1 item(s))
+  - (71) 5254-6685
+Cidade de Nascimento: SALVADOR - BA
+Cns: 706408699031483
+Rg Issue Date: 1285902000000
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 26/10/2019
+    Info Date: 21/12/2008
+    Mosaic: F20
+    Mosaic New: D11
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: APARECIDA
+      Número: 148
+      Cidade: DIAS D AVILA
+      Estado: BA
+      CEP: 42850-000
+      Date Added: 16/10/2018
+    [2]
+      Tipo: R
+      Rua: APARECIDA
+      Número: 180
+      Complemento: C B
+      Bairro: DIAS D AVILA
+      Cidade: DIAS D AVILA
+      Estado: BA
+      CEP: 42850-000
+      Date Added: 10/07/2014
+    [3]
+      Tipo: SEG
+      Rua: TRAV NOSSA SENHORA APARECI
+      Número: 180
+      Complemento: C
+      Bairro: ENTRONCAMENTO
+      Cidade: DIAS D AVILA
+      Estado: BA
+      CEP: 42850-000
+      Date Added: 14/01/2020
+    [4]
+      Tipo: R
+      Rua: DEZESSETE DO CANAL
+      Número: 1
+      Complemento: AND
+      Bairro: GL A
+      Cidade: CAMACARI
+      Estado: BA
+      CEP: 42803-826
+      Date Added: 25/11/2019
+    [5]
+      Tipo: R
+      Rua: ORLANDO IMBASSAHY
+      Número: 237
+      Bairro: STELLA MARIS
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41600-200
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 981467440
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/07/2014
+      Info Date: 29/05/2014
+    [2]
+      Telefone: 981274924
+      Ddd: 71
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 19/07/2017
+    [3]
+      Telefone: 36481170
+      Ddd: 71
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 981350394
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [5]
+      Telefone: 985159339
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: emersongrecco95@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: sinhogrecco@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 259
+    CSB8 FAIXA: ALTO
+    CSBA: 42
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: JACIRA GRECCO
+      Vinculo: MAE
+  Pis: 16135960211
+  Tse:
+    Titulo: 130219510574
+    Zona: 186
+    Secao: 75
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 372.7
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 534.135.631-49
+    Nome: MARIA APARECIDA GONCALVES DA SILVA
+    Logradouro: DA SUICA
+    Número: 202
+    Bairro: URBIS
+  [2]
+    CPF: 960.176.355-49
+    Nome: GILENO DE SANTISSIMA TRINDADE DOS SANTOS
+    Logradouro: CAMILO TORREND
+    Número: 6
+  [3]
+    CPF: 052.004.585-87
+    Nome: MAURILIO DESIDERIA DOS SANTOS
+    Logradouro: DAS CANDEIAS
+    Número: 228
+    Bairro: GENARO
+  [4]
+    CPF: 415.473.735-04
+    Nome: MARIA DA GLORIA DE JESUS RODRIGUES
+    Logradouro: JOAO DALTRO DANTAS
+    Número: 103
+    Bairro: IMBASSAY
+  [5]
+    CPF: 884.078.375-04
+    Nome: HELITO BORGES GOMES
+    Logradouro: CAMILO TORREND
+    Número: 560
+    Bairro: CENTRO DIAS D AVILA
+  [6]
+    CPF: 008.140.055-19
+    Nome: DANIELA ANDRADE SOUZA PINHEIRO
+    Logradouro: CAMILO TORREND
+    Número: 618
+    Bairro: CENTRO DIAS D AVILA
+  [7]
+    CPF: 030.510.835-26
+    Nome: DEISE DA PAIXAO CRUZ
+    Logradouro: UM PAZ
+    Número: 178
+    Bairro: STA HELENA
+  [8]
+    CPF: 959.732.145-91
+    Nome: NERIVALDO OLIVEIRA
+    Logradouro: ET ANTIGA BAHIA FEIRA
+    Número: 22
+    Bairro: LEANDRINHO
+  [9]
+    CPF: 039.213.305-99
+    Nome: ANA PAULA CONCEICAO DE JESUS
+    Logradouro: MARQUES DE LEAO
+    Número: 40
+    Bairro: PRQ PETROPOLIS
+  [10]
+    CPF: 056.632.795-39
+    Nome: CLAUDIA BISPO PARAGUASSU
+    Logradouro: DIRETA D BIRIBEIRA
+    Número: SN
+    Bairro: BERIBEIRA
+  [11]
+    CPF: 342.284.688-37
+    Nome: RODRIGO CANDIDO DA SILVA
+    Logradouro: SEIS BULGARIA
+    Número: 126
+    Bairro: CJ URBIS
+  [12]
+    CPF: 052.766.145-71
+    Nome: ROZANA FREITAS SANTOS
+    Logradouro: II TRAVESSA
+    Número: 25
+    Bairro: ENTROCAMENTO
+  [13]
+    CPF: 050.581.444-76
+    Nome: ANGELINA EFIGENIA SIMOES RIBEIRO MIRANDA
+    Logradouro: DOS PASSOS
+    Número: 44
+  [14]
+    CPF: 050.496.608-15
+    Nome: JOAO ALBINO DA SILVA
+    Logradouro: K C
+    Número: 8
+  [15]
+    CPF: 050.496.608-15
+    Nome: JOAO ALBINO DA SILVA
+    Logradouro: LOT MTE AT
+    Número: 24
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (71) 99919-6159
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 13JUN2019
+    Ultima Recarga: 18AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 13/06/2019
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (71) 98129-3641
+    Nome: EMERSON GRECCO DE MORAIS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (71) 98348-3907
+    Nome: EMERSON GRECCO DE MORAIS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - sinhogrecco@hotmail.com
+  - emersongrecco95@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1184
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 372.7
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (71) 98146-7440
+    Ddd: 71
+    Número: 981467440
+    Tipo: 3
+    Data Inclusao: 10/07/2014
+    Data Informacao: 29/05/2014
+    Classificacao: D
+  [2]
+    Telefone: (71) 98127-4924
+    Ddd: 71
+    Número: 981274924
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: C2
+  [3]
+    Telefone: (71) 3648-1170
+    Ddd: 71
+    Número: 36481170
+    Tipo: FIXO
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [4]
+    Telefone: (71) 98135-0394
+    Ddd: 71
+    Número: 981350394
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [5]
+    Telefone: (71) 98515-9339
+    Ddd: 71
+    Número: 985159339
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 784205
+Occupation Name: Alimentador de linha de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

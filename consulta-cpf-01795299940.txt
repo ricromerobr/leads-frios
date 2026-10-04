@@ -1,0 +1,267 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01795299940
+Data/Hora:  03/10/2026, 16:17:15
+Tempo API:  512ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 017.952.999-40
+Nome: AGUINALDO VITORINO DA SILVA
+Primeiro Nome: AGUINALDO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 04/04/1976
+Nome da Mãe: MARIA DE FATIMA RODRIGUES
+Voter Id: 060426170698
+Mosaic: D12
+Ocupação: Administrador
+Score:
+  Value: 815
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 380
+Income Bracket: 1
+Cbo: 783210
+Endereço:
+  Tipo: AVENIDA
+  Rua: FERNANDO FIGUEIREDO LINS
+  Número: 1234
+  Bairro: PARQUE SANTA RITA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 08150-040
+All Addresses: (4 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: FERNANDO FIGUEIREDO LINS
+    Número: 1234
+    Bairro: PARQUE SANTA RITA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 08150-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PARANAPANEMA
+    Tipo: R
+    Número: 2872
+    Complemento: FDS
+    Bairro: ZONA VI
+    Cidade: UMUARAMA
+    Estado: PR
+    CEP: 87503-010
+    Data Atualizacao: 06/12/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: PANTANAL
+    Tipo: AV
+    Número: 37
+    Cidade: NAVIRAI
+    Estado: MS
+    CEP: 79950-000
+    Data Atualizacao: 22/10/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: TEREZINHA
+    Tipo: R
+    Número: 479
+    Bairro: MACHADOS
+    Cidade: NAVEGANTES
+    Estado: SC
+    CEP: 88371-557
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 07/08/2019
+    Mosaic: D12
+    Mosaic New: H27
+    Mosaic Secondary: E16
+    Income Bracket Id: 2
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: PARANAPANEMA
+      Número: 2872
+      Complemento: FDS
+      Bairro: ZONA VI
+      Cidade: UMUARAMA
+      Estado: PR
+      CEP: 87503-010
+      Date Added: 15/08/2006
+    [2]
+      Tipo: AV
+      Rua: PANTANAL
+      Número: 37
+      Cidade: NAVIRAI
+      Estado: MS
+      CEP: 79950-000
+      Date Added: 03/08/2009
+    [3]
+      Tipo: R
+      Rua: TEREZINHA
+      Número: 479
+      Bairro: MACHADOS
+      Cidade: NAVEGANTES
+      Estado: SC
+      CEP: 88371-557
+      Date Added: 15/12/2009
+  Score:
+    CSBA: 815
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DE FATIMA RODRIGUES
+      Vinculo: MAE
+  Tse:
+    Titulo: 60426170698
+    Zona: 172
+    Secao: 57
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1129.64
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 050.104.369-14
+    Nome: DEBORA PAULUZE FELIPE
+    Logradouro: PARANAPANEMA
+    Número: 3693
+    Bairro: ZONA VI
+  [2]
+    CPF: 053.368.619-95
+    Nome: ADECIO ARSENIO LONGO
+    Logradouro: PARANAPANEMA
+    Número: 2905
+    Bairro: ZONA VI
+  [3]
+    CPF: 884.774.799-68
+    Nome: RONALDO MACARINE
+    Logradouro: PARANAPANEMA
+    Número: 2888
+    Bairro: ZONA VI
+  [4]
+    CPF: 027.435.779-83
+    Nome: JEREMIAS GOMES DA SILVA JUNIOR
+    Logradouro: PARANAPANEMA
+    Número: 2902
+    Bairro: ZONA VI
+  [5]
+    CPF: 023.864.339-51
+    Nome: CLAUDIA CRISTINA BATISTA EVANGELISTA COIMBRA
+    Logradouro: PARANAPANEMA
+    Número: 2580
+    Bairro: ZONA VI
+  [6]
+    CPF: 007.475.759-83
+    Nome: EDSON ROBERTI
+    Logradouro: PARANAPANEMA
+    Número: 3875
+    Bairro: ZONA VI
+  [7]
+    CPF: 357.518.359-72
+    Nome: AMELIA CANDIDA DE ANDRADE
+    Logradouro: PARANAPANEMA
+    Número: 3395
+    Bairro: ZONA VI
+  [8]
+    CPF: 680.585.278-15
+    Nome: LAURENTINO JANUNZZI
+    Logradouro: PARANAPANEMA
+    Número: 2620
+    Bairro: ZONA VI
+  [9]
+    CPF: 060.579.729-37
+    Nome: MARIANA APARECIDA DE OLIVEIRA
+    Logradouro: PARANAPANEMA
+    Número: 3534
+    Bairro: ZONA VI
+  [10]
+    CPF: 526.887.639-20
+    Nome: MARCOS ANTONIO COLTRO
+    Logradouro: PARANAPANEMA
+    Número: 3908
+    Bairro: ZONA VI
+  [11]
+    CPF: 812.895.539-04
+    Nome: GEORGINA FERREIRA DE OLIVEIRA
+    Logradouro: PARANAPANEMA
+    Número: 2631
+    Bairro: ZONA VI
+  [12]
+    CPF: 047.418.019-00
+    Nome: SIMONE XAVIER DA SILVA
+    Logradouro: PARANAPANEMA
+    Número: 2781
+    Bairro: ZONA VI
+  [13]
+    CPF: 049.467.879-84
+    Nome: EDSON DOS SANTOS SILVA
+    Logradouro: PARANAPANEMA
+    Número: 2196
+    Bairro: ZONA VI
+  [14]
+    CPF: 519.309.191-15
+    Nome: MARIA VALDELICE SILVA DE MOURA
+    Logradouro: PARANAPANEMA
+    Número: 2645
+    Bairro: ZONA VI
+  [15]
+    CPF: 651.975.189-87
+    Nome: RITA PESSOA RODRIGUES
+    Logradouro: PARANAPANEMA
+    Número: 2933
+    Bairro: ZONA VI
+Telefones: (2 item(s))
+  - (11) 2515-2741
+  - +55 (11) 94734-8358
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 2515-2741
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 03JUL2019:17:20:51
+    Cel Contato: +5511947348358
+    Data Retirada: 04SEP2019:07:05:46
+    Tipo Cliente: Residencial
+E-mail: prosangela371@gmail.com
+Additional Emails: (1 item(s))
+  - prosangela371@gmail.com
+E-mails: (1 item(s))
+  - prosangela371@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 380
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1129.64
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

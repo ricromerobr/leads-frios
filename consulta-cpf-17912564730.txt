@@ -1,0 +1,268 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17912564730
+Data/Hora:  04/10/2026, 07:22:11
+Tempo API:  523ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 179.125.647-30
+Nome: AUGUSTO MARIANA FARIA MACHADO
+Primeiro Nome: AUGUSTO
+Sobrenome: MACHADO
+Sexo: Masculino
+Data de Nascimento: 02/03/1996
+Nome da Mãe: ROSANI MARIANA
+Nome do Pai: ADENILDO FARIA MACHADO
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 237
+  Range: ALTO
+E-mail: gutinhogeneral@hotmail.com
+Additional Emails: (1 item(s))
+  - gutinhogeneral@hotmail.com
+Federal Status: REGULAR
+Renda: 1175
+Income Bracket: 2
+Cbo: 521140
+Endereço:
+  Tipo: RUA
+  Rua: ALDA
+  Bairro: JARDIM GUANABARA
+  Cidade: QUEIMADOS
+  Estado: RIO DE JANEIRO
+  CEP: 26321-070
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ALDA
+    Bairro: JARDIM GUANABARA
+    Cidade: QUEIMADOS
+    Estado: RIO DE JANEIRO
+    CEP: 26321-070
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ADEMAR FERREIRA
+    Número: S/N
+    Bairro: SAO MIGUEL
+    Cidade: QUEIMADOS - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: ALDA
+    Tipo: R
+    Número: SN
+    Complemento: Q 12 L 18
+    Bairro: JD GUANABARA
+    Cidade: QUEIMADOS
+    Estado: RJ
+    CEP: 26321-070
+    Data Atualizacao: 09/03/2016
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (21) 97366-5087
+  - (21) 97562-3591
+  - (21) 97305-7137
+  - (21) 99232-1092
+  - (21) 97533-7068
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: QUEIMADOS - RJ
+Cns: 705809419849838
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/09/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ALDA
+      Número: SN
+      Complemento: Q 12 L 18
+      Bairro: JD GUANABARA
+      Cidade: QUEIMADOS
+      Estado: RJ
+      CEP: 26321-070
+      Date Added: 30/04/2015
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 975337068
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 01/04/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: gutinhogeneral@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 124
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 237
+    CSBA FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 472.28
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 036.453.847-31
+    Nome: VANDA VALERIA OLIVEIRA DO NASCIMENTO
+    Logradouro: ALDA
+    Número: 7
+    Bairro: JD GUANABARA
+  [2]
+    CPF: 936.464.297-04
+    Nome: ISAIAS DA CONCEICAO SILVA
+    Logradouro: ALDA
+    Número: 11
+    Bairro: JD GUANABARA
+  [3]
+    CPF: 127.476.637-01
+    Nome: MICHELLE CRISTINA PEDRO MENDES
+    Logradouro: ALDA
+    Número: 17
+    Bairro: JD GUANABARA
+  [4]
+    CPF: 099.984.757-08
+    Nome: CARLOS EDUARDO ANICETO
+    Logradouro: ALDA
+    Número: 35
+    Bairro: JD GUANABARA
+  [5]
+    CPF: 102.382.087-02
+    Nome: EDUARDO DE SOUZA
+    Logradouro: ALDA
+    Número: 1
+    Bairro: JD GUANABARA
+  [6]
+    CPF: 077.587.707-70
+    Nome: LUCILENE DELFINO DA SILVA
+    Logradouro: ALDA
+    Número: 1
+    Bairro: JD GUANABARA
+  [7]
+    CPF: 033.622.797-32
+    Nome: VIRGINIA RAQUEL DE ABREU VITAL
+    Logradouro: ALDA
+    Número: 1
+    Bairro: JD GUANABARA
+  [8]
+    CPF: 164.002.567-76
+    Nome: CARLA MARIA DOS SANTOS TORRES
+    Logradouro: ALDA
+    Número: 5
+    Bairro: JD GUANABARA
+  [9]
+    CPF: 098.761.317-02
+    Nome: CATIA SIMONE SILVA CAETANO
+    Logradouro: ALDA
+    Número: SN
+    Bairro: JD GUANABARA
+  [10]
+    CPF: 109.597.047-01
+    Nome: ISAAC MONTEIRO SILVA
+    Logradouro: ALDA
+    Número: 3
+    Bairro: JD GUANABARA
+  [11]
+    CPF: 127.476.637-01
+    Nome: MICHELLE CRISTINA PEDRO MENDES
+    Logradouro: ALDA
+    Número: SN
+    Bairro: JD GUANABARA
+  [12]
+    CPF: 076.110.617-04
+    Nome: VANIA CRISTINA OLIVEIRA DO NASCIMENTO PEDRO
+    Logradouro: ALDA
+    Número: 5
+    Bairro: JD GUANABARA
+  [13]
+    CPF: 159.847.677-75
+    Nome: CRISTIANE ANICETO DA COSTA
+    Logradouro: ALDA
+    Número: 35
+    Bairro: JD GUANABARA
+  [14]
+    CPF: 684.877.707-20
+    Nome: DELMAR THOMAZ LOPES
+    Logradouro: ALDA
+    Número: 61
+    Bairro: JD GUANABARA
+  [15]
+    CPF: 330.585.207-00
+    Nome: JOSE FRANCISCO DO NASCIMENTO
+    Logradouro: ALDA
+    Número: 28
+    Bairro: JD GUANABARA
+Telefones Operadoras: (4 item(s))
+  [1]
+    Telefone: (21) 97562-3591
+    Nome: AUGUSTO MARIANA FARIA MACHADO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (21) 97366-5087
+    Nome: AUGUSTO MARIANA FARIA MACHADO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (21) 97305-7137
+    Nome: AUGUSTO MARIANA FARIA MACHADO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (21) 99232-1092
+    Nome: AUGUSTO MARIANA FARIA MACHADO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - gutinhogeneral@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1175
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 472.28
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (21) 97533-7068
+    Ddd: 21
+    Número: 975337068
+    Tipo: 3
+    Data Inclusao: 01/04/2019
+    Classificacao: A2
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,363 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  92623441120
+Data/Hora:  04/10/2026, 15:03:16
+Tempo API:  550ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 926.234.411-20
+Nome: SILVIA CRUZ DE ALMEIDA
+Primeiro Nome: SILVIA
+Sobrenome: ALMEIDA
+Sexo: Feminino
+Data de Nascimento: 10/04/1980
+Nome da Mãe: ANA CRUZ DE CARVALHO
+Nome do Pai: PEDRO SILVA DE ALMEIDA
+Mosaic: F19
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 237
+  Range: ALTO
+E-mail: silvia10almeida@hotmail.com
+Additional Emails: (1 item(s))
+  - silvia10almeida@hotmail.com
+Federal Status: REGULAR
+Renda: 998
+Income Bracket: 1
+Cbo: 521105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: RECIFE QD
+  Número: 42
+  Complemento: LT 3 CASA 02
+  Bairro: JARDIM SAO JUDAS TADEU
+  Cidade: GOIANIA
+  Estado: GOIAS
+  CEP: 74685-380
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: RECIFE QD
+    Número: 42
+    Complemento: LT 3 CASA 02
+    Bairro: JARDIM SAO JUDAS TADEU
+    Cidade: GOIANIA
+    Estado: GOIAS
+    CEP: 74685-380
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R RECIFE
+    Número: 03
+    Bairro: SAO JUDAS GOOKU
+    Cidade: GOIANIA - GO
+    Fonte: DATASUS
+  [3]
+    Rua: GOIAS
+    Tipo: AV
+    Número: 4066
+    Complemento: SL 103 CR OESTE
+    Bairro: ST CRIMEIA OESTE
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74563-220
+    Data Atualizacao: 18/03/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: BERNARDO SAYAO
+    Tipo: AV
+    Número: 793
+    Bairro: ST CENTRO OESTE
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74550-025
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: RECIFE
+    Tipo: R
+    Número: 26
+    Bairro: VL JARDIM SAO JUDAS TADEU
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74685-380
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: BOA VENTURA
+    Tipo: R
+    Número: 124
+    Bairro: RES MUNDO NOVO 3
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74491-460
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (62) 3268-3523
+Cidade de Nascimento: GOIANIA - GO
+Cns: 700001172447602
+Paycom:
+  E-mail: silvia10almeida@hotmail.com
+  Created At: 2021-04-28 10:11:10
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Recife
+    Número: 00
+    Bairro: Vila Jardim São Judas Tadeu
+    Cidade: Goiânia
+    Estado: GO
+    País: BRA
+    CEP: 74685-380
+    Telephone: +55 (62) 98206-2023
+Telefones: (5 item(s))
+  - +55 (62) 98206-2023
+  - (62) 3205-3251
+  - (62) 3637-4285
+  - (62) 98453-1405
+  - (62) 99132-4508
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/12/2019
+    Info Date: 24/07/2003
+    Mosaic: F19
+    Mosaic New: E15
+    Mosaic Secondary: D10
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: RECIFE
+      Número: 42
+      Complemento: LT 3 CS 2
+      Bairro: VL JARDIM SAO JUDAS TADEU
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74685-380
+      Date Added: 16/10/2018
+    [2]
+      Tipo: AV
+      Rua: GOIAS
+      Número: 4066
+      Complemento: SL 103 CR OESTE
+      Bairro: ST CRIMEIA OESTE
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74563-220
+      Date Added: 03/08/2009
+    [3]
+      Tipo: AV
+      Rua: BERNARDO SAYAO
+      Número: 793
+      Bairro: ST CENTRO OESTE
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74550-025
+      Date Added: 02/02/2016
+    [4]
+      Tipo: R
+      Rua: RECIFE
+      Número: 26
+      Bairro: VL JARDIM SAO JUDAS TADEU
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74685-380
+      Date Added: 20/03/2013
+    [5]
+      Tipo: R
+      Rua: BOA VENTURA
+      Número: 124
+      Bairro: RES MUNDO NOVO 3
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74491-460
+      Date Added: 28/02/2013
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32053251
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 13/02/2008
+      Info Date: 24/07/2003
+    [2]
+      Telefone: 36374285
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/04/2010
+    [3]
+      Telefone: 984531405
+      Ddd: 62
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/10/2018
+    [4]
+      Telefone: 991324508
+      Ddd: 62
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: silvia10almeida@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 193
+    CSB8 FAIXA: ALTO
+    CSBA: 237
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ANA CRUZ DE CARVALHO
+      Vinculo: MAE
+  Pis: 12913918311
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 041.644.661-20
+    Nome: ROQUE RIBEIRO CORREA
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [2]
+    CPF: 446.751.193-87
+    Nome: RAIMUNDA ALVES DOS SANTOS
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [3]
+    CPF: 370.384.191-53
+    Nome: ANTONIO ALVES DA SILVA
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [4]
+    CPF: 440.593.101-15
+    Nome: MARIA DO CARMO
+    Logradouro: RECIFE
+    Número: SN
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [5]
+    CPF: 054.271.614-30
+    Nome: EZION EWELLYN MOURA LIMA
+    Logradouro: RECIFE
+    Número: SN
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [6]
+    CPF: 228.132.091-04
+    Nome: ANA CRUZ DE ALMEIDA
+    Logradouro: RECIFE
+    Número: 1
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [7]
+    CPF: 276.933.091-87
+    Nome: JOAQUIM JACINTO DE DEUS
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [8]
+    CPF: 276.933.091-87
+    Nome: JOAQUIM JACINTO DE DEUS
+    Logradouro: RECIFE
+    Número: SN
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [9]
+    CPF: 003.198.731-10
+    Nome: THAIS MARRA ROSA
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [10]
+    CPF: 277.311.621-68
+    Nome: BALTAZAR PEREIRA
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [11]
+    CPF: 002.016.701-60
+    Nome: KEILA APARECIDA RABELO
+    Logradouro: RECIFE
+    Número: SN
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [12]
+    CPF: 045.172.341-42
+    Nome: CAIKY LINDOMAR RIBEIRO PEREIRA
+    Logradouro: RECIFE
+    Número: SN
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [13]
+    CPF: 986.622.876-20
+    Nome: SERGIO NOGUEIRA DOS SANTOS
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [14]
+    CPF: 054.271.614-30
+    Nome: EZION EWELLYN MOURA LIMA
+    Logradouro: RECIFE
+    Número: SN
+    Bairro: VL JARDIM SAO JUDAS TADEU
+  [15]
+    CPF: 439.007.201-34
+    Nome: MARIA JOSE RODRIGUES DAS NEVES
+    Logradouro: RECIFE
+    Bairro: VL JARDIM SAO JUDAS TADEU
+E-mails: (1 item(s))
+  - silvia10almeida@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 998
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (62) 3205-3251
+    Ddd: 62
+    Número: 32053251
+    Tipo: FIXO
+    Data Inclusao: 13/02/2008
+    Data Informacao: 24/07/2003
+    Classificacao: D2
+  [2]
+    Telefone: (62) 3637-4285
+    Ddd: 62
+    Número: 36374285
+    Tipo: FIXO
+    Data Inclusao: 15/04/2010
+    Classificacao: D
+  [3]
+    Telefone: (62) 98453-1405
+    Ddd: 62
+    Número: 984531405
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: A0
+  [4]
+    Telefone: (62) 99132-4508
+    Ddd: 62
+    Número: 991324508
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,337 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  12746040794
+Data/Hora:  02/10/2026, 16:13:51
+Tempo API:  1044ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 127.460.407-94
+Nome: ARTUR RODRIGUES MARINHO
+Primeiro Nome: ARTUR
+Sobrenome: MARINHO
+Sexo: Masculino
+Data de Nascimento: 18/10/1989
+Nome da Mãe: MARILZA FERREIRA RODRIGUES MARINHO
+Nome do Pai: SEM INFORMAÃÃO
+Mosaic: F20
+Ocupação: Operador de telemarketing ativo e receptivo
+Score:
+  Value: 157
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1187
+Income Bracket: 2
+Cbo: 422310
+Endereço:
+  Tipo: RUA
+  Rua: GUARABU
+  Complemento: AP 102
+  Bairro: INHAUMA
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 20761-060
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GUARABU
+    Complemento: AP 102
+    Bairro: INHAUMA
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 20761-060
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA GUARABU
+    Número: 40
+    Bairro: INHAUMA
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: GUARABU
+    Tipo: R
+    Número: 40
+    Complemento: 102
+    Bairro: INHAUMA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20761-060
+    Data Atualizacao: 26/03/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: GUARABU
+    Número: 0000040
+    Bairro: INHAUMA
+    Cidade: 20761060
+    Estado: RJ
+    Fonte: ASSECC
+  [5]
+    Rua: RUA R GUARABU
+    Número: 40
+    Complemento: AP 102
+    Bairro: INHAUMA
+    Estado: RJ
+    CEP: 20761-060
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (21) 98751-5705
+  - (21) 98998-4142
+  - (21) 99782-5844
+  - (21) 3273-8952
+  - (21) 99167-5784
+  - (21) 99152-8717
+  - (21) 97105-0339
+Datasus Phones: (1 item(s))
+  - (61) 3561-0000
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 704802513765540
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/06/2019
+    Mosaic: F20
+    Mosaic New: D10
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: GUARABU
+      Número: 40
+      Complemento: 102
+      Bairro: INHAUMA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20761-060
+      Date Added: 30/10/2017
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32738952
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 24/06/2011
+      Info Date: 24/06/2014
+    [2]
+      Telefone: 991675784
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 991528717
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [4]
+      Telefone: 971050339
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 997825844
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  Score:
+    CSB8: 567
+    CSB8 FAIXA: BAIXO
+    CSBA: 157
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARILZA FERREIRA RODRIGUES MARINHO
+      Vinculo: MAE
+  Pis: 13197087606
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 372.2
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.495.137-35
+    Nome: DANIELA FERREIRA DE ASSIS CUSTODIO DA SILVA
+    Logradouro: GUARABU
+    Número: 433
+    Bairro: INHAUMA
+  [2]
+    CPF: 696.136.567-15
+    Nome: INACIO SENA DE SIQUEIRA
+    Logradouro: GUARABU
+    Número: 260
+    Bairro: INHAUMA
+  [3]
+    CPF: 955.699.367-34
+    Nome: FERNANDO DE AGUIAR PONTES
+    Logradouro: GUARABU
+    Número: 50
+    Bairro: INHAUMA
+  [4]
+    CPF: 662.635.737-91
+    Nome: ROBERTO GONZAGA DA SILVA
+    Logradouro: GUARABU
+    Número: 390
+    Bairro: INHAUMA
+  [5]
+    CPF: 422.421.988-31
+    Nome: DJALMA OLIVEIRA GOMES JUNIOR
+    Logradouro: GUARABU
+    Número: 353
+    Bairro: INHAUMA
+  [6]
+    CPF: 000.346.367-22
+    Nome: ELAINE PEREIRA FERREIRA MATTOS
+    Logradouro: GUARABU
+    Número: 220
+    Bairro: INHAUMA
+  [7]
+    CPF: 833.697.082-72
+    Nome: ALESSANDRA SILVA LEAO
+    Logradouro: GUARABU
+    Número: 180
+    Bairro: INHAUMA
+  [8]
+    CPF: 025.235.757-44
+    Nome: SONIA REGINA GOMES PINHEIRO DO NASCIMENTO
+    Logradouro: GUARABU
+    Número: 467
+    Bairro: INHAUMA
+  [9]
+    CPF: 020.352.814-07
+    Nome: ORMANDO SIMAO DA SILVA
+    Logradouro: GUARABU
+    Número: 481
+    Bairro: INHAUMA
+  [10]
+    CPF: 013.450.267-14
+    Nome: FABIO SILVA SOARES
+    Logradouro: GUARABU
+    Número: 10
+    Bairro: INHAUMA
+  [11]
+    CPF: 010.966.507-46
+    Nome: SUELI ALVES DE ARAUJO
+    Logradouro: GUARABU
+    Número: 320
+    Bairro: INHAUMA
+  [12]
+    CPF: 430.135.117-53
+    Nome: PAULO ROBERTO COSTA DE ARAUJO
+    Logradouro: GUARABU
+    Número: 1
+    Bairro: INHAUMA
+  [13]
+    CPF: 002.413.513-59
+    Nome: JOAO MILTON MARTINS DA SILVA
+    Logradouro: GUARABU
+    Número: 380
+    Bairro: INHAUMA
+  [14]
+    CPF: 841.921.947-91
+    Nome: VERA DE SA SERAFIM
+    Logradouro: GUARABU
+    Número: 194
+    Bairro: INHAUMA
+  [15]
+    CPF: 441.403.477-91
+    Nome: ALTAMIRO APRIGIO
+    Logradouro: GUARABU
+    Número: 481
+    Bairro: INHAUMA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (21) 98998-4142
+    Nome: ARTUR RODRIGUES MARINHO
+    Cidade: 20761060
+    UF: RJ
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (21) 99782-5844
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 18JAN2017
+    Ultima Recarga: 07AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 18/01/2017
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (21) 3273-8952
+    Nome: ARTUR RODRIGUES MARINHO
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+    Operadora: OI
+    Fonte: algar
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1187
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 372.2
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 3273-8952
+    Ddd: 21
+    Número: 32738952
+    Tipo: FIXO
+    Data Inclusao: 24/06/2011
+    Data Informacao: 24/06/2014
+    Classificacao: B
+  [2]
+    Telefone: (21) 99167-5784
+    Ddd: 21
+    Número: 991675784
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [3]
+    Telefone: (21) 99152-8717
+    Ddd: 21
+    Número: 991528717
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [4]
+    Telefone: (21) 97105-0339
+    Ddd: 21
+    Número: 971050339
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (21) 99782-5844
+    Ddd: 21
+    Número: 997825844
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Foto: 📸 ENVIADA SEPARADAMENTE NO TELEGRAM
+Foto Source: FOTO_RJ.db
+Occupation Code: 422310
+Occupation Name: Operador de telemarketing ativo e receptivo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

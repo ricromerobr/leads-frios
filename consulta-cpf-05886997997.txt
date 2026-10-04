@@ -1,0 +1,370 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05886997997
+Data/Hora:  03/10/2026, 15:48:56
+Tempo API:  390ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 058.869.979-97
+Nome: BRUNA ZEFERINO DE OLIVEIRA
+Primeiro Nome: BRUNA
+Sobrenome: OLIVEIRA
+Sexo: Feminino
+Data de Nascimento: 10/03/1987
+Nome da Mãe: INES ZEFERINO DE OLIVEIRA
+Mosaic: C09
+Ocupação: Contínuo
+Score:
+  Value: 841
+  Range: BAIXISSIMO RISCO
+E-mail: bruna_oliveirasc@hotmail.com
+Additional Emails: (1 item(s))
+  - bruna_oliveirasc@hotmail.com
+Federal Status: REGULAR
+Renda: 1688
+Income Bracket: 2
+Cbo: 412205
+Endereço:
+  Tipo: RUA
+  Rua: JUCELI RODRIGUES
+  Número: 371
+  Complemento: CASA
+  Bairro: JARDIM MARISTELA
+  Cidade: CRICIUMA
+  Estado: SANTA CATARINA
+  CEP: 88815-270
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JUCELI RODRIGUES
+    Número: 371
+    Complemento: CASA
+    Bairro: JARDIM MARISTELA
+    Cidade: CRICIUMA
+    Estado: SANTA CATARINA
+    CEP: 88815-270
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SC
+    Tipo: ROD
+    Número: 445
+    Complemento: N S
+    Bairro: S JORGE
+    Cidade: SIDEROPOLIS
+    Estado: SC
+    CEP: 88860-000
+    Data Atualizacao: 31/07/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: PEDRO
+    Tipo: R
+    Número: 298
+    Bairro: PROSPERA
+    Cidade: CRICIUMA
+    Estado: SC
+    CEP: 88811-780
+    Data Atualizacao: 04/03/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: SC 445
+    Tipo: ROD
+    Complemento: KM 5
+    Bairro: S JORGE
+    Cidade: SIDEROPOLIS
+    Estado: SC
+    CEP: 88860-000
+    Data Atualizacao: 23/08/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: JUCELI RODRIGUES
+    Número: 0000371
+    Bairro: JARDIM MARISTELA
+    Cidade: CRICIUMA
+    Estado: SC
+    CEP: 88815-270
+    Fonte: ASSECC
+  [6]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (21) 97196-6906
+  - (48) 99674-8058
+  - (48) 3439-0357
+  - (48) 99636-3444
+  - (48) 3413-4944
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/10/2019
+    Mosaic: C09
+    Mosaic New: C07
+    Mosaic Secondary: D09
+    Income Bracket Id: 3
+  Endereços: (3 item(s))
+    [1]
+      Tipo: ROD
+      Rua: SC
+      Número: 445
+      Complemento: N S
+      Bairro: S JORGE
+      Cidade: SIDEROPOLIS
+      Estado: SC
+      CEP: 88860-000
+      Date Added: 04/07/2017
+    [2]
+      Tipo: R
+      Rua: PEDRO
+      Número: 298
+      Bairro: PROSPERA
+      Cidade: CRICIUMA
+      Estado: SC
+      CEP: 88811-780
+      Date Added: 11/10/2006
+    [3]
+      Tipo: ROD
+      Rua: SC 445
+      Complemento: KM 5
+      Bairro: S JORGE
+      Cidade: SIDEROPOLIS
+      Estado: SC
+      CEP: 88860-000
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34390357
+      Ddd: 48
+      Tipo: 1
+      Classificacao: D
+      Date Added: 13/02/2008
+    [2]
+      Telefone: 996748058
+      Ddd: 48
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 04/02/2014
+      Info Date: 10/06/2016
+    [3]
+      Telefone: 996363444
+      Ddd: 48
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 28/06/2016
+      Info Date: 01/12/2010
+    [4]
+      Telefone: 971966906
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [5]
+      Telefone: 34134944
+      Ddd: 48
+      Tipo: 1
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 10/06/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: bruna_oliveirasc@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSBA: 841
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 1679346946
+      Nome: INES ZEFERINO DE OLIVEIRA
+      Vinculo: MAE
+    [2]
+      CPF: 813.864.949-68
+      Nome: MERENTINA IGNACIO ZEFERINO
+      Vinculo: AVO
+    [3]
+      CPF: 2887947966
+      Nome: VANESSA ZEFERINO DE OLIVEIRA
+      Vinculo: IRMA(O)
+  Pis: 20104066304
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1540.18
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 486.561.869-49
+    Nome: AUDINA MARIA NEOTTI DE ALMEIDA
+    Logradouro: DEZOITO
+    Número: 116
+  [2]
+    CPF: 480.027.559-87
+    Nome: LUIZ CLAUDIO DIAS
+    Logradouro: SEISCENTOS E VINTE
+    Número: 98
+  [3]
+    CPF: 050.900.079-77
+    Nome: GISELE MARTINS MEDEIROS CARVALHO
+    Logradouro: PROJETADA
+    Número: 43
+  [4]
+    CPF: 461.211.459-00
+    Nome: SULENI ANTONIA PIACENTINI BERNARDO
+    Logradouro: DEZOITO
+    Número: 59
+  [5]
+    CPF: 033.714.559-80
+    Nome: EDSON SCARMAGNANI
+    Logradouro: PEDRO ARRONQUE
+    Número: SN
+    Bairro: SIDEROPOLIS
+  [6]
+    CPF: 398.443.669-68
+    Nome: ROBERTO DE MORAES
+    Logradouro: CARLOS PETERLE
+    Número: SN
+  [7]
+    CPF: 052.385.819-12
+    Nome: CLAITON REGIS FLORES MORERIRA
+    Logradouro: RDA GRUTA
+    Número: 57
+  [8]
+    CPF: 049.426.829-83
+    Nome: CHARLES MIGUEL
+    Logradouro: JOAO CARUSO MAC DONALD
+    Número: 175
+  [9]
+    CPF: 049.007.919-97
+    Nome: ALEXANDRA MACHADO DO SACRAMENTO NOVAZ
+    Logradouro: JOAO RONK
+    Número: SN
+  [10]
+    CPF: 097.314.959-08
+    Nome: JOSIEL CARLOS DE OLIVEIRA
+    Logradouro: CALIXTO DE MATTIA
+    Número: 119
+    Bairro: CENTRO
+  [11]
+    CPF: 097.314.959-08
+    Nome: JOSIEL CARLOS DE OLIVEIRA
+    Logradouro: CHAPECO
+    Número: 141
+    Bairro: CENTRO
+  [12]
+    CPF: 052.534.219-20
+    Nome: VANDERLEI VELHO MACEDO
+    Logradouro: JOAO CARUSO MAC DONALD
+    Número: 226
+  [13]
+    CPF: 417.455.829-91
+    Nome: JOSE MOACIR MORAES
+    Logradouro: DIONIZIO SERQUELHA
+    Número: 35
+  [14]
+    CPF: 417.822.679-72
+    Nome: LUIZ GONZAGA AGUIDA MATOS
+    Logradouro: SC 445 99999
+    Bairro: VL S JORGE
+  [15]
+    CPF: 073.340.979-20
+    Nome: EDMON CARLOS DAL FARRA PAULINO
+    Logradouro: GERAL
+    Número: 1
+    Bairro: VL S JORGE
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (48) 99674-8058
+    Nome: BRUNA ZEFERINO DE OLIVEIRA
+    Cidade: CRICIUMA
+    UF: SC
+  [2]
+    Telefone: (21) 97196-6906
+    Nome: BRUNA  ZEFERINO DE OLIVEIRA
+    Cidade: CRICIUMA
+    UF: SC
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (48) 99674-8058
+    Nome: BRUNA ZEFERINO DE OLIVEIRA LUCA
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (1 item(s))
+  - bruna_oliveirasc@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1688
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1540.18
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (48) 3439-0357
+    Ddd: 48
+    Número: 34390357
+    Tipo: FIXO
+    Data Inclusao: 13/02/2008
+    Classificacao: D
+  [2]
+    Telefone: (48) 99674-8058
+    Ddd: 48
+    Número: 996748058
+    Tipo: 3
+    Data Inclusao: 04/02/2014
+    Data Informacao: 10/06/2016
+    Classificacao: A0
+  [3]
+    Telefone: (48) 99636-3444
+    Ddd: 48
+    Número: 996363444
+    Tipo: 3
+    Data Inclusao: 28/06/2016
+    Data Informacao: 01/12/2010
+    Classificacao: A0
+  [4]
+    Telefone: (21) 97196-6906
+    Ddd: 21
+    Número: 971966906
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (48) 3413-4944
+    Ddd: 48
+    Número: 34134944
+    Tipo: FIXO
+    Data Inclusao: 18/06/2019
+    Data Informacao: 10/06/2016
+    Classificacao: D
+Occupation Code: 412205
+Occupation Name: Contínuo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

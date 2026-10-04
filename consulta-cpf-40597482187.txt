@@ -1,0 +1,555 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  40597482187
+Data/Hora:  03/10/2026, 17:20:09
+Tempo API:  237ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 405.974.821-87
+Nome: CLAUDIO LUIZ FERNANDES
+Primeiro Nome: CLAUDIO
+Sobrenome: FERNANDES
+Sexo: Masculino
+Data de Nascimento: 16/04/1968
+Nome da Mãe: MARIA ADILES FERNANDES
+Nome do Pai: SEM INFORMAÇÃO
+RG: 05266084
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MT
+Mosaic: D13
+Ocupação: Porteiro de edifícios
+Score:
+  Value: 569
+  Range: BAIXO
+E-mail: claudioluis.fernandes@gmail.com
+Additional Emails: (4 item(s))
+  - claudioluis.fernandes@gmail.com
+  - claudiocba_@hotmail.com
+  - claudiofernades@oi.com.br
+  - rh@colegialsaopaulo.com.br
+Federal Status: REGULAR
+Renda: 998
+Income Bracket: 1
+Cbo: 514310
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MAMORE
+  Bairro: SANTO ANTONIO DO PEDREGAL
+  Cidade: CUIABA
+  Estado: MATO GROSSO
+  CEP: 78060-440
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MAMORE
+    Bairro: SANTO ANTONIO DO PEDREGAL
+    Cidade: CUIABA
+    Estado: MATO GROSSO
+    CEP: 78060-440
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CECI
+    Número: 1088
+    Bairro: SANTO ANTONIO
+    Cidade: JACIARA - MT
+    Fonte: DATASUS
+  [3]
+    Rua: METELO
+    Tipo: AV
+    Número: 1223
+    Complemento: CS
+    Bairro: CENTRO SUL
+    Cidade: CUIABA
+    Estado: MT
+    CEP: 78020-600
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: VICENTE MARIA BOTELHO
+    Tipo: TV
+    Número: 931
+    Complemento: C 1
+    Bairro: PORTO
+    Cidade: CUIABA
+    Estado: MT
+    CEP: 78025-105
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CORONEL THOGO DA SILVA PEREIRA
+    Tipo: R
+    Número: 754
+    Bairro: CENTRO SUL
+    Cidade: CUIABA
+    Estado: MT
+    CEP: 78020-500
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: TRIANGULO MINEIRO
+    Tipo: R
+    Número: 302
+    Bairro: CANELAS
+    Cidade: VARZEA GRANDE
+    Estado: MT
+    CEP: 78135-293
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: MANOEL JOSE DE ARRUDA
+    Tipo: AV
+    Número: 4834
+    Bairro: TERCEIRO
+    Cidade: CUIABA
+    Estado: MT
+    CEP: 78015-000
+    Data Atualizacao: 02/04/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: AV
+    Rua: SENADOR METELLO
+    Número: 0001223
+    Bairro: CENTRO SUL
+    Cidade: CUIABA
+    Estado: MT
+    CEP: 78020-600
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: MAMORE
+    Número: 0000376
+    Bairro: SANTO ANTONIO DO PEDREGAL
+    Cidade: CUIABA
+    Estado: MT
+    CEP: 78060-440
+    Fonte: ASSECC
+  [10]
+    CEP: 00000-000
+    Fonte: BR21M
+  [11]
+    Rua: AV METELLO
+    Número: 1223
+    Complemento: . VILA FRANCISCO MONOEL DE JES
+    Bairro: CENTRO-SUL
+    Estado: MT
+    CEP: 78020-600
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (13 item(s))
+  - (65) 2127-8445
+  - (65) 98421-8543
+  - (65) 99954-5101
+  - (65) 98102-0809
+  - (65) 99929-2710
+  - (65) 99812-5670
+  - (65) 99264-2693
+  - (65) 99262-8668
+  - (65) 99977-8984
+  - (65) 3624-1672
+  - (65) 3321-1106
+  - (65) 99227-5483
+  - (65) 3623-7781
+Datasus Phones: (1 item(s))
+  - (65) 9208-5215
+Cidade de Nascimento: CUIABA - MT
+Cns: 701202047930813
+Rg Issue Date: 1314586800000
+Paycom:
+  E-mail: claudiocba_@hotmail.com
+  Data de Nascimento: 16/04/1968
+  Created At: 2017-04-10 13:09:05
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Info Date: 15/08/2005
+    Mosaic: D13
+    Mosaic New: G24
+    Mosaic Secondary: G23
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: METELO
+      Número: 1223
+      Complemento: CS
+      Bairro: CENTRO SUL
+      Cidade: CUIABA
+      Estado: MT
+      CEP: 78020-600
+      Date Added: 29/07/2013
+    [2]
+      Tipo: TV
+      Rua: VICENTE MARIA BOTELHO
+      Número: 931
+      Complemento: C 1
+      Bairro: PORTO
+      Cidade: CUIABA
+      Estado: MT
+      CEP: 78025-105
+      Date Added: 07/01/2014
+    [3]
+      Tipo: R
+      Rua: CORONEL THOGO DA SILVA PEREIRA
+      Número: 754
+      Bairro: CENTRO SUL
+      Cidade: CUIABA
+      Estado: MT
+      CEP: 78020-500
+      Date Added: 21/10/2012
+    [4]
+      Tipo: R
+      Rua: TRIANGULO MINEIRO
+      Número: 302
+      Bairro: CANELAS
+      Cidade: VARZEA GRANDE
+      Estado: MT
+      CEP: 78135-293
+      Date Added: 19/03/2015
+    [5]
+      Tipo: AV
+      Rua: MANOEL JOSE DE ARRUDA
+      Número: 4834
+      Bairro: TERCEIRO
+      Cidade: CUIABA
+      Estado: MT
+      CEP: 78015-000
+      Date Added: 23/03/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999778984
+      Ddd: 65
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 36241672
+      Ddd: 65
+      Tipo: 1
+      Classificacao: C
+      Date Added: 09/01/2012
+      Info Date: 12/11/2011
+    [3]
+      Telefone: 33211106
+      Ddd: 65
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 09/01/2012
+      Info Date: 12/11/2011
+    [4]
+      Telefone: 992275483
+      Ddd: 65
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [5]
+      Telefone: 36237781
+      Ddd: 65
+      Tipo: 1
+      Classificacao: C
+      Date Added: 23/08/2016
+  E-mails: (4 item(s))
+    [1]
+      E-mail: claudioluis.fernandes@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2017
+    [2]
+      E-mail: claudiofernades@oi.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: rh@colegialsaopaulo.com.br
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 14/11/2014
+    [4]
+      E-mail: claudiocba_@hotmail.com
+      Priority: 4
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+  Score:
+    CSB8: 136
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 569
+    CSBA FAIXA: BAIXO
+  Parentes: (9 item(s))
+    [1]
+      CPF: 208.486.501-82
+      Nome: MARIA ADILES FERNANDES
+      Vinculo: MAE
+    [2]
+      CPF: 1105210138
+      Nome: LIANE DAS GRACAS FERNANDES COSTA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 453.173.301-06
+      Nome: BENEDITO LENIO FERNANDES
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 110.381.601-20
+      Nome: MARGARIDA AUXILIADORA RAMOS
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 474.749.631-91
+      Nome: MARIA APARECIDA FERNANDES E SILVA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 898.110.701-72
+      Nome: DAUMA KATIUSCIA SILVA
+      Vinculo: SOBRINHA(O)
+    [7]
+      CPF: 695.990.331-91
+      Nome: DELMA LETICIA SILVA MORAIS
+      Vinculo: SOBRINHA(O)
+    [8]
+      CPF: 5720815104
+      Nome: DARLIANE DAS GRACAS FERNANDES COSTA
+      Vinculo: SOBRINHA(O)
+    [9]
+      CPF: 6847325135
+      Nome: DARLIENE DA SILVA COSTA FERNANDES
+      Vinculo: SOBRINHA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2209.74
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 043.330.397-20
+    Nome: ADIR FERREIRA RIBEIRO
+    Logradouro: METELO
+    Número: 725
+    Bairro: CENTRO SUL
+  [2]
+    CPF: 031.447.709-81
+    Nome: HELLEN KRISTINE DE SOUZA
+    Logradouro: METELO
+    Número: 902
+    Bairro: CENTRO SUL
+  [3]
+    CPF: 913.050.631-04
+    Nome: FELIX MACHADO DOS SANTOS JUNIOR
+    Logradouro: METELLO
+    Número: 2786
+    Bairro: CENTRO SUL
+  [4]
+    CPF: 063.743.101-44
+    Nome: MARIA MADALENA FONTES EUGENIO
+    Logradouro: METELLO
+    Número: 1223
+    Bairro: CENTRO SUL
+  [5]
+    CPF: 006.354.741-40
+    Nome: ADRIANA LEA DA SILVA BARROS
+    Logradouro: METELO
+    Número: 779
+    Bairro: CENTRO SUL
+  [6]
+    CPF: 002.550.461-46
+    Nome: FLORA GEANES NUNES DOS SANTOS
+    Logradouro: METELLO
+    Número: 1546
+    Bairro: CENTRO SUL
+  [7]
+    CPF: 568.295.071-20
+    Nome: CELIA CRISTINA RODRIGUES ARAUJO SILVA
+    Logradouro: METELLO
+    Número: 755
+    Bairro: CENTRO SUL
+  [8]
+    CPF: 275.209.271-72
+    Nome: ROSILENE MARIA MALHEIROS
+    Logradouro: METELO
+    Número: 550
+    Bairro: CENTRO SUL
+  [9]
+    CPF: 069.356.916-64
+    Nome: DANIEL ALVES GODINHO
+    Logradouro: METELLO
+    Número: 2006
+    Bairro: CENTRO SUL
+  [10]
+    CPF: 728.151.591-04
+    Nome: HAYDEE MARIA DE MAGALHAES
+    Logradouro: METELLO
+    Número: 839
+    Bairro: CENTRO SUL
+  [11]
+    CPF: 008.200.331-97
+    Nome: ELIANI MARIA DE ARAUJO
+    Logradouro: METELO
+    Número: 1223
+    Bairro: CENTRO SUL
+  [12]
+    CPF: 846.024.141-68
+    Nome: CIBELE NUNES MARTINS FORTES
+    Logradouro: METELLO
+    Número: 500
+    Bairro: CENTRO SUL
+  [13]
+    CPF: 017.430.341-64
+    Nome: MARCIELLE ADRIANE DE ARRUDA
+    Logradouro: METELO
+    Número: 1016
+    Bairro: CENTRO SUL
+  [14]
+    CPF: 503.425.331-34
+    Nome: BISMARCK DE AQUINO JUNIOR
+    Logradouro: METELLO
+    Número: 1630
+    Bairro: CENTRO SUL
+  [15]
+    CPF: 503.497.911-04
+    Nome: LUCI DE CARLI
+    Logradouro: METELLO
+    Número: 2786
+    Bairro: CENTRO SUL
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (65) 99954-5101
+    Nome: CLAUDIO  LUIS FERNANDES
+    Cidade: CUIABA
+    UF: MT
+  [2]
+    Telefone: (65) 98102-0809
+    Nome: CLAUDIO LUIZ FERNANDES
+    Cidade: CUIABA
+    UF: MT
+  [3]
+    Telefone: (65) 99812-5670
+    Nome: CLAUDIO  LUIZ FERNANDES
+    Cidade: CUIABA
+    UF: MT
+  [4]
+    Telefone: (65) 99264-2693
+    Nome: CLAUDIO LUIS FERNANDES
+    Cidade: CUIABA
+    UF: MT
+  [5]
+    Telefone: (65) 99929-2710
+    Nome: CLAUDIO LUIZ FERNANDES
+    Cidade: CUIABA
+    UF: MT
+  [6]
+    Telefone: (65) 99262-8668
+    Nome: CLAUDIO LUIZ FERNANDES
+    Cidade: CUIABA
+    UF: MT
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (65) 98102-0809
+    Nome: CLAUDIO LUIS FERNANDES
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (65) 99929-2710
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 13/03/2020
+    Flag Divida: 1
+    Maior Atraso: 7
+    Menor Atraso: 7
+    Valor Fatura: 62.89
+    Mes Referencia: 202009
+E-mails: (4 item(s))
+  - claudioluis.fernandes@gmail.com
+  - claudiocba_@hotmail.com
+  - claudiofernades@oi.com.br
+  - rh@colegialsaopaulo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 998
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2209.74
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (65) 99977-8984
+    Ddd: 65
+    Número: 999778984
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (65) 3624-1672
+    Ddd: 65
+    Número: 36241672
+    Tipo: FIXO
+    Data Inclusao: 09/01/2012
+    Data Informacao: 12/11/2011
+    Classificacao: C
+  [3]
+    Telefone: (65) 3321-1106
+    Ddd: 65
+    Número: 33211106
+    Tipo: FIXO
+    Data Inclusao: 09/01/2012
+    Data Informacao: 12/11/2011
+    Classificacao: D2
+  [4]
+    Telefone: (65) 99227-5483
+    Ddd: 65
+    Número: 992275483
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [5]
+    Telefone: (65) 3623-7781
+    Ddd: 65
+    Número: 36237781
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: C
+Occupation Code: 517410
+Occupation Name: Porteiro de edifícios
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

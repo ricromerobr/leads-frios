@@ -1,0 +1,441 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  29922858894
+Data/Hora:  03/10/2026, 21:07:24
+Tempo API:  720ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 299.228.588-94
+Nome: MARIA DAS GRACAS DE OLIVEIRA DA SILVA
+Primeiro Nome: MARIA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 08/03/1982
+Nome da Mãe: MARIA JOSE FILGUEIRA DE OLIVEIRA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 333760165
+Rg Issuer: SSP
+Voter Id: 289466220191
+Mosaic: F18
+Ocupação: Comerciante varejista
+Score:
+  Value: 145
+  Range: ALTISSIMO
+E-mail: mariadasgraca82@bol.com.br
+Additional Emails: (4 item(s))
+  - mariadasgraca82@bol.com.br
+  - mariadasgracaso176@gmail.com
+  - grasimpatica@hotmail.com
+  - mariadasgracas82@bol.com.br
+Federal Status: REGULAR
+Renda: 1750
+Income Bracket: 2
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: MOACIR FAGUNDES
+  Número: 14
+  Complemento: OUTB
+  Bairro: FAZENDA ARICANDUVA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 08280-630
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MOACIR FAGUNDES
+    Número: 14
+    Complemento: OUTB
+    Bairro: FAZENDA ARICANDUVA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 08280-630
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MOACIR FAGUNDES
+    Número: 14
+    Bairro: FAZENDA ARICANDUVA
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ESPEDITO LUIS DA SILVA
+    Tipo: TV
+    Número: 14
+    Bairro: PRQ SAVOY CITY
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03584-172
+    Data Atualizacao: 06/12/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MOACIR FAGUNDES
+    Tipo: R
+    Número: 1
+    Complemento: 14
+    Bairro: FAZ ARICANDUVA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08275-770
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: MOACIR FAGUNDES
+    Número: 0000014
+    Bairro: FAZENDA ARICANDUVA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08280-630
+    Fonte: ASSECC
+  [6]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (11) 99550-3675
+  - +55 (11) 99550-3675
+  - (11) 96748-5955
+  - (11) 2746-6018
+  - +55 (11) 99267-4247
+  - 551127466018
+  - (11) 2748-5955
+  - (11) 97523-6137
+  - (11) 4752-4619
+Cns: 705006068172959
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Paycom:
+  E-mail: mariadasgracaso176@gmail.com
+  Data de Nascimento: 08/03/1982
+  Created At: 2021-04-14 08:31:14
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Moacir Fagundes
+    Número: 14
+    Complemento: Casa B
+    Bairro: Fazenda Aricanduva
+    Cidade: São paulo
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 99550-3675
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 26/11/2019
+    Info Date: 04/05/2008
+    Rg Issuer: SSP
+    Mosaic: F18
+    Mosaic New: E17
+    Mosaic Secondary: D09
+  Endereços: (4 item(s))
+    [1]
+      Tipo: TV
+      Rua: ESPEDITO LUIS DA SILVA
+      Número: 14
+      Bairro: PRQ SAVOY CITY
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03584-172
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: MORUBIXABA
+      Número: 14
+      Complemento: CS B
+      Bairro: CIDADE LIDER
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08280-630
+      Date Added: 02/12/2014
+    [3]
+      Tipo: R
+      Rua: MOACIR FAGUNDES
+      Número: 1
+      Complemento: 14
+      Bairro: FAZ ARICANDUVA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08275-770
+      Date Added: 26/12/2014
+    [4]
+      Tipo: R
+      Rua: MOACIR FAGUNDES
+      Número: 14
+      Complemento: C B OUT B
+      Bairro: FAZ ARICANDUVA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08275-770
+      Date Added: 02/02/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 27485955
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 11/04/2008
+      Info Date: 14/01/2013
+    [2]
+      Telefone: 995503675
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 05/03/2009
+      Info Date: 23/07/2018
+    [3]
+      Telefone: 967485955
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 975236137
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 47524619
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: grasimpatica@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 229
+    CSB8 FAIXA: ALTO
+    CSBA: 145
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 3660784885
+      Nome: MARIA JOSE FILGUEIRA DE OLIVEIRA
+      Vinculo: MAE
+    [2]
+      CPF: 5589730864
+      Nome: CELIA MARIA DE OLIVEIRA POLATO
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 276.096.028-50
+      Nome: CELIA MARIA FILGUEIRA DE OLIVEIRA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 325.404.388-06
+      Nome: TALITA POLATO
+      Vinculo: SOBRINHA(O)
+    [5]
+      CPF: 415.517.588-65
+      Nome: JIMMY FILGUEIRA DE OLIVEIRA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 9146587861
+      Nome: CARLOS MILLER FILGUEIRA DE OLIVEIRA
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 372.324.378-97
+      Nome: MARIANA OLIVEIRA MARINHO
+      Vinculo: FILHA(O)
+  Pis: 12653643776
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 309.242.128-02
+    Nome: JULIANA DE ARAUJO LIMA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 6
+    Bairro: PRQ SAVOY CITY
+  [2]
+    CPF: 268.463.305-34
+    Nome: NILSON SILVA VIANA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 3
+    Bairro: PRQ SAVOY CITY
+  [3]
+    CPF: 274.755.758-88
+    Nome: ANA PAULA ALVES
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 7
+    Bairro: PRQ SAVOY CITY
+  [4]
+    CPF: 005.196.475-99
+    Nome: MARIA APARECIDA RODRIGUES DA SILVA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 8
+    Bairro: PRQ SAVOY CITY
+  [5]
+    CPF: 292.322.378-06
+    Nome: EMERSON SANTOS DIAS
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 63
+    Bairro: PRQ SAVOY CITY
+  [6]
+    CPF: 271.838.235-04
+    Nome: RAQUEL FLORA GONZAGA DO PATROCINIO
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 11
+    Bairro: PRQ SAVOY CITY
+  [7]
+    CPF: 283.921.708-22
+    Nome: LEILA MARIA DA SILVA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 319
+    Bairro: PRQ SAVOY CITY
+  [8]
+    CPF: 222.934.425-00
+    Nome: JOSELITO BISPO DO PATROCINIO
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 11
+    Bairro: PRQ SAVOY CITY
+  [9]
+    CPF: 011.847.407-39
+    Nome: VALDINA DE SENA RODRIGUES
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 1
+    Bairro: PRQ SAVOY CITY
+  [10]
+    CPF: 140.231.608-90
+    Nome: FRANCISCO ERNANE NASCIMENTO DE SOUZA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 18
+    Bairro: PRQ SAVOY CITY
+  [11]
+    CPF: 142.447.878-28
+    Nome: VALDEMAR ANTONIO DA SILVA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 6
+    Bairro: PRQ SAVOY CITY
+  [12]
+    CPF: 028.253.938-78
+    Nome: FRANCISCO DE ASSIS BRITO SILVA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 7
+    Bairro: PRQ SAVOY CITY
+  [13]
+    CPF: 281.632.458-32
+    Nome: VANDERLEIA VELOSO DE MENEZES SILVA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 1345
+    Bairro: PRQ SAVOY CITY
+  [14]
+    CPF: 764.871.808-15
+    Nome: BENEDITO CLEMENTE DE SOUZA
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 32
+    Bairro: PRQ SAVOY CITY
+  [15]
+    CPF: 409.592.168-47
+    Nome: ERIVAN RODRIGUES DE JESUS CONCEICAO
+    Logradouro: ESPEDITO LUIS DA SILVA
+    Número: 20
+    Bairro: PRQ SAVOY CITY
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96748-5955
+    Nome: MARIA DAS GRACAS DE OLIVEIRA DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 99550-3675
+    Nome: MARIA DAS GRACAS DE OLIVEIRA DA SILVA
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 2748-5955
+    Nome: MARIA DAS GRACAS DE OLIVEIRA DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 2746-6018
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 20SEP2017:12:52:31
+    Cel Contato: +5511992674247
+    Complemento: CS - Casa: 14B;
+    Data Retirada: 27SEP2017:19:22:18
+    Tipo Cliente: Residencial
+E-mails: (4 item(s))
+  - mariadasgraca82@bol.com.br
+  - mariadasgracaso176@gmail.com
+  - grasimpatica@hotmail.com
+  - mariadasgracas82@bol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1750
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2748-5955
+    Ddd: 11
+    Número: 27485955
+    Tipo: FIXO
+    Data Inclusao: 11/04/2008
+    Data Informacao: 14/01/2013
+    Classificacao: B
+  [2]
+    Telefone: (11) 99550-3675
+    Ddd: 11
+    Número: 995503675
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 23/07/2018
+    Classificacao: A0
+  [3]
+    Telefone: (11) 96748-5955
+    Ddd: 11
+    Número: 967485955
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 97523-6137
+    Ddd: 11
+    Número: 975236137
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (11) 4752-4619
+    Ddd: 11
+    Número: 47524619
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: B
+Occupation Code: 141410
+Occupation Name: Comerciante varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

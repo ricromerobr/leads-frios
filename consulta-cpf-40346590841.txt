@@ -1,0 +1,453 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  40346590841
+Data/Hora:  03/10/2026, 21:37:18
+Tempo API:  522ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 403.465.908-41
+Nome: ALEXANDRE FERREIRA DE MELO
+Primeiro Nome: ALEXANDRE
+Sobrenome: MELO
+Sexo: Masculino
+Data de Nascimento: 25/04/1991
+Nome da Mãe: IZODIA FERREIRA DE MELO
+Nome do Pai: BENJAMIM RAIMUNDO DE MELO FILHO
+Mosaic: C08
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 965
+  Range: BAIXISSIMO RISCO
+E-mail: alex.sp@hotmail.com.br
+Additional Emails: (3 item(s))
+  - alex.sp@hotmail.com.br
+  - buba.a7x@hotmail.com
+  - ale_melo7@ig.com.br
+Federal Status: REGULAR
+Renda: 2145
+Income Bracket: 3
+Cbo: 411005
+Endereço:
+  Tipo: AVENIDA
+  Rua: RUI BARBOSA
+  Número: 964
+  Bairro: VILA SANTA TEREZINHA
+  Cidade: CARAPICUIBA
+  Estado: SAO PAULO
+  CEP: 06311-001
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: RUI BARBOSA
+    Número: 964
+    Bairro: VILA SANTA TEREZINHA
+    Cidade: CARAPICUIBA
+    Estado: SAO PAULO
+    CEP: 06311-001
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE CARLOS DE REZENDE
+    Número: 195
+    Bairro: SEM INFORMAÇÃO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: MORRO GRANDE
+    Tipo: EST
+    Número: 43
+    Bairro: PRQ STA RITA DE CASSIA
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06700-650
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: JOSE CARLOS DE RESENDE
+    Tipo: R
+    Número: 195
+    Bairro: CJ RESIDENCIAL VISTA VERDE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05171-010
+    Data Atualizacao: 09/03/2012
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: BOAVENTURA PEREIRA
+    Tipo: R
+    Número: 240
+    Complemento: A
+    Bairro: PRQ ANHANGUERA SAO DOMINGOS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05158-240
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MARIA JOSE CELESTINO SAAD
+    Tipo: R
+    Número: 245
+    Complemento: AP 11
+    Bairro: JD ISIS
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06719-429
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: JOSE CARLOS DE RESENDE
+    Rua: R
+    Número: 0000195
+    Bairro: CONJUNTO RESIDENCIAL VISTA VER
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05171-010
+    Fonte: ASSECC
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: RENAULT
+      Modelo: LOGAN EXP 16
+      Ano: 2010
+    [2]
+      Marca: FIAT
+      Modelo: SIENA FIRE FLEX
+      Ano: 2009
+Telefones: (6 item(s))
+  - (11) 94940-7787
+  - +55 (11) 94940-7787
+  - (11) 4374-0322
+  - (11) 4148-6570
+  - (11) 2735-0789
+  - (11) 3904-8727
+Datasus Phones: (1 item(s))
+  - (11) 3906-9903
+Cidade de Nascimento: INVALIDO
+Cns: 702806686713167
+Paycom:
+  E-mail: alex.sp@hotmail.com.br
+  Data de Nascimento: 25/04/1991
+  Created At: 2020-12-08 14:24:35
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Avenida Marginal Direita do Tietê
+    Número: 500
+    Complemento: grupo jbs
+    Bairro: Vila Jaguara
+    Cidade: São Paulo
+    Estado: SP
+    País: BRA
+    CEP: 05118-100
+    Telephone: +55 (11) 94940-7787
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/08/2019
+    Mosaic: C08
+    Mosaic New: C06
+    Mosaic Secondary: C07
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: EST
+      Rua: MORRO GRANDE
+      Número: 43
+      Bairro: PRQ STA RITA DE CASSIA
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06700-650
+      Date Added: 09/12/2014
+    [2]
+      Tipo: AV
+      Rua: RUI BARBOSA
+      Número: 964
+      Bairro: VL STA TEREZINHA
+      Cidade: CARAPICUIBA
+      Estado: SP
+      CEP: 06311-001
+      Date Added: 28/02/2013
+    [3]
+      Tipo: R
+      Rua: JOSE CARLOS DE RESENDE
+      Número: 195
+      Bairro: CJ RESIDENCIAL VISTA VERDE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05171-010
+      Date Added: 14/12/2009
+    [4]
+      Tipo: R
+      Rua: BOAVENTURA PEREIRA
+      Número: 240
+      Complemento: A
+      Bairro: PRQ ANHANGUERA SAO DOMINGOS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05158-240
+      Date Added: 19/03/2015
+    [5]
+      Tipo: R
+      Rua: MARIA JOSE CELESTINO SAAD
+      Número: 245
+      Complemento: AP 11
+      Bairro: JD ISIS
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06719-429
+      Date Added: 02/02/2016
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 43740322
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 21/09/2012
+    [2]
+      Telefone: 41486570
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 19/03/2013
+      Info Date: 16/02/2013
+    [3]
+      Telefone: 27350789
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 18/03/2015
+    [4]
+      Telefone: 39048727
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 18/03/2015
+  E-mails: (2 item(s))
+    [1]
+      E-mail: buba.a7x@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+    [2]
+      E-mail: ale_melo7@ig.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 151
+    CSB8 FAIXA: ALTO
+    CSBA: 965
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 8559540865
+      Nome: NORMANDA FERREIRA PINTO
+      Vinculo: TIA(O)
+    [2]
+      CPF: 304.021.708-90
+      Nome: KAREN DE MELO CALANDRELLI
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 107.148.568-78
+      Nome: VILMA FERREIRA MACHADO
+      Vinculo: TIA(O)
+    [4]
+      CPF: 342.386.488-54
+      Nome: RAQUEL DE MELO PINTO
+      Vinculo: AVO
+    [5]
+      CPF: 294.662.908-27
+      Nome: IZODIA FERREIRA DE MELO
+      Vinculo: MAE
+    [6]
+      CPF: 9415604816
+      Nome: LINDOMAR FERREIRA PINTO
+      Vinculo: TIA(O)
+    [7]
+      CPF: 182.708.128-70
+      Nome: NEEMIAS FERREIRA PINTO
+      Vinculo: TIA(O)
+  Pis: 20789946674
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1793.2
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 233.768.368-09
+    Nome: IMELDA ALBERTINA DE MANUEL MANDLAZE
+    Logradouro: MORRO GRANDE
+    Número: 772
+    Bairro: PRQ STA RITA DE CASSIA
+  [2]
+    CPF: 070.791.068-42
+    Nome: MARIA EDIMA RODRIGUES COSTA DA ROCHA
+    Logradouro: MORRO GRANDE
+    Número: 860
+    Bairro: PRQ STA RITA DE CASSIA
+  [3]
+    CPF: 143.031.398-66
+    Nome: CELSO SILVA OSORIO
+    Logradouro: MORRO GRANDE
+    Número: 400
+    Bairro: PRQ STA RITA DE CASSIA
+  [4]
+    CPF: 560.184.448-87
+    Nome: JAIR FERREIRA
+    Logradouro: MORRO GRANDE
+    Número: 2
+    Bairro: PRQ STA RITA DE CASSIA
+  [5]
+    CPF: 299.479.688-04
+    Nome: TEREZA CRISTINA PEREIRA VALIM
+    Logradouro: MORRO GRANDE
+    Número: 33
+    Bairro: PRQ STA RITA DE CASSIA
+  [6]
+    CPF: 113.808.848-02
+    Nome: MARIA OTILIA DE SOUZA
+    Logradouro: MORRO GRANDE
+    Número: 650
+    Bairro: PRQ STA RITA DE CASSIA
+  [7]
+    CPF: 006.383.248-82
+    Nome: JOAO ALFREDO
+    Logradouro: MORRO GRANDE
+    Número: 638
+    Bairro: PRQ STA RITA DE CASSIA
+  [8]
+    CPF: 007.585.275-60
+    Nome: JOSE SOUZA DE FREITAS
+    Logradouro: MORRO GRANDE
+    Número: 999
+    Bairro: PRQ STA RITA DE CASSIA
+  [9]
+    CPF: 334.191.298-31
+    Nome: ANDREZZA RODRIGUES DA COSTA
+    Logradouro: MORRO GRANDE
+    Número: 160
+    Bairro: PRQ STA RITA DE CASSIA
+  [10]
+    CPF: 263.807.028-90
+    Nome: BRUNO CESAR BARRETO DA SILVA
+    Logradouro: MORRO GRANDE
+    Número: 3
+    Bairro: PRQ STA RITA DE CASSIA
+  [11]
+    CPF: 013.963.108-94
+    Nome: MARIA AMELIA DA CONCEICAO
+    Logradouro: MORRO GRANDE
+    Número: 103
+    Bairro: PRQ STA RITA DE CASSIA
+  [12]
+    CPF: 256.703.178-23
+    Nome: GEREMIAS DOMINGUES DA SILVA
+    Logradouro: MORRO GRANDE
+    Número: 990
+    Bairro: PRQ STA RITA DE CASSIA
+  [13]
+    CPF: 271.278.088-48
+    Nome: ROSELI SCHYSHOW NUNES
+    Logradouro: MORRO GRANDE
+    Número: 260
+    Bairro: PRQ STA RITA DE CASSIA
+  [14]
+    CPF: 147.297.718-18
+    Nome: CLELIA MARIA PEREIRA SOARES DE OLIVEIRA
+    Logradouro: MORRO GRANDE
+    Número: 824
+    Bairro: PRQ STA RITA DE CASSIA
+  [15]
+    CPF: 256.277.198-26
+    Nome: NILSON DE OLIVEIRA
+    Logradouro: MORRO GRANDE
+    Número: 999
+    Bairro: PRQ STA RITA DE CASSIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 94940-7787
+    Nome: ALEXANDRE FERREIRA DE MELO
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 4374-0322
+    Nome: ALEXANDRE FERREIRA DE MELO
+    Cidade: CARAPICUIBA
+    UF: SP
+    Operadora: EMBRATEL - SP
+    Fonte: algar
+E-mails: (3 item(s))
+  - alex.sp@hotmail.com.br
+  - buba.a7x@hotmail.com
+  - ale_melo7@ig.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2145
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1793.2
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (11) 4374-0322
+    Ddd: 11
+    Número: 43740322
+    Tipo: FIXO
+    Data Inclusao: 21/09/2012
+    Classificacao: D
+  [2]
+    Telefone: (11) 4148-6570
+    Ddd: 11
+    Número: 41486570
+    Tipo: FIXO
+    Data Inclusao: 19/03/2013
+    Data Informacao: 16/02/2013
+    Classificacao: D2
+  [3]
+    Telefone: (11) 2735-0789
+    Ddd: 11
+    Número: 27350789
+    Tipo: FIXO
+    Data Inclusao: 18/03/2015
+    Classificacao: C
+  [4]
+    Telefone: (11) 3904-8727
+    Ddd: 11
+    Número: 39048727
+    Tipo: FIXO
+    Data Inclusao: 18/03/2015
+    Classificacao: C
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

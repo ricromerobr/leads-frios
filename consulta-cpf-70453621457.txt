@@ -1,0 +1,309 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  70453621457
+Data/Hora:  03/10/2026, 20:41:49
+Tempo API:  239ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 704.536.214-57
+Nome: ILDEFONSO PEREIRA NETO SEGUNDO
+Primeiro Nome: ILDEFONSO
+Sobrenome: SEGUNDO
+Sexo: Masculino
+Data de Nascimento: 02/10/1995
+Nome da Mãe: VILMA VIEIRA DA SILVA PEREIRA
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Auxiliar de logistica
+Score:
+  Value: 286
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 1460
+Income Bracket: 2
+Cbo: 414140
+Endereço:
+  Tipo: RUA
+  Rua: MARIA DIGNA GAMEIRO
+  Número: 559
+  Bairro: CANDEIAS
+  Cidade: JABOATAO DOS GUARARAPES
+  Estado: PERNAMBUCO
+  CEP: 54440-420
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARIA DIGNA GAMEIRO
+    Número: 559
+    Bairro: CANDEIAS
+    Cidade: JABOATAO DOS GUARARAPES
+    Estado: PERNAMBUCO
+    CEP: 54440-420
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R MARIA DIGMA GAMEIRO
+    Número: 559
+    Bairro: CANDEIAS
+    Cidade: JABOATAO DOS GUARARAPES - PE
+    Fonte: DATASUS
+  [3]
+    Rua: XAVANTINA
+    Tipo: R
+    Número: 42
+    Complemento: COND DE GALPOES COMOD RO 2 500
+    Bairro: COMPORTAS
+    Cidade: JABOATAO DOS GUARARAPES
+    Estado: PE
+    CEP: 54345-565
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: 0000559
+    Número: MARIA DIGNA GAMEIRO
+    Bairro: CANDEIAS
+    Cidade: JABOATAO DOS GUARARAPES
+    Estado: PE
+    CEP: 54440-420
+    Fonte: ASSECC
+  [5]
+    Tipo: MARIA DIGNA GAMEIRO
+    Rua: R
+    Número: 0000559
+    Bairro: CANDEIAS
+    Cidade: JABOATAO DOS GUARARAPES
+    Estado: PE
+    CEP: 54440-420
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (81) 98369-0477
+  - +55 (81) 98369-0477
+  - (81) 98608-8086
+  - (81) 98323-8760
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 707609220429094
+Paycom:
+  E-mail: netohsh123@gmail.com
+  Data de Nascimento: 02/10/1995
+  Created At: 2021-05-12 12:53:09
+E-mail: netohsh123@gmail.com
+Additional Emails: (2 item(s))
+  - netohsh123@gmail.com
+  - netosh123@gmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Maria Digna Gameiro
+    Número: 559
+    Bairro: Candeias
+    Cidade: Jaboatão dos Guararapes
+    Estado: PE
+    País: BRA
+    CEP: 54440-420
+    Telephone: +55 (81) 98369-0477
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Mosaic New: C08
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: XAVANTINA
+      Número: 42
+      Complemento: COND DE GALPOES COMOD RO 2 500
+      Bairro: COMPORTAS
+      Cidade: JABOATAO DOS GUARARAPES
+      Estado: PE
+      CEP: 54345-565
+      Date Added: 28/08/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 983238760
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: netosh123@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [2]
+      E-mail: netohsh123@gmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 238
+    CSB8 FAIXA: ALTO
+    CSBA: 286
+    CSBA FAIXA: ALTO
+  Pis: 14014205211
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 593.45
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 004.394.444-20
+    Nome: LUIS RICARDO FERREIRA DOS SANTOS
+    Logradouro: XAVANTINA
+    Número: 226
+    Bairro: COMPORTAS
+  [2]
+    CPF: 104.585.654-15
+    Nome: CHARLES HENRY KOURY NETO
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [3]
+    CPF: 023.139.624-40
+    Nome: SERGIO PAULO DE ARRUDA
+    Logradouro: XAVANTINA
+    Número: 22
+    Bairro: COMPORTAS
+  [4]
+    CPF: 076.646.084-30
+    Nome: ELINALDO MANOEL DA SILVA
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [5]
+    CPF: 058.437.544-13
+    Nome: MARIANO SEVERINO DA SILVA
+    Logradouro: XAVANTINA
+    Número: SN
+    Bairro: COMPORTAS
+  [6]
+    CPF: 361.805.804-72
+    Nome: MANOEL BARBOSA DA SILVA
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [7]
+    CPF: 048.599.344-90
+    Nome: JOSELMA DA SILVA CALIXTO
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [8]
+    CPF: 086.204.654-81
+    Nome: HENRIQUE JOSE SILVA DE SANTANA
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [9]
+    CPF: 139.632.707-05
+    Nome: ANDERSON LUIZ BOCAYUVA MENDES FILHO
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [10]
+    CPF: 018.733.344-00
+    Nome: FERNANDO MOREIRA DA SILVA SANTOS
+    Logradouro: XAVANTINA
+    Número: 5
+    Bairro: COMPORTAS
+  [11]
+    CPF: 108.200.294-16
+    Nome: SAMUEL ALVES DE SANTANA
+    Logradouro: XAVANTINA
+    Número: 226
+    Bairro: COMPORTAS
+  [12]
+    CPF: 069.375.524-59
+    Nome: ELIANE FERREIRA DA SILVA
+    Logradouro: XAVANTINA
+    Número: 173
+    Bairro: COMPORTAS
+  [13]
+    CPF: 426.404.664-53
+    Nome: JOSE AGOSTINHO DA SILVA JUNIOR
+    Logradouro: XAVANTINA
+    Número: 10
+    Bairro: COMPORTAS
+  [14]
+    CPF: 660.980.844-91
+    Nome: SILVANA MARIA FEITOZA
+    Logradouro: XAVANTINA
+    Número: 42
+    Bairro: COMPORTAS
+  [15]
+    CPF: 558.698.234-04
+    Nome: AILSON DOS ANJOS DE SOUZA
+    Logradouro: XAVANTINA
+    Número: SN
+    Bairro: COMPORTAS
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (81) 98369-0477
+    Nome: ILDEFONSO PEREIRA NETO II
+    Cidade: JABOATAO DOS GUARARAPES
+    UF: PE
+  [2]
+    Telefone: (81) 98608-8086
+    Nome: ILDEFONSO PEREIRA NETO II
+    Cidade: JABOATAO DOS GUARARAPES
+    UF: PE
+  [3]
+    Telefone: (81) 98323-8760
+    Nome: ILDEFONSO PEREIRA NETO SEGUNDO
+    Cidade: JABOATAO DOS GUARARAPES
+    UF: PE
+E-mails: (2 item(s))
+  - netohsh123@gmail.com
+  - netosh123@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1460
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 593.45
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (81) 98323-8760
+    Ddd: 81
+    Número: 983238760
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 414140
+Occupation Name: Auxiliar de logistica
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

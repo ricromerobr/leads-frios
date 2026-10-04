@@ -1,0 +1,365 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  77479998872
+Data/Hora:  02/10/2026, 16:06:35
+Tempo API:  437ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 774.799.988-72
+Nome: RENATO DA SILVA
+Primeiro Nome: RENATO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 09/10/1950
+Nome da Mãe: ANDRELINA DE PAULA DA SILVA
+Nome do Pai: AFONSO ANTONIO DA SILVA
+RG: 14872739
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 011644670124
+Mosaic: H29
+Score:
+  Value: 682
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1345
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: FORTUNA
+  Bairro: JARDIM IMPERIAL
+  Cidade: ATIBAIA
+  Estado: SAO PAULO
+  CEP: 12950-150
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FORTUNA
+    Bairro: JARDIM IMPERIAL
+    Cidade: ATIBAIA
+    Estado: SAO PAULO
+    CEP: 12950-150
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FORTUNA
+    Número: 593
+    Bairro: JARDIM IMPERIAL
+    Cidade: ATIBAIA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: FORTUNA
+    Tipo: R
+    Número: 593
+    Complemento: C 2
+    Bairro: JD IMPERIAL
+    Cidade: ATIBAIA
+    Estado: SP
+    CEP: 12950-150
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: COPACABANA
+    Tipo: AV
+    Número: 2665
+    Bairro: JD JARAGUA
+    Cidade: ATIBAIA
+    Estado: SP
+    CEP: 12947-652
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANTONIO DA CRUZ
+    Tipo: R
+    Número: 561
+    Bairro: CENTRO
+    Cidade: BRAGANCA PAULISTA
+    Estado: SP
+    CEP: 12900-350
+    Data Atualizacao: 19/04/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: COPACABANA
+    Rua: AV
+    Número: 0002665
+    Bairro: JARDIM JARAGUA
+    Cidade: SP
+    Estado: ATIBAIA
+    CEP: 12947-652
+    Fonte: ASSECC
+  [7]
+    Rua: R DR ANTONIO DA CRUZ
+    Número: 561
+    Bairro: CENTRO
+    Estado: SP
+    CEP: 12900-350
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (11) 96902-3331
+  - (11) 97566-1436
+  - (11) 97160-1973
+  - (11) 99612-8721
+  - (11) 4195-7953
+  - (11) 95619-2828
+  - (11) 96395-2732
+Datasus Phones: (2 item(s))
+  - (11) 97566-1436
+  - (11) 97566-1436
+Cidade de Nascimento: ATIBAIA - SP
+Cns: 704604612618620
+Rg Issue Date: 1092884400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Info Date: 29/03/2007
+    Mosaic: H29
+    Mosaic New: H25
+    Mosaic Secondary: F20
+    Income Bracket Id: 2
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: FORTUNA
+      Número: 593
+      Complemento: C 2
+      Bairro: JD IMPERIAL
+      Cidade: ATIBAIA
+      Estado: SP
+      CEP: 12950-150
+      Date Added: 20/05/2019
+    [2]
+      Tipo: AV
+      Rua: COPACABANA
+      Número: 2665
+      Bairro: JD JARAGUA
+      Cidade: ATIBAIA
+      Estado: SP
+      CEP: 12947-652
+      Date Added: 05/04/2016
+    [3]
+      Tipo: R
+      Rua: ANTONIO DA CRUZ
+      Número: 561
+      Bairro: CENTRO
+      Cidade: BRAGANCA PAULISTA
+      Estado: SP
+      CEP: 12900-350
+      Date Added: 11/10/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 971601973
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/09/2014
+    [2]
+      Telefone: 996128721
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/09/2014
+    [3]
+      Telefone: 41957953
+      Ddd: 11
+      Tipo: 2
+      Classificacao: D
+      Date Added: 20/07/2017
+    [4]
+      Telefone: 956192828
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 963952732
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 18/06/2019
+      Info Date: 10/05/2019
+  Score:
+    CSB8: 675
+    CSB8 FAIXA: BAIXO
+    CSBA: 682
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ANDRELINA DE PAULA DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1345.85
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 892.884.168-20
+    Nome: JOSE RAMOS DE JESUS
+    Logradouro: FORTUNA
+    Número: 382
+    Bairro: JD IMPERIAL
+  [2]
+    CPF: 353.464.318-61
+    Nome: DALRIZA DE VILAS BOAS NICOLAU
+    Logradouro: FORTUNA
+    Número: 391
+    Bairro: JD IMPERIAL
+  [3]
+    CPF: 226.074.708-62
+    Nome: ROSELI DE CARVALHO
+    Logradouro: FORTUNA
+    Número: 40
+    Bairro: JD IMPERIAL
+  [4]
+    CPF: 142.034.938-46
+    Nome: DORIVAL GIGANTE
+    Logradouro: FORTUNA
+    Número: 405
+    Bairro: JD IMPERIAL
+  [5]
+    CPF: 412.381.078-00
+    Nome: MONIQUE RAQUEL GEVIGI DOS SANTOS
+    Logradouro: FORTUNA
+    Número: 462
+    Bairro: JD IMPERIAL
+  [6]
+    CPF: 370.874.728-36
+    Nome: CLEBER BATISTA DE SOUSA
+    Logradouro: FORTUNA
+    Número: 493
+    Bairro: JD IMPERIAL
+  [7]
+    CPF: 150.369.388-01
+    Nome: PAULO SERGIO DA SILVA
+    Logradouro: FORTUNA
+    Número: 282
+    Bairro: JD IMPERIAL
+  [8]
+    CPF: 012.039.985-70
+    Nome: VANDERLEY DA SILVA MIRANDA
+    Logradouro: FORTUNA
+    Número: 190
+    Bairro: JD IMPERIAL
+  [9]
+    CPF: 120.475.728-35
+    Nome: MARGARETE TANIA DE ALFINO
+    Logradouro: FORTUNA
+    Número: 462
+    Bairro: JD IMPERIAL
+  [10]
+    CPF: 165.307.798-09
+    Nome: CLAUDIO GONCALVES BISERRA
+    Logradouro: FORTUNA
+    Número: 382
+    Bairro: JD IMPERIAL
+  [11]
+    CPF: 180.643.188-23
+    Nome: HERNANDO SEBASTIAO DA SILVA
+    Logradouro: FORTUNA
+    Número: 444
+    Bairro: JD IMPERIAL
+  [12]
+    CPF: 263.186.388-73
+    Nome: NEUZA GOI DE OLIVEIRA
+    Logradouro: FORTUNA
+    Número: 100
+    Bairro: JD IMPERIAL
+  [13]
+    CPF: 263.415.298-13
+    Nome: IVONILDO DE JESUS SANTOS
+    Logradouro: FORTUNA
+    Número: 180
+    Bairro: JD IMPERIAL
+  [14]
+    CPF: 323.133.518-31
+    Nome: IVONE APARECIDA DOS SANTOS
+    Logradouro: FORTUNA
+    Número: 40
+    Bairro: JD IMPERIAL
+  [15]
+    CPF: 054.649.037-98
+    Nome: JOAO PAULO PINHEIRO DE OLIVEIRA
+    Logradouro: FORTUNA
+    Número: 100
+    Bairro: JD IMPERIAL
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96902-3331
+    Nome: RENATO  DA SILVA
+    Cidade: SP
+    UF: ATIBAIA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 97566-1436
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 05MAY2018
+    Ultima Recarga: 31AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 23/04/2018
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1345
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1345.85
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 97160-1973
+    Ddd: 11
+    Número: 971601973
+    Tipo: 3
+    Data Inclusao: 04/09/2014
+    Classificacao: D
+  [2]
+    Telefone: (11) 99612-8721
+    Ddd: 11
+    Número: 996128721
+    Tipo: 3
+    Data Inclusao: 04/09/2014
+    Classificacao: D
+  [3]
+    Telefone: (11) 4195-7953
+    Ddd: 11
+    Número: 41957953
+    Tipo: CELULAR
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (11) 95619-2828
+    Ddd: 11
+    Número: 956192828
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 96395-2732
+    Ddd: 11
+    Número: 963952732
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 10/05/2019
+    Classificacao: C2
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

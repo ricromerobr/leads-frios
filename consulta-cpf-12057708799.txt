@@ -1,0 +1,197 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  12057708799
+Data/Hora:  03/10/2026, 20:59:26
+Tempo API:  237ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 120.577.087-99
+Nome: ANA LUCIA DE JESUS ROSA
+Primeiro Nome: ANA
+Sobrenome: ROSA
+Sexo: Feminino
+Data de Nascimento: 23/07/1978
+Nome da Mãe: ROSANGELA DE JESUS
+RG: 207219452
+Rg Issuer: DIC
+Voter Id: 113501910396
+Mosaic: F19
+Score:
+  Value: 432
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 207
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: DAS CAPIVARAS T UNIAO
+  Número: 11
+  Complemento: FDS
+  Bairro: UNAMAR
+  Cidade: TAMOIOS
+  Estado: RIO DE JANEIRO
+  CEP: 28927-000
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DAS CAPIVARAS T UNIAO
+    Número: 11
+    Complemento: FDS
+    Bairro: UNAMAR
+    Cidade: TAMOIOS
+    Estado: RIO DE JANEIRO
+    CEP: 28927-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA R DAS CAPIVARAS T UNIAO
+    Número: 11
+    Complemento: FDS
+    Bairro: UNAMAR
+    Estado: RJ
+    CEP: 28927-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/10/2019
+    Info Date: 09/01/2009
+    Rg Issuer: DIC
+    Mosaic: F19
+    Mosaic New: I32
+    Income Bracket Id: 1
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 992834860
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [2]
+      Telefone: 992835277
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 997106452
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [4]
+      Telefone: 997556374
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 998111276
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  Score:
+    CSB8: 266
+    CSB8 FAIXA: ALTO
+    CSBA: 432
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ROSANGELA DE JESUS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 207.94
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (7 item(s))
+  - (22) 99721-6515
+  - (22) 99917-4426
+  - (22) 99283-4860
+  - (22) 99283-5277
+  - (22) 99710-6452
+  - (22) 99755-6374
+  - (22) 99811-1276
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (22) 99721-6515
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 10FEB2020
+    Ultima Recarga: 02SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 18/09/2019
+  [2]
+    Telefone: (22) 99917-4426
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 24MAR2020
+    Ultima Recarga: 08SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 21/03/2020
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 207
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 207.94
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (22) 99283-4860
+    Ddd: 22
+    Número: 992834860
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [2]
+    Telefone: (22) 99283-5277
+    Ddd: 22
+    Número: 992835277
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [3]
+    Telefone: (22) 99710-6452
+    Ddd: 22
+    Número: 997106452
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [4]
+    Telefone: (22) 99755-6374
+    Ddd: 22
+    Número: 997556374
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (22) 99811-1276
+    Ddd: 22
+    Número: 998111276
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Foto: 📸 ENVIADA SEPARADAMENTE NO TELEGRAM
+Foto Source: FOTO_RJ.db
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

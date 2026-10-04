@@ -1,0 +1,389 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  79999824234
+Data/Hora:  04/10/2026, 14:57:55
+Tempo API:  408ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 799.998.242-34
+Nome: DARCY VANDA SOBREIRA DA SILVA
+Primeiro Nome: DARCY
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 31/05/1982
+Nome da Mãe: MILTA SOBREIRA DA SILVA
+Voter Id: 022484352232
+Mosaic: F18
+Score:
+  Value: 405
+  Range: MEDIO
+E-mail: marylannesobreira@gmail.com
+Additional Emails: (1 item(s))
+  - marylannesobreira@gmail.com
+Federal Status: REGULAR
+Renda: 1035
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: OURO VERDE
+  Bairro: ALVORADA
+  Cidade: MANAUS
+  Estado: AMAZONAS
+  CEP: 06904-830
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: OURO VERDE
+    Bairro: ALVORADA
+    Cidade: MANAUS
+    Estado: AMAZONAS
+    CEP: 06904-830
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DES JOAO MACHADO (COND OURO VERDE)
+    Número: 136
+    Bairro: ALVORADA 1
+    Estado: AM
+    CEP: 69048-430
+    Fonte: MEC
+  [3]
+    Rua: OURO VERDE
+    Tipo: CJ
+    Número: 136
+    Complemento: BL 2 B AO 202
+    Bairro: ALVORADA
+    Cidade: MANAUS
+    Estado: AM
+    CEP: 69048-430
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: OURO VERDE
+    Bairro: ALVORADA
+    Cidade: MANAUS
+    Estado: AM
+    CEP: 06904-830
+    Fonte: ASSECC
+  [5]
+    Tipo: AVENIDA
+    Rua: AV DES JOAO MACHADO  136 ENT B BL 02
+    Número: 136
+    Complemento: APT 202
+    Bairro: PLANALTO
+    Cidade: MANAUS
+    Estado: AM
+    CEP: 69044-000
+    Fonte: NET
+  [6]
+    Rua: AV DESEMBARGADOR JOAO MACHADO
+    Número: 136
+    Complemento: COND OURO VERDE  . BLOBO 2 B . A
+    Bairro: ALVORADA
+    Estado: AM
+    CEP: 69048-430
+    Fonte: VIVO_PRE
+  [7]
+    Rua: CJ OURO VERDE
+    Número: S/N
+    Bairro: ALVORADA
+    Estado: AM
+    CEP: 69048-430
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (92) 99102-9107
+  - (92) 99112-6298
+  - (92) 99496-7969
+  - (92) 99244-5409
+  - (92) 98808-8372
+  - (92) 98808-8392
+  - (92) 3654-8567
+Mec:
+  Titulo Eleitor: 0022484352232
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/09/2019
+    Mosaic: F18
+    Mosaic New: D09
+    Mosaic Secondary: E17
+    Income Bracket Id: 2
+  Endereços: (1 item(s))
+    [1]
+      Tipo: CJ
+      Rua: OURO VERDE
+      Número: 136
+      Complemento: BL 2 B AO 202
+      Bairro: ALVORADA
+      Cidade: MANAUS
+      Estado: AM
+      CEP: 69048-430
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988088372
+      Ddd: 92
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 988088392
+      Ddd: 92
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/09/2014
+    [3]
+      Telefone: 991029107
+      Ddd: 92
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/05/2017
+    [4]
+      Telefone: 992445409
+      Ddd: 92
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [5]
+      Telefone: 36548567
+      Ddd: 92
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+  Score:
+    CSB8: 436
+    CSB8 FAIXA: MEDIO
+    CSBA: 405
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MILTA SOBREIRA DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1035.38
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 417.187.802-06
+    Nome: MARCOS EDUARDO LEAO BARBOSA
+    Logradouro: OURO VERDE
+    Número: 136
+    Bairro: ALVORADA
+  [2]
+    CPF: 135.354.122-34
+    Nome: GENIVAN PINTO DE ANDRADE
+    Logradouro: OURO VERDE
+    Número: 301
+    Bairro: ALVORADA
+  [3]
+    CPF: 859.007.102-20
+    Nome: DIEGO BATISTA COUTINHO
+    Logradouro: OURO VERDE
+    Número: 136
+    Bairro: ALVORADA
+  [4]
+    CPF: 346.615.492-87
+    Nome: MARGARETE SOUZA MARTINS
+    Logradouro: OURO VERDE
+    Número: 201
+    Bairro: ALVORADA
+  [5]
+    CPF: 441.042.002-04
+    Nome: ROSILENE OLIVEIRA LIMA
+    Logradouro: OURO VERDE
+    Número: 201
+    Bairro: ALVORADA
+  [6]
+    CPF: 510.465.472-91
+    Nome: OSMAR NUNES MARCEL
+    Logradouro: OURO VERDE
+    Número: 136
+    Bairro: ALVORADA
+  [7]
+    CPF: 890.682.112-34
+    Nome: JESSICA SOUZA DA SILVA
+    Logradouro: OURO VERDE
+    Número: 136
+    Bairro: ALVORADA
+  [8]
+    CPF: 387.591.872-04
+    Nome: ELZA MARIA DE SOUSA
+    Logradouro: OURO VERDE
+    Número: 136
+    Bairro: ALVORADA
+  [9]
+    CPF: 730.814.772-04
+    Nome: MARIA ARTEMISIA MARTINS DO NASCIMENTO
+    Logradouro: OURO VERDE
+    Número: 101
+    Bairro: ALVORADA
+  [10]
+    CPF: 012.296.619-80
+    Nome: THIAGO DOS SANTOS CANDEU
+    Logradouro: OURO VERDE
+    Número: 201
+    Bairro: ALVORADA
+  [11]
+    CPF: 031.508.442-15
+    Nome: IRENE BITTENCOURT GUIMARAES
+    Logradouro: OURO VERDE
+    Número: 201
+    Bairro: ALVORADA
+  [12]
+    CPF: 418.423.832-72
+    Nome: JOSE SARAIVA CAMPOS PIMENTA
+    Logradouro: OURO VERDE
+    Número: 102
+    Bairro: ALVORADA
+  [13]
+    CPF: 200.125.352-49
+    Nome: MARIA DE FATIMA DO NASCIMENTO
+    Logradouro: OURO VERDE
+    Número: 56
+    Bairro: ALVORADA
+  [14]
+    CPF: 215.356.042-04
+    Nome: JORGE LUCIO DA SILVA
+    Logradouro: OURO VERDE
+    Número: 136
+    Bairro: ALVORADA
+  [15]
+    CPF: 671.053.004-34
+    Nome: GILMAR ANSELMO DA SILVA
+    Logradouro: OURO VERDE
+    Número: 183
+    Bairro: ALVORADA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (92) 99102-9107
+    Nome: DARCY  VANDA SOBREIRA DA SILVA
+    Cidade: MANAUS
+    UF: AM
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 219925699
+    Operadora: 121
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 04/11/2017
+    Tempo Base: 33
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201711
+    Geo:
+      Ibge Municipio: 1302603
+      Ddd Origem: 92
+      Estado Nome: AMAZONAS
+    Nascimento: 31/05/1982
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 9657
+      Classe Social: B1
+      Score: 601
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 429
+        Net: 286
+        Ctv: 342
+        Faixa Cmv: 400 - 434
+        Faixa Net: 286 - 348
+        Faixa Ctv: 1 - 453
+        Risco Cmv: ALTO
+        Risco Net: ALTO
+        Risco Ctv: CRÍTICO
+        Idade: 38
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (92) 99244-5409
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 19JAN2014
+    Ultima Recarga: 05AUG2020
+    Telefone Anterior: (92) 9244-5409
+    Plano: PF_PRE_PURO
+    Data Instalacao: 20/12/2013
+  [2]
+    Telefone: (92) 99102-9107
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (92) 9102-9107
+    Plano: PF_CONTROLE
+    Data Instalacao: 02/10/2014
+    Valor Fatura: 56.39
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - marylannesobreira@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1035
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1035.38
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 9657
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (92) 98808-8372
+    Ddd: 92
+    Número: 988088372
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (92) 98808-8392
+    Ddd: 92
+    Número: 988088392
+    Tipo: 3
+    Data Inclusao: 04/09/2014
+    Classificacao: D
+  [3]
+    Telefone: (92) 99102-9107
+    Ddd: 92
+    Número: 991029107
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: A0
+  [4]
+    Telefone: (92) 99244-5409
+    Ddd: 92
+    Número: 992445409
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [5]
+    Telefone: (92) 3654-8567
+    Ddd: 92
+    Número: 36548567
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

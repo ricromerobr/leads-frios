@@ -1,0 +1,470 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  38982422854
+Data/Hora:  04/10/2026, 01:04:58
+Tempo API:  240ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 389.824.228-54
+Nome: LUANA SANTOS DE ALMEIDA
+Primeiro Nome: LUANA
+Sobrenome: ALMEIDA
+Sexo: Feminino
+Data de Nascimento: 02/08/1989
+Nome da Mãe: LIZETE OVIDIA SANTOS DE ALMEIDA
+Nome do Pai: ALUIZO ALVES FILHO
+Voter Id: 365088610175
+Mosaic: F20
+Ocupação: Operador de caixa
+Score:
+  Value: 433
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 991
+Income Bracket: 1
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: DA OLARIA
+  Número: 294
+  Bairro: JD ARCO IRIS
+  Cidade: COTIA
+  Estado: SAO PAULO
+  CEP: 06719-150
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DA OLARIA
+    Número: 294
+    Bairro: JD ARCO IRIS
+    Cidade: COTIA
+    Estado: SAO PAULO
+    CEP: 06719-150
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PEDRO ALVES DA SILVA
+    Número: S/N
+    Bairro: BELA VISTA
+    Cidade: REMIGIO - PB
+    Fonte: DATASUS
+  [3]
+    Rua: FEIJO
+    Tipo: R
+    Número: 275
+    Bairro: CENTRO
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06700-075
+    Data Atualizacao: 13/09/2013
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: LAJEDO TETEU
+    Tipo: SIT
+    Número: SN
+    Complemento: C SORVETERIA
+    Bairro: BX VERDE
+    Cidade: REMIGIO
+    Estado: PB
+    CEP: 58398-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DA OLARIA
+    Tipo: ESTRADA VE
+    Número: 234
+    Bairro: JD ARCO IRIS
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06719-150
+    Data Atualizacao: 10/11/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: LARGEDO DO TETEU
+    Bairro: 15 DE NOVEMBRO
+    Cidade: REMIGIO
+    Estado: PB
+    CEP: 05839-800
+    Fonte: ASSECC
+  [7]
+    Rua: R RUA RUI BARBOSA
+    Número: S/N
+    Bairro: CENTRO
+    Estado: PB
+    CEP: 58388-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (83) 98105-2011
+  - (83) 99367-4134
+  - (83) 99307-7854
+  - (11) 4614-2021
+  - (11) 97036-6396
+  - (11) 2281-6351
+  - (11) 97098-5472
+  - (83) 98855-6754
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: REMIGIO - PB
+Cns: 704309546689496
+Paycom:
+  E-mail: denilsonjose84@hotmail.com
+  Created At: 2021-08-05 00:15:33
+E-mail: denilsonjose84@hotmail.com
+Additional Emails: (1 item(s))
+  - denilsonjose84@hotmail.com
+Endereços de Entrega: (2 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua avenida Joaquim Cavalcante,08,Centro
+    Número: 0
+    Cidade: Remígio
+    Estado: PB
+    País: BRA
+    CEP: 58398-000
+  [2]
+    Tipo: 2
+    Rua: Avenida Joaquim Cavalcante,08,Centro
+    Número: 0
+    Cidade: Remígio
+    Estado: PB
+    País: BRA
+    CEP: 58398-000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/12/2019
+    Mosaic: F20
+    Mosaic New: D13
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: FEIJO
+      Número: 275
+      Bairro: CENTRO
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06700-075
+      Date Added: 21/10/2012
+    [2]
+      Tipo: SIT
+      Rua: LAJEDO TETEU
+      Número: SN
+      Complemento: C SORVETERIA
+      Bairro: BX VERDE
+      Cidade: REMIGIO
+      Estado: PB
+      CEP: 58398-000
+      Date Added: 23/09/2019
+    [3]
+      Tipo: ESTRADA VE
+      Rua: DA OLARIA
+      Número: 234
+      Bairro: JD ARCO IRIS
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06719-150
+      Date Added: 09/12/2014
+    [4]
+      Tipo: ESTRADA VE
+      Rua: DA OLARIA
+      Número: 294
+      Bairro: JD ARCO IRIS
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06719-150
+      Date Added: 06/11/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 46142021
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/10/2012
+      Info Date: 13/02/2015
+    [2]
+      Telefone: 970366396
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 25/10/2012
+    [3]
+      Telefone: 22816351
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 18/03/2015
+    [4]
+      Telefone: 970985472
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [5]
+      Telefone: 988556754
+      Ddd: 83
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+  Score:
+    CSB8: 567
+    CSB8 FAIXA: BAIXO
+    CSBA: 433
+    CSBA FAIXA: MEDIO
+  Parentes: (13 item(s))
+    [1]
+      CPF: 8569794495
+      Nome: EMANUEL DE ALMEIDA CAVALCANTI
+      Vinculo: SOBRINHA(O)
+    [2]
+      CPF: 543.764.914-20
+      Nome: IRANI FLORENCIO DOS SANTOS
+      Vinculo: TIA(O)
+    [3]
+      CPF: 8569806418
+      Nome: LUCAS DE ALMEIDA CAVALCANTI
+      Vinculo: SOBRINHA(O)
+    [4]
+      CPF: 153.208.168-55
+      Nome: JOAO FLORENCIO DOS SANTOS
+      Vinculo: TIA(O)
+    [5]
+      CPF: 447.673.314-04
+      Nome: OVIDIA FLORENCIO DOS SANTOS
+      Vinculo: AVO
+    [6]
+      CPF: 5902119430
+      Nome: JOSE SOURICLES SANTOS DE ALMEIDA
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 276.073.198-75
+      Nome: MARIA IATIARA SANTOS DE ALMEIDA
+      Vinculo: IRMA(O)
+    [8]
+      CPF: 8569801459
+      Nome: VANESSA DE ALMEIDA CAVALCANTI
+      Vinculo: SOBRINHA(O)
+    [9]
+      CPF: 5745091436
+      Nome: MARIA JACIARA DE ALMEIDA CAVALCANTI
+      Vinculo: IRMA(O)
+    [10]
+      CPF: 335.872.628-29
+      Nome: BOLES SANTOS KOZAKEVIC
+      Vinculo: PRIMA(O)
+    [11]
+      CPF: 125.667.588-16
+      Nome: LIZETE OVIDIA SANTOS DE ALMEIDA
+      Vinculo: MAE
+    [12]
+      CPF: 251.024.388-83
+      Nome: MARIA VALERIA SANTOS DE ALMEIDA
+      Vinculo: IRMA(O)
+    [13]
+      CPF: 283.608.628-93
+      Nome: MARIA OZENI DE ALMEIDA
+      Vinculo: IRMA(O)
+  Pis: 20213151183
+  Tse:
+    Titulo: 365088610175
+    Zona: 286
+    Secao: 47
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 895.53
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 417.210.928-46
+    Nome: SABRINA SELLIS DINIZ
+    Logradouro: FEIJO
+    Número: 58
+    Bairro: CENTRO
+  [2]
+    CPF: 380.545.198-93
+    Nome: FRANCISCO JEFFERSON MARTINS PEREIRA
+    Logradouro: FEIJO
+    Número: 260
+    Bairro: CENTRO
+  [3]
+    CPF: 236.876.298-13
+    Nome: BRUNO WESLEY BRAGA DOS SANTOS FERREIRA
+    Logradouro: FEIJO
+    Número: 313
+    Bairro: CENTRO
+  [4]
+    CPF: 038.045.968-00
+    Nome: ROBERTO DE OLIVEIRA GOMES
+    Logradouro: FEIJO
+    Número: 82
+    Bairro: CENTRO
+  [5]
+    CPF: 421.073.078-57
+    Nome: IAGO APARECIDO PEREIRA DA SILVA SOUSA
+    Logradouro: FEIJO
+    Número: SN
+    Bairro: CENTRO
+  [6]
+    CPF: 286.239.448-36
+    Nome: VALDELIRA GOMES DE OLIVEIRA
+    Logradouro: FEIJO
+    Número: 313
+    Bairro: CENTRO
+  [7]
+    CPF: 056.777.838-03
+    Nome: MARIA DA PENHA VAZ DE ALMEIDA
+    Logradouro: FEIJO
+    Número: 338
+    Bairro: CENTRO
+  [8]
+    CPF: 317.027.008-79
+    Nome: GISELI FERREIRA SAMPAIO
+    Logradouro: FEIJO
+    Número: 133
+    Bairro: CENTRO
+  [9]
+    CPF: 351.243.344-87
+    Nome: MARIA JOSE MARCELINO OLIVEIRA DA SILVA
+    Logradouro: FEIJO
+    Número: 313
+    Bairro: CENTRO
+  [10]
+    CPF: 444.584.198-62
+    Nome: ALINE CAROLINE RIBEIRO DE MORAES
+    Logradouro: FEIJO
+    Número: 313
+    Bairro: CENTRO
+  [11]
+    CPF: 118.322.068-58
+    Nome: CLAUDETE DA CONCEICAO SODRE BARTOLE
+    Logradouro: FEIJO
+    Número: 201
+    Bairro: CENTRO
+  [12]
+    CPF: 423.282.628-99
+    Nome: MAYARA CIGAGNA SPINOLA
+    Logradouro: FEIJO
+    Número: 240
+    Bairro: CENTRO
+  [13]
+    CPF: 040.281.153-45
+    Nome: LUIS GOMES PEREIRA
+    Logradouro: FEIJO
+    Número: 147
+    Bairro: CENTRO
+  [14]
+    CPF: 378.561.478-06
+    Nome: PRISCILA PEREIRA LUZ
+    Logradouro: FEIJO
+    Número: 85
+    Bairro: CENTRO
+  [15]
+    CPF: 066.532.048-55
+    Nome: VILMA SILVA MOURA EVANGELISTA
+    Logradouro: FEIJO
+    Número: 82
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (83) 98105-2011
+    Nome: LUANA SANTOS DE ALMEIDA
+    Cidade: REMIGIO
+    UF: PB
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (83) 98105-2011
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 20/01/2020
+    Flag Divida: 1
+    Maior Atraso: 7
+    Menor Atraso: 7
+    Valor Fatura: 61.23
+    Mes Referencia: 202009
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (83) 99307-7854
+    Nome: LUANA SANTOS DE ALMEIDA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (83) 99367-4134
+    Nome: LUANA SANTOS DE ALMEIDA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - denilsonjose84@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 991
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 895.53
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4614-2021
+    Ddd: 11
+    Número: 46142021
+    Tipo: FIXO
+    Data Inclusao: 02/10/2012
+    Data Informacao: 13/02/2015
+    Classificacao: D2
+  [2]
+    Telefone: (11) 97036-6396
+    Ddd: 11
+    Número: 970366396
+    Tipo: 3
+    Data Inclusao: 25/10/2012
+    Classificacao: A0
+  [3]
+    Telefone: (11) 2281-6351
+    Ddd: 11
+    Número: 22816351
+    Tipo: FIXO
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [4]
+    Telefone: (11) 97098-5472
+    Ddd: 11
+    Número: 970985472
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [5]
+    Telefone: (83) 98855-6754
+    Ddd: 83
+    Número: 988556754
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+Occupation Code: 421125
+Occupation Name: Operador de caixa
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

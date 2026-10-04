@@ -1,0 +1,231 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10710615426
+Data/Hora:  02/10/2026, 15:28:51
+Tempo API:  20008ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 107.106.154-26
+Nome: DANIEL TENORIO CURSINO
+Primeiro Nome: DANIEL
+Sobrenome: CURSINO
+Sexo: Masculino
+Data de Nascimento: 15/12/1998
+Nome da Mãe: ROGERIA SANDRA TENORIO FERRO CURSINO
+Nome do Pai: SEM INFORMAÇÃO
+Score:
+  Value: 600
+  Range: BAIXO
+E-mail: danitcursino@hotmail.com
+Federal Status: REGULAR
+Renda: 752
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MANUEL DE CARVALHO
+  Número: 262
+  Complemento: AP 401
+  Bairro: AFLITOS
+  Cidade: RECIFE
+  Estado: PERNAMBUCO
+  CEP: 52050-370
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MANUEL DE CARVALHO
+    Número: 262
+    Complemento: AP 401
+    Bairro: AFLITOS
+    Cidade: RECIFE
+    Estado: PERNAMBUCO
+    CEP: 52050-370
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MANUEL DE CARVALHO
+    Número: 262
+    Bairro: AFLITOS
+    Cidade: RECIFE - PE
+    Fonte: DATASUS
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 705001237733354
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/01/2020
+    Mosaic New: C06
+    Mosaic Secondary: A01
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: MANUEL DE CARVALHO
+      Número: 262
+      Complemento: AP 401
+      Bairro: AFLITOS
+      Cidade: RECIFE
+      Estado: PE
+      CEP: 52050-370
+      Date Added: 05/04/2018
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998069305
+      Ddd: 81
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 15/11/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: danitcursino@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 29/10/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 600
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 752.08
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Telefones: (1 item(s))
+  - (81) 99806-9305
+Additional Emails: (1 item(s))
+  - danitcursino@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 044.663.254-64
+    Nome: ISAAC MIGUEL GOMES DA SILVA
+    Logradouro: MANUEL DE CARVALHO
+    Número: 467
+    Bairro: AFLITOS
+  [2]
+    CPF: 038.623.344-65
+    Nome: ISNANDA DE BARROS SIQUEIRA
+    Logradouro: MANUEL DE CARVALHO
+    Número: 286
+    Bairro: AFLITOS
+  [3]
+    CPF: 055.475.284-04
+    Nome: NATALIA MARIA DE BRITO VIEIRA GALDINO
+    Logradouro: MANUEL DE CARVALHO
+    Número: 287
+    Bairro: AFLITOS
+  [4]
+    CPF: 035.665.354-43
+    Nome: ROBSON SANTOS DE LIMA
+    Logradouro: MANUEL DE CARVALHO
+    Número: 268
+    Bairro: AFLITOS
+  [5]
+    CPF: 054.015.924-77
+    Nome: RENATO RORIZ DE MENEZES LUSTOSA CARVALHO
+    Logradouro: MANUEL DE CARVALHO
+    Número: 287
+    Bairro: AFLITOS
+  [6]
+    CPF: 031.656.534-29
+    Nome: KAROLINA DE CARVALHO BARROS
+    Logradouro: MANUEL DE CARVALHO
+    Número: 341
+    Bairro: AFLITOS
+  [7]
+    CPF: 906.892.324-20
+    Nome: MAURO ROBERTO MEDEIROS FERNANDES
+    Logradouro: MANUEL DE CARVALHO
+    Número: 105
+    Bairro: AFLITOS
+  [8]
+    CPF: 754.291.524-04
+    Nome: ANA PAULA GOES COSTA DA FONSECA
+    Logradouro: MANUEL DE CARVALHO
+    Número: 341
+    Bairro: AFLITOS
+  [9]
+    CPF: 000.674.404-44
+    Nome: JOAO VIDAL BEZERRA DE MENEZES
+    Logradouro: MANUEL DE CARVALHO
+    Número: 179
+    Bairro: AFLITOS
+  [10]
+    CPF: 026.817.664-78
+    Nome: MONA LISA PEIXOTO TAVARES DE ARAUJO
+    Logradouro: MANUEL DE CARVALHO
+    Número: 200
+    Bairro: AFLITOS
+  [11]
+    CPF: 856.617.244-20
+    Nome: KARINA BARROS FONTELLES
+    Logradouro: MANUEL DE CARVALHO
+    Número: 341
+    Bairro: AFLITOS
+  [12]
+    CPF: 038.566.074-04
+    Nome: ELIANE PIRES DE MORAIS MAIA
+    Logradouro: MANUEL DE CARVALHO
+    Número: 200
+    Bairro: AFLITOS
+  [13]
+    CPF: 313.776.964-72
+    Nome: BENTO ALEXANDRE FERREIRA CAMPOS
+    Logradouro: MANUEL DE CARVALHO
+    Número: 262
+    Bairro: AFLITOS
+  [14]
+    CPF: 027.633.924-07
+    Nome: MARIA INALDA DA SILVA THOMAZ
+    Logradouro: MANUEL DE CARVALHO
+    Número: 287
+    Bairro: AFLITOS
+  [15]
+    CPF: 514.212.674-20
+    Nome: MARIA ELIZABETH ARRUDA DE MIRANDA
+    Logradouro: MANUEL DE CARVALHO
+    Número: 286
+    Bairro: AFLITOS
+E-mails: (1 item(s))
+  - danitcursino@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 752
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 752.08
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (81) 99806-9305
+    Ddd: 81
+    Número: 998069305
+    Tipo: 3
+    Data Inclusao: 15/11/2019
+    Classificacao: A2
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

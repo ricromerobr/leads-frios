@@ -1,0 +1,498 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  27072998802
+Data/Hora:  02/10/2026, 15:41:09
+Tempo API:  7876ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 270.729.988-02
+Nome: VALERIA APARECIDA SANTOS DE SOUZA
+Primeiro Nome: VALERIA
+Sobrenome: SOUZA
+Sexo: Feminino
+Data de Nascimento: 16/08/1979
+Nome da Mãe: MARIA ALENI DOS SANTOS
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 253157520183
+Mosaic: C08
+Ocupação: Técnico de enfermagem
+Score:
+  Value: 173
+  Range: ALTISSIMO
+E-mail: VALERIANS08@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 2010
+Income Bracket: 3
+Cbo: 322205
+Endereço:
+  Tipo: AVENIDA
+  Rua: ALEXIOS JAFET
+  Bairro: JARDIM IPANEMA ZONA OESTE
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05187-010
+All Addresses: (8 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: ALEXIOS JAFET
+    Bairro: JARDIM IPANEMA ZONA OESTE
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05187-010
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AVENIDA DOUTOR FELIPE PINEL
+    Número: 255
+    Bairro: PIRITUBA
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: FELIPE PINEL
+    Tipo: AV
+    Número: 256
+    Bairro: PIRITUBA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02939-000
+    Data Atualizacao: 13/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FELIPE PINEL
+    Tipo: AV
+    Número: 255
+    Complemento: BL 2 AP 402
+    Bairro: PIRITUBA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02939-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DOS GUSMOES
+    Tipo: R
+    Número: 356
+    Complemento: AP 45
+    Bairro: STA EFIGENIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01212-001
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ALEXIOS JAFET
+    Tipo: AV
+    Número: 595
+    Complemento: AP 13
+    Bairro: JD IPANEMA ZONA OESTE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05187-010
+    Data Atualizacao: 30/08/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: AV
+    Rua: ALEXIOS JAFET
+    Número: 0000595
+    Bairro: JARDIM IPANEMA ZONA OESTE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05187-010
+    Fonte: ASSECC
+  [8]
+    Tipo: AVENIDA
+    Rua: AV DR FELIPE PINEL  255 BL 5
+    Número: 255
+    Complemento: APT 403
+    Bairro: PIRITUBA
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 0
+Telefones: (12 item(s))
+  - (11) 98316-6949
+  - (11) 95759-0451
+  - (11) 97821-3318
+  - +55 (11) 98316-6949
+  - (11) 3972-3420
+  - (11) 97574-7972
+  - +55 (11) 97574-7972
+  - (11) 6022-5403
+  - (11) 93201-3546
+  - (11) 97534-4392
+  - (11) 96245-2592
+  - (11) 94624-7263
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 708609187572790
+Paycom:
+  E-mail: valerians08@hotmail.com
+  Data de Nascimento: 16/08/1979
+  Created At: 2021-06-29 19:42:35
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Alexios Jafet
+    Número: 595
+    Complemento: bloco 2 apto13
+    Bairro: Jaraguá
+    Cidade: São Paulo
+    Estado: São Paulo
+    País: Brasil
+    Telephone: +55 (11) 98316-6949
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Info Date: 21/12/2008
+    Mosaic: C08
+    Mosaic New: D09
+    Mosaic Secondary: E17
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: FELIPE PINEL
+      Número: 256
+      Bairro: PIRITUBA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02939-000
+      Date Added: 18/04/2014
+    [2]
+      Tipo: AV
+      Rua: FELIPE PINEL
+      Número: 255
+      Complemento: BL 2 AP 402
+      Bairro: PIRITUBA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02939-000
+      Date Added: 17/12/2018
+    [3]
+      Tipo: R
+      Rua: DOS GUSMOES
+      Número: 356
+      Complemento: AP 45
+      Bairro: STA EFIGENIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01212-001
+      Date Added: 13/04/2010
+    [4]
+      Tipo: AV
+      Rua: ALEXIOS JAFET
+      Número: 595
+      Complemento: AP 13
+      Bairro: JD IPANEMA ZONA OESTE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05187-010
+      Date Added: 16/05/2019
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 975344392
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [2]
+      Telefone: 957590451
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [3]
+      Telefone: 962452592
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [4]
+      Telefone: 946247263
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: dychenko@terra.com.br
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: wesley_farias@terra.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 149
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 173
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 334.571.658-58
+      Nome: DIEGO DONIZETI DOS SANTOS
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 388.802.528-10
+      Nome: DOUGLAS RAPHAEL DOS SANTOS
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 374.464.598-32
+      Nome: NATHALIA SANTOS PETINATTO LENCE
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 8216563841
+      Nome: MARIA ALENI DOS SANTOS
+      Vinculo: MAE
+  Pis: 12538623385
+  Tse:
+    Titulo: 253157520183
+    Zona: 325
+    Secao: 656
+Additional Emails: (3 item(s))
+  - dychenko@terra.com.br
+  - wesley_farias@terra.com.br
+  - NATI_LANCE@YAHOO.COM.BR
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 181.831.548-32
+    Nome: CLAUDEMIR APARECIDO ROSA
+    Logradouro: FELIPE PINEL
+    Número: 290
+    Bairro: PIRITUBA
+  [2]
+    CPF: 033.612.234-90
+    Nome: JOSUE BEZERRA DE MELO
+    Logradouro: FELIPE PINEL
+    Número: 730
+    Bairro: PIRITUBA
+  [3]
+    CPF: 427.360.378-04
+    Nome: DIEGO PIRES PRADO
+    Logradouro: FELIPE PINEL
+    Número: 367
+    Bairro: PIRITUBA
+  [4]
+    CPF: 427.875.318-73
+    Nome: NICOLAS LUCAS DE SOUZA
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+  [5]
+    CPF: 008.268.308-54
+    Nome: TEREZINHA MUDOLON
+    Logradouro: FELIPE PINEL
+    Número: 255
+    Bairro: PIRITUBA
+  [6]
+    CPF: 327.883.488-78
+    Nome: DANIEL FERREIRA DE GODOY
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+  [7]
+    CPF: 306.299.408-86
+    Nome: MARLI BATISTA DUTRA SILVA
+    Logradouro: FELIPE PINEL
+    Número: 294
+    Bairro: PIRITUBA
+  [8]
+    CPF: 426.540.548-70
+    Nome: CAIO OLIVEIRA SOUZA
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+  [9]
+    CPF: 442.903.815-53
+    Nome: FRANCISCO DE ASSIS SILVA VARJAO
+    Logradouro: FELIPE PINEL
+    Número: 750
+    Bairro: PIRITUBA
+  [10]
+    CPF: 086.862.538-81
+    Nome: LUCI TEREZINHA ARRUDA DOS SANTOS
+    Logradouro: FELIPE PINEL
+    Número: 255
+    Bairro: PIRITUBA
+  [11]
+    CPF: 321.887.418-11
+    Nome: VERINALDO DE SOUZA FELIX
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+  [12]
+    CPF: 303.337.368-26
+    Nome: VANESSA DE SANTANA SANTANA
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+  [13]
+    CPF: 122.664.867-30
+    Nome: TONE ALVES SANTOS
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+  [14]
+    CPF: 456.575.998-53
+    Nome: ANTONIO DE FREITAS VIEIRA NETO
+    Logradouro: FELIPE PINEL
+    Número: 294
+    Bairro: PIRITUBA
+  [15]
+    CPF: 345.183.938-56
+    Nome: RAFAEL RODRIGUES DEFACIO
+    Logradouro: FELIPE PINEL
+    Número: 2859
+    Bairro: PIRITUBA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 98316-6949
+    Nome: VALERIA APARECIDA SANTOS DE SOUZA
+    Cidade: SAO PAULO
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 392791573
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 05/11/2018
+    Tempo Base: 21
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201811
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 16/08/1979
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 6336
+      Classe Social: B2
+      Score: 855
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 694
+        Net: 633
+        Ctv: 742
+        Faixa Cmv: 548 - 788
+        Faixa Net: 349 - 669
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXO
+        Risco Net: MEDIO
+        Risco Ctv: BAIXISSIMO
+        Idade: 41
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (11) 3972-3420
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 04JUN2009:00:00:00
+    Cel Contato: +5511975747972
+    Complemento: AL - Altos: NA BLC5 APT403;
+    Data Retirada: 08NOV2018:06:03:41
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 6022-5403
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 13JAN2014:00:00:00
+    Cel Contato: +5511975747972
+    Complemento: AL - Altos: NA BLC5 APT403;
+    Data Retirada: 13NOV2018:13:20:32
+    Tipo Cliente: Residencial
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 98316-6949
+    Nome: VALERIA APARECIDA SANTOS DE SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (11) 93201-3546
+    Nome: VALERIA APARECIDA SANTOS DE SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - valerians08@hotmail.com
+  - dychenko@terra.com.br
+  - wesley_farias@terra.com.br
+  - nati_lance@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2010
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Media Familiar:
+    Valor: 6336
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (11) 97534-4392
+    Ddd: 11
+    Número: 975344392
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [2]
+    Telefone: (11) 95759-0451
+    Ddd: 11
+    Número: 957590451
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (11) 96245-2592
+    Ddd: 11
+    Número: 962452592
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (11) 94624-7263
+    Ddd: 11
+    Número: 946247263
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 322205
+Occupation Name: Técnico de enfermagem
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

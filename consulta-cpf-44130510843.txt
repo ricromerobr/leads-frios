@@ -1,0 +1,275 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  44130510843
+Data/Hora:  02/10/2026, 16:26:00
+Tempo API:  916ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 441.305.108-43
+Nome: WANESSA APARECIDA GOMES ALMEIDA
+Primeiro Nome: WANESSA
+Sobrenome: ALMEIDA
+Sexo: Feminino
+Data de Nascimento: 10/05/1995
+Nome da Mãe: ROSANE APARECIDA GOMES
+Nome do Pai: MIGUEL DE FREITAS ALMEIDA
+Ocupação: Mecânico de manutenção de automóveis, motocicletas e veículos similares
+Score:
+  Value: 100
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1124
+Income Bracket: 2
+Cbo: 914405
+Endereço:
+  Tipo: RUA
+  Rua: VILICO CANTARELLI
+  Bairro: JARDIM VILICO CANTARELLI
+  Cidade: RIBEIRAO PRETO
+  Estado: SAO PAULO
+  CEP: 14079-423
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VILICO CANTARELLI
+    Bairro: JARDIM VILICO CANTARELLI
+    Cidade: RIBEIRAO PRETO
+    Estado: SAO PAULO
+    CEP: 14079-423
+    Fonte: PRINCIPAL
+  [2]
+    Rua: HAROLDO BATAGLIA
+    Número: 167
+    Bairro: JARDIM DIVA TARLA DE CARVALHO
+    Cidade: RIBEIRAO PRETO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: NILZA DE OLIVEIRA STRAMBI
+    Tipo: R
+    Número: 2411
+    Complemento: C 1
+    Bairro: JD PEDRA BRANCA
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14079-460
+    Data Atualizacao: 23/07/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: VILICO CANTARELLI
+    Tipo: R
+    Número: 100
+    Complemento: BL B AP 4 VENESA T
+    Bairro: JD VILICO CANTARELLI
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14079-423
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: VICENTE JOSE DOS REIS
+    Tipo: R
+    Número: 411
+    Bairro: JD FLORESTAN FERNANDES
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14079-308
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: LUIZ BASSO
+    Tipo: AV
+    Número: 221
+    Bairro: CJ LACERDA
+    Cidade: ARAMINA
+    Estado: SP
+    CEP: 14550-000
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (1 item(s))
+  - (16) 99424-1955
+Datasus Phones: (1 item(s))
+  - (16) 99245-7609
+Cidade de Nascimento: REGISTRO - SP
+Cns: 708505394110579
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Mosaic New: D12
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: NILZA DE OLIVEIRA STRAMBI
+      Número: 2411
+      Complemento: C 1
+      Bairro: JD PEDRA BRANCA
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14079-460
+      Date Added: 03/01/2017
+    [2]
+      Tipo: R
+      Rua: VILICO CANTARELLI
+      Número: 100
+      Complemento: BL B AP 4 VENESA T
+      Bairro: JD VILICO CANTARELLI
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14079-423
+      Date Added: 25/11/2019
+    [3]
+      Tipo: R
+      Rua: VICENTE JOSE DOS REIS
+      Número: 411
+      Bairro: JD FLORESTAN FERNANDES
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14079-308
+      Date Added: 23/04/2015
+    [4]
+      Tipo: AV
+      Rua: LUIZ BASSO
+      Número: 221
+      Bairro: CJ LACERDA
+      Cidade: ARAMINA
+      Estado: SP
+      CEP: 14550-000
+      Date Added: 20/10/2015
+  Score:
+    CSB8: 501
+    CSB8 FAIXA: BAIXO
+    CSBA: 100
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ROSANE APARECIDA GOMES
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 389.84
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 340.872.768-64
+    Nome: ANA PAULA DOS SANTOS LOPES
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2550
+    Bairro: JD PEDRA BRANCA
+  [2]
+    CPF: 322.907.838-11
+    Nome: IRACY OLIVEIRA DOS SANTOS
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 1715
+    Bairro: JD PEDRA BRANCA
+  [3]
+    CPF: 421.225.788-23
+    Nome: PRISCILA DO NASCIMENTO SILVA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2270
+    Bairro: JD PEDRA BRANCA
+  [4]
+    CPF: 387.362.778-78
+    Nome: KENIA ELOIZA BARBOSA SCHIO
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2420
+    Bairro: JD PEDRA BRANCA
+  [5]
+    CPF: 385.470.928-54
+    Nome: NADIA DOS SANTOS ALVES
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 230
+    Bairro: JD PEDRA BRANCA
+  [6]
+    CPF: 595.498.409-30
+    Nome: MARLI FLORES
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2500
+    Bairro: JD PEDRA BRANCA
+  [7]
+    CPF: 075.309.418-52
+    Nome: ROSIMEIRE MOTTA MARCHINI
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2420
+    Bairro: JD PEDRA BRANCA
+  [8]
+    CPF: 236.249.798-41
+    Nome: JOAO VITOR CANDIDO DA SILVA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2455
+    Bairro: JD PEDRA BRANCA
+  [9]
+    CPF: 037.728.586-27
+    Nome: ALDECIR SILVA FONSECA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 1815
+    Bairro: JD PEDRA BRANCA
+  [10]
+    CPF: 122.272.446-40
+    Nome: ERIVELTO FERREIRA DA SILVA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 1660
+    Bairro: JD PEDRA BRANCA
+  [11]
+    CPF: 282.081.568-50
+    Nome: CLEUZA CONCEICAO PEREIRA SILVA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 1745
+    Bairro: JD PEDRA BRANCA
+  [12]
+    CPF: 215.117.698-31
+    Nome: MARIA APARECIDA VITAL ROCHA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 1675
+    Bairro: JD PEDRA BRANCA
+  [13]
+    CPF: 168.970.208-77
+    Nome: LUZIA BARBOSA DA SILVA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2420
+    Bairro: JD PEDRA BRANCA
+  [14]
+    CPF: 359.118.568-08
+    Nome: GISLAIANE DOS SANTOS PEREIRA DE SOUSA
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2170
+    Bairro: JD PEDRA BRANCA
+  [15]
+    CPF: 360.960.608-89
+    Nome: ROSALIA DE OLIVEIRA BRANDAO
+    Logradouro: NILZA DE OLIVEIRA STRAMBI
+    Número: 2330
+    Bairro: JD PEDRA BRANCA
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1124
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 389.84
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Occupation Code: 914405
+Occupation Name: Mecânico de manutenção de automóveis, motocicletas e veículos similares
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,501 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00740646575
+Data/Hora:  04/10/2026, 01:40:15
+Tempo API:  326ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 007.406.465-75
+Nome: HIGOR TADEU SANDE BRITO
+Primeiro Nome: HIGOR
+Sobrenome: BRITO
+Sexo: Masculino
+Data de Nascimento: 15/12/1982
+Nome da Mãe: RENILDA SANDE BRITO
+Nome do Pai: HUBERTO TADEU DUARTE BRITO
+Voter Id: 103659550523
+Mosaic: B03
+Ocupação: Dirigente do serviço público federal
+Score:
+  Value: 519
+  Range: MEDIO
+E-mail: higortadeu@yahoo.com.br
+Additional Emails: (4 item(s))
+  - higortadeu@yahoo.com.br
+  - higortadeu@hotmail.com
+  - anderson_gobi@hotmail.com
+  - marcopapa@qualityinteligencia.com.br
+Federal Status: REGULAR
+Renda: 8531
+Income Bracket: 6
+Cbo: 517210
+Endereço:
+  Tipo: AVENIDA
+  Rua: PROFESSOR MAGALHAES NETO
+  Complemento: APT 1402
+  Bairro: PITUBA
+  Cidade: SALVADOR
+  Estado: BAHIA
+  CEP: 41810-011
+All Addresses: (9 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: PROFESSOR MAGALHAES NETO
+    Complemento: APT 1402
+    Bairro: PITUBA
+    Cidade: SALVADOR
+    Estado: BAHIA
+    CEP: 41810-011
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA
+    Número: 14
+    Bairro: N SENHORA D GRACAS
+    Cidade: SANTO ANTONIO DE JESUS - BA
+    Fonte: DATASUS
+  [3]
+    Rua: RUA 1, URBIS 1
+    Número: 14
+    Bairro: NOSSA SENHORA DAS GRAÇAS
+    Cidade: SANTO ANTONIO DE JESUS
+    Estado: BA
+    CEP: 44574-285
+    Fonte: SARAIVA
+  [4]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 100
+    Complemento: BL G AP 202
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BA
+    CEP: 45028-265
+    Data Atualizacao: 27/08/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: LUIS VIANA FILHO
+    Tipo: AV
+    Número: 7532
+    Complemento: ED HELBOR C HOME STAY
+    Bairro: ALPHAVILLE I
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41701-005
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: 0000014
+    Número: 1 CJ URBIS I
+    Bairro: CONJUNTO URBIS I
+    Cidade: SANTO ANTONIO DE JESUS
+    Estado: BA
+    CEP: 44570-000
+    Fonte: ASSECC
+  [7]
+    Tipo: MAGALHAES NETO
+    Rua: AV
+    Número: 0000689
+    Bairro: PITUBA
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41810-011
+    Fonte: ASSECC
+  [8]
+    Tipo: LUIS VIANA
+    Rua: AV
+    Número: 0007532
+    Bairro: ALPHAVILLE I
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41701-005
+    Fonte: ASSECC
+  [9]
+    Tipo: 1 CJ URBIS I
+    Rua: R
+    Número: 0000014
+    Bairro: CONJUNTO URBIS I
+    Cidade: SANTO ANTONIO DE JESUS
+    Estado: BA
+    CEP: 44570-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (14 item(s))
+  - (71) 2132-0644
+  - (75) 98813-3013
+  - (75) 99981-3158
+  - (71) 99231-2362
+  - (71) 98232-5896
+  - (71) 99386-9900
+  - (75) 9981-3158
+  - (71) 98139-4864
+  - (75) 99981-6994
+  - (77) 3042-4352
+  - (77) 3631-3158
+  - (75) 98881-8127
+  - (75) 98834-8339
+  - (75) 99128-6900
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: SANTO ANTONIO DE JESUS - BA
+Cns: 706404624755081
+Saraiva:
+  Customer Id: 6188146
+  Telefone: (75) 9981-3158
+  E-mail: higortadeu@hotmail.com
+  Data de Nascimento: 15/12/1982
+Paycom:
+  E-mail: higortadeu@hotmail.com
+  Created At: 2017-04-07 00:00:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Avenida Luís Viana Filho
+    Número: 7532
+    Complemento: AP 206
+    Bairro: Alphaville I
+    Cidade: Salvador
+    Estado: Bahia
+    País: Brasil
+    CEP: 41701-005
+    Telephone: (71) 99386-9900
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/12/2019
+    Info Date: 11/05/2007
+    Mosaic: B03
+    Mosaic New: E17
+    Mosaic Secondary: A02
+    Income Bracket Id: 9
+  Endereços: (4 item(s))
+    [1]
+      Tipo: CJ
+      Rua: URBIS I
+      Número: 14
+      Complemento: R A
+      Bairro: NOSSA SENHORA DAS GRACAS
+      Cidade: SANTO ANTONIO DE JESUS
+      Estado: BA
+      CEP: 44574-285
+      Date Added: 12/11/2018
+    [2]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 100
+      Complemento: BL G AP 202
+      Bairro: CANDEIAS
+      Cidade: VITORIA DA CONQUISTA
+      Estado: BA
+      CEP: 45028-265
+      Date Added: 09/12/2014
+    [3]
+      Tipo: AV
+      Rua: LUIS VIANA FILHO
+      Número: 7532
+      Complemento: ED HELBOR C HOME STAY
+      Bairro: ALPHAVILLE I
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41701-005
+      Date Added: 16/05/2019
+    [4]
+      Tipo: AV
+      Rua: LUIS VIANA
+      Número: 7532
+      Bairro: ALPHAVILLE I
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41701-005
+      Date Added: 27/08/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 30424352
+      Ddd: 77
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 11/01/2006
+    [2]
+      Telefone: 36313158
+      Ddd: 77
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/12/2009
+      Info Date: 11/05/2007
+    [3]
+      Telefone: 988818127
+      Ddd: 75
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [4]
+      Telefone: 988348339
+      Ddd: 75
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 991286900
+      Ddd: 75
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 16/04/2019
+  E-mails: (4 item(s))
+    [1]
+      E-mail: higortadeu@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: higortadeu@yahoo.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [3]
+      E-mail: anderson_gobi@hotmail.com
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+    [4]
+      E-mail: marcopapa@qualityinteligencia.com.br
+      Priority: 4
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 12/07/2017
+  Score:
+    CSB8: 112
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 519
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: RENILDA SANDE BRITO
+      Vinculo: MAE
+  Pis: 19017980977
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO ALTO
+    RENDA PODER AQUISITIVO: 6011.05
+    FX PODER AQUISITIVO: De R$ 4082 até R$ 7017
+    COD PODER AQUISITIVO: 5
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 018.217.485-90
+    Nome: JOACI SANTOS OLIVEIRA
+    Logradouro: URBIS I
+    Número: 4
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [2]
+    CPF: 034.054.965-35
+    Nome: JANDERSON RODRIGUES DA SILVA
+    Logradouro: URBIS I
+    Número: 117
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [3]
+    CPF: 020.640.345-36
+    Nome: DARLAN PINTO DE SOUZA
+    Logradouro: URBIS I
+    Número: 4
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [4]
+    CPF: 015.871.715-54
+    Nome: ANTONIO JORGE SANTOS
+    Logradouro: URBIS I
+    Número: 2
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [5]
+    CPF: 015.683.435-90
+    Nome: VERIANO ROMAO DOS SANTOS JUNIOR
+    Logradouro: URBIS I
+    Número: 22
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [6]
+    CPF: 197.889.915-72
+    Nome: CELESTE DOS SANTOS PEDROSA
+    Logradouro: URBIS I
+    Número: 5
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [7]
+    CPF: 794.729.315-53
+    Nome: NEYLA NONATO NERI
+    Logradouro: URBIS I
+    Número: 41
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [8]
+    CPF: 818.934.425-00
+    Nome: VANESSA SILVA SANTOS
+    Logradouro: URBIS I
+    Número: 96
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [9]
+    CPF: 396.819.205-20
+    Nome: LUIZ CARLOS CARDOSO LEAO
+    Logradouro: URBIS I
+    Número: 13
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [10]
+    CPF: 813.102.425-34
+    Nome: LUCILENE MOURA SANTOS
+    Logradouro: URBIS I
+    Número: 268
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [11]
+    CPF: 566.657.335-72
+    Nome: JOZENILTON SANTOS BASTOS
+    Logradouro: URBIS I
+    Número: 4
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [12]
+    CPF: 891.893.295-20
+    Nome: JOAO ANTONIO DOS SANTOS
+    Logradouro: URBIS I
+    Número: 218
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [13]
+    CPF: 536.788.935-20
+    Nome: MARIA DA CONCEICAO SILVA BILITARIO
+    Logradouro: URBIS I
+    Número: 4
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [14]
+    CPF: 015.833.735-27
+    Nome: EDVALDO ARAUJO MOTA
+    Logradouro: URBIS I
+    Número: 2
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [15]
+    CPF: 066.800.965-96
+    Nome: SIDNEY MARQUES DE SOUZA JUNIOR
+    Logradouro: URBIS I
+    Número: 200
+    Bairro: NOSSA SENHORA DAS GRACAS
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (75) 99981-3158
+    Nome: HIGOR TADEU SANDE BRITO
+    Cidade: SANTO ANTONIO DE JESUS
+    UF: BA
+  [2]
+    Telefone: (71) 99386-9900
+    Nome: HIGOR TADEU SANDE BRITO
+    Cidade: SALVADOR
+    UF: BA
+  [3]
+    Telefone: (71) 98139-4864
+    Nome: HIGOR TADEU SANDE BRITO
+    Cidade: SALVADOR
+    UF: BA
+  [4]
+    Telefone: (75) 99981-6994
+    Nome: HIGOR TADEU SANDE BRITO
+    Cidade: SANTO ANTONIO DE JESUS
+    UF: BA
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (71) 99231-2362
+    Nome: HIGOR TADEU SANDE BRITO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (71) 99386-9900
+    Nome: HIGOR TADEU SANDE BRITO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - higortadeu@yahoo.com.br
+  - higortadeu@hotmail.com
+  - anderson_gobi@hotmail.com
+  - marcopapa@qualityinteligencia.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 6
+Renda Estimativas:
+  Presumida:
+    Valor: 8531
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 6011.05
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: HIGOR TADEU SANDE BRITO
+    Faculdade: UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA
+    Curso: DIREITO   DIREITO
+    Ano Conclusao: 2006
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (77) 3042-4352
+    Ddd: 77
+    Número: 30424352
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 11/01/2006
+    Classificacao: D
+  [2]
+    Telefone: (77) 3631-3158
+    Ddd: 77
+    Número: 36313158
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 11/05/2007
+    Classificacao: D
+  [3]
+    Telefone: (75) 98881-8127
+    Ddd: 75
+    Número: 988818127
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [4]
+    Telefone: (75) 98834-8339
+    Ddd: 75
+    Número: 988348339
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (75) 99128-6900
+    Ddd: 75
+    Número: 991286900
+    Tipo: 3
+    Data Inclusao: 16/04/2019
+    Classificacao: A2
+Occupation Code: 111405
+Occupation Name: Dirigente do serviço público federal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,507 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  26603466821
+Data/Hora:  03/10/2026, 23:35:19
+Tempo API:  408ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 266.034.668-21
+Nome: LEANDRO ROGERIO DE LIMA
+Primeiro Nome: LEANDRO
+Sobrenome: LIMA
+Sexo: Masculino
+Data de Nascimento: 29/08/1979
+Nome da Mãe: APARECIDA ANTONIA ROGERIO DE LIMA
+Nome do Pai: OSEAS LOPES DE LIMA
+RG: 333744962
+Rg Issuer: SSP
+Rg State: SP
+Voter Id: 280854590159
+Mosaic: F18
+Ocupação: Auxiliar de lavanderia
+Score:
+  Value: 54
+  Range: ALTISSIMO
+E-mail: paulo.masaoka@terra.com.br
+Additional Emails: (10 item(s))
+  - paulo.masaoka@terra.com.br
+  - billjones_11@yahoo.com.br
+  - bill.rogerio@gmail.com
+  - billjones@terra.com.br
+  - kojac1@bol.com.br
+  - billjones_11@hotmail.com
+  - dilljonis_11@hotmail.com
+  - thiago.luiz@chevroletnova.com.br
+  - claudionor.dat@uol.com.br
+  - marcos.de.costa@terra.com.br
+Federal Status: REGULAR
+Renda: 1508
+Income Bracket: 2
+Cbo: 516345
+Endereço:
+  Tipo: RUA
+  Rua: AMADEU MENOCCHI
+  Bairro: VILA JOAO BATISTA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 02837-110
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AMADEU MENOCCHI
+    Bairro: VILA JOAO BATISTA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 02837-110
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R DIEGO CASEIRO
+    Bairro: JD DAMASCENO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: CANTIDIO SAMPAIO
+    Tipo: AV
+    Número: 4822
+    Complemento: AP 14
+    Bairro: JD BRASILIA ZONA NORTE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02858-050
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BARCA
+    Tipo: R
+    Número: 52
+    Bairro: PRQ S LUIS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02840-010
+    Data Atualizacao: 19/09/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: DIEGO CASEROS
+    Tipo: R
+    Número: 44
+    Bairro: JD DAMASCENO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02879-120
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: CABREUVAS
+    Tipo: EST
+    Número: 270
+    Bairro: CH STA MARIA
+    Cidade: ITAPECERICA DA SERRA
+    Estado: SP
+    CEP: 06856-860
+    Data Atualizacao: 20/05/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: PAULO VI
+    Tipo: R
+    Número: 33
+    Bairro: JD PAULISTA
+    Cidade: CAMPO LIMPO PAULISTA
+    Estado: SP
+    CEP: 13231-121
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: YAMAHA
+      Modelo: CRYPTON T105E
+      Ano: 1998
+Telefones: (8 item(s))
+  - (11) 93943-2346
+  - (11) 99218-0360
+  - (11) 98860-6397
+  - (11) 4668-1440
+  - (11) 97659-2665
+  - (11) 99571-3876
+  - (11) 95247-9307
+  - (11) 94000-3082
+Cidade de Nascimento: INVALIDO
+Cns: 708507343386471
+Paycom:
+  E-mail: Billjones_11@yahoo.com.br
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: deputado cantidio sampaio
+    Número: 4822
+    Complemento: apto 14 bl 08
+    Bairro: jardim brasilia
+    Cidade: sao paulo
+    Estado: São Paulo
+    País: Brasil
+    CEP: 02860-001
+    Telephone: (11) 99218-0360
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Info Date: 08/08/2008
+    Rg Issuer: SSP
+    Rg State: SP
+    Mosaic: F18
+    Mosaic New: E15
+    Mosaic Secondary: D10
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: CANTIDIO SAMPAIO
+      Número: 4822
+      Complemento: AP 14
+      Bairro: JD BRASILIA ZONA NORTE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02858-050
+      Date Added: 29/07/2013
+    [2]
+      Tipo: R
+      Rua: BARCA
+      Número: 52
+      Bairro: PRQ S LUIS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02840-010
+      Date Added: 16/12/2015
+    [3]
+      Tipo: R
+      Rua: DIEGO CASEROS
+      Número: 44
+      Bairro: JD DAMASCENO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02879-120
+      Date Added: 25/08/2016
+    [4]
+      Tipo: EST
+      Rua: CABREUVAS
+      Número: 270
+      Bairro: CH STA MARIA
+      Cidade: ITAPECERICA DA SERRA
+      Estado: SP
+      CEP: 06856-860
+      Date Added: 15/02/2013
+    [5]
+      Tipo: R
+      Rua: PAULO VI
+      Número: 33
+      Bairro: JD PAULISTA
+      Cidade: CAMPO LIMPO PAULISTA
+      Estado: SP
+      CEP: 13231-121
+      Date Added: 13/04/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 46681440
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C2
+      Date Added: 26/12/2012
+    [2]
+      Telefone: 976592665
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 995713876
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 952479307
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 940003082
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 16/04/2019
+  E-mails: (9 item(s))
+    [1]
+      E-mail: bill.rogerio@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/04/2019
+    [2]
+      E-mail: billjones@terra.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: kojac1@bol.com.br
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: billjones_11@hotmail.com
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [5]
+      E-mail: dilljonis_11@hotmail.com
+      Priority: 5
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [6]
+      E-mail: thiago.luiz@chevroletnova.com.br
+      Priority: 6
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 06/05/2017
+    [7]
+      E-mail: claudionor.dat@uol.com.br
+      Priority: 7
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 05/05/2017
+    [8]
+      E-mail: marcos.de.costa@terra.com.br
+      Priority: 8
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [9]
+      E-mail: paulo.masaoka@terra.com.br
+      Priority: 9
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 61
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 54
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: APARECIDA ANTONIA ROGERIO DE LIMA
+      Vinculo: MAE
+  Pis: 12552501461
+  Tse:
+    Titulo: 280854590159
+    Zona: 376
+    Secao: 264
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 050.004.856-88
+    Nome: LEOMAR DOS REIS
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4822
+    Bairro: JD BRASILIA ZONA NORTE
+  [2]
+    CPF: 048.655.118-06
+    Nome: ELEONDAS LEMOS RAMOS
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+  [3]
+    CPF: 418.105.048-30
+    Nome: CAROLINE CRISTINA DA SILVA TIBURCIO
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+  [4]
+    CPF: 361.332.088-64
+    Nome: GISELE FERREIRA GOES
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4822
+    Bairro: JD BRASILIA ZONA NORTE
+  [5]
+    CPF: 551.756.511-53
+    Nome: GERSON ANTONIO DE ALMEIDA
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+  [6]
+    CPF: 125.758.398-07
+    Nome: SILVANA SANTOS DIAS
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+  [7]
+    CPF: 281.483.328-60
+    Nome: ANDERSON DA HORA CARVALHO
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4822
+    Bairro: JD BRASILIA ZONA NORTE
+  [8]
+    CPF: 054.726.188-86
+    Nome: ANA FERREIRA LOPES
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4670
+    Bairro: JD BRASILIA ZONA NORTE
+  [9]
+    CPF: 924.527.014-91
+    Nome: SEBASTIAO SANTOS SILVA
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 5168
+    Bairro: JD BRASILIA ZONA NORTE
+  [10]
+    CPF: 021.399.178-04
+    Nome: MARIA SILVESTRE FERREIRA
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4670
+    Bairro: JD BRASILIA ZONA NORTE
+  [11]
+    CPF: 228.686.878-65
+    Nome: ALBANO GABRIEL LIBERATO RIBEIRO
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4822
+    Bairro: JD BRASILIA ZONA NORTE
+  [12]
+    CPF: 422.132.918-10
+    Nome: CASSIO PEREIRA DE ARAUJO
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+  [13]
+    CPF: 427.970.378-71
+    Nome: WELLYNGTON SILVA DE SOUZA
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4822
+    Bairro: JD BRASILIA ZONA NORTE
+  [14]
+    CPF: 358.748.448-13
+    Nome: CAROLINE ALMEIDA DE MENDONCA
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+  [15]
+    CPF: 281.203.768-70
+    Nome: VALDINEI MARTINS DA SILVA
+    Logradouro: CANTIDIO SAMPAIO
+    Número: 4678
+    Bairro: JD BRASILIA ZONA NORTE
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 98860-6397
+    Nome: LEANDRO ROGERIO DE LIMA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (10 item(s))
+  - paulo.masaoka@terra.com.br
+  - billjones_11@yahoo.com.br
+  - bill.rogerio@gmail.com
+  - billjones@terra.com.br
+  - kojac1@bol.com.br
+  - billjones_11@hotmail.com
+  - dilljonis_11@hotmail.com
+  - thiago.luiz@chevroletnova.com.br
+  - claudionor.dat@uol.com.br
+  - marcos.de.costa@terra.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1508
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4668-1440
+    Ddd: 11
+    Número: 46681440
+    Tipo: FIXO
+    Data Inclusao: 26/12/2012
+    Classificacao: C2
+  [2]
+    Telefone: (11) 97659-2665
+    Ddd: 11
+    Número: 976592665
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (11) 99571-3876
+    Ddd: 11
+    Número: 995713876
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 95247-9307
+    Ddd: 11
+    Número: 952479307
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 94000-3082
+    Ddd: 11
+    Número: 940003082
+    Tipo: 3
+    Data Inclusao: 16/04/2019
+    Classificacao: A1
+Occupation Code: 516345
+Occupation Name: Auxiliar de lavanderia
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

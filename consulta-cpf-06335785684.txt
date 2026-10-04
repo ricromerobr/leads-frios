@@ -1,0 +1,448 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06335785684
+Data/Hora:  04/10/2026, 14:14:44
+Tempo API:  388ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 063.357.856-84
+Nome: MARCIO JOSE DE ASSIS SOUZA
+Primeiro Nome: MARCIO
+Sobrenome: SOUZA
+Sexo: Masculino
+Data de Nascimento: 08/05/1985
+Nome da Mãe: MARIA APARECIDA SILVA SOUSA
+Mosaic: J36
+Ocupação: Eletricista de instalações
+Score:
+  Value: 252
+  Range: ALTO
+E-mail: marciojosemacim@gmail.com
+Additional Emails: (1 item(s))
+  - marciojosemacim@gmail.com
+Federal Status: REGULAR
+Renda: 1271
+Income Bracket: 2
+Cbo: 992115
+Endereço:
+  Tipo: RUA
+  Rua: COMTIPO JESUS DE NAZARE
+  Número: 104
+  Bairro: NOSSA SENHORA APARECIDA
+  Cidade: PATOS DE MINAS
+  Estado: MINAS GERAIS
+  CEP: 03870-078
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: COMTIPO JESUS DE NAZARE
+    Número: 104
+    Bairro: NOSSA SENHORA APARECIDA
+    Cidade: PATOS DE MINAS
+    Estado: MINAS GERAIS
+    CEP: 03870-078
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DAS SUCUPIRAS
+    Tipo: R
+    Número: 317
+    Complemento: COLINA
+    Bairro: MORADA DO SOL
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-654
+    Data Atualizacao: 22/10/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: TUCURUI
+    Tipo: R
+    Número: 16
+    Bairro: JD ESPERANCA
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-700
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MAICURU
+    Tipo: TV
+    Número: 16
+    Bairro: JD ESPERANCA
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38703-714
+    Data Atualizacao: 14/05/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ISRAEL RAMOS
+    Tipo: R
+    Número: 80
+    Complemento: LT J PROGRESSO
+    Bairro: NOSSA SENHORA DA APRESENTACAO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59114-187
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: JESUS DE NAZARE
+    Tipo: R
+    Número: 104
+    Bairro: NOSSA SENHORA APARECIDA
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38700-478
+    Data Atualizacao: 12/11/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: JESUS DE NAZARE
+    Número: 0000104
+    Bairro: NOSSA SENHORA APARECIDA
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 03870-078
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: SEM ENDERECO
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: MG
+    CEP: 00000-000
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: JESUS DE NAZARE
+    Número: 0000104
+    Bairro: NOSSA SENHORA APARECIDA
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 03870-078
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: JESUS DE NAZARE
+    Número: 0000104
+    Bairro: NOSSA SENHORA APARECIDA
+    Cidade: PATOS DE MINAS
+    Estado: MG
+    CEP: 38700-478
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (34) 99957-1277
+  - (34) 99659-6573
+  - (34) 99991-4064
+  - (35) 6563-6162
+  - (34) 99884-0739
+  - (34) 99665-1547
+  - (34) 3823-3678
+  - (34) 3822-5155
+Paycom:
+  E-mail: marciojosemacim@gmail.com
+  Data de Nascimento: 18/06/1984
+  Created At: 2021-06-20 08:36:18
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Patos de Minas
+    Número: 94
+    Bairro: Patos de Minas
+    Cidade: Patos de Minas
+    Estado: 15
+    País: BR
+    CEP: 38703-196
+    Telephone: (35) 6563-6162
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 28/09/2019
+    Mosaic: J36
+    Mosaic New: H27
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: DAS SUCUPIRAS
+      Número: 317
+      Complemento: COLINA
+      Bairro: MORADA DO SOL
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38703-654
+      Date Added: 30/09/2009
+    [2]
+      Tipo: R
+      Rua: TUCURUI
+      Número: 16
+      Bairro: JD ESPERANCA
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38703-700
+      Date Added: 04/12/2018
+    [3]
+      Tipo: TV
+      Rua: MAICURU
+      Número: 16
+      Bairro: JD ESPERANCA
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38703-714
+      Date Added: 10/04/2013
+    [4]
+      Tipo: R
+      Rua: ISRAEL RAMOS
+      Número: 80
+      Complemento: LT J PROGRESSO
+      Bairro: NOSSA SENHORA DA APRESENTACAO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59114-187
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: JESUS DE NAZARE
+      Número: 104
+      Bairro: NOSSA SENHORA APARECIDA
+      Cidade: PATOS DE MINAS
+      Estado: MG
+      CEP: 38700-478
+      Date Added: 28/02/2013
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 996651547
+      Ddd: 34
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 38233678
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 21/11/2011
+      Info Date: 31/12/2002
+    [3]
+      Telefone: 38225155
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 03/03/2013
+      Info Date: 23/12/2012
+    [4]
+      Telefone: 996596573
+      Ddd: 34
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: marciojosemacim@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 19/09/2016
+  Score:
+    CSB8: 80
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 252
+    CSBA FAIXA: ALTO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 999.697.426-04
+      Nome: MARIA APARECIDA SILVA SOUSA
+      Vinculo: MAE
+    [2]
+      CPF: 6404253640
+      Nome: MARCIA APARECIDA DE ASSIS SOUZA
+      Vinculo: IRMA(O)
+  Pis: 12926139987
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 744.96
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 011.904.346-79
+    Nome: JOSE PEREIRA DA SILVA
+    Logradouro: DAS SUCUPIRAS
+    Número: 290
+    Bairro: MORADA DO SOL
+  [2]
+    CPF: 006.158.496-79
+    Nome: BELCHIOLINA DA ROCHA OLIVEIRA PAES
+    Logradouro: DAS SUCUPIRAS
+    Número: 49
+    Bairro: MORADA DO SOL
+  [3]
+    CPF: 981.843.776-49
+    Nome: GALDINA VIEIRA DA MOTA
+    Logradouro: DAS SUCUPIRAS
+    Número: 112
+    Bairro: MORADA DO SOL
+  [4]
+    CPF: 063.800.726-75
+    Nome: SILVANEI SOARES DE SOUSA
+    Logradouro: DAS SUCUPIRAS
+    Número: 317
+    Bairro: MORADA DO SOL
+  [5]
+    CPF: 065.932.486-57
+    Nome: NEIDA MARIA DE OLIVEIRA SILVA
+    Logradouro: DAS SUCUPIRAS
+    Número: 49
+    Bairro: MORADA DO SOL
+  [6]
+    CPF: 039.699.846-10
+    Nome: ROGERIO NAVARRO NETO
+    Logradouro: DAS SUCUPIRAS
+    Número: 440
+    Bairro: MORADA DO SOL
+  [7]
+    CPF: 071.698.486-51
+    Nome: ELIZABETE RIBEIRO DE QUEIROZ CAIXETA
+    Logradouro: DAS SUCUPIRAS
+    Número: 109
+    Bairro: MORADA DO SOL
+  [8]
+    CPF: 083.299.656-43
+    Nome: CARLOS VINICIUS BARBOZA DE OLIVEIRA
+    Logradouro: DAS SUCUPIRAS
+    Número: 340
+    Bairro: MORADA DO SOL
+  [9]
+    CPF: 259.503.711-00
+    Nome: NILMA DE FATIMA SILVA
+    Logradouro: DAS SUCUPIRAS
+    Número: 441
+    Bairro: MORADA DO SOL
+  [10]
+    CPF: 182.409.096-04
+    Nome: ANTONIO JOSE DE MORAIS
+    Logradouro: DAS SUCUPIRAS
+    Número: 224
+    Bairro: MORADA DO SOL
+  [11]
+    CPF: 460.975.116-04
+    Nome: APARECIDO FERNANDES MACHADO
+    Logradouro: DAS SUCUPIRAS
+    Número: 440
+    Bairro: MORADA DO SOL
+  [12]
+    CPF: 063.811.966-96
+    Nome: SOLANGE APARECIDA TOLENTINO FREITAS
+    Logradouro: DAS SUCUPIRAS
+    Número: 490
+    Bairro: MORADA DO SOL
+  [13]
+    CPF: 097.966.936-74
+    Nome: DIONE LOPES MARTINS
+    Logradouro: DAS SUCUPIRAS
+    Número: 441
+    Bairro: MORADA DO SOL
+  [14]
+    CPF: 090.348.176-60
+    Nome: ANDERSON JOAO ROCHA DE SOUSA
+    Logradouro: DAS SUCUPIRAS
+    Número: 92
+    Bairro: MORADA DO SOL
+  [15]
+    CPF: 999.650.036-53
+    Nome: ELOINA CAMBRAIA FERREIRA
+    Logradouro: DAS SUCUPIRAS
+    Número: 194
+    Bairro: MORADA DO SOL
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (34) 99957-1277
+    Nome: MARCIO JOSE DE ASSIS SOUZA
+    Cidade: PATOS DE MINAS
+    UF: MG
+  [2]
+    Telefone: (34) 99884-0739
+    Nome: MARCIO JOSE DE ASSIS SOUZA
+    Cidade: [empty]
+    UF: MG
+  [3]
+    Telefone: (34) 99659-6573
+    Nome: MARCIO JOSE DE ASSIS SOUZA
+    Cidade: PATOS DE MINAS
+    UF: MG
+  [4]
+    Telefone: (34) 99665-1547
+    Nome: MARCIO JOSE DE ASSIS SOUZA
+    Cidade: PATOS DE MINAS
+    UF: MG
+E-mails: (1 item(s))
+  - marciojosemacim@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1271
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 744.96
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (34) 99665-1547
+    Ddd: 34
+    Número: 996651547
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (34) 3823-3678
+    Ddd: 34
+    Número: 38233678
+    Tipo: FIXO
+    Data Inclusao: 21/11/2011
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [3]
+    Telefone: (34) 3822-5155
+    Ddd: 34
+    Número: 38225155
+    Tipo: FIXO
+    Data Inclusao: 03/03/2013
+    Data Informacao: 23/12/2012
+    Classificacao: D2
+  [4]
+    Telefone: (34) 99659-6573
+    Ddd: 34
+    Número: 996596573
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A0
+Occupation Code: 715615
+Occupation Name: Eletricista de instalações
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,332 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  07818305750
+Data/Hora:  03/10/2026, 17:37:05
+Tempo API:  749ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 078.183.057-50
+Nome: OSVALDO FAGUNDES
+Primeiro Nome: OSVALDO
+Sobrenome: FAGUNDES
+Sexo: Masculino
+Data de Nascimento: 23/05/1977
+Nome da Mãe: LUZIA MARTINS FAGUNDES
+Mosaic: J38
+Ocupação: Tratorista agrícola
+Score:
+  Value: 620
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 2212
+Income Bracket: 3
+Cbo: 715115
+Endereço:
+  Tipo: AVENIDA
+  Rua: FILOGONIO PEIXOTO
+  Bairro: AVISO
+  Cidade: LINHARES
+  Estado: ESPIRITO SANTO
+  CEP: 29901-291
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: FILOGONIO PEIXOTO
+    Bairro: AVISO
+    Cidade: LINHARES
+    Estado: ESPIRITO SANTO
+    CEP: 29901-291
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ARAUCARIA
+    Tipo: AV
+    Número: 516
+    Bairro: MOVELAR
+    Cidade: LINHARES
+    Estado: ES
+    CEP: 29906-020
+    Data Atualizacao: 17/12/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: NOVE
+    Tipo: R
+    Número: 95
+    Complemento: GP
+    Bairro: JD BELA VISTA
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29177-440
+    Data Atualizacao: 31/12/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BAHIA
+    Tipo: R
+    Número: 316
+    Bairro: AVISO
+    Cidade: LINHARES
+    Estado: ES
+    CEP: 29901-060
+    Data Atualizacao: 03/10/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: FILOGONIO PEIXOTO
+    Tipo: AV
+    Número: 175
+    Bairro: AVISO
+    Cidade: LINHARES
+    Estado: ES
+    CEP: 29901-291
+    Data Atualizacao: 22/01/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: NOVE
+    Tipo: R
+    Número: 98
+    Bairro: JD BELA VISTA
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29177-440
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: AV
+    Rua: FILOGONIO PEIXOTO
+    Número: 0000175
+    Bairro: AVISO
+    Cidade: LINHARES
+    Estado: ES
+    CEP: 29901-291
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (27) 99942-6476
+  - (27) 99795-3868
+  - (27) 99709-9359
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/08/2019
+    Mosaic: J38
+    Mosaic New: H27
+    Mosaic Secondary: E18
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: ARAUCARIA
+      Número: 516
+      Bairro: MOVELAR
+      Cidade: LINHARES
+      Estado: ES
+      CEP: 29906-020
+      Date Added: 07/09/2016
+    [2]
+      Tipo: R
+      Rua: NOVE
+      Número: 95
+      Complemento: GP
+      Bairro: JD BELA VISTA
+      Cidade: SERRA
+      Estado: ES
+      CEP: 29177-440
+      Date Added: 21/10/2012
+    [3]
+      Tipo: R
+      Rua: BAHIA
+      Número: 316
+      Bairro: AVISO
+      Cidade: LINHARES
+      Estado: ES
+      CEP: 29901-060
+      Date Added: 28/02/2013
+    [4]
+      Tipo: AV
+      Rua: FILOGONIO PEIXOTO
+      Número: 175
+      Bairro: AVISO
+      Cidade: LINHARES
+      Estado: ES
+      CEP: 29901-291
+      Date Added: 28/02/2013
+    [5]
+      Tipo: R
+      Rua: NOVE
+      Número: 98
+      Bairro: JD BELA VISTA
+      Cidade: SERRA
+      Estado: ES
+      CEP: 29177-440
+      Date Added: 09/10/2013
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 997953868
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/01/2016
+    [2]
+      Telefone: 997099359
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSB8: 171
+    CSB8 FAIXA: ALTO
+    CSBA: 620
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LUZIA MARTINS FAGUNDES
+      Vinculo: MAE
+  Pis: 12859585291
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1649.34
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 030.960.327-77
+    Nome: MARCOS ROBERTO FRAGOSO GAMA
+    Logradouro: ARAUCARIA
+    Número: 789
+    Bairro: MOVELAR
+  [2]
+    CPF: 142.732.467-08
+    Nome: ELISANGELA DOS SANTOS GOMES
+    Logradouro: ARAUCARIA
+    Número: 729
+    Bairro: MOVELAR
+  [3]
+    CPF: 027.483.707-24
+    Nome: JAILSON GRIGOLETO
+    Logradouro: ARAUCARIA
+    Número: 560
+    Bairro: MOVELAR
+  [4]
+    CPF: 085.372.277-30
+    Nome: VALERIA CRISTINA ALVES DIAS
+    Logradouro: ARAUCARIA
+    Número: 1035
+    Bairro: MOVELAR
+  [5]
+    CPF: 105.632.917-37
+    Nome: MACIEL DA COSTA VIEIRA
+    Logradouro: ARAUCARIA
+    Número: 1126
+    Bairro: MOVELAR
+  [6]
+    CPF: 095.537.537-10
+    Nome: JOSE ANTONIO DE SOUZA
+    Logradouro: ARAUCARIA
+    Número: 981
+    Bairro: MOVELAR
+  [7]
+    CPF: 112.730.247-70
+    Nome: ADILSON DA COSTA NASCIMENTO
+    Logradouro: ARAUCARIA
+    Número: 1138
+    Bairro: MOVELAR
+  [8]
+    CPF: 325.350.824-20
+    Nome: DAVI VELOSO DA SILVA
+    Logradouro: ARAUCARIA
+    Número: 1078
+    Bairro: MOVELAR
+  [9]
+    CPF: 091.836.237-79
+    Nome: MARIA APARECIDA BERGAMASCHI
+    Logradouro: ARAUCARIA
+    Número: 789
+    Bairro: MOVELAR
+  [10]
+    CPF: 094.374.396-64
+    Nome: JESSENEI CARLOS STEIN DOS ANJOS
+    Logradouro: ARAUCARIA
+    Número: 1
+    Bairro: MOVELAR
+  [11]
+    CPF: 113.657.017-94
+    Nome: ADILES SANTOS NUNES
+    Logradouro: ARAUCARIA
+    Número: 1341
+    Bairro: MOVELAR
+  [12]
+    CPF: 115.914.137-10
+    Nome: ARTUR SCARPATI LIUTH
+    Logradouro: ARAUCARIA
+    Número: 1281
+    Bairro: MOVELAR
+  [13]
+    CPF: 031.106.767-02
+    Nome: JOEL FERREIRA
+    Logradouro: ARAUCARIA
+    Número: 6
+    Bairro: MOVELAR
+  [14]
+    CPF: 595.452.672-91
+    Nome: ISAIAS MARTINS SANTIAGO
+    Logradouro: ARAUCARIA
+    Número: 1365
+    Bairro: MOVELAR
+  [15]
+    CPF: 163.830.547-16
+    Nome: EDUARDO LUIZ DONATELI
+    Logradouro: ARAUCARIA
+    Número: 511
+    Bairro: MOVELAR
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (27) 99942-6476
+    Nome: OSVALDO FAGUNDES
+    Cidade: LINHARES
+    UF: ES
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2212
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1649.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (27) 99795-3868
+    Ddd: 27
+    Número: 997953868
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: D
+  [2]
+    Telefone: (27) 99709-9359
+    Ddd: 27
+    Número: 997099359
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 641015
+Occupation Name: Tratorista agrícola
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

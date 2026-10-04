@@ -1,0 +1,443 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01302446517
+Data/Hora:  04/10/2026, 12:26:58
+Tempo API:  718ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 013.024.465-17
+Nome: AYRLAN SILVA FREIRE
+Primeiro Nome: AYRLAN
+Sobrenome: FREIRE
+Sexo: Masculino
+Data de Nascimento: 17/10/1985
+Nome da Mãe: MARIA JOSE NEVES DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 1012860744
+Rg Issuer: SSP
+Voter Id: 105152190566
+Mosaic: F19
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 513
+  Range: MEDIO
+E-mail: dricka_ba2@hotmail.com
+Additional Emails: (4 item(s))
+  - dricka_ba2@hotmail.com
+  - ayrlan.freire@gmail.com
+  - ayrlanfreire@gmail.com
+  - ayllan.freire@gmail.com
+Federal Status: REGULAR
+Renda: 1100
+Income Bracket: 2
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: AMARILIO THIAGO DOS SANTOS
+  Bairro: IPITANGA
+  Cidade: LAURO DE FREITAS
+  Estado: BAHIA
+  CEP: 42706-020
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AMARILIO THIAGO DOS SANTOS
+    Bairro: IPITANGA
+    Cidade: LAURO DE FREITAS
+    Estado: BAHIA
+    CEP: 42706-020
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AVENIDA AMARILIO TIAGO DOS SANTOS
+    Número: 210
+    Bairro: PRAIA DE IPITANGA
+    Cidade: LAURO DE FREITAS - BA
+    Fonte: DATASUS
+  [3]
+    Rua: Av Amarilio Thiago dos Santos
+    Número: 210
+    Complemento: Casa
+    Bairro: Ipitanga
+    Cidade: LAURO DE FREITAS
+    Estado: BA
+    CEP: 42700-000
+    Fonte: SARAIVA
+  [4]
+    Rua: AMARILIO THIAGO DOS SANTOS
+    Tipo: AV
+    Número: 210
+    Complemento: C
+    Bairro: IPITANGA
+    Cidade: LAURO DE FREITAS
+    Estado: BA
+    CEP: 42706-020
+    Data Atualizacao: 03/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: AMARILIO THIAGO DOS SANTOS
+    Número: 0000210
+    Bairro: IPITANGA
+    Cidade: LAURO DE FREITAS
+    Estado: BA
+    CEP: 42706-020
+    Fonte: ASSECC
+  [6]
+    Tipo: R
+    Rua: AMARILIO THIAGO DOS SANTOS
+    Número: 0000210
+    Bairro: IPITANGA
+    Cidade: LAURO DE FREITAS
+    Estado: BA
+    CEP: 42706-020
+    Fonte: ASSECC
+  [7]
+    Rua: AMARILIO TIAGO SANTOS
+    Número: 0000210
+    Bairro: PRAIA DE IPITANGA
+    Cidade: LAURO DE FREITAS
+    Estado: BA
+    CEP: 42700-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (71) 98479-7791
+  - (71) 99378-1697
+  - (71) 98301-9681
+  - (71) 98301-8879
+  - (71) 3288-0250
+  - (71) 98224-1974
+  - (71) 98301-8767
+  - (71) 99405-4214
+  - (71) 99102-1589
+  - (71) 99942-5918
+  - (71) 98183-9900
+Datasus Phones: (1 item(s))
+  - (71) 9942-5918
+Cidade de Nascimento: INVALIDO
+Cns: 706400109470281
+Saraiva:
+  Customer Id: 6600828
+  Telefone: (71) 3288-0250
+  E-mail: AYRLAN.FREIRE@GMAIL.COM
+  Data de Nascimento: 17/10/1985
+Paycom:
+  E-mail: ayrlan.freire@gmail.com
+  Data de Nascimento: 17/10/1985
+  Created At: 2017-06-20 22:02:53
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 09/08/2019
+    Info Date: 21/12/2008
+    Rg Issuer: SSP
+    Mosaic: F19
+    Mosaic New: E17
+    Mosaic Secondary: D13
+  Endereços: (2 item(s))
+    [1]
+      Tipo: AV
+      Rua: AMARILIO THIAGO DOS SANTOS
+      Número: 210
+      Complemento: C
+      Bairro: IPITANGA
+      Cidade: LAURO DE FREITAS
+      Estado: BA
+      CEP: 42706-020
+      Date Added: 31/12/2018
+    [2]
+      Tipo: AV
+      Rua: AMARILIO THIAGO DOS SANTOS
+      Número: 210
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: LAURO DE FREITAS
+      Estado: BA
+      CEP: 42703-750
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 999425918
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 982241974
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 991021589
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 981839900
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  E-mails: (4 item(s))
+    [1]
+      E-mail: ayrlan.freire@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: ayrlanfreire@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [3]
+      E-mail: ayllan.freire@gmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [4]
+      E-mail: dricka_ba2@hotmail.com
+      Priority: 4
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+  Score:
+    CSB8: 83
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 513
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA JOSE NEVES DA SILVA
+      Vinculo: MAE
+  Pis: 12866456051
+  Tse:
+    Titulo: 105152190566
+    Zona: 180
+    Secao: 168
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 056.061.285-00
+    Nome: JOAO BOSCO ARAUJO DUQUE
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1933
+    Bairro: IPITANGA
+  [2]
+    CPF: 848.683.334-53
+    Nome: MARIA DA PAZ SILVA
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1200
+    Bairro: IPITANGA
+  [3]
+    CPF: 805.707.125-72
+    Nome: ANDRE LUIZ OLIVEIRA ANDRADE
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 2077
+    Bairro: IPITANGA
+  [4]
+    CPF: 008.151.935-48
+    Nome: RAFAEL DA SILVA
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 119
+    Bairro: IPITANGA
+  [5]
+    CPF: 002.868.565-22
+    Nome: THUNAY BISPO DOS SANTOS
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1947
+    Bairro: IPITANGA
+  [6]
+    CPF: 766.099.875-72
+    Nome: EDIGAR MOREIRA GONCALVES
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 158
+    Bairro: IPITANGA
+  [7]
+    CPF: 026.732.905-91
+    Nome: ANTONIO ALBERICO PASSOS DOS SANTOS
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 12
+    Bairro: IPITANGA
+  [8]
+    CPF: 040.091.725-41
+    Nome: MICHEL ALMEIDA DA SILVA
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1254
+    Bairro: IPITANGA
+  [9]
+    CPF: 119.053.756-70
+    Nome: ANDRE REIS LIMA
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 103
+    Bairro: IPITANGA
+  [10]
+    CPF: 614.088.914-68
+    Nome: SOCORRO MARIA DA SILVA
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 443
+    Bairro: IPITANGA
+  [11]
+    CPF: 040.295.665-61
+    Nome: KENIO DE SOUZA BAHIA NETO
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1200
+    Bairro: IPITANGA
+  [12]
+    CPF: 016.457.065-91
+    Nome: ANAXAGORAS BERTHOLINO CAFE
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1957
+    Bairro: IPITANGA
+  [13]
+    CPF: 033.311.745-05
+    Nome: ROSIMAUREEN MENDES AGRA
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1637
+    Bairro: IPITANGA
+  [14]
+    CPF: 007.004.795-20
+    Nome: POLICRATO BERTOLINO CAFE
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: SN
+    Bairro: IPITANGA
+  [15]
+    CPF: 907.009.455-04
+    Nome: MARIO ANDRE CAMPOS LEAL
+    Logradouro: AMARILIO THIAGO DOS SANTOS
+    Número: 1749
+    Bairro: IPITANGA
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (71) 99378-1697
+    Nome: AYRLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+  [2]
+    Telefone: (71) 98224-1974
+    Nome: AYRLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+  [3]
+    Telefone: (71) 98301-8767
+    Nome: AYRLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+  [4]
+    Telefone: (71) 98301-8879
+    Nome: AYRLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+  [5]
+    Telefone: (71) 98301-9681
+    Nome: AYRLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+  [6]
+    Telefone: (71) 99405-4214
+    Nome: AYRLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+Telefones Operadoras: (4 item(s))
+  [1]
+    Telefone: (71) 99102-1589
+    Nome: ARYLAN SILVA FREIRE
+    Cidade: LAURO DE FREITAS
+    UF: BA
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (71) 98301-9681
+    Nome: AYRLAN SILVA FREIRE
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (71) 98301-8879
+    Nome: AYRLAN SILVA FREIRE
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (71) 98301-8767
+    Nome: AYRLAN SILVA FREIRE
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - dricka_ba2@hotmail.com
+  - ayrlan.freire@gmail.com
+  - ayrlanfreire@gmail.com
+  - ayllan.freire@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1100
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (71) 99942-5918
+    Ddd: 71
+    Número: 999425918
+    Tipo: 3
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (71) 98224-1974
+    Ddd: 71
+    Número: 982241974
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: A0
+  [3]
+    Telefone: (71) 99102-1589
+    Ddd: 71
+    Número: 991021589
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (71) 98183-9900
+    Ddd: 71
+    Número: 981839900
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

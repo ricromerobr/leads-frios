@@ -1,0 +1,418 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00150432070
+Data/Hora:  04/10/2026, 13:55:47
+Tempo API:  695ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 001.504.320-70
+Nome: RAMONA GONZALEZ CAMPOZANI
+Primeiro Nome: RAMONA
+Sobrenome: CAMPOZANI
+Sexo: Feminino
+Data de Nascimento: 23/07/1982
+Nome da Mãe: SUZANA GONZALEZ CAMPOZANI
+Nome do Pai: VICENTE D CAMPOZANI
+RG: 1078827373
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: RS
+Voter Id: 082141940400
+Mosaic: C07
+Ocupação: Administrador
+Score:
+  Value: 678
+  Range: BAIXO
+E-mail: ramona.campozani@gmail.com
+Additional Emails: (2 item(s))
+  - ramona.campozani@gmail.com
+  - racampozani@yahoo.com.br
+Federal Status: REGULAR
+Renda: 1800
+Income Bracket: 2
+Cbo: 252105
+Endereço:
+  Tipo: RUA
+  Rua: COMTIPO TV MAL BORMANN
+  Número: 134
+  Bairro: TERESOPOLIS
+  Cidade: PORTO ALEGRE
+  Estado: RIO GRANDE DO SUL
+  CEP: 09087-090
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: COMTIPO TV MAL BORMANN
+    Número: 134
+    Bairro: TERESOPOLIS
+    Cidade: PORTO ALEGRE
+    Estado: RIO GRANDE DO SUL
+    CEP: 09087-090
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA MARECHAL BORMANN
+    Número: 134
+    Bairro: TERESOPOLIS
+    Cidade: PORTO ALEGRE - RS
+    Fonte: DATASUS
+  [3]
+    Rua: MARECHAL BORMANN
+    Número: 134
+    Bairro: TERESÓPOLIS
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 90870-190
+    Fonte: SARAIVA
+  [4]
+    Rua: BELEM
+    Tipo: AV
+    Número: 134
+    Bairro: TERESOPOLIS
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 90870-140
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: TV
+    Rua: MARECHAL BORMANN
+    Número: 0000134
+    Bairro: TERESOPOLIS
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 09087-090
+    Fonte: ASSECC
+  [6]
+    Rua: TV BORMANN
+    Número: 134
+    Bairro: TERESOPOLIS
+    Estado: RS
+    CEP: 90870-190
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (51) 99963-4031
+  - (51) 99807-0659
+  - 555133366635
+  - (51) 4066-1743
+  - +55 (51) 99963-4031
+  - (51) 3336-6635
+  - (51) 3212-2226
+  - (51) 99996-3403
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: PORTO ALEGRE - RS
+Cns: 703404976033800
+Rg Issue Date: 842324400000
+Saraiva:
+  Customer Id: 5844106
+  E-mail: RACAMPOZANI@YAHOO.COM.BR
+  Data de Nascimento: 23/07/1982
+Paycom:
+  E-mail: racampozani@yahoo.com.br
+  Data de Nascimento: 01/01/1990
+  Created At: 2015-06-07 21:04:15
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Travessa Marechal Bormann
+    Número: 134
+    Bairro: Teresópolis
+    Cidade: Porto Alegre
+    Estado: Rio Grande do Sul
+    País: BRA
+    CEP: 90870-190
+    Telephone: 555133366635
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/10/2019
+    Info Date: 21/12/2006
+    Mosaic: C07
+    Mosaic New: A02
+    Mosaic Secondary: E16
+    Income Bracket Id: 3
+  Endereços: (2 item(s))
+    [1]
+      Tipo: TV
+      Rua: BORMANN
+      Número: 134
+      Complemento: C
+      Bairro: TERESOPOLIS
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 90870-190
+      Date Added: 11/10/2006
+    [2]
+      Tipo: AV
+      Rua: BELEM
+      Número: 134
+      Bairro: TERESOPOLIS
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 90870-140
+      Date Added: 16/03/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 33366635
+      Ddd: 51
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 32122226
+      Ddd: 51
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 17/03/2015
+    [3]
+      Telefone: 999634031
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 999963403
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 25/01/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: racampozani@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: ramona.campozani@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+  Score:
+    CSBA: 678
+    CSBA FAIXA: BAIXO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 150281005
+      Nome: PABLO GONZALEZ CAMPOZANI
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 978.326.260-20
+      Nome: VANESSA GONZALEZ CAMPOZANI
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 120.877.850-15
+      Nome: SUZANA GONZALEZ CAMPOZANI
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1800.15
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 646.106.320-04
+    Nome: CECY MARIA GONCALVES HANSEN
+    Logradouro: BORMANN
+    Número: 95
+    Bairro: TERESOPOLIS
+  [2]
+    CPF: 432.933.600-68
+    Nome: ELISABETE CARVALHO PEIRUQUE
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [3]
+    CPF: 000.474.810-72
+    Nome: DARIO BASTOS
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [4]
+    CPF: 008.479.680-49
+    Nome: LUIZ CARLOS ALMEIDA LIMA
+    Logradouro: BORMANN
+    Número: 184
+    Bairro: TERESOPOLIS
+  [5]
+    CPF: 447.719.910-49
+    Nome: ADRIANA DE FRANCESCHI
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [6]
+    CPF: 289.457.600-59
+    Nome: ROBERTO BITTENCOURT REBELLO
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [7]
+    CPF: 264.360.270-68
+    Nome: MARLI MACIEL BLANCO
+    Logradouro: BORMANN
+    Número: 325
+    Bairro: TERESOPOLIS
+  [8]
+    CPF: 676.093.090-87
+    Nome: EDUARDO HENRIQUE PEIRUQUE KICKHOFEL
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [9]
+    CPF: 368.916.730-20
+    Nome: ORLANDO DE LIMA SIAS
+    Logradouro: BORMANN
+    Número: 195
+    Bairro: TERESOPOLIS
+  [10]
+    CPF: 098.598.254-32
+    Nome: WELITON FERREIRA PORTO
+    Logradouro: BORMANN
+    Número: 88
+    Bairro: TERESOPOLIS
+  [11]
+    CPF: 264.641.520-68
+    Nome: SERGIO LUIS MOTTA FERNANDES
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [12]
+    CPF: 007.500.160-86
+    Nome: SABRINA DE OLIVEIRA SELLE
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+  [13]
+    CPF: 029.731.280-48
+    Nome: LEANDRO PEREIRA COSTA
+    Logradouro: BORMANN
+    Número: 185
+    Bairro: TERESOPOLIS
+  [14]
+    CPF: 919.065.200-20
+    Nome: JULIANE RAQUEL RUSSCZYK
+    Logradouro: BORMANN
+    Número: 184
+    Bairro: TERESOPOLIS
+  [15]
+    CPF: 295.035.820-91
+    Nome: SONIA MARIA SOUZA DE SIQUEIRA
+    Logradouro: BORMANN
+    Número: 125
+    Bairro: TERESOPOLIS
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (51) 99963-4031
+    Nome: RAMONA GONZALES CAMPOZANI
+    Cidade: PORTO ALEGRE
+    UF: RS
+  [2]
+    Telefone: (51) 99807-0659
+    Nome: RAMONA GONZALES CAMPOZANI
+    Cidade: PORTO ALEGRE
+    UF: RS
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (51) 4066-1743
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 28JUN2019:10:01:45
+    Cel Contato: +5551999634031
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (51) 99963-4031
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (51) 9963-4031
+    Plano: PF_POS_PURO
+    Data Instalacao: 20/12/2001
+    Valor Fatura: 249.99
+    Mes Referencia: 202010
+  [3]
+    Telefone: (51) 99807-0659
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (51) 9807-0659
+    Plano: PF_POS_PURO
+    Data Instalacao: 09/10/1998
+    Valor Fatura: 249.99
+    Mes Referencia: 202010
+E-mails: (2 item(s))
+  - ramona.campozani@gmail.com
+  - racampozani@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1800
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1800.15
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (51) 3336-6635
+    Ddd: 51
+    Número: 33366635
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (51) 3212-2226
+    Ddd: 51
+    Número: 32122226
+    Tipo: FIXO
+    Data Inclusao: 17/03/2015
+    Classificacao: D2
+  [3]
+    Telefone: (51) 99963-4031
+    Ddd: 51
+    Número: 999634031
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (51) 99996-3403
+    Ddd: 51
+    Número: 999963403
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D2
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

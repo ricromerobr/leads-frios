@@ -1,0 +1,438 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  88730999634
+Data/Hora:  03/10/2026, 17:47:16
+Tempo API:  696ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 887.309.996-34
+Nome: VANUZA BERNARDO DE OLIVEIRA
+Primeiro Nome: VANUZA
+Sobrenome: OLIVEIRA
+Sexo: Feminino
+Data de Nascimento: 12/09/1972
+Nome da Mãe: TERESA BERNARDO DE OLIVEIRA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 9015643
+Rg Issuer: 10/MG
+Rg State: MG
+Voter Id: 094339310272
+Mosaic: G24
+Ocupação: Cozinheiro geral
+Score:
+  Value: 133
+  Range: ALTISSIMO
+E-mail: italov465@gmail.com
+Additional Emails: (2 item(s))
+  - italov465@gmail.com
+  - vanuzabernardo851@gmail.com
+Federal Status: REGULAR
+Renda: 1150
+Income Bracket: 2
+Cbo: 513205
+Endereço:
+  Tipo: RUA
+  Rua: HIGINO DE FARIA
+  Bairro: LOURDES
+  Cidade: ITAUNA
+  Estado: MINAS GERAIS
+  CEP: 35680-168
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HIGINO DE FARIA
+    Bairro: LOURDES
+    Cidade: ITAUNA
+    Estado: MINAS GERAIS
+    CEP: 35680-168
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RENATA FRANCA CHAVES
+    Número: 133
+    Bairro: MORADA NOVA
+    Cidade: ITAUNA - MG
+    Fonte: DATASUS
+  [3]
+    Rua: HIGINO DE FARIA
+    Tipo: R
+    Número: 192
+    Bairro: LOURDES
+    Cidade: ITAUNA
+    Estado: MG
+    CEP: 35680-168
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: HIGINO DE FARIA
+    Tipo: R
+    Número: 277
+    Complemento: CS
+    Bairro: LOURDES
+    Cidade: ITAUNA
+    Estado: MG
+    CEP: 35680-168
+    Data Atualizacao: 10/11/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE BERNARDES
+    Tipo: R
+    Número: 192
+    Bairro: GRACAS
+    Cidade: ITAUNA
+    Estado: MG
+    CEP: 35680-334
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: RENATA FRANCA CHAVES
+    Tipo: R
+    Número: 133
+    Complemento: C
+    Bairro: MORADA NOVA
+    Cidade: ITAUNA
+    Estado: MG
+    CEP: 35680-310
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: VO ALMIRA
+    Tipo: R
+    Número: 249
+    Bairro: MORADA NOVA
+    Cidade: ITAUNA
+    Estado: MG
+    CEP: 35680-312
+    Data Atualizacao: 10/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: PARQUE
+    Número: 0007456
+    Bairro: CENTRO
+    Cidade: ITACOATIARA
+    Estado: AM
+    CEP: 69100-063
+    Fonte: ASSECC
+  [9]
+    Rua: R HIGINO DE FARIA
+    Número: 277
+    Bairro: LOURDES
+    Estado: MG
+    CEP: 35680-168
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Cns: 700002418411901
+Nis: 12513809132
+Rg Date: 21/01/2009
+Race: PRETA
+Telefones: (6 item(s))
+  - 553732410882
+  - (37) 99999-4869
+  - (37) 99841-6483
+  - (37) 3241-0882
+  - (37) 98804-5615
+  - (31) 3241-0882
+Datasus Phones: (1 item(s))
+  - (37) 3241-0882
+Cidade de Nascimento: CARMO DO CAJURU - MG
+Rg Issue Date: 1232506800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/01/2020
+    Info Date: 21/12/2008
+    Mosaic: G24
+    Mosaic New: H26
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: HIGINO DE FARIA
+      Número: 192
+      Bairro: LOURDES
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35680-168
+      Date Added: 11/10/2006
+    [2]
+      Tipo: R
+      Rua: HIGINO DE FARIA
+      Número: 277
+      Complemento: CS
+      Bairro: LOURDES
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35680-168
+      Date Added: 07/11/2011
+    [3]
+      Tipo: R
+      Rua: JOSE BERNARDES
+      Número: 192
+      Bairro: GRACAS
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35680-334
+      Date Added: 13/04/2010
+    [4]
+      Tipo: R
+      Rua: RENATA FRANCA CHAVES
+      Número: 133
+      Complemento: C
+      Bairro: MORADA NOVA
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35680-310
+      Date Added: 27/05/2019
+    [5]
+      Tipo: R
+      Rua: VO ALMIRA
+      Número: 249
+      Bairro: MORADA NOVA
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35680-312
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32410882
+      Ddd: 37
+      Tipo: 1
+      Classificacao: D
+      Date Added: 28/08/2006
+      Info Date: 17/05/2019
+    [2]
+      Telefone: 988045615
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [3]
+      Telefone: 998416483
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [4]
+      Telefone: 32410882
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: italov465@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+    [2]
+      E-mail: vanuzabernardo851@gmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 133
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: TERESA BERNARDO DE OLIVEIRA
+      Vinculo: MAE
+  Pis: 12513809132
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 421.87
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 047.016.916-82
+    Nome: MARCIO DA SILVA
+    Logradouro: HIGINO DE FARIA
+    Número: 94
+    Bairro: LOURDES
+  [2]
+    CPF: 140.943.986-00
+    Nome: SEBASTIAO LEANDRO TEIXEIRA
+    Logradouro: HIGINO DE FARIA
+    Número: 272
+    Bairro: LOURDES
+  [3]
+    CPF: 064.070.219-87
+    Nome: JOSE TEIXEIRA DE MOURA
+    Logradouro: HIGINO DE FARIA
+    Número: 239
+    Bairro: LOURDES
+  [4]
+    CPF: 096.591.986-20
+    Nome: ATAIDES DE SOUZA JUNIOR
+    Logradouro: HIGINO DE FARIA
+    Número: 160
+    Bairro: LOURDES
+  [5]
+    CPF: 526.803.206-20
+    Nome: NELSON TARCISIO SILVEIRA
+    Logradouro: HIGINO DE FARIA
+    Número: 117
+    Bairro: LOURDES
+  [6]
+    CPF: 015.257.826-90
+    Nome: DIEGO ALEXANDRE ALVES DE SOUZA
+    Logradouro: HIGINO DE FARIA
+    Número: 289
+    Bairro: LOURDES
+  [7]
+    CPF: 017.720.156-87
+    Nome: ANDRE NOGUEIRA MAIA
+    Logradouro: HIGINO DE FARIA
+    Número: 121
+    Bairro: LOURDES
+  [8]
+    CPF: 500.173.656-00
+    Nome: SILVANIA MOREIRA BERNARDES ANTUNES
+    Logradouro: HIGINO DE FARIA
+    Número: 232
+    Bairro: LOURDES
+  [9]
+    CPF: 078.669.266-97
+    Nome: SIRLEI GONCALVES SILVA
+    Logradouro: HIGINO DE FARIA
+    Número: 192
+    Bairro: LOURDES
+  [10]
+    CPF: 858.609.136-72
+    Nome: EDNA CRISTINA SANTOS
+    Logradouro: HIGINO DE FARIA
+    Número: 15
+    Bairro: LOURDES
+  [11]
+    CPF: 060.269.656-96
+    Nome: TANIA APARECIDA VALE SILVA
+    Logradouro: HIGINO DE FARIA
+    Número: 187
+    Bairro: LOURDES
+  [12]
+    CPF: 886.773.466-00
+    Nome: EDNA MARCIA NETO CRUZ
+    Logradouro: HIGINO DE FARIA
+    Número: 223
+    Bairro: LOURDES
+  [13]
+    CPF: 553.636.796-04
+    Nome: LINDOMAR DE OLIVEIRA TOME
+    Logradouro: HIGINO DE FARIA
+    Número: 171
+    Bairro: LOURDES
+  [14]
+    CPF: 050.456.916-35
+    Nome: CARLOS DE OLIVEIRA CAMARGOS
+    Logradouro: HIGINO DE FARIA
+    Número: 94
+    Bairro: LOURDES
+  [15]
+    CPF: 015.232.616-25
+    Nome: DANIEL DIAS GONCALVES
+    Logradouro: HIGINO DE FARIA
+    Número: 103
+    Bairro: LOURDES
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (37) 99999-4869
+    Nome: VANUZA BERNARDO DE OLIVEIRA
+    Cidade: ITACOATIARA
+    UF: AM
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (37) 99841-6483
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 23SEP2014
+    Ultima Recarga: 10AUG2020
+    Telefone Anterior: (37) 9841-6483
+    Plano: PF_PRE_PURO
+    Data Instalacao: 23/09/2014
+  [2]
+    Telefone: (37) 99999-4869
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 22AUG2018
+    Ultima Recarga: 22JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 22/08/2018
+E-mails: (2 item(s))
+  - italov465@gmail.com
+  - vanuzabernardo851@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1150
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 421.87
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (37) 3241-0882
+    Ddd: 37
+    Número: 32410882
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Data Informacao: 17/05/2019
+    Classificacao: D
+  [2]
+    Telefone: (37) 98804-5615
+    Ddd: 37
+    Número: 988045615
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [3]
+    Telefone: (37) 99841-6483
+    Ddd: 37
+    Número: 998416483
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [4]
+    Telefone: (31) 3241-0882
+    Ddd: 31
+    Número: 32410882
+    Tipo: FIXO
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 513205
+Occupation Name: Cozinheiro geral
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

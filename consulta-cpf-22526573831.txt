@@ -1,0 +1,315 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  22526573831
+Data/Hora:  02/10/2026, 16:06:05
+Tempo API:  572ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 225.265.738-31
+Nome: PAULO CESAR TADEU DE LIMA
+Primeiro Nome: PAULO
+Sobrenome: LIMA
+Sexo: Masculino
+Data de Nascimento: 13/12/1981
+Nome da Mãe: NICEA DE OLIVEIRA LIMA
+Voter Id: 303736810108
+Mosaic: C07
+Score:
+  Value: 550
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 1603
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: 103
+  Bairro: CENTRO
+  Cidade: VARGEM GRANDE PAULISTA
+  Estado: SAO PAULO
+  CEP: 06730-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 103
+    Bairro: CENTRO
+    Cidade: VARGEM GRANDE PAULISTA
+    Estado: SAO PAULO
+    CEP: 06730-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BERNARDINO DE CAMPOS
+    Tipo: R
+    Número: 646
+    Bairro: CENTRO
+    Cidade: ITAPETININGA
+    Estado: SP
+    CEP: 18200-020
+    Data Atualizacao: 24/06/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: MARIA EUGENIA ROCHA
+    Tipo: R
+    Número: 193
+    Complemento: C
+    Bairro: VL BARTH
+    Cidade: ITAPETININGA
+    Estado: SP
+    CEP: 18205-340
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CALDIUN
+    Tipo: AL
+    Número: 31
+    Complemento: C 2
+    Bairro: JD MADALENA
+    Cidade: VARGEM GRANDE PAULISTA
+    Estado: SP
+    CEP: 06730-000
+    Data Atualizacao: 18/06/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: SALVADOR DE OLIVEIRA LEME
+    Tipo: R
+    Número: 639
+    Bairro: JD ITALIA
+    Cidade: ITAPETININGA
+    Estado: SP
+    CEP: 18201-650
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: JOAQUIM JUSTO NOVAES
+    Tipo: R
+    Número: 37
+    Bairro: VL MONTE SERRAT
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06717-217
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (11) 99421-7463
+  - (11) 4615-0543
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 07/08/2019
+    Mosaic: C07
+    Mosaic New: C07
+    Mosaic Secondary: I30
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: BERNARDINO DE CAMPOS
+      Número: 646
+      Bairro: CENTRO
+      Cidade: ITAPETININGA
+      Estado: SP
+      CEP: 18200-020
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: MARIA EUGENIA ROCHA
+      Número: 193
+      Complemento: C
+      Bairro: VL BARTH
+      Cidade: ITAPETININGA
+      Estado: SP
+      CEP: 18205-340
+      Date Added: 27/02/2007
+    [3]
+      Tipo: AL
+      Rua: CALDIUN
+      Número: 31
+      Complemento: C 2
+      Bairro: JD MADALENA
+      Cidade: VARGEM GRANDE PAULISTA
+      Estado: SP
+      CEP: 06730-000
+      Date Added: 23/05/2015
+    [4]
+      Tipo: R
+      Rua: SALVADOR DE OLIVEIRA LEME
+      Número: 639
+      Bairro: JD ITALIA
+      Cidade: ITAPETININGA
+      Estado: SP
+      CEP: 18201-650
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: JOAQUIM JUSTO NOVAES
+      Número: 37
+      Bairro: VL MONTE SERRAT
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06717-217
+      Date Added: 28/02/2013
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 46150543
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/11/2011
+      Info Date: 28/10/2015
+  Score:
+    CSB8: 372
+    CSB8 FAIXA: MEDIO
+    CSBA: 550
+    CSBA FAIXA: MEDIO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 318.926.041-91
+      Nome: NICEA DE OLIVEIRA LIMA
+      Vinculo: MAE
+    [2]
+      CPF: 260.609.648-77
+      Nome: IONE APARECIDA DE OLIVEIRA LIMA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 422.734.288-04
+      Nome: PHELLIPE LIMA NERY
+      Vinculo: SOBRINHA(O)
+    [4]
+      CPF: 175.221.508-76
+      Nome: ENOI APARECIDA DE OLIVEIRA LIMA
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1603.17
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 037.854.208-70
+    Nome: SERGIO MAURICIO RAMOS
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 593
+    Bairro: CENTRO
+  [2]
+    CPF: 054.896.008-96
+    Nome: NEUZA MARTINS PEREIRA
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 347
+    Bairro: CENTRO
+  [3]
+    CPF: 445.811.498-00
+    Nome: JOSE ANTONIO DE MEDEIROS NETO
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 500
+    Bairro: CENTRO
+  [4]
+    CPF: 021.245.248-79
+    Nome: LENITA LEPINSKY
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 175
+    Bairro: CENTRO
+  [5]
+    CPF: 458.724.248-92
+    Nome: GLEYDSON SALES SABACK
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 55
+    Bairro: CENTRO
+  [6]
+    CPF: 072.092.548-70
+    Nome: MARLI ANTUNES GUIMARAES
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 368
+    Bairro: CENTRO
+  [7]
+    CPF: 249.844.378-98
+    Nome: REGINA CRISTIANA SILVA SALEM
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 453
+    Bairro: CENTRO
+  [8]
+    CPF: 072.093.998-44
+    Nome: ESTELA DE ALMEIDA ESPOLAOR
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 684
+    Bairro: CENTRO
+  [9]
+    CPF: 417.794.238-37
+    Nome: MARCOS ROBERTO VENANCIO DA SILVA
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 175
+    Bairro: CENTRO
+  [10]
+    CPF: 042.589.168-20
+    Nome: DULCE THEREZINHA DE ALMEIDA
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 730
+    Bairro: CENTRO
+  [11]
+    CPF: 020.811.848-93
+    Nome: MARIA SOLANGE FONTES LISBOA GIORGI
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 304
+    Bairro: CENTRO
+  [12]
+    CPF: 150.133.528-60
+    Nome: AMERICO TOSHIO KIMURA
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 646
+    Bairro: CENTRO
+  [13]
+    CPF: 412.012.808-34
+    Nome: CARMEN FERNANDA RAGGIO CARON
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 387
+    Bairro: CENTRO
+  [14]
+    CPF: 021.258.588-60
+    Nome: JOAO GILBERTO RODRIGUES
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 694
+    Bairro: CENTRO
+  [15]
+    CPF: 448.813.578-16
+    Nome: MARIANA CRISTINA FARIAS DE ALMEIDA
+    Logradouro: BERNARDINO DE CAMPOS
+    Número: 380
+    Bairro: CENTRO
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1603
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1603.17
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (11) 4615-0543
+    Ddd: 11
+    Número: 46150543
+    Tipo: FIXO
+    Data Inclusao: 20/11/2011
+    Data Informacao: 28/10/2015
+    Classificacao: D2
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,384 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  36121596821
+Data/Hora:  04/10/2026, 12:47:58
+Tempo API:  628ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 361.215.968-21
+Nome: ADELAIDE APARECIDA TEIXEIRA CORREA SILVA
+Primeiro Nome: ADELAIDE
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 25/09/1985
+Nome da Mãe: MAURA APARECIDA TEIXEIRA CORREA
+Nome do Pai: CARLOS ROBERTO CORREA
+RG: 416332699
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 273445170116
+Mosaic: F19
+Ocupação: Administrador
+Score:
+  Value: 86
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 669
+Income Bracket: 1
+Cbo: 252105
+Endereço:
+  Tipo: RUA
+  Rua: CAPITAL INACIO PINTO
+  Bairro: CENTRO
+  Cidade: CACHOEIRA PAULISTA
+  Estado: SAO PAULO
+  CEP: 12630-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CAPITAL INACIO PINTO
+    Bairro: CENTRO
+    Cidade: CACHOEIRA PAULISTA
+    Estado: SAO PAULO
+    CEP: 12630-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ABRAHAO BECHARA
+    Número: 5
+    Bairro: ITAGACABA
+    Cidade: CRUZEIRO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: DEZ
+    Tipo: TV
+    Número: 34
+    Complemento: FDS
+    Bairro: VL BRASIL
+    Cidade: CRUZEIRO
+    Estado: SP
+    CEP: 12703-550
+    Data Atualizacao: 27/09/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: LUIZ BITTENCOURT
+    Tipo: AV
+    Número: 1135
+    Bairro: ITAGACABA
+    Cidade: CRUZEIRO
+    Estado: SP
+    CEP: 12730-160
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ABRAHAO BECHARA
+    Tipo: R
+    Número: 5
+    Bairro: ITAGACABA
+    Cidade: CRUZEIRO
+    Estado: SP
+    CEP: 12730-170
+    Data Atualizacao: 03/08/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: LUIZ BITTENCOURT
+    Rua: AV
+    Número: 0001135
+    Bairro: ITAGACABA
+    Cidade: CRUZEIRO
+    Estado: SP
+    CEP: 12730-160
+    Fonte: ASSECC
+  [7]
+    Rua: R ABRAHAO BECHARA
+    Número: 5
+    Bairro: ITAGACABA
+    Estado: SP
+    CEP: 12730-170
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: GM
+      Modelo: CELTA 2P LIFE
+      Ano: 2006
+    [2]
+      Marca: VW
+      Modelo: GOL CL
+      Ano: 1990
+Telefones: (9 item(s))
+  - (12) 99208-2326
+  - (12) 99611-3947
+  - (12) 98803-0509
+  - (12) 99784-9188
+  - (12) 99600-2732
+  - (12) 99669-4326
+  - (12) 99165-9345
+  - (12) 3145-3046
+  - (11) 3145-6702
+Datasus Phones: (1 item(s))
+  - (12) 3145-6702
+Cidade de Nascimento: CRUZEIRO - SP
+Cns: 700003138460008
+Rg Issue Date: 868244400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Rg Issuer: SSP
+    Mosaic: F19
+    Mosaic New: D12
+    Mosaic Secondary: E15
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: TV
+      Rua: DEZ
+      Número: 34
+      Complemento: FDS
+      Bairro: VL BRASIL
+      Cidade: CRUZEIRO
+      Estado: SP
+      CEP: 12703-550
+      Date Added: 30/09/2009
+    [2]
+      Tipo: AV
+      Rua: LUIZ BITTENCOURT
+      Número: 1135
+      Bairro: ITAGACABA
+      Cidade: CRUZEIRO
+      Estado: SP
+      CEP: 12730-160
+      Date Added: 29/07/2013
+    [3]
+      Tipo: R
+      Rua: ABRAHAO BECHARA
+      Número: 5
+      Bairro: ITAGACABA
+      Cidade: CRUZEIRO
+      Estado: SP
+      CEP: 12730-170
+      Date Added: 02/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 991659345
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [2]
+      Telefone: 31453046
+      Ddd: 12
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/12/2014
+      Info Date: 25/10/2009
+    [3]
+      Telefone: 996113947
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 31456702
+      Ddd: 11
+      Tipo: 2
+      Classificacao: C2
+      Date Added: 04/04/2018
+  Score:
+    CSB8: 106
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 86
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MAURA APARECIDA T CORREA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 669.85
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 055.708.418-06
+    Nome: SERGIO JUSTINO
+    Logradouro: DEZ
+    Número: 12
+    Bairro: VL BRASIL
+  [2]
+    CPF: 326.125.418-10
+    Nome: MARIANA MOURA DA SILVA
+    Logradouro: DEZ
+    Número: 2
+    Bairro: VL BRASIL
+  [3]
+    CPF: 299.526.528-52
+    Nome: MARIA REGINA DE AMORIM ROCHA
+    Logradouro: DEZ
+    Número: 19
+    Bairro: VL BRASIL
+  [4]
+    CPF: 199.130.348-33
+    Nome: NEIDE ARRUDA DE JESUS MARTINS
+    Logradouro: DEZ
+    Número: 23
+    Bairro: VL BRASIL
+  [5]
+    CPF: 325.045.068-56
+    Nome: DEBORA DE PAULA PEREIRA
+    Logradouro: DEZ
+    Número: 267
+    Bairro: VL BRASIL
+  [6]
+    CPF: 323.456.958-46
+    Nome: HEDER RONALDO DOS SANTOS GOMES
+    Logradouro: DEZ
+    Número: 86
+    Bairro: VL BRASIL
+  [7]
+    CPF: 163.663.958-53
+    Nome: JOSE BERNARDES DE SOUZA
+    Logradouro: DEZ
+    Número: 6
+    Bairro: VL BRASIL
+  [8]
+    CPF: 066.614.728-04
+    Nome: SUECA YOKOYAMA GOTO
+    Logradouro: DEZ
+    Número: 28
+    Bairro: VL BRASIL
+  [9]
+    CPF: 159.547.688-11
+    Nome: MARIA APARECIDA DOS SANTOS
+    Logradouro: DEZ
+    Número: 79
+    Bairro: VL BRASIL
+  [10]
+    CPF: 345.014.828-18
+    Nome: ADRIANO MARCOS RIBEIRO
+    Logradouro: DEZ
+    Número: 14
+    Bairro: VL BRASIL
+  [11]
+    CPF: 310.682.598-76
+    Nome: ABNER DOS SANTOS RODRIGUES
+    Logradouro: DEZ
+    Número: 39
+    Bairro: VL BRASIL
+  [12]
+    CPF: 439.259.218-93
+    Nome: ELINAIRA MARIANA FORTES
+    Logradouro: DEZ
+    Número: 23
+    Bairro: VL BRASIL
+  [13]
+    CPF: 050.257.228-02
+    Nome: DEUZELINA MENDES DA COSTA
+    Logradouro: DEZ
+    Número: 14
+    Bairro: VL BRASIL
+  [14]
+    CPF: 338.147.438-30
+    Nome: MARCOS TIAGO FORTES
+    Logradouro: DEZ
+    Número: 23
+    Bairro: VL BRASIL
+  [15]
+    CPF: 444.810.288-23
+    Nome: JESSICA CRISTINE DE LIMA
+    Logradouro: DEZ
+    Número: 37
+    Bairro: VL BRASIL
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (12) 99611-3947
+    Nome: ADELAIDE APARECIDA TEIXEIRA CORREA
+    Cidade: CRUZEIRO
+    UF: SP
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (12) 99784-9188
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 11JUN2019
+    Ultima Recarga: 31AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 11/06/2019
+  [2]
+    Telefone: (12) 99600-2732
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 18OCT2019
+    Ultima Recarga: 09SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 18/07/2019
+  [3]
+    Telefone: (12) 99669-4326
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 09FEB2020
+    Ultima Recarga: 12SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 09/11/2019
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 669
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 669.85
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (12) 99165-9345
+    Ddd: 12
+    Número: 991659345
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [2]
+    Telefone: (12) 3145-3046
+    Ddd: 12
+    Número: 31453046
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 25/10/2009
+    Classificacao: D2
+  [3]
+    Telefone: (12) 99611-3947
+    Ddd: 12
+    Número: 996113947
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 3145-6702
+    Ddd: 11
+    Número: 31456702
+    Tipo: CELULAR
+    Data Inclusao: 04/04/2018
+    Classificacao: C2
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

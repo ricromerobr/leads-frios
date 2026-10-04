@@ -1,0 +1,441 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  30262246856
+Data/Hora:  04/10/2026, 14:22:41
+Tempo API:  470ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 302.622.468-56
+Nome: GERONILDO PEREIRA LEAL
+Primeiro Nome: GERONILDO
+Sobrenome: LEAL
+Sexo: Masculino
+Data de Nascimento: 04/02/1980
+Nome da Mãe: MARIA ANTONIO LEAL
+Nome do Pai: PEDRO PEREIRA LEAL
+RG: 356034562
+Rg Issuer: SSP
+Voter Id: 279948450108
+Mosaic: F20
+Ocupação: Operador de triagem e transbordo
+Score:
+  Value: 28
+  Range: ALTISSIMO
+E-mail: geronildo741@hotmail.com
+Additional Emails: (1 item(s))
+  - geronildo741@hotmail.com
+Federal Status: REGULAR
+Renda: 1938
+Income Bracket: 2
+Cbo: 415210
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: JACU PESSEGO
+  Número: 3500
+  Bairro: VL JACUI
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 08260-005
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JACU PESSEGO
+    Número: 3500
+    Bairro: VL JACUI
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 08260-005
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GIOVANI PACINI
+    Número: 247
+    Bairro: SEM INFORMAÇÃO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: CHAIME
+    Tipo: R
+    Número: 38
+    Complemento: CS A A
+    Bairro: JD S GONCALO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08370-180
+    Data Atualizacao: 11/08/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: HISAJI MORITA
+    Tipo: R
+    Número: 129
+    Bairro: COL ZONA LESTE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08260-130
+    Data Atualizacao: 15/12/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: CHAIME
+    Tipo: R
+    Número: 145
+    Bairro: JD S GONCALO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08370-180
+    Data Atualizacao: 06/10/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: VIVIANE
+    Tipo: R
+    Número: 343
+    Bairro: JD NOVA VITORIA I
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08373-280
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: CHAIME
+    Tipo: R
+    Número: 137
+    Bairro: JD S GONCALO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08370-180
+    Data Atualizacao: 09/10/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: GIOVANI PACINI
+    Número: 0000207
+    Bairro: JARDIM AUGUSTO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08371-090
+    Fonte: ASSECC
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: FIAT
+      Modelo: TEMPRA OURO 16V
+      Ano: 1995
+    [2]
+      Marca: GM
+      Modelo: CORSA SUPER
+      Ano: 1997
+Telefones: (10 item(s))
+  - (11) 95955-7033
+  - (11) 94007-7769
+  - (11) 96457-2698
+  - (11) 94026-3065
+  - (11) 2873-0580
+  - (11) 97105-8376
+  - (11) 98840-3028
+  - (11) 97190-6934
+  - (11) 97722-1505
+  - (11) 99744-7249
+Cidade de Nascimento: INVALIDO
+Cns: 704008888175366
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/08/2019
+    Info Date: 11/08/2008
+    Rg Issuer: SSP
+    Mosaic: F20
+    Mosaic New: D10
+    Mosaic Secondary: D12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CHAIME
+      Número: 38
+      Complemento: CS A A
+      Bairro: JD S GONCALO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08370-180
+      Date Added: 20/03/2014
+    [2]
+      Tipo: R
+      Rua: HISAJI MORITA
+      Número: 129
+      Bairro: COL ZONA LESTE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08260-130
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: CHAIME
+      Número: 145
+      Bairro: JD S GONCALO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08370-180
+      Date Added: 12/11/2013
+    [4]
+      Tipo: R
+      Rua: VIVIANE
+      Número: 343
+      Bairro: JD NOVA VITORIA I
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08373-280
+      Date Added: 01/04/2014
+    [5]
+      Tipo: R
+      Rua: CHAIME
+      Número: 137
+      Bairro: JD S GONCALO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08370-180
+      Date Added: 23/07/2013
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 971058376
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 988403028
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/02/2014
+      Info Date: 22/01/2014
+    [3]
+      Telefone: 971906934
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [4]
+      Telefone: 977221505
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/01/2016
+      Info Date: 09/12/2015
+    [5]
+      Telefone: 997447249
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: geronildo741@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/05/2017
+  Score:
+    CSB8: 9
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 28
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA ANTONIO LEAL
+      Vinculo: MAE
+  Pis: 13529776938
+  Tse:
+    Titulo: 279948450108
+    Zona: 375
+    Secao: 278
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 993.550.003-91
+    Nome: AUBERES FERREIRA DOS SANTOS
+    Logradouro: CHAIME
+    Número: 151
+    Bairro: JD S GONCALO
+  [2]
+    CPF: 816.579.354-34
+    Nome: MARIA ANTONIA LEAL
+    Logradouro: CHAIME
+    Número: 145
+    Bairro: JD S GONCALO
+  [3]
+    CPF: 342.610.168-85
+    Nome: DANILO BERTALHA
+    Logradouro: CHAIME
+    Número: 99
+    Bairro: JD S GONCALO
+  [4]
+    CPF: 363.761.998-95
+    Nome: KEIDYLANY THARRANY DE CASTRO BRAGA
+    Logradouro: CHAIME
+    Número: 4
+    Bairro: JD S GONCALO
+  [5]
+    CPF: 392.369.978-64
+    Nome: FABIO FRANCISCO DA SILVA
+    Logradouro: CHAIME
+    Número: 6
+    Bairro: JD S GONCALO
+  [6]
+    CPF: 088.526.058-94
+    Nome: JOAO BEZERRA DA SILVA
+    Logradouro: CHAIME
+    Número: 33
+    Bairro: JD S GONCALO
+  [7]
+    CPF: 354.066.468-85
+    Nome: ALEXSANDRO AGUIAR MOEDO
+    Logradouro: CHAIME
+    Número: 63
+    Bairro: JD S GONCALO
+  [8]
+    CPF: 033.372.048-21
+    Nome: MARCOS JOSE DE SOUZA
+    Logradouro: CHAIME
+    Número: 2
+    Bairro: JD S GONCALO
+  [9]
+    CPF: 396.458.378-20
+    Nome: ELISANGELA DOS SANTOS LOPES DA SILVA
+    Logradouro: CHAIME
+    Número: 5
+    Bairro: JD S GONCALO
+  [10]
+    CPF: 142.926.548-59
+    Nome: MARLENE MARIA MONTEIRO DA SILVA CRUZ
+    Logradouro: CHAIME
+    Número: 30
+    Bairro: JD S GONCALO
+  [11]
+    CPF: 266.974.908-96
+    Nome: EUNICE DA MATA PERUCI
+    Logradouro: CHAIME
+    Número: 57
+    Bairro: JD S GONCALO
+  [12]
+    CPF: 451.032.608-40
+    Nome: CINTHIA CALIXTO BRITO
+    Logradouro: CHAIME
+    Número: 6
+    Bairro: JD S GONCALO
+  [13]
+    CPF: 395.907.798-08
+    Nome: WESLEI ALVES ANANIAS
+    Logradouro: CHAIME
+    Número: 8
+    Bairro: JD S GONCALO
+  [14]
+    CPF: 359.201.458-70
+    Nome: DERMANI DE SANTANA
+    Logradouro: CHAIME
+    Número: 117
+    Bairro: JD S GONCALO
+  [15]
+    CPF: 346.889.018-44
+    Nome: JADE DOS SANTOS GUIRELLI
+    Logradouro: CHAIME
+    Número: 95
+    Bairro: JD S GONCALO
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (11) 94007-7769
+    Nome: GERONILDO PEREIRA LEAL
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 96457-2698
+    Nome: GERONILDO PEREIRA LEAL
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 95955-7033
+    Nome: GERONILDO PEREIRA LEAL
+    Cidade: SAO PAULO
+    UF: SP
+  [4]
+    Telefone: (11) 94026-3065
+    Nome: GERONILDO PEREIRA LEAL
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 2873-0580
+    Nome: GERONILDO PEREIRA LEAL
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: EMBRATEL - SP
+    Fonte: algar
+E-mails: (1 item(s))
+  - geronildo741@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1938
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 97105-8376
+    Ddd: 11
+    Número: 971058376
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (11) 98840-3028
+    Ddd: 11
+    Número: 988403028
+    Tipo: 3
+    Data Inclusao: 10/02/2014
+    Data Informacao: 22/01/2014
+    Classificacao: D
+  [3]
+    Telefone: (11) 97190-6934
+    Ddd: 11
+    Número: 971906934
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [4]
+    Telefone: (11) 97722-1505
+    Ddd: 11
+    Número: 977221505
+    Tipo: 3
+    Data Inclusao: 06/01/2016
+    Data Informacao: 09/12/2015
+    Classificacao: D
+  [5]
+    Telefone: (11) 99744-7249
+    Ddd: 11
+    Número: 997447249
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 415210
+Occupation Name: Operador de triagem e transbordo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

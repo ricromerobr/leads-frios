@@ -1,0 +1,275 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08923123609
+Data/Hora:  04/10/2026, 15:37:34
+Tempo API:  239ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 089.231.236-09
+Nome: FABIO MOREIRA DE OLIVEIRA
+Primeiro Nome: FABIO
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 11/04/1986
+Nome da Mãe: DOLORES MOREIRA DA CONCEICAO
+Ocupação: Trabalhador volante da agricultura
+Score:
+  Value: 596
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 998
+Income Bracket: 1
+Cbo: 622020
+Endereço:
+  Tipo: RUA
+  Rua: LEONARDO MOTA
+  Número: 400
+  Complemento: AP 206
+  Bairro: MEIRELES
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 60170-040
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LEONARDO MOTA
+    Número: 400
+    Complemento: AP 206
+    Bairro: MEIRELES
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 60170-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: VALADARES
+    Tipo: R
+    Número: 9
+    Bairro: CENTRO
+    Cidade: CAPELINHA
+    Estado: MG
+    CEP: 39680-000
+    Data Atualizacao: 09/12/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: JUREMA VELHA
+    Número: SN
+    Bairro: ZONA RURAL
+    Cidade: BANABUIU
+    Estado: CE
+    CEP: 63960-000
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 06/07/2019
+    Mosaic New: C06
+    Mosaic Secondary: A01
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: VALADARES
+      Número: 9
+      Bairro: CENTRO
+      Cidade: CAPELINHA
+      Estado: MG
+      CEP: 39680-000
+      Date Added: 13/02/2013
+    [2]
+      Rua: JUREMA VELHA
+      Número: SN
+      Bairro: ZONA RURAL
+      Cidade: BANABUIU
+      Estado: CE
+      CEP: 63960-000
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: LEONARDO MOTA
+      Número: 400
+      Complemento: AP 206
+      Bairro: MEIRELES
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60170-040
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 991073763
+      Ddd: 33
+      Tipo: 3
+      Classificacao: D
+      Date Added: 28/05/2014
+    [2]
+      Telefone: 35161412
+      Ddd: 33
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 26/03/2019
+    [3]
+      Telefone: 991970429
+      Ddd: 33
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/03/2019
+  Score:
+    CSB8: 416
+    CSB8 FAIXA: MEDIO
+    CSBA: 596
+    CSBA FAIXA: BAIXO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 113.961.406-11
+      Nome: IRIS MOREIRA DOS SANTOS
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 2482620686
+      Nome: DOLORES MOREIRA DA CONCEICAO
+      Vinculo: MAE
+  Pis: 16013534412
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 846.86
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Telefones: (3 item(s))
+  - (33) 99107-3763
+  - (33) 3516-1412
+  - (33) 99197-0429
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.046.226-24
+    Nome: CLAUDIO HENRIQUE DE OLIVEIRA FERREIRA
+    Logradouro: RAUL COELHO
+    Número: 198
+  [2]
+    CPF: 051.708.956-40
+    Nome: MARCOS ROBERTO ABRANTE DA SILVA
+    Logradouro: JOSE PIMENTA DE FIGUEIREDO
+    Número: 841
+  [3]
+    CPF: 051.708.956-40
+    Nome: MARCOS ROBERTO ABRANTE DA SILVA
+    Logradouro: AMERICO CELESTINO DE ALMEIDA
+    Número: 192
+  [4]
+    CPF: 051.388.426-25
+    Nome: JANE MARIA FERREIRA
+    Logradouro: CAMILO FERREIRA
+    Número: 66
+    Bairro: CENTRO
+  [5]
+    CPF: 051.236.936-45
+    Nome: MARIA APARECIDA DE ANDRADE SOARES
+    Logradouro: VARGINHA
+    Número: 93
+  [6]
+    CPF: 051.024.896-90
+    Nome: ADMILSON APARECIDO DE MEIRA ALVES
+    Logradouro: MARIA
+    Número: 105
+    Bairro: VISTA ALEGRE
+  [7]
+    CPF: 050.749.776-73
+    Nome: RAQUEL FERNANDES DA SILVA
+    Logradouro: PAULO
+    Número: 63
+  [8]
+    CPF: 050.322.606-81
+    Nome: VALDECI APARECIDO XAVIER MARTINS
+    Logradouro: JOAO ALVES SAMPAIO
+    Número: 145
+  [9]
+    CPF: 112.853.916-08
+    Nome: JULIO CESAR CARNEIRO GUEDES
+    Logradouro: ANEL RODOVIARIO
+    Número: 1834
+    Bairro: MARIA LUCIA
+  [10]
+    CPF: 088.067.176-93
+    Nome: SEBASTIAO FRANCISCO CORDEIRO
+    Logradouro: RIO GRANDE DO SUL
+    Número: 110
+    Bairro: VL OPERARIA
+  [11]
+    CPF: 049.933.876-60
+    Nome: ALESSANDRA GOMES MENDES
+    Logradouro: JOAO MONTEIRO DE CARVALHO
+    Número: 112
+  [12]
+    CPF: 049.891.276-09
+    Nome: MICHELE SAMPAIO LASMAR
+    Logradouro: JOAQUIM ALVES VIEIRA
+    Número: 884
+    Bairro: ACACIAS
+  [13]
+    CPF: 465.331.096-34
+    Nome: CLAUDIA MARIA APARECIDA DOS SANTOS CHAVES
+    Logradouro: TAMBORIL
+    Número: 345
+  [14]
+    CPF: 049.516.466-68
+    Nome: JOSE CANDIDO DA SILVA
+    Logradouro: O JOS
+    Número: 108
+    Bairro: VL OPERARIA
+  [15]
+    CPF: 049.466.206-99
+    Nome: ELSON ABRANTES DOS SANTOS
+    Logradouro: TEODOMIRO BARBOSA
+    Número: 316
+    Bairro: PLANALTO
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 998
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 846.86
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (33) 99107-3763
+    Ddd: 33
+    Número: 991073763
+    Tipo: 3
+    Data Inclusao: 28/05/2014
+    Classificacao: D
+  [2]
+    Telefone: (33) 3516-1412
+    Ddd: 33
+    Número: 35161412
+    Tipo: FIXO
+    Data Inclusao: 26/03/2019
+    Classificacao: D2
+  [3]
+    Telefone: (33) 99197-0429
+    Ddd: 33
+    Número: 991970429
+    Tipo: 3
+    Data Inclusao: 26/03/2019
+    Classificacao: D
+Occupation Code: 622020
+Occupation Name: Trabalhador volante da agricultura
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

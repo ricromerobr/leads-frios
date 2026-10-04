@@ -1,0 +1,369 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08943829426
+Data/Hora:  03/10/2026, 19:04:26
+Tempo API:  728ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 089.438.294-26
+Nome: JOSE SIQUEIRA BARROS NETO
+Primeiro Nome: JOSE
+Sobrenome: NETO
+Sexo: Masculino
+Data de Nascimento: 20/03/1996
+Nome da Mãe: NUBIA MARIA LUDOVICO DA SILVA
+Ocupação: Telefonista
+Score:
+  Value: 603
+  Range: BAIXO
+E-mail: netinho_ludovico@hotmail.com
+Additional Emails: (3 item(s))
+  - netinho_ludovico@hotmail.com
+  - netoludovico@hotmail.com
+  - rafaelpaes@ohanatransportes.com.br
+Federal Status: REGULAR
+Renda: 2500
+Income Bracket: 3
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: EM PROJETO SEISCENTOS E SETENTA E TRES
+  Número: 371
+  Bairro: ANTARES
+  Cidade: MACEIO
+  Estado: ALAGOAS
+  CEP: 57083-670
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EM PROJETO SEISCENTOS E SETENTA E TRES
+    Número: 371
+    Bairro: ANTARES
+    Cidade: MACEIO
+    Estado: ALAGOAS
+    CEP: 57083-670
+    Fonte: PRINCIPAL
+  [2]
+    Tipo: [empty]
+    Rua: ALVORADA
+    Número: 0000371
+    Bairro: ANTARES
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57083-681
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (82) 99606-1341
+  - +55 (82) 99606-1341
+  - (82) 3027-4761
+  - (82) 3028-6162
+  - (82) 99606-1404
+  - (82) 99620-1868
+Paycom:
+  E-mail: netoludovico@hotmail.com
+  Data de Nascimento: 01/01/1900
+  Created At: 2021-04-22 19:22:03
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Comendador Gustavo Paiva
+    Número: 5886
+    Complemento: Na loja
+    Bairro: Cruz das Almas
+    Cidade: Maceió
+    Estado: AL
+    País: BRA
+    CEP: 57038-000
+    Telephone: +55 (82) 99606-1341
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 02/10/2019
+    Mosaic New: D13
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: EM PROJETO SEISCENTOS E SETENTA E TRES
+      Número: 371
+      Bairro: ANTARES
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57083-670
+      Date Added: 28/08/2019
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 996061404
+      Ddd: 82
+      Tipo: 3
+      Classificacao: D
+      Date Added: 03/12/2014
+    [2]
+      Telefone: 996061341
+      Ddd: 82
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/04/2018
+    [3]
+      Telefone: 996201868
+      Ddd: 82
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 17/11/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: netinho_ludovico@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: rafaelpaes@ohanatransportes.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 19/09/2016
+  Score:
+    CSB8: 627
+    CSB8 FAIXA: BAIXO
+    CSBA: 603
+    CSBA FAIXA: BAIXO
+  Parentes: (10 item(s))
+    [1]
+      CPF: 2425317414
+      Nome: MARIA BETANIA LUDOVICO DA SILVA
+      Vinculo: TIA(O)
+    [2]
+      CPF: 312.534.234-15
+      Nome: DORALICE MARIA DA SILVA
+      Vinculo: AVO
+    [3]
+      CPF: 463.544.924-68
+      Nome: CARLOS ARTUR LUDOVICO DA SILVA
+      Vinculo: TIA(O)
+    [4]
+      CPF: 2579397418
+      Nome: URSULINA LUDOVICO DA SILVA
+      Vinculo: TIA(O)
+    [5]
+      CPF: 8625810446
+      Nome: CLOVIS LUDOVICO LINS NETO
+      Vinculo: PRIMA(O)
+    [6]
+      CPF: 388.707.544-72
+      Nome: HELIO ROBERTO LUDOVICO DA SILVA
+      Vinculo: TIA(O)
+    [7]
+      CPF: 613.628.244-53
+      Nome: NUBIA MARIA LUDOVICO DA SILVA
+      Vinculo: MAE
+    [8]
+      CPF: 8625800483
+      Nome: BRENO FREDERICO LUDOVICO DE QUEIROZ
+      Vinculo: PRIMA(O)
+    [9]
+      CPF: 8943830432
+      Nome: LARISSA LUDOVICO SIQUEIRA BARROS
+      Vinculo: IRMA(O)
+    [10]
+      CPF: 6368947462
+      Nome: SILVIA REGINA LUDOVICO DA SILVA
+      Vinculo: TIA(O)
+  Pis: 20656745732
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 458.32
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 008.582.134-94
+    Nome: EDNA LOPES DA COSTA
+    Logradouro: ALVORADA
+    Número: 406
+    Bairro: ANTARES
+  [2]
+    CPF: 309.523.874-68
+    Nome: DERALDO GUSMAO LIMA
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [3]
+    CPF: 935.413.847-00
+    Nome: MARCIA CRISTINA DOS SANTOS DURO
+    Logradouro: EM PROJETO SEISCENTOS E SETENTA E TRES
+    Número: 371
+    Bairro: ANTARES
+  [4]
+    CPF: 241.151.694-00
+    Nome: CICERO ROBERIO DE SOUZA
+    Logradouro: EM PROJETO SEISCENTOS E SETENTA E TRES
+    Número: 371
+    Bairro: ANTARES
+  [5]
+    CPF: 662.870.305-34
+    Nome: ALEXSANDRO DA SILVA LIMA
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [6]
+    CPF: 062.098.334-54
+    Nome: SILVIA RAFAELI LAURENTINO DA SILVA
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [7]
+    CPF: 077.132.464-28
+    Nome: NIVALDO MONTENEGRO VASCONCELLOS NETTO
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [8]
+    CPF: 030.846.454-00
+    Nome: LUIZ CARLOS DA SILVA GOMES
+    Logradouro: ALVORADA
+    Número: 2
+    Bairro: ANTARES
+  [9]
+    CPF: 059.038.274-89
+    Nome: ALYSON DANIEL GONCALVES DO NASCIMENTO
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [10]
+    CPF: 077.145.144-00
+    Nome: RENATA MARTINS DOS SANTOS
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [11]
+    CPF: 072.079.414-55
+    Nome: DIEGO DA SILVA CANDIDO CORREIA
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [12]
+    CPF: 995.135.524-20
+    Nome: LUCYVALDO RAMOS DA SILVA
+    Logradouro: ALVORADA
+    Número: 371
+    Bairro: ANTARES
+  [13]
+    CPF: 644.618.824-20
+    Nome: VALDIRENE DE SIQUEIRA BOMFIM
+    Logradouro: EM PROJETO SEISCENTOS E SETENTA E TRES
+    Número: 371
+    Bairro: ANTARES
+  [14]
+    CPF: 028.268.924-95
+    Nome: EUSON FERREIRA DA SILVA
+    Logradouro: EM PROJETO SEISCENTOS E SETENTA E TRES
+    Número: 371
+    Bairro: ANTARES
+  [15]
+    CPF: 321.775.504-91
+    Nome: GENEILDA SOARES
+    Logradouro: EM PROJETO SEISCENTOS E SETENTA E TRES
+    Número: 61
+    Bairro: ANTARES
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (82) 99606-1341
+    Nome: JOSE SIQUEIRA BARROS NETO
+    Cidade: MACEIO
+    UF: AL
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (82) 99606-1341
+    Nome: JOSE SIQUEIRA BARROS NETO
+    Cidade: MACEIO
+    UF: AL
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (82) 3027-4761
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Cel Contato: +5582996061341
+    Complemento: AP - Apartamento: 0007;
+    Data Retirada: 26APR2019:18:13:57
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (82) 3028-6162
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 30APR2019:10:52:11
+    Cel Contato: +5582996061341
+    Complemento: AP - Apartamento: 0007;
+    Data Retirada: 25MAY2020:19:53:46
+    Tipo Cliente: Residencial
+E-mails: (3 item(s))
+  - netinho_ludovico@hotmail.com
+  - netoludovico@hotmail.com
+  - rafaelpaes@ohanatransportes.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2500
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 458.32
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (82) 99606-1404
+    Ddd: 82
+    Número: 996061404
+    Tipo: 3
+    Data Inclusao: 03/12/2014
+    Classificacao: D
+  [2]
+    Telefone: (82) 99606-1341
+    Ddd: 82
+    Número: 996061341
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A0
+  [3]
+    Telefone: (82) 99620-1868
+    Ddd: 82
+    Número: 996201868
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: A2
+Occupation Code: 422205
+Occupation Name: Telefonista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

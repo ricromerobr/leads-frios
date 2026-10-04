@@ -1,0 +1,271 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  11979752761
+Data/Hora:  03/10/2026, 17:31:23
+Tempo API:  403ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 119.797.527-61
+Nome: JOAO FRANCISCO FAVORETTI CAVATI
+Primeiro Nome: JOAO
+Sobrenome: CAVATI
+Sexo: Masculino
+Data de Nascimento: 26/07/2001
+Nome da Mãe: MARILENE FAVORETTI
+Nome do Pai: LUIZ CAVATI NETO
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 0
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 225
+Income Bracket: 1
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: ITAPERUNA
+  Bairro: PR ITAPARICA
+  Cidade: VILA VELHA
+  Estado: ESPIRITO SANTO
+  CEP: 29102-110
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ITAPERUNA
+    Bairro: PR ITAPARICA
+    Cidade: VILA VELHA
+    Estado: ESPIRITO SANTO
+    CEP: 29102-110
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOAQUIM VIEIRA
+    Número: 5
+    Bairro: VILA INDEPENDENCIA
+    Cidade: CARIACICA - ES
+    Fonte: DATASUS
+  [3]
+    Rua: FLORENTINO AVIDOS
+    Tipo: AV
+    Número: 404
+    Bairro: CENTRO
+    Cidade: VIANA
+    Estado: ES
+    CEP: 29130-065
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: JOAQUIM VIEIRA
+    Tipo: R
+    Número: 5
+    Bairro: VL INDEPENDENCIA
+    Cidade: CARIACICA
+    Estado: ES
+    CEP: 29148-618
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: RUA RUA ITAPERUNA
+    Número: 30
+    Complemento: EDIFICIO SUN BEAC
+    Bairro: PR ITAPARICA
+    Estado: ES
+    CEP: 29102-110
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (27) 3286-9838
+Cidade de Nascimento: VITORIA - ES
+Cns: 704000304681161
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/12/2019
+    Mosaic New: D14
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: AV
+      Rua: FLORENTINO AVIDOS
+      Número: 404
+      Bairro: CENTRO
+      Cidade: VIANA
+      Estado: ES
+      CEP: 29130-065
+      Date Added: 16/11/2019
+    [2]
+      Tipo: R
+      Rua: JOAQUIM VIEIRA
+      Número: 5
+      Bairro: VL INDEPENDENCIA
+      Cidade: CARIACICA
+      Estado: ES
+      CEP: 29148-618
+      Date Added: 16/11/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998100763
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 148.117.417-73
+      Nome: LUIZ FELIPE FAVORETTI CAVATI
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 2456787781
+      Nome: MARILENE FAVORETTI
+      Vinculo: MAE
+    [3]
+      CPF: 128.571.157-25
+      Nome: ANATALIO FAVORETTI CAVATI
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 225.84
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (1 item(s))
+  - (27) 99810-0763
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 073.526.307-83
+    Nome: MARCELO ESTEVAO GARCIA
+    Logradouro: FLORENTINO AVIDOS
+    Número: 77
+    Bairro: CENTRO
+  [2]
+    CPF: 029.985.086-26
+    Nome: PATRICIA REGINA ALVES
+    Logradouro: FLORENTINO AVIDOS
+    Número: 200
+    Bairro: CENTRO
+  [3]
+    CPF: 078.848.587-38
+    Nome: GIULIANO LIRA TRANCOSO
+    Logradouro: FLORENTINO AVIDOS
+    Número: 480
+    Bairro: CENTRO
+  [4]
+    CPF: 009.655.557-20
+    Nome: CLAUDIA INES RAMPINELLI MORELLATO
+    Logradouro: FLORENTINO AVIDOS
+    Número: 165
+    Bairro: CENTRO
+  [5]
+    CPF: 129.164.567-59
+    Nome: ANA CAROLINA RODRIGUES BALESTRERO
+    Logradouro: FLORENTINO AVIDOS
+    Número: 3320
+    Bairro: CENTRO
+  [6]
+    CPF: 104.967.447-20
+    Nome: SIMONE MOREIRA DALBO
+    Logradouro: FLORENTINO AVIDOS
+    Número: 176
+    Bairro: CENTRO
+  [7]
+    CPF: 116.906.107-94
+    Nome: ANDRESSA GONCALVES OLIVEIRA DOS SANTOS
+    Logradouro: FLORENTINO AVIDOS
+    Número: 45
+    Bairro: CENTRO
+  [8]
+    CPF: 161.277.727-96
+    Nome: IGOR RODRIGUES DOS SANTOS
+    Logradouro: FLORENTINO AVIDOS
+    Número: 450
+    Bairro: CENTRO
+  [9]
+    CPF: 099.273.437-10
+    Nome: LEANDRO TEIXEIRA DE FREITAS
+    Logradouro: FLORENTINO AVIDOS
+    Número: 176
+    Bairro: CENTRO
+  [10]
+    CPF: 087.107.907-05
+    Nome: FERNANDA CHAGAS DA CONCEICAO
+    Logradouro: FLORENTINO AVIDOS
+    Número: 480
+    Bairro: CENTRO
+  [11]
+    CPF: 478.729.507-15
+    Nome: EUSTAQUIO CARVALHO WILD
+    Logradouro: FLORENTINO AVIDOS
+    Número: 1
+    Bairro: CENTRO
+  [12]
+    CPF: 731.758.897-00
+    Nome: ROSIMERE RANGEL NEVES
+    Logradouro: FLORENTINO AVIDOS
+    Número: 1
+    Bairro: CENTRO
+  [13]
+    CPF: 051.657.617-89
+    Nome: GUSTAVO SOUZA DE OLIVEIRA
+    Logradouro: FLORENTINO AVIDOS
+    Número: 414
+    Bairro: CENTRO
+  [14]
+    CPF: 105.901.857-80
+    Nome: JARIO SEBASTIAO FREIRE
+    Logradouro: FLORENTINO AVIDOS
+    Número: 236
+    Bairro: CENTRO
+  [15]
+    CPF: 125.804.677-69
+    Nome: ELIANE GOMES
+    Logradouro: FLORENTINO AVIDOS
+    Número: 320
+    Bairro: CENTRO
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (27) 99810-0763
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 10SEP2016
+    Ultima Recarga: 05AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 24/04/2015
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 225
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 225.84
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (27) 99810-0763
+    Ddd: 27
+    Número: 998100763
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

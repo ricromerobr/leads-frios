@@ -1,0 +1,327 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  62392488355
+Data/Hora:  03/10/2026, 22:59:55
+Tempo API:  687ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 623.924.883-55
+Nome: UENDEL VICTOR SILVA DOS SANTOS
+Primeiro Nome: UENDEL
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 24/06/2000
+Nome da Mãe: ESTELLA MARCIA DA SILVA
+Nome do Pai: EDCARLO BARBOSA SANTOS
+Score:
+  Value: 476
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 401
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: ADELIA MARIA DA SILVA
+  Número: 378
+  Bairro: FREI DAMIAO
+  Cidade: JUAZEIRO DO NORTE
+  Estado: CEARA
+  CEP: 63044-040
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ADELIA MARIA DA SILVA
+    Número: 378
+    Bairro: FREI DAMIAO
+    Cidade: JUAZEIRO DO NORTE
+    Estado: CEARA
+    CEP: 63044-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CORONEL NERY
+    Número: 456
+    Bairro: PIO XII
+    Cidade: JUAZEIRO DO NORTE - CE
+    Fonte: DATASUS
+  [3]
+    Rua: JOAQUIM CRUZ
+    Tipo: R
+    Número: 1026
+    Bairro: PEDRINHAS
+    Cidade: JUAZEIRO DO NORTE
+    Estado: CE
+    CEP: 63018-040
+    Data Atualizacao: 21/03/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MIGUEL
+    Tipo: R
+    Número: 14
+    Complemento: C
+    Bairro: S MIGUEL
+    Cidade: JUAZEIRO DO NORTE
+    Estado: CE
+    CEP: 63010-510
+    Data Atualizacao: 23/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: ADELIA MARIA DA SILVA
+    Número: 0000378
+    Bairro: FREI DAMIAO
+    Cidade: JUAZEIRO DO NORTE
+    Estado: CE
+    CEP: 63044-040
+    Fonte: ASSECC
+  [6]
+    Tipo: R
+    Rua: CORONEL NERY
+    Número: 0000654
+    Bairro: PIO XII
+    Cidade: JUAZEIRO DO NORTE
+    Estado: CE
+    CEP: 63020-330
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (88) 98117-5064
+  - (88) 98114-8634
+  - (88) 98133-0345
+  - (88) 98119-5632
+  - (88) 98102-9276
+  - (88) 98119-3815
+  - (88) 98153-0576
+  - (88) 99223-0862
+  - (88) 99362-7825
+Datasus Phones: (1 item(s))
+  - (34) 3841-3737
+Cidade de Nascimento: JUAZEIRO DO NORTE - CE
+Cns: 705209466075970
+Mte Data:
+  Nome: Uendel Victor Silva Dos Santos
+  Data de Nascimento: 24/06/2000
+  Nome da Mãe: Estella Marcia Da Silva
+  Endereço:
+    Rua: Joaquim Cruz
+    Número: 1026
+    Bairro: Pedrinhas
+    Cidade: Juazeiro Do Norte
+    Estado: CE
+    CEP: 63018-040
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/10/2019
+    Info Date: 18/02/2017
+    Mosaic New: D11
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAQUIM CRUZ
+      Número: 1026
+      Bairro: PEDRINHAS
+      Cidade: JUAZEIRO DO NORTE
+      Estado: CE
+      CEP: 63018-040
+      Date Added: 21/11/2018
+    [2]
+      Tipo: R
+      Rua: MIGUEL
+      Número: 14
+      Complemento: C
+      Bairro: S MIGUEL
+      Cidade: JUAZEIRO DO NORTE
+      Estado: CE
+      CEP: 63010-510
+      Date Added: 22/07/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 993627825
+      Ddd: 88
+      Tipo: 3
+      Classificacao: D1
+      Date Added: 21/03/2019
+  Score:
+    CSBA: 476
+    CSBA FAIXA: MEDIO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 401.83
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 999.240.213-04
+    Nome: MARCOS SOARES DA SILVA
+    Logradouro: JOAQUIM CRUZ
+    Número: 504
+    Bairro: PEDRINHAS
+  [2]
+    CPF: 002.591.493-65
+    Nome: DEBORA DANIELE SANTOS SILVA
+    Logradouro: JOAQUIM CRUZ
+    Número: 836
+    Bairro: PEDRINHAS
+  [3]
+    CPF: 049.574.483-29
+    Nome: LIRIALDO FERREIRA DOS SANTOS
+    Logradouro: JOAQUIM CRUZ
+    Número: 1160
+    Bairro: PEDRINHAS
+  [4]
+    CPF: 011.580.083-25
+    Nome: ZILMA DE SOUZA NOBRE
+    Logradouro: JOAQUIM CRUZ
+    Número: 629
+    Bairro: PEDRINHAS
+  [5]
+    CPF: 422.917.473-04
+    Nome: SEVERINA MARIA DE OLIVEIRA
+    Logradouro: JOAQUIM CRUZ
+    Número: 432
+    Bairro: PEDRINHAS
+  [6]
+    CPF: 046.560.073-58
+    Nome: ROMARIO ZACARIAS RAMOS
+    Logradouro: JOAQUIM CRUZ
+    Número: 821
+    Bairro: PEDRINHAS
+  [7]
+    CPF: 839.703.473-00
+    Nome: JOANA DARC RODRIGUES DA SILVA
+    Logradouro: JOAQUIM CRUZ
+    Número: 924
+    Bairro: PEDRINHAS
+  [8]
+    CPF: 291.368.223-53
+    Nome: CARLOS TENORIO DE CASTRO
+    Logradouro: JOAQUIM CRUZ
+    Número: 904
+    Bairro: PEDRINHAS
+  [9]
+    CPF: 215.160.223-00
+    Nome: BATISTA FERREIRA DA SILVA
+    Logradouro: JOAQUIM CRUZ
+    Número: 447
+    Bairro: PEDRINHAS
+  [10]
+    CPF: 010.713.683-03
+    Nome: MARIA VALDEIZA ZACARIAS DE AQUINO
+    Logradouro: JOAQUIM CRUZ
+    Número: 821
+    Bairro: PEDRINHAS
+  [11]
+    CPF: 600.793.873-57
+    Nome: JOEL ALVES DA SILVA
+    Logradouro: JOAQUIM CRUZ
+    Número: 657
+    Bairro: PEDRINHAS
+  [12]
+    CPF: 307.988.173-72
+    Nome: LUIZ QUIRINO DOS SANTOS
+    Logradouro: JOAQUIM CRUZ
+    Número: 981
+    Bairro: PEDRINHAS
+  [13]
+    CPF: 144.925.983-91
+    Nome: MARIA DO SOCORRO DE LUNA
+    Logradouro: JOAQUIM CRUZ
+    Número: 1161
+    Bairro: PEDRINHAS
+  [14]
+    CPF: 779.718.413-53
+    Nome: EDILSON SILVA NASCIMENTO
+    Logradouro: JOAQUIM CRUZ
+    Número: 836
+    Bairro: PEDRINHAS
+  [15]
+    CPF: 637.190.024-20
+    Nome: MARIA DILMA DE FATIMA DA SILVA
+    Logradouro: JOAQUIM CRUZ
+    Número: 805
+    Bairro: PEDRINHAS
+Telefones Assecc: (9 item(s))
+  [1]
+    Telefone: (88) 98119-3815
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [2]
+    Telefone: (88) 98133-0345
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [3]
+    Telefone: (88) 98102-9276
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [4]
+    Telefone: (88) 98114-8634
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [5]
+    Telefone: (88) 98117-5064
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [6]
+    Telefone: (88) 98119-5632
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [7]
+    Telefone: (88) 98153-0576
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [8]
+    Telefone: (88) 99223-0862
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+  [9]
+    Telefone: (88) 99362-7825
+    Nome: UENDEL VICTOR SILVA DOS SANTOS
+    Cidade: JUAZEIRO DO NORTE
+    UF: CE
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 401
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 401.83
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (88) 99362-7825
+    Ddd: 88
+    Número: 993627825
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: D1
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

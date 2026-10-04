@@ -1,0 +1,285 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05867136469
+Data/Hora:  03/10/2026, 22:12:38
+Tempo API:  691ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 058.671.364-69
+Nome: NATHALY TAVARES LEITE
+Primeiro Nome: NATHALY
+Sobrenome: LEITE
+Sexo: Feminino
+Data de Nascimento: 19/03/2001
+Nome da Mãe: ANDREIA TAVARES DA SILVA
+Mosaic: F22
+Score:
+  Value: 0
+  Range: ALTO
+E-mail: natalytavares407@gmail.com
+Additional Emails: (1 item(s))
+  - natalytavares407@gmail.com
+Federal Status: REGULAR
+Renda: 128.43
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: BOM JARDIM
+  Número: 525
+  Bairro: COHAB
+  Cidade: RECIFE
+  Estado: PERNAMBUCO
+  CEP: 51345-520
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BOM JARDIM
+    Número: 525
+    Bairro: COHAB
+    Cidade: RECIFE
+    Estado: PERNAMBUCO
+    CEP: 51345-520
+    Fonte: PRINCIPAL
+  [2]
+    Rua: REAL GRANDEZA
+    Tipo: R
+    Número: 546
+    Bairro: BOTAFOGO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22281-032
+    Data Atualizacao: 14/01/2020
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Tipo: [empty]
+    Rua: REAL GRANDEZA
+    Número: 0000546
+    Bairro: BOTAFOGO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22281-032
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (21) 98902-0879
+  - (21) 98779-2032
+  - (21) 95902-2321
+  - (81) 3428-2118
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/10/2019
+    Info Date: 09/07/2003
+    Mosaic: F22
+    Mosaic New: H29
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: BOM JARDIM
+      Número: 525
+      Bairro: JIQUIA
+      Cidade: RECIFE
+      Estado: PE
+      CEP: 50761-405
+      Date Added: 23/09/2019
+    [2]
+      Tipo: R
+      Rua: REAL GRANDEZA
+      Número: 546
+      Bairro: BOTAFOGO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22281-032
+      Date Added: 23/09/2019
+    [3]
+      Tipo: R
+      Rua: BOM JARDIM
+      Número: 525
+      Bairro: COHAB
+      Cidade: RECIFE
+      Estado: PE
+      CEP: 51345-520
+      Date Added: 28/08/2019
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 34282118
+      Ddd: 81
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 989020879
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/11/2019
+      Info Date: 25/10/2019
+  Score:
+    CSB8: 278
+    CSB8 FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ANDREIA TAVARES DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 128.43
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 007.767.404-90
+    Nome: VALERIA FERREIRA DE AMORIM
+    Logradouro: BOM JARDIM
+    Número: 227
+    Bairro: JIQUIA
+  [2]
+    CPF: 832.390.494-49
+    Nome: JADIEL HENRIQUE DA SILVA
+    Logradouro: BOM JARDIM
+    Número: 339
+    Bairro: JIQUIA
+  [3]
+    CPF: 031.669.124-01
+    Nome: OZANA DA SILVA BARROS
+    Logradouro: BOM JARDIM
+    Número: 385
+    Bairro: JIQUIA
+  [4]
+    CPF: 057.019.814-36
+    Nome: VALDENICE BATISTA DE LIMA
+    Logradouro: BOM JARDIM
+    Número: 363
+    Bairro: JIQUIA
+  [5]
+    CPF: 173.644.424-72
+    Nome: PAULO DANTAS DE OLIVEIRA
+    Logradouro: BOM JARDIM
+    Número: 357
+    Bairro: JIQUIA
+  [6]
+    CPF: 039.723.324-83
+    Nome: FABIANA BARBOSA DA SILVA
+    Logradouro: BOM JARDIM
+    Número: 519
+    Bairro: JIQUIA
+  [7]
+    CPF: 059.706.324-90
+    Nome: ALMIR RAMOS DE VERAS
+    Logradouro: BOM JARDIM
+    Número: 227
+    Bairro: JIQUIA
+  [8]
+    CPF: 071.845.094-98
+    Nome: TIAGO JOSE CUSTODIO
+    Logradouro: BOM JARDIM
+    Número: 377
+    Bairro: JIQUIA
+  [9]
+    CPF: 108.028.044-89
+    Nome: JOAO PAULO DE LIRA PEREIRA XAVIER
+    Logradouro: BOM JARDIM
+    Número: 351
+    Bairro: JIQUIA
+  [10]
+    CPF: 065.720.394-71
+    Nome: TACIANA GOMES DA SILVA
+    Logradouro: BOM JARDIM
+    Número: 345
+    Bairro: JIQUIA
+  [11]
+    CPF: 079.667.474-41
+    Nome: JULLYANE PAULA ALVES DE SANTANA
+    Logradouro: BOM JARDIM
+    Número: 219
+    Bairro: JIQUIA
+  [12]
+    CPF: 029.348.674-39
+    Nome: FLAVIA GOMES DA SILVA
+    Logradouro: BOM JARDIM
+    Número: 219
+    Bairro: JIQUIA
+  [13]
+    CPF: 090.059.884-01
+    Nome: SANDRA MARIA CAMPOS
+    Logradouro: BOM JARDIM
+    Número: 427
+    Bairro: JIQUIA
+  [14]
+    CPF: 464.512.184-72
+    Nome: GRACIETE DUARTE GITIRANA
+    Logradouro: BOM JARDIM
+    Número: 471
+    Bairro: JIQUIA
+  [15]
+    CPF: 096.227.634-05
+    Nome: CASSIO RODRIGO RODRIGUES GONCALVES
+    Logradouro: BOM JARDIM
+    Número: 309
+    Bairro: JIQUIA
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (21) 95902-2321
+    Nome: NATHALY TAVARES LEITE
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [2]
+    Telefone: (21) 98779-2032
+    Nome: NATHALY TAVARES LEITE
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [3]
+    Telefone: (21) 98902-0879
+    Nome: NATHALY TAVARES LEITE
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+E-mails: (1 item(s))
+  - natalytavares407@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 128.43
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 128.43
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (81) 3428-2118
+    Ddd: 81
+    Número: 34282118
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (21) 98902-0879
+    Ddd: 21
+    Número: 989020879
+    Tipo: 3
+    Data Inclusao: 06/11/2019
+    Data Informacao: 25/10/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

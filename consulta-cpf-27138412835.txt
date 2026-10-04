@@ -1,0 +1,422 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  27138412835
+Data/Hora:  04/10/2026, 10:27:39
+Tempo API:  414ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 271.384.128-35
+Nome: NESTOR RENATO DE OLIVEIRA
+Primeiro Nome: NESTOR
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 08/06/1957
+Nome da Mãe: MARIA APARECIDA DE OLIVEIRA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 97678466
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 022827730116
+Mosaic: D13
+Ocupação: Comerciante varejista
+Score:
+  Value: 23
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 2624
+Income Bracket: 3
+Cbo: 141410
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: JOSINO BRISOLA
+  Bairro: CENTRO
+  Cidade: ITAPEVA
+  Estado: SAO PAULO
+  CEP: 18400-150
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSINO BRISOLA
+    Bairro: CENTRO
+    Cidade: ITAPEVA
+    Estado: SAO PAULO
+    CEP: 18400-150
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CRISTIANO STROBEL
+    Número: 2251
+    Bairro: XAXIM
+    Cidade: CURITIBA - PR
+    Fonte: DATASUS
+  [3]
+    Rua: CRISTIANO STROBEL
+    Tipo: R
+    Número: 2251
+    Complemento: SOB 25
+    Bairro: BOQUEIRAO
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81750-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOSINO BRISOLA
+    Tipo: R
+    Número: 296
+    Bairro: CENTRO
+    Cidade: ITAPEVA
+    Estado: SP
+    CEP: 18400-150
+    Data Atualizacao: 29/07/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: MARIO PRANDINI
+    Tipo: R
+    Número: 439
+    Complemento: AP 1
+    Bairro: CENTRO
+    Cidade: ITAPEVA
+    Estado: SP
+    CEP: 18400-170
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: MARIO PRANDINI
+    Tipo: R
+    Número: 307
+    Bairro: CENTRO
+    Cidade: ITAPEVA
+    Estado: SP
+    CEP: 18400-170
+    Data Atualizacao: 10/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: CRESCENCIO VASCONCELOS
+    Tipo: R
+    Número: 167
+    Bairro: CENTRO
+    Cidade: ITAPEVA
+    Estado: SP
+    CEP: 18400-590
+    Data Atualizacao: 19/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Rua: JOSINO BRISOLA
+    Número: 296
+    Bairro: CENTRO
+    Estado: SP
+    CEP: 18400-150
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: VW
+      Modelo: POLO SEDAN 1.6 COMFOR
+      Ano: 2010
+Telefones: (7 item(s))
+  - (15) 99775-0268
+  - (41) 3027-8621
+  - 554196070732
+  - (41) 99607-0732
+  - (15) 99796-1043
+  - (15) 3344-2188
+  - (41) 99125-0239
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: CURITIBA - PR
+Cns: 704304584752294
+Rg Issue Date: 1026442800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/10/2019
+    Info Date: 13/02/2006
+    Mosaic: D13
+    Mosaic New: G22
+    Mosaic Secondary: E15
+    Income Bracket Id: 5
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CRISTIANO STROBEL
+      Número: 2251
+      Complemento: SOB 25
+      Bairro: BOQUEIRAO
+      Cidade: CURITIBA
+      Estado: PR
+      CEP: 81750-000
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: JOSINO BRISOLA
+      Número: 296
+      Bairro: CENTRO
+      Cidade: ITAPEVA
+      Estado: SP
+      CEP: 18400-150
+      Date Added: 19/09/2016
+    [3]
+      Tipo: R
+      Rua: MARIO PRANDINI
+      Número: 439
+      Complemento: AP 1
+      Bairro: CENTRO
+      Cidade: ITAPEVA
+      Estado: SP
+      CEP: 18400-170
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: MARIO PRANDINI
+      Número: 307
+      Bairro: CENTRO
+      Cidade: ITAPEVA
+      Estado: SP
+      CEP: 18400-170
+      Date Added: 03/04/2013
+    [5]
+      Tipo: R
+      Rua: CRESCENCIO VASCONCELOS
+      Número: 167
+      Bairro: CENTRO
+      Cidade: ITAPEVA
+      Estado: SP
+      CEP: 18400-590
+      Date Added: 15/12/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 996070732
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 13/02/2006
+    [2]
+      Telefone: 997961043
+      Ddd: 15
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 33442188
+      Ddd: 15
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/12/2014
+      Info Date: 28/08/2012
+    [4]
+      Telefone: 991250239
+      Ddd: 41
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 997750268
+      Ddd: 15
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  Score:
+    CSBA: 23
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA APARECIDA DE OLIVEIRA
+      Vinculo: MAE
+  Tse:
+    Titulo: 22827730116
+    Zona: 53
+    Secao: 46
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2624.86
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 046.959.789-54
+    Nome: NELSON CARVALHO JUNIOR
+    Logradouro: CRISTIANO STROBEL
+    Número: 3315
+    Bairro: BOQUEIRAO
+  [2]
+    CPF: 053.278.859-17
+    Nome: EVELYN CRISTIANE DA SILVA
+    Logradouro: CRISTIANO STROBEL
+    Número: 3179
+    Bairro: BOQUEIRAO
+  [3]
+    CPF: 043.718.059-06
+    Nome: MONICA CARRARO
+    Logradouro: CRISTIANO STROBEL
+    Número: 3451
+    Bairro: BOQUEIRAO
+  [4]
+    CPF: 042.509.449-99
+    Nome: CRISTIANE PYKOSZ HOLTHMAM
+    Logradouro: CRISTIANO STROBEL
+    Número: 3315
+    Bairro: BOQUEIRAO
+  [5]
+    CPF: 041.036.629-30
+    Nome: MARCELA AGUIAR MAYER
+    Logradouro: CRISTIANO STROBEL
+    Número: 2561
+    Bairro: BOQUEIRAO
+  [6]
+    CPF: 020.453.939-09
+    Nome: MILENE KAZUKO CRISTOFOLI
+    Logradouro: CRISTIANO STROBEL
+    Número: 3237
+    Bairro: BOQUEIRAO
+  [7]
+    CPF: 036.619.219-16
+    Nome: MARCIO ROBERTO BUTINHONI
+    Logradouro: CRISTIANO STROBEL
+    Número: 2319
+    Bairro: BOQUEIRAO
+  [8]
+    CPF: 036.384.439-22
+    Nome: LIZETE DE LOURDES RIBAS PEREIRA
+    Logradouro: CRISTIANO STROBEL
+    Número: 10033
+    Bairro: BOQUEIRAO
+  [9]
+    CPF: 035.567.859-43
+    Nome: MISAEL COELHO
+    Logradouro: CRISTIANO STROBEL
+    Número: 2251
+    Bairro: BOQUEIRAO
+  [10]
+    CPF: 027.223.329-30
+    Nome: GRACIELLE LEAO SILVA JOSE
+    Logradouro: CRISTIANO STROBEL
+    Número: 3295
+    Bairro: BOQUEIRAO
+  [11]
+    CPF: 058.590.669-61
+    Nome: TAMIREZ FERREIRA DOS SANTOS
+    Logradouro: CRISTIANO STROBEL
+    Número: 3225
+    Bairro: BOQUEIRAO
+  [12]
+    CPF: 020.417.579-81
+    Nome: FABIO WIECHETEK
+    Logradouro: CRISTIANO STROBEL
+    Número: 3105
+    Bairro: BOQUEIRAO
+  [13]
+    CPF: 020.303.319-10
+    Nome: LEANDRO DE ALMEIDA NOVAK
+    Logradouro: CRISTIANO STROBEL
+    Número: 3333
+    Bairro: BOQUEIRAO
+  [14]
+    CPF: 019.954.019-51
+    Nome: ISIS FERNANDA DE CARVALHO
+    Logradouro: CRISTIANO STROBEL
+    Número: 3225
+    Bairro: BOQUEIRAO
+  [15]
+    CPF: 061.807.979-35
+    Nome: JANETE MARIA CICARELLO PUPO
+    Logradouro: CRISTIANO STROBEL
+    Número: 3155
+    Bairro: BOQUEIRAO
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (41) 3027-8621
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: WLL
+    Data Ativacao: 08APR2005:00:00:00
+    Cel Contato: +554196070732
+    Complemento: SOB 25
+    Data Retirada: 15DEC2005:15:53:28
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (15) 99775-0268
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 10MAY2010
+    Ultima Recarga: 11SEP2020
+    Telefone Anterior: (15) 9775-0268
+    Plano: PF_PRE_PURO
+    Data Instalacao: 16/03/2010
+E-mail: agrariaverde@itelefonica.com.br
+Additional Emails: (1 item(s))
+  - agrariaverde@itelefonica.com.br
+E-mails: (1 item(s))
+  - agrariaverde@itelefonica.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2624
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2624.86
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (41) 99607-0732
+    Ddd: 41
+    Número: 996070732
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 13/02/2006
+    Classificacao: D
+  [2]
+    Telefone: (15) 99796-1043
+    Ddd: 15
+    Número: 997961043
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (15) 3344-2188
+    Ddd: 15
+    Número: 33442188
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 28/08/2012
+    Classificacao: D2
+  [4]
+    Telefone: (41) 99125-0239
+    Ddd: 41
+    Número: 991250239
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: C2
+  [5]
+    Telefone: (15) 99775-0268
+    Ddd: 15
+    Número: 997750268
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Occupation Code: 141410
+Occupation Name: Comerciante varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,305 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  29198615300
+Data/Hora:  04/10/2026, 09:21:25
+Tempo API:  570ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 291.986.153-00
+Nome: BERNARDO DE SOUSA MONTELES
+Primeiro Nome: BERNARDO
+Sobrenome: MONTELES
+Sexo: Masculino
+Data de Nascimento: 30/01/1967
+Nome da Mãe: LUIZA DE SOUSA MONTELES
+Nome do Pai: LEONARDO DE SOUSA MONTELES
+Voter Id: 006746591147
+Mosaic: I32
+Ocupação: Estivador
+Score:
+  Value: 910
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 1035
+Income Bracket: 2
+Cbo: 783220
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MEDICI
+  Bairro: CENTRO
+  Cidade: ANAPURUS
+  Estado: MARANHAO
+  CEP: 65525-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MEDICI
+    Bairro: CENTRO
+    Cidade: ANAPURUS
+    Estado: MARANHAO
+    CEP: 65525-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MADALENA MONTELES
+    Número: S/N
+    Bairro: SANTO ANTONIO
+    Cidade: ANAPURUS - MA
+    Fonte: DATASUS
+  [3]
+    Rua: MEDICI
+    Tipo: AV
+    Número: SN
+    Bairro: CENTRO
+    Cidade: ANAPURUS
+    Estado: MA
+    CEP: 65525-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Tipo: TV
+    Rua: FELIZ
+    Número: 0000157
+    Bairro: CENTRO
+    Cidade: SAO LUIS
+    Estado: MA
+    CEP: 65010-210
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (98) 3481-1162
+Cidade de Nascimento: ANAPURUS - MA
+Cns: 704709753674431
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 15/12/2019
+    Info Date: 04/03/2005
+    Mosaic: I32
+    Mosaic New: G24
+    Mosaic Secondary: H29
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: AV
+      Rua: MEDICI
+      Número: SN
+      Bairro: CENTRO
+      Cidade: ANAPURUS
+      Estado: MA
+      CEP: 65525-000
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: MADALENA MONTELES
+      Número: SN
+      Cidade: ANAPURUS
+      Estado: MA
+      CEP: 65525-000
+      Date Added: 15/08/2006
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32211455
+      Ddd: 98
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 34811422
+      Ddd: 98
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+    [3]
+      Telefone: 34811766
+      Ddd: 98
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 10/07/2014
+      Info Date: 09/06/2014
+    [4]
+      Telefone: 984096149
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+  Score:
+    CSB8: 679
+    CSB8 FAIXA: BAIXO
+    CSBA: 910
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LUIZA DE SOUSA MONTELES
+      Vinculo: MAE
+  Tse:
+    Titulo: 6746591147
+    Zona: 24
+    Secao: 6
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1035.34
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (5 item(s))
+  - (98) 98409-6149
+  - (98) 98501-6861
+  - (98) 3221-1455
+  - (98) 3481-1422
+  - (98) 3481-1766
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 033.605.333-99
+    Nome: JOSE DE RIBAMAR FERREIRA DA CONCEICAO
+    Logradouro: GIBOIA
+    Número: SN
+    Bairro: ZONA RURAL
+  [2]
+    CPF: 208.062.213-72
+    Nome: MARIA DAGUIMAR HENRIQUE ALVES MENDES
+    Logradouro: NEWTON BELLO
+    Número: 441
+    Bairro: CENTRO
+  [3]
+    CPF: 042.254.143-53
+    Nome: ISIDORO PIRES MONTELES
+    Logradouro: MEDICI
+    Número: 683
+  [4]
+    CPF: 040.351.003-15
+    Nome: LIDIO FERREIRA MELO FILHO
+    Logradouro: MA DUZENTOS TRINTA 1
+    Bairro: CENTRO
+  [5]
+    CPF: 008.051.683-11
+    Nome: FRANCISCO FERREIRA CHAVES NETO
+    Logradouro: JOAO FRANCISCO MONTEL
+    Número: 357
+    Bairro: CENTRO
+  [6]
+    CPF: 009.850.783-40
+    Nome: SEILES REGEIS MONTELES AGUIAR
+    Logradouro: MARIA PIRES LEITE
+    Número: 931
+    Bairro: CENTRO
+  [7]
+    CPF: 505.483.013-87
+    Nome: JOSE ALVES MONTELES
+    Logradouro: MADALENA MONTELES
+    Número: SN
+    Bairro: CENTRO
+  [8]
+    CPF: 017.560.533-59
+    Nome: ANTONIO ALVES DE ALMEIDA
+    Logradouro: DA INDUSTRIA
+    Número: 2
+  [9]
+    CPF: 064.003.293-15
+    Nome: MARIA DE JESUS VIEIRA DE CARVALHO
+    Logradouro: NUNES FREIRE
+    Número: 8
+    Bairro: CENTRO
+  [10]
+    CPF: 021.187.793-05
+    Nome: VERA LUCIA DOS SANTOS MARQUES
+    Logradouro: INDUSTRIA
+    Número: SN
+  [11]
+    CPF: 015.931.843-28
+    Nome: PEDRO RODRIGUES DE SOUZA
+    Logradouro: DA INDUSTRIA
+    Número: SN
+  [12]
+    CPF: 449.893.343-53
+    Nome: FRANCINALDO TEIXEIRA DA SILVA
+    Logradouro: PRES MEDICI
+    Número: 1
+    Bairro: CENTRO
+  [13]
+    CPF: 012.795.823-16
+    Nome: SANDRA MARIA SANTOS NASCIMENTO
+    Logradouro: MOURA
+    Número: SN
+  [14]
+    CPF: 062.193.223-04
+    Nome: MANOEL CARVALHO MONTELES
+    Logradouro: JOAO FRANCISCO MONTELES
+    Número: 597
+    Bairro: CENTRO
+  [15]
+    CPF: 011.988.053-90
+    Nome: JOSE DOS MILAGRES DOS SANTOS FERREIRA
+    Logradouro: DA INDUSTRIA
+    Número: 53
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (98) 98409-6149
+    Nome: BERNARDO DE SOUSA MONTELES
+    Cidade: SAO LUIS
+    UF: MA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (98) 98501-6861
+    Nome: BERNARDO DE SOUSA MONTELES
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1035
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1035.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (98) 3221-1455
+    Ddd: 98
+    Número: 32211455
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Classificacao: D2
+  [2]
+    Telefone: (98) 3481-1422
+    Ddd: 98
+    Número: 34811422
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Classificacao: D
+  [3]
+    Telefone: (98) 3481-1766
+    Ddd: 98
+    Número: 34811766
+    Tipo: FIXO
+    Data Inclusao: 10/07/2014
+    Data Informacao: 09/06/2014
+    Classificacao: D2
+  [4]
+    Telefone: (98) 98409-6149
+    Ddd: 98
+    Número: 984096149
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+Occupation Code: 783220
+Occupation Name: Estivador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

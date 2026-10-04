@@ -1,0 +1,252 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  45053350892
+Data/Hora:  03/10/2026, 23:32:35
+Tempo API:  815ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 450.533.508-92
+Nome: HIGOR AUGUSTO TORRECILIA DOS SANTOS
+Primeiro Nome: HIGOR
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 25/10/1997
+Nome da Mãe: MARIA HELENA TORRECILIA MANOEL SANTOS
+Ocupação: Soldado da polícia militar
+Score:
+  Value: 193
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 677
+Income Bracket: 1
+Cbo: 10310
+Corporate Share Pct: 100
+Endereço:
+  Tipo: AVENIDA
+  Rua: CINDERELA
+  Número: 1
+  Bairro: JARDIM GURILANDIA
+  Cidade: TAUBATE
+  Estado: SAO PAULO
+  CEP: 12071-500
+All Addresses: (3 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: CINDERELA
+    Número: 1
+    Bairro: JARDIM GURILANDIA
+    Cidade: TAUBATE
+    Estado: SAO PAULO
+    CEP: 12071-500
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE ALVARENGA ORTIZ
+    Tipo: R
+    Número: 28
+    Complemento: BL 2 LUA 34
+    Bairro: VL ALBINA
+    Cidade: TAUBATE
+    Estado: SP
+    CEP: 12052-400
+    Data Atualizacao: 25/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: [empty]
+    Rua: CINDERELA
+    Número: 0002470
+    Bairro: JARDIM GURILANDIA
+    Cidade: TAUBATE
+    Estado: SP
+    CEP: 01207-100
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (12) 98217-8314
+  - (12) 99600-3813
+  - (12) 99127-1496
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 13/08/2019
+    Mosaic New: G23
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE ALVARENGA ORTIZ
+      Número: 28
+      Complemento: BL 2 LUA 34
+      Bairro: VL ALBINA
+      Cidade: TAUBATE
+      Estado: SP
+      CEP: 12052-400
+      Date Added: 30/05/2017
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 991271496
+      Ddd: 12
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 10/07/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: higor.biaah@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+  Score:
+    CSB8: 495
+    CSB8 FAIXA: MEDIO
+    CSBA: 193
+    CSBA FAIXA: ALTISSIMO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 407.27
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - higor.biaah@gmail.com
+E-mail: higor.biaah@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 418.477.738-42
+    Nome: LUCAS FABIANO BONANI
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 76
+    Bairro: VL ALBINA
+  [2]
+    CPF: 122.022.298-41
+    Nome: SELMA APARECIDA DOS SANTOS DE SIQUEIRA
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 123
+    Bairro: VL ALBINA
+  [3]
+    CPF: 103.957.937-00
+    Nome: TATIANA COELHO DE SOUZA
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 3
+    Bairro: VL ALBINA
+  [4]
+    CPF: 929.035.928-53
+    Nome: BENEDITO ODAIR DUQUES PIRES
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 196
+    Bairro: VL ALBINA
+  [5]
+    CPF: 191.547.508-22
+    Nome: EDVALDO DE OLIVEIRA
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 108
+    Bairro: VL ALBINA
+  [6]
+    CPF: 426.870.258-01
+    Nome: ADRIELE SANTOS DE MARES GONCALVES COELHO
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 104
+    Bairro: VL ALBINA
+  [7]
+    CPF: 368.632.698-13
+    Nome: JEFERSON LEANDRO DOS SANTOS
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 155
+    Bairro: VL ALBINA
+  [8]
+    CPF: 329.576.808-07
+    Nome: ELISABETE ALVES DOS SANTOS
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 36
+    Bairro: VL ALBINA
+  [9]
+    CPF: 138.391.028-63
+    Nome: IVANA CRISTINA VICTORINO DUARTE
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 22
+    Bairro: VL ALBINA
+  [10]
+    CPF: 373.938.608-80
+    Nome: SHEILA SOUZA DE CAMPOS
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 54
+    Bairro: VL ALBINA
+  [11]
+    CPF: 122.064.398-08
+    Nome: ANA ISABEL DE JESUS SANTOS
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 132
+    Bairro: VL ALBINA
+  [12]
+    CPF: 269.567.438-41
+    Nome: ADRIANA CONCEICAO FARIA
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 169
+    Bairro: VL ALBINA
+  [13]
+    CPF: 812.791.401-00
+    Nome: ALVARO XIMENES DE OLIVEIRA
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 80
+    Bairro: VL ALBINA
+  [14]
+    CPF: 122.129.168-84
+    Nome: IVANA ALVES
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 137
+    Bairro: VL ALBINA
+  [15]
+    CPF: 290.561.128-64
+    Nome: CRISTIANE MARCONDES MOREIRA
+    Logradouro: JOSE ALVARENGA ORTIZ
+    Número: 149
+    Bairro: VL ALBINA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (12) 99600-3813
+    Nome: HIGOR AUGUSTO TORRECILIA DOS SANTOS
+    Cidade: TAUBATE
+    UF: SP
+E-mails: (1 item(s))
+  - higor.biaah@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 677
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 407.27
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (12) 99127-1496
+    Ddd: 12
+    Número: 991271496
+    Tipo: 3
+    Data Inclusao: 10/07/2019
+    Classificacao: A0
+Occupation Code: 21210
+Occupation Name: Soldado da polícia militar
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

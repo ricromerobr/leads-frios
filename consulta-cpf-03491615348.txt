@@ -1,0 +1,330 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03491615348
+Data/Hora:  03/10/2026, 16:33:38
+Tempo API:  562ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 034.916.153-48
+Nome: RENATA DA SILVA ALVES
+Primeiro Nome: RENATA
+Sobrenome: ALVES
+Sexo: Feminino
+Data de Nascimento: 06/12/1991
+Nome da Mãe: MARIA DAS GRACAS ALVES SILVA
+RG: 3192602
+Rg Issuer: SSP
+Voter Id: 038817811503
+Mosaic: J37
+Score:
+  Value: 740
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 927
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: DA ESPERANCA
+  Número: 5
+  Bairro: CRISTO REDENTOR
+  Cidade: ESPERANTINA
+  Estado: PIAUI
+  CEP: 64180-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DA ESPERANCA
+    Número: 5
+    Bairro: CRISTO REDENTOR
+    Cidade: ESPERANTINA
+    Estado: PIAUI
+    CEP: 64180-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: TODOS OS SANTOS
+    Tipo: CJ
+    Número: 2000
+    Complemento: Q C 24
+    Bairro: S SEBASTIAO
+    Cidade: TERESINA
+    Estado: PI
+    CEP: 64085-300
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: DA ESPERANCA
+    Tipo: R
+    Número: SN
+    Complemento: Q 11 C 5
+    Bairro: CRISTO REDENTOR
+    Cidade: ESPERANTINA
+    Estado: PI
+    CEP: 64180-000
+    Data Atualizacao: 01/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: DA ESPERANCA
+    Número: 0000005
+    Bairro: CRISTO REDENTOR
+    Cidade: ESPERANTINA
+    Estado: PI
+    CEP: 64180-000
+    Fonte: ASSECC
+  [5]
+    Tipo: R
+    Rua: CORONEL PATIOTINO LAGES
+    Número: 0000488
+    Bairro: CENTRO
+    Cidade: ESPERANTINA
+    Estado: PI
+    CEP: 64180-000
+    Fonte: ASSECC
+  [6]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (86) 99969-2268
+  - (86) 98169-4610
+  - (86) 99477-9044
+  - (86) 98114-3366
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Rg Issuer: SSP
+    Mosaic: J37
+    Mosaic New: J33
+    Mosaic Secondary: K38
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Rua: DA ESPERANCA
+      Número: 5
+      Complemento: Q 11
+      Bairro: CRISTO REDENTOR
+      Cidade: ESPERANTINA
+      Estado: PI
+      CEP: 64180-000
+      Date Added: 24/02/2015
+    [2]
+      Tipo: CJ
+      Rua: TODOS OS SANTOS
+      Número: 2000
+      Complemento: Q C 24
+      Bairro: S SEBASTIAO
+      Cidade: TERESINA
+      Estado: PI
+      CEP: 64085-300
+      Date Added: 13/02/2013
+    [3]
+      Tipo: R
+      Rua: DA ESPERANCA
+      Número: SN
+      Complemento: Q 11 C 5
+      Bairro: CRISTO REDENTOR
+      Cidade: ESPERANTINA
+      Estado: PI
+      CEP: 64180-000
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 981694610
+      Ddd: 86
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [2]
+      Telefone: 994779044
+      Ddd: 86
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [3]
+      Telefone: 981143366
+      Ddd: 86
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSB8: 440
+    CSB8 FAIXA: MEDIO
+    CSBA: 740
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DAS GRACAS ALVES SILVA
+      Vinculo: MAE
+  Tse:
+    Titulo: 38817811503
+    Zona: 41
+    Secao: 108
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 927.34
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 031.216.943-40
+    Nome: MARIA CILENE OLIVEIRA RODRIGUES
+    Logradouro: ADEMAR DE SOUSA CARVALHO
+    Número: 557
+    Bairro: CARRASPANHA
+  [2]
+    CPF: 012.443.993-45
+    Nome: JOSE DEODALDO DE SOUSA
+    Logradouro: BERNARDO R AGUIAR II
+    Número: 1
+    Bairro: CENTRO
+  [3]
+    CPF: 051.852.033-15
+    Nome: JOAO BATISTA ALVES
+    Logradouro: LANDRI SALES
+    Número: SN
+    Bairro: COHEB
+  [4]
+    CPF: 133.680.953-15
+    Nome: JOSE ARAUJO CERQUEIRA
+    Logradouro: LEONEL PEREIRA DA SILVA
+    Número: 702
+    Bairro: MRO DA ONCA
+  [5]
+    CPF: 131.904.153-15
+    Nome: JOAO ONOFRE MAGALHAES
+    Logradouro: DEODORO
+    Número: 578
+    Bairro: CENTRO
+  [6]
+    CPF: 481.938.793-68
+    Nome: JOVITA QUARESMA DE CARVALHO
+    Logradouro: MEIRE FERNANDES DE CARVA
+    Número: 372
+    Bairro: ZONA URBANA
+  [7]
+    CPF: 015.921.123-90
+    Nome: FRANCISCA DAS CHAGAS ANANIAS OLIVEIRA
+    Logradouro: CANTO DAVELHA
+    Número: 147
+    Bairro: CANTO DAVELHA
+  [8]
+    CPF: 043.687.643-40
+    Nome: REGINALDO OLIVEIRA SANTOS
+    Logradouro: DOMINGOS MOREIRA
+    Número: 347
+    Bairro: BAIRRO CENTRO
+  [9]
+    CPF: 002.567.193-65
+    Nome: NAINARA CASTRO VIEIRA DA SILVA
+    Logradouro: ARAUJO BEZERRO
+    Número: 101
+    Bairro: RURAL
+  [10]
+    CPF: 027.928.823-95
+    Nome: CARLOS AUGUSTO ALVES
+    Logradouro: PROJ
+    Número: 37251
+    Bairro: ZONA URBANA
+  [11]
+    CPF: 027.955.893-70
+    Nome: MARIA DA CONCEICAO SOARES
+    Logradouro: DAVID CALDAS
+    Número: 47
+    Bairro: BAIRRO CENTRO
+  [12]
+    CPF: 045.691.693-84
+    Nome: LUCIANA SILVA CASTRO
+    Logradouro: CJBERNARDO REGO
+    Número: 8
+    Bairro: NOVO MILENIO
+  [13]
+    CPF: 055.532.853-80
+    Nome: MARIA LIDUINA DE SOUSA
+    Logradouro: DOIS C
+    Número: 2
+    Bairro: BERNARDO REGO
+  [14]
+    CPF: 015.921.003-84
+    Nome: PEDRO ARAUJO GOMES
+    Logradouro: SANTOS DUMONT
+    Número: 260
+    Bairro: CENTRO
+  [15]
+    CPF: 015.921.003-84
+    Nome: PEDRO ARAUJO GOMES
+    Logradouro: PATRIOTINO LAGES
+    Número: 488
+    Bairro: CENTRO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (86) 99969-2268
+    Nome: RENATA DA SILVA ALVES
+    Cidade: ESPERANTINA
+    UF: PI
+  [2]
+    Telefone: (86) 99477-9044
+    Nome: RENATA DA SILVA ALVES
+    Cidade: ESPERANTINA
+    UF: PI
+  [3]
+    Telefone: (86) 98169-4610
+    Nome: RENATA DA SILVA ALVES
+    Cidade: ESPERANTINA
+    UF: PI
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (86) 99969-2268
+    Nome: RENATA DA SILVA ALVES
+    Operadora: TIM - Celular
+    Fonte: br21m
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 927
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 927.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (86) 98169-4610
+    Ddd: 86
+    Número: 981694610
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [2]
+    Telefone: (86) 99477-9044
+    Ddd: 86
+    Número: 994779044
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (86) 98114-3366
+    Ddd: 86
+    Número: 981143366
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

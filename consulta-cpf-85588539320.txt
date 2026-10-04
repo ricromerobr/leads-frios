@@ -1,0 +1,357 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  85588539320
+Data/Hora:  02/10/2026, 16:53:03
+Tempo API:  943ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 855.885.393-20
+Nome: MARIA AUDIZIA DE OLIVEIRA MARTINS CAVALCANTE
+Primeiro Nome: MARIA
+Sobrenome: CAVALCANTE
+Sexo: Feminino
+Data de Nascimento: 27/01/1981
+Nome da Mãe: CECILIA DE OLIVEIRA MARTINS
+Nome do Pai: CARLOS ALBERTO MARTINS
+RG: 319567897
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: CE
+Voter Id: 049305550779
+Mosaic: J36
+Ocupação: Administrador
+Score:
+  Value: 824
+  Range: BAIXISSIMO RISCO
+E-mail: MAGNOLIA.BEZERRA@BOL.COM.BR
+Federal Status: REGULAR
+Renda: 1837
+Income Bracket: 2
+Cbo: 252105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO FILGUEIRAS
+  Número: 829
+  Bairro: JUATAMA
+  Cidade: JUATAMA
+  Estado: CEARA
+  CEP: 63910-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO FILGUEIRAS
+    Número: 829
+    Bairro: JUATAMA
+    Cidade: JUATAMA
+    Estado: CEARA
+    CEP: 63910-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JUATAMA
+    Número: S/N
+    Bairro: JUATAMA
+    Cidade: QUIXADA - CE
+    Fonte: DATASUS
+  [3]
+    Rua: PEDRO FILGUEIRAS
+    Tipo: R
+    Número: SN
+    Bairro: CENTRO
+    Cidade: JUATAMA
+    Estado: CE
+    CEP: 63910-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: PEDRO AMARO
+    Tipo: R
+    Número: 845
+    Bairro: IRAJA
+    Cidade: QUIXADA
+    Estado: CE
+    CEP: 63908-030
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: FORTALEZA - CE
+Cns: 706707591666816
+Rg Issue Date: 858826800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/10/2019
+    Mosaic: J36
+    Mosaic New: G24
+    Mosaic Secondary: H27
+    Income Bracket Id: 3
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: PEDRO FILGUEIRAS
+      Número: 829
+      Bairro: JUATAMA
+      Cidade: JUATAMA
+      Estado: CE
+      CEP: 63910-000
+      Date Added: 21/11/2016
+    [2]
+      Tipo: R
+      Rua: PEDRO FILGUEIRAS
+      Número: SN
+      Bairro: CENTRO
+      Cidade: JUATAMA
+      Estado: CE
+      CEP: 63910-000
+      Date Added: 25/08/2016
+    [3]
+      Tipo: R
+      Rua: PEDRO AMARO
+      Número: 845
+      Bairro: IRAJA
+      Cidade: QUIXADA
+      Estado: CE
+      CEP: 63908-030
+      Date Added: 06/08/2010
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 38120764
+      Ddd: 88
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 06/08/2010
+    [2]
+      Telefone: 34512049
+      Ddd: 88
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 30/03/2011
+    [3]
+      Telefone: 999278775
+      Ddd: 88
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/09/2014
+    [4]
+      Telefone: 999278712
+      Ddd: 88
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 03/09/2014
+  E-mails: (3 item(s))
+    [1]
+      E-mail: audiziamartins@bol.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [2]
+      E-mail: magnolia.bezerra@bol.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [3]
+      E-mail: davi_bandeira@sgs.com
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 06/05/2017
+  Score:
+    CSB8: 496
+    CSB8 FAIXA: MEDIO
+    CSBA: 824
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 480.592.853-00
+      Nome: CECILIA DE OLIVEIRA MARTINS
+      Vinculo: MAE
+    [2]
+      CPF: 898.797.593-20
+      Nome: JOSE ARNOLDO DE OLIVEIRA MARTINS
+      Vinculo: IRMA(O)
+  Tse:
+    Titulo: 49305550779
+    Zona: 6
+    Secao: 204
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1837.07
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Telefones: (4 item(s))
+  - (88) 3812-0764
+  - (88) 3451-2049
+  - (88) 99927-8775
+  - (88) 99927-8712
+Additional Emails: (3 item(s))
+  - audiziamartins@bol.com.br
+  - magnolia.bezerra@bol.com.br
+  - davi_bandeira@sgs.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 502.564.753-34
+    Nome: CESAR BEZERRA FREIRE
+    Logradouro: FRANCISCO MOREIRA DE SOUSA
+    Número: 1075
+    Bairro: JUATAMA
+  [2]
+    CPF: 485.235.003-59
+    Nome: ANTONIO TRAJANO DE SOUSA
+    Logradouro: FRANCISCO MOREIRA
+    Número: 1081
+  [3]
+    CPF: 021.486.273-92
+    Nome: MANOEL ARTEMIR DA COSTA SOARES JUNIOR
+    Logradouro: FRANCISCO MOREIRA DE SOUSA
+    Número: 1180
+    Bairro: CENTRO
+  [4]
+    CPF: 425.873.953-72
+    Nome: SANDRA JANETE DE SOUSA SOBRAL
+    Logradouro: PEDRO FILGUEIRAS
+    Número: 1044
+    Bairro: CENTRO
+  [5]
+    CPF: 065.407.983-85
+    Nome: JEFFERSON DA SILVA CLAUDINO
+    Logradouro: FRANCISCO MOREIRA DE SOUSA
+    Número: 1826
+    Bairro: JUATAMA
+  [6]
+    CPF: 740.814.703-91
+    Nome: FRANCISCO ROGERIO DA SILVA BEZERRA
+    Logradouro: NOVO JUATAMA
+    Número: SN
+    Bairro: JUATAMA
+  [7]
+    CPF: 379.199.033-00
+    Nome: NUBIA FERREIRA FREIRE
+    Logradouro: FRANCISCO MOREIRA DE SOUSA
+    Número: 1180
+    Bairro: CENTRO
+  [8]
+    CPF: 021.449.833-64
+    Nome: PATRICIA FERNANDES BANDEIRA
+    Logradouro: JOAQUIM BARBOSA
+    Número: 239
+    Bairro: CENTRO
+  [9]
+    CPF: 034.749.023-93
+    Nome: ANTONIO ALANO DUTRA DE SOUSA
+    Logradouro: FRANCISCO MOREIRA DE SOUSA
+    Número: 8
+    Bairro: DT JUATAM
+  [10]
+    CPF: 513.441.733-49
+    Nome: MARIA ZILDECI ARRUDA BEZERRA
+    Logradouro: PEDRO FILGUEIRAS
+    Número: 763
+    Bairro: CENTRO
+  [11]
+    CPF: 620.536.873-04
+    Nome: FABIANA DE SOUZA AMORIM
+    Logradouro: JOAQUIM BARBOSA
+    Número: 456
+    Bairro: CENTRO
+  [12]
+    CPF: 067.505.863-50
+    Nome: RAIANE NASCIMENTO SILVA
+    Logradouro: RAIMUNDO PEIXOTO
+    Número: 371
+    Bairro: CENTRO
+  [13]
+    CPF: 114.896.343-04
+    Nome: ROBERTO QUEIROZ LOPES
+    Logradouro: PEDRO FILGUEIRAS
+    Número: 887
+    Bairro: CENTRO
+  [14]
+    CPF: 874.901.293-20
+    Nome: SANDRA MARIA LIMA DE OLIVEIRA
+    Logradouro: JOAQUI MEDEIROS
+    Número: 3101
+  [15]
+    CPF: 438.320.753-72
+    Nome: MARIA DO SOCORRO DE SOUSA
+    Logradouro: PEDRO FILGUEIRAS
+    Número: 878
+    Bairro: JUATAMA
+E-mails: (3 item(s))
+  - magnolia.bezerra@bol.com.br
+  - audiziamartins@bol.com.br
+  - davi_bandeira@sgs.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1837
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1837.07
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (88) 3812-0764
+    Ddd: 88
+    Número: 38120764
+    Tipo: FIXO
+    Data Inclusao: 06/08/2010
+    Classificacao: D2
+  [2]
+    Telefone: (88) 3451-2049
+    Ddd: 88
+    Número: 34512049
+    Tipo: FIXO
+    Data Inclusao: 30/03/2011
+    Classificacao: D2
+  [3]
+    Telefone: (88) 99927-8775
+    Ddd: 88
+    Número: 999278775
+    Tipo: 3
+    Data Inclusao: 04/09/2014
+    Classificacao: D
+  [4]
+    Telefone: (88) 99927-8712
+    Ddd: 88
+    Número: 999278712
+    Tipo: 3
+    Data Inclusao: 03/09/2014
+    Classificacao: A0
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

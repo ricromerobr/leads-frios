@@ -1,0 +1,282 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05687178309
+Data/Hora:  03/10/2026, 20:10:32
+Tempo API:  366ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 056.871.783-09
+Nome: CARLESSANDRO BOAVENTURA DA SILVA SANTOS
+Primeiro Nome: CARLESSANDRO
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 04/02/1995
+Nome da Mãe: ANA LUCIA VIEIRA DA SILVA
+Ocupação: Operador de telemarketing ativo e receptivo
+Score:
+  Value: 569
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 903
+Income Bracket: 1
+Cbo: 422310
+Endereço:
+  Tipo: RUA
+  Rua: RUI BARBOSA
+  Bairro: CENTRO
+  Cidade: TERESINA
+  Estado: PIAUI
+  CEP: 64000-090
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: RUI BARBOSA
+    Bairro: CENTRO
+    Cidade: TERESINA
+    Estado: PIAUI
+    CEP: 64000-090
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RENASCENCA II
+    Tipo: CJ
+    Número: 5963
+    Complemento: Q F VL PARIS
+    Bairro: RENASCENCA
+    Cidade: TERESINA
+    Estado: PI
+    CEP: 64082-550
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: ILCE MARINHO
+    Tipo: R
+    Número: 350
+    Complemento: AP 301
+    Bairro: CAPIM MACIO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59082-280
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (86) 98816-2886
+  - +55 (86) 98816-2886
+  - (86) 99433-7143
+Paycom:
+  E-mail: carle.maria33@gmail.com
+  Data de Nascimento: 01/01/1990
+  Created At: 2018-04-16 08:43:47
+E-mail: carle.maria33@gmail.com
+Additional Emails: (1 item(s))
+  - carle.maria33@gmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Conjunto Renascença II
+    Número: 5963
+    Bairro: Renascença
+    Cidade: Teresina
+    Estado: Piauí
+    País: BRA
+    CEP: 64082-550
+    Telephone: +55 (86) 98816-2886
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 31/12/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: CJ
+      Rua: RENASCENCA II
+      Número: 5963
+      Complemento: Q F VL PARIS
+      Bairro: RENASCENCA
+      Cidade: TERESINA
+      Estado: PI
+      CEP: 64082-550
+      Date Added: 13/02/2013
+    [2]
+      Tipo: R
+      Rua: ILCE MARINHO
+      Número: 350
+      Complemento: AP 301
+      Bairro: CAPIM MACIO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59082-280
+      Date Added: 09/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 994337143
+      Ddd: 86
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [2]
+      Telefone: 988162886
+      Ddd: 86
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 10/10/2018
+  Score:
+    CSB8: 271
+    CSB8 FAIXA: ALTO
+    CSBA: 569
+    CSBA FAIXA: BAIXO
+  Pis: 16255034446
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 498.17
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 451.069.243-91
+    Nome: FRANCISCA DAS CHAGAS ALVES SILVA
+    Logradouro: RENASCENCA II
+    Número: 1
+    Bairro: RENASCENCA
+  [2]
+    CPF: 217.924.373-15
+    Nome: CARMELITA FRANCISCA DE SOUSA
+    Logradouro: RENASCENCA II
+    Número: 9
+    Bairro: RENASCENCA
+  [3]
+    CPF: 077.556.433-87
+    Nome: FRANCISCO OSTERNOS DA SILVA
+    Logradouro: RENASCENCA II
+    Número: 3
+    Bairro: RENASCENCA
+  [4]
+    CPF: 446.847.033-04
+    Nome: MARIA IRENE PEREIRA SILVA
+    Logradouro: RENASCENCA II
+    Número: SN
+    Bairro: RENASCENCA
+  [5]
+    CPF: 649.106.793-91
+    Nome: JEFFERSON LIMA DA SILVA
+    Logradouro: RENASCENCA II
+    Número: 36
+    Bairro: RENASCENCA
+  [6]
+    CPF: 023.040.883-41
+    Nome: DAVYD COUTINHO SILVA
+    Logradouro: RENASCENCA II
+    Número: 23
+    Bairro: RENASCENCA
+  [7]
+    CPF: 286.584.693-87
+    Nome: DANIEL RAMOS FEITOSA FILHO
+    Logradouro: RENASCENCA II
+    Número: 59
+    Bairro: RENASCENCA
+  [8]
+    CPF: 387.017.743-87
+    Nome: JESSE PEREIRA LOPES
+    Logradouro: RENASCENCA II
+    Número: 60
+    Bairro: RENASCENCA
+  [9]
+    CPF: 421.305.143-91
+    Nome: MARIA FERREIRA DO VALE MAGALHAES NASCIMENTO
+    Logradouro: RENASCENCA II
+    Número: 26
+    Bairro: RENASCENCA
+  [10]
+    CPF: 307.178.843-68
+    Nome: FRANCISCO EDILBERTO DE MOURA SOUSA
+    Logradouro: RENASCENCA II
+    Número: 11
+    Bairro: RENASCENCA
+  [11]
+    CPF: 420.559.543-34
+    Nome: JOSE WILSON CARVALHO COSTA
+    Logradouro: RENASCENCA II
+    Número: 2313
+    Bairro: RENASCENCA
+  [12]
+    CPF: 131.773.703-20
+    Nome: JOAO DE DEUS DA SILVA REIS
+    Logradouro: RENASCENCA II
+    Número: 8
+    Bairro: RENASCENCA
+  [13]
+    CPF: 600.242.003-79
+    Nome: LEONARA LIMA COSTA
+    Logradouro: RENASCENCA II
+    Número: 9
+    Bairro: RENASCENCA
+  [14]
+    CPF: 022.820.343-09
+    Nome: STHEFFANNY DYANNY JERONIMO SALES DE OLIVEIRA
+    Logradouro: RENASCENCA II
+    Número: 37
+    Bairro: RENASCENCA
+  [15]
+    CPF: 026.524.093-01
+    Nome: JOAO VIRGINIO BATISTA DA SILVA NETO
+    Logradouro: RENASCENCA II
+    Número: 38
+    Bairro: RENASCENCA
+E-mails: (1 item(s))
+  - carle.maria33@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 903
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 498.17
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: CARLESSANDRO BOAVENTURA DA SILVA SANTOS
+    Ano Vestibular: 2015
+    Faculdade: UESPI
+    UF: PI 
+    Campus: CAMPUS   TERESINA   PIRAJA  TE
+    Curso: ADMINISTRACAO
+    Periodo: VESPERTINO
+    Data de Nascimento: 04/02/1995
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (86) 99433-7143
+    Ddd: 86
+    Número: 994337143
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [2]
+    Telefone: (86) 98816-2886
+    Ddd: 86
+    Número: 988162886
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D2
+Occupation Code: 422310
+Occupation Name: Operador de telemarketing ativo e receptivo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

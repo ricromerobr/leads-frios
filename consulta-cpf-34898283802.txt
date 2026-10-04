@@ -1,0 +1,416 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  34898283802
+Data/Hora:  04/10/2026, 09:29:25
+Tempo API:  735ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 348.982.838-02
+Nome: THIFANY DA SILVA PATHEIS ROCHA
+Primeiro Nome: THIFANY
+Sobrenome: ROCHA
+Sexo: Feminino
+Data de Nascimento: 24/02/1986
+Nome da Mãe: ELENICE BILITARDO DA SILVA
+Voter Id: 314631740175
+Mosaic: C09
+Ocupação: Auxiliar de contabilidade
+Score:
+  Value: 971
+  Range: BAIXISSIMO RISCO
+E-mail: f_ran_cis_co@hotmail.com
+Additional Emails: (2 item(s))
+  - f_ran_cis_co@hotmail.com
+  - thifany_vlnatal@hotmail.com
+Federal Status: REGULAR
+Renda: 1935
+Income Bracket: 2
+Cbo: 413110
+Endereço:
+  Tipo: RUA
+  Rua: JOAO PESSOA
+  Bairro: VILA NOVA
+  Cidade: CUBATAO
+  Estado: SAO PAULO
+  CEP: 11525-020
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOAO PESSOA
+    Bairro: VILA NOVA
+    Cidade: CUBATAO
+    Estado: SAO PAULO
+    CEP: 11525-020
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOAO PESSOA
+    Tipo: R
+    Número: 425
+    Complemento: C A
+    Bairro: VL NOVA
+    Cidade: CUBATAO
+    Estado: SP
+    CEP: 11525-020
+    Data Atualizacao: 23/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: CRISTOVAO
+    Tipo: CAM
+    Número: 31
+    Bairro: VL ESPERANCA
+    Cidade: CUBATAO
+    Estado: SP
+    CEP: 11540-260
+    Data Atualizacao: 13/03/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MANOEL JORGE
+    Tipo: R
+    Número: 210
+    Bairro: CENTRO
+    Cidade: CUBATAO
+    Estado: SP
+    CEP: 11510-030
+    Data Atualizacao: 29/04/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: JOAO PESSOA
+    Tipo: R
+    Número: 428
+    Complemento: C A
+    Bairro: VL NOVA
+    Cidade: CUBATAO
+    Estado: SP
+    CEP: 11525-020
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: CRISTOVAO
+    Tipo: CAM
+    Número: 1982
+    Bairro: VL ESPERANCA
+    Cidade: CUBATAO
+    Estado: SP
+    CEP: 11540-260
+    Data Atualizacao: 06/12/2012
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HYUNDAI
+      Modelo: HB20 1.0M UNIQUE
+      Ano: 2018
+Telefones: (8 item(s))
+  - (13) 97812-9990
+  - (13) 98818-7396
+  - (13) 98851-4383
+  - 551388187396
+  - (13) 3361-5450
+  - (13) 3372-6787
+  - (13) 99100-1655
+  - (13) 99798-3382
+Paycom:
+  E-mail: thifany_vlnatal@hotmail.com
+  Data de Nascimento: 24/02/1986
+  Created At: 2021-09-01 10:50:18
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua João Pessoa
+    Número: 425
+    Complemento: Casa A
+    Bairro: Vila nova
+    Cidade: Cubatão
+    Estado: São Paulo
+    País: Brasil
+    Telephone: 551388187396
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/11/2019
+    Mosaic: C09
+    Mosaic New: E17
+    Mosaic Secondary: D09
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAO PESSOA
+      Número: 425
+      Complemento: C A
+      Bairro: VL NOVA
+      Cidade: CUBATAO
+      Estado: SP
+      CEP: 11525-020
+      Date Added: 25/11/2015
+    [2]
+      Tipo: CAM
+      Rua: CRISTOVAO
+      Número: 31
+      Bairro: VL ESPERANCA
+      Cidade: CUBATAO
+      Estado: SP
+      CEP: 11540-260
+      Date Added: 13/04/2010
+    [3]
+      Tipo: R
+      Rua: MANOEL JORGE
+      Número: 210
+      Bairro: CENTRO
+      Cidade: CUBATAO
+      Estado: SP
+      CEP: 11510-030
+      Date Added: 13/04/2010
+    [4]
+      Tipo: R
+      Rua: JOAO PESSOA
+      Número: 428
+      Complemento: C A
+      Bairro: VL NOVA
+      Cidade: CUBATAO
+      Estado: SP
+      CEP: 11525-020
+      Date Added: 23/12/2019
+    [5]
+      Tipo: CAM
+      Rua: CRISTOVAO
+      Número: 1982
+      Bairro: VL ESPERANCA
+      Cidade: CUBATAO
+      Estado: SP
+      CEP: 11540-260
+      Date Added: 29/04/2011
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33615450
+      Ddd: 13
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 22/11/2006
+      Info Date: 12/11/2012
+    [2]
+      Telefone: 33726787
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 15/07/2009
+    [3]
+      Telefone: 991001655
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 29/08/2011
+    [4]
+      Telefone: 997983382
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 988187396
+      Ddd: 13
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 20/07/2017
+      Info Date: 20/12/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: f_ran_cis_co@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+    [2]
+      E-mail: thifany_vlnatal@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 421
+    CSB8 FAIXA: MEDIO
+    CSBA: 971
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 367.493.008-04
+      Nome: ELENICE BILITARDO DA SILVA
+      Vinculo: MAE
+    [2]
+      CPF: 4765461840
+      Nome: LAERCIO NASCIMENTO PATHEIS
+      Vinculo: PAI
+  Pis: 20658061873
+  Tse:
+    Titulo: 314631740175
+    Zona: 119
+    Secao: 152
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 264.427.438-96
+    Nome: CRISTIANO ALVES SANTOS
+    Logradouro: JOAO PESSOA
+    Número: 650
+    Bairro: VL NOVA
+  [2]
+    CPF: 041.953.088-60
+    Nome: JOSE GONCALVES NETTO
+    Logradouro: JOAO PESSOA
+    Número: 284
+    Bairro: VL NOVA
+  [3]
+    CPF: 033.932.998-08
+    Nome: DIVALDO DE SOUZA
+    Logradouro: JOAO PESSOA
+    Número: 650
+    Bairro: VL NOVA
+  [4]
+    CPF: 018.493.968-25
+    Nome: FRANCISCO CELESTINO DE LIMA
+    Logradouro: JOAO PESSOA
+    Número: 521
+    Bairro: VL NOVA
+  [5]
+    CPF: 192.345.544-34
+    Nome: JOSE ARTUR DOS SANTOS
+    Logradouro: JOAO PESSOA
+    Número: 66
+    Bairro: VL NOVA
+  [6]
+    CPF: 400.696.758-64
+    Nome: ANA PAULA TRAJANO FIRMO BARBOSA
+    Logradouro: JOAO PESSOA
+    Número: 249
+    Bairro: VL NOVA
+  [7]
+    CPF: 084.583.138-04
+    Nome: JOSE ROBERTO GONCALVES
+    Logradouro: JOAO PESSOA
+    Número: 310
+    Bairro: VL NOVA
+  [8]
+    CPF: 576.763.057-72
+    Nome: JOSE CARLOS ROMAO TEIXEIRA
+    Logradouro: JOAO PESSOA
+    Número: 31
+    Bairro: VL NOVA
+  [9]
+    CPF: 259.916.228-92
+    Nome: ALEXSANDRO DAS VIRGENS GOMES
+    Logradouro: JOAO PESSOA
+    Número: 475
+    Bairro: VL NOVA
+  [10]
+    CPF: 062.165.778-67
+    Nome: DAILE SILVA PINTO
+    Logradouro: JOAO PESSOA
+    Número: 425
+    Bairro: VL NOVA
+  [11]
+    CPF: 267.837.898-53
+    Nome: MARIA DO CARMO MANGE DE OLIVEIRA
+    Logradouro: JOAO PESSOA
+    Número: 64
+    Bairro: VL NOVA
+  [12]
+    CPF: 257.877.098-02
+    Nome: GISELE REGINA COSTA
+    Logradouro: JOAO PESSOA
+    Número: 462
+    Bairro: VL NOVA
+  [13]
+    CPF: 506.172.738-04
+    Nome: JOSE EVENCIO MOREIRA FILHO
+    Logradouro: JOAO PESSOA
+    Número: 256
+    Bairro: VL NOVA
+  [14]
+    CPF: 288.313.224-00
+    Nome: MARIA DE LOURDES OLIVEIRA
+    Logradouro: JOAO PESSOA
+    Número: 395
+    Bairro: VL NOVA
+  [15]
+    CPF: 804.187.753-20
+    Nome: PAULO NUNES MARTINS
+    Logradouro: JOAO PESSOA
+    Número: 635
+    Bairro: VL NOVA
+E-mails: (2 item(s))
+  - f_ran_cis_co@hotmail.com
+  - thifany_vlnatal@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1935
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (13) 3361-5450
+    Ddd: 13
+    Número: 33615450
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 12/11/2012
+    Classificacao: A0
+  [2]
+    Telefone: (13) 3372-6787
+    Ddd: 13
+    Número: 33726787
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 15/07/2009
+    Classificacao: D2
+  [3]
+    Telefone: (13) 99100-1655
+    Ddd: 13
+    Número: 991001655
+    Tipo: 3
+    Data Inclusao: 29/08/2011
+    Classificacao: D
+  [4]
+    Telefone: (13) 99798-3382
+    Ddd: 13
+    Número: 997983382
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (13) 98818-7396
+    Ddd: 13
+    Número: 988187396
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Data Informacao: 20/12/2019
+    Classificacao: A0
+Occupation Code: 413110
+Occupation Name: Auxiliar de contabilidade
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

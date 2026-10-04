@@ -1,0 +1,169 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03260276025
+Data/Hora:  04/10/2026, 01:43:17
+Tempo API:  787ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 032.602.760-25
+Nome: JOAO PEDRO DE OLIVEIRA MIGUEL
+Primeiro Nome: JOAO
+Sobrenome: MIGUEL
+Sexo: Masculino
+Data de Nascimento: 06/08/2001
+Nome da Mãe: MARCIA CRISTINA SILVA DE OLIVEIRA
+Nome do Pai: WAGNER CLEISON DA MOTA MIGUEL
+Score:
+  Value: 0
+  Range: ALTO
+E-mail: kaduki307@gmail.com
+Additional Emails: (1 item(s))
+  - kaduki307@gmail.com
+Federal Status: REGULAR
+Renda: 225
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: BORGES DE MEDEIROS
+  Número: 187
+  Bairro: CENTRO
+  Cidade: CIDREIRA
+  Estado: RIO GRANDE DO SUL
+  CEP: 95595-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BORGES DE MEDEIROS
+    Número: 187
+    Bairro: CENTRO
+    Cidade: CIDREIRA
+    Estado: RIO GRANDE DO SUL
+    CEP: 95595-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BORGES DE MEDEIROS
+    Número: 187
+    Bairro: CENTRO
+    Cidade: CIDREIRA - RS
+    Fonte: DATASUS
+  [3]
+    Tipo: AV
+    Rua: CIDREIRA
+    Número: 0000522
+    Bairro: CENTRO
+    Cidade: CIDREIRA
+    Estado: RS
+    CEP: 95595-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (51) 99856-2930
+  - (51) 98949-5704
+  - (51) 97401-7276
+  - (51) 98944-5389
+  - (51) 99568-5904
+  - (51) 99679-4529
+Datasus Phones: (1 item(s))
+  - (51) 99938-0299
+Cidade de Nascimento: OSORIO - RS
+Cns: 700503526653453
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Mosaic New: D14
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 995685904
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 29/03/2019
+    [2]
+      Telefone: 996794529
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 29/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: kaduki307@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 225.84
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (51) 99856-2930
+    Nome: JOAO PEDRO DE OLIVEIRA MIGUEL
+    Cidade: CIDREIRA
+    UF: RS
+  [2]
+    Telefone: (51) 97401-7276
+    Nome: JOAO PEDRO DE OLIVEIRA MIGUEL
+    Cidade: CIDREIRA
+    UF: RS
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (51) 98944-5389
+    Nome: JOAO PEDRO DE OLIVEIRA MIGUEL
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - kaduki307@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 225
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 225.84
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (51) 99568-5904
+    Ddd: 51
+    Número: 995685904
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: D
+  [2]
+    Telefone: (51) 99679-4529
+    Ddd: 51
+    Número: 996794529
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

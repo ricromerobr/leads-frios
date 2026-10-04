@@ -1,0 +1,422 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  16004844764
+Data/Hora:  04/10/2026, 15:01:42
+Tempo API:  369ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 160.048.447-64
+Nome: VITOR OLIVEIRA FIGUEIREDO
+Primeiro Nome: VITOR
+Sobrenome: FIGUEIREDO
+Sexo: Masculino
+Data de Nascimento: 17/12/1998
+Nome da Mãe: SORAYA OLIVEIRA DO NASCIMENTO
+Nome do Pai: VALDECI DE JESUS FIGUEIREDO
+Ocupação: Técnico eletrônico
+Score:
+  Value: 265
+  Range: ALTO
+E-mail: vitoroliveira199817@gmail.com
+Additional Emails: (2 item(s))
+  - vitoroliveira199817@gmail.com
+  - vitoroliveira199821@gmail.com
+Federal Status: REGULAR
+Renda: 1009
+Income Bracket: 2
+Cbo: 313215
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: CONCEICAO FERREIRA ROCHA
+  Bairro: TUPI
+  Cidade: BELO HORIZONTE
+  Estado: MINAS GERAIS
+  CEP: 31842-725
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CONCEICAO FERREIRA ROCHA
+    Bairro: TUPI
+    Cidade: BELO HORIZONTE
+    Estado: MINAS GERAIS
+    CEP: 31842-725
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CESAR ZANI
+    Número: 102
+    Bairro: SAO CONRADO
+    Cidade: VILA VELHA - ES
+    Fonte: DATASUS
+  [3]
+    Rua: HELIO VIANA
+    Tipo: R
+    Número: 37
+    Complemento: C A
+    Bairro: TUPI B
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31844-450
+    Data Atualizacao: 23/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ITA
+    Tipo: R
+    Número: 32
+    Bairro: S CONRADO
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29124-086
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: VITOR OLIVEIRA FIGUEIREDO
+    Rua: 0000037
+    Número: HELIO VIANA
+    Bairro: TUPI B
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31844-450
+    Fonte: ASSECC
+  [6]
+    Tipo: HELIO VIANA
+    Rua: R
+    Número: 0000037
+    Bairro: TUPI B
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31844-450
+    Fonte: ASSECC
+  [7]
+    Tipo: HELIO VIANA
+    Rua: R
+    Número: 0000037
+    Bairro: TUPI B
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 00000-000
+    Fonte: ASSECC
+  [8]
+    Rua: HELIO VIANA
+    Número: 37
+    Complemento: CS SEM COMPLEMENTO
+    Bairro: TUPI
+    Estado: MG
+    CEP: 31844-450
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (12 item(s))
+  - (31) 3261-0739
+  - (31) 98210-7523
+  - +55 (31) 97187-9394
+  - (31) 98745-1798
+  - (31) 99738-3650
+  - (31) 98238-4142
+  - (31) 97518-8393
+  - (31) 99794-4269
+  - (31) 99529-3377
+  - (31) 98416-2704
+  - (31) 98956-4338
+  - (31) 3445-4197
+Datasus Phones: (1 item(s))
+  - (27) 8891-8728
+Cidade de Nascimento: BELO HORIZONTE - MG
+Cns: 701005873280390
+Mte Data:
+  Nome: Vitor Oliveira Figueiredo
+  Data de Nascimento: 17/12/1998
+  Nome da Mãe: Soraya Oliveira Do Nascimento
+  Endereço:
+    Rua: Helio Viana
+    Número: 37
+    Bairro: Tupi
+    Cidade: Belo Horizonte
+    Estado: MG
+    CEP: 31844-450
+Paycom:
+  E-mail: vitoroliveira199821@gmail.com
+  Data de Nascimento: 17/12/1998
+  Created At: 2021-05-06 23:27:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Joaquim Gonçalves
+    Número: 445
+    Complemento: Casa c
+    Bairro: Tupi
+    Cidade: Belo Horizonte
+    Estado: Minas Gerais
+    País: Brasil
+    Telephone: +55 (31) 97187-9394
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/09/2019
+    Mosaic New: D11
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: HELIO VIANA
+      Número: 37
+      Complemento: C A
+      Bairro: TUPI B
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31844-450
+      Date Added: 26/11/2018
+    [2]
+      Tipo: R
+      Rua: ITA
+      Número: 32
+      Bairro: S CONRADO
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29124-086
+      Date Added: 05/04/2018
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 987451798
+      Ddd: 31
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 25/01/2018
+    [2]
+      Telefone: 989564338
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [3]
+      Telefone: 34454197
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 24/12/2018
+      Info Date: 15/02/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: vitoroliveira199817@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+  Score:
+    CSB8: 228
+    CSB8 FAIXA: ALTO
+    CSBA: 265
+    CSBA FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 595.38
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 043.619.026-58
+    Nome: PATRICIA ALMEIDA E SILVA
+    Logradouro: HELIO VIANA
+    Número: 7
+    Bairro: TUPI B
+  [2]
+    CPF: 040.793.366-24
+    Nome: ANDERSON OLIVEIRA
+    Logradouro: HELIO VIANA
+    Número: 120
+    Bairro: TUPI B
+  [3]
+    CPF: 079.089.796-29
+    Nome: EDUARDO DA SILVA DAMASCENO
+    Logradouro: HELIO VIANA
+    Número: 241
+    Bairro: TUPI B
+  [4]
+    CPF: 834.810.446-15
+    Nome: SHIRLEY DA SILVA MOREIRA
+    Logradouro: HELIO VIANA
+    Número: 275
+    Bairro: TUPI B
+  [5]
+    CPF: 075.921.906-05
+    Nome: ADRIANA LUCIA ROCHA
+    Logradouro: HELIO VIANA
+    Número: 156
+    Bairro: TUPI B
+  [6]
+    CPF: 031.124.066-64
+    Nome: CREUZA FERREIRA DE OLIVEIRA SIQUEIRA
+    Logradouro: HELIO VIANA
+    Número: 161
+    Bairro: TUPI B
+  [7]
+    CPF: 087.233.326-46
+    Nome: HENRIQUE DE OLIVEIRA SANTOS
+    Logradouro: HELIO VIANA
+    Número: 120
+    Bairro: TUPI B
+  [8]
+    CPF: 077.428.206-17
+    Nome: POLLYANNA DA SILVA
+    Logradouro: HELIO VIANA
+    Número: 313
+    Bairro: TUPI B
+  [9]
+    CPF: 205.874.146-34
+    Nome: JOSE RAIMUNDO VITOR
+    Logradouro: HELIO VIANA
+    Número: 135
+    Bairro: TUPI B
+  [10]
+    CPF: 119.120.526-60
+    Nome: ANA PAULA LOPES MENEZES
+    Logradouro: HELIO VIANA
+    Número: 235
+    Bairro: TUPI B
+  [11]
+    CPF: 067.440.816-08
+    Nome: CLAUDINEY DE OLIVEIRA
+    Logradouro: HELIO VIANA
+    Número: 179
+    Bairro: TUPI B
+  [12]
+    CPF: 504.559.316-15
+    Nome: JOSE PROCOPIO DA SILVA
+    Logradouro: HELIO VIANA
+    Número: 7
+    Bairro: TUPI B
+  [13]
+    CPF: 381.236.568-58
+    Nome: ADAO FERREIRA DOURADO
+    Logradouro: HELIO VIANA
+    Número: 323
+    Bairro: TUPI B
+  [14]
+    CPF: 967.693.516-68
+    Nome: SUELY DA SILVA ROCHA
+    Logradouro: HELIO VIANA
+    Número: 165
+    Bairro: TUPI B
+  [15]
+    CPF: 078.923.766-07
+    Nome: LEANDRO ANTONIO LOPES MENEZES
+    Logradouro: HELIO VIANA
+    Número: 235
+    Bairro: TUPI B
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (31) 98745-1798
+    Nome: R
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [2]
+    Telefone: (31) 99738-3650
+    Nome: VITOR  OLIVEIRA FIGUEIREDO
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [3]
+    Telefone: (31) 98238-4142
+    Nome: VITOR OLIVEIRA FIGUEIREDO
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [4]
+    Telefone: (31) 97518-8393
+    Nome: VITOR OLIVEIRA FIGUEIREDO
+    Cidade: BELO HORIZONTE
+    UF: MG
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (31) 99794-4269
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 24APR2020
+    Ultima Recarga: 16JUN2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 24/04/2020
+  [2]
+    Telefone: (31) 99529-3377
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 22JUN2020
+    Ultima Recarga: 24JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 22/06/2020
+  [3]
+    Telefone: (31) 99738-3650
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 11/03/2020
+    Flag Divida: 1
+    Maior Atraso: 137
+    Menor Atraso: 76
+    Valor Fatura: -1.77636E-15
+    Mes Referencia: 202010
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (31) 98416-2704
+    Nome: VITOR OLIVEIRA FIGUEIREDO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - vitoroliveira199817@gmail.com
+  - vitoroliveira199821@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1009
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 595.38
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (31) 98745-1798
+    Ddd: 31
+    Número: 987451798
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C2
+  [2]
+    Telefone: (31) 98956-4338
+    Ddd: 31
+    Número: 989564338
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [3]
+    Telefone: (31) 3445-4197
+    Ddd: 31
+    Número: 34454197
+    Tipo: FIXO
+    Data Inclusao: 24/12/2018
+    Data Informacao: 15/02/2019
+    Classificacao: D2
+Occupation Code: 313215
+Occupation Name: Técnico eletrônico
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

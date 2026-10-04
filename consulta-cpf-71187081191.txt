@@ -1,0 +1,535 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  71187081191
+Data/Hora:  03/10/2026, 23:02:30
+Tempo API:  249ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 711.870.811-91
+Nome: ISRAEL BASTOS NACAXE
+Primeiro Nome: ISRAEL
+Sobrenome: NACAXE
+Sexo: Masculino
+Data de Nascimento: 27/06/1981
+Nome da Mãe: VANIA BASTOS NACAXE
+Voter Id: 042166071015
+Mosaic: D11
+Ocupação: Dirigentes e Gerentes (categoria CBO)
+Score:
+  Value: 398
+  Range: ALTO
+E-mail: israel@spatium3d.com
+Additional Emails: (10 item(s))
+  - israel@spatium3d.com
+  - inacaxe@gmail.com
+  - israel_inthebox@yahoo.com
+  - israel_inthebox@yahoo.com.br
+  - cobradopeixefri8@yahoo.com.br
+  - anderson.nacaxe@bayercropscience.com
+  - 602226000@registro.nomer.com.br
+  - sjapi@uol.com.br
+  - inacaxe@yahoo.com.br
+  - israel@gpnxgroup.com
+Federal Status: REGULAR
+Renda: 8408
+Income Bracket: 6
+Cbo: 203215
+Endereço:
+  Tipo: RUA
+  Rua: MONTE APRAZIVEL
+  Número: 187
+  Complemento: SL 910
+  Bairro: CHACARA DA BARRA
+  Cidade: CAMPINAS
+  Estado: SAO PAULO
+  CEP: 13090-764
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MONTE APRAZIVEL
+    Número: 187
+    Complemento: SL 910
+    Bairro: CHACARA DA BARRA
+    Cidade: CAMPINAS
+    Estado: SAO PAULO
+    CEP: 13090-764
+    Fonte: PRINCIPAL
+  [2]
+    Rua: Rua Isabel Negrão Bertotti
+    Número: 161
+    Complemento: ap 41
+    Bairro: Mansões Santo Antônio
+    Cidade: Campinas
+    Estado: SP
+    CEP: 13087-508
+    Fonte: SARAIVA
+  [3]
+    Rua: LUIZ DE TULIO
+    Tipo: R
+    Número: 511
+    Complemento: AP 23
+    Bairro: VL BRANDINA
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13092-558
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: QUATRO CENTENARIO
+    Tipo: AV
+    Número: 167
+    Bairro: JD CENTENARIO
+    Cidade: SAO CARLOS
+    Estado: SP
+    CEP: 13564-140
+    Data Atualizacao: 21/03/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANA JARVIS
+    Tipo: R
+    Número: 48
+    Complemento: SL 11
+    Bairro: CAMBUI
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13024-480
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: MARIO NATIVIDADE
+    Número: 0000936
+    Bairro: TAQUARAL
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 01307-612
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (19) 98168-9470
+  - (19) 3325-0614
+  - (19) 2514-1208
+  - (19) 3305-3554
+  - (19) 98116-9850
+  - (19) 98168-9469
+Saraiva:
+  Customer Id: 1445605
+  Telefone: (19) 3325-0614
+  E-mail: inacaxe@gmail.com
+  Data de Nascimento: 27/06/1981
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 28/09/2019
+    Info Date: 04/06/2008
+    Mosaic: D11
+    Mosaic New: A01
+    Mosaic Secondary: A02
+    Income Bracket Id: 12
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: LUIZ DE TULIO
+      Número: 511
+      Complemento: AP 23
+      Bairro: VL BRANDINA
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13092-558
+      Date Added: 17/12/2018
+    [2]
+      Tipo: AV
+      Rua: QUATRO CENTENARIO
+      Número: 167
+      Bairro: JD CENTENARIO
+      Cidade: SAO CARLOS
+      Estado: SP
+      CEP: 13564-140
+      Date Added: 01/02/2007
+    [3]
+      Tipo: R
+      Rua: ANA JARVIS
+      Número: 48
+      Complemento: SL 11
+      Bairro: CAMBUI
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13024-480
+      Date Added: 24/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33053554
+      Ddd: 19
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/05/2012
+    [2]
+      Telefone: 981689470
+      Ddd: 19
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 981169850
+      Ddd: 19
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 01/02/2018
+    [4]
+      Telefone: 981689469
+      Ddd: 19
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 01/02/2018
+    [5]
+      Telefone: 25141208
+      Ddd: 19
+      Tipo: 1
+      Classificacao: A1
+      Date Added: 05/04/2018
+  E-mails: (10 item(s))
+    [1]
+      E-mail: israel_inthebox@yahoo.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: israel_inthebox@yahoo.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: inacaxe@gmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [4]
+      E-mail: cobradopeixefri8@yahoo.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [5]
+      E-mail: anderson.nacaxe@bayercropscience.com
+      Priority: 5
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [6]
+      E-mail: israel@spatium3d.com
+      Priority: 6
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [7]
+      E-mail: 602226000@registro.nomer.com.br
+      Priority: 7
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+    [8]
+      E-mail: sjapi@uol.com.br
+      Priority: 8
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 22/11/2016
+    [9]
+      E-mail: inacaxe@yahoo.com.br
+      Priority: 9
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [10]
+      E-mail: israel@gpnxgroup.com
+      Priority: 10
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 764
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 398
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 1166772101
+      Nome: ANDERSON BASTOS NACAXE
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 927.779.701-06
+      Nome: ANDRE BASTOS NACAXE
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 182.711.111-91
+      Nome: VANIA BASTOS NACAXE
+      Vinculo: MAE
+  Pis: 12820860178
+  Tse:
+    Titulo: 42166071015
+    Zona: 275
+    Secao: 549
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 18501.2
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 365.280.645-04
+    Nome: TELMA HOLZHAUSEN
+    Logradouro: LUIZ DE TULIO
+    Número: 63
+    Bairro: VL BRANDINA
+  [2]
+    CPF: 248.574.008-98
+    Nome: LINCOLN EDUARDO BARBOSA DE OLIVEIRA
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [3]
+    CPF: 104.035.767-92
+    Nome: MADU HAKUE TRISTAO CHARPINEL
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [4]
+    CPF: 093.391.067-33
+    Nome: DANIELE ROSARIO DE OLIVEIRA CAMARGO
+    Logradouro: LUIZ DE TULIO
+    Número: 244
+    Bairro: VL BRANDINA
+  [5]
+    CPF: 923.359.348-72
+    Nome: FERNANDO VASCONCELOS HEIDERICH
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [6]
+    CPF: 171.936.618-76
+    Nome: WERNER FRIEDRICH ERNST HOLZHAUSEN
+    Logradouro: LUIZ DE TULIO
+    Número: 63
+    Bairro: VL BRANDINA
+  [7]
+    CPF: 215.190.848-89
+    Nome: MARINA JUNQUEIRA GABARRA
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [8]
+    CPF: 152.661.678-58
+    Nome: SIMONE POLONIO
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [9]
+    CPF: 932.229.048-04
+    Nome: ROSANGELA DE FATIMA POMPEO DA SILVA PEREIRA
+    Logradouro: LUIZ DE TULIO
+    Número: 236
+    Bairro: VL BRANDINA
+  [10]
+    CPF: 329.418.988-59
+    Nome: NUBIA NONATO BARREIRO
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [11]
+    CPF: 257.627.963-53
+    Nome: MONA FIQUENE ZEITOUNI
+    Logradouro: LUIZ DE TULIO
+    Número: 303
+    Bairro: VL BRANDINA
+  [12]
+    CPF: 268.917.438-34
+    Nome: CARLOS BATISTELA
+    Logradouro: LUIZ DE TULIO
+    Número: 491
+    Bairro: VL BRANDINA
+  [13]
+    CPF: 219.783.298-06
+    Nome: JULIANA AUGUSTO FURST
+    Logradouro: LUIZ DE TULIO
+    Número: 169
+    Bairro: VL BRANDINA
+  [14]
+    CPF: 271.803.998-17
+    Nome: SERGIO AUGUSTO GUIMARAES
+    Logradouro: LUIZ DE TULIO
+    Número: 511
+    Bairro: VL BRANDINA
+  [15]
+    CPF: 214.772.708-33
+    Nome: MIGUEL NUNO VIANA SOUSA
+    Logradouro: LUIZ DE TULIO
+    Número: 45
+    Bairro: VL BRANDINA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (19) 98168-9470
+    Nome: ISRAEL BASTOS NACAXE
+    Cidade: CAMPINAS
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 10736064
+    Operadora: 52
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 23/02/2009
+    Tempo Base: 139
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 200902
+    Geo:
+      Ibge Municipio: 3509502
+      Ddd Origem: 19
+      Estado Nome: SAO PAULO
+    Nascimento: 27/06/1981
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Classe Social: NSEG
+      Score: 787
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 909
+        Net: 858
+        Ctv: 885
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 670 - 884
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXO
+        Risco Ctv: BAIXISSIMO
+        Idade: 39
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (19) 3325-0614
+    Nome: ISRAEL BASTOS NACAXE
+    Cidade: CAMPINAS
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+E-mails: (10 item(s))
+  - israel@spatium3d.com
+  - inacaxe@gmail.com
+  - israel_inthebox@yahoo.com
+  - israel_inthebox@yahoo.com.br
+  - cobradopeixefri8@yahoo.com.br
+  - anderson.nacaxe@bayercropscience.com
+  - 602226000@registro.nomer.com.br
+  - sjapi@uol.com.br
+  - inacaxe@yahoo.com.br
+  - israel@gpnxgroup.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 6
+Renda Estimativas:
+  Presumida:
+    Valor: 8408
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 18501.2
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (19) 3305-3554
+    Ddd: 19
+    Número: 33053554
+    Tipo: FIXO
+    Data Inclusao: 05/05/2012
+    Classificacao: D
+  [2]
+    Telefone: (19) 98168-9470
+    Ddd: 19
+    Número: 981689470
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A0
+  [3]
+    Telefone: (19) 98116-9850
+    Ddd: 19
+    Número: 981169850
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: C2
+  [4]
+    Telefone: (19) 98168-9469
+    Ddd: 19
+    Número: 981689469
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: C2
+  [5]
+    Telefone: (19) 2514-1208
+    Ddd: 19
+    Número: 25141208
+    Tipo: FIXO
+    Data Inclusao: 05/04/2018
+    Classificacao: A1
+Occupation Code: 1236
+Occupation Name: Dirigentes e Gerentes (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

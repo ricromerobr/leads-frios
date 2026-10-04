@@ -1,0 +1,396 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05966284636
+Data/Hora:  03/10/2026, 20:41:44
+Tempo API:  529ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 059.662.846-36
+Nome: JULIANA BOSCOLO GUTIERREZ BORGES OBA
+Primeiro Nome: JULIANA
+Sobrenome: OBA
+Sexo: Feminino
+Data de Nascimento: 30/01/1983
+Nome da Mãe: DENISE BOSCOLO G BORGES
+Voter Id: 143317870230
+Mosaic: A01
+Ocupação: Gerente de recursos humanos
+Score:
+  Value: 928
+  Range: BAIXISSIMO RISCO
+E-mail: juboscolo@yahoo.com.br
+Additional Emails: (3 item(s))
+  - juboscolo@yahoo.com.br
+  - juboscolo@gmail.com
+  - juboscolo@yahoo.com
+Federal Status: REGULAR
+Renda: 25044
+Income Bracket: 9
+Cbo: 142205
+Endereço:
+  Tipo: RUA
+  Rua: DE GUARATIBA
+  Número: 360
+  Complemento: AP 202
+  Bairro: VL FIRMIANO PINTO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04125-040
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DE GUARATIBA
+    Número: 360
+    Complemento: AP 202
+    Bairro: VL FIRMIANO PINTO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04125-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA TRAITUBA
+    Número: 227
+    Complemento: 72
+    Bairro: SAUDE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04142-050
+    Fonte: SARAIVA
+  [3]
+    Rua: RAFAEL SALES
+    Tipo: R
+    Número: 145
+    Complemento: AP 63
+    Bairro: BONFIM
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13070-720
+    Data Atualizacao: 19/03/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: QUIRINO
+    Tipo: R
+    Número: 1545
+    Complemento: AP 51
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13015-082
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: PEUGEOT
+      Modelo: 207HB XR
+      Ano: 2009
+    [2]
+      Marca: HONDA
+      Modelo: FIT EX CVT
+      Ano: 2017
+Saraiva:
+  Customer Id: 8708287
+  Telefone: (11) 4327-0866
+  E-mail: juboscolo@yahoo.com.br
+  Data de Nascimento: 30/01/1983
+Telefones: (6 item(s))
+  - (11) 4327-0866
+  - (55) 1198-8618
+  - (19) 3231-4878
+  - (19) 99136-2788
+  - (19) 99155-3156
+  - (11) 98861-8201
+Paycom:
+  E-mail: juboscolo@gmail.com
+  Created At: 2021-03-15 00:00:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Rua Visconde de Guaratiba
+    Número: 360
+    Complemento: Ap 202
+    Bairro: Vila Firmiano Pinto
+    Cidade: São Paulo
+    Estado: São Paulo
+    País: Brasil
+    CEP: 04125-040
+    Telephone: (55) 1198-8618
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 24/12/2019
+    Info Date: 23/10/2008
+    Mosaic: A01
+    Mosaic New: A02
+    Mosaic Secondary: C06
+    Income Bracket Id: 12
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: TRAITUBA
+      Número: 227
+      Bairro: SAUDE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04142-050
+      Date Added: 06/04/2018
+    [2]
+      Tipo: R
+      Rua: RAFAEL SALES
+      Número: 145
+      Complemento: AP 63
+      Bairro: BONFIM
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13070-720
+      Date Added: 11/12/2009
+    [3]
+      Tipo: R
+      Rua: QUIRINO
+      Número: 1545
+      Complemento: AP 51
+      Bairro: CENTRO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13015-082
+      Date Added: 11/10/2006
+    [4]
+      Tipo: R
+      Rua: DE GUARATIBA
+      Número: 360
+      Complemento: AP 202
+      Bairro: VL FIRMIANO PINTO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04125-040
+      Date Added: 05/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32314878
+      Ddd: 19
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 991362788
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 991553156
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [4]
+      Telefone: 988618201
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 43270866
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: juboscolo@yahoo.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: juboscolo@yahoo.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 951
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 928
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: DENISE BOSCOLO GUTIERREZ BORGES
+      Vinculo: MAE
+  Pis: 12947021241
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 22481.19
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 300.047.838-83
+    Nome: THIAGO QUINTINO DE FREITAS
+    Logradouro: TRAITUBA
+    Número: 247
+    Bairro: SAUDE
+  [2]
+    CPF: 274.932.458-00
+    Nome: EUDES VITOR PIMENTA
+    Logradouro: TRAITUBA
+    Número: 245
+    Bairro: SAUDE
+  [3]
+    CPF: 952.111.288-34
+    Nome: DARCI BORGES DE NOVAES MENDES
+    Logradouro: TRAITUBA
+    Número: 70
+    Bairro: SAUDE
+  [4]
+    CPF: 953.131.848-49
+    Nome: ODETE FERNANDES DA SILVA
+    Logradouro: TRAITUBA
+    Número: 222
+    Bairro: SAUDE
+  [5]
+    CPF: 046.194.748-00
+    Nome: CESAR AUGUSTO ANDERAOS
+    Logradouro: TRAITUBA
+    Número: 50
+    Bairro: SAUDE
+  [6]
+    CPF: 043.080.668-08
+    Nome: ANGELICA CONSENTINO IATARELLI FUNGARO
+    Logradouro: TRAITUBA
+    Número: 281
+    Bairro: SAUDE
+  [7]
+    CPF: 382.914.248-02
+    Nome: MAIRA GABRIELA DE SOUZA BRANDAO PORTO JULIAO
+    Logradouro: TRAITUBA
+    Número: 462
+    Bairro: SAUDE
+  [8]
+    CPF: 023.959.609-93
+    Nome: GUILHERME ROCHA DE MEDEIROS
+    Logradouro: TRAITUBA
+    Número: 148
+    Bairro: SAUDE
+  [9]
+    CPF: 010.444.118-64
+    Nome: TALMOM MARIANK ALVES
+    Logradouro: TRAITUBA
+    Número: 156
+    Bairro: SAUDE
+  [10]
+    CPF: 301.722.598-43
+    Nome: EDCLAIR THEREZA CORREA
+    Logradouro: TRAITUBA
+    Número: 400
+    Bairro: SAUDE
+  [11]
+    CPF: 301.246.468-91
+    Nome: GABRIEL ISSA KHOURY HANNA
+    Logradouro: TRAITUBA
+    Número: 198
+    Bairro: SAUDE
+  [12]
+    CPF: 146.515.478-77
+    Nome: CREUZA MARIA RIBEIRO
+    Logradouro: TRAITUBA
+    Número: 118
+    Bairro: SAUDE
+  [13]
+    CPF: 120.788.718-85
+    Nome: MARINILZE APARECIDA REGINA DA CUNHA
+    Logradouro: TRAITUBA
+    Número: 227
+    Bairro: SAUDE
+  [14]
+    CPF: 946.723.778-49
+    Nome: CONCETTA CAVALAGLIO MELA
+    Logradouro: TRAITUBA
+    Número: 86
+    Bairro: SAUDE
+  [15]
+    CPF: 362.598.808-98
+    Nome: THIAGO MAZZONI DE QUEIROZ
+    Logradouro: TRAITUBA
+    Número: 227
+    Bairro: SAUDE
+E-mails: (3 item(s))
+  - juboscolo@yahoo.com.br
+  - juboscolo@gmail.com
+  - juboscolo@yahoo.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 9
+Renda Estimativas:
+  Presumida:
+    Valor: 25044
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 22481.19
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (19) 3231-4878
+    Ddd: 19
+    Número: 32314878
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Classificacao: D
+  [2]
+    Telefone: (19) 99136-2788
+    Ddd: 19
+    Número: 991362788
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (19) 99155-3156
+    Ddd: 19
+    Número: 991553156
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [4]
+    Telefone: (11) 98861-8201
+    Ddd: 11
+    Número: 988618201
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A0
+  [5]
+    Telefone: (11) 4327-0866
+    Ddd: 11
+    Número: 43270866
+    Tipo: FIXO
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 142205
+Occupation Name: Gerente de recursos humanos
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

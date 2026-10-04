@@ -1,0 +1,1110 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  38244335831
+Data/Hora:  03/10/2026, 23:26:53
+Tempo API:  739ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 382.443.358-31
+Nome: NEYMAR DA SILVA SANTOS JUNIOR
+Primeiro Nome: NEYMAR
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 05/02/1992
+Nome da Mãe: NADINE GONCALVES DA SILVA SANTOS
+Ocupação: Administrador
+Score:
+  Value: 368
+  Range: ALTO
+E-mail: maxalgueira@gmail.com
+Additional Emails: (32 item(s))
+  - maxalgueira@gmail.com
+  - sairdormkt@gmail.com
+  - neymar2016@bol.com.br
+  - neymar11jr@gmail.com
+  - neymar22jr@gmail.com
+  - neymar33jr@gmail.com
+  - cruzmelquisedeque@gmail.com
+  - boratanki@gmail.com
+  - ciclopgamersbr@gmail.com
+  - davidjunior2538@hotmail.com
+  - infinitygarden@gmail.com
+  - juniordavid013@gmail.com
+  - junnsd9@gmail.com
+  - moraesb91@gmail.com
+  - neymarda@gmail.com
+  - agurialokona@gmail.com
+  - cudenavalha@gmail.com
+  - evandrosarmento096@gmail.com
+  - amnvc@gmail.com
+  - ju222cam32uti@gmail.com
+  - petersonrisso@gmail.com
+  - petersonrisson34@gmail.com
+  - pietro399@gmail.com
+  - seubuceta6d@gmail.com
+  - marcoslujew@gmail.com
+  - depluizrobertobr@outlook.com
+  - juniorcobreloamt@gmail.com
+  - douglascordeiro2000@outlook.com
+  - lukinhas_bad@hotmail.com
+  - vcsabia1939@bol.com.br
+  - nextel@nextel.com.br
+  - mundo2telecom@gmail.com
+Federal Status: REGULAR
+Renda: 2087
+Income Bracket: 3
+Cbo: 623110
+Endereço:
+  Tipo: RUA
+  Rua: PROFESSORA CARMEN MARINA DOTTA
+  Bairro: JARDIM SANTA TEREZA
+  Cidade: TAUBATE
+  Estado: SAO PAULO
+  CEP: 12045-150
+All Addresses: (19 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PROFESSORA CARMEN MARINA DOTTA
+    Bairro: JARDIM SANTA TEREZA
+    Cidade: TAUBATE
+    Estado: SAO PAULO
+    CEP: 12045-150
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO SOUZA QUEIROZ
+    Tipo: R
+    Número: 2182
+    Complemento: CS 2
+    Bairro: JD FLAMBOYANT
+    Cidade: TRES LAGOAS
+    Estado: MS
+    CEP: 79630-370
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: RIO
+    Tipo: ROD
+    Complemento: KM438 100 LT3 POR BELLO GL K4
+    Bairro: MANGARATIBA
+    Cidade: MANGARATIBA
+    Estado: RJ
+    CEP: 23860-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MORUMBI
+    Tipo: AV
+    Número: 2000
+    Complemento: AP 95
+    Bairro: MORUMBI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05606-100
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MORUMBI
+    Tipo: AV
+    Número: 430
+    Complemento: AP 97
+    Bairro: MORUMBI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05606-010
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: COCHRANE
+    Tipo: AV
+    Número: 83
+    Complemento: 2
+    Bairro: EMBARE
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11040-001
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: JS
+    Número: 0000066
+    Bairro: JSHS
+    Cidade: GODOFREDO VIANA
+    Estado: MA
+    CEP: 65285-000
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: CAPITAO JUSTINIANO LOPES DA CUNHA
+    Número: 0001101
+    Bairro: JARDIM BANDEIRANTES
+    Cidade: MARACANAU
+    Estado: CE
+    CEP: 61934-210
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: ANTONIO SOUZA QUEIROZ
+    Número: 0002182
+    Bairro: JARDIM FLAMBOYANT
+    Cidade: TRES LAGOAS
+    Estado: MS
+    CEP: 79630-370
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: DOUTOR HUGO LACORTE VITALE
+    Número: 0000524
+    Bairro: JARDIM UMARIZAL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05756-370
+    Fonte: ASSECC
+  [11]
+    Tipo: AV
+    Rua: COCHRANE
+    Número: 0000083
+    Bairro: EMBARE
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11040-001
+    Fonte: ASSECC
+  [12]
+    Tipo: R
+    Rua: PAULO ARENTINO
+    Número: 0000768
+    Bairro: CONJUNTO CITY JARAGUA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02998-140
+    Fonte: ASSECC
+  [13]
+    Tipo: AV
+    Rua: ANA COSTA
+    Número: 0000056
+    Bairro: VILA MATIAS
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11060-000
+    Fonte: ASSECC
+  [14]
+    Tipo: RUA
+    Rua: R SEN CESAR LACERDA VERGUEIRO  511
+    Número: 511
+    Complemento: APT 21
+    Bairro: SUMAREZINHO
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+  [15]
+    Rua: RUA AV ALM COCHRANE 83 2
+    Número: 83
+    Complemento: 2
+    Bairro: EMBARE
+    Estado: MT
+    CEP: 11040-001
+    Fonte: VIVO_PRE
+  [16]
+    Rua: AV ANA COSTA
+    Número: 56
+    Bairro: VL MATHIAS
+    Estado: MG
+    CEP: 11060-000
+    Fonte: VIVO_PRE
+  [17]
+    Rua: RUA R SAO JOSE
+    Número: 45
+    Complemento: AP 101 A
+    Bairro: POUSO ALEGRE
+    Estado: RJ
+    CEP: 36774-330
+    Fonte: VIVO_PRE
+  [18]
+    Rua: RUA R CAP JUSTINIANO LOPES DA CUNH
+    Número: 1101
+    Bairro: JD BANDEIRANTES
+    Estado: GO
+    CEP: 61934-210
+    Fonte: VIVO_PRE
+  [19]
+    Tipo: ROD
+    Rua: RIO SANTOS
+    Complemento: LT 1
+    Bairro: CENTRO
+    Cidade: PORTO BELO
+    Estado: RJ
+    CEP: 23860-000
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (40 item(s))
+  - (21) 2689-3144
+  - (21) 2689-3413
+  - (21) 2689-3420
+  - (21) 2689-3122
+  - (12) 92000-7110
+  - (77) 98149-9149
+  - (15) 99859-4958
+  - (31) 98886-4243
+  - (68) 99281-3776
+  - +55 (33) 31848-4848
+  - (98) 98562-7746
+  - (85) 99935-4608
+  - (67) 99814-0391
+  - (11) 99158-8240
+  - (71) 99969-3589
+  - (11) 99026-6045
+  - (13) 98806-3456
+  - (11) 96248-6879
+  - (13) 98806-0897
+  - (13) 99190-8686
+  - (13) 99616-1387
+  - (11) 2371-3572
+  - (66) 99944-0724
+  - (38) 99954-7958
+  - (21) 99759-0807
+  - (32) 99925-0748
+  - (11) 93443-8135
+  - (64) 99984-1878
+  - (13) 99690-7748
+  - (93) 99136-7179
+  - (91) 99290-8589
+  - (11) 94356-5789
+  - (21) 99039-7112
+  - (19) 99463-1446
+  - (11) 99418-1957
+  - (51) 98928-3855
+  - (13) 3564-3333
+  - (21) 2689-3051
+  - (11) 98697-5333
+  - (11) 99859-5222
+Paycom:
+  E-mail: sairdormkt@gmail.com
+  Data de Nascimento: 10/10/2000
+  Created At: 2021-03-02 13:49:01
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Saida
+    Número: 10
+    Bairro: Rmkt
+    Cidade: Belo Horizonte 
+    Estado: MG
+    País: Brasil
+    Telephone: +55 (33) 31848-4848
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Mosaic New: A02
+    Mosaic Secondary: A01
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO SOUZA QUEIROZ
+      Número: 2182
+      Complemento: CS 2
+      Bairro: JD FLAMBOYANT
+      Cidade: TRES LAGOAS
+      Estado: MS
+      CEP: 79630-370
+      Date Added: 16/10/2018
+    [2]
+      Tipo: ROD
+      Rua: RIO
+      Complemento: KM438 100 LT3 POR BELLO GL K4
+      Bairro: MANGARATIBA
+      Cidade: MANGARATIBA
+      Estado: RJ
+      CEP: 23860-000
+      Date Added: 21/10/2019
+    [3]
+      Tipo: AV
+      Rua: MORUMBI
+      Número: 2000
+      Complemento: AP 95
+      Bairro: MORUMBI
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05606-100
+      Date Added: 23/01/2017
+    [4]
+      Tipo: AV
+      Rua: MORUMBI
+      Número: 430
+      Complemento: AP 97
+      Bairro: MORUMBI
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05606-010
+      Date Added: 31/01/2017
+    [5]
+      Tipo: AV
+      Rua: COCHRANE
+      Número: 83
+      Complemento: 2
+      Bairro: EMBARE
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11040-001
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 35643333
+      Ddd: 13
+      Tipo: 2
+      Classificacao: D
+      Date Added: 05/04/2017
+      Info Date: 22/02/2017
+    [2]
+      Telefone: 26893051
+      Ddd: 21
+      Tipo: 2
+      Classificacao: B
+      Date Added: 20/03/2018
+      Info Date: 22/07/2017
+    [3]
+      Telefone: 26893413
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 20/03/2018
+      Info Date: 22/07/2017
+    [4]
+      Telefone: 986975333
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 29/03/2018
+    [5]
+      Telefone: 998595222
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 18/06/2019
+      Info Date: 22/02/2017
+  E-mails: (30 item(s))
+    [1]
+      E-mail: neymar2016@bol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [2]
+      E-mail: neymar11jr@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [3]
+      E-mail: neymar22jr@gmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [4]
+      E-mail: neymar33jr@gmail.com
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [5]
+      E-mail: cruzmelquisedeque@gmail.com
+      Priority: 5
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+    [6]
+      E-mail: boratanki@gmail.com
+      Priority: 6
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [7]
+      E-mail: ciclopgamersbr@gmail.com
+      Priority: 7
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [8]
+      E-mail: davidjunior2538@hotmail.com
+      Priority: 8
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [9]
+      E-mail: infinitygarden@gmail.com
+      Priority: 9
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [10]
+      E-mail: juniordavid013@gmail.com
+      Priority: 10
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [11]
+      E-mail: junnsd9@gmail.com
+      Priority: 11
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [12]
+      E-mail: moraesb91@gmail.com
+      Priority: 12
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [13]
+      E-mail: neymarda@gmail.com
+      Priority: 13
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [14]
+      E-mail: agurialokona@gmail.com
+      Priority: 14
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [15]
+      E-mail: cudenavalha@gmail.com
+      Priority: 15
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [16]
+      E-mail: evandrosarmento096@gmail.com
+      Priority: 16
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [17]
+      E-mail: amnvc@gmail.com
+      Priority: 17
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [18]
+      E-mail: ju222cam32uti@gmail.com
+      Priority: 18
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [19]
+      E-mail: maxalgueira@gmail.com
+      Priority: 19
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [20]
+      E-mail: petersonrisso@gmail.com
+      Priority: 20
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [21]
+      E-mail: petersonrisson34@gmail.com
+      Priority: 21
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [22]
+      E-mail: pietro399@gmail.com
+      Priority: 22
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [23]
+      E-mail: seubuceta6d@gmail.com
+      Priority: 23
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/08/2017
+    [24]
+      E-mail: marcoslujew@gmail.com
+      Priority: 24
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2017
+    [25]
+      E-mail: depluizrobertobr@outlook.com
+      Priority: 25
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [26]
+      E-mail: juniorcobreloamt@gmail.com
+      Priority: 26
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [27]
+      E-mail: douglascordeiro2000@outlook.com
+      Priority: 27
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [28]
+      E-mail: lukinhas_bad@hotmail.com
+      Priority: 28
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [29]
+      E-mail: vcsabia1939@bol.com.br
+      Priority: 29
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [30]
+      E-mail: nextel@nextel.com.br
+      Priority: 30
+      Quality: PESSIMO
+      Personal: N
+      Blacklisted: S
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 484
+    CSB8 FAIXA: MEDIO
+    CSBA: 368
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: NADINE GONCALVES DA SILVA SANTOS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2087.76
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 480.658.541-68
+    Nome: JOSE CARLOS DE CAMPOS
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 126
+    Bairro: JD FLAMBOYANT
+  [2]
+    CPF: 308.933.211-68
+    Nome: APARECIDA DA SILVA SALVIANO
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1651
+    Bairro: JD FLAMBOYANT
+  [3]
+    CPF: 021.247.051-56
+    Nome: VENUSINO DE ALMEIDA GIOLANDO
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1658
+    Bairro: JD FLAMBOYANT
+  [4]
+    CPF: 985.483.951-68
+    Nome: MILTON BARBOSA DE MORAES
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1535
+    Bairro: JD FLAMBOYANT
+  [5]
+    CPF: 653.729.131-34
+    Nome: KEYLA REGINA OLIVEIRA DE ARAUJO LEOPOLDO
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1648
+    Bairro: JD FLAMBOYANT
+  [6]
+    CPF: 040.470.591-02
+    Nome: GIVALDO BENITES DA SILVA
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1746
+    Bairro: JD FLAMBOYANT
+  [7]
+    CPF: 445.503.591-53
+    Nome: TEREZINHA PEREIRA
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: SN
+    Bairro: JD FLAMBOYANT
+  [8]
+    CPF: 456.610.901-10
+    Nome: REGINA CELIA OLIVEIRA DOS SANTOS
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 2101
+    Bairro: JD FLAMBOYANT
+  [9]
+    CPF: 390.667.621-87
+    Nome: AILTON OLIVEIRA DA SILVA
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1667
+    Bairro: JD FLAMBOYANT
+  [10]
+    CPF: 048.899.721-61
+    Nome: NATHALIA DIAS DA SILVA
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1831
+    Bairro: JD FLAMBOYANT
+  [11]
+    CPF: 465.827.031-53
+    Nome: LEONIDAS DOS SANTOS
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1971
+    Bairro: JD FLAMBOYANT
+  [12]
+    CPF: 272.061.901-97
+    Nome: MARIA BATISTA DE SOUZA
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 2824
+    Bairro: JD FLAMBOYANT
+  [13]
+    CPF: 029.275.641-08
+    Nome: VILSON COSTA FREITAS
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 1471
+    Bairro: JD FLAMBOYANT
+  [14]
+    CPF: 091.665.640-34
+    Nome: OROFIA PORTO
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 2180
+    Bairro: JD FLAMBOYANT
+  [15]
+    CPF: 851.005.361-87
+    Nome: ANTONIO CARLOS DA SILVA
+    Logradouro: ANTONIO SOUZA QUEIROZ
+    Número: 659
+    Bairro: JD FLAMBOYANT
+Telefones Assecc: (9 item(s))
+  [1]
+    Telefone: (98) 98562-7746
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: GODOFREDO VIANA
+    UF: MA
+  [2]
+    Telefone: (85) 99935-4608
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: MARACANAU
+    UF: CE
+  [3]
+    Telefone: (67) 99814-0391
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: TRES LAGOAS
+    UF: MS
+  [4]
+    Telefone: (11) 99158-8240
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [5]
+    Telefone: (71) 99969-3589
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: SANTOS
+    UF: SP
+  [6]
+    Telefone: (11) 99026-6045
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [7]
+    Telefone: (13) 98806-3456
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [8]
+    Telefone: (11) 96248-6879
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [9]
+    Telefone: (13) 98806-0897
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: SANTOS
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 350618480
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 27/05/2020
+    Tempo Base: 2
+    Faixa Tempo Base: Tempo de Base < 4M
+    Safra Instalacao: 202005
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 05/02/1992
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 18713
+      Classe Social: A
+      Score: 4
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 504
+        Net: 653
+        Ctv: 470
+        Faixa Cmv: 435 - 547
+        Faixa Net: 349 - 669
+        Faixa Ctv: 454 - 556
+        Risco Cmv: MEDIO
+        Risco Net: MEDIO
+        Risco Ctv: ALTISSIMO
+        Idade: 29
+Vivo Linhas: (10 item(s))
+  [1]
+    Telefone: (66) 99944-0724
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 29NOV2018
+    Ultima Recarga: 20AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 28/11/2018
+  [2]
+    Telefone: (38) 99954-7958
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 18OCT2019
+    Ultima Recarga: 07SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 18/09/2019
+  [3]
+    Telefone: (21) 99759-0807
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 29APR2020
+    Ultima Recarga: 12AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 27/04/2020
+  [4]
+    Telefone: (32) 99925-0748
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 25APR2020
+    Ultima Recarga: 20AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 25/04/2020
+  [5]
+    Telefone: (11) 93443-8135
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 05AUG2020
+    Ultima Recarga: 11SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 13/07/2020
+  [6]
+    Telefone: (64) 99984-1878
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 20MAY2020
+    Ultima Recarga: 25JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 14/03/2020
+  [7]
+    Telefone: (13) 99690-7748
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 23JUN2020
+    Ultima Recarga: 23JUN2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 23/06/2020
+  [8]
+    Telefone: (93) 99136-7179
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 25MAY2020
+    Ultima Recarga: 29JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 19/03/2020
+  [9]
+    Telefone: (91) 99290-8589
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 20/05/2020
+  [10]
+    Telefone: (11) 94356-5789
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 28/07/2020
+Telefones Operadoras: (5 item(s))
+  [1]
+    Telefone: (21) 2689-3413
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Cidade: PORTO BELO
+    UF: RJ
+    Operadora: TELEMAR - TELERJ
+    Fonte: algar
+  [2]
+    Telefone: (21) 99039-7112
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (19) 99463-1446
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (11) 99418-1957
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [5]
+    Telefone: (51) 98928-3855
+    Nome: NEYMAR DA SILVA SANTOS JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (32 item(s))
+  - maxalgueira@gmail.com
+  - sairdormkt@gmail.com
+  - neymar2016@bol.com.br
+  - neymar11jr@gmail.com
+  - neymar22jr@gmail.com
+  - neymar33jr@gmail.com
+  - cruzmelquisedeque@gmail.com
+  - boratanki@gmail.com
+  - ciclopgamersbr@gmail.com
+  - davidjunior2538@hotmail.com
+  - infinitygarden@gmail.com
+  - juniordavid013@gmail.com
+  - junnsd9@gmail.com
+  - moraesb91@gmail.com
+  - neymarda@gmail.com
+  - agurialokona@gmail.com
+  - cudenavalha@gmail.com
+  - evandrosarmento096@gmail.com
+  - amnvc@gmail.com
+  - ju222cam32uti@gmail.com
+  - petersonrisso@gmail.com
+  - petersonrisson34@gmail.com
+  - pietro399@gmail.com
+  - seubuceta6d@gmail.com
+  - marcoslujew@gmail.com
+  - depluizrobertobr@outlook.com
+  - juniorcobreloamt@gmail.com
+  - douglascordeiro2000@outlook.com
+  - lukinhas_bad@hotmail.com
+  - vcsabia1939@bol.com.br
+  - nextel@nextel.com.br
+  - mundo2telecom@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2087
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2087.76
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 18713
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (13) 3564-3333
+    Ddd: 13
+    Número: 35643333
+    Tipo: CELULAR
+    Data Inclusao: 05/04/2017
+    Data Informacao: 22/02/2017
+    Classificacao: D
+  [2]
+    Telefone: (21) 2689-3051
+    Ddd: 21
+    Número: 26893051
+    Tipo: CELULAR
+    Data Inclusao: 20/03/2018
+    Data Informacao: 22/07/2017
+    Classificacao: B
+  [3]
+    Telefone: (21) 2689-3413
+    Ddd: 21
+    Número: 26893413
+    Tipo: FIXO
+    Data Inclusao: 20/03/2018
+    Data Informacao: 22/07/2017
+    Classificacao: B
+  [4]
+    Telefone: (11) 98697-5333
+    Ddd: 11
+    Número: 986975333
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 29/03/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 99859-5222
+    Ddd: 11
+    Número: 998595222
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 22/02/2017
+    Classificacao: C2
+Processos: (2 item(s))
+  [1]
+    Número: 1048614-78.2021.8.26.0100
+    Classe: Procedimento Comum Cível
+    Assunto: Indenização por Dano Moral
+    Vara: 9ª Vara Cível
+    Data: 13/05/2021
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqdo
+        Nome: Neymar da Silva Santos Junior
+  [2]
+    Número: 0105444-96.2012.8.26.0100
+    Classe: Cautelar Inominada
+    Assunto: Liminar
+    Vara: 31ª Vara Cível
+    Data: 19/01/2012
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqdo
+        Nome: Neymar da Silva Santos Junior
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

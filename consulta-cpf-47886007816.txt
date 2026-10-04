@@ -1,0 +1,285 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  47886007816
+Data/Hora:  04/10/2026, 00:37:09
+Tempo API:  234ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 478.860.078-16
+Nome: MILENA FOGACA DE JESUS
+Primeiro Nome: MILENA
+Sobrenome: JESUS
+Sexo: Feminino
+Data de Nascimento: 03/12/1999
+Nome da Mãe: GISLAINE APARECIDA FOGACA DE JESUS
+Nome do Pai: FABIO WILLIAN PEREIRA DE JESUS
+RG: 506398614
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 543
+  Range: MEDIO
+E-mail: milebela-flor@hotmail.com
+Additional Emails: (1 item(s))
+  - milebela-flor@hotmail.com
+Federal Status: REGULAR
+Renda: 532
+Income Bracket: 1
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: MATEOS DEMARCHI 181
+  Número: 181
+  Bairro: DEMARCHI
+  Cidade: SAO BERNARDO DO CAMPO
+  Estado: SAO PAULO
+  CEP: 09820-270
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MATEOS DEMARCHI 181
+    Número: 181
+    Bairro: DEMARCHI
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SAO PAULO
+    CEP: 09820-270
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MATEOS DEMARCHI
+    Número: 181
+    Bairro: DEMARCHI
+    Cidade: SAO BERNARDO DO CAMPO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: RUA R  MATEOS DEMARCHI 181
+    Número: 181
+    Bairro: DEMARCHI
+    Estado: SP
+    CEP: 09820-270
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (14) 99848-5230
+  - (11) 94485-4763
+  - +55 (11) 95802-4377
+  - (11) 2381-3539
+  - (11) 94381-7519
+Datasus Phones: (1 item(s))
+  - (11) 2381-3539
+Cidade de Nascimento: PEDERNEIRAS - SP
+Cns: 700505508708758
+Rg Issue Date: 1169089200000
+Paycom:
+  E-mail: milebela-flor@hotmail.com
+  Data de Nascimento: 02/12/1999
+  Created At: 2019-12-08 18:21:17
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: RUA MATEOS DEMARCHI
+    Número: 181
+    Complemento: casa/caseiro
+    Bairro: Demarchi
+    Cidade: São Bernardo do Campo
+    Estado: SP
+    País: BRA
+    CEP: 09820-270
+    Telephone: +55 (11) 95802-4377
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 24/10/2019
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: MATEOS DEMARCHI
+      Número: 181
+      Bairro: DEMARCHI
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09820-270
+      Date Added: 06/04/2018
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 23813539
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [2]
+      Telefone: 943817519
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 01/04/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: milebela-flor@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 543
+    CSBA FAIXA: MEDIO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 532.25
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 428.984.158-98
+    Nome: ANTONIO GONCALVES FILHO
+    Logradouro: MATEOS DEMARCHI
+    Número: 49
+    Bairro: DEMARCHI
+  [2]
+    CPF: 072.619.258-96
+    Nome: CECILIA LEIKO HINATA WATANABE
+    Logradouro: MATEOS DEMARCHI
+    Número: 130
+    Bairro: DEMARCHI
+  [3]
+    CPF: 973.172.255-68
+    Nome: ANA JUCILENE DIAS FERREIRA DOS SANTOS
+    Logradouro: MATEOS DEMARCHI
+    Número: 1243
+    Bairro: DEMARCHI
+  [4]
+    CPF: 432.736.108-91
+    Nome: HELIO TEIXEIRA PINTO
+    Logradouro: MATEOS DEMARCHI
+    Número: 379
+    Bairro: DEMARCHI
+  [5]
+    CPF: 341.706.208-01
+    Nome: TATIANE ALMEIDA CHIOCCA
+    Logradouro: MATEOS DEMARCHI
+    Número: 214
+    Bairro: DEMARCHI
+  [6]
+    CPF: 163.562.408-81
+    Nome: KATIA YURI OSHIMA
+    Logradouro: MATEOS DEMARCHI
+    Número: 156
+    Bairro: DEMARCHI
+  [7]
+    CPF: 161.659.368-73
+    Nome: VALDEMIRO VIEIRA FILHO
+    Logradouro: MATEOS DEMARCHI
+    Número: 496
+    Bairro: DEMARCHI
+  [8]
+    CPF: 384.321.498-02
+    Nome: MONICA VETTORE MORASSI
+    Logradouro: MATEOS DEMARCHI
+    Número: SN
+    Bairro: DEMARCHI
+  [9]
+    CPF: 267.540.668-65
+    Nome: ROSEMEIRE MATEUS
+    Logradouro: MATEOS DEMARCHI
+    Número: 140
+    Bairro: DEMARCHI
+  [10]
+    CPF: 131.573.248-37
+    Nome: MARIA TEREZA MENEZES BUZO PINTO
+    Logradouro: MATEOS DEMARCHI
+    Número: 339
+    Bairro: DEMARCHI
+  [11]
+    CPF: 058.702.208-66
+    Nome: VERA LUCIA JALLAGEAS GENEROSO
+    Logradouro: MATEOS DEMARCHI
+    Número: 400
+    Bairro: DEMARCHI
+  [12]
+    CPF: 275.295.888-93
+    Nome: FLORACI DIAS DE MACEDO
+    Logradouro: MATEOS DEMARCHI
+    Número: 68
+    Bairro: DEMARCHI
+  [13]
+    CPF: 117.956.968-77
+    Nome: MARIA DE FATIMA COSTA DEMARCHI
+    Logradouro: MATEOS DEMARCHI
+    Número: 285
+    Bairro: DEMARCHI
+  [14]
+    CPF: 336.468.598-30
+    Nome: KLEBER JALLAGEAS GONCALVES
+    Logradouro: MATEOS DEMARCHI
+    Número: 496
+    Bairro: DEMARCHI
+  [15]
+    CPF: 288.022.926-04
+    Nome: WELINTOM ALDO LAINETTI
+    Logradouro: MATEOS DEMARCHI
+    Número: 76
+    Bairro: DEMARCHI
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (14) 99848-5230
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 06APR2020
+    Ultima Recarga: 02SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 12/02/2020
+E-mails: (1 item(s))
+  - milebela-flor@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 532
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 532.25
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (11) 2381-3539
+    Ddd: 11
+    Número: 23813539
+    Tipo: FIXO
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [2]
+    Telefone: (11) 94381-7519
+    Ddd: 11
+    Número: 943817519
+    Tipo: 3
+    Data Inclusao: 01/04/2019
+    Classificacao: A2
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

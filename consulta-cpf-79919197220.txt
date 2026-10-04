@@ -1,0 +1,316 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  79919197220
+Data/Hora:  02/10/2026, 16:28:23
+Tempo API:  1135ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 799.191.972-20
+Nome: ROBERTO PEREIRA DA SILVA
+Primeiro Nome: ROBERTO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 06/09/1980
+Nome da Mãe: MARIA AUREA PEREIRA
+Nome do Pai: SEM INFORMAÇÃO
+Mosaic: F23
+Ocupação: Técnico de enfermagem
+Score:
+  Value: 550
+  Range: MEDIO
+E-mail: PROGRAMADOR-WEB@OUTLOOK.COM
+Federal Status: REGULAR
+Renda: 1200
+Income Bracket: 2
+Cbo: 514320
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO PRACA
+  Número: 1010
+  Bairro: ASA BRANCA
+  Cidade: BOA VISTA
+  Estado: RORAIMA
+  CEP: 69312-320
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO PRACA
+    Número: 1010
+    Bairro: ASA BRANCA
+    Cidade: BOA VISTA
+    Estado: RORAIMA
+    CEP: 69312-320
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R PEDRO PRACA
+    Número: 2815
+    Bairro: CAMBARA
+    Cidade: BOA VISTA - RR
+    Fonte: DATASUS
+  [3]
+    Rua: PEDRO PRACA
+    Tipo: R
+    Número: 2815
+    Bairro: CAMBARA
+    Cidade: BOA VISTA
+    Estado: RR
+    CEP: 69313-468
+    Data Atualizacao: 06/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: RUA RUA DOM PEDRO I
+    Número: 10
+    Complemento: FUNDOS
+    Bairro: CENTRO
+    Estado: RR
+    CEP: 69301-190
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 702400577760227
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 07/08/2019
+    Info Date: 27/01/2008
+    Mosaic: F23
+    Mosaic New: H28
+    Mosaic Secondary: H27
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: PEDRO PRACA
+      Número: 1010
+      Bairro: ASA BRANCA
+      Cidade: BOA VISTA
+      Estado: RR
+      CEP: 69312-320
+      Date Added: 07/11/2011
+    [2]
+      Tipo: R
+      Rua: PEDRO PRACA
+      Número: 2815
+      Bairro: CAMBARA
+      Cidade: BOA VISTA
+      Estado: RR
+      CEP: 69313-468
+      Date Added: 03/08/2009
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 36263095
+      Ddd: 95
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 991211184
+      Ddd: 95
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 18/03/2015
+    [3]
+      Telefone: 991423261
+      Ddd: 95
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 08/11/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: programador-web@outlook.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 550
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA AUREA PEREIRA
+      Vinculo: MAE
+  Pis: 12613553660
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 571.44
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (5 item(s))
+  - (95) 99156-0734
+  - (95) 98413-8850
+  - (95) 3626-3095
+  - (95) 99121-1184
+  - (95) 99142-3261
+Additional Emails: (1 item(s))
+  - programador-web@outlook.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 606.807.172-34
+    Nome: MANOEL FRANCISCO MONTEIRO
+    Logradouro: PEDRO PRACA
+    Número: 985
+    Bairro: ASA BRANCA
+  [2]
+    CPF: 690.175.302-00
+    Nome: EDUARDO GOMES LAVAREDA
+    Logradouro: PEDRO PRACA
+    Número: 1279
+    Bairro: ASA BRANCA
+  [3]
+    CPF: 263.464.273-34
+    Nome: PAULO ROBERTO DE SOUZA
+    Logradouro: PEDRO PRACA
+    Número: 1362
+    Bairro: ASA BRANCA
+  [4]
+    CPF: 199.911.182-68
+    Nome: DALVACY LIMA KIKI
+    Logradouro: PEDRO PRACA
+    Número: 1270
+    Bairro: ASA BRANCA
+  [5]
+    CPF: 525.549.702-97
+    Nome: GICELIA LOPES DE ALMEIDA
+    Logradouro: PEDRO PRACA
+    Número: 1596
+    Bairro: ASA BRANCA
+  [6]
+    CPF: 859.561.042-87
+    Nome: LEONILDO RODRIGUES ROBERTINO
+    Logradouro: PEDRO PRACA
+    Número: 921
+    Bairro: ASA BRANCA
+  [7]
+    CPF: 949.485.002-59
+    Nome: LUANA ANDRIELY DA SILVA
+    Logradouro: PEDRO PRACA
+    Número: 1000
+    Bairro: ASA BRANCA
+  [8]
+    CPF: 000.686.802-95
+    Nome: HIGOR ALMEIDA SOUSA
+    Logradouro: PEDRO PRACA
+    Número: 1597
+    Bairro: ASA BRANCA
+  [9]
+    CPF: 001.283.282-07
+    Nome: JOSE RICARDO ALVES PERES
+    Logradouro: PEDRO PRACA
+    Número: 1503
+    Bairro: ASA BRANCA
+  [10]
+    CPF: 027.027.522-33
+    Nome: ANTONIO VALDONE GOMES FERREIRA JUNIOR
+    Logradouro: PEDRO PRACA
+    Número: 938
+    Bairro: ASA BRANCA
+  [11]
+    CPF: 009.881.782-57
+    Nome: DIANA ESTELAMARIS SANTOS DA SILVA
+    Logradouro: PEDRO PRACA
+    Número: 1016
+    Bairro: ASA BRANCA
+  [12]
+    CPF: 849.964.202-00
+    Nome: ANA KAROLINA BATISTA LAVAREDA
+    Logradouro: PEDRO PRACA
+    Número: 1279
+    Bairro: ASA BRANCA
+  [13]
+    CPF: 774.820.002-59
+    Nome: NADYSON SAMPAIO DA SILVA
+    Logradouro: PEDRO PRACA
+    Número: 1208
+    Bairro: ASA BRANCA
+  [14]
+    CPF: 747.475.092-91
+    Nome: MARCELO GOMES DA SILVA
+    Logradouro: PEDRO PRACA
+    Número: 971
+    Bairro: ASA BRANCA
+  [15]
+    CPF: 382.006.272-68
+    Nome: MARIA MARTA DE SOUZA GOMES
+    Logradouro: PEDRO PRACA
+    Número: 922
+    Bairro: ASA BRANCA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (95) 99156-0734
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 30AUG2020
+    Ultima Recarga: 30AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 30/08/2020
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (95) 98413-8850
+    Nome: ROBERTO PEREIRA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - programador-web@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1200
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 571.44
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (95) 3626-3095
+    Ddd: 95
+    Número: 36263095
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (95) 99121-1184
+    Ddd: 95
+    Número: 991211184
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: A1
+  [3]
+    Telefone: (95) 99142-3261
+    Ddd: 95
+    Número: 991423261
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: A2
+Occupation Code: 322205
+Occupation Name: Técnico de enfermagem
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

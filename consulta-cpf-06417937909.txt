@@ -1,0 +1,255 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06417937909
+Data/Hora:  04/10/2026, 07:53:08
+Tempo API:  838ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 064.179.379-09
+Nome: INGRID BAMBERG FIGUEIREDO
+Primeiro Nome: INGRID
+Sobrenome: FIGUEIREDO
+Sexo: Feminino
+Data de Nascimento: 28/08/1985
+Nome da Mãe: ELENITA TERESA BAMBERG FIGUEIREDO
+Score:
+  Value: 645
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 958
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+All Addresses: (3 item(s))
+  [1]
+    Rua: DO ANGICO
+    Tipo: R
+    Número: SN
+    Complemento: 147
+    Bairro: CJ B
+    Cidade: FOZ DO IGUACU
+    Estado: PR
+    CEP: 85867-100
+    Classificacao: residencial
+    Fonte: SERASA
+  [2]
+    Tipo: [empty]
+    Rua: SEM ENDERECO
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: PR
+    CEP: 00000-000
+    Fonte: ASSECC
+  [3]
+    Tipo: R
+    Rua: DO ANGICO
+    Número: 0000147
+    Bairro: CONJUNTO B
+    Cidade: FOZ DO IGUACU
+    Estado: PR
+    CEP: 85867-100
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (45) 99908-6561
+  - (45) 98414-0758
+  - (45) 98837-4874
+  - (45) 99107-5292
+  - (45) 99107-8626
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/11/2019
+    Mosaic New: C07
+    Mosaic Secondary: C06
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: DO ANGICO
+      Número: SN
+      Complemento: 147
+      Bairro: CJ B
+      Cidade: FOZ DO IGUACU
+      Estado: PR
+      CEP: 85867-100
+      Date Added: 02/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 991075292
+      Ddd: 45
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/07/2012
+    [2]
+      Telefone: 991078626
+      Ddd: 45
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2014
+  Score:
+    CSBA: 645
+    CSBA FAIXA: BAIXO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 201.926.060-34
+      Nome: ELENITA TERESA BAMBERG FIGUEIREDO
+      Vinculo: MAE
+    [2]
+      CPF: 2990778969
+      Nome: MARCELO BAMBERG ROJAS
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 958.28
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 494.536.537-72
+    Nome: NEUZA SUELY FERREIRA MESCOLIN
+    Logradouro: DO ANGICO
+    Número: 198
+    Bairro: CJ B
+  [2]
+    CPF: 071.024.649-83
+    Nome: JANE PRISCILA PEREIRA SOARES
+    Logradouro: DO ANGICO
+    Número: 147
+    Bairro: CJ B
+  [3]
+    CPF: 401.875.789-15
+    Nome: JOAO CARLOS ZEHNPFENNIG
+    Logradouro: DO ANGICO
+    Número: 145
+    Bairro: CJ B
+  [4]
+    CPF: 055.650.111-08
+    Nome: LARISSA SARTORI
+    Logradouro: DO ANGICO
+    Número: 146
+    Bairro: CJ B
+  [5]
+    CPF: 969.232.619-53
+    Nome: CRISTIANE HARUMI SANADA GALPERIN
+    Logradouro: DO ANGICO
+    Número: 197
+    Bairro: CJ B
+  [6]
+    CPF: 446.904.879-87
+    Nome: MAURICIO FERREIRA DA SILVA
+    Logradouro: DO ANGICO
+    Número: 177
+    Bairro: CJ B
+  [7]
+    CPF: 016.235.799-02
+    Nome: MARIA JOSE DA SILVA
+    Logradouro: DO ANGICO
+    Número: 139
+    Bairro: CJ B
+  [8]
+    CPF: 367.098.247-72
+    Nome: JOAO MURAKAMI
+    Logradouro: DO ANGICO
+    Número: 142
+    Bairro: CJ B
+  [9]
+    CPF: 046.433.669-40
+    Nome: ANDRE LUIZ BERTOLI
+    Logradouro: DO ANGICO
+    Número: 146
+    Bairro: CJ B
+  [10]
+    CPF: 299.275.828-03
+    Nome: GUILLERMO RODRIGUEZ YRRAZABAL
+    Logradouro: DO ANGICO
+    Número: 178
+    Bairro: CJ B
+  [11]
+    CPF: 662.560.899-87
+    Nome: CELIA DUTRA DE OLIVEIRA
+    Logradouro: DO ANGICO
+    Número: 182
+    Bairro: CJ B
+  [12]
+    CPF: 020.684.629-07
+    Nome: ELOISA BACELLAR MELLO
+    Logradouro: DO ANGICO
+    Número: 147
+    Bairro: CJ B
+  [13]
+    CPF: 228.910.486-87
+    Nome: JOSE CARLOS DE GODOI E SILVA
+    Logradouro: DO ANGICO
+    Número: 178
+    Bairro: CJ B
+  [14]
+    CPF: 142.169.819-68
+    Nome: ELSA REGINA COELHO PELLEGRINI
+    Logradouro: DO ANGICO
+    Número: 188
+    Bairro: CJ B
+  [15]
+    CPF: 553.130.359-91
+    Nome: MARCIA RITA CORTIANO
+    Logradouro: DO ANGICO
+    Número: 191
+    Bairro: CJ B
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (45) 99908-6561
+    Nome: INGRID BAMBERG FIGUEIREDO
+    Cidade: [empty]
+    UF: PR
+  [2]
+    Telefone: (45) 99107-5292
+    Nome: INGRID BANBERG FIGUEREDO
+    Cidade: FOZ DO IGUACU
+    UF: PR
+  [3]
+    Telefone: (45) 99107-8626
+    Nome: INGRID BANBERG FIGUEREDO
+    Cidade: FOZ DO IGUACU
+    UF: PR
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 958
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 958.28
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (45) 99107-5292
+    Ddd: 45
+    Número: 991075292
+    Tipo: 3
+    Data Inclusao: 06/07/2012
+    Classificacao: D
+  [2]
+    Telefone: (45) 99107-8626
+    Ddd: 45
+    Número: 991078626
+    Tipo: 3
+    Data Inclusao: 17/12/2014
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,417 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06798786537
+Data/Hora:  03/10/2026, 16:15:28
+Tempo API:  806ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 067.987.865-37
+Nome: JOBSON VILAS BOAS DOS REIS
+Primeiro Nome: JOBSON
+Sobrenome: REIS
+Sexo: Masculino
+Data de Nascimento: 02/12/1993
+Nome da Mãe: ROZANEI DE VILAS BOAS DOS REIS
+Ocupação: Administrador
+Score:
+  Value: 141
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1191
+Income Bracket: 2
+Cbo: 717020
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MORRO DO CHAPEU
+  Bairro: LAGES
+  Cidade: JACOBINA
+  Estado: BAHIA
+  CEP: 44700-000
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MORRO DO CHAPEU
+    Bairro: LAGES
+    Cidade: JACOBINA
+    Estado: BAHIA
+    CEP: 44700-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AFONSO COSTA
+    Número: 116
+    Bairro: CENTRO
+    Cidade: JACOBINA
+    Estado: BA
+    CEP: 44700-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: RUI BARBOSA
+    Número: 173
+    Bairro: CENTRO
+    Cidade: PATROCINIO
+    Estado: MG
+    CEP: 38740-000
+    Data Atualizacao: 28/05/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: JACOBINA RUA PARAIBA
+    Número: 81
+    Bairro: SERRINHA
+    Cidade: JACOBINA
+    Estado: BA
+    CEP: 44700-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: COSME DE FARIAS
+    Tipo: R
+    Número: 54
+    Complemento: C ALUGADA
+    Bairro: CENTRO
+    Cidade: JACOBINA
+    Estado: BA
+    CEP: 44700-000
+    Data Atualizacao: 04/01/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: COSME DE FARIAS
+    Tipo: R
+    Número: 64
+    Complemento: C
+    Bairro: SERRINHA
+    Cidade: JACOBINA
+    Estado: BA
+    CEP: 44700-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: TV
+    Rua: 0000028
+    Número: SAO BENEDITO
+    Bairro: BANANEIRA
+    Cidade: JACOBINA
+    Estado: BA
+    CEP: 44700-000
+    Fonte: ASSECC
+  [8]
+    Tipo: AV
+    Rua: 0000021
+    Número: 03
+    Bairro: MUNDO NOVO
+    Cidade: BREJOLANDIA
+    Estado: BA
+    CEP: 47750-000
+    Fonte: ASSECC
+  [9]
+    Rua: AFONSO COSTA
+    Número: 116
+    Bairro: CENTRO
+    Estado: BA
+    CEP: 44700-000
+    Fonte: VIVO_PRE
+  [10]
+    Rua: TV SAO BENEDITO
+    Número: 28
+    Bairro: BANANEIRA
+    Estado: BA
+    CEP: 44700-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (74) 98141-3628
+  - (74) 99915-6140
+  - (74) 98837-2417
+  - (74) 98848-7803
+  - (74) 98120-6722
+  - (74) 98132-9408
+  - (74) 99957-3986
+  - (74) 99966-3055
+  - (74) 3621-7543
+  - (74) 98851-6207
+  - (74) 99965-3330
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Mosaic New: K38
+    Mosaic Secondary: K35
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Rua: AFONSO COSTA
+      Número: 116
+      Bairro: CENTRO
+      Cidade: JACOBINA
+      Estado: BA
+      CEP: 44700-000
+      Date Added: 01/02/2018
+    [2]
+      Rua: RUI BARBOSA
+      Número: 173
+      Bairro: CENTRO
+      Cidade: PATROCINIO
+      Estado: MG
+      CEP: 38740-000
+      Date Added: 30/04/2015
+    [3]
+      Rua: JACOBINA RUA PARAIBA
+      Número: 81
+      Bairro: SERRINHA
+      Cidade: JACOBINA
+      Estado: BA
+      CEP: 44700-000
+      Date Added: 14/01/2020
+    [4]
+      Tipo: R
+      Rua: COSME DE FARIAS
+      Número: 54
+      Complemento: C ALUGADA
+      Bairro: CENTRO
+      Cidade: JACOBINA
+      Estado: BA
+      CEP: 44700-000
+      Date Added: 18/09/2013
+    [5]
+      Tipo: R
+      Rua: COSME DE FARIAS
+      Número: 64
+      Complemento: C
+      Bairro: SERRINHA
+      Cidade: JACOBINA
+      Estado: BA
+      CEP: 44700-000
+      Date Added: 21/10/2012
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 36217543
+      Ddd: 74
+      Tipo: 1
+      Classificacao: D
+      Date Added: 23/08/2016
+    [2]
+      Telefone: 999573986
+      Ddd: 74
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/05/2017
+    [3]
+      Telefone: 988516207
+      Ddd: 74
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [4]
+      Telefone: 981329408
+      Ddd: 74
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [5]
+      Telefone: 999653330
+      Ddd: 74
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSB8: 85
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 141
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ROZANEI DE VILAS BOAS DOS REIS
+      Vinculo: MAE
+  Pis: 15349336278
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 569.42
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 020.357.735-39
+    Nome: SIVANILDA VIRGENS DOS SANTOS
+    Logradouro: PO ALAGADICO JUNCO
+    Número: 340
+    Bairro: RURAL JUNCO
+  [2]
+    CPF: 031.026.935-04
+    Nome: ELISANGELA CONCEICAO DOS SANTOS
+    Logradouro: QUINTINO ALVES
+    Número: 647
+    Bairro: CENTRO LAGES
+  [3]
+    CPF: 031.267.335-30
+    Nome: ALESANDRA GONZAGA GOMES DA SILVA
+    Logradouro: DO POSTO
+    Número: 1
+    Bairro: JUNCO
+  [4]
+    CPF: 023.405.055-18
+    Nome: BENEDITO SOUSA SANTOS
+    Logradouro: PO SOROPO
+    Número: 150
+    Bairro: SOROPO
+  [5]
+    CPF: 052.213.146-81
+    Nome: ZENON AMERICO GOMES
+    Logradouro: DOS ARTISTAS
+    Número: 131
+  [6]
+    CPF: 026.493.345-17
+    Nome: SERGIO GOMES DA SILVA
+    Logradouro: DO CIGANO
+    Número: 105
+    Bairro: CENTRO JUNCO
+  [7]
+    CPF: 034.278.315-74
+    Nome: RICARDO SOUSA DOS SANTOS
+    Logradouro: ADEMAR SILVEIRA
+    Número: 76
+    Bairro: CENTRO
+  [8]
+    CPF: 036.668.285-74
+    Nome: MARIA APARECIDA VIEIRA MARTINS
+    Logradouro: NOVA BRASILIA
+    Número: 238
+    Bairro: VL FELIZ
+  [9]
+    CPF: 041.156.225-80
+    Nome: EDILEIDE FERREIRA DE SOUSA
+    Logradouro: CRISTOVAO
+    Número: 47
+    Bairro: CENTRO PARAISO
+  [10]
+    CPF: 020.233.255-10
+    Nome: JOSSIANO SOARES DE SOUSA
+    Logradouro: RITA
+    Número: 380
+  [11]
+    CPF: 042.079.405-02
+    Nome: ROSILANE GONZAGA DE SOUZA
+    Logradouro: DO PARA
+    Número: 116
+    Bairro: SERRINHA
+  [12]
+    CPF: 263.588.245-20
+    Nome: ENIVALDO MACIEL DE PINHO
+    Logradouro: GILBERTO MIRANDA
+    Número: 12
+    Bairro: DT DE JUN
+  [13]
+    CPF: 027.190.365-10
+    Nome: MAILSON SAMPAIO CARDOSO
+    Logradouro: GERALDO
+    Número: 106
+    Bairro: LEADER
+  [14]
+    CPF: 688.353.535-72
+    Nome: JOAO BATISTA DE ASSIS CERQUEIRA
+    Logradouro: UM T U M PASSOS
+    Número: 46
+    Bairro: CAEIRA
+  [15]
+    CPF: 042.707.125-97
+    Nome: ADALTO NASCIMENTO DA SILVA
+    Logradouro: TAPULHO
+    Número: 165
+    Bairro: ZONA RURAL
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (74) 99915-6140
+    Nome: JOBSON  VILAS BOAS DOS REIS
+    Cidade: JACOBINA
+    UF: BA
+  [2]
+    Telefone: (74) 98132-9408
+    Nome: JOBSON VILAS BOAS DOS REIS
+    Cidade: BREJOLANDIA
+    UF: BA
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (74) 99957-3986
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 12FEB2016
+    Ultima Recarga: 03SEP2020
+    Telefone Anterior: (74) 9957-3986
+    Plano: PF_PRE_PURO
+    Data Instalacao: 12/02/2016
+  [2]
+    Telefone: (74) 99966-3055
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 16AUG2016
+    Ultima Recarga: 18JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 20/02/2016
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1191
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 569.42
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (74) 3621-7543
+    Ddd: 74
+    Número: 36217543
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [2]
+    Telefone: (74) 99957-3986
+    Ddd: 74
+    Número: 999573986
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: A0
+  [3]
+    Telefone: (74) 98851-6207
+    Ddd: 74
+    Número: 988516207
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (74) 98132-9408
+    Ddd: 74
+    Número: 981329408
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (74) 99965-3330
+    Ddd: 74
+    Número: 999653330
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

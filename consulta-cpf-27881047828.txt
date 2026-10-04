@@ -1,0 +1,468 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  27881047828
+Data/Hora:  02/10/2026, 15:43:45
+Tempo API:  20508ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 278.810.478-28
+Nome: JOSE IGNACIO BARRUTIA LANDETA JUNIOR
+Primeiro Nome: JOSE
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 10/03/1978
+Nome da Mãe: SANDRA MARIA SIMOES DOS SANTOS BARRUTIA LANDETA
+Nome do Pai: JOSE IGNACIO BARRUTIA LANDETA
+RG: 34156207
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 276173380141
+Mosaic: G26
+Ocupação: Soldado da polícia militar
+Score:
+  Value: 434
+  Range: MEDIO
+E-mail: JR.BARRUTIA@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 1449
+Income Bracket: 2
+Cbo: 21210
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: EXP NOVARINO LEITE SANTOS
+  Número: 260
+  Bairro: INDAIA
+  Cidade: CARAGUATATUBA
+  Estado: SAO PAULO
+  CEP: 11665-210
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EXP NOVARINO LEITE SANTOS
+    Número: 260
+    Bairro: INDAIA
+    Cidade: CARAGUATATUBA
+    Estado: SAO PAULO
+    CEP: 11665-210
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EXPEDICIONARIO NOVARINO LEITE SANTOS
+    Número: 260
+    Bairro: INDAIA
+    Cidade: CARAGUATATUBA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: MANOEL EDUARDO DE MORAES
+    Tipo: R
+    Número: 56
+    Complemento: S SEBAST
+    Bairro: ENSEADA
+    Cidade: SAO SEBASTIAO
+    Estado: SP
+    CEP: 11602-367
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ODETE GARCIA
+    Tipo: R
+    Número: 992
+    Complemento: JD MORUMBI C
+    Bairro: CIDADE MORUMBI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12236-430
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: NOVARINO LEITE SANTOS
+    Tipo: R
+    Número: 250
+    Bairro: INDAIA
+    Cidade: CARAGUATATUBA
+    Estado: SP
+    CEP: 11665-210
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: GERALDO NOGUEIRA DA SILVA
+    Tipo: AV
+    Número: 250
+    Bairro: INDAIA
+    Cidade: CARAGUATATUBA
+    Estado: SP
+    CEP: 11665-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: EXPEDICIONARIO NOVARINO LEITE SANTOS
+    Rua: R
+    Número: 0000260
+    Bairro: INDAIA
+    Cidade: CARAGUATATUBA
+    Estado: 11665210
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (12) 99741-1871
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 707807647068517
+Rg Issue Date: 1273719600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/01/2020
+    Info Date: 06/12/2007
+    Mosaic: G26
+    Mosaic New: G22
+    Mosaic Secondary: G23
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: NOVARINO LEITE SANTOS
+      Número: 260
+      Bairro: INDAIA
+      Cidade: CARAGUATATUBA
+      Estado: SP
+      CEP: 11665-210
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: MANOEL EDUARDO DE MORAES
+      Número: 56
+      Complemento: S SEBAST
+      Bairro: ENSEADA
+      Cidade: SAO SEBASTIAO
+      Estado: SP
+      CEP: 11602-367
+      Date Added: 02/02/2016
+    [3]
+      Tipo: R
+      Rua: ODETE GARCIA
+      Número: 992
+      Complemento: JD MORUMBI C
+      Bairro: CIDADE MORUMBI
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12236-430
+      Date Added: 30/04/2015
+    [4]
+      Tipo: R
+      Rua: NOVARINO LEITE SANTOS
+      Número: 250
+      Bairro: INDAIA
+      Cidade: CARAGUATATUBA
+      Estado: SP
+      CEP: 11665-210
+      Date Added: 09/10/2013
+    [5]
+      Tipo: AV
+      Rua: GERALDO NOGUEIRA DA SILVA
+      Número: 250
+      Bairro: INDAIA
+      Cidade: CARAGUATATUBA
+      Estado: SP
+      CEP: 11665-000
+      Date Added: 17/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991449855
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 08/05/2006
+    [2]
+      Telefone: 996284707
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 997569919
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/02/2017
+    [4]
+      Telefone: 988086554
+      Ddd: 12
+      Tipo: 3
+      Classificacao: C
+      Date Added: 20/07/2017
+    [5]
+      Telefone: 38832225
+      Ddd: 12
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+      Info Date: 19/10/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: jr.barrutia@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 392
+    CSB8 FAIXA: MEDIO
+    CSBA: 434
+    CSBA FAIXA: MEDIO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 306.315.148-30
+      Nome: ADRIANA HENRIQUE BARRUTIA LANDETA
+      Vinculo: CONJUGE
+    [2]
+      CPF: 170.858.508-76
+      Nome: ELISABETE VARELA HENRIQUE
+      Vinculo: SOGRA
+    [3]
+      Nome: SANDRA MARIA SIMOES DOS SANTOS BARRUTIA LANDETA
+      Vinculo: MAE
+  Tse:
+    Titulo: 276173380141
+    Zona: 206
+    Secao: 69
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1449.35
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (9 item(s))
+  - (12) 99167-0335
+  - (12) 99741-1871
+  - (12) 98186-3345
+  - (12) 2103-5592
+  - (12) 99144-9855
+  - (12) 99628-4707
+  - (12) 99756-9919
+  - (12) 98808-6554
+  - (12) 3883-2225
+Additional Emails: (2 item(s))
+  - jr.barrutia@hotmail.com
+  - juniorparrutialandeta@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 293.736.468-34
+    Nome: CARLOS ROBERTO ALVES LECLERC
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 263
+    Bairro: INDAIA
+  [2]
+    CPF: 123.049.808-72
+    Nome: MIGUEL BONET PARES
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 105
+    Bairro: INDAIA
+  [3]
+    CPF: 885.991.248-20
+    Nome: IVA NUNES DE SOUZA CRUZ
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 195
+    Bairro: INDAIA
+  [4]
+    CPF: 018.717.087-88
+    Nome: RONALDO DA SILVA
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 340
+    Bairro: INDAIA
+  [5]
+    CPF: 361.485.788-32
+    Nome: DOUGLAS RAFAEL DE ALARCAO
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 340
+    Bairro: INDAIA
+  [6]
+    CPF: 124.716.248-63
+    Nome: OSMAR OSORIO SOARES
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 340
+    Bairro: INDAIA
+  [7]
+    CPF: 123.049.808-72
+    Nome: MIGUEL BONET PARES
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 105
+    Bairro: INDAIA
+  [8]
+    CPF: 322.801.938-17
+    Nome: VIVIANE JESUS DA SILVA
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 120
+    Bairro: INDAIA
+  [9]
+    CPF: 263.209.498-48
+    Nome: SILVIA FERNANDEZ NAVARRO DOS SANTOS
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 105
+    Bairro: INDAIA
+  [10]
+    CPF: 460.447.018-91
+    Nome: MARIA DAS GRACAS SOARES
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 340
+    Bairro: INDAIA
+  [11]
+    CPF: 019.471.878-64
+    Nome: LAIS DE FATIMA SIQUEIRA
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 493
+    Bairro: INDAIA
+  [12]
+    CPF: 016.218.761-01
+    Nome: LEANDRO PINHEIRO DELMIRO
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 85
+    Bairro: INDAIA
+  [13]
+    CPF: 172.941.998-41
+    Nome: BEATRIZ NUNES DE PINHO
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 195
+    Bairro: INDAIA
+  [14]
+    CPF: 226.713.808-52
+    Nome: PAULO EDUARDO MOTTA NOVIELLO
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 263
+    Bairro: INDAIA
+  [15]
+    CPF: 118.728.078-01
+    Nome: ARTUR MARQUES BRONZATTI
+    Logradouro: NOVARINO LEITE SANTOS
+    Número: 110
+    Bairro: INDAIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (12) 99167-0335
+    Nome: JOSE IGNACIO BARRUTIA LANDETA JUNIOR
+    Cidade: CARAGUATATUBA
+    UF: 11665210
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 1024298
+    Operadora: 553
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 15/08/2019
+    Tempo Base: 12
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201908
+    Geo:
+      —
+    Nascimento: 10/03/1978
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 6947
+      Classe Social: B2
+      Score: 668
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 476
+        Net: 502
+        Ctv: 526
+        Faixa Cmv: 435 - 547
+        Faixa Net: 349 - 669
+        Faixa Ctv: 454 - 556
+        Risco Cmv: MEDIO
+        Risco Net: MEDIO
+        Risco Ctv: ALTISSIMO
+        Idade: 42
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (12) 2103-5592
+    Nome: JOSE IGNACIO BARRUTIA LANDETA JUNIOR
+    Cidade: CARAGUATATUBA
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+  [2]
+    Telefone: (12) 99167-0335
+    Nome: JOSE IGNACIO BARRUTIA LANDETA JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - jr.barrutia@hotmail.com
+  - juniorparrutialandeta@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1449
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1449.35
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 6947
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (12) 99144-9855
+    Ddd: 12
+    Número: 991449855
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 08/05/2006
+    Classificacao: D
+  [2]
+    Telefone: (12) 99628-4707
+    Ddd: 12
+    Número: 996284707
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (12) 99756-9919
+    Ddd: 12
+    Número: 997569919
+    Tipo: 3
+    Data Inclusao: 08/02/2017
+    Classificacao: D
+  [4]
+    Telefone: (12) 98808-6554
+    Ddd: 12
+    Número: 988086554
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: C
+  [5]
+    Telefone: (12) 3883-2225
+    Ddd: 12
+    Número: 38832225
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Data Informacao: 19/10/2016
+    Classificacao: B
+Occupation Code: 21210
+Occupation Name: Soldado da polícia militar
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

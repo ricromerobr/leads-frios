@@ -1,0 +1,384 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03045460380
+Data/Hora:  03/10/2026, 14:52:07
+Tempo API:  757ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 030.454.603-80
+Nome: JOAO PAULO JULIAO DA SILVA
+Primeiro Nome: JOAO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 22/11/1986
+Nome da Mãe: EDNA JULIAO DE SOUSA
+Nome do Pai: ANTONIO GREGORIO DA SILVA
+Mosaic: J37
+Ocupação: Repositor de mercadorias
+Score:
+  Value: 48
+  Range: ALTISSIMO
+E-mail: j_po_cara@hotmail.com
+Additional Emails: (2 item(s))
+  - j_po_cara@hotmail.com
+  - pepetopalhaco50@gmail.com
+Federal Status: REGULAR
+Renda: 998
+Income Bracket: 1
+Cbo: 521125
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO PORPINO DA SILVA
+  Número: 932
+  Complemento: PROXIMO A UEPA
+  Bairro: IANETAMA
+  Cidade: CASTANHAL
+  Estado: PARA
+  CEP: 68744-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO PORPINO DA SILVA
+    Número: 932
+    Complemento: PROXIMO A UEPA
+    Bairro: IANETAMA
+    Cidade: CASTANHAL
+    Estado: PARA
+    CEP: 68744-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LUIS ALEXANDRINO DE OLIVEIRA
+    Número: 30
+    Bairro: JOSE OSIMO
+    Cidade: TAUA - CE
+    Fonte: DATASUS
+  [3]
+    Rua: TRAVESSA LUIS ALEXADRINO
+    Número: 30
+    Bairro: CIDADE NOVA
+    Cidade: TAUA
+    Estado: CE
+    CEP: 63660-000
+    Fonte: SARAIVA
+  [4]
+    Rua: RAIMUNDO NANATO FILHO
+    Número: 15
+    Bairro: STA TEREZA
+    Cidade: TAUA
+    Estado: CE
+    CEP: 63660-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MURILO DE OLIVEIRA LEITE
+    Tipo: R
+    Número: 180
+    Bairro: SAGRADO CORACAO DE JESUS
+    Cidade: PONTE NOVA
+    Estado: MG
+    CEP: 35430-108
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: DOM DOM FEITOSA
+    Rua: [empty]
+    Número: 0000030
+    Bairro: CENTRO
+    Cidade: TAUA
+    Estado: CE
+    CEP: 06366-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (88) 98174-7985
+  - (88) 8816-5643
+  - 558881233123
+  - (88) 98816-5643
+  - (88) 99928-5984
+  - (88) 99690-2216
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: TAUA - CE
+Cns: 700006186463901
+Saraiva:
+  Customer Id: 6806858
+  Telefone: (88) 8816-5643
+  E-mail: J_PO_CARA@HOTMAIL.COM
+  Data de Nascimento: 22/11/1986
+Paycom:
+  E-mail: pepetopalhaco50@gmail.com
+  Data de Nascimento: 22/11/1986
+  Created At: 2020-03-31 19:10:11
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua José Carvalho, Casa
+    Número: 311
+    Bairro: Cidade Nova
+    Cidade: Tauá
+    Estado: CE
+    País: BRA
+    CEP: 63660-000
+    Telephone: 558881233123
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/10/2019
+    Info Date: 10/10/2007
+    Mosaic: J37
+    Mosaic New: I31
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: TV
+      Rua: LUIS A OLIVEIR
+      Número: 30
+      Cidade: TAUA
+      Estado: CE
+      CEP: 63660-000
+      Date Added: 02/03/2009
+    [2]
+      Rua: RAIMUNDO NANATO FILHO
+      Número: 15
+      Bairro: STA TEREZA
+      Cidade: TAUA
+      Estado: CE
+      CEP: 63660-000
+      Date Added: 30/04/2015
+    [3]
+      Rua: LUIS ALEXANDRINO
+      Número: 30
+      Bairro: CIDADE NOVA
+      Cidade: TAUA
+      Estado: CE
+      CEP: 63660-000
+      Date Added: 29/06/2015
+    [4]
+      Tipo: R
+      Rua: MURILO DE OLIVEIRA LEITE
+      Número: 180
+      Bairro: SAGRADO CORACAO DE JESUS
+      Cidade: PONTE NOVA
+      Estado: MG
+      CEP: 35430-108
+      Date Added: 19/03/2015
+    [5]
+      Tipo: R
+      Rua: PEDRO PORPINO DA SILVA
+      Número: 932
+      Complemento: PROXIMO A UEPA
+      Bairro: IANETAMA
+      Cidade: CASTANHAL
+      Estado: PA
+      CEP: 68744-000
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 988165643
+      Ddd: 88
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [2]
+      Telefone: 999285984
+      Ddd: 88
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+    [3]
+      Telefone: 996902216
+      Ddd: 88
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: j_po_cara@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 377
+    CSB8 FAIXA: MEDIO
+    CSBA: 48
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 458.589.423-34
+      Nome: MARCELINA JULIAO DE SOUSA
+      Vinculo: AVO
+    [2]
+      CPF: 427.305.623-20
+      Nome: EBNER JULIAO DE SOUSA
+      Vinculo: TIA(O)
+    [3]
+      CPF: 289.793.068-30
+      Nome: LIEDINA JULIAO DE SOUSA
+      Vinculo: TIA(O)
+    [4]
+      CPF: 4512798323
+      Nome: ANTONIA MARINARA JULIAO DA SILVA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 302.899.983-87
+      Nome: ANTONIA EDNA JULIAO DE SOUSA
+      Vinculo: MAE
+  Pis: 16341696931
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 302.31
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 024.525.503-61
+    Nome: ALDETE EVANGELISTA DE OLIVEIRA
+    Logradouro: JOAQUIM DE SOUZA FELIX
+    Número: 299
+    Bairro: AT BRILHANTE
+  [2]
+    CPF: 036.623.693-89
+    Nome: ANA PAULA AVELINO ANDRADE
+    Logradouro: FRANCISCA LIMA
+    Número: 24
+    Bairro: AT BRILHANTE
+  [3]
+    CPF: 036.996.883-21
+    Nome: EMANUELA CAVALCANTE FARIAS
+    Logradouro: CACHOEIRINHA
+    Número: 3800
+    Bairro: SEDE
+  [4]
+    CPF: 039.964.973-50
+    Nome: ANA JESSICA FERREIRA DA SILVA
+    Logradouro: TORQUATO R DA SILVA
+    Número: 166
+    Bairro: TAUA
+  [5]
+    CPF: 016.946.583-76
+    Nome: ANTONIO FERNANDES DE SOUSA
+    Logradouro: ALGODOES
+    Número: 222
+    Bairro: D CARRAPATEIRAS
+  [6]
+    CPF: 042.473.473-73
+    Nome: ANA PAULA FERREIRA DO NASCIMENTO
+    Logradouro: VENANCIO DE MELO
+    Número: 186
+    Bairro: BEZERRA E SOUSA
+  [7]
+    CPF: 097.998.693-15
+    Nome: MANOEL PEREIRA SOARES
+    Logradouro: JOSE SCARCELA
+    Número: 40
+    Bairro: AT BRILHANTE
+  [8]
+    CPF: 818.917.413-49
+    Nome: ALEXANDRA RODRIGUES DA SILVA
+    Logradouro: ADERSON FERREIRA DOS REIS
+    Número: 264
+    Bairro: MEIRELES
+  [9]
+    CPF: 050.127.833-87
+    Nome: RAIMUNDO NORONHA CARACAS
+    Logradouro: DONDON FEITOSA
+    Número: 114
+  [10]
+    CPF: 052.365.503-78
+    Nome: CREUSA CARLOS GREGORIO OLIVEIRA
+    Logradouro: LUIS ALEXANDRINO OLIVEIRA
+    Número: 20
+    Bairro: CENTRO
+  [11]
+    CPF: 052.374.083-20
+    Nome: MIGUEL ARCANJO BEZERRA
+    Logradouro: DA CONFIANCA
+    Número: SN
+  [12]
+    CPF: 052.376.533-91
+    Nome: ANTONIO LIMA MEIRELES
+    Logradouro: DONDON FEITOSA
+    Número: 503
+  [13]
+    CPF: 049.333.203-06
+    Nome: JOAO CIDRAO SOUTO
+    Logradouro: MAFISA CIDRAO ROCHA
+    Número: 37
+  [14]
+    CPF: 381.739.991-04
+    Nome: IRACEMA FRANCISCA DE LACERDA
+    Logradouro: ODORICO DE ANDRADE
+    Número: 413
+    Bairro: AT BRILHANTE
+  [15]
+    CPF: 606.498.113-05
+    Nome: AQUILES FEITOSA MOREIRA
+    Logradouro: OLHO DAGUA DOS MOTAS
+    Número: 1
+    Bairro: MARRUAS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (88) 98174-7985
+    Nome: JOAO PAULO JULIAO DA SILVA
+    Cidade: TAUA
+    UF: CE
+E-mails: (2 item(s))
+  - j_po_cara@hotmail.com
+  - pepetopalhaco50@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 998
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 302.31
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (88) 98816-5643
+    Ddd: 88
+    Número: 988165643
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [2]
+    Telefone: (88) 99928-5984
+    Ddd: 88
+    Número: 999285984
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+  [3]
+    Telefone: (88) 99690-2216
+    Ddd: 88
+    Número: 996902216
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+Occupation Code: 521125
+Occupation Name: Repositor de mercadorias
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

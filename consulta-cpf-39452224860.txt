@@ -1,0 +1,401 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  39452224860
+Data/Hora:  02/10/2026, 17:00:49
+Tempo API:  424ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 394.522.248-60
+Nome: RHENAN GUILHERME AVANTE MACHADO
+Primeiro Nome: RHENAN
+Sobrenome: MACHADO
+Sexo: Masculino
+Data de Nascimento: 29/04/1992
+Nome da Mãe: CLAUDIA AVANTE MACHADO
+Nome do Pai: CARLOS APARECIDO MACHADO
+RG: 481770720
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Ocupação: Administrador
+Score:
+  Value: 150
+  Range: ALTISSIMO
+E-mail: RHENANGUILHERME@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 1841
+Income Bracket: 2
+Cbo: 716610
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MANUEL RODRIGUES PEDROZA
+  Número: 2030
+  Bairro: JARDIM VANIA MARIA
+  Cidade: BAURU
+  Estado: SAO PAULO
+  CEP: 17063-464
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MANUEL RODRIGUES PEDROZA
+    Número: 2030
+    Bairro: JARDIM VANIA MARIA
+    Cidade: BAURU
+    Estado: SAO PAULO
+    CEP: 17063-464
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MANUEL RODRIGUES PEDROZA
+    Número: 230
+    Bairro: JARDIM VANIA MARIA
+    Cidade: BAURU - SP
+    Fonte: DATASUS
+  [3]
+    Rua: MANUEL RODRIGUES PEDROZA
+    Tipo: R
+    Número: 2
+    Complemento: 30
+    Bairro: JD VANIA MARIA
+    Cidade: BAURU
+    Estado: SP
+    CEP: 17063-464
+    Data Atualizacao: 14/10/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MANUEL RODRIGUES PEDROZA
+    Tipo: R
+    Número: 230
+    Complemento: Q 2 N 30
+    Bairro: JD VANIA MARIA
+    Cidade: BAURU
+    Estado: SP
+    CEP: 17063-464
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MANUEL RODRIGUES PEDROZA
+    Tipo: R
+    Número: 30
+    Complemento: Q 2
+    Bairro: JD VANIA MARIA
+    Cidade: BAURU
+    Estado: SP
+    CEP: 17063-464
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MANUEL RODRIGUES PEDROZA
+    Tipo: R
+    Número: SN
+    Complemento: Q 2 N 30
+    Bairro: JD VANIA MARIA
+    Cidade: BAURU
+    Estado: SP
+    CEP: 17063-464
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: MANUEL RODRIGUES PEDROZA
+    Número: 0000230
+    Bairro: JARDIM VANIA MARIA
+    Cidade: BAURU
+    Estado: SP
+    CEP: 17063-464
+    Fonte: ASSECC
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: VW
+      Modelo: GOL 16V POWER
+      Ano: 2002
+Telefones: (7 item(s))
+  - (14) 99778-0878
+  - (14) 98826-9386
+  - (14) 99697-9413
+  - (14) 3204-7013
+  - (14) 3011-6131
+  - (14) 3203-9466
+  - (14) 98122-8576
+Datasus Phones: (1 item(s))
+  - (14) 99197-9413
+Cidade de Nascimento: BAURU - SP
+Cns: 707104330857120
+Rg Issue Date: 704516400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Mosaic New: G23
+    Mosaic Secondary: D12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: MANUEL RODRIGUES PEDROZA
+      Número: 2
+      Complemento: 30
+      Bairro: JD VANIA MARIA
+      Cidade: BAURU
+      Estado: SP
+      CEP: 17063-464
+      Date Added: 11/08/2015
+    [2]
+      Tipo: R
+      Rua: MANUEL RODRIGUES PEDROZA
+      Número: 230
+      Complemento: Q 2 N 30
+      Bairro: JD VANIA MARIA
+      Cidade: BAURU
+      Estado: SP
+      CEP: 17063-464
+      Date Added: 24/04/2017
+    [3]
+      Tipo: R
+      Rua: MANUEL RODRIGUES PEDROZA
+      Número: 30
+      Complemento: Q 2
+      Bairro: JD VANIA MARIA
+      Cidade: BAURU
+      Estado: SP
+      CEP: 17063-464
+      Date Added: 31/05/2016
+    [4]
+      Tipo: R
+      Rua: MANUEL RODRIGUES PEDROZA
+      Número: 2030
+      Bairro: JD VANIA MARIA
+      Cidade: BAURU
+      Estado: SP
+      CEP: 17063-464
+      Date Added: 20/03/2013
+    [5]
+      Tipo: R
+      Rua: MANUEL RODRIGUES PEDROZA
+      Número: SN
+      Complemento: Q 2 N 30
+      Bairro: JD VANIA MARIA
+      Cidade: BAURU
+      Estado: SP
+      CEP: 17063-464
+      Date Added: 02/02/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32047013
+      Ddd: 14
+      Tipo: 1
+      Classificacao: D
+      Date Added: 03/05/2011
+      Info Date: 01/05/2012
+    [2]
+      Telefone: 30116131
+      Ddd: 14
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 03/05/2011
+      Info Date: 19/04/2011
+    [3]
+      Telefone: 996979413
+      Ddd: 14
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/07/2013
+    [4]
+      Telefone: 32039466
+      Ddd: 14
+      Tipo: 2
+      Classificacao: D2
+      Date Added: 31/05/2016
+      Info Date: 12/05/2016
+    [5]
+      Telefone: 981228576
+      Ddd: 14
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: rhenanavante@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 42
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 150
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: CLAUDIA AVANTE MACHADO
+      Vinculo: MAE
+  Pis: 16560228666
+Additional Emails: (1 item(s))
+  - rhenanavante@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 431.026.278-38
+    Nome: MAYARA GRACIELE FERRAZ
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 562
+    Bairro: JD VANIA MARIA
+  [2]
+    CPF: 443.298.798-75
+    Nome: DANILO AUGUSTO DE OLIVEIRA
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 1019
+    Bairro: JD VANIA MARIA
+  [3]
+    CPF: 345.605.778-46
+    Nome: RODRIGO BENETTI ABRUCEZZI
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 2
+    Bairro: JD VANIA MARIA
+  [4]
+    CPF: 077.038.758-64
+    Nome: IRENE DIAS
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 4019
+    Bairro: JD VANIA MARIA
+  [5]
+    CPF: 145.802.298-60
+    Nome: ARLINDO ESTEVAO RODRIGUES
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 3
+    Bairro: JD VANIA MARIA
+  [6]
+    CPF: 036.992.208-50
+    Nome: LUIZ ANSELMO BATISTA
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 4
+    Bairro: JD VANIA MARIA
+  [7]
+    CPF: 375.785.878-62
+    Nome: CLEDERSON PEREIRA DE CAMPOS DOS ANJOS
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 22
+    Bairro: JD VANIA MARIA
+  [8]
+    CPF: 110.548.338-00
+    Nome: ROSELI PADOVAN DAVILA
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 3
+    Bairro: JD VANIA MARIA
+  [9]
+    CPF: 075.009.998-44
+    Nome: IRAYDE BUENO DE CAMPOS
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 226
+    Bairro: JD VANIA MARIA
+  [10]
+    CPF: 317.160.908-81
+    Nome: JULIO CESAR OLIVEIRA BERNARDO
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 5023
+    Bairro: JD VANIA MARIA
+  [11]
+    CPF: 172.541.249-72
+    Nome: EUCLIDES DE OLIVEIRA FILHO
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 3018
+    Bairro: JD VANIA MARIA
+  [12]
+    CPF: 409.436.028-07
+    Nome: BRUNA THAIANE AVANTE MACHADO
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 230
+    Bairro: JD VANIA MARIA
+  [13]
+    CPF: 252.612.668-15
+    Nome: LUIZ ANTONIO BARRAVIERA
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 127
+    Bairro: JD VANIA MARIA
+  [14]
+    CPF: 407.485.938-61
+    Nome: JOSE GUILHERME OLIVEIRA MAIA
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 444
+    Bairro: JD VANIA MARIA
+  [15]
+    CPF: 407.485.938-61
+    Nome: JOSE GUILHERME OLIVEIRA MAIA
+    Logradouro: MANUEL RODRIGUES PEDROZA
+    Número: 4044
+    Bairro: JD VANIA MARIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (14) 99697-9413
+    Nome: RHENAN  GUILHERME AVANTE MAC
+    Cidade: BAURU
+    UF: SP
+E-mails: (2 item(s))
+  - rhenanguilherme@hotmail.com
+  - rhenanavante@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1841
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (14) 3204-7013
+    Ddd: 14
+    Número: 32047013
+    Tipo: FIXO
+    Data Inclusao: 03/05/2011
+    Data Informacao: 01/05/2012
+    Classificacao: D
+  [2]
+    Telefone: (14) 3011-6131
+    Ddd: 14
+    Número: 30116131
+    Tipo: FIXO
+    Data Inclusao: 03/05/2011
+    Data Informacao: 19/04/2011
+    Classificacao: D2
+  [3]
+    Telefone: (14) 99697-9413
+    Ddd: 14
+    Número: 996979413
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: A0
+  [4]
+    Telefone: (14) 3203-9466
+    Ddd: 14
+    Número: 32039466
+    Tipo: CELULAR
+    Data Inclusao: 31/05/2016
+    Data Informacao: 12/05/2016
+    Classificacao: D2
+  [5]
+    Telefone: (14) 98122-8576
+    Ddd: 14
+    Número: 981228576
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

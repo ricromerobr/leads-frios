@@ -1,0 +1,176 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04012501135
+Data/Hora:  04/10/2026, 15:11:59
+Tempo API:  193ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 040.125.011-35
+Nome: MATHEUS BARSANULFO BORGES
+Primeiro Nome: MATHEUS
+Sobrenome: BORGES
+Sexo: Masculino
+Data de Nascimento: 22/09/1995
+Nome da Mãe: CLEZIA APARECIDA DOS SANTOS BORGES
+Nome do Pai: EURIPEDES BARSANULFO BORGES
+RG: 6133194
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: GO
+Ocupação: Apontador de produção
+Score:
+  Value: 129
+  Range: ALTISSIMO
+E-mail: joao-cleber@hotmail.com
+Additional Emails: (2 item(s))
+  - joao-cleber@hotmail.com
+  - marco1533@outlook.com
+Federal Status: REGULAR
+Renda: 915
+Income Bracket: 1
+Cbo: 414210
+Endereço:
+  Tipo: RUA
+  Rua: ARISTIDES RAMOS
+  Bairro: BARRA DA LAGOA
+  Cidade: FLORIANOPOLIS
+  Estado: SANTA CATARINA
+  CEP: 08806-130
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ARISTIDES RAMOS
+    Bairro: BARRA DA LAGOA
+    Cidade: FLORIANOPOLIS
+    Estado: SANTA CATARINA
+    CEP: 08806-130
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MINERVINO QUINTINO MARTINS
+    Número: 12
+    Bairro: CENTRO
+    Cidade: MORRINHOS - GO
+    Fonte: DATASUS
+  [3]
+    Rua: RUA AV DONA FIICA
+    Número: S/N
+    Complemento: QD 38 LT 2
+    Bairro: JD ROMANO
+    Estado: PR
+    CEP: 75650-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (48) 99162-5115
+  - 551143211234
+  - (45) 99136-1822
+  - (64) 99215-3988
+Datasus Phones: (1 item(s))
+  - (64) 99987-5365
+Cidade de Nascimento: MORRINHOS - GO
+Cns: 708709184069698
+Rg Issue Date: 1322535600000
+Paycom:
+  E-mail: marco1533@outlook.com
+  Data de Nascimento: 01/01/1990
+  Created At: 2018-07-06 20:22:20
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: cr5
+    Número: 61
+    Complemento: casa
+    Bairro: setor cristo
+    Cidade: Morrinhos
+    Estado: Goiás
+    País: BRA
+    CEP: 75650-000
+    Telephone: 551143211234
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Mosaic New: D14
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 992153988
+      Ddd: 64
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+  E-mails: (1 item(s))
+    [1]
+      E-mail: joao-cleber@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+  Score:
+    CSB8: 138
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 129
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: CLEZIA APARECIDA DOS SANTOS BORGES
+      Vinculo: MAE
+  Pis: 16486483998
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 599.71
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (45) 99136-1822
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 01SEP2020
+    Ultima Recarga: 01SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 16/03/2020
+E-mails: (2 item(s))
+  - joao-cleber@hotmail.com
+  - marco1533@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 915
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 599.71
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (64) 99215-3988
+    Ddd: 64
+    Número: 992153988
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+Occupation Code: 414210
+Occupation Name: Apontador de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

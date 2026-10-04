@@ -1,0 +1,343 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  36733071851
+Data/Hora:  03/10/2026, 17:01:09
+Tempo API:  720ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 367.330.718-51
+Nome: JEFFERSON ALVES DE AGUIAR
+Primeiro Nome: JEFFERSON
+Sobrenome: AGUIAR
+Sexo: Masculino
+Data de Nascimento: 10/01/1989
+Nome da Mãe: LENIR ALVES DE AGUIAR
+Nome do Pai: JOAO CARLOS CAETANO DE AGUIAR
+Voter Id: 361837870191
+Ocupação: Mergulhador profissional (raso e profundo)
+Score:
+  Value: 137
+  Range: ALTISSIMO
+E-mail: chapolin-tb@hotmail.com
+Additional Emails: (1 item(s))
+  - chapolin-tb@hotmail.com
+Federal Status: REGULAR
+Renda: 1501
+Income Bracket: 2
+Cbo: 781705
+Endereço:
+  Tipo: RUA
+  Rua: LOBO VIANA
+  Número: 94
+  Bairro: SIT DO CAMPO
+  Cidade: PRAIA GRANDE
+  Estado: SAO PAULO
+  CEP: 11725-310
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LOBO VIANA
+    Número: 94
+    Bairro: SIT DO CAMPO
+    Cidade: PRAIA GRANDE
+    Estado: SAO PAULO
+    CEP: 11725-310
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R LOBO VIANA
+    Número: 44
+    Bairro: SITIO DO CAMPO
+    Cidade: PRAIA GRANDE - SP
+    Fonte: DATASUS
+  [3]
+    Rua: LOBO VIANA
+    Tipo: R
+    Número: 44
+    Bairro: SIT DO CAMPO
+    Cidade: PRAIA GRANDE
+    Estado: SP
+    CEP: 11725-310
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: DOUTOR LOBO VIANA
+    Número: 0000044
+    Bairro: SITIO DO CAMPO
+    Cidade: PRAIA GRANDE
+    Estado: SP
+    CEP: 11725-310
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (13) 98131-5677
+  - (13) 3491-8275
+  - (13) 99766-5903
+  - (13) 98862-5559
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: SAO VICENTE - SP
+Cns: 704203256316285
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Mosaic New: D12
+    Mosaic Secondary: D10
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: LOBO VIANA
+      Número: 94
+      Bairro: SIT DO CAMPO
+      Cidade: PRAIA GRANDE
+      Estado: SP
+      CEP: 11725-310
+      Date Added: 18/06/2019
+    [2]
+      Tipo: R
+      Rua: LOBO VIANA
+      Número: 44
+      Bairro: SIT DO CAMPO
+      Cidade: PRAIA GRANDE
+      Estado: SP
+      CEP: 11725-310
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 34918275
+      Ddd: 13
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 20/11/2011
+      Info Date: 09/06/2019
+    [2]
+      Telefone: 997665903
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 981315677
+      Ddd: 13
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 09/02/2017
+      Info Date: 15/04/2019
+    [4]
+      Telefone: 988625559
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: chapolin-tb@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 340
+    CSB8 FAIXA: MEDIO
+    CSBA: 137
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 6993300842
+      Nome: ORMEZINDO ALVES DE NOVAIS FILHO
+      Vinculo: TIA(O)
+    [2]
+      CPF: 5817092840
+      Nome: HELENA ROSA DE JESUS NOVAIS
+      Vinculo: AVO
+    [3]
+      CPF: 121.290.278-57
+      Nome: JOSE ALVES DE NOVAIS
+      Vinculo: TIA(O)
+    [4]
+      CPF: 407.845.278-73
+      Nome: THAIS ALVES DE AGUIAR
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 3685037803
+      Nome: LENIR ALVES DE AGUIAR
+      Vinculo: MAE
+    [6]
+      CPF: 418.174.728-01
+      Nome: JULIANA ALVES DE AGUIAR
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 971.498.888-87
+      Nome: JOAO CARLOS CAETANO DE AGUIAR
+      Vinculo: PAI
+  Pis: 20116109461
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 1017.5
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 418.174.728-01
+    Nome: JULIANA ALVES DE AGUIAR
+    Logradouro: LOBO VIANA
+    Número: 44
+    Bairro: SIT DO CAMPO
+  [2]
+    CPF: 158.951.328-20
+    Nome: NADIR OLIVEIRA DE ARAUJO
+    Logradouro: LOBO VIANA
+    Número: 123
+    Bairro: SIT DO CAMPO
+  [3]
+    CPF: 261.961.198-93
+    Nome: ANTONIO CARLOS DE FREITAS TEIXEIRA
+    Logradouro: LOBO VIANA
+    Número: 253
+    Bairro: SIT DO CAMPO
+  [4]
+    CPF: 396.904.698-00
+    Nome: ERIK DE OLIVEIRA SENA CARVALHO
+    Logradouro: LOBO VIANA
+    Número: 605
+    Bairro: SIT DO CAMPO
+  [5]
+    CPF: 270.894.278-62
+    Nome: SILVANA CORREIA DOS SANTOS
+    Logradouro: LOBO VIANA
+    Número: 10
+    Bairro: SIT DO CAMPO
+  [6]
+    CPF: 274.951.338-30
+    Nome: ANA MARIA PULCHINELLI
+    Logradouro: LOBO VIANA
+    Número: 38
+    Bairro: SIT DO CAMPO
+  [7]
+    CPF: 256.953.475-72
+    Nome: GERSON DE JESUS
+    Logradouro: LOBO VIANA
+    Número: 580
+    Bairro: SIT DO CAMPO
+  [8]
+    CPF: 109.187.348-86
+    Nome: SANDRA CRISTINA DE SOUZA
+    Logradouro: LOBO VIANA
+    Número: 79
+    Bairro: SIT DO CAMPO
+  [9]
+    CPF: 282.702.718-61
+    Nome: HOMERO DOMINGUES
+    Logradouro: LOBO VIANA
+    Número: 405
+    Bairro: SIT DO CAMPO
+  [10]
+    CPF: 320.498.508-32
+    Nome: VIVIANE LOPES DE LAIA RODRIGUES
+    Logradouro: LOBO VIANA
+    Número: 326
+    Bairro: SIT DO CAMPO
+  [11]
+    CPF: 048.741.828-01
+    Nome: RAFAEL TOMAZ DE JESUS
+    Logradouro: LOBO VIANA
+    Número: 138
+    Bairro: SIT DO CAMPO
+  [12]
+    CPF: 380.601.596-15
+    Nome: JORGE LUIS ARAUJO RAMOS
+    Logradouro: LOBO VIANA
+    Número: 288
+    Bairro: SIT DO CAMPO
+  [13]
+    CPF: 133.963.658-10
+    Nome: MARIO LUCIO VASSAO
+    Logradouro: LOBO VIANA
+    Número: 1
+    Bairro: SIT DO CAMPO
+  [14]
+    CPF: 330.135.218-99
+    Nome: BARBARA DE JESUS DIAS LUCANIA
+    Logradouro: LOBO VIANA
+    Número: 514
+    Bairro: SIT DO CAMPO
+  [15]
+    CPF: 268.276.466-53
+    Nome: SEBASTIAO GOMES NOBRE
+    Logradouro: LOBO VIANA
+    Número: 580
+    Bairro: SIT DO CAMPO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (13) 98131-5677
+    Nome: JEFFERSON ALVES DE AGUIAR
+    Cidade: PRAIA GRANDE
+    UF: SP
+E-mails: (1 item(s))
+  - chapolin-tb@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1501
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1017.5
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (13) 3491-8275
+    Ddd: 13
+    Número: 34918275
+    Tipo: FIXO
+    Data Inclusao: 20/11/2011
+    Data Informacao: 09/06/2019
+    Classificacao: A2
+  [2]
+    Telefone: (13) 99766-5903
+    Ddd: 13
+    Número: 997665903
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [3]
+    Telefone: (13) 98131-5677
+    Ddd: 13
+    Número: 981315677
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Data Informacao: 15/04/2019
+    Classificacao: A0
+  [4]
+    Telefone: (13) 98862-5559
+    Ddd: 13
+    Número: 988625559
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+Occupation Code: 781705
+Occupation Name: Mergulhador profissional (raso e profundo)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

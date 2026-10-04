@@ -1,0 +1,391 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05682271742
+Data/Hora:  03/10/2026, 15:02:55
+Tempo API:  764ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 056.822.717-42
+Nome: FERNANDO DOS SANTOS PEREIRA SESSA
+Primeiro Nome: FERNANDO
+Sobrenome: SESSA
+Sexo: Masculino
+Data de Nascimento: 02/05/1981
+Nome da Mãe: VERA LUCIA SESSA DE OLIVEIRA
+Voter Id: 119227430361
+Mosaic: E17
+Ocupação: Praça do exército
+Score:
+  Value: 345
+  Range: ALTO
+E-mail: fdsessa@oi.com.br
+Additional Emails: (2 item(s))
+  - fdsessa@oi.com.br
+  - fernandosessa@hotmail.com
+Federal Status: REGULAR
+Renda: 1655
+Income Bracket: 2
+Cbo: 10310
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: VOLGA
+  Bairro: BANGU
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21825-040
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VOLGA
+    Bairro: BANGU
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21825-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FIACAO
+    Tipo: R
+    Número: 230
+    Bairro: BANGU
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21820-140
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: CORDILHEIRA
+    Tipo: R
+    Número: 93
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23055-280
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DAS ARTES
+    Tipo: R
+    Número: 309
+    Complemento: C
+    Bairro: BANGU
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21820-150
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CORDILHEIRA
+    Tipo: R
+    Número: 152
+    Complemento: C
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23055-280
+    Data Atualizacao: 02/02/2012
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MARCIA
+    Tipo: R
+    Número: 437
+    Complemento: C
+    Bairro: SEN CAMARA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21831-130
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (21) 99142-3408
+  - (21) 2402-8452
+  - (21) 99710-3694
+  - (21) 3244-6543
+  - (21) 98465-7715
+  - (21) 7024-1460
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/10/2019
+    Mosaic: E17
+    Mosaic New: G22
+    Mosaic Secondary: G23
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: FIACAO
+      Número: 230
+      Bairro: BANGU
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21820-140
+      Date Added: 02/02/2016
+    [2]
+      Tipo: R
+      Rua: CORDILHEIRA
+      Número: 93
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23055-280
+      Date Added: 04/04/2017
+    [3]
+      Tipo: R
+      Rua: DAS ARTES
+      Número: 309
+      Complemento: C
+      Bairro: BANGU
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21820-150
+      Date Added: 05/05/2015
+    [4]
+      Tipo: R
+      Rua: CORDILHEIRA
+      Número: 152
+      Complemento: C
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23055-280
+      Date Added: 16/12/2011
+    [5]
+      Tipo: R
+      Rua: MARCIA
+      Número: 437
+      Complemento: C
+      Bairro: SEN CAMARA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21831-130
+      Date Added: 07/01/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 24028452
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 13/02/2008
+    [2]
+      Telefone: 997103694
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 32446543
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 30/10/2014
+      Info Date: 22/10/2014
+    [4]
+      Telefone: 984657715
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 70241460
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 03/09/2019
+      Info Date: 24/08/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: fernandosessa@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [2]
+      E-mail: fdsessa@oi.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 145
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 345
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 1339213796
+      Nome: SILVIA SESSA EXPEDITO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 7000267704
+      Nome: RENATA SESSA DE OLIVEIRA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 465.028.907-68
+      Nome: VERA LUCIA SESSA DE OLIVEIRA
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 773.442.277-20
+    Nome: CELI CORREA LAGES DE OLIVEIRA
+    Logradouro: FIACAO
+    Número: 304
+    Bairro: BANGU
+  [2]
+    CPF: 037.394.877-80
+    Nome: CELSO GOMES DE OLIVEIRA JUNIOR
+    Logradouro: FIACAO
+    Número: 36
+    Bairro: BANGU
+  [3]
+    CPF: 033.711.067-05
+    Nome: CLAUDIA NICACIA PINTO
+    Logradouro: FIACAO
+    Número: 585
+    Bairro: BANGU
+  [4]
+    CPF: 023.975.717-30
+    Nome: ANA MERIA RIBEIRO DA SILVA
+    Logradouro: FIACAO
+    Número: 183
+    Bairro: BANGU
+  [5]
+    CPF: 014.418.987-94
+    Nome: ALEXANDRE JACOMO DA SILVA
+    Logradouro: FIACAO
+    Número: 208
+    Bairro: BANGU
+  [6]
+    CPF: 429.732.367-20
+    Nome: HELOISA MARIA DA CONCEICAO
+    Logradouro: FIACAO
+    Número: 549
+    Bairro: BANGU
+  [7]
+    CPF: 430.129.907-63
+    Nome: CANDIDO ERCOLINO ALVES
+    Logradouro: FIACAO
+    Número: 549
+    Bairro: BANGU
+  [8]
+    CPF: 008.806.967-29
+    Nome: NORMA BILITARIO DE MEDEIROS
+    Logradouro: FIACAO
+    Número: 183
+    Bairro: BANGU
+  [9]
+    CPF: 001.354.794-10
+    Nome: RISONETE DA SILVA FELIX DE ARAUJO
+    Logradouro: FIACAO
+    Número: 647
+    Bairro: BANGU
+  [10]
+    CPF: 893.145.817-72
+    Nome: SEBASTIAO NICACIO PINTO
+    Logradouro: FIACAO
+    Número: 585
+    Bairro: BANGU
+  [11]
+    CPF: 143.910.337-20
+    Nome: MARCELO RODRIGUES ALVES DE MACEDO
+    Logradouro: FIACAO
+    Número: 577
+    Bairro: BANGU
+  [12]
+    CPF: 070.343.587-61
+    Nome: PATRICIA ALVES DE SOUZA SILVA
+    Logradouro: FIACAO
+    Número: 474
+    Bairro: BANGU
+  [13]
+    CPF: 077.222.557-52
+    Nome: JOAO FULY DE DEUS SOARES
+    Logradouro: FIACAO
+    Número: 446
+    Bairro: BANGU
+  [14]
+    CPF: 022.095.857-24
+    Nome: ELCIO LUCIANO RODRIGUES
+    Logradouro: FIACAO
+    Número: 772
+    Bairro: BANGU
+  [15]
+    CPF: 059.858.367-03
+    Nome: DANIELE CARDOSO DE SOUZA
+    Logradouro: FIACAO
+    Número: 474
+    Bairro: BANGU
+E-mails: (2 item(s))
+  - fdsessa@oi.com.br
+  - fernandosessa@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1655
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 2402-8452
+    Ddd: 21
+    Número: 24028452
+    Tipo: FIXO
+    Data Inclusao: 13/02/2008
+    Classificacao: D
+  [2]
+    Telefone: (21) 99710-3694
+    Ddd: 21
+    Número: 997103694
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [3]
+    Telefone: (21) 3244-6543
+    Ddd: 21
+    Número: 32446543
+    Tipo: FIXO
+    Data Inclusao: 30/10/2014
+    Data Informacao: 22/10/2014
+    Classificacao: D
+  [4]
+    Telefone: (21) 98465-7715
+    Ddd: 21
+    Número: 984657715
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (21) 7024-1460
+    Ddd: 21
+    Número: 70241460
+    Tipo: 3
+    Data Inclusao: 03/09/2019
+    Data Informacao: 24/08/2019
+    Classificacao: D
+Occupation Code: 10310
+Occupation Name: Praça do exército
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

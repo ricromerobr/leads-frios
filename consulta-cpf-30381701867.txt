@@ -1,0 +1,322 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  30381701867
+Data/Hora:  03/10/2026, 19:09:34
+Tempo API:  398ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 303.817.018-67
+Nome: CRISTIANE APARECIDA DAS DORES
+Primeiro Nome: CRISTIANE
+Sobrenome: DORES
+Sexo: Feminino
+Data de Nascimento: 14/03/1979
+Nome da Mãe: FARAILDES APARECIDA DARIO
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 299284020167
+Mosaic: F18
+Ocupação: Trabalhador de serviços de limpeza e conservação de áreas públicas
+Score:
+  Value: 872
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 1007
+Income Bracket: 2
+Cbo: 514225
+Endereço:
+  Tipo: RUA
+  Rua: VINTE E SETE
+  Número: 278
+  Bairro: MONJOLINHO
+  Cidade: MAIRINQUE
+  Estado: SAO PAULO
+  CEP: 18120-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VINTE E SETE
+    Número: 278
+    Bairro: MONJOLINHO
+    Cidade: MAIRINQUE
+    Estado: SAO PAULO
+    CEP: 18120-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: VINTE E SETE
+    Número: 278
+    Bairro: GRANADA
+    Cidade: MAIRINQUE - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO TAVARES DE VASCONCELOS
+    Número: S/N
+    Bairro: VILA
+    Estado: SP
+    CEP: 00000-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (11) 99545-1068
+  - (11) 4718-4113
+  - (11) 98917-3975
+  - (11) 4718-6313
+  - (11) 97998-5113
+  - (11) 98204-5250
+Datasus Phones: (1 item(s))
+  - (11) 4708-7504
+Cidade de Nascimento: MAIRINQUE - SP
+Cns: 706206562067164
+Mte Data:
+  Nome: Cristiane Aparecida Das Dores
+  Data de Nascimento: 14/03/1979
+  Nome da Mãe: Faraildes Aparecida Dario
+  Endereço:
+    Rua: Vinte Sete
+    Número: 278
+    Bairro: Vl Granada Monjolin
+    Cidade: Mairinque
+    Estado: SP
+    CEP: 18120-000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 07/03/2019
+    Info Date: 13/01/2009
+    Mosaic: F18
+    Mosaic New: H28
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: VINTE SETE
+      Número: 278
+      Cidade: MAIRINQUE
+      Estado: SP
+      CEP: 18120-000
+      Date Added: 09/12/2014
+    [2]
+      Rua: VINTE E SETE
+      Número: 278
+      Bairro: MONJOLINHO
+      Cidade: MAIRINQUE
+      Estado: SP
+      CEP: 18120-000
+      Date Added: 11/10/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 47184113
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/03/2009
+      Info Date: 31/12/2008
+    [2]
+      Telefone: 989173975
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 02/03/2009
+      Info Date: 31/12/2008
+    [3]
+      Telefone: 47186313
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+      Info Date: 13/01/2009
+    [4]
+      Telefone: 979985113
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/09/2012
+    [5]
+      Telefone: 982045250
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+  Score:
+    CSB8: 366
+    CSB8 FAIXA: MEDIO
+    CSBA: 872
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      Nome: FARAILDES APARECIDA DARIO
+      Vinculo: MAE
+    [2]
+      CPF: 3997810800
+      Nome: JESUS CAMARGO DAS DORES
+      Vinculo: PAI
+  Pis: 16484794201
+  Tse:
+    Titulo: 299284020167
+    Zona: 131
+    Secao: 309
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 615.29
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 107.074.008-05
+    Nome: SERGIO ANTONIO DO NASCIMENTO
+    Logradouro: PINTASILGO
+    Número: 604
+    Bairro: COND RES PORTA DO SOL
+  [2]
+    CPF: 009.957.378-43
+    Nome: STELA MARIA BOMFIM
+    Logradouro: IRACI SILVEIRA
+    Número: 171
+    Bairro: J VITORIA
+  [3]
+    CPF: 051.933.498-11
+    Nome: ROSELI GIUBILATO ANZILOTTI
+    Logradouro: JOSE DE ALENCAR
+    Número: 1
+  [4]
+    CPF: 051.933.638-06
+    Nome: SERGIO TADEU ANZILOTTI
+    Logradouro: JOSE DE ALENCAR
+    Número: 10
+  [5]
+    CPF: 051.933.638-06
+    Nome: SERGIO TADEU ANZILOTTI
+    Logradouro: JOSO DE ALENCAR
+    Número: SN
+  [6]
+    CPF: 051.872.168-05
+    Nome: FRANCISCO MARTINS MORAES
+    Logradouro: DO SOL
+    Número: 300
+  [7]
+    CPF: 156.723.998-60
+    Nome: GILBERTO SIMOES
+    Logradouro: KOMOZO TOMO
+    Número: 16
+    Bairro: JD FLORA
+  [8]
+    CPF: 417.101.458-11
+    Nome: BRUNA NOVAIS DE OLIVEIRA
+    Logradouro: JOSE DIAS JUNIOR
+    Número: 153
+    Bairro: VL BARRETO
+  [9]
+    CPF: 417.101.468-93
+    Nome: RAFAEL RODRIGUES NASCIMENTO
+    Logradouro: ALBERTO COCOZA
+    Número: 1800
+    Bairro: GOIANA
+  [10]
+    CPF: 051.370.346-22
+    Nome: ALEX MENEZES SILVANO
+    Logradouro: AMANDIO PEREIRA
+    Número: 295
+  [11]
+    CPF: 052.351.958-33
+    Nome: ROSENI DE SOUSA SILVA
+    Logradouro: IRACY SILVEIRA
+    Número: 100
+  [12]
+    CPF: 051.161.568-00
+    Nome: MISAEL DA SILVA VILARINHO
+    Logradouro: RAIMUNDO JOSE FEREIRA
+    Número: 169
+  [13]
+    CPF: 051.134.884-37
+    Nome: MARIA EDJANE DA SILVA
+    Logradouro: DA SERVIDAO
+    Número: 654
+  [14]
+    CPF: 050.692.758-01
+    Nome: TARCISO CAVALHERI
+    Logradouro: RINALDO MORI
+    Número: 76
+    Bairro: VL SOROCABANA
+  [15]
+    CPF: 293.925.128-21
+    Nome: ROMARIO AUGUSTO DE SOUZA MESQUITA
+    Logradouro: RAPOSO TAVARES
+    Número: SN
+    Bairro: GRANADA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 99545-1068
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 17JUN2020
+    Ultima Recarga: 17JUN2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 27/05/2020
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1007
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 615.29
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4718-4113
+    Ddd: 11
+    Número: 47184113
+    Tipo: FIXO
+    Data Inclusao: 02/03/2009
+    Data Informacao: 31/12/2008
+    Classificacao: D2
+  [2]
+    Telefone: (11) 98917-3975
+    Ddd: 11
+    Número: 989173975
+    Tipo: 3
+    Data Inclusao: 02/03/2009
+    Data Informacao: 31/12/2008
+    Classificacao: D
+  [3]
+    Telefone: (11) 4718-6313
+    Ddd: 11
+    Número: 47186313
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 13/01/2009
+    Classificacao: D2
+  [4]
+    Telefone: (11) 97998-5113
+    Ddd: 11
+    Número: 979985113
+    Tipo: 3
+    Data Inclusao: 01/09/2012
+    Classificacao: D
+  [5]
+    Telefone: (11) 98204-5250
+    Ddd: 11
+    Número: 982045250
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+Occupation Code: 514225
+Occupation Name: Trabalhador de serviços de limpeza e conservação de áreas públicas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

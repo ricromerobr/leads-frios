@@ -1,0 +1,453 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  98741640772
+Data/Hora:  03/10/2026, 18:12:28
+Tempo API:  538ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 987.416.407-72
+Nome: ENELITO OLIVEIRA DA SILVA
+Primeiro Nome: ENELITO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 09/06/1965
+Nome da Mãe: ENELITA MARIA DE OLIVEIRA
+Nome do Pai: OSVALDO OLIVEIRA DA SILVA
+RG: 3292069
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: ES
+Voter Id: 066430070507
+Mosaic: G25
+Ocupação: Alimentador de linha de produção
+Score:
+  Value: 848
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 1839
+Income Bracket: 2
+Cbo: 783225
+Endereço:
+  Tipo: RUA
+  Rua: ARTHUR BERNARDES
+  Bairro: VL NOVA DE COLARES
+  Cidade: SERRA
+  Estado: ESPIRITO SANTO
+  CEP: 29172-833
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ARTHUR BERNARDES
+    Bairro: VL NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ESPIRITO SANTO
+    CEP: 29172-833
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SANTA CECILIA
+    Número: 211
+    Bairro: DAS LARANJEIRAS
+    Cidade: SERRA - ES
+    Fonte: DATASUS
+  [3]
+    Rua: AIMORES
+    Tipo: R
+    Número: 211
+    Bairro: DAS LARANJEIRAS
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29175-598
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ARTHUR BERNARDES
+    Tipo: R
+    Número: 6
+    Bairro: VL NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29172-833
+    Data Atualizacao: 22/04/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ARTHUR BERNARDES
+    Tipo: R
+    Número: SN
+    Bairro: VL NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29172-833
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ARTHUR BERNARDES
+    Tipo: R
+    Número: 4
+    Complemento: C
+    Bairro: VL NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29172-833
+    Data Atualizacao: 17/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: PRESIDENTE ARTHUR BERNARDES
+    Número: 0000006
+    Bairro: VILA NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29172-833
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: ARTHUR BERNARDES
+    Número: 0000004
+    Bairro: VILA NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 02917-233
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: PRESIDENTE ARTHUR BERNARDES
+    Número: 0000004
+    Bairro: VILA NOVA DE COLARES
+    Cidade: JACARAIPE
+    Estado: ES
+    CEP: 29172-833
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: 0000006
+    Número: PROJETADA DOIS
+    Bairro: VILA NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29172-883
+    Fonte: ASSECC
+  [11]
+    Tipo: PROJETADA DOIS
+    Rua: R
+    Número: 0000006
+    Bairro: VILA NOVA DE COLARES
+    Cidade: SERRA
+    Estado: ES
+    CEP: 29172-883
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (27) 99278-2790
+  - (27) 99607-0102
+  - (27) 91014-6724
+  - (27) 99844-8028
+  - (27) 99773-5690
+  - (27) 91014-2863
+  - (27) 3068-6137
+  - +55 (27) 98895-9465
+  - (27) 3245-5614
+Datasus Phones: (1 item(s))
+  - (27) 99868-9228
+Cidade de Nascimento: ITAMARAJU - BA
+Cns: 704202770910286
+Rg Issue Date: 1245207600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 13/01/2019
+    Mosaic: G25
+    Mosaic New: E18
+    Mosaic Secondary: E17
+    Income Bracket Id: 3
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: AIMORES
+      Número: 211
+      Bairro: DAS LARANJEIRAS
+      Cidade: SERRA
+      Estado: ES
+      CEP: 29175-598
+      Date Added: 25/03/2019
+    [2]
+      Tipo: R
+      Rua: ARTHUR BERNARDES
+      Número: 6
+      Bairro: VL NOVA DE COLARES
+      Cidade: SERRA
+      Estado: ES
+      CEP: 29172-833
+      Date Added: 26/03/2013
+    [3]
+      Tipo: R
+      Rua: ARTHUR BERNARDES
+      Número: SN
+      Bairro: VL NOVA DE COLARES
+      Cidade: SERRA
+      Estado: ES
+      CEP: 29172-833
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: ARTHUR BERNARDES
+      Número: 4
+      Complemento: C
+      Bairro: VL NOVA DE COLARES
+      Cidade: SERRA
+      Estado: ES
+      CEP: 29172-833
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 998448028
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/08/2010
+    [2]
+      Telefone: 997735690
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [3]
+      Telefone: 32455614
+      Ddd: 27
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/11/2018
+    [4]
+      Telefone: 30686137
+      Ddd: 27
+      Tipo: 1
+      Classificacao: B
+      Date Added: 25/03/2019
+  Score:
+    CSB8: 144
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 848
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 777.520.075-87
+      Nome: ENELITA MARIA DE OLIVEIRA
+      Vinculo: MAE
+    [2]
+      CPF: 218.561.332-49
+      Nome: CARLITO OLIVEIRA DA SILVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 1485489547
+      Nome: VILMA OLIVEIRA DA SILVA SANTOS
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 432.896.655-34
+      Nome: LOURIVAL OLIVEIRA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 674.266.705-20
+      Nome: OSVALDINO OLIVEIRA DA SILVA
+      Vinculo: IRMA(O)
+  Pis: 12282964391
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1652.45
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 493.834.007-06
+    Nome: JOANA DARC JACINTO MARQUES
+    Logradouro: AIMORES
+    Número: 780
+    Bairro: DAS LARANJEIRAS
+  [2]
+    CPF: 978.435.987-15
+    Nome: ANA MARIA PEREIRA
+    Logradouro: AIMORES
+    Número: 8
+    Bairro: DAS LARANJEIRAS
+  [3]
+    CPF: 103.162.027-38
+    Nome: RAONNY VIEIRA MILLEM
+    Logradouro: AIMORES
+    Número: 29
+    Bairro: DAS LARANJEIRAS
+  [4]
+    CPF: 127.431.597-23
+    Nome: DERILANY LUCINDA MARTINS
+    Logradouro: AIMORES
+    Número: 20
+    Bairro: DAS LARANJEIRAS
+  [5]
+    CPF: 057.142.137-77
+    Nome: EZEQUIAS ROSA DE FREITAS
+    Logradouro: AIMORES
+    Número: 20
+    Bairro: DAS LARANJEIRAS
+  [6]
+    CPF: 123.604.397-90
+    Nome: CLAUDINEIA ELIAS DO CARMO
+    Logradouro: AIMORES
+    Número: 14
+    Bairro: DAS LARANJEIRAS
+  [7]
+    CPF: 169.430.787-55
+    Nome: ANA CAROLINE DOS SANTOS DE SOUZA
+    Logradouro: AIMORES
+    Número: 191
+    Bairro: DAS LARANJEIRAS
+  [8]
+    CPF: 019.995.637-51
+    Nome: ROSA DOS SANTOS
+    Logradouro: AIMORES
+    Número: 76
+    Bairro: DAS LARANJEIRAS
+  [9]
+    CPF: 153.053.437-20
+    Nome: LORRANA ALMEIDA RODRIGUES COSTA
+    Logradouro: AIMORES
+    Número: 191
+    Bairro: DAS LARANJEIRAS
+  [10]
+    CPF: 003.762.977-86
+    Nome: LUCIMAR ALMEIDA DA SILVA
+    Logradouro: AIMORES
+    Número: 555
+    Bairro: DAS LARANJEIRAS
+  [11]
+    CPF: 061.105.185-06
+    Nome: JORGE MARCOS DE JESUS SANTOS
+    Logradouro: AIMORES
+    Número: 18
+    Bairro: DAS LARANJEIRAS
+  [12]
+    CPF: 861.173.947-72
+    Nome: MARIA CRISTINA EVANGELISTA DA SILVA COSTA
+    Logradouro: AIMORES
+    Número: 72
+    Bairro: DAS LARANJEIRAS
+  [13]
+    CPF: 005.270.617-60
+    Nome: ELIO LEAL VARGAS
+    Logradouro: AIMORES
+    Número: 10
+    Bairro: DAS LARANJEIRAS
+  [14]
+    CPF: 075.454.427-33
+    Nome: CASSIANO GARCIA ALVES
+    Logradouro: AIMORES
+    Número: 377
+    Bairro: DAS LARANJEIRAS
+  [15]
+    CPF: 003.734.246-04
+    Nome: ISMAEL PINTO DE OLIVEIRA
+    Logradouro: AIMORES
+    Número: 16
+    Bairro: DAS LARANJEIRAS
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (27) 99278-2790
+    Nome: ENELITO OLIVEIRA DA SILVA
+    Cidade: SERRA
+    UF: ES
+  [2]
+    Telefone: (27) 99607-0102
+    Nome: ENELITO OLIVEIRA DA SILVA
+    Cidade: SERRA
+    UF: ES
+  [3]
+    Telefone: (27) 91014-6724
+    Nome: ENELITO OLIVEIRA DA SILVA
+    Cidade: JACARAIPE
+    UF: ES
+  [4]
+    Telefone: (27) 99844-8028
+    Nome: ENELITO OLIVEIRA DA SILVA
+    Cidade: SERRA
+    UF: ES
+  [5]
+    Telefone: (27) 99773-5690
+    Nome: ENELITO OLIVEIRA DA SILVA
+    Cidade: SERRA
+    UF: ES
+  [6]
+    Telefone: (27) 91014-2863
+    Nome: ENELITO OLIVEIRA DA SILVA
+    Cidade: JACARAIPE
+    UF: ES
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (27) 3068-6137
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 19DEC2018:12:14:18
+    Cel Contato: +5527988959465
+    Data Retirada: 02DEC2019:18:12:04
+    Tipo Cliente: Residencial
+E-mail: enelitosilva65@gmail.com
+Additional Emails: (1 item(s))
+  - enelitosilva65@gmail.com
+E-mails: (1 item(s))
+  - enelitosilva65@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1839
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1652.45
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (27) 99844-8028
+    Ddd: 27
+    Número: 998448028
+    Tipo: 3
+    Data Inclusao: 06/08/2010
+    Classificacao: D
+  [2]
+    Telefone: (27) 99773-5690
+    Ddd: 27
+    Número: 997735690
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [3]
+    Telefone: (27) 3245-5614
+    Ddd: 27
+    Número: 32455614
+    Tipo: FIXO
+    Data Inclusao: 20/11/2018
+    Classificacao: D2
+  [4]
+    Telefone: (27) 3068-6137
+    Ddd: 27
+    Número: 30686137
+    Tipo: FIXO
+    Data Inclusao: 25/03/2019
+    Classificacao: B
+Occupation Code: 784205
+Occupation Name: Alimentador de linha de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

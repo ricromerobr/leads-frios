@@ -1,0 +1,509 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  25890429817
+Data/Hora:  04/10/2026, 15:39:56
+Tempo API:  565ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 258.904.298-17
+Nome: MARCOS ANICETO DA SILVA
+Primeiro Nome: MARCOS
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 05/04/1978
+Nome da Mãe: MARIA NICE PORTO DA SILVA
+Nome do Pai: NIVALDO ANICETO DA SILVA
+RG: 301624161
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 265061460167
+Mosaic: E17
+Ocupação: Técnico químico
+Score:
+  Value: 48
+  Range: ALTISSIMO
+E-mail: anicetomarcos@ig.com.br
+Additional Emails: (4 item(s))
+  - anicetomarcos@ig.com.br
+  - marcos.aniceto@bol.com.br
+  - MARCOS.ANICETO@BOL.COM.BR
+  - aniceto.marcos@bol.com.br
+Federal Status: REGULAR
+Renda: 3834
+Income Bracket: 4
+Cbo: 311105
+Endereço:
+  Tipo: AVENIDA
+  Rua: PINHEIRINHO D AGUA
+  Número: 111
+  Complemento: CS
+  Bairro: PARQUE PANAMERICANO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 02992-030
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: PINHEIRINHO D AGUA
+    Número: 111
+    Complemento: CS
+    Bairro: PARQUE PANAMERICANO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 02992-030
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO GALVAO MEDEIROS
+    Número: 84
+    Bairro: JD PANAMERICANO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: GERTRUDES JORDAO
+    Tipo: R
+    Número: 257
+    Complemento: C 2
+    Bairro: JARAGUA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05181-300
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ANTONIO GALVAO MEDEIROS
+    Tipo: R
+    Número: 84
+    Bairro: PRQ PANAMERICANO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02992-100
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GABRIEL DOS SANTOS
+    Tipo: R
+    Número: 591
+    Complemento: AP 141
+    Bairro: STA CECILIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01231-011
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: AV
+    Rua: PINHEIRINHO D AGUA
+    Número: 0000111
+    Bairro: PARQUE PANAMERICANO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02992-030
+    Fonte: ASSECC
+  [7]
+    Tipo: RUA
+    Rua: R ANTONIO GALVAO MEDEIROS  84 CASA A
+    Número: 84
+    Bairro: PARQUE PANAMERICANO
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: FIAT
+      Modelo: UNO ELETRONIC
+      Ano: 1995
+    [2]
+      Marca: HONDA
+      Modelo: CG 150 TITAN KS
+      Ano: 2007
+Telefones: (14 item(s))
+  - (11) 94780-0827
+  - (11) 94025-1899
+  - (11) 94779-2903
+  - (11) 96779-0809
+  - (11) 94008-3222
+  - (11) 94013-4812
+  - (11) 3947-3084
+  - +55 (11) 94025-1899
+  - 551139421084
+  - (11) 99694-2823
+  - (11) 3946-5176
+  - (11) 98517-7603
+  - (11) 99712-4595
+  - (11) 7750-6081
+Datasus Phones: (2 item(s))
+  - (11) 3942-1084
+  - (11) 94025-1899
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 706403687766284
+Rg Issue Date: 930538800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/12/2019
+    Info Date: 21/12/2008
+    Mosaic: E17
+    Mosaic New: E15
+    Mosaic Secondary: D10
+    Income Bracket Id: 6
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: GERTRUDES JORDAO
+      Número: 257
+      Complemento: C 2
+      Bairro: JARAGUA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05181-300
+      Date Added: 02/02/2016
+    [2]
+      Tipo: R
+      Rua: ANTONIO GALVAO MEDEIROS
+      Número: 84
+      Bairro: PRQ PANAMERICANO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02992-100
+      Date Added: 30/08/2019
+    [3]
+      Tipo: AV
+      Rua: PINHEIRINHO D AGUA
+      Número: 111
+      Bairro: PRQ PANAMERICANO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02992-030
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: GABRIEL DOS SANTOS
+      Número: 591
+      Complemento: AP 141
+      Bairro: STA CECILIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01231-011
+      Date Added: 27/03/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 996942823
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 04/03/2007
+    [2]
+      Telefone: 39465176
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 26/03/2007
+    [3]
+      Telefone: 985177603
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+    [4]
+      Telefone: 997124595
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [5]
+      Telefone: 77506081
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: anicetomarcos@ig.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: marcos.aniceto@bol.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 58
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 48
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 148.456.808-74
+      Nome: ANA MARIA PORTO DA SILVA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 286.332.518-33
+      Nome: MARCIO ANICETO DA SILVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 153.070.928-81
+      Nome: SOLANGE PORTO DA SILVA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 143.670.488-02
+      Nome: MARIA NICE PORTO DA SILVA
+      Vinculo: MAE
+  Pis: 12498848578
+  Tse:
+    Titulo: 265061460167
+    Zona: 403
+    Secao: 114
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3580.07
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 254.010.308-19
+    Nome: MARCIA JORGE DIAS
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+  [2]
+    CPF: 407.193.325-91
+    Nome: MARIA DE FATIMA RODRIGUES BASTOS
+    Logradouro: GERTRUDES JORDAO
+    Número: 212
+    Bairro: JARAGUA
+  [3]
+    CPF: 100.620.658-23
+    Nome: JOILSON SANTOS DE SALES
+    Logradouro: GERTRUDES JORDAO
+    Número: 252
+    Bairro: JARAGUA
+  [4]
+    CPF: 039.022.678-52
+    Nome: ISAURA KEIKO NICHIOKA DE SANTANA
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+  [5]
+    CPF: 366.163.318-06
+    Nome: VICTOR FERREIRA CHELES
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+  [6]
+    CPF: 308.025.138-59
+    Nome: ROZINETE EVANGELISTA DE ARAUJO
+    Logradouro: GERTRUDES JORDAO
+    Número: 222
+    Bairro: JARAGUA
+  [7]
+    CPF: 273.594.898-65
+    Nome: KATIA CILENE ALVES TOLEDO
+    Logradouro: GERTRUDES JORDAO
+    Número: 324
+    Bairro: JARAGUA
+  [8]
+    CPF: 086.293.018-99
+    Nome: LUCIA APARECIDA DE ANDRADE
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+  [9]
+    CPF: 148.946.608-81
+    Nome: NILTON MESSIAS DA SILVA
+    Logradouro: GERTRUDES JORDAO
+    Número: 272
+    Bairro: JARAGUA
+  [10]
+    CPF: 026.699.102-54
+    Nome: ARMANDO GEORGE DOS SANTOS QUEMEL
+    Logradouro: GERTRUDES JORDAO
+    Número: 218
+    Bairro: JARAGUA
+  [11]
+    CPF: 111.535.658-54
+    Nome: CESAR AUGUSTO DE SOUZA
+    Logradouro: GERTRUDES JORDAO
+    Número: 180
+    Bairro: JARAGUA
+  [12]
+    CPF: 148.642.968-80
+    Nome: SUELI VILARINHO DE ALMEIDA VICENTE
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+  [13]
+    CPF: 162.865.258-66
+    Nome: REGIANE SANTIAGO BARBOSA
+    Logradouro: GERTRUDES JORDAO
+    Número: 102
+    Bairro: JARAGUA
+  [14]
+    CPF: 290.896.068-07
+    Nome: IMACULADA CONCEICAO DA SILVA
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+  [15]
+    CPF: 291.225.878-29
+    Nome: VANESSA DE OLIVEIRA COUTINHO
+    Logradouro: GERTRUDES JORDAO
+    Número: 257
+    Bairro: JARAGUA
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (11) 94008-3222
+    Nome: MARCOS ANICETO DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 94780-0827
+    Nome: MARCOS ANICETO DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 94013-4812
+    Nome: MARCOS ANICETO DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [4]
+    Telefone: (11) 94025-1899
+    Nome: MARCOS ANICETO DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [5]
+    Telefone: (11) 94779-2903
+    Nome: MARCOS ANICETO DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 397324540
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 19/11/2019
+    Tempo Base: 9
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201911
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 05/04/1978
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 4608
+      Classe Social: C1
+      Score: 651
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 439
+        Net: 421
+        Ctv: 305
+        Faixa Cmv: 435 - 547
+        Faixa Net: 349 - 669
+        Faixa Ctv: 1 - 453
+        Risco Cmv: MEDIO
+        Risco Net: MEDIO
+        Risco Ctv: CRÍTICO
+        Idade: 42
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 3947-3084
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 25SEP2018:11:16:39
+    Cel Contato: +5511940251899
+    Complemento: CS - Casa: A;
+    Data Retirada: 22NOV2019:09:01:15
+    Tipo Cliente: Residencial
+E-mails: (3 item(s))
+  - anicetomarcos@ig.com.br
+  - marcos.aniceto@bol.com.br
+  - aniceto.marcos@bol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3834
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3580.07
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 4608
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 99694-2823
+    Ddd: 11
+    Número: 996942823
+    Tipo: 3
+    Data Inclusao: 04/03/2007
+    Classificacao: A1
+  [2]
+    Telefone: (11) 3946-5176
+    Ddd: 11
+    Número: 39465176
+    Tipo: FIXO
+    Data Inclusao: 26/03/2007
+    Classificacao: A0
+  [3]
+    Telefone: (11) 98517-7603
+    Ddd: 11
+    Número: 985177603
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Classificacao: D
+  [4]
+    Telefone: (11) 99712-4595
+    Ddd: 11
+    Número: 997124595
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [5]
+    Telefone: (11) 7750-6081
+    Ddd: 11
+    Número: 77506081
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 311105
+Occupation Name: Técnico químico
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

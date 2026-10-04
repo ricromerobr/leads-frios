@@ -1,0 +1,291 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05695563410
+Data/Hora:  01/10/2026, 18:09:07
+Tempo API:  553ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 056.955.634-10
+Nome: ALISON SANTANA DE MELO BARBOZA
+Primeiro Nome: ALISON
+Sobrenome: BARBOZA
+Sexo: Masculino
+Data de Nascimento: 04/11/1981
+Nome da Mãe: EDLEUZA SANTANA MELO BARBOZA
+Voter Id: 056018690809
+Mosaic: C09
+Ocupação: Pedreiro
+Score:
+  Value: 14
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 931
+Income Bracket: 1
+Cbo: 715210
+Endereço:
+  Tipo: RUA
+  Rua: SAO BENEDITO
+  Bairro: RIACHO DOCE
+  Cidade: MACEIO
+  Estado: ALAGOAS
+  CEP: 57039-310
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SAO BENEDITO
+    Bairro: RIACHO DOCE
+    Cidade: MACEIO
+    Estado: ALAGOAS
+    CEP: 57039-310
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE JULIO SAWER
+    Tipo: R
+    Número: 30
+    Complemento: C
+    Bairro: PNT VERDE
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57035-390
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: BENEDITO
+    Tipo: R
+    Número: 2598
+    Bairro: RCHO DOCE
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57039-310
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FRANCISCO DE ASSIS
+    Tipo: R
+    Número: 200
+    Bairro: JATIUCA
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57035-680
+    Data Atualizacao: 05/12/2011
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (82) 99323-6642
+  - (82) 99351-1141
+  - (82) 98899-5947
+  - (82) 99323-6787
+  - (82) 3355-1683
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/08/2019
+    Mosaic: C09
+    Mosaic New: H28
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE JULIO SAWER
+      Número: 30
+      Complemento: C
+      Bairro: PNT VERDE
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57035-390
+      Date Added: 11/10/2006
+    [2]
+      Tipo: R
+      Rua: BENEDITO
+      Número: 2598
+      Bairro: RCHO DOCE
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57039-310
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: FRANCISCO DE ASSIS
+      Número: 200
+      Bairro: JATIUCA
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57035-680
+      Date Added: 08/08/2011
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 33551683
+      Ddd: 82
+      Tipo: 1
+      Classificacao: B
+      Date Added: 07/01/2014
+      Info Date: 28/04/2013
+    [2]
+      Telefone: 988995947
+      Ddd: 82
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+  Score:
+    CSB8: 60
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 14
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 5230177403
+      Nome: ALEXSANDRA SANTANA BARBOZA DA SILVA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 827.762.104-34
+      Nome: EDLEUZA SANTANA DE MELO BARBOZA
+      Vinculo: MAE
+  Tse:
+    Titulo: 56018690809
+    Zona: 66
+    Secao: 29
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 331.39
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 050.668.814-33
+    Nome: ROSICLEUDA DOS SANTOS MOREIRA
+    Logradouro: JOSE JULIO SAWER
+    Número: 245
+    Bairro: PNT VERDE
+  [2]
+    CPF: 417.355.107-00
+    Nome: MARIA IVONETE DE MELO TEIXEIRA
+    Logradouro: JOSE JULIO SAWER
+    Número: 38
+    Bairro: PNT VERDE
+  [3]
+    CPF: 020.864.064-95
+    Nome: RANSES BANDEIRA RIOS
+    Logradouro: JOSE JULIO SAUHER
+    Número: 7
+    Bairro: PNT VERDE
+  [4]
+    CPF: 064.834.944-67
+    Nome: FERNANDA BENEVIDES VIANA DE AMORIM
+    Logradouro: JOSE JULIO SAUHER
+    Número: SN
+    Bairro: PNT VERDE
+  [5]
+    CPF: 774.561.738-34
+    Nome: NATALINA GALERA BERTOLAZZO
+    Logradouro: JOSE JULIO SAWER
+    Número: 38
+    Bairro: PNT VERDE
+  [6]
+    CPF: 008.886.404-98
+    Nome: PALOMA TOJAL DE CARVALHO
+    Logradouro: JOSE JULIO SAUHER
+    Número: 23
+    Bairro: PNT VERDE
+  [7]
+    CPF: 576.846.004-78
+    Nome: QUITERIA GOMES DA SILVA
+    Logradouro: JOSE JULIO SAWER
+    Número: 29
+    Bairro: PNT VERDE
+  [8]
+    CPF: 046.792.656-55
+    Nome: DEMERSON FRANCISCO BRASIL OLIVEIRA
+    Logradouro: JOSE JULIO SAUHER
+    Número: 160
+    Bairro: PNT VERDE
+  [9]
+    CPF: 098.707.254-49
+    Nome: JEFFERSON DE LIMA ARAUJO FILHO
+    Logradouro: JOSE JULIO SAWER
+    Número: 206
+    Bairro: PNT VERDE
+  [10]
+    CPF: 068.660.514-44
+    Nome: CICERO BERNADO DE OLIVEIRA
+    Logradouro: JOSE JULIO SAUHER
+    Número: 160
+    Bairro: PNT VERDE
+  [11]
+    CPF: 384.705.194-68
+    Nome: PAULO JORGE DA SILVA SANTOS
+    Logradouro: JOSE JULIO SAWER
+    Número: 1353
+    Bairro: PNT VERDE
+  [12]
+    CPF: 234.762.438-50
+    Nome: KRISTEN DRYBREAD
+    Logradouro: JOSE JULIO SAWER
+    Número: 48
+    Bairro: PNT VERDE
+  [13]
+    CPF: 388.539.574-68
+    Nome: SUZANA MARIA VALENCA PINTO
+    Logradouro: JOSE JULIO SAUHER
+    Número: 48
+    Bairro: PNT VERDE
+  [14]
+    CPF: 032.406.404-73
+    Nome: ROSIANE MARTILIANO DOS SANTOS
+    Logradouro: JOSE JULIO SAWER
+    Número: 31
+    Bairro: PNT VERDE
+  [15]
+    CPF: 185.166.881-00
+    Nome: NEYDE SALLES BAGETTI
+    Logradouro: JOSE JULIO SAWER
+    Número: 253
+    Bairro: PNT VERDE
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 931
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 331.39
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (82) 3355-1683
+    Ddd: 82
+    Número: 33551683
+    Tipo: FIXO
+    Data Inclusao: 07/01/2014
+    Data Informacao: 28/04/2013
+    Classificacao: B
+  [2]
+    Telefone: (82) 98899-5947
+    Ddd: 82
+    Número: 988995947
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+Occupation Code: 715210
+Occupation Name: Pedreiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,322 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00883880180
+Data/Hora:  03/10/2026, 21:04:12
+Tempo API:  530ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 008.838.801-80
+Nome: JOAO VICTOR SILVA
+Primeiro Nome: JOAO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 07/06/1986
+Nome da Mãe: MARILDA GONCALVES PASSOS SILVA
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 054040871066
+Mosaic: J36
+Ocupação: Gerente de projetos e serviços de manutenção
+Score:
+  Value: 312
+  Range: ALTO
+E-mail: jvictorgsia@hotmail.com
+Additional Emails: (1 item(s))
+  - jvictorgsia@hotmail.com
+Federal Status: REGULAR
+Renda: 13549
+Income Bracket: 7
+Cbo: 142705
+Endereço:
+  Tipo: RUA
+  Rua: 8
+  Bairro: SETOR UNIVERSITARIO
+  Cidade: GOIANESIA
+  Estado: GOIAS
+  CEP: 76382-051
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 8
+    Bairro: SETOR UNIVERSITARIO
+    Cidade: GOIANESIA
+    Estado: GOIAS
+    CEP: 76382-051
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R TRINTA E QUATRO
+    Número: 358
+    Bairro: CARRILHO
+    Cidade: GOIANESIA - GO
+    Fonte: DATASUS
+  [3]
+    Rua: TRINTA E QUATRO LESTE
+    Tipo: R
+    Número: 358
+    Bairro: S CRISTOVAO
+    Cidade: GOIANESIA
+    Estado: GO
+    CEP: 76381-098
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: CAIXA POSTAL
+    Número: 0000123
+    Bairro: CENTRO
+    Cidade: GOIANESIA
+    Estado: GO
+    CEP: 76380-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (62) 98490-6280
+  - (62) 98436-4152
+  - (62) 98414-6065
+  - (62) 99688-2916
+  - (62) 3353-4923
+  - (62) 3353-3709
+  - (62) 99983-6590
+Datasus Phones: (1 item(s))
+  - (62) 8490-6280
+Cidade de Nascimento: INVALIDO
+Cns: 701201032195615
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/08/2019
+    Mosaic: J36
+    Mosaic New: E17
+    Mosaic Secondary: D11
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: TRINTA E QUATRO LESTE
+      Número: 358
+      Bairro: S CRISTOVAO
+      Cidade: GOIANESIA
+      Estado: GO
+      CEP: 76381-098
+      Date Added: 27/11/2017
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 984906280
+      Ddd: 62
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 996882916
+      Ddd: 62
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 04/09/2014
+    [3]
+      Telefone: 33534923
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 29/09/2015
+      Info Date: 19/07/2016
+    [4]
+      Telefone: 33533709
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+    [5]
+      Telefone: 999836590
+      Ddd: 62
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: jvictorgsia@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 223
+    CSB8 FAIXA: ALTO
+    CSBA: 312
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARILDA GONCALVES PASSOS SILVA
+      Vinculo: MAE
+  Pis: 13485131317
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 890.353.991-53
+    Nome: JOELICE PEREIRA DOS SANTOS ALVES
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 396
+    Bairro: S CRISTOVAO
+  [2]
+    CPF: 106.609.244-39
+    Nome: SILVANEIDE SANTOS DE SA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 334
+    Bairro: S CRISTOVAO
+  [3]
+    CPF: 045.554.031-42
+    Nome: MAXUEL ALCANTARA BARBOSA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 270
+    Bairro: S CRISTOVAO
+  [4]
+    CPF: 165.180.471-00
+    Nome: JOSE INACIO DE SOUSA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 360
+    Bairro: S CRISTOVAO
+  [5]
+    CPF: 042.009.241-29
+    Nome: MARIA APARECIDA DA SILVA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 332
+    Bairro: S CRISTOVAO
+  [6]
+    CPF: 979.561.201-87
+    Nome: ELISMAR DE MATOS RICARTE FARIA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 252
+    Bairro: S CRISTOVAO
+  [7]
+    CPF: 991.185.991-68
+    Nome: NAYRA RIBEIRO BARROS
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 312
+    Bairro: S CRISTOVAO
+  [8]
+    CPF: 015.996.861-55
+    Nome: LEOCIONE MARTINS DE JESUS
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 372
+    Bairro: S CRISTOVAO
+  [9]
+    CPF: 011.404.541-02
+    Nome: MARCELO JOSE DA SILVA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 366
+    Bairro: S CRISTOVAO
+  [10]
+    CPF: 583.926.881-04
+    Nome: JOSUE IVO PEREIRA
+    Logradouro: TRINTA E QUATRO
+    Número: 334
+    Bairro: S CRISTOVAO
+  [11]
+    CPF: 886.056.121-34
+    Nome: ELIENE ALVES DA SILVA
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 258
+    Bairro: S CRISTOVAO
+  [12]
+    CPF: 008.095.561-46
+    Nome: KELSON DHAYSHON DOS SANTOS
+    Logradouro: TRINTA E QUATRO
+    Número: 334
+    Bairro: S CRISTOVAO
+  [13]
+    CPF: 015.530.281-71
+    Nome: ERNANE GOULART NETO
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 350
+    Bairro: S CRISTOVAO
+  [14]
+    CPF: 556.955.901-91
+    Nome: EDMAR CARLOS DE ANDRADE
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 380
+    Bairro: S CRISTOVAO
+  [15]
+    CPF: 019.275.941-89
+    Nome: RODRIGUES GONCALVES CARDOSO FERNANDES
+    Logradouro: TRINTA E QUATRO LESTE
+    Número: 348
+    Bairro: S CRISTOVAO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (62) 98436-4152
+    Nome: JOAO VICTOR SILVA
+    Cidade: GOIANESIA
+    UF: GO
+  [2]
+    Telefone: (62) 98490-6280
+    Nome: JOAO VICTOR SILVA
+    Cidade: GOIANESIA
+    UF: GO
+  [3]
+    Telefone: (62) 98414-6065
+    Nome: JOAO VICTOR SILVA
+    Cidade: GOIANESIA
+    UF: GO
+E-mails: (1 item(s))
+  - jvictorgsia@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 7
+Renda Estimativas:
+  Presumida:
+    Valor: 13549
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (62) 98490-6280
+    Ddd: 62
+    Número: 984906280
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A0
+  [2]
+    Telefone: (62) 99688-2916
+    Ddd: 62
+    Número: 996882916
+    Tipo: 3
+    Data Inclusao: 04/09/2014
+    Classificacao: A0
+  [3]
+    Telefone: (62) 3353-4923
+    Ddd: 62
+    Número: 33534923
+    Tipo: FIXO
+    Data Inclusao: 29/09/2015
+    Data Informacao: 19/07/2016
+    Classificacao: D2
+  [4]
+    Telefone: (62) 3353-3709
+    Ddd: 62
+    Número: 33533709
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+  [5]
+    Telefone: (62) 99983-6590
+    Ddd: 62
+    Número: 999836590
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 142705
+Occupation Name: Gerente de projetos e serviços de manutenção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,285 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03098143240
+Data/Hora:  03/10/2026, 20:27:53
+Tempo API:  527ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 030.981.432-40
+Nome: FRANCILENE SILVA DOS SANTOS
+Primeiro Nome: FRANCILENE
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 08/02/1998
+Nome da Mãe: ROSA MARIA GOMES DA SILVA
+Nome do Pai: FRANCISCO PEREIRA DOS SANTOS
+Score:
+  Value: 109
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 231
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: ELVIRA TEIXEIRA PINTO
+  Bairro: JARDIM MARIA ROSA
+  Cidade: TABOAO DA SERRA
+  Estado: SAO PAULO
+  CEP: 06764-060
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ELVIRA TEIXEIRA PINTO
+    Bairro: JARDIM MARIA ROSA
+    Cidade: TABOAO DA SERRA
+    Estado: SAO PAULO
+    CEP: 06764-060
+    Fonte: PRINCIPAL
+  [2]
+    Rua: VIRGILIO BARROSO ALEXANDRE
+    Número: 1613
+    Bairro: SAOM JOSE
+    Cidade: MANACAPURU - AM
+    Fonte: DATASUS
+  [3]
+    Rua: ELVIRA TEIXEIRA PINTO
+    Tipo: R
+    Número: 17
+    Complemento: A
+    Bairro: JD MARIA ROSA
+    Cidade: TABOAO DA SERRA
+    Estado: SP
+    CEP: 06764-060
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ANTONIO SOFIM
+    Tipo: R
+    Número: 1812
+    Complemento: C
+    Bairro: LIBERDADE
+    Cidade: MANACAPURU
+    Estado: AM
+    CEP: 69400-562
+    Data Atualizacao: 29/01/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: PEDRO RATTES
+    Rua: BVD
+    Número: 0001613
+    Bairro: TERRA PRETA
+    Cidade: MANACAPURU
+    Estado: AM
+    CEP: 69401-233
+    Fonte: ASSECC
+  [6]
+    Rua: R ANTONIO SOFIM
+    Número: 1812
+    Complemento: C
+    Bairro: LIBERDADE
+    Estado: AM
+    CEP: 69400-562
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (92) 98614-4266
+  - (92) 99258-0299
+  - (92) 99488-1043
+  - (92) 99227-6683
+  - (92) 99159-6508
+Datasus Phones: (1 item(s))
+  - (92) 9298-7274
+Cidade de Nascimento: MANACAPURU - AM
+Cns: 700800977897580
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 07/08/2019
+    Mosaic New: K38
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: ELVIRA TEIXEIRA PINTO
+      Número: 17
+      Complemento: A
+      Bairro: JD MARIA ROSA
+      Cidade: TABOAO DA SERRA
+      Estado: SP
+      CEP: 06764-060
+      Date Added: 16/10/2018
+    [2]
+      Tipo: R
+      Rua: ANTONIO SOFIM
+      Número: 1812
+      Complemento: C
+      Bairro: LIBERDADE
+      Cidade: MANACAPURU
+      Estado: AM
+      CEP: 69400-562
+      Date Added: 29/08/2017
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 991596508
+      Ddd: 92
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+  Score:
+    CSB8: 581
+    CSB8 FAIXA: BAIXO
+    CSBA: 109
+    CSBA FAIXA: ALTISSIMO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 231.77
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 228.610.218-02
+    Nome: RENATA YOSHIE KANEMATSU
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 156
+    Bairro: JD MARIA ROSA
+  [2]
+    CPF: 276.549.878-46
+    Nome: BRUNA REGINA DE ABREU
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 145
+    Bairro: JD MARIA ROSA
+  [3]
+    CPF: 163.382.248-61
+    Nome: FABIO SOUZA LAPA
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 102
+    Bairro: JD MARIA ROSA
+  [4]
+    CPF: 093.048.068-60
+    Nome: MAGALI FRANCO BARBOSA
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 11
+    Bairro: JD MARIA ROSA
+  [5]
+    CPF: 006.693.890-21
+    Nome: ALEXANDRE SILVA DA SILVA
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 49
+    Bairro: JD MARIA ROSA
+  [6]
+    CPF: 000.206.668-88
+    Nome: UESCO FRANCISCO VARGES
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 127
+    Bairro: JD MARIA ROSA
+  [7]
+    CPF: 115.637.398-01
+    Nome: WAGNER PATRICIO
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 75
+    Bairro: JD MARIA ROSA
+  [8]
+    CPF: 146.146.218-56
+    Nome: VALQUIRIA CRISTINA LEMOS
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 116
+    Bairro: JD MARIA ROSA
+  [9]
+    CPF: 260.369.858-35
+    Nome: PATRICIA NASCIMENTO AUGUSTO ANDRE
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 49
+    Bairro: JD MARIA ROSA
+  [10]
+    CPF: 094.985.628-22
+    Nome: CLARICE COUTINHO CANDIDO
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 158
+    Bairro: JD MARIA ROSA
+  [11]
+    CPF: 091.496.218-31
+    Nome: JOSE ROBERTO DO CARMO
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 136
+    Bairro: JD MARIA ROSA
+  [12]
+    CPF: 352.103.888-24
+    Nome: WILLIAM MIGUEL DE MORAES
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 145
+    Bairro: JD MARIA ROSA
+  [13]
+    CPF: 162.126.018-60
+    Nome: ROSANA DE FATIMA PIMENTA
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 195
+    Bairro: JD MARIA ROSA
+  [14]
+    CPF: 283.774.318-66
+    Nome: CRISTIANO CHAGAS LUIZ DA SILVA
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 159
+    Bairro: JD MARIA ROSA
+  [15]
+    CPF: 285.933.228-67
+    Nome: JOAO ADOLFO BOAVENTURA DA SILVA
+    Logradouro: ELVIRA TEIXEIRA PINTO
+    Número: 162
+    Bairro: JD MARIA ROSA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (92) 99258-0299
+    Nome: FRANCILENE  SILVA DOS SANTOS
+    Cidade: MANACAPURU
+    UF: AM
+  [2]
+    Telefone: (92) 99488-1043
+    Nome: FRANCILENE  SILVA DOS SANTOS
+    Cidade: MANACAPURU
+    UF: AM
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (92) 99227-6683
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 13JAN2018
+    Ultima Recarga: 07SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 04/01/2018
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 231
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 231.77
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (92) 99159-6508
+    Ddd: 92
+    Número: 991596508
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

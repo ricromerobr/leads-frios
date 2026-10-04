@@ -1,0 +1,441 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  43100106873
+Data/Hora:  02/10/2026, 16:27:16
+Tempo API:  751ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 431.001.068-73
+Nome: MATHEUS ALVES DE ARRUDA
+Primeiro Nome: MATHEUS
+Sobrenome: ARRUDA
+Sexo: Masculino
+Data de Nascimento: 16/02/1993
+Nome da Mãe: MARIA FERNANDA ALVES DE ARRUDA
+Ocupação: Técnico de manutenção eletrônica
+Score:
+  Value: 355
+  Range: ALTO
+E-mail: mattheusarrudaa@gmail.com
+Federal Status: REGULAR
+Renda: 2000
+Income Bracket: 2
+Cbo: 313205
+Endereço:
+  Tipo: RUA
+  Rua: EUCLIDES DA CUNHA 127
+  Número: 127
+  Bairro: GONZAGA
+  Cidade: SANTOS
+  Estado: SAO PAULO
+  CEP: 11065-100
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EUCLIDES DA CUNHA 127
+    Número: 127
+    Bairro: GONZAGA
+    Cidade: SANTOS
+    Estado: SAO PAULO
+    CEP: 11065-100
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GUARANY
+    Tipo: R
+    Número: 900
+    Bairro: PRQ S VICENTE
+    Cidade: SAO VICENTE
+    Estado: SP
+    CEP: 11360-000
+    Data Atualizacao: 04/04/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: SAN MARTIN
+    Tipo: R
+    Número: 356
+    Complemento: C 2
+    Bairro: JD INDEPENDENCIA
+    Cidade: SAO VICENTE
+    Estado: SP
+    CEP: 11380-480
+    Data Atualizacao: 30/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOSE MONTEIRO
+    Tipo: AV
+    Número: 356
+    Bairro: JD INDEPENDENCIA
+    Cidade: SAO VICENTE
+    Estado: SP
+    CEP: 11380-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: GUARANI
+    Número: 0000900
+    Bairro: PARQUE SAO VICENTE
+    Cidade: S VICENTE
+    Estado: SP
+    CEP: 11360-000
+    Fonte: ASSECC
+  [6]
+    Tipo: [empty]
+    Rua: 0000900
+    Número: GUARANY
+    Bairro: PARQUE SAO VICENTE
+    Cidade: SAO VICENTE
+    Estado: SP
+    CEP: 11360-000
+    Fonte: ASSECC
+  [7]
+    Rua: RUA R  EUCLIDES DA CUNHA 127
+    Número: 127
+    Bairro: GONZAGA
+    Estado: SP
+    CEP: 11065-100
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HONDA
+      Modelo: BIZ 125
+      Ano: 2017
+Telefones: (9 item(s))
+  - (13) 99684-7345
+  - (13) 98180-8266
+  - (13) 98227-6837
+  - (13) 98117-6772
+  - (13) 99717-0128
+  - (13) 99635-6359
+  - (13) 99716-7754
+  - (13) 99204-8769
+  - (13) 99741-4292
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/12/2019
+    Mosaic New: C06
+    Mosaic Secondary: C07
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: GUARANY
+      Número: 900
+      Bairro: PRQ S VICENTE
+      Cidade: SAO VICENTE
+      Estado: SP
+      CEP: 11360-000
+      Date Added: 05/09/2018
+    [2]
+      Tipo: R
+      Rua: SAN MARTIN
+      Número: 356
+      Complemento: C 2
+      Bairro: JD INDEPENDENCIA
+      Cidade: SAO VICENTE
+      Estado: SP
+      CEP: 11380-480
+      Date Added: 23/05/2015
+    [3]
+      Tipo: R
+      Rua: EUCLIDES DA CUNHA
+      Número: 127
+      Bairro: GONZAGA
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11065-100
+      Date Added: 30/03/2016
+    [4]
+      Tipo: AV
+      Rua: JOSE MONTEIRO
+      Número: 356
+      Bairro: JD INDEPENDENCIA
+      Cidade: SAO VICENTE
+      Estado: SP
+      CEP: 11380-000
+      Date Added: 30/03/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 992048769
+      Ddd: 13
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 11/02/2019
+      Info Date: 20/09/2019
+    [2]
+      Telefone: 981808266
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 13/03/2019
+    [3]
+      Telefone: 982276837
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 13/03/2019
+    [4]
+      Telefone: 997167754
+      Ddd: 13
+      Tipo: 3
+      Classificacao: C
+      Date Added: 13/03/2019
+    [5]
+      Telefone: 997414292
+      Ddd: 13
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 15/11/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: mattheusarrudaa@gmail.com
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 29/10/2019
+  Score:
+    CSB8: 357
+    CSB8 FAIXA: MEDIO
+    CSBA: 355
+    CSBA FAIXA: ALTO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 393.400.498-96
+      Nome: THAIANE ALVES DE ARRUDA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 296.607.878-20
+      Nome: MARIA FERNANDA ALVES DE ARRUDA
+      Vinculo: MAE
+  Pis: 12580502914
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 684.69
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (1 item(s))
+  - mattheusarrudaa@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.974.448-94
+    Nome: ROSENILDA ROSA VIANNA
+    Logradouro: GUARANY
+    Número: 1034
+    Bairro: PRQ S VICENTE
+  [2]
+    CPF: 047.216.628-07
+    Nome: MARIA BETANIA ARAUJO NUNES
+    Logradouro: GUARANY
+    Número: 70
+    Bairro: PRQ S VICENTE
+  [3]
+    CPF: 296.543.168-38
+    Nome: THATIANA MARIA CAMARGO FERNANDES
+    Logradouro: GUARANY
+    Número: 520
+    Bairro: PRQ S VICENTE
+  [4]
+    CPF: 884.527.948-00
+    Nome: MATILDE RUIZ DE ANDRADE
+    Logradouro: GUARANY
+    Número: 928
+    Bairro: PRQ S VICENTE
+  [5]
+    CPF: 043.299.658-36
+    Nome: LUIZ JANUARIO RIBEIRO FILHO
+    Logradouro: GUARANY
+    Número: 495
+    Bairro: PRQ S VICENTE
+  [6]
+    CPF: 325.383.548-03
+    Nome: RAPHAEL DIAS ARAUJO BENEDITO
+    Logradouro: GUARANY
+    Número: 26
+    Bairro: PRQ S VICENTE
+  [7]
+    CPF: 972.899.498-20
+    Nome: ELSA BEZERRA LEITE
+    Logradouro: GUARANY
+    Número: 221
+    Bairro: PRQ S VICENTE
+  [8]
+    CPF: 047.016.466-28
+    Nome: MARCELO ROGERIO DE MELO
+    Logradouro: GUARANY
+    Número: 70
+    Bairro: PRQ S VICENTE
+  [9]
+    CPF: 036.853.158-97
+    Nome: ISABEL DE JESUS BRAZAO
+    Logradouro: GUARANY
+    Número: 107
+    Bairro: PRQ S VICENTE
+  [10]
+    CPF: 280.496.098-63
+    Nome: MICHEL LUIZ FERNANDES
+    Logradouro: GUARANY
+    Número: SN
+    Bairro: PRQ S VICENTE
+  [11]
+    CPF: 034.392.848-59
+    Nome: IRACEMA MARIANO DE OLIVEIRA
+    Logradouro: GUARANY
+    Número: 677
+    Bairro: PRQ S VICENTE
+  [12]
+    CPF: 062.150.158-14
+    Nome: LEILA COQUITO DE MELLO
+    Logradouro: GUARANY
+    Número: 434
+    Bairro: PRQ S VICENTE
+  [13]
+    CPF: 108.242.648-27
+    Nome: ADELCIO DE OLIVEIRA SILVA
+    Logradouro: GUARANY
+    Número: 606
+    Bairro: PRQ S VICENTE
+  [14]
+    CPF: 162.311.468-39
+    Nome: GISELE CRISTINA GAMES ALVES
+    Logradouro: GUARANY
+    Número: 81
+    Bairro: PRQ S VICENTE
+  [15]
+    CPF: 114.633.748-52
+    Nome: JOSEFA NEUZA DE JESUS CARVALHO
+    Logradouro: GUARANY
+    Número: 356
+    Bairro: PRQ S VICENTE
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (13) 99717-0128
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: S VICENTE
+    UF: SP
+  [2]
+    Telefone: (13) 99635-6359
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: S VICENTE
+    UF: SP
+  [3]
+    Telefone: (13) 99716-7754
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: S VICENTE
+    UF: SP
+  [4]
+    Telefone: (13) 98117-6772
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: SAO VICENTE
+    UF: SP
+  [5]
+    Telefone: (13) 98227-6837
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: SAO VICENTE
+    UF: SP
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (13) 98117-6772
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: SAO VICENTE
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (13) 98227-6837
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: SAO VICENTE
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [3]
+    Telefone: (13) 98180-8266
+    Nome: MATHEUS ALVES DE ARRUDA
+    Cidade: SAO VICENTE
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (13) 99684-7345
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 24DEC2019
+    Ultima Recarga: 08SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 20/12/2019
+E-mails: (1 item(s))
+  - mattheusarrudaa@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 2000
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 684.69
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (13) 99204-8769
+    Ddd: 13
+    Número: 992048769
+    Tipo: 3
+    Data Inclusao: 11/02/2019
+    Data Informacao: 20/09/2019
+    Classificacao: A0
+  [2]
+    Telefone: (13) 98180-8266
+    Ddd: 13
+    Número: 981808266
+    Tipo: 3
+    Data Inclusao: 13/03/2019
+    Classificacao: D
+  [3]
+    Telefone: (13) 98227-6837
+    Ddd: 13
+    Número: 982276837
+    Tipo: 3
+    Data Inclusao: 13/03/2019
+    Classificacao: D
+  [4]
+    Telefone: (13) 99716-7754
+    Ddd: 13
+    Número: 997167754
+    Tipo: 3
+    Data Inclusao: 13/03/2019
+    Classificacao: C
+  [5]
+    Telefone: (13) 99741-4292
+    Ddd: 13
+    Número: 997414292
+    Tipo: 3
+    Data Inclusao: 15/11/2019
+    Classificacao: A0
+Occupation Code: 313205
+Occupation Name: Técnico de manutenção eletrônica
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

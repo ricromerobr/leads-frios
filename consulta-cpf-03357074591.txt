@@ -1,0 +1,433 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03357074591
+Data/Hora:  03/10/2026, 23:56:03
+Tempo API:  387ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 033.570.745-91
+Nome: JOSE LIMA SANTOS
+Primeiro Nome: JOSE
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 16/01/1948
+Nome da Mãe: ANIVALDETA LIMA SANTOS
+Nome do Pai: SEM INFORMAÇÃO
+RG: 29200612411
+Mosaic: D13
+Ocupação: Administrador
+Score:
+  Value: 82
+  Range: ALTISSIMO
+E-mail: eliene.cristafiel@hotmail.com
+Additional Emails: (3 item(s))
+  - eliene.cristafiel@hotmail.com
+  - andrepaulo_@hotmail.com
+  - lima@copaambiental.com.br
+Federal Status: REGULAR
+Renda: 1014
+Income Bracket: 2
+Cbo: 910105
+Corporate Share Pct: 50
+Endereço:
+  Tipo: RUA
+  Rua: EULER DE PEREIRA CARDOSO
+  Número: 222
+  Complemento: CON RES PETROMAR RUA D QD D CS
+  Bairro: STELLA MARIS
+  Cidade: SALVADOR
+  Estado: BAHIA
+  CEP: 41600-045
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EULER DE PEREIRA CARDOSO
+    Número: 222
+    Complemento: CON RES PETROMAR RUA D QD D CS
+    Bairro: STELLA MARIS
+    Cidade: SALVADOR
+    Estado: BAHIA
+    CEP: 41600-045
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R EULER PEREIRA CARDOSO
+    Número: 4
+    Bairro: STELLA MARES
+    Cidade: SALVADOR - BA
+    Fonte: DATASUS
+  [3]
+    Rua: DAS UBARANAS
+    Tipo: R
+    Número: 3744
+    Bairro: AMARALINA
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41900-390
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: EULER DE PEREIRA CARDOSO
+    Tipo: R
+    Número: 22
+    Complemento: C
+    Bairro: STELLA MARIS
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41600-045
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: EULER DE PEREIRA CARDOSO
+    Tipo: R
+    Número: 4
+    Complemento: 222
+    Bairro: STELLA MARIS
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41600-045
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PETROMAR
+    Tipo: COND
+    Número: 998
+    Complemento: C 4 VILLAGE 222 D
+    Bairro: STELLA MARIS
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41600-210
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: EULER DE PEREIRA CARDOSO
+    Número: 0000222
+    Bairro: STELLA MARIS
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41600-045
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 700505188353857
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 20/01/2020
+    Info Date: 20/02/2009
+    Mosaic: D13
+    Mosaic New: G22
+    Mosaic Secondary: G23
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: EULER DE PEREIRA CARDOSO
+      Número: 222
+      Complemento: C 40
+      Bairro: STELLA MARIS
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41600-045
+      Date Added: 20/08/2014
+    [2]
+      Tipo: R
+      Rua: DAS UBARANAS
+      Número: 3744
+      Bairro: AMARALINA
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41900-390
+      Date Added: 26/02/2013
+    [3]
+      Tipo: R
+      Rua: EULER DE PEREIRA CARDOSO
+      Número: 22
+      Complemento: C
+      Bairro: STELLA MARIS
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41600-045
+      Date Added: 09/10/2013
+    [4]
+      Tipo: R
+      Rua: EULER DE PEREIRA CARDOSO
+      Número: 4
+      Complemento: 222
+      Bairro: STELLA MARIS
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41600-045
+      Date Added: 09/12/2014
+    [5]
+      Tipo: COND
+      Rua: PETROMAR
+      Número: 998
+      Complemento: C 4 VILLAGE 222 D
+      Bairro: STELLA MARIS
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41600-210
+      Date Added: 15/01/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 981122711
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 02/03/2009
+    [2]
+      Telefone: 33749060
+      Ddd: 71
+      Tipo: 1
+      Classificacao: D
+      Date Added: 28/11/2012
+      Info Date: 05/09/2012
+    [3]
+      Telefone: 33049643
+      Ddd: 71
+      Tipo: 1
+      Classificacao: D
+      Date Added: 16/11/2015
+    [4]
+      Telefone: 981978504
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 981798504
+      Ddd: 71
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 23/08/2016
+  E-mails: (3 item(s))
+    [1]
+      E-mail: andrepaulo_@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [2]
+      E-mail: eliene.cristafiel@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [3]
+      E-mail: lima@copaambiental.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: DESCONHECIDO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 46
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 82
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (3 item(s))
+    [1]
+      Nome: ANIVALDETA LIMA SANTOS
+      Vinculo: MAE
+    [2]
+      CPF: 811.702.385-72
+      Nome: CASSIO CRUZ LIMA
+      Vinculo: FILHA(O)
+    [3]
+      CPF: 368.592.905-44
+      Nome: MARIA SAO PEDRO DA CRUZ LIMA
+      Vinculo: CONJUGE
+  Pis: 10226502586
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2064.08
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Telefones: (6 item(s))
+  - (71) 99904-8504
+  - (71) 98112-2711
+  - (71) 3374-9060
+  - (71) 3304-9643
+  - (71) 98197-8504
+  - (71) 98179-8504
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 185.284.145-15
+    Nome: HELIA MARIA LIMA CARVALHO
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: SN
+    Bairro: STELLA MARIS
+  [2]
+    CPF: 397.079.702-00
+    Nome: CILENY DO SOCORRO RODRIGUES PEREIRA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 2
+    Bairro: STELLA MARIS
+  [3]
+    CPF: 034.785.345-50
+    Nome: NILZA OLIVEIRA LINS
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 3
+    Bairro: STELLA MARIS
+  [4]
+    CPF: 031.291.715-50
+    Nome: DANIELE RIBEIRO VIANA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 1
+    Bairro: STELLA MARIS
+  [5]
+    CPF: 420.061.395-68
+    Nome: MARTHA GOMES COSTA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 5
+    Bairro: STELLA MARIS
+  [6]
+    CPF: 550.488.385-72
+    Nome: EDEILDO ROSA DOS SANTOS
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 698
+    Bairro: STELLA MARIS
+  [7]
+    CPF: 121.362.985-34
+    Nome: LINDAURA CRUZ MACHADO SOUZA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 90
+    Bairro: STELLA MARIS
+  [8]
+    CPF: 465.787.069-68
+    Nome: WALTER DANIEL DE OLIVEIRA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 286
+    Bairro: STELLA MARIS
+  [9]
+    CPF: 176.087.245-87
+    Nome: LEONAR PAES COELHO DE ALMEIDA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 3
+    Bairro: STELLA MARIS
+  [10]
+    CPF: 424.258.915-87
+    Nome: MARCOS ANTONIO MASCARENHAS FERREIRA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 509
+    Bairro: STELLA MARIS
+  [11]
+    CPF: 017.146.525-30
+    Nome: ANA CATARINA MARTINS REIS
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 761
+    Bairro: STELLA MARIS
+  [12]
+    CPF: 014.039.635-76
+    Nome: JUNIVAL CONCEICAO TEIXEIRA FILHO
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 4
+    Bairro: STELLA MARIS
+  [13]
+    CPF: 013.535.485-46
+    Nome: MARILANDIA DA CONCEICAO
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 632
+    Bairro: STELLA MARIS
+  [14]
+    CPF: 012.240.705-93
+    Nome: MARIVALDO DE JESUS BARBOSA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 1
+    Bairro: STELLA MARIS
+  [15]
+    CPF: 008.529.665-12
+    Nome: GABRIEL SOUZA TELES DE MIRANDA
+    Logradouro: EULER DE PEREIRA CARDOSO
+    Número: 5
+    Bairro: STELLA MARIS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (71) 99904-8504
+    Nome: JOSE LIMA SANTOS
+    Cidade: SALVADOR
+    UF: BA
+E-mails: (3 item(s))
+  - eliene.cristafiel@hotmail.com
+  - andrepaulo_@hotmail.com
+  - lima@copaambiental.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1014
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2064.08
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (71) 98112-2711
+    Ddd: 71
+    Número: 981122711
+    Tipo: 3
+    Data Inclusao: 02/03/2009
+    Classificacao: D
+  [2]
+    Telefone: (71) 3374-9060
+    Ddd: 71
+    Número: 33749060
+    Tipo: FIXO
+    Data Inclusao: 28/11/2012
+    Data Informacao: 05/09/2012
+    Classificacao: D
+  [3]
+    Telefone: (71) 3304-9643
+    Ddd: 71
+    Número: 33049643
+    Tipo: FIXO
+    Data Inclusao: 16/11/2015
+    Classificacao: D
+  [4]
+    Telefone: (71) 98197-8504
+    Ddd: 71
+    Número: 981978504
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (71) 98179-8504
+    Ddd: 71
+    Número: 981798504
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: C2
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

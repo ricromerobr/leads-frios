@@ -1,0 +1,237 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05212891574
+Data/Hora:  02/10/2026, 15:22:26
+Tempo API:  7978ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 052.128.915-74
+Nome: ALESANDIO BISPO DOS SANTOS
+Primeiro Nome: ALESANDIO
+Sobrenome: SANTOS
+Sexo: I
+Data de Nascimento: 21/06/1972
+Nome da Mãe: MARIA DE LOURDES OLIVEIRA SANTOS
+Score:
+  Value: 160
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 375
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: TIRADENTES
+  Número: 51
+  Bairro: CENTRO
+  Cidade: SEABRA
+  Estado: BAHIA
+  CEP: 46900-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: TIRADENTES
+    Número: 51
+    Bairro: CENTRO
+    Cidade: SEABRA
+    Estado: BAHIA
+    CEP: 46900-000
+    Fonte: PRINCIPAL
+  [2]
+    Tipo: R
+    Rua: TIRADENTES
+    Número: 0000051
+    Bairro: NOSSA SRA DAS GRACAS
+    Cidade: SEABRA
+    Estado: BA
+    CEP: 46900-970
+    Fonte: ASSECC
+  [3]
+    Rua: RUA R TIRADENTES
+    Número: 51
+    Bairro: NOSSA SRA DAS GRAYAS
+    Estado: BA
+    CEP: 46900-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (75) 99844-5396
+  - (75) 99852-1378
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 03/07/2019
+    Mosaic New: K38
+    Mosaic Secondary: K40
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: TIRADENTES
+      Número: 51
+      Bairro: CENTRO
+      Cidade: SEABRA
+      Estado: BA
+      CEP: 46900-000
+      Date Added: 09/12/2014
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998521378
+      Ddd: 75
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+  Score:
+    CSB8: 480
+    CSB8 FAIXA: MEDIO
+    CSBA: 160
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DE LOURDES OLIVEIRA SANTOS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 375.27
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 022.905.035-25
+    Nome: JOAQUIM MARTINS DE SOUZA
+    Logradouro: TV MANOEL TEIXEIRA LEITE
+    Número: SN
+    Bairro: CENTRO
+  [2]
+    CPF: 029.167.885-81
+    Nome: NAILZA GOMES DE LIMA BRANDAO
+    Logradouro: PO DE COCHO MALHEIRO
+    Número: 90901
+    Bairro: RURAL SEABRA
+  [3]
+    CPF: 032.741.195-39
+    Nome: ROSANIA DOS SANTOS SILVA
+    Logradouro: PO CAMPESTRE
+    Número: 120
+    Bairro: CENTRO CAMPESTRE
+  [4]
+    CPF: 971.555.945-04
+    Nome: CLAUDIANE PIRES DE SOUZA
+    Logradouro: MANOEL TEIXEIRA LEIT
+    Número: 448
+    Bairro: CENTRO
+  [5]
+    CPF: 046.266.595-00
+    Nome: MARIA CAROLINE DE LIMA FERNANDES
+    Logradouro: PO LAGOA DA PORTA
+    Número: 72
+    Bairro: LGA DA PORTA
+  [6]
+    CPF: 021.906.545-48
+    Nome: CASSIA OLIVEIRA TELES
+    Logradouro: HELEODORO P RIBEIRO
+    Número: 9
+    Bairro: CENTRO COCHO DE MALH
+  [7]
+    CPF: 032.033.665-41
+    Nome: JESSICA OLIVEIRA MIRANDA
+    Logradouro: ANCHIETA
+    Número: 110
+    Bairro: CENTRO
+  [8]
+    CPF: 052.147.815-47
+    Nome: JOSE CARLOS GONCALVES DE ARAUJO
+    Logradouro: ANTONIO LAUREANO PIRES
+    Número: SN
+    Bairro: NS GRACAS
+  [9]
+    CPF: 918.058.565-53
+    Nome: CASSILEIDE BISPO DOS SANTOS
+    Logradouro: ANA NERY
+    Número: 1304
+    Bairro: CENTRO
+  [10]
+    CPF: 472.528.555-20
+    Nome: RILDO JOAQUIM DOS SANTOS
+    Logradouro: SETE DE SETEMBRO
+    Número: 16
+    Bairro: NOSSA SENHORA DAS GRACAS
+  [11]
+    CPF: 858.661.488-20
+    Nome: JOSE PEDRO DE SA TELES
+    Logradouro: ANTONIO LAUREANO PIRES
+    Número: 122
+    Bairro: NOSSA SRA GRACA
+  [12]
+    CPF: 036.839.545-66
+    Nome: ELMA LOPES FERREIRA
+    Logradouro: ANCHIETA
+    Número: 755
+    Bairro: ARTUR ALVES
+  [13]
+    CPF: 729.477.805-15
+    Nome: MARIA EMILIA DE OLIVEIRA PIRES
+    Logradouro: DA IGREJA
+    Número: 9999
+    Bairro: CENTRO INGAZEIRA
+  [14]
+    CPF: 058.137.545-98
+    Nome: TANIA CONCEICAO DOS SANTOS
+    Logradouro: JOSE EMANUEL DOS SANTOS
+    Número: 78
+    Bairro: VASCO FILHO
+  [15]
+    CPF: 219.824.225-72
+    Nome: ZENAIDE MARIA DOS ANJOS
+    Logradouro: TEIXEIRA DE FREITAS C
+    Número: SN
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (75) 99844-5396
+    Nome: ALESANDIO  BISPO DOS SANTOS
+    Cidade: SEABRA
+    UF: BA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (75) 99852-1378
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 02JUN2016
+    Ultima Recarga: 12SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 02/06/2016
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 375
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 375.27
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (75) 99852-1378
+    Ddd: 75
+    Número: 998521378
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

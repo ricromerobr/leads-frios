@@ -1,0 +1,350 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  12862921742
+Data/Hora:  04/10/2026, 11:35:25
+Tempo API:  976ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 128.629.217-42
+Nome: RACHELLI GABRIEL MALVEZZI
+Primeiro Nome: RACHELLI
+Sobrenome: MALVEZZI
+Sexo: Feminino
+Data de Nascimento: 17/11/1999
+Nome da Mãe: SIMONE ALVES GABRIEL MALVEZZI
+Nome do Pai: MARCELO NATALE MALVEZZI
+RG: 240623603
+Rg Issuer: 10/RJ
+Rg State: RJ
+Ocupação: Administrador
+Score:
+  Value: 721
+  Range: BAIXISSIMO RISCO
+E-mail: rachellimalvezzi@icloud.com
+Additional Emails: (3 item(s))
+  - rachellimalvezzi@icloud.com
+  - rachelli_gabriel@hotmail.com
+  - marcelomalvezzi@hotmail.com
+Federal Status: REGULAR
+Renda: 985
+Income Bracket: 1
+Cbo: 252105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MARTINHO CAMPOS
+  Número: 185
+  Bairro: CENTRO
+  Cidade: CARMO
+  Estado: RIO DE JANEIRO
+  CEP: 28640-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARTINHO CAMPOS
+    Número: 185
+    Bairro: CENTRO
+    Cidade: CARMO
+    Estado: RIO DE JANEIRO
+    CEP: 28640-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SENHOR DOS PASSOS
+    Número: 365
+    Bairro: CENTRO
+    Cidade: CARMO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: RUA JOSÉ PINTO PINHEIRO
+    Número: 127
+    Bairro: CENTRO
+    Cidade: CARMO
+    Estado: RJ
+    CEP: 28640-000
+    Fonte: SARAIVA
+  [4]
+    Rua: TREZE DE MAIO
+    Tipo: R
+    Número: 160
+    Complemento: AP 107
+    Bairro: CENTRO
+    Cidade: PETROPOLIS
+    Estado: RJ
+    CEP: 25685-231
+    Data Atualizacao: 09/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: MARTINHO CAMPOS
+    Número: 0000185
+    Bairro: CENTRO
+    Cidade: CARMO
+    Estado: RJ
+    CEP: 28640-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (22) 98100-1752
+  - (22) 99224-6151
+  - +55 (22) 98100-1752
+  - (22) 98139-2163
+  - (22) 99988-3093
+Cns: 700008436933006
+Rg Date: 17/01/2006
+Race: BRANCA
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: CARMO - RJ
+Rg Issue Date: 1137466800000
+Saraiva:
+  Customer Id: 5036304
+  Telefone: (22) 99224-6151
+  E-mail: rachellimalvezzi@icloud.com
+  Data de Nascimento: 18/04/1936
+Paycom:
+  E-mail: rachellimalvezzi@icloud.com
+  Created At: 2021-03-19 00:13:03
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Praça João Pinheiro
+    Número: 164
+    Complemento: Torre Queens, Apartamento 804
+    Bairro: Centro
+    Cidade: Muriaé
+    Estado: MG
+    País: BRA
+    CEP: 36880-043
+    Telephone: +55 (22) 98100-1752
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 03/10/2019
+    Mosaic New: C08
+    Mosaic Secondary: G23
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: TREZE DE MAIO
+      Número: 160
+      Complemento: AP 107
+      Bairro: CENTRO
+      Cidade: PETROPOLIS
+      Estado: RJ
+      CEP: 25685-231
+      Date Added: 27/03/2019
+    [2]
+      Tipo: R
+      Rua: MARTINHO CAMPOS
+      Número: 185
+      Complemento: SL 4
+      Bairro: CENTRO
+      Cidade: CARMO
+      Estado: RJ
+      CEP: 28640-000
+      Date Added: 01/02/2018
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 981392163
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [2]
+      Telefone: 999883093
+      Ddd: 22
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: rachellimalvezzi@icloud.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: rachelli_gabriel@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [3]
+      E-mail: marcelomalvezzi@hotmail.com
+      Priority: 3
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 721
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: SIMONE ALVES GABRIEL MALVEZZI
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 985.74
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 095.930.677-36
+    Nome: CARLOS ROBERTO LIMA DE SOUZA
+    Logradouro: TREZE DE MAIO
+    Número: 76
+    Bairro: CENTRO
+  [2]
+    CPF: 447.022.217-87
+    Nome: ANTONIO CHRISTIANO DE PAULA
+    Logradouro: TREZE DE MAIO
+    Número: 307
+    Bairro: CENTRO
+  [3]
+    CPF: 116.750.557-34
+    Nome: WALDIR JOSE DE CARVALHO MARQUES
+    Logradouro: TREZE DE MAIO
+    Número: 80
+    Bairro: CENTRO
+  [4]
+    CPF: 938.488.547-91
+    Nome: IZA MARIA VIEIRA HIPOLITO
+    Logradouro: TREZE DE MAIO
+    Número: 80
+    Bairro: CENTRO
+  [5]
+    CPF: 160.575.177-41
+    Nome: JOSUALDO SOUSA NEVES
+    Logradouro: TREZE DE MAIO
+    Número: 160
+    Bairro: CENTRO
+  [6]
+    CPF: 446.815.427-68
+    Nome: DILSA HELENA DOS SANTOS FERREIRA
+    Logradouro: TREZE DE MAIO
+    Número: 230
+    Bairro: CENTRO
+  [7]
+    CPF: 082.885.247-29
+    Nome: JORGE LUIS NOGUEIRA
+    Logradouro: TREZE DE MAIO
+    Número: 115
+    Bairro: CENTRO
+  [8]
+    CPF: 028.993.837-60
+    Nome: JACKSON DOS SANTOS BAPTISTA
+    Logradouro: TREZE DE MAIO
+    Número: 135
+    Bairro: CENTRO
+  [9]
+    CPF: 006.739.737-94
+    Nome: RODOLFO CARLOS DE VASCONCELLOS FERNANDES
+    Logradouro: TREZE DE MAIO
+    Número: 289
+    Bairro: CENTRO
+  [10]
+    CPF: 476.614.457-00
+    Nome: CLAUDIA EVELYN DE VIVEIROS
+    Logradouro: TREZE DE MAIO
+    Número: 136
+    Bairro: CENTRO
+  [11]
+    CPF: 477.006.707-06
+    Nome: ROSELI TEREZINHA GOMES
+    Logradouro: TREZE DE MAIO
+    Número: 160
+    Bairro: CENTRO
+  [12]
+    CPF: 013.148.117-70
+    Nome: DIONE BALTAR DA SILVEIRA
+    Logradouro: TREZE DE MAIO
+    Número: 115
+    Bairro: CENTRO
+  [13]
+    CPF: 099.587.997-40
+    Nome: RICARDO FERNANDO SANT ANA
+    Logradouro: TREZE DE MAIO
+    Número: 195
+    Bairro: CENTRO
+  [14]
+    CPF: 444.335.307-00
+    Nome: FERNANDO DA FONTE VIEIRA
+    Logradouro: TREZE DE MAIO
+    Número: 450
+    Bairro: CENTRO
+  [15]
+    CPF: 132.660.627-10
+    Nome: LEONARDO DA SILVA PITZER
+    Logradouro: TREZE DE MAIO
+    Número: 135
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (22) 98100-1752
+    Nome: RACHELLI GABRIEL MALVEZZI
+    Cidade: CARMO
+    UF: RJ
+E-mails: (3 item(s))
+  - rachellimalvezzi@icloud.com
+  - rachelli_gabriel@hotmail.com
+  - marcelomalvezzi@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 985
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 985.74
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (22) 98139-2163
+    Ddd: 22
+    Número: 981392163
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [2]
+    Telefone: (22) 99988-3093
+    Ddd: 22
+    Número: 999883093
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

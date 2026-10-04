@@ -1,0 +1,413 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  92626971200
+Data/Hora:  02/10/2026, 16:38:13
+Tempo API:  779ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 926.269.712-00
+Nome: FABIO LIRA REGO
+Primeiro Nome: FABIO
+Sobrenome: REGO
+Sexo: Masculino
+Data de Nascimento: 17/06/1987
+Nome da Mãe: ISABEL DAMASCENO LIRA
+Nome do Pai: IRIVALDO DE OLIVEIRA REGO
+RG: 05010720142
+Rg Issuer: CNH - CARTEIRA NACIONAL DE HABILITAÇÃO
+Rg State: PA
+Ocupação: Administrador
+Score:
+  Value: 105
+  Range: ALTISSIMO
+E-mail: FABIOLIRA1987@GMAIL.COM
+Federal Status: REGULAR
+Renda: 1550
+Income Bracket: 2
+Cbo: 354125
+Corporate Share Pct: 100
+Endereço:
+  Tipo: AVENIDA
+  Rua: MAL RONDON
+  Bairro: APARECIDA
+  Cidade: SANTAREM
+  Estado: PARA
+  CEP: 68040-070
+All Addresses: (9 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: MAL RONDON
+    Bairro: APARECIDA
+    Cidade: SANTAREM
+    Estado: PARA
+    CEP: 68040-070
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ICORACI NUNES
+    Número: 2222
+    Bairro: APARECIDA
+    Cidade: SANTAREM - PA
+    Fonte: DATASUS
+  [3]
+    Rua: ROSA VERMELHA
+    Tipo: R
+    Número: 102
+    Bairro: AER VELHO
+    Cidade: SANTAREM
+    Estado: PA
+    CEP: 68010-200
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: RONDON
+    Tipo: AV
+    Número: 2240
+    Complemento: S COMP SILVA JARDIN E
+    Bairro: APARECIDA
+    Cidade: SANTAREM
+    Estado: PA
+    CEP: 68040-070
+    Data Atualizacao: 06/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ICOARACI NUNES
+    Tipo: R
+    Número: 2222
+    Bairro: APARECIDA
+    Cidade: SANTAREM
+    Estado: PA
+    CEP: 68040-100
+    Data Atualizacao: 28/10/2013
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: RONDON
+    Tipo: AV
+    Número: 2245
+    Bairro: APARECIDA
+    Cidade: SANTAREM
+    Estado: PA
+    CEP: 68040-070
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: 0002222
+    Número: DEPUTADOICOARACI NUNES
+    Bairro: APARECIDA
+    Cidade: SANTAREM
+    Estado: PA
+    CEP: 68040-100
+    Fonte: ASSECC
+  [8]
+    Tipo: MARECHAL RONDON
+    Rua: AV
+    Número: 0002240
+    Bairro: APARECIDA
+    Cidade: SANTAREM
+    Estado: PA
+    CEP: 68040-070
+    Fonte: ASSECC
+  [9]
+    Rua: AV MAL RONDON
+    Número: 2240
+    Bairro: APARECIDA
+    Estado: PA
+    CEP: 68040-070
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (93) 99197-0608
+  - (93) 98419-6807
+  - (93) 98425-1624
+  - (93) 99241-4989
+  - (93) 99241-6552
+  - (93) 3523-0233
+  - (93) 98404-3174
+  - (93) 99175-5146
+Datasus Phones: (2 item(s))
+  - (92) 99484-1489
+  - (93) 2101-0110
+Cidade de Nascimento: SANTAREM - PA
+Cns: 706309791475378
+Rg Issue Date: 1284692400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Mosaic New: G23
+    Mosaic Secondary: D11
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ROSA VERMELHA
+      Número: 102
+      Bairro: AER VELHO
+      Cidade: SANTAREM
+      Estado: PA
+      CEP: 68010-200
+      Date Added: 09/12/2014
+    [2]
+      Tipo: AV
+      Rua: RONDON
+      Número: 2240
+      Complemento: S COMP SILVA JARDIN E
+      Bairro: APARECIDA
+      Cidade: SANTAREM
+      Estado: PA
+      CEP: 68040-070
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ICOARACI NUNES
+      Número: 2222
+      Bairro: APARECIDA
+      Cidade: SANTAREM
+      Estado: PA
+      CEP: 68040-100
+      Date Added: 13/02/2013
+    [4]
+      Tipo: AV
+      Rua: RONDON
+      Número: 2245
+      Bairro: APARECIDA
+      Cidade: SANTAREM
+      Estado: PA
+      CEP: 68040-070
+      Date Added: 02/02/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991970608
+      Ddd: 93
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/08/2012
+    [2]
+      Telefone: 991755146
+      Ddd: 93
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/03/2014
+      Info Date: 12/03/2014
+    [3]
+      Telefone: 992414989
+      Ddd: 93
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [4]
+      Telefone: 992416552
+      Ddd: 93
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 35230233
+      Ddd: 93
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+      Info Date: 25/07/2016
+  Score:
+    CSB8: 88
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 105
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 110.612.272-00
+      Nome: IRIVALDO DE OLIVEIRA REGO
+      Vinculo: PAI
+    [2]
+      Nome: IZABEL DAMASCENO LIRA
+      Vinculo: MAE
+  Pis: 20734153680
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 002.220.132-73
+    Nome: UNILTON SOUZA OLIVEIRA
+    Logradouro: ROSA VERMELHA
+    Número: 2300
+    Bairro: AER VELHO
+  [2]
+    CPF: 387.607.622-68
+    Nome: SOLANGE MARIA SILVA DOS SANTOS
+    Logradouro: ROSA VERMELHA
+    Número: 176
+    Bairro: AER VELHO
+  [3]
+    CPF: 725.239.482-49
+    Nome: WAGNER PEDROSO CANTO
+    Logradouro: ROSA VERMELHA
+    Número: 8596
+    Bairro: AER VELHO
+  [4]
+    CPF: 913.476.022-91
+    Nome: NIVIA PATRICIA FERRARI
+    Logradouro: ROSA VERMELHA
+    Número: 933
+    Bairro: AER VELHO
+  [5]
+    CPF: 424.547.782-20
+    Nome: JOSE FERNANDO DOS SANTOS XAVIER
+    Logradouro: ROSA VERMELHA
+    Número: 1812
+    Bairro: AER VELHO
+  [6]
+    CPF: 834.582.122-72
+    Nome: LILIANE COSTA DA MOTA
+    Logradouro: ROSA VERMELHA
+    Número: 389
+    Bairro: AER VELHO
+  [7]
+    CPF: 694.870.902-82
+    Nome: GLAUCIENE COSTA DOS SANTOS
+    Logradouro: ROSA VERMELHA
+    Número: 1280
+    Bairro: AER VELHO
+  [8]
+    CPF: 014.612.642-43
+    Nome: NILCIANE NUNES DA SILVA
+    Logradouro: ROSA VERMELHA
+    Número: 365
+    Bairro: AER VELHO
+  [9]
+    CPF: 998.424.322-20
+    Nome: NELSON DA SILVA BENTES
+    Logradouro: ROSA VERMELHA
+    Número: 1847
+    Bairro: AER VELHO
+  [10]
+    CPF: 790.292.802-04
+    Nome: MARIA APARECIDA SILVA FERREIRA
+    Logradouro: ROSA VERMELHA
+    Número: 2323
+    Bairro: AER VELHO
+  [11]
+    CPF: 664.299.352-72
+    Nome: ALESSANDRO MARCELO PANTOJA CARDOSO
+    Logradouro: ROSA VERMELHA
+    Número: 1703
+    Bairro: AER VELHO
+  [12]
+    CPF: 022.162.022-23
+    Nome: YASMIN CAROLINE DE ALMEIDA SILVA
+    Logradouro: ROSA VERMELHA
+    Número: SN
+    Bairro: AER VELHO
+  [13]
+    CPF: 424.547.942-68
+    Nome: MARCELO DOS SANTOS XAVIER
+    Logradouro: ROSA VERMELHA
+    Número: 1800
+    Bairro: AER VELHO
+  [14]
+    CPF: 838.987.352-49
+    Nome: CLEDSON FABRICIO DA SILVA NEVES
+    Logradouro: ROSA VERMELHA
+    Número: 23024
+    Bairro: AER VELHO
+  [15]
+    CPF: 100.582.732-04
+    Nome: MARIA ODILA MOTA DOS SANTOS
+    Logradouro: ROSA VERMELHA
+    Número: 12
+    Bairro: AER VELHO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (93) 99197-0608
+    Nome: FABIO LIRA REGO
+    Cidade: SANTAREM
+    UF: PA
+  [2]
+    Telefone: (93) 99241-4989
+    Nome: FABIO LIRA REGO
+    Cidade: SANTAREM
+    UF: PA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (93) 99241-6552
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 13JUL2016
+    Ultima Recarga: 12SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 13/07/2016
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (93) 3523-0233
+    Nome: FABIO LIRA REGO
+    Cidade: SANTAREM
+    UF: PA
+    Operadora: TELEMAR - TELEPARA
+    Fonte: algar
+  [2]
+    Telefone: (93) 98404-3174
+    Nome: FABIO LIRA REGO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - fabiolira1987@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1550
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (93) 99197-0608
+    Ddd: 93
+    Número: 991970608
+    Tipo: 3
+    Data Inclusao: 10/08/2012
+    Classificacao: D
+  [2]
+    Telefone: (93) 99175-5146
+    Ddd: 93
+    Número: 991755146
+    Tipo: 3
+    Data Inclusao: 25/03/2014
+    Data Informacao: 12/03/2014
+    Classificacao: D
+  [3]
+    Telefone: (93) 99241-4989
+    Ddd: 93
+    Número: 992414989
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [4]
+    Telefone: (93) 99241-6552
+    Ddd: 93
+    Número: 992416552
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [5]
+    Telefone: (93) 3523-0233
+    Ddd: 93
+    Número: 35230233
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Data Informacao: 25/07/2016
+    Classificacao: B
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

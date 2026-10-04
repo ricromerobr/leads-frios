@@ -1,0 +1,456 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06230913801
+Data/Hora:  04/10/2026, 10:55:56
+Tempo API:  364ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 062.309.138-01
+Nome: ALFREDO LINO FRAGOSO
+Primeiro Nome: ALFREDO
+Sobrenome: FRAGOSO
+Sexo: Masculino
+Data de Nascimento: 15/10/1965
+Nome da Mãe: ALICE VIEIRA
+Nome do Pai: JOAO PINTO FRAGOSO
+Voter Id: 019268050108
+Mosaic: G25
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 835
+  Range: BAIXISSIMO RISCO
+E-mail: alfredo.fragoso111@gmail.com
+Additional Emails: (1 item(s))
+  - alfredo.fragoso111@gmail.com
+Federal Status: REGULAR
+Renda: 690
+Income Bracket: 1
+Cbo: 519110
+Endereço:
+  Tipo: RUA
+  Rua: DAS ACEROLAS
+  Bairro: RESIDENCIAL NOVA CATANDUVA I
+  Cidade: CATANDUVA
+  Estado: SAO PAULO
+  CEP: 01581-385
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DAS ACEROLAS
+    Bairro: RESIDENCIAL NOVA CATANDUVA I
+    Cidade: CATANDUVA
+    Estado: SAO PAULO
+    CEP: 01581-385
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PIRATININGA
+    Tipo: R
+    Número: 729
+    Complemento: FDS
+    Bairro: VL BELA
+    Cidade: CATANDUVA
+    Estado: SP
+    CEP: 15804-120
+    Data Atualizacao: 01/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: CONCORDIA
+    Tipo: R
+    Número: 121
+    Bairro: PRQ RESIDENCIAL FLAMINGO
+    Cidade: CATANDUVA
+    Estado: SP
+    CEP: 15803-240
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TABAPUA
+    Tipo: R
+    Número: 671
+    Bairro: VL MOTTA
+    Cidade: CATANDUVA
+    Estado: SP
+    CEP: 15804-070
+    Data Atualizacao: 06/12/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DIADEMA
+    Tipo: R
+    Número: 639
+    Complemento: RES FLAMINGO PRQ
+    Bairro: PRQ RESIDENCIAL FLAMINGO
+    Cidade: CATANDUVA
+    Estado: SP
+    CEP: 15803-175
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PIRATININGA
+    Tipo: R
+    Número: 739
+    Complemento: FDS
+    Bairro: VL BELA
+    Cidade: CATANDUVA
+    Estado: SP
+    CEP: 15804-120
+    Data Atualizacao: 04/03/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: DAS ACEROLAS
+    Número: 0000774
+    Bairro: RESIDENCIAL NOVA CATANDUVA I
+    Cidade: CATANDUVA
+    Estado: SP
+    CEP: 01581-385
+    Fonte: ASSECC
+  [8]
+    Rua: DAS ACEROLAS
+    Número: 774
+    Complemento: .
+    Bairro: RESIDENCIAL NOVA CATANDUVA I
+    Estado: SP
+    CEP: 15813-285
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HONDA
+      Modelo: CG150 START
+      Ano: 2015
+Telefones: (7 item(s))
+  - (17) 99724-0750
+  - (17) 99747-0750
+  - +55 (17) 99747-0750
+  - (17) 99613-2276
+  - (17) 99657-5623
+  - (17) 99657-5362
+  - (17) 99657-5257
+Paycom:
+  E-mail: alfredo.fragoso111@gmail.com
+  Data de Nascimento: 15/10/1965
+  Created At: 2020-11-01 12:46:30
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Rua das Acerolas
+    Número: 774
+    Bairro: Residencial Nova Catanduva I
+    Cidade: Catanduva
+    Estado: SP
+    País: BRA
+    CEP: 15813-285
+    Telephone: +55 (17) 99747-0750
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/09/2019
+    Info Date: 03/12/2006
+    Mosaic: G25
+    Mosaic New: E16
+    Mosaic Secondary: E18
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: PIRATININGA
+      Número: 729
+      Complemento: FDS
+      Bairro: VL BELA
+      Cidade: CATANDUVA
+      Estado: SP
+      CEP: 15804-120
+      Date Added: 06/12/2016
+    [2]
+      Tipo: R
+      Rua: CONCORDIA
+      Número: 121
+      Bairro: PRQ RESIDENCIAL FLAMINGO
+      Cidade: CATANDUVA
+      Estado: SP
+      CEP: 15803-240
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: TABAPUA
+      Número: 671
+      Bairro: VL MOTTA
+      Cidade: CATANDUVA
+      Estado: SP
+      CEP: 15804-070
+      Date Added: 21/10/2012
+    [4]
+      Tipo: R
+      Rua: DIADEMA
+      Número: 639
+      Complemento: RES FLAMINGO PRQ
+      Bairro: PRQ RESIDENCIAL FLAMINGO
+      Cidade: CATANDUVA
+      Estado: SP
+      CEP: 15803-175
+      Date Added: 13/04/2010
+    [5]
+      Tipo: R
+      Rua: PIRATININGA
+      Número: 739
+      Complemento: FDS
+      Bairro: VL BELA
+      Cidade: CATANDUVA
+      Estado: SP
+      CEP: 15804-120
+      Date Added: 19/02/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 996132276
+      Ddd: 17
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [2]
+      Telefone: 996575623
+      Ddd: 17
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [3]
+      Telefone: 996575362
+      Ddd: 17
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 996575257
+      Ddd: 17
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 997470750
+      Ddd: 17
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 01/02/2018
+      Info Date: 12/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: alfredo.fragoso111@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/03/2019
+  Score:
+    CSB8: 437
+    CSB8 FAIXA: MEDIO
+    CSBA: 835
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 367.689.010-87
+      Nome: JOAO PINTO FRAGOSO
+      Vinculo: PAI
+    [2]
+      Nome: ALICE VIEIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1888.62
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 419.207.608-06
+    Nome: WESLLEM JEFERSON LYRA
+    Logradouro: PIRATININGA
+    Número: 731
+    Bairro: VL BELA
+  [2]
+    CPF: 054.949.028-03
+    Nome: JOSE CARLOS FAVERO
+    Logradouro: PIRATININGA
+    Número: 537
+    Bairro: VL BELA
+  [3]
+    CPF: 376.435.878-50
+    Nome: THAIS CRISTIANE FAVERO
+    Logradouro: PIRATININGA
+    Número: 537
+    Bairro: VL BELA
+  [4]
+    CPF: 365.930.248-13
+    Nome: MARGARETH ANGELA DA SILVA
+    Logradouro: PIRATININGA
+    Número: 487
+    Bairro: VL BELA
+  [5]
+    CPF: 216.433.238-57
+    Nome: JARILENE DE CARVALHO SOUZA
+    Logradouro: PIRATININGA
+    Número: 396
+    Bairro: VL BELA
+  [6]
+    CPF: 391.874.418-37
+    Nome: ERICA CRISTINA TRUJILO NASCIMENTO
+    Logradouro: PIRATININGA
+    Número: 473
+    Bairro: VL BELA
+  [7]
+    CPF: 102.742.528-30
+    Nome: ESTELINA DOS SANTOS SILVA
+    Logradouro: PIRATININGA
+    Número: 561
+    Bairro: VL BELA
+  [8]
+    CPF: 562.061.431-04
+    Nome: ELIZEU DOS SANTOS
+    Logradouro: PIRATININGA
+    Número: 737
+    Bairro: VL BELA
+  [9]
+    CPF: 124.886.268-64
+    Nome: GLORIA DE ALVARENGA BUCK
+    Logradouro: PIRATININGA
+    Número: 725
+    Bairro: VL BELA
+  [10]
+    CPF: 005.494.902-56
+    Nome: DAYANE SANTOS DA ROCHA
+    Logradouro: PIRATININGA
+    Número: 537
+    Bairro: VL BELA
+  [11]
+    CPF: 163.553.778-91
+    Nome: JOSE VIEIRA DA SILVA
+    Logradouro: PIRATININGA
+    Número: 456
+    Bairro: VL BELA
+  [12]
+    CPF: 190.876.758-87
+    Nome: CAROLINA GIUSTI CAMARGO
+    Logradouro: PIRATININGA
+    Número: 425
+    Bairro: VL BELA
+  [13]
+    CPF: 271.401.688-06
+    Nome: SOLANGE SUZANA SCALDELAI DA SILVA
+    Logradouro: PIRATININGA
+    Número: 291
+    Bairro: VL BELA
+  [14]
+    CPF: 377.347.318-48
+    Nome: LEONARDO CAMELINI MORENO
+    Logradouro: PIRATININGA
+    Número: 415
+    Bairro: VL BELA
+  [15]
+    CPF: 280.987.138-81
+    Nome: MIZAEL LEVI CAETANO
+    Logradouro: PIRATININGA
+    Número: 731
+    Bairro: VL BELA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (17) 99724-0750
+    Nome: ALFREDO LINO FRAGOSO
+    Cidade: CATANDUVA
+    UF: SP
+  [2]
+    Telefone: (17) 99747-0750
+    Nome: ALFREDO LINO FRAGOSO
+    Cidade: CATANDUVA
+    UF: SP
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (17) 99747-0750
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 10SEP2016
+    Ultima Recarga: 27AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 10/09/2016
+  [2]
+    Telefone: (17) 99724-0750
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 19/09/2019
+    Valor Fatura: 44.99
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - alfredo.fragoso111@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 690
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1888.62
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (17) 99613-2276
+    Ddd: 17
+    Número: 996132276
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [2]
+    Telefone: (17) 99657-5623
+    Ddd: 17
+    Número: 996575623
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (17) 99657-5362
+    Ddd: 17
+    Número: 996575362
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (17) 99657-5257
+    Ddd: 17
+    Número: 996575257
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (17) 99747-0750
+    Ddd: 17
+    Número: 997470750
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Data Informacao: 12/02/2018
+    Classificacao: A0
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

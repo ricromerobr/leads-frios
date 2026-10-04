@@ -1,0 +1,444 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  28607057839
+Data/Hora:  03/10/2026, 16:37:17
+Tempo API:  759ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 286.070.578-39
+Nome: ANTONIO IGIDEILTON PONTES DE MORAES
+Primeiro Nome: ANTONIO
+Sobrenome: MORAES
+Sexo: Masculino
+Data de Nascimento: 01/03/1977
+Nome da Mãe: MARIA DE FATIMA PONTES DE MORAES
+RG: 307048796
+Rg Issuer: SSP
+Voter Id: 045443180710
+Mosaic: D13
+Ocupação: Administrador
+Score:
+  Value: 154
+  Range: ALTISSIMO
+E-mail: georgecontabil@uol.com.br
+Additional Emails: (1 item(s))
+  - georgecontabil@uol.com.br
+Federal Status: REGULAR
+Renda: 1752
+Income Bracket: 2
+Cbo: 715210
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: GUSTAVO BRAGA
+  Bairro: RODOLFO TEOFILO
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 60430-120
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GUSTAVO BRAGA
+    Bairro: RODOLFO TEOFILO
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 60430-120
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EZEQUIEL ALVES GRACIANO
+    Tipo: R
+    Número: 485
+    Bairro: CENTRO
+    Cidade: SAO FRANCISCO XAVIER
+    Estado: SP
+    CEP: 12249-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: JOAO LEITE JACHINOVSKI
+    Tipo: R
+    Número: 55
+    Complemento: C
+    Bairro: PRQ S PAULO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04843-190
+    Data Atualizacao: 17/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DISTRITO FEDERAL
+    Tipo: R
+    Número: 280
+    Bairro: VL S JUDAS TADEU
+    Cidade: ITAQUAQUECETUBA
+    Estado: SP
+    CEP: 08572-790
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MANOEL FERNANDES NETTO
+    Tipo: R
+    Número: 90
+    Bairro: VL S GERALDO
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12213-270
+    Data Atualizacao: 18/06/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MUNICIPAL
+    Tipo: EST
+    Complemento: N 700 CH TAQUARI
+    Bairro: TAQUARI
+    Cidade: SAO JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12214-992
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: MAJOR MANOEL FERNANDES NETTO
+    Número: 0000090
+    Bairro: VILA SAO GERALDO
+    Cidade: S JOSE DOS CAMPOS
+    Estado: SP
+    CEP: 12213-270
+    Fonte: ASSECC
+  [8]
+    CEP: 00000-000
+    Fonte: BR21M
+  [9]
+    Rua: R MAJ MANUEL FERNANDO NETO
+    Número: 90
+    Bairro: VL S GERALDO
+    Estado: SP
+    CEP: 12213-270
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (88) 99367-9621
+  - (12) 99723-7624
+  - (12) 99160-9492
+  - (12) 98246-6682
+  - (12) 99715-1288
+  - (12) 99747-2472
+  - (12) 99763-5915
+  - (12) 99729-8297
+  - (12) 99633-1223
+  - (12) 98803-5164
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/10/2019
+    Rg Issuer: SSP
+    Mosaic: D13
+    Mosaic New: G23
+    Mosaic Secondary: G24
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: EZEQUIEL ALVES GRACIANO
+      Número: 485
+      Bairro: CENTRO
+      Cidade: SAO FRANCISCO XAVIER
+      Estado: SP
+      CEP: 12249-000
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: JOAO LEITE JACHINOVSKI
+      Número: 55
+      Complemento: C
+      Bairro: PRQ S PAULO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04843-190
+      Date Added: 26/12/2017
+    [3]
+      Tipo: R
+      Rua: DISTRITO FEDERAL
+      Número: 280
+      Bairro: VL S JUDAS TADEU
+      Cidade: ITAQUAQUECETUBA
+      Estado: SP
+      CEP: 08572-790
+      Date Added: 11/10/2006
+    [4]
+      Tipo: R
+      Rua: MANOEL FERNANDES NETTO
+      Número: 90
+      Bairro: VL S GERALDO
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12213-270
+      Date Added: 10/09/2018
+    [5]
+      Tipo: EST
+      Rua: MUNICIPAL
+      Complemento: N 700 CH TAQUARI
+      Bairro: TAQUARI
+      Cidade: SAO JOSE DOS CAMPOS
+      Estado: SP
+      CEP: 12214-992
+      Date Added: 27/07/2017
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 997472472
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [2]
+      Telefone: 997635915
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 997298297
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 996331223
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 988035164
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: georgecontabil@uol.com.br
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 05/05/2017
+  Score:
+    CSB8: 504
+    CSB8 FAIXA: BAIXO
+    CSBA: 154
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 365.582.698-21
+      Nome: DANILO JOSE DE MORAES
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 413.219.938-03
+      Nome: BRUNA FATIMA DE MORAES
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 2343992363
+      Nome: MARIA LEILIANA DE MORAES
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 593105370
+      Nome: FLAVIANA PONTES MORAES
+      Vinculo: IRMA(O)
+    [5]
+      Nome: MARIA DE FATIMA PONTES DE MORAES
+      Vinculo: MAE
+  Tse:
+    Titulo: 45443180710
+    Zona: 282
+    Secao: 146
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 733.88
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 503.343.527-20
+    Nome: GRACIELA DOMINGUEZ ALONSO
+    Logradouro: QUINZE DE NOVEMBRO
+    Número: 21
+  [2]
+    CPF: 297.742.078-90
+    Nome: HELDER TAVARES GRACIANO
+    Logradouro: CIRCULACAO DOIS
+    Número: 2
+    Bairro: CENTRO
+  [3]
+    CPF: 185.798.328-96
+    Nome: JOSE DIMAS DOMINGOS DA SILVA
+    Logradouro: PROJETADA
+    Número: 3
+    Bairro: CENTRO
+  [4]
+    CPF: 406.030.788-26
+    Nome: DAVID DA SILVA
+    Logradouro: TRES
+    Número: 503
+    Bairro: J ITAPUA
+  [5]
+    CPF: 217.611.768-97
+    Nome: RITA DE CASSIA APARECIDA GUERRA
+    Logradouro: BARBARA
+    Número: 8212
+    Bairro: S FRANCISCO XAV
+  [6]
+    CPF: 071.272.028-69
+    Nome: WAGNER ALEXANDRE DOS SANTOS
+    Logradouro: QUINZE DE NOVEMBRO
+    Número: 335
+    Bairro: S FRANCISCO XAVIER
+  [7]
+    CPF: 928.921.088-53
+    Nome: JOAQUIM DE OLIVEIRA
+    Logradouro: MANZI
+    Número: 110
+    Bairro: CENTRO
+  [8]
+    CPF: 507.490.808-68
+    Nome: NEMIAS FRANCISCO DOS SANTOS
+    Logradouro: RIO DO PEIXE
+    Número: 517
+  [9]
+    CPF: 005.339.468-24
+    Nome: SEBASTIAO BENEDITO ALVES DA SILVA
+    Logradouro: DE STA BARBARA
+    Número: 1398
+    Bairro: STA BARBARA
+  [10]
+    CPF: 218.376.188-10
+    Nome: ADRIANA APARECIDA MORAES
+    Logradouro: PEDRO DAVID
+    Número: 17050
+    Bairro: CATETO
+  [11]
+    CPF: 245.003.058-15
+    Nome: LUIZ LOPES
+    Logradouro: ES PEDRO DAVI
+    Número: 14999
+    Bairro: POCINHO
+  [12]
+    CPF: 146.310.358-11
+    Nome: JOSE ENILSON DE MORAES
+    Logradouro: QUINZE DE NOVEMBRO
+    Número: 408
+    Bairro: CENTRO
+  [13]
+    CPF: 071.134.698-41
+    Nome: ELIANY LAPA
+    Logradouro: PROJETADA
+    Número: 287
+  [14]
+    CPF: 183.805.328-05
+    Nome: LUIZ CARLOS PEREIRA
+    Logradouro: QUINZE DE NOVEMBRO
+    Número: 457
+    Bairro: S JOSE CAMPOS
+  [15]
+    CPF: 374.188.878-84
+    Nome: ROSIENE APARECIDA CAMPOS DOS SANTOS
+    Logradouro: DAS SIRIEMA
+    Número: 100
+    Bairro: STA BARBARA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (12) 99723-7624
+    Nome: ANTONIO IGIBEILTON PONTES DE MORAES
+    Cidade: S JOSE DOS CAMPOS
+    UF: SP
+  [2]
+    Telefone: (12) 99160-9492
+    Nome: ANTONIO IGIDEILTON PONTES DE MORA
+    Cidade: SAO JOSE DOS CAMPOS
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (12) 98246-6682
+    Nome: ANTONIO IGIDEILTON PONTES DE MORAES
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (12) 99715-1288
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 16NOV2018
+    Ultima Recarga: 30JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 16/11/2018
+E-mails: (1 item(s))
+  - georgecontabil@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1752
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 733.88
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (12) 99747-2472
+    Ddd: 12
+    Número: 997472472
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [2]
+    Telefone: (12) 99763-5915
+    Ddd: 12
+    Número: 997635915
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (12) 99729-8297
+    Ddd: 12
+    Número: 997298297
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (12) 99633-1223
+    Ddd: 12
+    Número: 996331223
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (12) 98803-5164
+    Ddd: 12
+    Número: 988035164
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

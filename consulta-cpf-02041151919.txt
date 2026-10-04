@@ -1,0 +1,432 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02041151919
+Data/Hora:  04/10/2026, 08:18:07
+Tempo API:  849ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 020.411.519-19
+Nome: EDUARDO CARVALHO DO PRADO
+Primeiro Nome: EDUARDO
+Sobrenome: PRADO
+Sexo: Masculino
+Data de Nascimento: 10/04/1976
+Nome da Mãe: LINDAMIRA BONASSOLI PRADO
+Nome do Pai: AMIR CARVALHO DO PRADO
+RG: 2317403
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SC
+Voter Id: 035114830957
+Mosaic: B03
+Ocupação: Técnico de apoio em pesquisa e desenvolvimento agropecuário florestal
+Score:
+  Value: 22
+  Range: ALTISSIMO
+E-mail: gsnet@gsnet.com.br
+Additional Emails: (4 item(s))
+  - gsnet@gsnet.com.br
+  - canoiinhasconfia2016@gmail.com
+  - dududoprado@hotmail.com
+  - eduardopsc20123@gmail.com
+Federal Status: REGULAR
+Renda: 2269
+Income Bracket: 3
+Cbo: 231305
+Endereço:
+  Tipo: RUA
+  Rua: JORN ORION AUGUSTO PLATT
+  Bairro: JARDIM ATLANTICO
+  Cidade: FLORIANOPOLIS
+  Estado: SANTA CATARINA
+  CEP: 88090-430
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JORN ORION AUGUSTO PLATT
+    Bairro: JARDIM ATLANTICO
+    Cidade: FLORIANOPOLIS
+    Estado: SANTA CATARINA
+    CEP: 88090-430
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ALFREDO PAUL 1/483
+    Número: 2370
+    Bairro: CAMPO DA AGUA VERDE
+    Cidade: CANOINHAS - SC
+    Fonte: DATASUS
+  [3]
+    Rua: RUA FRANCISCO DE PAULA PEREIRA
+    Número: 88
+    Bairro: CENTRO
+    Cidade: CANOINHAS
+    Estado: SC
+    CEP: 89460-000
+    Fonte: SARAIVA
+  [4]
+    Rua: AGENOR FABIO GOMES
+    Número: 546
+    Bairro: CENTRO
+    Cidade: CANOINHAS
+    Estado: SC
+    CEP: 89460-000
+    Data Atualizacao: 05/12/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ADOLFO CATING
+    Tipo: R
+    Número: 243
+    Cidade: CANOINHAS
+    Estado: SC
+    CEP: 89460-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: RONDON
+    Tipo: R
+    Número: 357
+    Cidade: CANOINHAS
+    Estado: SC
+    CEP: 89460-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: ORION AUGUSTO PLATT
+    Tipo: R
+    Número: 209
+    Complemento: BL 3 AP
+    Bairro: JD ATLANTICO
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88090-430
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Rua: R JORN ORION AUGUSTO PLATT
+    Número: 209
+    Complemento: BL 3 AP 40
+    Bairro: JARDIM ATLANTICO
+    Estado: SC
+    CEP: 88090-430
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (47) 99189-0546
+Cidade de Nascimento: CANOINHAS - SC
+Cns: 705007415130354
+Rg Issue Date: 1215658800000
+Telefones: (6 item(s))
+  - (47) 99925-8805
+  - (47) 9153-6677
+  - (47) 99189-0546
+  - (47) 99153-6677
+  - (48) 98833-8847
+  - (47) 3622-2380
+Saraiva:
+  Customer Id: 6458302
+  Telefone: (47) 9153-6677
+  E-mail: dududoprado@hotmail.com
+  Data de Nascimento: 10/04/1976
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Mosaic: B03
+    Mosaic New: E15
+    Mosaic Secondary: D12
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: FCO PAULA PEREIRA
+      Número: 88
+      Bairro: CENTRO
+      Cidade: CANOINHAS
+      Estado: SC
+      CEP: 89460-000
+      Date Added: 09/12/2014
+    [2]
+      Rua: AGENOR FABIO GOMES
+      Número: 546
+      Bairro: CENTRO
+      Cidade: CANOINHAS
+      Estado: SC
+      CEP: 89460-000
+      Date Added: 16/10/2017
+    [3]
+      Tipo: R
+      Rua: ADOLFO CATING
+      Número: 243
+      Cidade: CANOINHAS
+      Estado: SC
+      CEP: 89460-000
+      Date Added: 03/08/2009
+    [4]
+      Tipo: R
+      Rua: RONDON
+      Número: 357
+      Cidade: CANOINHAS
+      Estado: SC
+      CEP: 89460-000
+      Date Added: 07/11/2011
+    [5]
+      Tipo: R
+      Rua: ORION AUGUSTO PLATT
+      Número: 209
+      Complemento: BL 3 AP
+      Bairro: JD ATLANTICO
+      Cidade: FLORIANOPOLIS
+      Estado: SC
+      CEP: 88090-430
+      Date Added: 19/02/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991536677
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [2]
+      Telefone: 988338847
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [3]
+      Telefone: 991890546
+      Ddd: 47
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/05/2017
+    [4]
+      Telefone: 36222380
+      Ddd: 47
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [5]
+      Telefone: 999258805
+      Ddd: 47
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 27/07/2017
+  E-mails: (4 item(s))
+    [1]
+      E-mail: dududoprado@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: gsnet@gsnet.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 14/11/2014
+    [3]
+      E-mail: eduardopsc20123@gmail.com
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+    [4]
+      E-mail: canoiinhasconfia2016@gmail.com
+      Priority: 4
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+  Score:
+    CSBA: 22
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      Nome: LINDAMIRA BONASSOLI PRADO
+      Vinculo: MAE
+    [2]
+      CPF: 5105226968
+      Nome: AMIR CARVALHO DO PRADO
+      Vinculo: PAI
+  Pis: 13251054723
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2074.34
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 059.973.699-27
+    Nome: LEANDRO AUGUSTO GOMES DOS SANTOS
+    Logradouro: BR 280
+    Bairro: BOA VISTA
+  [2]
+    CPF: 060.762.729-88
+    Nome: FABIANA VICENTE DE LIMA
+    Logradouro: ALMEIDA CARDOSO
+    Número: 58
+    Bairro: CENTRO
+  [3]
+    CPF: 052.206.699-23
+    Nome: FRANCISCO GRAMZA NETO
+    Logradouro: DOZE DE SETEMBRO
+    Número: 550
+    Bairro: CENTRO
+  [4]
+    CPF: 052.210.369-32
+    Nome: JULIANA APARECIDA PIOTROVSKI DE LIMA
+    Logradouro: MENANDRO KAMPS
+    Número: 357
+  [5]
+    CPF: 052.210.369-32
+    Nome: JULIANA APARECIDA PIOTROVSKI DE LIMA
+    Logradouro: MENANDRO KAMPS
+    Número: 560
+  [6]
+    CPF: 051.642.869-12
+    Nome: LIDIANE MAIDEL
+    Logradouro: ALOIS STUBER
+    Número: 773
+  [7]
+    CPF: 051.109.089-74
+    Nome: MARIO CESAR PEREIRA FILHO
+    Logradouro: RIO BRANCO
+    Número: 516
+  [8]
+    CPF: 051.080.059-97
+    Nome: IVONEI GONCALVEZ PADILHA
+    Logradouro: PAULA PEREIRA
+    Número: SN
+  [9]
+    CPF: 050.975.729-47
+    Nome: JOSIANE MACANEIRO SCHAFASCHEK
+    Logradouro: CAETANO COSTA
+    Número: 1325
+    Bairro: AMIZADE
+  [10]
+    CPF: 050.956.669-36
+    Nome: ADRIANA VIEIRA ZIPPER
+    Logradouro: CARLOS WAGNER
+    Número: 2304
+  [11]
+    CPF: 052.275.149-09
+    Nome: MAYARA JARSCHEL GONCALVES ARAGON FERREIRA
+    Logradouro: DO RIO BRANCO
+    Número: 1390
+  [12]
+    CPF: 050.795.369-00
+    Nome: DELAIR MARIA DA SILVA GRESCZESCHEN
+    Logradouro: VIRGILIO TREVISANI
+    Número: 12
+    Bairro: JD ESPERANCA
+  [13]
+    CPF: 050.699.059-10
+    Nome: VALDECIR SAFANELLI
+    Logradouro: CRUZ
+    Número: 61
+  [14]
+    CPF: 050.695.929-55
+    Nome: SAMUEL CARLOS BARETTA
+    Logradouro: DOZE DE SETEMBRO
+    Número: 346
+  [15]
+    CPF: 050.443.929-44
+    Nome: ADIR DE JESUS MUNHOZ
+    Logradouro: RUBENS R SILVA
+    Número: 481
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (47) 99189-0546
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 11JUN2015
+    Ultima Recarga: 07JUL2020
+    Telefone Anterior: (47) 9189-0546
+    Plano: PF_PRE_PURO
+    Data Instalacao: 11/06/2015
+E-mails: (4 item(s))
+  - gsnet@gsnet.com.br
+  - canoiinhasconfia2016@gmail.com
+  - dududoprado@hotmail.com
+  - eduardopsc20123@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2269
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2074.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (47) 99153-6677
+    Ddd: 47
+    Número: 991536677
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [2]
+    Telefone: (48) 98833-8847
+    Ddd: 48
+    Número: 988338847
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (47) 99189-0546
+    Ddd: 47
+    Número: 991890546
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: A0
+  [4]
+    Telefone: (47) 3622-2380
+    Ddd: 47
+    Número: 36222380
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [5]
+    Telefone: (47) 99925-8805
+    Ddd: 47
+    Número: 999258805
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+Occupation Code: 395110
+Occupation Name: Técnico de apoio em pesquisa e desenvolvimento agropecuário florestal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

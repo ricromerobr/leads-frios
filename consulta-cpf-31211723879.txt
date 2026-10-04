@@ -1,0 +1,291 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  31211723879
+Data/Hora:  02/10/2026, 17:18:37
+Tempo API:  729ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 312.117.238-79
+Nome: MAURICIO ISQUIAVINOTO JUNIOR
+Primeiro Nome: MAURICIO
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 17/12/1998
+Nome da Mãe: RENATA APARECIDA CAMARGO ISQUIAVINOTO
+Nome do Pai: MAURICIO ISQUIAVIONOTO
+RG: 525662790
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Mosaic: F22
+Ocupação: Embalador, a mão
+Score:
+  Value: 678
+  Range: BAIXO
+E-mail: juisquiavinoto@hotmail.com
+Federal Status: REGULAR
+Renda: 822
+Income Bracket: 1
+Cbo: 784105
+Endereço:
+  Tipo: RUA
+  Rua: JUVENAL GUIMARAES
+  Número: 1105
+  Bairro: PARQUE RIBEIRAO PRETO
+  Cidade: RIBEIRAO PRETO
+  Estado: SAO PAULO
+  CEP: 01403-170
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JUVENAL GUIMARAES
+    Número: 1105
+    Bairro: PARQUE RIBEIRAO PRETO
+    Cidade: RIBEIRAO PRETO
+    Estado: SAO PAULO
+    CEP: 01403-170
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANALIA FRANCO
+    Número: 1292
+    Bairro: VILA VIRGINIA
+    Cidade: RIBEIRAO PRETO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: CLEMENTE SANTILI
+    Tipo: R
+    Número: 764
+    Bairro: JD MARCHESI
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14031-270
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: JUVENAL GUIMARAES
+    Número: 0001105
+    Bairro: PARQUE RIBEIRAO PRETO
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 01403-170
+    Fonte: ASSECC
+  [5]
+    Rua: JUVENAL GUIMARAES
+    Número: 1105
+    Complemento: CASA
+    Bairro: PARQUE RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14031-370
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (16) 98176-2847
+  - (16) 99608-7897
+  - (16) 3637-2938
+Datasus Phones: (1 item(s))
+  - (16) 3637-1460
+Cidade de Nascimento: RIBEIRAO PRETO - SP
+Cns: 700809997526586
+Rg Issue Date: 1206414000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/01/2020
+    Info Date: 06/03/2001
+    Mosaic: F22
+    Mosaic New: D13
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: CLEMENTE SANTILI
+      Número: 764
+      Bairro: JD MARCHESI
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14031-270
+      Date Added: 14/12/2009
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 36372938
+      Ddd: 16
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 06/03/2001
+  Score:
+    CSB8: 341
+    CSB8 FAIXA: MEDIO
+    CSBA: 678
+    CSBA FAIXA: BAIXO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 5410092813
+      Nome: MARIA DO CARMO GARRES CAMARGO
+      Vinculo: AVO
+    [2]
+      CPF: 183.264.898-24
+      Nome: RENATA APARECIDA CAMARGO ISQUIAVINOTO
+      Vinculo: MAE
+  Pis: 13095359127
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 739.64
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 326.498.598-57
+    Nome: SIDNEY NUNES DE ANDRADE
+    Logradouro: CLEMENTE SANTILI
+    Número: 486
+    Bairro: JD MARCHESI
+  [2]
+    CPF: 075.171.598-01
+    Nome: NEIVA DE FARIA BARROS
+    Logradouro: CLEMENTE SANTILI
+    Número: 356
+    Bairro: JD MARCHESI
+  [3]
+    CPF: 340.511.878-61
+    Nome: WASHINGTON LUIS BARBOSA
+    Logradouro: CLEMENTE SANTILI
+    Número: 607
+    Bairro: JD MARCHESI
+  [4]
+    CPF: 389.500.788-99
+    Nome: IDLA FERNANDA DOS SANTOS LIMA
+    Logradouro: CLEMENTE SANTILI
+    Número: 486
+    Bairro: JD MARCHESI
+  [5]
+    CPF: 044.507.408-66
+    Nome: DEBORA CRISTINA ROCHA PISSOCO
+    Logradouro: CLEMENTE SANTILI
+    Número: 514
+    Bairro: JD MARCHESI
+  [6]
+    CPF: 481.035.781-34
+    Nome: JOSE FRANCA
+    Logradouro: CLEMENTE SANTILI
+    Número: 845
+    Bairro: JD MARCHESI
+  [7]
+    CPF: 367.883.078-14
+    Nome: KARINA MARTINS DE SOUZA
+    Logradouro: CLEMENTE SANTILI
+    Número: 295
+    Bairro: JD MARCHESI
+  [8]
+    CPF: 991.269.071-00
+    Nome: RAIMUNDA RODRIGUES SILVA
+    Logradouro: CLEMENTE SANTILI
+    Número: 355
+    Bairro: JD MARCHESI
+  [9]
+    CPF: 785.679.803-30
+    Nome: JOAO JUSTINO FEREIRA
+    Logradouro: CLEMENTE SANTILI
+    Número: 285
+    Bairro: JD MARCHESI
+  [10]
+    CPF: 308.895.588-84
+    Nome: TAIS APARECIDA MENEGHINI DE LIMA
+    Logradouro: CLEMENTE SANTILI
+    Número: 493
+    Bairro: JD MARCHESI
+  [11]
+    CPF: 278.608.538-17
+    Nome: ADRIANA PRISCILA DE OLIVEIRA SANTOS
+    Logradouro: CLEMENTE SANTILI
+    Número: 713
+    Bairro: JD MARCHESI
+  [12]
+    CPF: 414.717.318-71
+    Nome: MAIARA RODRIGUES SILVA
+    Logradouro: CLEMENTE SANTILI
+    Número: 355
+    Bairro: JD MARCHESI
+  [13]
+    CPF: 005.117.196-12
+    Nome: VICENTINA CAMPOS DE CARVALHO
+    Logradouro: CLEMENTE SANTILI
+    Número: 355
+    Bairro: JD MARCHESI
+  [14]
+    CPF: 093.615.874-39
+    Nome: JOSE ORLANDO GOMES
+    Logradouro: CLEMENTE SANTILI
+    Número: 367
+    Bairro: JD MARCHESI
+  [15]
+    CPF: 370.526.358-79
+    Nome: DAVID HENRIQUE PAIXAO BRAZ
+    Logradouro: CLEMENTE SANTILI
+    Número: 561
+    Bairro: JD MARCHESI
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (16) 98176-2847
+    Nome: MAURICIO ISQUIAVINOTO JUNIOR
+    Cidade: RIBEIRAO PRETO
+    UF: SP
+  [2]
+    Telefone: (16) 99608-7897
+    Nome: MAURICIO ISQUIAVINOTO JUNIOR
+    Cidade: RIBEIRAO PRETO
+    UF: SP
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (16) 98176-2847
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (16) 99608-7897
+    Plano: PF_CONTROLE
+    Data Instalacao: 21/06/2019
+    Valor Fatura: 74.99
+    Mes Referencia: 202010
+E-mails: (1 item(s))
+  - juisquiavinoto@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 822
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 739.64
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (16) 3637-2938
+    Ddd: 16
+    Número: 36372938
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 06/03/2001
+    Classificacao: D2
+Occupation Code: 784105
+Occupation Name: Embalador, a mão
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

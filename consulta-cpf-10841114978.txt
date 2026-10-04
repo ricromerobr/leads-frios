@@ -1,0 +1,241 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10841114978
+Data/Hora:  04/10/2026, 13:28:58
+Tempo API:  535ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 108.411.149-78
+Nome: JOAO VITOR VENANCIO
+Primeiro Nome: JOAO
+Sobrenome: VENANCIO
+Sexo: Masculino
+Data de Nascimento: 20/04/2000
+Nome da Mãe: SILVANE DE OLIVEIRA VENANCIO
+Nome do Pai: NÃO CONHECIDO
+Ocupação: Repositor de mercadorias
+Score:
+  Value: 579
+  Range: BAIXO
+E-mail: joaovitorvenanco77@yahoo.com
+Additional Emails: (1 item(s))
+  - joaovitorvenanco77@yahoo.com
+Federal Status: REGULAR
+Renda: 1236
+Income Bracket: 2
+Cbo: 414105
+Endereço:
+  Tipo: RUA
+  Rua: NORBERTO STAIM DA ROCHA
+  Bairro: BRASILIA
+  Cidade: CASCAVEL
+  Estado: PARANA
+  CEP: 85815-480
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: NORBERTO STAIM DA ROCHA
+    Bairro: BRASILIA
+    Cidade: CASCAVEL
+    Estado: PARANA
+    CEP: 85815-480
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ADOLFO GARCIA
+    Número: 238
+    Bairro: CASCAVEL
+    Cidade: CASCAVEL - PR
+    Fonte: DATASUS
+  [3]
+    Rua: ADOLFO GARCIA
+    Tipo: R
+    Número: 238
+    Bairro: BRAZMADEIRA
+    Cidade: CASCAVEL
+    Estado: PR
+    CEP: 85814-250
+    Data Atualizacao: 09/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (45) 99828-7087
+  - (45) 99800-2669
+Datasus Phones: (1 item(s))
+  - (45) 99800-2669
+Cidade de Nascimento: CASCAVEL - PR
+Cns: 708609099963283
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/08/2019
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ADOLFO GARCIA
+      Número: 238
+      Bairro: BRAZMADEIRA
+      Cidade: CASCAVEL
+      Estado: PR
+      CEP: 85814-250
+      Date Added: 04/07/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998002669
+      Ddd: 45
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: joaovitorvenanco77@yahoo.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 579
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 495.22
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 045.187.029-80
+    Nome: IVONE FERREIRA GUIMARAES CARNEIRO
+    Logradouro: ADOLFO GARCIA
+    Número: 820
+    Bairro: BRAZMADEIRA
+  [2]
+    CPF: 430.071.719-20
+    Nome: JOANA FELCHAK BRONOVSKI
+    Logradouro: ADOLFO GARCIA
+    Número: 116
+    Bairro: BRAZMADEIRA
+  [3]
+    CPF: 005.874.809-12
+    Nome: FRANCIELI SOUZA LUZ
+    Logradouro: ADOLFO GARCIA
+    Número: 556
+    Bairro: BRAZMADEIRA
+  [4]
+    CPF: 663.565.719-34
+    Nome: IZANIR FERREIRA SOARES
+    Logradouro: ADOLFO GARCIA
+    Número: 398
+    Bairro: BRAZMADEIRA
+  [5]
+    CPF: 062.022.539-40
+    Nome: SANDRA APARECIDA DA SILVA
+    Logradouro: ADOLFO GARCIA
+    Número: 632
+    Bairro: BRAZMADEIRA
+  [6]
+    CPF: 021.992.689-18
+    Nome: DORALINA POMPEU
+    Logradouro: ADOLFO GARCIA
+    Número: 586
+    Bairro: BRAZMADEIRA
+  [7]
+    CPF: 931.327.949-53
+    Nome: MARIA SUELI ALVES FREITAS COSTA
+    Logradouro: ADOLFO GARCIA
+    Número: 750
+    Bairro: BRAZMADEIRA
+  [8]
+    CPF: 546.423.889-15
+    Nome: MARIA APARECIDA DO AMARAL
+    Logradouro: ADOLFO GARCIA
+    Número: 395
+    Bairro: BRAZMADEIRA
+  [9]
+    CPF: 014.363.379-17
+    Nome: VANDERLEI GUARINIRI
+    Logradouro: ADOLFO GARCIA
+    Número: 917
+    Bairro: BRAZMADEIRA
+  [10]
+    CPF: 339.296.709-25
+    Nome: JOAO MARIA FERREIRA DOS SANTOS
+    Logradouro: ADOLFO GARCIA
+    Número: 336
+    Bairro: BRAZMADEIRA
+  [11]
+    CPF: 044.834.849-74
+    Nome: CRISTINA MOREIRA DA SILVA
+    Logradouro: ADOLFO GARCIA
+    Número: 103
+    Bairro: BRAZMADEIRA
+  [12]
+    CPF: 476.177.219-00
+    Nome: VILMAR CORREIA DE MELO
+    Logradouro: ADOLFO GARCIA
+    Número: 176
+    Bairro: BRAZMADEIRA
+  [13]
+    CPF: 091.421.619-83
+    Nome: ADEILSON DA SILVA
+    Logradouro: ADOLFO GARCIA
+    Número: 187
+    Bairro: BRAZMADEIRA
+  [14]
+    CPF: 015.986.729-08
+    Nome: CELIA MARTINS DE LIMA
+    Logradouro: ADOLFO GARCIA
+    Número: 336
+    Bairro: BRAZMADEIRA
+  [15]
+    CPF: 956.179.659-72
+    Nome: CARMEM MARIA DA CONCEICAO SILVA
+    Logradouro: ADOLFO GARCIA
+    Número: 187
+    Bairro: BRAZMADEIRA
+E-mails: (1 item(s))
+  - joaovitorvenanco77@yahoo.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1236
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 495.22
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (45) 99800-2669
+    Ddd: 45
+    Número: 998002669
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 521125
+Occupation Name: Repositor de mercadorias
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

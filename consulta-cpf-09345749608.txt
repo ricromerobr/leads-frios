@@ -1,0 +1,344 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09345749608
+Data/Hora:  04/10/2026, 00:47:43
+Tempo API:  681ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 093.457.496-08
+Nome: JHEMES DOUGLAS DA SILVA
+Primeiro Nome: JHEMES
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 20/04/1991
+Nome da Mãe: EVANIA APARECIDA DE JESUS
+Mosaic: C08
+Ocupação: Trabalhador polivalente do curtimento de couros e peles
+Score:
+  Value: 75
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1268
+Income Bracket: 2
+Cbo: 762005
+Endereço:
+  Tipo: RUA
+  Rua: AUGUSTA MARIA DE JESUS
+  Número: 164
+  Bairro: PIAGUASSU
+  Cidade: ITAUNA
+  Estado: MINAS GERAIS
+  CEP: 35680-715
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AUGUSTA MARIA DE JESUS
+    Número: 164
+    Bairro: PIAGUASSU
+    Cidade: ITAUNA
+    Estado: MINAS GERAIS
+    CEP: 35680-715
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CACHOPA
+    Tipo: R
+    Número: 443
+    Bairro: S JOAO
+    Cidade: BETIM
+    Estado: MG
+    CEP: 32655-612
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: MANOEL DE MACEDO
+    Tipo: R
+    Número: 31
+    Complemento: AP 404
+    Bairro: ZONA 07
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87020-240
+    Data Atualizacao: 20/07/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DOS COMERCIARIOS
+    Tipo: R
+    Número: 81
+    Complemento: C A
+    Bairro: PRQ DAS INDUSTRIAS
+    Cidade: BETIM
+    Estado: MG
+    CEP: 32671-412
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: DOS COMERCIARIOS
+    Número: 0000019
+    Bairro: PARQUE DAS INDUSTRIAS
+    Cidade: BETIM
+    Estado: MG
+    CEP: 03267-112
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (37) 99136-0214
+  - (31) 99583-3723
+  - (31) 98720-0815
+  - (71) 98795-7689
+  - (31) 98984-8100
+  - (37) 99873-1025
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/11/2019
+    Mosaic: C08
+    Mosaic New: D11
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: CACHOPA
+      Número: 443
+      Bairro: S JOAO
+      Cidade: BETIM
+      Estado: MG
+      CEP: 32655-612
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: MANOEL DE MACEDO
+      Número: 31
+      Complemento: AP 404
+      Bairro: ZONA 07
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87020-240
+      Date Added: 25/06/2010
+    [3]
+      Tipo: R
+      Rua: AUGUSTA MARIA DE JESUS
+      Número: 164
+      Bairro: PIAGUASSU
+      Cidade: ITAUNA
+      Estado: MG
+      CEP: 35680-715
+      Date Added: 07/09/2016
+    [4]
+      Tipo: R
+      Rua: DOS COMERCIARIOS
+      Número: 81
+      Complemento: C A
+      Bairro: PRQ DAS INDUSTRIAS
+      Cidade: BETIM
+      Estado: MG
+      CEP: 32671-412
+      Date Added: 06/02/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 987200815
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [2]
+      Telefone: 987957689
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 989848100
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 991360214
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+    [5]
+      Telefone: 998731025
+      Ddd: 37
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSBA: 75
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: EVANIA APARECIDA DE JESUS
+      Vinculo: MAE
+  Pis: 16188382859
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 379.39
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 415.805.326-91
+    Nome: EDVARD MANJUSTE
+    Logradouro: CACHOPA
+    Número: 265
+    Bairro: S JOAO
+  [2]
+    CPF: 014.882.036-01
+    Nome: POLLYANA TONELI DE CARVALHO
+    Logradouro: CACHOPA
+    Número: 325
+    Bairro: S JOAO
+  [3]
+    CPF: 800.677.516-87
+    Nome: ELIETE OLIVEIRA MARINHO
+    Logradouro: CACHOPA
+    Número: 124
+    Bairro: S JOAO
+  [4]
+    CPF: 074.253.626-27
+    Nome: CARLOS AUGUSTO DA SILVA
+    Logradouro: CACHOPA
+    Número: 320
+    Bairro: S JOAO
+  [5]
+    CPF: 035.868.316-50
+    Nome: SIMONE DA SILVA ALVES
+    Logradouro: CACHOPA
+    Número: 66
+    Bairro: S JOAO
+  [6]
+    CPF: 359.808.776-49
+    Nome: LUIZ GONZAGA PEREIRA
+    Logradouro: CACHOPA
+    Número: 408
+    Bairro: S JOAO
+  [7]
+    CPF: 065.227.116-21
+    Nome: MARIA MADALENA SANTANA BRIGIDO
+    Logradouro: CACHOPA
+    Número: 219
+    Bairro: S JOAO
+  [8]
+    CPF: 089.357.416-39
+    Nome: LAIS CAROLLINI DA SILVA OLIVEIRA
+    Logradouro: CACHOPA
+    Número: 456
+    Bairro: S JOAO
+  [9]
+    CPF: 969.099.276-72
+    Nome: CATARINA SOARES DA SILVA
+    Logradouro: CACHOPA
+    Número: 265
+    Bairro: S JOAO
+  [10]
+    CPF: 116.834.176-07
+    Nome: ROSIMERE DA CONCEICAO MOREIRA
+    Logradouro: CACHOPA
+    Número: 460
+    Bairro: S JOAO
+  [11]
+    CPF: 051.101.636-00
+    Nome: MARCIO PRATES
+    Logradouro: CACHOPA
+    Número: 400
+    Bairro: S JOAO
+  [12]
+    CPF: 021.164.716-05
+    Nome: GISELLY LUCYANA ALVES FERNANDES
+    Logradouro: CACHOPA
+    Número: 221
+    Bairro: S JOAO
+  [13]
+    CPF: 033.695.376-30
+    Nome: AMARILDO DOS SANTOS
+    Logradouro: CACHOPA
+    Número: 446
+    Bairro: S JOAO
+  [14]
+    CPF: 730.041.030-87
+    Nome: ADRIANA ZAMBRANO GONCALVES
+    Logradouro: CACHOPA
+    Número: 260
+    Bairro: S JOAO
+  [15]
+    CPF: 124.014.756-21
+    Nome: FABRICIO DE ASSIS HONORATO
+    Logradouro: CACHOPA
+    Número: 411
+    Bairro: S JOAO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (31) 99583-3723
+    Nome: JHEMES DOUGLAS DA SILVA
+    Cidade: BETIM
+    UF: MG
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1268
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 379.39
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (31) 98720-0815
+    Ddd: 31
+    Número: 987200815
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [2]
+    Telefone: (71) 98795-7689
+    Ddd: 71
+    Número: 987957689
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (31) 98984-8100
+    Ddd: 31
+    Número: 989848100
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [4]
+    Telefone: (37) 99136-0214
+    Ddd: 37
+    Número: 991360214
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+  [5]
+    Telefone: (37) 99873-1025
+    Ddd: 37
+    Número: 998731025
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 762005
+Occupation Name: Trabalhador polivalente do curtimento de couros e peles
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

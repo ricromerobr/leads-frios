@@ -1,0 +1,320 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  43157054899
+Data/Hora:  04/10/2026, 14:43:24
+Tempo API:  537ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 431.570.548-99
+Nome: DEBORA NOGUEIRA DE SALES
+Primeiro Nome: DEBORA
+Sobrenome: SALES
+Sexo: Feminino
+Data de Nascimento: 19/04/1994
+Nome da Mãe: ROSELI APARECIDA DOS SANTOS
+Ocupação: Porteiro de edifícios
+Score:
+  Value: 68
+  Range: ALTISSIMO
+E-mail: deborakyara1994@gmail.com
+Additional Emails: (3 item(s))
+  - deborakyara1994@gmail.com
+  - debora_zoio@hotmail.com
+  - salesdebora332@gmail.com
+Federal Status: REGULAR
+Renda: 1463
+Income Bracket: 2
+Cbo: 513505
+Endereço:
+  Tipo: RUA
+  Rua: MARIO MISSIROLLI
+  Número: 616
+  Complemento: C 1
+  Bairro: DEMARCHI
+  Cidade: SAO BERNARDO DO CAMPO
+  Estado: SAO PAULO
+  CEP: 09820-290
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARIO MISSIROLLI
+    Número: 616
+    Complemento: C 1
+    Bairro: DEMARCHI
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SAO PAULO
+    CEP: 09820-290
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA CRUZEIRO
+    Número: 267
+    Bairro: VILA BAETA NEVES
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09760-460
+    Fonte: SARAIVA
+  [3]
+    Rua: BOA VISTA
+    Tipo: R
+    Número: 13
+    Complemento: CS 5
+    Bairro: MONTANHAO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09784-305
+    Data Atualizacao: 23/03/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MARIO MISSIROLLI
+    Tipo: R
+    Número: 590
+    Complemento: C 2
+    Bairro: DEMARCHI
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09820-290
+    Data Atualizacao: 21/03/2019
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Saraiva:
+  Customer Id: 1063504
+  Telefone: (11) 7813-7003
+  E-mail: debora_zoio@hotmail.com
+  Data de Nascimento: 19/04/1994
+Telefones: (4 item(s))
+  - (11) 7813-7003
+  - (11) 3458-7172
+  - (11) 4330-2447
+  - (11) 98044-0489
+Paycom:
+  E-mail: salesdebora332@gmail.com
+  Created At: 2021-08-10 23:52:32
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 09/08/2019
+    Mosaic New: D11
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: BOA VISTA
+      Número: 13
+      Complemento: CS 5
+      Bairro: MONTANHAO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09784-305
+      Date Added: 26/12/2013
+    [2]
+      Tipo: R
+      Rua: MARIO MISSIROLLI
+      Número: 590
+      Complemento: C 2
+      Bairro: DEMARCHI
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09820-290
+      Date Added: 15/01/2019
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 34587172
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 21/05/2013
+      Info Date: 28/10/2015
+    [2]
+      Telefone: 43302447
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/02/2018
+    [3]
+      Telefone: 980440489
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: debora_zoio@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: deborakyara1994@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 47
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 68
+    CSBA FAIXA: ALTISSIMO
+  Pis: 13917423935
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 402.86
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 269.220.958-39
+    Nome: DALEILA FARIAS FERREIRA
+    Logradouro: BOA VISTA
+    Número: 21
+    Bairro: MONTANHAO
+  [2]
+    CPF: 431.127.018-60
+    Nome: ALAN ALVES DA SILVA
+    Logradouro: BOA VISTA
+    Número: 4672
+    Bairro: MONTANHAO
+  [3]
+    CPF: 482.327.003-78
+    Nome: MANOEL SOARES DA SILVA
+    Logradouro: BOA VISTA
+    Número: 46
+    Bairro: MONTANHAO
+  [4]
+    CPF: 279.726.978-09
+    Nome: FRANCISCO REGINALDO ALENCAR
+    Logradouro: BOA VISTA
+    Número: 41
+    Bairro: MONTANHAO
+  [5]
+    CPF: 196.050.038-48
+    Nome: LUCIANA DA SILVA
+    Logradouro: BOA VISTA
+    Número: 3
+    Bairro: MONTANHAO
+  [6]
+    CPF: 080.220.318-36
+    Nome: JOSE CHABO
+    Logradouro: BOA VISTA
+    Número: 43
+    Bairro: MONTANHAO
+  [7]
+    CPF: 789.360.043-87
+    Nome: JOSE DA CRUZ GOMES DA SILVA
+    Logradouro: BOA VISTA
+    Número: 38
+    Bairro: MONTANHAO
+  [8]
+    CPF: 171.016.968-05
+    Nome: JOSE MARIA DA SILVA
+    Logradouro: BOA VISTA
+    Número: 16
+    Bairro: MONTANHAO
+  [9]
+    CPF: 097.293.188-08
+    Nome: JESUMAR GONCALVES VITORINO
+    Logradouro: BOA VISTA
+    Número: 64
+    Bairro: MONTANHAO
+  [10]
+    CPF: 182.453.228-81
+    Nome: VANILDA ALVES SANTANA
+    Logradouro: BOA VISTA
+    Número: 48
+    Bairro: MONTANHAO
+  [11]
+    CPF: 278.302.177-34
+    Nome: PERICLES PEREIRA DA ROSA FILHO
+    Logradouro: BOA VISTA
+    Número: 21
+    Bairro: MONTANHAO
+  [12]
+    CPF: 378.564.008-03
+    Nome: EZEQUIEL ARNALDO DA SILVA
+    Logradouro: BOA VISTA
+    Número: 16
+    Bairro: MONTANHAO
+  [13]
+    CPF: 111.743.338-20
+    Nome: ZULMIRA DA CONCEICAO SOUSA
+    Logradouro: BOA VISTA
+    Número: 24
+    Bairro: MONTANHAO
+  [14]
+    CPF: 264.616.728-85
+    Nome: OTOILTON PEREIRA BEZERRA
+    Logradouro: BOA VISTA
+    Número: 35
+    Bairro: MONTANHAO
+  [15]
+    CPF: 144.117.088-09
+    Nome: SELMA ALVES DE JESUS
+    Logradouro: BOA VISTA
+    Número: 37
+    Bairro: MONTANHAO
+E-mails: (3 item(s))
+  - deborakyara1994@gmail.com
+  - debora_zoio@hotmail.com
+  - salesdebora332@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1463
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 402.86
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 3458-7172
+    Ddd: 11
+    Número: 34587172
+    Tipo: FIXO
+    Data Inclusao: 21/05/2013
+    Data Informacao: 28/10/2015
+    Classificacao: D
+  [2]
+    Telefone: (11) 4330-2447
+    Ddd: 11
+    Número: 43302447
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+  [3]
+    Telefone: (11) 98044-0489
+    Ddd: 11
+    Número: 980440489
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 517410
+Occupation Name: Porteiro de edifícios
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

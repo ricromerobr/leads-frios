@@ -1,0 +1,334 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04612706501
+Data/Hora:  03/10/2026, 16:13:58
+Tempo API:  407ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 046.127.065-01
+Nome: HELENE CARDOSO DOS SANTOS
+Primeiro Nome: HELENE
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 01/09/1988
+Nome da Mãe: ELIENETE S CARDOSO
+Mosaic: J36
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 351
+  Range: ALTO
+E-mail: pratathais@ymail.com
+Additional Emails: (2 item(s))
+  - pratathais@ymail.com
+  - lennybielfanne29@gmail.com
+Federal Status: REGULAR
+Renda: 475
+Income Bracket: 1
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: DA BAHIA
+  Bairro: CENTRO
+  Cidade: ESTANCIA
+  Estado: SERGIPE
+  CEP: 04920-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DA BAHIA
+    Bairro: CENTRO
+    Cidade: ESTANCIA
+    Estado: SERGIPE
+    CEP: 04920-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BAHIA
+    Tipo: R
+    Número: 247
+    Bairro: CENTRO
+    Cidade: ESTANCIA
+    Estado: SE
+    CEP: 49200-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: DA BAHIA
+    Rua: [empty]
+    Número: 0000247
+    Bairro: CENTRO
+    Cidade: ESTANCIA
+    Estado: SE
+    CEP: 04920-000
+    Fonte: ASSECC
+  [4]
+    Rua: RUA R  BAHIA 247
+    Número: 247
+    Bairro: CENTRO
+    Estado: SE
+    CEP: 49200-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (79) 99801-7163
+  - (79) 98119-1353
+  - (79) 99828-5578
+  - (79) 99841-1487
+  - (79) 99962-4922
+  - (79) 3522-2262
+  - (79) 98879-1210
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 02/10/2019
+    Mosaic: J36
+    Mosaic New: D11
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: BAHIA
+      Número: 247
+      Bairro: CENTRO
+      Cidade: ESTANCIA
+      Estado: SE
+      CEP: 49200-000
+      Date Added: 16/05/2019
+    [2]
+      Tipo: R
+      Rua: DA BAHIA
+      Número: 247
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: ESTANCIA
+      Estado: SE
+      CEP: 49200-000
+      Date Added: 21/10/2012
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 35222262
+      Ddd: 79
+      Tipo: 1
+      Classificacao: B
+      Date Added: 16/09/2012
+      Info Date: 17/08/2011
+    [2]
+      Telefone: 988791210
+      Ddd: 79
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [3]
+      Telefone: 998017163
+      Ddd: 79
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: pratathais@ymail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 19/09/2016
+  Score:
+    CSB8: 196
+    CSB8 FAIXA: ALTO
+    CSBA: 351
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ELIENETE S CARDOSO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 428.88
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 589.658.235-87
+    Nome: EDENILSON SOUTO
+    Logradouro: LUZIA
+    Número: SN
+    Bairro: STA CRUZ
+  [2]
+    CPF: 022.370.885-27
+    Nome: GENEILDE BISPO DOS SANTOS VIANNA
+    Logradouro: J LOTEAMENTO SAO CAETANO
+    Número: 51
+    Bairro: BOTIQUIM
+  [3]
+    CPF: 012.518.395-09
+    Nome: DARLLAN DOS SANTOS BARROS
+    Logradouro: UM
+    Número: 1959
+    Bairro: ALAGOAS
+  [4]
+    CPF: 051.340.415-55
+    Nome: VERA LUCIA BITENCOURT DE CARVALHO SANTOS
+    Logradouro: PEDRO HOMEM COSTA
+    Número: 575
+    Bairro: CENTRO
+  [5]
+    CPF: 020.196.005-28
+    Nome: NILDESIO SANTOS DIAS
+    Logradouro: LAURA COSTA
+    Número: 323
+    Bairro: ZONA RURAL
+  [6]
+    CPF: 051.598.225-34
+    Nome: HELIO VIANA DA SILVA
+    Logradouro: SALOMAO
+    Número: 39
+  [7]
+    CPF: 062.864.795-62
+    Nome: NIGEL MICHAEL SANTOS DE JESUS
+    Logradouro: RECIFE
+    Número: 22
+    Bairro: CIDADE NOVA
+  [8]
+    CPF: 051.712.725-30
+    Nome: ISABELLE CRISTINA ALMEIDA DOS SANTOS
+    Logradouro: DO QUEIROZ
+    Número: 372
+    Bairro: CENTRO
+  [9]
+    CPF: 480.999.105-91
+    Nome: IVANICE DOS SANTOS
+    Logradouro: FERNANDES
+    Número: 157
+    Bairro: CACHOEIRA
+  [10]
+    CPF: 506.226.845-15
+    Nome: LENAIDE DOS SANTOS
+    Logradouro: FERNANDES
+    Número: 124
+  [11]
+    CPF: 000.711.235-12
+    Nome: JOSE GALDINO DA SILVA LIMA JUNIOR
+    Logradouro: A
+    Número: 496
+  [12]
+    CPF: 024.865.415-27
+    Nome: MARIA APARECIDA BATISTA DE SOUZA
+    Logradouro: NOVA DO PORTO AV
+    Número: 831
+    Bairro: POR DA AREIA
+  [13]
+    CPF: 031.167.885-88
+    Nome: FLAVIA SILVA QUINTELA VIEIRA
+    Logradouro: DAMIAO
+    Número: 21
+    Bairro: VALTER C COSTA
+  [14]
+    CPF: 473.749.265-53
+    Nome: ARIVALDO DOS SANTOS RIBEIRO
+    Logradouro: C
+    Número: 28
+  [15]
+    CPF: 451.268.875-72
+    Nome: ARIVALDO PINHEIRO DOS SANTOS
+    Logradouro: MANAUS
+    Número: 83
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (79) 99801-7163
+    Nome: HELENE CARDOSO DOS SANTOS
+    Cidade: ESTANCIA
+    UF: SE
+Vivo Linhas: (4 item(s))
+  [1]
+    Telefone: (79) 99828-5578
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 30DEC2019
+    Ultima Recarga: 06SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 30/12/2019
+  [2]
+    Telefone: (79) 99841-1487
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 16DEC2019
+    Ultima Recarga: 04SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 14/12/2019
+  [3]
+    Telefone: (79) 99962-4922
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 08AUG2020
+    Ultima Recarga: 08AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 08/08/2020
+  [4]
+    Telefone: (79) 99801-7163
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_CONTROLE
+    Data Instalacao: 30/07/2018
+    Valor Fatura: 44.99
+    Mes Referencia: 202009
+E-mails: (2 item(s))
+  - pratathais@ymail.com
+  - lennybielfanne29@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 475
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 428.88
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (79) 3522-2262
+    Ddd: 79
+    Número: 35222262
+    Tipo: FIXO
+    Data Inclusao: 16/09/2012
+    Data Informacao: 17/08/2011
+    Classificacao: B
+  [2]
+    Telefone: (79) 98879-1210
+    Ddd: 79
+    Número: 988791210
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [3]
+    Telefone: (79) 99801-7163
+    Ddd: 79
+    Número: 998017163
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

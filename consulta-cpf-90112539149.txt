@@ -1,0 +1,374 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  90112539149
+Data/Hora:  03/10/2026, 18:14:25
+Tempo API:  758ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 901.125.391-49
+Nome: JAQUELINE AQUINO VALDEZ DA SILVA
+Primeiro Nome: JAQUELINE
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 02/04/1981
+Nome da Mãe: ELIZABETE VINHALES AQUINO
+Nome do Pai: SEM INFORMAÇÃO
+RG: 1047699
+Rg Issuer: SSP
+Mosaic: E17
+Ocupação: Professor de nível médio no ensino fundamental
+Score:
+  Value: 89
+  Range: ALTISSIMO
+E-mail: christiano@bancariosppms.com
+Additional Emails: (2 item(s))
+  - christiano@bancariosppms.com
+  - jaqueline.valdez@hotmail.com
+Federal Status: REGULAR
+Renda: 2879
+Income Bracket: 3
+Cbo: 331105
+Endereço:
+  Tipo: AVENIDA
+  Rua: JARDIM AMERICA
+  Bairro: JARDIM AMERICA
+  Cidade: PONTA PORA
+  Estado: MATO GROSSO DO SUL
+  CEP: 79906-552
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: JARDIM AMERICA
+    Bairro: JARDIM AMERICA
+    Cidade: PONTA PORA
+    Estado: MATO GROSSO DO SUL
+    CEP: 79906-552
+    Fonte: PRINCIPAL
+  [2]
+    Rua: TIETE 1/99999
+    Número: 542
+    Bairro: VILA MINISTRO SALGADO FILHO
+    Cidade: PONTA PORA - MS
+    Fonte: DATASUS
+  [3]
+    Rua: JARDIM AMERICA
+    Tipo: AV
+    Número: 829
+    Complemento: CS UNICA
+    Bairro: JD AMERICA
+    Cidade: PONTA PORA
+    Estado: MS
+    CEP: 79906-552
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TIETE
+    Tipo: R
+    Número: 30
+    Complemento: C
+    Bairro: JD DAS ROSAS
+    Cidade: PONTA PORA
+    Estado: MS
+    CEP: 79906-152
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: TIETE
+    Tipo: R
+    Número: 542
+    Bairro: VL MIN SALGADO FILHO
+    Cidade: PONTA PORA
+    Estado: MS
+    CEP: 79906-180
+    Data Atualizacao: 05/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: TIETE
+    Tipo: R
+    Número: 6
+    Bairro: JD DAS ROSAS
+    Cidade: PONTA PORA
+    Estado: MS
+    CEP: 79906-152
+    Data Atualizacao: 13/09/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: MS-164
+    Número: S/N
+    Bairro: FAZENDA ITAMARATI
+    Estado: MS
+    CEP: 79901-860
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (67) 99128-7598
+  - (67) 99661-0495
+  - (67) 99265-9599
+  - (67) 3433-9013
+  - (67) 99868-5087
+Datasus Phones: (1 item(s))
+  - (67) 99265-9599
+Cidade de Nascimento: PONTA PORA - MS
+Cns: 700008689756609
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Rg Issuer: SSP
+    Mosaic: E17
+    Mosaic New: H27
+    Mosaic Secondary: E17
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: JARDIM AMERICA
+      Número: 829
+      Complemento: CS UNICA
+      Bairro: JD AMERICA
+      Cidade: PONTA PORA
+      Estado: MS
+      CEP: 79906-552
+      Date Added: 19/08/2015
+    [2]
+      Tipo: R
+      Rua: TIETE
+      Número: 30
+      Complemento: C
+      Bairro: JD DAS ROSAS
+      Cidade: PONTA PORA
+      Estado: MS
+      CEP: 79906-152
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: TIETE
+      Número: 542
+      Bairro: VL MIN SALGADO FILHO
+      Cidade: PONTA PORA
+      Estado: MS
+      CEP: 79906-180
+      Date Added: 26/03/2015
+    [4]
+      Tipo: R
+      Rua: TIETE
+      Número: 6
+      Bairro: JD DAS ROSAS
+      Cidade: PONTA PORA
+      Estado: MS
+      CEP: 79906-152
+      Date Added: 15/12/2009
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 34339013
+      Ddd: 67
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/02/2018
+    [2]
+      Telefone: 998685087
+      Ddd: 67
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [3]
+      Telefone: 996610495
+      Ddd: 67
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: jaqueline.valdez@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 138
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 89
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 901.064.581-91
+      Nome: ELIZABETE VINHALES AQUINO
+      Vinculo: MAE
+    [2]
+      CPF: 4673057147
+      Nome: LUCIMARA AQUINO VALDEZ
+      Vinculo: IRMA(O)
+  Pis: 12872406389
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 752.04
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.175.441-30
+    Nome: ABDO DELGADO
+    Logradouro: JARDIM AMERICA
+    Número: 550
+    Bairro: JD AMERICA
+  [2]
+    CPF: 285.297.070-87
+    Nome: MILTON BIBERG DO NASCIMENTO
+    Logradouro: JARDIM AMERICA
+    Número: 550
+    Bairro: JD AMERICA
+  [3]
+    CPF: 880.259.501-15
+    Nome: ALCIONE ALVES
+    Logradouro: JARDIM AMERICA
+    Número: 550
+    Bairro: JD AMERICA
+  [4]
+    CPF: 012.321.431-97
+    Nome: BRUNO NEDER CORREA MILTOS
+    Logradouro: JARDIM AMERICA
+    Número: 821
+    Bairro: JD AMERICA
+  [5]
+    CPF: 006.369.571-52
+    Nome: GLEYCE KELY VILELA ALVES
+    Logradouro: JARDIM AMERICA
+    Número: 821
+    Bairro: JD AMERICA
+  [6]
+    CPF: 045.488.391-94
+    Nome: CRISTHIAN DANILO CANTEIRO BONZI
+    Logradouro: JARDIM AMERICA
+    Número: 821
+    Bairro: JD AMERICA
+  [7]
+    CPF: 372.727.641-04
+    Nome: FULVIO GONCALVES
+    Logradouro: JARDIM AMERICA
+    Número: 259
+    Bairro: JD AMERICA
+  [8]
+    CPF: 007.790.671-34
+    Nome: ELEODORO GONCALVES
+    Logradouro: JARDIM AMERICA
+    Número: 245
+    Bairro: JD AMERICA
+  [9]
+    CPF: 806.766.341-68
+    Nome: CATIA TASIANA MICHAEL DE SA
+    Logradouro: JARDIM AMERICA
+    Número: 559
+    Bairro: JD AMERICA
+  [10]
+    CPF: 733.522.501-97
+    Nome: EDEMILSON FRETY AMORIM
+    Logradouro: JARDIM AMERICA
+    Número: 234
+    Bairro: JD AMERICA
+  [11]
+    CPF: 903.869.731-72
+    Nome: ANDREIA DOS SANTOS BARBOSA
+    Logradouro: JARDIM AMERICA
+    Número: 422
+    Bairro: JD AMERICA
+  [12]
+    CPF: 005.719.011-90
+    Nome: CARLOS EDUARDO DOS SANTOS VALLEJO
+    Logradouro: JARDIM AMERICA
+    Número: 349
+    Bairro: JD AMERICA
+  [13]
+    CPF: 305.657.821-34
+    Nome: JOSE MARCOS DE MELO
+    Logradouro: JARDIM AMERICA
+    Número: 361
+    Bairro: JD AMERICA
+  [14]
+    CPF: 077.950.229-95
+    Nome: KAREM SABRINA MATICK MARTINELLE
+    Logradouro: JARDIM AMERICA
+    Número: 821
+    Bairro: JD AMERICA
+  [15]
+    CPF: 729.977.961-72
+    Nome: DANIELLE MONTANIA CAMPOS
+    Logradouro: JARDIM AMERICA
+    Número: 609
+    Bairro: JD AMERICA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (67) 99661-0495
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 24OCT2008
+    Ultima Recarga: 20AUG2020
+    Telefone Anterior: (67) 9661-0495
+    Plano: PF_PRE_PURO
+    Data Instalacao: 24/10/2008
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (67) 99265-9599
+    Nome: JAQUELINE AQUINO VALDEZ DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - christiano@bancariosppms.com
+  - jaqueline.valdez@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2879
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 752.04
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (67) 3433-9013
+    Ddd: 67
+    Número: 34339013
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+  [2]
+    Telefone: (67) 99868-5087
+    Ddd: 67
+    Número: 998685087
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [3]
+    Telefone: (67) 99661-0495
+    Ddd: 67
+    Número: 996610495
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 331205
+Occupation Name: Professor de nível médio no ensino fundamental
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

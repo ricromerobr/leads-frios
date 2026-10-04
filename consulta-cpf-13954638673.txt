@@ -1,0 +1,250 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13954638673
+Data/Hora:  03/10/2026, 17:43:04
+Tempo API:  736ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 139.546.386-73
+Nome: FYLLYPE AUGUSTO FELIX SILVA
+Primeiro Nome: FYLLYPE
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 25/08/1999
+Nome da Mãe: Adenisia Divina Aparecida Silva
+Score:
+  Value: 560
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 654
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: ALCAIDE
+  Bairro: DOM ALMIR
+  Cidade: UBERLANDIA
+  Estado: MINAS GERAIS
+  CEP: 38407-033
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ALCAIDE
+    Bairro: DOM ALMIR
+    Cidade: UBERLANDIA
+    Estado: MINAS GERAIS
+    CEP: 38407-033
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DAS PALMEIRAS
+    Tipo: R
+    Número: 330
+    Bairro: NOVO HORIZONTE
+    Cidade: ITUIUTABA
+    Estado: MG
+    CEP: 38302-252
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Tipo: FYLLYPE AUGUSTO FELIX SILVA
+    Rua: 0000219
+    Número: GIVALDO DANTAS
+    Bairro: GILCA CANCELA VILELA
+    Cidade: ITUIUTABA
+    Estado: MG
+    CEP: 38304-334
+    Fonte: ASSECC
+  [4]
+    Tipo: [empty]
+    Rua: ALCAIDE
+    Número: 0000096
+    Bairro: DOM ALMIR
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38407-033
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (34) 99302-0283
+  - (34) 99689-4046
+  - (31) 99760-5832
+Mte Data:
+  Nome: Fyllype Augusto Felix Silva
+  Data de Nascimento: 25/08/1999
+  Nome da Mãe: Adenisia Divina Aparecida Silva
+  Endereço:
+    Rua: Das Palmeiras
+    Número: 330
+    Bairro: Novo Horizonte
+    Cidade: Ituiutaba
+    Estado: MG
+    CEP: 38302-252
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/01/2020
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: DAS PALMEIRAS
+      Número: 330
+      Bairro: NOVO HORIZONTE
+      Cidade: ITUIUTABA
+      Estado: MG
+      CEP: 38302-252
+      Date Added: 05/04/2018
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 997605832
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/07/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 560
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 654.33
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 652.536.716-68
+    Nome: VILMA XAVIER DA SILVA
+    Logradouro: DAS PALMEIRAS
+    Número: 227
+    Bairro: NOVO HORIZONTE
+  [2]
+    CPF: 074.538.166-96
+    Nome: JAQUELINE MENDES SILVA
+    Logradouro: DAS PALMEIRAS
+    Número: 235
+    Bairro: NOVO HORIZONTE
+  [3]
+    CPF: 652.438.386-91
+    Nome: MARIA DE FATIMA ALVES RODRIGUES
+    Logradouro: DAS PALMEIRAS
+    Número: 368
+    Bairro: NOVO HORIZONTE
+  [4]
+    CPF: 052.981.176-60
+    Nome: FRED PATRIK SOARES
+    Logradouro: DAS PALMEIRAS
+    Número: 207
+    Bairro: NOVO HORIZONTE
+  [5]
+    CPF: 468.275.448-34
+    Nome: GENI PERES
+    Logradouro: DAS PALMEIRAS
+    Número: 217
+    Bairro: NOVO HORIZONTE
+  [6]
+    CPF: 088.450.186-87
+    Nome: JOSE CARLOS DE OLIVEIRA
+    Logradouro: DAS PALMEIRAS
+    Número: 305
+    Bairro: NOVO HORIZONTE
+  [7]
+    CPF: 190.714.181-20
+    Nome: NORALDO SIMAO DA SILVA
+    Logradouro: DAS PALMEIRAS
+    Número: 394
+    Bairro: NOVO HORIZONTE
+  [8]
+    CPF: 014.869.026-26
+    Nome: EVELYN ALVES ARAUJO FRANCO LEAL
+    Logradouro: DAS PALMEIRAS
+    Número: 176
+    Bairro: NOVO HORIZONTE
+  [9]
+    CPF: 893.848.576-53
+    Nome: VARNEA DE FATIMA COSTA
+    Logradouro: DAS PALMEIRAS
+    Número: 515
+    Bairro: NOVO HORIZONTE
+  [10]
+    CPF: 262.339.166-15
+    Nome: GEOVANE FELIX DE OLIVEIRA
+    Logradouro: DAS PALMEIRAS
+    Número: 328
+    Bairro: NOVO HORIZONTE
+  [11]
+    CPF: 350.645.606-72
+    Nome: MARIA DAS DORES TEIXEIRA DA SILVA
+    Logradouro: DAS PALMEIRAS
+    Número: 226
+    Bairro: NOVO HORIZONTE
+  [12]
+    CPF: 155.745.118-43
+    Nome: FABIO ROBERTO LUCAS
+    Logradouro: DAS PALMEIRAS
+    Número: 245
+    Bairro: NOVO HORIZONTE
+  [13]
+    CPF: 744.142.406-20
+    Nome: LAZARO SEBASTIAO DE OLIVEIRA
+    Logradouro: DAS PALMEIRAS
+    Número: 264
+    Bairro: NOVO HORIZONTE
+  [14]
+    CPF: 306.712.641-68
+    Nome: ANTONIO ROSA FILHO
+    Logradouro: DAS PALMEIRAS
+    Número: 255
+    Bairro: NOVO HORIZONTE
+  [15]
+    CPF: 485.240.501-87
+    Nome: LINDALVA MARIA DE OLIVEIRA
+    Logradouro: DAS PALMEIRAS
+    Número: 244
+    Bairro: NOVO HORIZONTE
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (31) 99760-5832
+    Nome: R
+    Cidade: ITUIUTABA
+    UF: MG
+  [2]
+    Telefone: (34) 99302-0283
+    Nome: FYLLYPE AUGUSTO FELIX SILVA
+    Cidade: UBERLANDIA
+    UF: MG
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 654
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 654.33
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (31) 99760-5832
+    Ddd: 31
+    Número: 997605832
+    Tipo: 3
+    Data Inclusao: 04/07/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,360 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  83758569249
+Data/Hora:  03/10/2026, 15:48:25
+Tempo API:  403ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 837.585.692-49
+Nome: SANDRO JOSE MONTEIRO VIEIRA
+Primeiro Nome: SANDRO
+Sobrenome: VIEIRA
+Sexo: Masculino
+Data de Nascimento: 23/03/1983
+Nome da Mãe: SANDRA MARIA COSTA MONTEIRO
+Nome do Pai: JOSE VALE VIEIRA
+RG: 4608798
+Mosaic: F18
+Ocupação: Almoxarife
+Score:
+  Value: 186
+  Range: ALTISSIMO
+E-mail: isamedeiros.2008@hotmail.com
+Additional Emails: (1 item(s))
+  - isamedeiros.2008@hotmail.com
+Federal Status: REGULAR
+Renda: 193
+Income Bracket: 1
+Cbo: 414105
+Endereço:
+  Tipo: RUA
+  Rua: JUVENCIO SARMENTO
+  Número: 541
+  Bairro: CRUZEIRO ICOARACI
+  Cidade: BELEM
+  Estado: PARA
+  CEP: 66810-080
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JUVENCIO SARMENTO
+    Número: 541
+    Bairro: CRUZEIRO ICOARACI
+    Cidade: BELEM
+    Estado: PARA
+    CEP: 66810-080
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DO ARAME
+    Número: 86
+    Bairro: MARACACUERA (ICOARACI)
+    Cidade: BELEM - PA
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO
+    Tipo: R
+    Número: 245
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66813-660
+    Data Atualizacao: 25/09/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TIMBO
+    Tipo: TV
+    Número: 1021
+    Bairro: PEDREIRA
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66083-048
+    Data Atualizacao: 10/01/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: SIQUEIRA MENDES
+    Número: 0000730
+    Bairro: CRUZEIRO  ICOARACI 
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66810-050
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (91) 98857-2006
+Cidade de Nascimento: BELEM - PA
+Cns: 706409614046287
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/05/2019
+    Info Date: 27/08/2008
+    Mosaic: F18
+    Mosaic New: H27
+    Mosaic Secondary: H29
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO
+      Número: 245
+      Bairro: CAMPINA DE ICOARACI ICOARACI
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66813-660
+      Date Added: 18/05/2011
+    [2]
+      Tipo: R
+      Rua: JUVENCIO SARMENTO
+      Número: 541
+      Bairro: CRUZEIRO ICOARACI
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66810-080
+      Date Added: 09/12/2014
+    [3]
+      Tipo: TV
+      Rua: TIMBO
+      Número: 1021
+      Bairro: PEDREIRA
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66083-048
+      Date Added: 05/04/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999615433
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 27/08/2008
+    [2]
+      Telefone: 984198108
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [3]
+      Telefone: 982497816
+      Ddd: 91
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 30854395
+      Ddd: 91
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 01/04/2019
+      Info Date: 01/11/2016
+    [5]
+      Telefone: 982962282
+      Ddd: 91
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 01/04/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: isamedeiros.2008@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 186
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 694.758.572-49
+      Nome: CLAUDINO CLEITOM MONTEIRO VIEIRA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 328.001.182-53
+      Nome: SANDRA MARIA COSTA MONTEIRO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 193.14
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (5 item(s))
+  - (91) 98419-8108
+  - (91) 99961-5433
+  - (91) 98249-7816
+  - (91) 3085-4395
+  - (91) 98296-2282
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 030.735.992-15
+    Nome: ANA MARIA ANDRADE DOS ANJOS
+    Logradouro: ANTONIO
+    Número: 218
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [2]
+    CPF: 281.787.182-00
+    Nome: IZADORA DE SOUZA PEREIRA
+    Logradouro: ANTONIO
+    Número: 161
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [3]
+    CPF: 048.117.392-72
+    Nome: AILTON JOSE ABREU LEITE
+    Logradouro: ANTONIO
+    Número: 263
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [4]
+    CPF: 025.305.702-72
+    Nome: MANOEL RUBENS DE CASTRO MELRES
+    Logradouro: ANTONIO
+    Número: 325
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [5]
+    CPF: 620.380.522-04
+    Nome: NIVIA EUNICE BARROSO PIMENTEL
+    Logradouro: ANTONIO
+    Número: 285
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [6]
+    CPF: 768.277.472-04
+    Nome: HINGLID DE NAZARETH FARIAS TRINDADE
+    Logradouro: ANTONIO
+    Número: 41
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [7]
+    CPF: 953.678.102-68
+    Nome: MARIA RAIMUNDA DA SILVA TAVARES
+    Logradouro: ANTONIO
+    Número: 70
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [8]
+    CPF: 039.730.232-04
+    Nome: FABIANE DA SILVA DOS ANJOS
+    Logradouro: ANTONIO
+    Número: 241
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [9]
+    CPF: 000.346.532-28
+    Nome: MAYARA LIMA MACEDO
+    Logradouro: ANTONIO
+    Número: 188
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [10]
+    CPF: 826.885.402-20
+    Nome: GEISIVALDO SILVA DA CRUZ
+    Logradouro: ANTONIO
+    Número: 97
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [11]
+    CPF: 602.228.322-15
+    Nome: EDSON HEWERTON DE MELO NEVES
+    Logradouro: ANTONIO
+    Número: 200
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [12]
+    CPF: 256.063.102-44
+    Nome: MARIA DO SOCORRO CARDOSO DE SOUZA
+    Logradouro: ANTONIO
+    Número: 117
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [13]
+    CPF: 006.424.192-05
+    Nome: PATRICIA MACEDO OSORIO
+    Logradouro: ANTONIO
+    Número: 97
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [14]
+    CPF: 267.637.452-49
+    Nome: IVALDINA WANZILER DE MORAIS
+    Logradouro: ANTONIO
+    Número: 200
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+  [15]
+    CPF: 096.577.277-23
+    Nome: HELEN CRISTINA DA SILVA PINHEIRO
+    Logradouro: ANTONIO
+    Número: 247
+    Bairro: CAMPINA DE ICOARACI ICOARACI
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (91) 98419-8108
+    Nome: SANDRO JOSE MONTEIRO VIEIRA
+    Cidade: BELEM
+    UF: PA
+E-mails: (1 item(s))
+  - isamedeiros.2008@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 193
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 193.14
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (91) 99961-5433
+    Ddd: 91
+    Número: 999615433
+    Tipo: 3
+    Data Inclusao: 22/11/2006
+    Data Informacao: 27/08/2008
+    Classificacao: D
+  [2]
+    Telefone: (91) 98419-8108
+    Ddd: 91
+    Número: 984198108
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (91) 98249-7816
+    Ddd: 91
+    Número: 982497816
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [4]
+    Telefone: (91) 3085-4395
+    Ddd: 91
+    Número: 30854395
+    Tipo: FIXO
+    Data Inclusao: 01/04/2019
+    Data Informacao: 01/11/2016
+    Classificacao: A2
+  [5]
+    Telefone: (91) 98296-2282
+    Ddd: 91
+    Número: 982962282
+    Tipo: 3
+    Data Inclusao: 01/04/2019
+    Classificacao: A2
+Occupation Code: 414105
+Occupation Name: Almoxarife
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

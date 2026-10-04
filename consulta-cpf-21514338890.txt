@@ -1,0 +1,348 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  21514338890
+Data/Hora:  03/10/2026, 15:18:05
+Tempo API:  610ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 215.143.388-90
+Nome: MARIA DE LOURDES PINTO
+Primeiro Nome: MARIA
+Sobrenome: PINTO
+Sexo: Feminino
+Data de Nascimento: 30/09/1954
+Nome da Mãe: AMELIA ROSA PINTO
+Nome do Pai: MANOEL DO CARMO PINTO
+RG: 9882994
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 009533150108
+Mosaic: H28
+Score:
+  Value: 554
+  Range: BAIXO
+E-mail: isabellyvictoria007@hotmail.com
+Additional Emails: (2 item(s))
+  - isabellyvictoria007@hotmail.com
+  - kellynhamj_@hotmail.com
+Federal Status: REGULAR
+Renda: 1292
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: UMUARAMA
+  Número: 2011
+  Complemento: BL 24 A
+  Bairro: UMUARAMA
+  Cidade: ARACATUBA
+  Estado: SAO PAULO
+  CEP: 16013-150
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: UMUARAMA
+    Número: 2011
+    Complemento: BL 24 A
+    Bairro: UMUARAMA
+    Cidade: ARACATUBA
+    Estado: SAO PAULO
+    CEP: 16013-150
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO FLORIANO PETIA 1/661
+    Número: 469
+    Bairro: JUSSARA
+    Cidade: ARACATUBA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO FLORIANO PETIA
+    Tipo: R
+    Número: 469
+    Bairro: JUSSARA
+    Cidade: ARACATUBA
+    Estado: SP
+    CEP: 16021-240
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: PROFESSOR NEWTON BRASIL DE LIMA
+    Número: 0000376
+    Bairro: CONJUNTO HAB C CINTI
+    Cidade: ARACATUBA
+    Estado: SP
+    CEP: 16023-170
+    Fonte: ASSECC
+  [5]
+    Tipo: AV
+    Rua: UMUARAMA
+    Número: 0002011
+    Bairro: UMUARAMA
+    Cidade: ARACATUBA
+    Estado: SP
+    CEP: 16013-150
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (18) 99660-7176
+Cidade de Nascimento: ARACATUBA - SP
+Cns: 704501383315410
+Rg Issue Date: 194065200000
+Mte Data:
+  Nome: Maria De Lourdes Pinto
+  Data de Nascimento: 30/09/1954
+  Nome da Mãe: Amelia Rosa Pinto
+  Endereço:
+    Rua: Antonio Floriano Petia
+    Número: 469
+    Bairro: Jussara
+    Cidade: Aracatuba
+    Estado: SP
+    CEP: 16021-240
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Mosaic: H28
+    Mosaic New: H25
+    Mosaic Secondary: I30
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO FLORIANO PETIA
+      Número: 469
+      Bairro: JUSSARA
+      Cidade: ARACATUBA
+      Estado: SP
+      CEP: 16021-240
+      Date Added: 04/04/2017
+    [2]
+      Tipo: AV
+      Rua: UMUARAMA
+      Número: 2011
+      Complemento: BL 24 A
+      Bairro: UMUARAMA
+      Cidade: ARACATUBA
+      Estado: SP
+      CEP: 16013-150
+      Date Added: 18/12/2017
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 36316219
+      Ddd: 18
+      Tipo: 2
+      Classificacao: D2
+      Date Added: 19/04/2011
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 996062283
+      Ddd: 18
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 18/06/2019
+      Info Date: 07/12/2017
+    [3]
+      Telefone: 996979743
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 03/03/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: isabellyvictoria007@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/03/2019
+    [2]
+      E-mail: kellynhamj_@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/03/2019
+  Score:
+    CSB8: 307
+    CSB8 FAIXA: MEDIO
+    CSBA: 554
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: AMELIA ROSA PINTO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1292.13
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (4 item(s))
+  - (67) 98447-9207
+  - (18) 99697-9743
+  - (18) 3631-6219
+  - (18) 99606-2283
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 419.909.298-69
+    Nome: GIOVANNI APARECIDO MARTINELI
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 643
+    Bairro: JUSSARA
+  [2]
+    CPF: 420.208.831-04
+    Nome: CARLOS DORNELLAS
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 479
+    Bairro: JUSSARA
+  [3]
+    CPF: 420.718.138-55
+    Nome: WESLEY FABRICIO PARDIN CASTANHAR
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 6
+    Bairro: JUSSARA
+  [4]
+    CPF: 322.311.148-44
+    Nome: KELLY CRISTINA MACHADO DE SOUSA
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 336
+    Bairro: JUSSARA
+  [5]
+    CPF: 067.321.178-90
+    Nome: FABIO SILVA QUIDEROLI
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 622
+    Bairro: JUSSARA
+  [6]
+    CPF: 495.982.879-04
+    Nome: EDUARDO NICKEL
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 532
+    Bairro: JUSSARA
+  [7]
+    CPF: 165.578.368-89
+    Nome: ADEMIR ALVES DE ATAIDE
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 623
+    Bairro: JUSSARA
+  [8]
+    CPF: 117.469.498-05
+    Nome: DENISE ESTER XAVIER COVOLO SAMPAIO
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 565
+    Bairro: JUSSARA
+  [9]
+    CPF: 069.730.828-66
+    Nome: JOSE CELSO CENTOMA
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 429
+    Bairro: JUSSARA
+  [10]
+    CPF: 095.500.338-56
+    Nome: MARIA APARECIDA PEDROSO GARCIA
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 643
+    Bairro: JUSSARA
+  [11]
+    CPF: 049.897.908-39
+    Nome: ERNESTO APARECIDO DE SOUZA
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 460
+    Bairro: JUSSARA
+  [12]
+    CPF: 137.053.318-76
+    Nome: MARIO VALENTIM FERREIRA
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 103
+    Bairro: JUSSARA
+  [13]
+    CPF: 083.641.128-56
+    Nome: MARIA ERISIADENE MARCOLINO
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 418
+    Bairro: JUSSARA
+  [14]
+    CPF: 267.065.058-97
+    Nome: DANIELA SILVESTRE SILVA
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: SN
+    Bairro: JUSSARA
+  [15]
+    CPF: 095.453.998-21
+    Nome: SOLIBEL CRISTINA ALVES DOS SANTOS
+    Logradouro: ANTONIO FLORIANO PETIA
+    Número: 605
+    Bairro: JUSSARA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (67) 98447-9207
+    Nome: MARIA DE LOURDES PINTO
+    Cidade: ARACATUBA
+    UF: SP
+  [2]
+    Telefone: (18) 99697-9743
+    Nome: MARIA DE LOURDES PINTO
+    Cidade: ARACATUBA
+    UF: SP
+E-mails: (2 item(s))
+  - isabellyvictoria007@hotmail.com
+  - kellynhamj_@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1292
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1292.13
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (18) 3631-6219
+    Ddd: 18
+    Número: 36316219
+    Tipo: CELULAR
+    Data Inclusao: 19/04/2011
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (18) 99606-2283
+    Ddd: 18
+    Número: 996062283
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 07/12/2017
+    Classificacao: C2
+  [3]
+    Telefone: (18) 99697-9743
+    Ddd: 18
+    Número: 996979743
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 03/03/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

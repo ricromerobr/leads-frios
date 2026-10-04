@@ -1,0 +1,345 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00001897667
+Data/Hora:  03/10/2026, 18:34:42
+Tempo API:  783ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 000.018.976-67
+Nome: MILTON LUIZ FIGUEIREDO
+Primeiro Nome: MILTON
+Sobrenome: FIGUEIREDO
+Sexo: Masculino
+Data de Nascimento: 01/12/1964
+Nome da Mãe: SEM INFORMAÇÃO
+Nome do Pai: SEM INFORMAÇÃO
+Mosaic: G25
+Ocupação: Administrador
+Score:
+  Value: 827
+  Range: BAIXISSIMO RISCO
+E-mail: paulocezarhst@hotmail.com
+Additional Emails: (1 item(s))
+  - paulocezarhst@hotmail.com
+Federal Status: SUSPENSA
+Renda: 1491
+Income Bracket: 2
+Cbo: 252105
+Corporate Share Pct: 0
+Endereço:
+  Tipo: RUA
+  Rua: FLOR DE AMARILIS
+  Bairro: JARDIM CAMARGO NOVO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 08141-610
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FLOR DE AMARILIS
+    Bairro: JARDIM CAMARGO NOVO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 08141-610
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA BALNEARIO
+    Número: 761
+    Bairro: NOVO PROGRESSO
+    Cidade: CONTAGEM - MG
+    Fonte: DATASUS
+  [3]
+    Rua: GO 118
+    Tipo: ROD
+    Complemento: KM 153
+    Bairro: ZONA RURAL
+    Cidade: ALTO PARAISO DE GOIAS
+    Estado: GO
+    CEP: 73770-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PLACIDO SERGIO ALVES
+    Tipo: TV
+    Número: 292
+    Bairro: SACO DOS LIMOES
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88045-320
+    Data Atualizacao: 15/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DAS FLAMBOYANTES
+    Tipo: AV
+    Número: 477
+    Bairro: CIDADE 2000
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60190-570
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: BALNEARIO
+    Tipo: R
+    Número: 761
+    Bairro: RESSACA
+    Cidade: CONTAGEM
+    Estado: MG
+    CEP: 32115-080
+    Data Atualizacao: 19/04/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: BR VINTE
+    Tipo: ROD
+    Bairro: VILLAGE
+    Cidade: FORMOSA
+    Estado: GO
+    CEP: 73814-500
+    Data Atualizacao: 05/11/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: PLACIDO SERGIO ALVES
+    Número: 0000292
+    Bairro: SACO DOS LIMOES
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88045-320
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (11) 93956-1675
+  - (48) 98818-7445
+  - (48) 98809-4697
+  - (21) 2485-2671
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 898006133554217
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/12/2019
+    Mosaic: G25
+    Mosaic New: E16
+    Mosaic Secondary: B04
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: ROD
+      Rua: GO 118
+      Complemento: KM 153
+      Bairro: ZONA RURAL
+      Cidade: ALTO PARAISO DE GOIAS
+      Estado: GO
+      CEP: 73770-000
+      Date Added: 10/06/2008
+    [2]
+      Tipo: TV
+      Rua: PLACIDO SERGIO ALVES
+      Número: 292
+      Bairro: SACO DOS LIMOES
+      Cidade: FLORIANOPOLIS
+      Estado: SC
+      CEP: 88045-320
+      Date Added: 30/09/2010
+    [3]
+      Tipo: AV
+      Rua: DAS FLAMBOYANTES
+      Número: 477
+      Bairro: CIDADE 2000
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60190-570
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: BALNEARIO
+      Número: 761
+      Bairro: RESSACA
+      Cidade: CONTAGEM
+      Estado: MG
+      CEP: 32115-080
+      Date Added: 11/10/2006
+    [5]
+      Tipo: ROD
+      Rua: BR VINTE
+      Bairro: VILLAGE
+      Cidade: FORMOSA
+      Estado: GO
+      CEP: 73814-500
+      Date Added: 13/04/2010
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 24852671
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: paulocezarhst@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSBA: 827
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      CPF: BAIXISSIMO RISCO
+      Nome: 558
+      Vinculo: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1491.95
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 900.403.761-68
+    Nome: VANESIA ALEXANDRE DE ARAUJO
+    Logradouro: TRINTA E SEIS
+    Número: 15
+    Bairro: NOVO HORIZONTE
+  [2]
+    CPF: 052.768.238-12
+    Nome: ELIANA SOARES DA SILVA
+    Logradouro: ARY VALADAO FILHO
+    Número: 926
+  [3]
+    CPF: 046.311.271-71
+    Nome: GEORGIA SILVA CARVALHO NEVES
+    Logradouro: SETE
+    Número: SN
+    Bairro: CIDADE ALTA
+  [4]
+    CPF: 053.627.407-09
+    Nome: JULIANA DA CUNHA PORTO KLOSTERMANN
+    Logradouro: GUMERCINDO BARBOSAQD
+    Número: 48
+  [5]
+    CPF: 020.223.721-40
+    Nome: ELAINE APARECIDA BLUMER GUASSI
+    Logradouro: VIRGILIO RODRIGUES
+    Número: SN
+    Bairro: PARAIZINHO
+  [6]
+    CPF: 000.182.961-06
+    Nome: EDESIO NASCIMENTO SILVA
+    Logradouro: VINTE E TRES
+    Número: SN
+    Bairro: NOVO HORIZONTE
+  [7]
+    CPF: 417.773.871-91
+    Nome: OLIVIA FREDERICO MOREIRA DO CARMO
+    Logradouro: FRANCISCO SALESNO
+    Número: 11
+    Bairro: PARAISINNHO
+  [8]
+    CPF: 041.940.121-00
+    Nome: CESAR MARIANO DE SOUSA
+    Logradouro: JOAO BERNARDES RABELO
+    Número: 375
+  [9]
+    CPF: 419.363.021-87
+    Nome: MARIA DA SILVA RODRIGUES
+    Logradouro: ESPERANTO
+    Número: SN
+    Bairro: NOVO HORIZONTE
+  [10]
+    CPF: 493.424.951-68
+    Nome: ARIADNA FERREIRA MALHEIROS
+    Logradouro: A
+    Número: SN
+    Bairro: CIDADE ALTA
+  [11]
+    CPF: 552.552.211-04
+    Nome: ILDECY FARIAS DOMINGUES
+    Logradouro: VERGILIO RODRIGUES
+    Número: SN
+    Bairro: CENTRO
+  [12]
+    CPF: 039.603.581-72
+    Nome: SIZALPINO RODRIGUES DA SILVA
+    Logradouro: CRISTAIS D
+    Número: 46
+    Bairro: PARAISINHO
+  [13]
+    CPF: 494.817.541-20
+    Nome: MANOEL ANTONIO RODRIGUES DE OLIVEIRA
+    Logradouro: DOS CRISTAIS
+    Número: 47
+    Bairro: PARAISINHO
+  [14]
+    CPF: 017.084.751-92
+    Nome: DOUGLAS FERREIRA JOSE DA SILVA
+    Logradouro: DOMINGOS FERREIRAQD
+    Número: 4
+    Bairro: NOVO HORIZONTE
+  [15]
+    CPF: 054.662.811-74
+    Nome: DANNYELLE GONCALVES DE ALMEIDA OLIVEIRA
+    Logradouro: FIRMINO ALMEIDA
+    Número: 129
+    Bairro: PARAISINHO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (48) 98809-4697
+    Nome: ANTONIO JOAO FERREIRA
+    Cidade: FLORIANOPOLIS
+    UF: SC
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (48) 98809-4697
+    Nome: MILTON LUIZ FIGUEIREDO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - paulocezarhst@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1491
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1491.95
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (21) 2485-2671
+    Ddd: 21
+    Número: 24852671
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: B
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,419 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08648416809
+Data/Hora:  04/10/2026, 12:05:35
+Tempo API:  563ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 086.484.168-09
+Nome: REGINA ISABEL DO NASCIMENTO
+Primeiro Nome: REGINA
+Sobrenome: NASCIMENTO
+Sexo: Feminino
+Data de Nascimento: 02/12/1959
+Nome da Mãe: FLORINDA BARBOSA DO NASCIMENTO
+Voter Id: 146160590124
+Mosaic: G26
+Score:
+  Value: 252
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 292
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: OCTACILIO HONORATO SOARES 153
+  Bairro: JD STA TEREZA
+  Cidade: EMBU DAS ARTES
+  Estado: SAO PAULO
+  CEP: 06813-010
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: OCTACILIO HONORATO SOARES 153
+    Bairro: JD STA TEREZA
+    Cidade: EMBU DAS ARTES
+    Estado: SAO PAULO
+    CEP: 06813-010
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DOIS
+    Tipo: R
+    Número: 3
+    Bairro: JD VITORIA
+    Cidade: EMBU DAS ARTES
+    Estado: SP
+    CEP: 06810-790
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: OCTACILIO HONORATO SOARES
+    Tipo: R
+    Número: 3
+    Bairro: JD STA TEREZA
+    Cidade: EMBU DAS ARTES
+    Estado: SP
+    CEP: 06813-010
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: OCTACILIO HONORATO SOARES
+    Tipo: R
+    Número: 153
+    Bairro: JD STA TEREZA
+    Cidade: EMBU DAS ARTES
+    Estado: SP
+    CEP: 06813-010
+    Data Atualizacao: 17/12/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: BABILONIA
+    Tipo: R
+    Número: 514
+    Complemento: C 2
+    Bairro: VL OLINDA
+    Cidade: EMBU DAS ARTES
+    Estado: SP
+    CEP: 06810-200
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: OCTACILIO HONORATO SOARES
+    Número: 0000153
+    Bairro: JARDIM SANTA TEREZA
+    Cidade: EMBU DAS ARTES
+    Estado: SP
+    CEP: 06813-010
+    Fonte: ASSECC
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: GM
+      Modelo: CHEVETTE
+      Ano: 1978
+    [2]
+      Marca: FORD
+      Modelo: KA
+      Ano: 1998
+    [3]
+      Marca: CITROEN
+      Modelo: C3 EXC 16 A FLEX
+      Ano: 2009
+Telefones: (7 item(s))
+  - (11) 94943-8826
+  - (11) 93274-1635
+  - (11) 4244-2132
+  - (11) 99352-5599
+  - (11) 4139-0465
+  - (11) 96381-1353
+  - (11) 4943-8826
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 30/08/2019
+    Info Date: 21/12/2008
+    Mosaic: G26
+    Mosaic New: J34
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: DOIS
+      Número: 3
+      Bairro: JD VITORIA
+      Cidade: EMBU DAS ARTES
+      Estado: SP
+      CEP: 06810-790
+      Date Added: 26/03/2013
+    [2]
+      Tipo: R
+      Rua: OCTACILIO HONORATO SOARES
+      Número: 3
+      Bairro: JD STA TEREZA
+      Cidade: EMBU DAS ARTES
+      Estado: SP
+      CEP: 06813-010
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: OCTACILIO HONORATO SOARES
+      Número: 153
+      Bairro: JD STA TEREZA
+      Cidade: EMBU DAS ARTES
+      Estado: SP
+      CEP: 06813-010
+      Date Added: 13/04/2010
+    [4]
+      Tipo: R
+      Rua: BABILONIA
+      Número: 514
+      Complemento: C 2
+      Bairro: VL OLINDA
+      Cidade: EMBU DAS ARTES
+      Estado: SP
+      CEP: 06810-200
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 42442132
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 14/11/2008
+    [2]
+      Telefone: 993525599
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 41390465
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 16/12/2015
+      Info Date: 27/04/2007
+    [4]
+      Telefone: 963811353
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 49438826
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 19/06/2018
+      Info Date: 08/12/2019
+  Score:
+    CSB8: 431
+    CSB8 FAIXA: MEDIO
+    CSBA: 252
+    CSBA FAIXA: ALTO
+  Parentes: (12 item(s))
+    [1]
+      CPF: 349.961.358-16
+      Nome: ROBERT ORLANDO DO NASCIMENTO
+      Vinculo: FILHA(O)
+    [2]
+      CPF: 327.050.098-09
+      Nome: ROSANGELA DO NASCIMENTO EZIQUE
+      Vinculo: FILHA(O)
+    [3]
+      CPF: 129688894
+      Nome: MARIA LUCIA DO NASCIMENTO
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 8777453824
+      Nome: FLORINDA BARBOSA DO NASCIMENTO
+      Vinculo: MAE
+    [5]
+      CPF: 408.420.788-86
+      Nome: MADALENA BERTO DA SILVA
+      Vinculo: SOBRINHA(O)
+    [6]
+      CPF: 262.367.158-31
+      Nome: SELMA BARBOSA DO NASCIMENTO
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 218.249.728-57
+      Nome: RINA CARLA DO NASCIMENTO
+      Vinculo: FILHA(O)
+    [8]
+      CPF: 279.952.518-07
+      Nome: RENATA DO NASCIMENTO EZIQUE
+      Vinculo: FILHA(O)
+    [9]
+      CPF: 4717960858
+      Nome: JOSE CARLOS DO NASCIMENTO
+      Vinculo: IRMA(O)
+    [10]
+      CPF: 395.301.378-50
+      Nome: THIAGO DO NASCIMENTO
+      Vinculo: SOBRINHA(O)
+    [11]
+      CPF: 408.570.368-40
+      Nome: RICHARD NASCIMENTO DA SILVA
+      Vinculo: FILHA(O)
+    [12]
+      CPF: 229.174.031-87
+      Nome: VERA LUCIA DO NASCIMENTO
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 292.76
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 031.595.125-76
+    Nome: CILENE REGO SILVA
+    Logradouro: DOIS
+    Número: 327
+    Bairro: JD VITORIA
+  [2]
+    CPF: 425.519.118-26
+    Nome: JESSICA SANTOS SILVA
+    Logradouro: DOIS
+    Número: 196
+    Bairro: JD VITORIA
+  [3]
+    CPF: 007.121.715-09
+    Nome: ROSANGELA SOUZA MESSIAS
+    Logradouro: DOIS
+    Número: 176
+    Bairro: JD VITORIA
+  [4]
+    CPF: 321.495.538-13
+    Nome: FERNANDO HENRIQUE DA SILVA
+    Logradouro: DOIS
+    Número: 505
+    Bairro: JD VITORIA
+  [5]
+    CPF: 443.196.495-91
+    Nome: JOELMA MARIA DE JESUS
+    Logradouro: DOIS
+    Número: 2
+    Bairro: JD VITORIA
+  [6]
+    CPF: 280.265.098-03
+    Nome: MONICA DE SOUZA AMARAL
+    Logradouro: DOIS
+    Número: 191
+    Bairro: JD VITORIA
+  [7]
+    CPF: 372.924.238-50
+    Nome: JOZUMARA APARECIDA PEREIRA DA SILVA
+    Logradouro: DOIS
+    Número: 194
+    Bairro: JD VITORIA
+  [8]
+    CPF: 333.533.568-60
+    Nome: FERNANDA APARECIDA BATISTA DE OLIVEIRA RODRIGUES
+    Logradouro: DOIS
+    Número: 1
+    Bairro: JD VITORIA
+  [9]
+    CPF: 314.626.468-40
+    Nome: SOLANGE DE SOUZA SANTOS
+    Logradouro: DOIS
+    Número: 350
+    Bairro: JD VITORIA
+  [10]
+    CPF: 263.268.758-62
+    Nome: FABIO SILVA DO NASCIMENTO LEMOS
+    Logradouro: DOIS
+    Número: 1
+    Bairro: JD VITORIA
+  [11]
+    CPF: 143.553.103-53
+    Nome: MARIA DE FATIMA OLIVEIRA DA SILVA
+    Logradouro: DOIS
+    Número: 351
+    Bairro: JD VITORIA
+  [12]
+    CPF: 407.928.298-24
+    Nome: KEVIN DE ANDRADE PEREIRA
+    Logradouro: DOIS
+    Número: 101
+    Bairro: JD VITORIA
+  [13]
+    CPF: 628.724.863-72
+    Nome: RAIMUNDO BERNALDO DA SILVA
+    Logradouro: DOIS
+    Número: 351
+    Bairro: JD VITORIA
+  [14]
+    CPF: 146.147.228-81
+    Nome: MARIA DAS NEVES BEZERRA SANTOS
+    Logradouro: DOIS
+    Número: 12
+    Bairro: JD VITORIA
+  [15]
+    CPF: 145.106.948-06
+    Nome: SOLANGE DIAS LAURENTINO
+    Logradouro: DOIS
+    Número: 321
+    Bairro: JD VITORIA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (11) 93274-1635
+    Nome: REGINA ISABEL DO NASCIMENTO
+    Cidade: EMBU DAS ARTES
+    UF: SP
+  [2]
+    Telefone: (11) 94943-8826
+    Nome: REGINA ISABEL DO NASCIMENTO
+    Cidade: SP
+    UF: EMBU DAS ARTES
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 292
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 292.76
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4244-2132
+    Ddd: 11
+    Número: 42442132
+    Tipo: FIXO
+    Data Inclusao: 14/11/2008
+    Classificacao: D2
+  [2]
+    Telefone: (11) 99352-5599
+    Ddd: 11
+    Número: 993525599
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (11) 4139-0465
+    Ddd: 11
+    Número: 41390465
+    Tipo: FIXO
+    Data Inclusao: 16/12/2015
+    Data Informacao: 27/04/2007
+    Classificacao: D
+  [4]
+    Telefone: (11) 96381-1353
+    Ddd: 11
+    Número: 963811353
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 4943-8826
+    Ddd: 11
+    Número: 49438826
+    Tipo: FIXO
+    Data Inclusao: 19/06/2018
+    Data Informacao: 08/12/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

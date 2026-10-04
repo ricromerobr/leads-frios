@@ -1,0 +1,295 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10396123937
+Data/Hora:  02/10/2026, 16:17:29
+Tempo API:  292ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 103.961.239-37
+Nome: ANA KAROLINE ALMEIDA DE MOURA
+Primeiro Nome: ANA
+Sobrenome: MOURA
+Sexo: Feminino
+Data de Nascimento: 10/04/1998
+Nome da Mãe: GILMARA APARECIDA DE ALMEIDA
+Ocupação: Trabalhadores dos Servicos e Vendedores do Comercio (categoria CBO)
+Score:
+  Value: 268
+  Range: ALTO
+E-mail: ANAAMOURA_@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 788
+Income Bracket: 1
+Cbo: 516115
+Endereço:
+  Tipo: RUA
+  Rua: VITOR STEC 51
+  Número: 51
+  Bairro: XAXIM
+  Cidade: CURITIBA
+  Estado: PARANA
+  CEP: 81710-090
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VITOR STEC 51
+    Número: 51
+    Bairro: XAXIM
+    Cidade: CURITIBA
+    Estado: PARANA
+    CEP: 81710-090
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ATHANAZIO MERKLE
+    Tipo: AV
+    Número: 947
+    Bairro: CENTRO
+    Cidade: ITAPORANGA
+    Estado: SP
+    CEP: 18480-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: EDNA WALDEREZ BASSETTI HABITH
+    Tipo: R
+    Número: 92
+    Complemento: C 4
+    Bairro: XAXIM
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81830-215
+    Data Atualizacao: 03/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: VITOR STEC
+    Número: 0000051
+    Bairro: XAXIM
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81710-090
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Paycom:
+  E-mail: anaamoura_@hotmail.com
+  Data de Nascimento: 06/07/1990
+  Created At: 2020-05-25 11:39:34
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Dom Athanazio Merkle
+    Número: 808
+    Bairro: Centro
+    Cidade: ITAPORANGA
+    Estado: SP
+    País: BRA
+    CEP: 18480-000
+    Telephone: +55 (15) 98129-0494
+Telefones: (5 item(s))
+  - +55 (15) 98129-0494
+  - (41) 98803-0552
+  - (41) 99121-6021
+  - (41) 99809-6479
+  - (41) 3069-1572
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 13/08/2019
+    Mosaic New: C08
+    Mosaic Secondary: E17
+  Endereços: (2 item(s))
+    [1]
+      Tipo: AV
+      Rua: ATHANAZIO MERKLE
+      Número: 947
+      Bairro: CENTRO
+      Cidade: ITAPORANGA
+      Estado: SP
+      CEP: 18480-000
+      Date Added: 10/06/2019
+    [2]
+      Tipo: R
+      Rua: EDNA WALDEREZ BASSETTI HABITH
+      Número: 92
+      Complemento: C 4
+      Bairro: XAXIM
+      Cidade: CURITIBA
+      Estado: PR
+      CEP: 81830-215
+      Date Added: 16/04/2018
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 991216021
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [2]
+      Telefone: 998096479
+      Ddd: 41
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/04/2018
+    [3]
+      Telefone: 30691572
+      Ddd: 41
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 17/11/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: anaamoura_@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 374
+    CSB8 FAIXA: MEDIO
+    CSBA: 268
+    CSBA FAIXA: ALTO
+Additional Emails: (1 item(s))
+  - anaamoura_@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.289.878-25
+    Nome: EDUARDO TSUTOMU ASAHARA
+    Logradouro: FELIPE VITA
+    Número: 1385
+    Bairro: CENTRO
+  [2]
+    CPF: 050.006.628-06
+    Nome: JOSE APARECIDO DENIZ
+    Logradouro: JOAO PANZARIN
+    Número: 1065
+  [3]
+    CPF: 049.204.378-70
+    Nome: MARGARIDA DE SOUZA LARA
+    Logradouro: APARICIO F CARVALHO
+    Número: 1588
+  [4]
+    CPF: 849.110.855-68
+    Nome: RONALDO DA ROCHA
+    Logradouro: RAFAEL VITA
+    Número: 531
+    Bairro: ITAPORANGA
+  [5]
+    CPF: 048.464.029-16
+    Nome: CLAUDIA MARIA RAMOS BATISTA FOGACA
+    Logradouro: VINTE E UM DE ABRIL
+    Número: 1215
+  [6]
+    CPF: 048.394.828-45
+    Nome: JOAO ROBERTO DE SOUZA
+    Logradouro: BENEDITO VIANA
+    Número: 1770
+  [7]
+    CPF: 417.726.628-01
+    Nome: LUIS FELIPE SERAFIM
+    Logradouro: FALCO
+    Número: 876
+    Bairro: CENTRO
+  [8]
+    CPF: 417.532.708-80
+    Nome: THAIS ISMENIA GRANERO
+    Logradouro: ALZIRO DO AMARAL
+    Número: 542
+    Bairro: VL DOS PADRES
+  [9]
+    CPF: 313.446.598-10
+    Nome: BRUNO RIBEIRO LEITE
+    Logradouro: QUATRO
+    Número: 285
+  [10]
+    CPF: 046.501.838-63
+    Nome: NEI AGOSTINHO DOS SANTOS
+    Logradouro: RAFAEL VITA
+    Número: 805
+  [11]
+    CPF: 046.502.138-78
+    Nome: MARIO FERRAZ
+    Logradouro: FELIPE VITA
+    Número: 897
+  [12]
+    CPF: 046.501.358-93
+    Nome: CINOEL DOS SANTOS
+    Logradouro: QUINZE DE NOVEMBRO
+    Número: 915
+    Bairro: CENTRO
+  [13]
+    CPF: 046.501.378-37
+    Nome: ANA ROSA RODRIGUES JARDIM
+    Logradouro: LEONCIO G DO AMARAL DR
+    Número: 1560
+  [14]
+    CPF: 336.583.248-30
+    Nome: DANIELA CIRLENE REZENDE DA SILVA
+    Logradouro: JOANA GARCIA DA VE
+    Número: 310
+    Bairro: CDHU
+  [15]
+    CPF: 417.711.718-80
+    Nome: JULIO CESAR CARVALHO DINIZ
+    Logradouro: PAULO
+    Número: 215
+    Bairro: CDHU
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (41) 98803-0552
+    Nome: ANA KAROLINE ALMEIDA DE MOURA
+    Cidade: CURITIBA
+    UF: PR
+E-mails: (1 item(s))
+  - anaamoura_@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 788
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (41) 99121-6021
+    Ddd: 41
+    Número: 991216021
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [2]
+    Telefone: (41) 99809-6479
+    Ddd: 41
+    Número: 998096479
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A0
+  [3]
+    Telefone: (41) 3069-1572
+    Ddd: 41
+    Número: 30691572
+    Tipo: FIXO
+    Data Inclusao: 17/11/2019
+    Classificacao: A2
+Occupation Code: 516115
+Occupation Name: Trabalhadores dos Servicos e Vendedores do Comercio (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

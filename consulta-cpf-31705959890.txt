@@ -1,0 +1,588 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  31705959890
+Data/Hora:  03/10/2026, 17:47:33
+Tempo API:  660ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 317.059.598-90
+Nome: PAULO CESAR ALVES JUNIOR
+Primeiro Nome: PAULO
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 26/04/1985
+Nome da Mãe: SANDRA REGINA DE LIMA
+Nome do Pai: SEM INFORMAÃÃO
+Voter Id: 308527920159
+Mosaic: C08
+Ocupação: Agente de estação (ferrovia e metrô)
+Score:
+  Value: 536
+  Range: MEDIO
+E-mail: pcpalmeiras@yahoo.com
+Additional Emails: (5 item(s))
+  - pcpalmeiras@yahoo.com
+  - pcpalmeiras@yahoo.com.br
+  - paulo@imob-assessoria.com
+  - nabrumartins@hotmail.com
+  - paulinhoneguinho@vivointernetdiscada.com.br
+Federal Status: REGULAR
+Renda: 7155
+Income Bracket: 5
+Cbo: 342405
+Endereço:
+  Tipo: RUA
+  Rua: ANGA
+  Bairro: VILA FORMOSA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03360-000
+All Addresses: (12 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANGA
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03360-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PERSEU
+    Número: 251
+    Bairro: CIDADE SATELITE SAN
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: PERSEU
+    Número: 251
+    Complemento: AP 504
+    Bairro: JD SANTA BARBARA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08330-340
+    Fonte: SARAIVA
+  [4]
+    Rua: PERSEU
+    Tipo: R
+    Número: 254
+    Complemento: AP 504
+    Bairro: CIDADE SATELITE SANTA BARBARA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08330-340
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: PERSEU
+    Tipo: R
+    Número: 217
+    Complemento: AP 504
+    Bairro: CIDADE SATELITE SANTA BARBARA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08330-340
+    Data Atualizacao: 17/01/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ANGA
+    Tipo: R
+    Número: 896
+    Complemento: AP 24 A
+    Bairro: VL FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03360-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: ANGA
+    Número: 0000896
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: PERSEU
+    Número: 0000251
+    Bairro: CIDADE SATELITE SANTA BARBARA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08330-340
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: ANGA
+    Número: 0000896
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03360-000
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: MAGDA
+    Número: 0000020
+    Bairro: VILA BUENOS AIRES
+    Cidade: S PAULO
+    Estado: SP
+    CEP: 03737-220
+    Fonte: ASSECC
+  [11]
+    CEP: 00000-000
+    Fonte: BR21M
+  [12]
+    Tipo: RUA
+    Rua: R ANGA  896 BL A-SPETACULO
+    Número: 896
+    Complemento: APT 24
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 0
+Telefones: (16 item(s))
+  - (11) 94501-6871
+  - (11) 97871-8535
+  - (11) 94784-3231
+  - (11) 97882-5335
+  - (11) 98661-5525
+  - (11) 6119-1312
+  - (11) 99225-5600
+  - (11) 95520-1959
+  - (11) 98177-6724
+  - (11) 99476-8419
+  - (11) 99538-6142
+  - (11) 2368-0027
+  - (11) 2548-4249
+  - (11) 4344-9214
+  - (11) 4329-5971
+  - (11) 94769-5090
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 709000866625419
+Saraiva:
+  Customer Id: 9556280
+  Telefone: (11) 6119-1312
+  E-mail: PCPALMEIRAS@YAHOO.COM.BR
+  Data de Nascimento: 26/04/1985
+Paycom:
+  E-mail: paulo@imob-assessoria.com
+  Created At: 2021-03-17 20:24:29
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Número: 0
+    Bairro: Monte Verde
+    Cidade: ND
+    Estado: SP
+    País: BR
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/01/2020
+    Info Date: 01/02/2008
+    Mosaic: C08
+    Mosaic New: E17
+    Mosaic Secondary: D09
+    Income Bracket Id: 6
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: PERSEU
+      Número: 254
+      Complemento: AP 504
+      Bairro: CIDADE SATELITE SANTA BARBARA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08330-340
+      Date Added: 10/07/2014
+    [2]
+      Tipo: R
+      Rua: PERSEU
+      Número: 217
+      Complemento: AP 504
+      Bairro: CIDADE SATELITE SANTA BARBARA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08330-340
+      Date Added: 22/03/2016
+    [3]
+      Tipo: R
+      Rua: PERSEU
+      Número: 251
+      Complemento: AP 504
+      Bairro: CIDADE SATELITE SANTA BARBARA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08330-340
+      Date Added: 01/02/2007
+    [4]
+      Tipo: R
+      Rua: ANGA
+      Número: 896
+      Complemento: AP 24 A
+      Bairro: VL FORMOSA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03360-000
+      Date Added: 05/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 43449214
+      Ddd: 11
+      Tipo: 2
+      Classificacao: D
+      Date Added: 14/10/2013
+    [2]
+      Telefone: 43295971
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 15/12/2014
+    [3]
+      Telefone: 995386142
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 981776724
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 01/02/2018
+    [5]
+      Telefone: 947695090
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (4 item(s))
+    [1]
+      E-mail: nabrumartins@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: paulinhoneguinho@vivointernetdiscada.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: pcpalmeiras@yahoo.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: pcpalmeiras@yahoo.com.br
+      Priority: 4
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 536
+    CSBA FAIXA: MEDIO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 3043792807
+      Nome: SANDRA REGINA DE LIMA
+      Vinculo: MAE
+    [2]
+      CPF: 295.923.028-04
+      Nome: CRISTIANE DE LIMA MONTEIRO GONCALVES
+      Vinculo: IRMA(O)
+  Pis: 13440161772
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3527.15
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 036.328.708-61
+    Nome: VANDERLEI DEL PAPA
+    Logradouro: PERSEU
+    Número: 241
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [2]
+    CPF: 132.171.238-32
+    Nome: CLELIA CARPI
+    Logradouro: PERSEU
+    Número: 181
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [3]
+    CPF: 608.103.948-04
+    Nome: IRENE AGUIAR MELHADO
+    Logradouro: PERSEU
+    Número: 203
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [4]
+    CPF: 013.449.078-90
+    Nome: MARLI APARECIDA CORREIA COSTA LIMA
+    Logradouro: PERSEU
+    Número: 440
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [5]
+    CPF: 020.741.897-70
+    Nome: LUIS HENRIQUE TEIXEIRA VALENTE
+    Logradouro: PERSEU
+    Número: 329
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [6]
+    CPF: 430.795.204-91
+    Nome: GENIVAL CAETANO BEZERRA
+    Logradouro: PERSEU
+    Número: 213
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [7]
+    CPF: 748.636.064-00
+    Nome: GESSIZAI VIANA E SILVA
+    Logradouro: PERSEU
+    Número: 56
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [8]
+    CPF: 516.105.155-87
+    Nome: OSVALDO BAPTISTA DA CRUZ
+    Logradouro: PERSEU
+    Número: 327
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [9]
+    CPF: 283.756.228-93
+    Nome: CELIA REGINA MORAIS DE LIMA
+    Logradouro: PERSEU
+    Número: 61
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [10]
+    CPF: 359.596.198-65
+    Nome: VAN NAFF DEL PAPA
+    Logradouro: PERSEU
+    Número: 345
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [11]
+    CPF: 131.632.638-10
+    Nome: UBIRANICE DA COSTA DE OLIVEIRA
+    Logradouro: PERSEU
+    Número: 213
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [12]
+    CPF: 115.820.628-38
+    Nome: ROGERIO DE AQUINO
+    Logradouro: PERSEU
+    Número: 25
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [13]
+    CPF: 089.241.868-09
+    Nome: EVANDRO AUGUSTO GEMELGO
+    Logradouro: PERSEU
+    Número: 239
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [14]
+    CPF: 063.079.794-37
+    Nome: FRANCISCA MARIA PEREIRA
+    Logradouro: PERSEU
+    Número: 213
+    Bairro: CIDADE SATELITE SANTA BARBARA
+  [15]
+    CPF: 431.515.228-58
+    Nome: RAFAEL GONCALVES
+    Logradouro: PERSEU
+    Número: 141
+    Bairro: CIDADE SATELITE SANTA BARBARA
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (11) 98661-5525
+    Nome: PAULO CESAR ALVES JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 99225-5600
+    Nome: PAULO CESAR ALVES JR
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 94784-3231
+    Nome: PAULO CESAR ALVES JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [4]
+    Telefone: (11) 95520-1959
+    Nome: PAULO CESAR ALVES JUNIOR
+    Cidade: S PAULO
+    UF: SP
+  [5]
+    Telefone: (11) 98177-6724
+    Nome: PAULO CESAR ALVES JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+  [6]
+    Telefone: (11) 99476-8419
+    Nome: AULO CESAR ALVES JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (5 item(s))
+  [1]
+    Telefone: (11) 98177-6724
+    Nome: PAULO CESAR ALVES JUNIOR
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 99538-6142
+    Nome: PAULO CESAR ALVES JUNIOR
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [3]
+    Telefone: (11) 2548-4249
+    Nome: PAULO CESAR ALVES JUNIOR.
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+  [4]
+    Telefone: (11) 99476-8419
+    Nome: PAULO CESAR ALVES JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [5]
+    Telefone: (11) 98661-5525
+    Nome: PAULO CESAR ALVES JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 390439457
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 23/04/2018
+    Tempo Base: 28
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201804
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 26/04/1985
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 6663
+      Classe Social: B2
+      Score: 825
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 646
+        Net: 666
+        Ctv: 697
+        Faixa Cmv: 548 - 788
+        Faixa Net: 349 - 669
+        Faixa Ctv: 649 - 702
+        Risco Cmv: BAIXO
+        Risco Net: MEDIO
+        Risco Ctv: BAIXO
+        Idade: 35
+E-mails: (5 item(s))
+  - pcpalmeiras@yahoo.com
+  - pcpalmeiras@yahoo.com.br
+  - paulo@imob-assessoria.com
+  - nabrumartins@hotmail.com
+  - paulinhoneguinho@vivointernetdiscada.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 5
+Renda Estimativas:
+  Presumida:
+    Valor: 7155
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3527.15
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 6663
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4344-9214
+    Ddd: 11
+    Número: 43449214
+    Tipo: CELULAR
+    Data Inclusao: 14/10/2013
+    Classificacao: D
+  [2]
+    Telefone: (11) 4329-5971
+    Ddd: 11
+    Número: 43295971
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Classificacao: A0
+  [3]
+    Telefone: (11) 99538-6142
+    Ddd: 11
+    Número: 995386142
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: C2
+  [4]
+    Telefone: (11) 98177-6724
+    Ddd: 11
+    Número: 981776724
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: A1
+  [5]
+    Telefone: (11) 94769-5090
+    Ddd: 11
+    Número: 947695090
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 342405
+Occupation Name: Agente de estação (ferrovia e metrô)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

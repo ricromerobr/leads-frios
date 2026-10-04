@@ -1,0 +1,273 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  18380365712
+Data/Hora:  02/10/2026, 16:14:25
+Tempo API:  1138ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 183.803.657-12
+Nome: ANA KAROLINA SANTANA VIEIRA
+Primeiro Nome: ANA
+Sobrenome: VIEIRA
+Sexo: Feminino
+Data de Nascimento: 14/12/2000
+Nome da Mãe: JOSINEIDE LIMA SANTANA
+Nome do Pai: ANTENOR VICENTE VIEIRA FILHO
+Score:
+  Value: 579
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 495
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: VIANA
+  Bairro: UNA
+  Cidade: GUARAPARI
+  Estado: ESPIRITO SANTO
+  CEP: 02922-250
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VIANA
+    Bairro: UNA
+    Cidade: GUARAPARI
+    Estado: ESPIRITO SANTO
+    CEP: 02922-250
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CACHOEIRO DE ITAPEMIRIM
+    Número: 278
+    Bairro: IPIRANGA
+    Cidade: GUARAPARI - ES
+    Fonte: DATASUS
+  [3]
+    Rua: CORREGO GRANDE
+    Tipo: R
+    Número: 116
+    Bairro: VLE ENCANTADO
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29113-220
+    Data Atualizacao: 09/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: AV
+    Rua: VIANA
+    Número: 0000015
+    Bairro: UNA
+    Cidade: GUARAPARI
+    Estado: ES
+    CEP: 29222-550
+    Fonte: ASSECC
+  [5]
+    Tipo: R
+    Rua: HONORIO MACHADO DE SOUZA
+    Número: 0000014
+    Bairro: NOSSA SENHORA DA CONCEICAO
+    Cidade: GUARAPARI
+    Estado: ES
+    CEP: 29213-070
+    Fonte: ASSECC
+  [6]
+    Rua: AV VIANA
+    Número: 15
+    Bairro: UNA
+    Estado: ES
+    CEP: 29222-550
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (27) 99633-4962
+  - (27) 99271-9968
+  - (27) 99996-0602
+Datasus Phones: (1 item(s))
+  - (27) 3362-8335
+Cidade de Nascimento: VITORIA - ES
+Cns: 700505132365450
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/12/2019
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: CORREGO GRANDE
+      Número: 116
+      Bairro: VLE ENCANTADO
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29113-220
+      Date Added: 04/07/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 999960602
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/07/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 579
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 495.22
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 031.916.247-83
+    Nome: JAIRO SOARES RAMOS
+    Logradouro: CORREGO GRANDE
+    Número: 6
+    Bairro: VLE ENCANTADO
+  [2]
+    CPF: 089.318.687-23
+    Nome: ISMAEL DA COSTA FRANZIN
+    Logradouro: CORREGO GRANDE
+    Número: 1181
+    Bairro: VLE ENCANTADO
+  [3]
+    CPF: 060.272.557-73
+    Nome: YARA KELLE GONCALVES ANJO
+    Logradouro: CORREGO GRANDE
+    Número: 10
+    Bairro: VLE ENCANTADO
+  [4]
+    CPF: 002.942.457-74
+    Nome: JORGE PORTELA DOS SANTOS
+    Logradouro: CORREGO GRANDE
+    Número: 25
+    Bairro: VLE ENCANTADO
+  [5]
+    CPF: 058.152.447-08
+    Nome: ALEXSANDRO DOS SANTOS RANGEL
+    Logradouro: CORREGO GRANDE
+    Número: 223
+    Bairro: VLE ENCANTADO
+  [6]
+    CPF: 069.787.507-51
+    Nome: MARCOS WELBER PINTO CARLINI
+    Logradouro: CORREGO GRANDE
+    Número: 8
+    Bairro: VLE ENCANTADO
+  [7]
+    CPF: 084.259.587-25
+    Nome: EDSON BUEQUE MARQUES
+    Logradouro: CORREGO GRANDE
+    Número: 10
+    Bairro: VLE ENCANTADO
+  [8]
+    CPF: 108.581.077-16
+    Nome: CLEIDE FERREIRA SANTOS SOUTO
+    Logradouro: CORREGO GRANDE
+    Número: 17
+    Bairro: VLE ENCANTADO
+  [9]
+    CPF: 110.250.337-10
+    Nome: GILMARA DANTAS DOS SANTOS
+    Logradouro: CORREGO GRANDE
+    Número: 9999
+    Bairro: VLE ENCANTADO
+  [10]
+    CPF: 153.994.037-30
+    Nome: CREMILDA PINTO CARLINI
+    Logradouro: CORREGO GRANDE
+    Número: 8
+    Bairro: VLE ENCANTADO
+  [11]
+    CPF: 055.924.787-71
+    Nome: LAELSO FERREIRA DE SOUZA
+    Logradouro: CORREGO GRANDE
+    Número: 6
+    Bairro: VLE ENCANTADO
+  [12]
+    CPF: 097.692.207-01
+    Nome: SIMONE DA MATA DOS SANTOS
+    Logradouro: CORREGO GRANDE
+    Número: 25
+    Bairro: VLE ENCANTADO
+  [13]
+    CPF: 110.491.917-65
+    Nome: JUMAR BRAGANCA SOUTO
+    Logradouro: CORREGO GRANDE
+    Número: 16
+    Bairro: VLE ENCANTADO
+  [14]
+    CPF: 031.814.007-18
+    Nome: MARIA APARECIDA MENDES
+    Logradouro: CORREGO GRANDE
+    Número: 6
+    Bairro: VLE ENCANTADO
+  [15]
+    CPF: 138.626.127-08
+    Nome: YGOR NOLASCO ZOTELLI
+    Logradouro: CORREGO GRANDE
+    Número: 3
+    Bairro: VLE ENCANTADO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (27) 99633-4962
+    Nome: ANA CAROLINA SANTANA VIEIR
+    Cidade: GUARAPARI
+    UF: ES
+  [2]
+    Telefone: (27) 99271-9968
+    Nome: ANA KAROLINA SANTANA VIEIRA
+    Cidade: GUARAPARI
+    UF: ES
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (27) 99633-4962
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 11JUN2019
+    Ultima Recarga: 24JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 03/02/2019
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (27) 99271-9968
+    Nome: ANA KAROLINA SANTANA VIEIRA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 495
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 495.22
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (27) 99996-0602
+    Ddd: 27
+    Número: 999960602
+    Tipo: 3
+    Data Inclusao: 10/07/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

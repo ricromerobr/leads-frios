@@ -1,0 +1,377 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  45242002824
+Data/Hora:  03/10/2026, 19:17:16
+Tempo API:  771ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 452.420.028-24
+Nome: JOALESSON SETORIO DOS SANTOS
+Primeiro Nome: JOALESSON
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 29/11/1995
+Nome da Mãe: ADRIANA MARIA DOS SANTOS
+Nome do Pai: JOSEVALDO DOS SANTOS
+RG: 560462888
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Ocupação: Embalador, a mão
+Score:
+  Value: 235
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 1439
+Income Bracket: 2
+Cbo: 784105
+Endereço:
+  Tipo: RUA
+  Rua: LUIZ BRUNHARA
+  Número: 205
+  Bairro: ALT BOA VISTA
+  Cidade: MORRO AGUDO
+  Estado: SAO PAULO
+  CEP: 14640-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LUIZ BRUNHARA
+    Número: 205
+    Bairro: ALT BOA VISTA
+    Cidade: MORRO AGUDO
+    Estado: SAO PAULO
+    CEP: 14640-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CABURE
+    Número: S/N
+    Bairro: ZONA RURAL
+    Cidade: MORRO AGUDO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO DILLI
+    Tipo: R
+    Número: 506
+    Bairro: ZONA RURAL
+    Cidade: MORRO AGUDO
+    Estado: SP
+    CEP: 14640-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CABURE
+    Tipo: FAZ
+    Número: 1
+    Bairro: RURAL
+    Cidade: MORRO AGUDO
+    Estado: SP
+    CEP: 14640-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (16) 98123-7177
+  - (16) 3851-1851
+  - (16) 99241-1829
+  - (16) 99306-0749
+  - (16) 99423-8620
+  - (16) 3851-8125
+  - (16) 3851-8144
+  - (16) 99138-7722
+Datasus Phones: (1 item(s))
+  - (16) 99303-5679
+Cidade de Nascimento: CORURIPE - AL
+Cns: 706904153386036
+Rg Issue Date: 1326942000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/09/2019
+    Mosaic New: D14
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO DILLI
+      Número: 506
+      Bairro: ZONA RURAL
+      Cidade: MORRO AGUDO
+      Estado: SP
+      CEP: 14640-000
+      Date Added: 09/09/2015
+    [2]
+      Tipo: R
+      Rua: LUIZ BRUNHARA
+      Número: 205
+      Bairro: ALT BOA VISTA
+      Cidade: MORRO AGUDO
+      Estado: SP
+      CEP: 14640-000
+      Date Added: 05/09/2018
+    [3]
+      Tipo: R
+      Rua: ANTONIO ZILLI
+      Número: 506
+      Bairro: CENTRO
+      Cidade: MORRO AGUDO
+      Estado: SP
+      CEP: 14640-000
+      Date Added: 23/04/2015
+    [4]
+      Rua: LUIZ BUNHAA
+      Número: 205
+      Complemento: C
+      Bairro: AT DA BOA VISTA
+      Cidade: MORRO AGUDO
+      Estado: SP
+      CEP: 14640-000
+      Date Added: 30/07/2018
+    [5]
+      Tipo: FAZ
+      Rua: CABURE
+      Número: 1
+      Bairro: RURAL
+      Cidade: MORRO AGUDO
+      Estado: SP
+      CEP: 14640-000
+      Date Added: 07/10/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 38518125
+      Ddd: 16
+      Tipo: 1
+      Classificacao: D
+      Date Added: 14/04/2015
+    [2]
+      Telefone: 38518144
+      Ddd: 16
+      Tipo: 1
+      Classificacao: D
+      Date Added: 14/04/2015
+    [3]
+      Telefone: 981237177
+      Ddd: 16
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+    [4]
+      Telefone: 991387722
+      Ddd: 16
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: joalesson_setorio@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+    [2]
+      E-mail: amanda.tais98@outlook.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+  Score:
+    CSB8: 223
+    CSB8 FAIXA: ALTO
+    CSBA: 235
+    CSBA FAIXA: ALTO
+  Pis: 20328022270
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 411.32
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (2 item(s))
+  - joalesson_setorio@hotmail.com
+  - amanda.tais98@outlook.com
+E-mail: joalesson_setorio@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.091.098-28
+    Nome: EVA FERREIRA DUARTE DE SOUZA
+    Logradouro: PERU
+    Número: 264
+    Bairro: CENTRO
+  [2]
+    CPF: 051.218.738-08
+    Nome: CLEUSA ROCHA DA SILVA
+    Logradouro: NOVE DE JULHO
+    Número: 62
+    Bairro: CENTRO
+  [3]
+    CPF: 281.063.218-94
+    Nome: LUIS FERNANDO CAMARGO
+    Logradouro: MEXICO
+    Número: 827
+  [4]
+    CPF: 052.428.118-11
+    Nome: CAETANO NUNES DA COSTA
+    Logradouro: SEIS DE JANEIRO
+    Número: 1060
+  [5]
+    CPF: 422.763.678-73
+    Nome: JAINI CRISTINA TEIXEIRA BRAGA
+    Logradouro: INACIO PINTO FERRAZ
+    Número: 259
+    Bairro: SOBRADO
+  [6]
+    CPF: 398.197.748-37
+    Nome: AUGUSTO CESAR SABINO COSTA
+    Logradouro: SETE DE SETEMBRO
+    Número: 2025
+    Bairro: CENTRO
+  [7]
+    CPF: 433.890.528-01
+    Nome: GABRIELA DOS SANTOS RODRIGUES
+    Logradouro: JOVERT BUCK
+    Número: 373
+    Bairro: CENTRO
+  [8]
+    CPF: 433.890.528-01
+    Nome: GABRIELA DOS SANTOS RODRIGUES
+    Logradouro: JOSE JORGE JUNQUEIRA
+    Número: 1011
+    Bairro: CENTRO
+  [9]
+    CPF: 438.108.818-21
+    Nome: DIEGO RAFAEL RIBEIRO LOPES
+    Logradouro: JOSE NOBRE
+    Número: 144
+    Bairro: CENTRO
+  [10]
+    CPF: 439.908.898-26
+    Nome: ELIZABETE MURGI
+    Logradouro: DOSMAR FIGUEIREDO JUNIOR
+    Número: 296
+    Bairro: JD EUROPA
+  [11]
+    CPF: 052.916.948-74
+    Nome: ADILSON MARCOS F DIONIZIO
+    Logradouro: MARIA LIPORINE MEIRELES
+    Número: 1090
+    Bairro: CENTRO
+  [12]
+    CPF: 048.202.278-74
+    Nome: FATIMA EVA FELIX DA SILVA
+    Logradouro: GENESIO JOSE RIBEIRO
+    Número: 247
+  [13]
+    CPF: 048.012.023-49
+    Nome: RAIMUNDO PEREIRA DO NASCIMENTO
+    Logradouro: JERONIMO
+    Número: 1
+    Bairro: ZONA RURAL
+  [14]
+    CPF: 047.907.708-85
+    Nome: RAIMUNDO DE MIRANDA
+    Logradouro: FRANCISCO DENIBOTI
+    Número: 56
+  [15]
+    CPF: 047.907.888-22
+    Nome: SUELI PEREIRA
+    Logradouro: JORGE TOMAZELLI
+    Número: 372
+Telefones Operadoras: (5 item(s))
+  [1]
+    Telefone: (16) 98123-7177
+    Nome: JOALESSON SETORIO DOS SANTOS
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (16) 3851-1851
+    Nome: JOALESSON SETORIO DOS SANTOS
+    Cidade: MORRO AGUDO
+    UF: SP
+    Operadora: ALGAR TELECOM
+    Fonte: algar
+  [3]
+    Telefone: (16) 99241-1829
+    Nome: JOALESSON SETORIO DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (16) 99306-0749
+    Nome: JOALESSON SETORIO DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [5]
+    Telefone: (16) 99423-8620
+    Nome: JOALESSON SETORIO DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - joalesson_setorio@hotmail.com
+  - amanda.tais98@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1439
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 411.32
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (16) 3851-8125
+    Ddd: 16
+    Número: 38518125
+    Tipo: FIXO
+    Data Inclusao: 14/04/2015
+    Classificacao: D
+  [2]
+    Telefone: (16) 3851-8144
+    Ddd: 16
+    Número: 38518144
+    Tipo: FIXO
+    Data Inclusao: 14/04/2015
+    Classificacao: D
+  [3]
+    Telefone: (16) 98123-7177
+    Ddd: 16
+    Número: 981237177
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+  [4]
+    Telefone: (16) 99138-7722
+    Ddd: 16
+    Número: 991387722
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+Occupation Code: 784105
+Occupation Name: Embalador, a mão
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

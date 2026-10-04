@@ -1,0 +1,496 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02549440781
+Data/Hora:  03/10/2026, 16:55:57
+Tempo API:  445ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 025.494.407-81
+Nome: CARIN ALVES DEMARIA MANES
+Primeiro Nome: CARIN
+Sobrenome: MANES
+Sexo: Feminino
+Data de Nascimento: 15/06/1974
+Nome da Mãe: VALDIVIA ALVES
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 089938590337
+Mosaic: B05
+Ocupação: Assistente administrativo
+Score:
+  Value: 661
+  Range: BAIXO
+E-mail: carindemaria@ig.com.br
+Additional Emails: (3 item(s))
+  - carindemaria@ig.com.br
+  - carinmanes@uol.com.br
+  - felipemanes@uol.com.br
+Federal Status: REGULAR
+Renda: 3752
+Income Bracket: 4
+Cbo: 411010
+Endereço:
+  Tipo: RUA
+  Rua: ALMIRANTE CALHEIROS DA GRACA
+  Complemento: AP 202CD ALFERES TIRADENTES
+  Bairro: TODOS OS SANTOS
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 20735-190
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ALMIRANTE CALHEIROS DA GRACA
+    Complemento: AP 202CD ALFERES TIRADENTES
+    Bairro: TODOS OS SANTOS
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 20735-190
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R CONSELHEIRO BARROS
+    Número: 29
+    Bairro: RIO COMPRIDO
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: RUA CONSELHEIRO BARROS
+    Número: 29
+    Complemento: 207 BL 01
+    Bairro: RIO COMPRIDO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20261-070
+    Fonte: SARAIVA
+  [4]
+    Rua: RAMOS
+    Tipo: R
+    Número: 29
+    Bairro: JD BOTANICO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22461-090
+    Data Atualizacao: 25/11/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CANECA
+    Tipo: R
+    Número: 156
+    Complemento: AP 409
+    Bairro: CENTRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20211-040
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: CALHEIROS DA GRACA
+    Tipo: R
+    Número: 21
+    Complemento: AP 202
+    Bairro: TODOS OS SANTOS
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20735-190
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: CORREA DUTRA
+    Tipo: R
+    Número: 59
+    Complemento: AP 306
+    Bairro: FLAMENGO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22210-050
+    Data Atualizacao: 05/11/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: ALMIRANTE CALHEIROS DA GRACA
+    Número: 0000021
+    Bairro: TODOS OS SANTOS
+    Cidade: 20735190
+    Estado: RJ
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: CONSELHEIRO BARROS
+    Número: 0000029
+    Bairro: RIO COMPRIDO
+    Cidade: 20261070
+    Estado: RJ
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (21) 98695-4114
+  - (21) 96979-7124
+  - (21) 98871-0441
+  - (11) 98871-0441
+  - +55 (21) 98871-0441
+  - (21) 2255-8982
+  - (21) 3215-0441
+  - (21) 2556-0441
+  - (21) 2587-9973
+Cidade de Nascimento: INVALIDO
+Cns: 706400647458586
+Saraiva:
+  Customer Id: 6697122
+  E-mail: CARINMANES@UOL.COM.BR
+  Data de Nascimento: 15/06/1974
+Paycom:
+  E-mail: carinmanes@uol.com.br
+  Created At: 2017-05-21 19:43:44
+Endereços de Entrega: (2 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Almirante Calheiros da Graça
+    Número: 21
+    Complemento: 202
+    Bairro: Todos os Santos
+    Cidade: Rio de Janeiro
+    Estado: RJ
+    País: BR
+    CEP: 20735-190
+    Telephone: (21) 98871-0441
+  [2]
+    Tipo: 2
+    Rua: R Alípio da C e Silva
+    Número: 70
+    Complemento: 201
+    Bairro: Jardim Camburi
+    Cidade: Vitória
+    Estado: ES
+    País: BRA
+    CEP: 29090-020
+    Telephone: +55 (21) 98871-0441
+Serasa Completo:
+  Dados Cadastrais:
+    Nacionalidade: 50
+    Status Date: 28/08/2019
+    Info Date: 21/12/2008
+    Mosaic: B05
+    Mosaic New: C06
+    Mosaic Secondary: A02
+    Income Bracket Id: 6
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: RAMOS
+      Número: 29
+      Bairro: JD BOTANICO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22461-090
+      Date Added: 06/06/2013
+    [2]
+      Tipo: R
+      Rua: CANECA
+      Número: 156
+      Complemento: AP 409
+      Bairro: CENTRO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20211-040
+      Date Added: 25/11/2015
+    [3]
+      Tipo: R
+      Rua: BARROS
+      Número: 29
+      Complemento: B 1 207
+      Bairro: RIO COMPRIDO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20261-070
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: CALHEIROS DA GRACA
+      Número: 21
+      Complemento: AP 202
+      Bairro: TODOS OS SANTOS
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20735-190
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: CORREA DUTRA
+      Número: 59
+      Complemento: AP 306
+      Bairro: FLAMENGO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22210-050
+      Date Added: 11/10/2006
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 22558982
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 32150441
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 02/03/2009
+    [3]
+      Telefone: 25560441
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 19/09/2008
+    [4]
+      Telefone: 25879973
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 25/11/2015
+      Info Date: 31/10/2015
+    [5]
+      Telefone: 988710441
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+      Info Date: 04/09/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: carinmanes@uol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: carindemaria@ig.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [3]
+      E-mail: felipemanes@uol.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 661
+    CSBA FAIXA: BAIXO
+  Parentes: (2 item(s))
+    [1]
+      Nome: VALDIVIA ALVES
+      Vinculo: MAE
+    [2]
+      CPF: 441.947.739-34
+      Nome: IVO NEY RODRIGUES DEMARIA
+      Vinculo: PAI
+  Pis: 12519260248
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3427.17
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 043.009.837-55
+    Nome: ANNA CHRISTIANA VAREJAO MARINHO
+    Logradouro: RAMOS
+    Número: 85
+    Bairro: JD BOTANICO
+  [2]
+    CPF: 076.111.021-68
+    Nome: CARMEM LUCIA QUEIROZ REIS GOMES
+    Logradouro: RAMOS
+    Número: 3
+    Bairro: JD BOTANICO
+  [3]
+    CPF: 021.950.057-69
+    Nome: PATRICIA JANNUZZI
+    Logradouro: RAMOS
+    Número: 78
+    Bairro: JD BOTANICO
+  [4]
+    CPF: 111.203.847-70
+    Nome: BETINA LIMA PAULON
+    Logradouro: RAMOS
+    Número: 94
+    Bairro: JD BOTANICO
+  [5]
+    CPF: 004.180.017-66
+    Nome: ANA CRISTINA LUTZ BARBOSA
+    Logradouro: RAMOS
+    Número: 26
+    Bairro: JD BOTANICO
+  [6]
+    CPF: 091.552.377-97
+    Nome: ANA BEATRIZ ARANHA MONNERAT
+    Logradouro: RAMOS
+    Número: 85
+    Bairro: JD BOTANICO
+  [7]
+    CPF: 258.827.247-91
+    Nome: GERALDO FIUZA DE ALMEIDA
+    Logradouro: RAMOS
+    Número: 78
+    Bairro: JD BOTANICO
+  [8]
+    CPF: 000.325.487-96
+    Nome: MARILIA BRITTO DA ROCHA ACKER
+    Logradouro: RAMOS
+    Número: 112
+    Bairro: JD BOTANICO
+  [9]
+    CPF: 406.179.637-20
+    Nome: MARILKA CORREA DA COSTA LANNES AZEDO
+    Logradouro: RAMOS
+    Número: 107
+    Bairro: JD BOTANICO
+  [10]
+    CPF: 011.832.867-08
+    Nome: PAULA BARROS DE FARIA SANTOS QUINTELLA
+    Logradouro: RAMOS
+    Número: 3
+    Bairro: JD BOTANICO
+  [11]
+    CPF: 310.264.517-87
+    Nome: ANGELA MARIANI BITTENCOURT
+    Logradouro: RAMOS
+    Número: 107
+    Bairro: JD BOTANICO
+  [12]
+    CPF: 024.920.567-08
+    Nome: LUCIANA MAGALHAES DA SILVEIRA
+    Logradouro: RAMOS
+    Número: 107
+    Bairro: JD BOTANICO
+  [13]
+    CPF: 972.055.403-72
+    Nome: CLEONICE DAIANA DE LEMOS RODRIGUES
+    Logradouro: RAMOS
+    Número: 65
+    Bairro: JD BOTANICO
+  [14]
+    CPF: 401.026.377-68
+    Nome: MARIA JOSE DE BRITO SANTOS
+    Logradouro: RAMOS
+    Número: 26
+    Bairro: JD BOTANICO
+  [15]
+    CPF: 121.580.527-67
+    Nome: ELIANE SANTANA DIAS
+    Logradouro: RAMOS
+    Número: 666
+    Bairro: JD BOTANICO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (21) 96979-7124
+    Nome: CARIN ALVES DEMARIA MANES
+    Cidade: 20735190
+    UF: RJ
+  [2]
+    Telefone: (21) 98871-0441
+    Nome: CARIN ALVES DEMARIA MANES
+    Cidade: 20261070
+    UF: RJ
+E-mails: (3 item(s))
+  - carindemaria@ig.com.br
+  - carinmanes@uol.com.br
+  - felipemanes@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3752
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3427.17
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 2255-8982
+    Ddd: 21
+    Número: 22558982
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (21) 3215-0441
+    Ddd: 21
+    Número: 32150441
+    Tipo: FIXO
+    Data Inclusao: 02/03/2009
+    Classificacao: B
+  [3]
+    Telefone: (21) 2556-0441
+    Ddd: 21
+    Número: 25560441
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 19/09/2008
+    Classificacao: D
+  [4]
+    Telefone: (21) 2587-9973
+    Ddd: 21
+    Número: 25879973
+    Tipo: FIXO
+    Data Inclusao: 25/11/2015
+    Data Informacao: 31/10/2015
+    Classificacao: D
+  [5]
+    Telefone: (21) 98871-0441
+    Ddd: 21
+    Número: 988710441
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Data Informacao: 04/09/2018
+    Classificacao: A0
+Foto: 📸 ENVIADA SEPARADAMENTE NO TELEGRAM
+Foto Source: FOTO_RJ.db
+Fotos Disponiveis: (1 item(s))
+  [1]
+    Tipo: governamental
+    Url: /9j/4AAQSkZJRgABAAEBkAGQAAD//gAcQ3JlYXRlZCBieSBBY2N1U29mdCBDb3JwLgD/wAARCAJVAbgDASEAAhEBAxEB/9sAhAANCQoMCggNDAsMDw4NEBQhFRQSEhQoHR4YIS8qMjEuKi4tNDpLPzQ3RzgtLkFYQkdNT1RUVDI/XGJbUWFLUlRQAQ4PDxQRFCYVFSZQNi42NlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFD/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APR6WgAooAKKACigAooAKKACigAooAKKAAUUAFFABSUALRQAUUAFFABRQAtFABRQAlOoASloASigBaKAG0tABS0AJRQAUUALSUAFFADaWgAooAKKACigAooAKKACigAooAKKAAUUAFFABSUALRQAUUAFFABRQAtFABRQAlOoASloASigBaKAG0tABS0AJRQAUUALSUAFFADaKACigApaACigAooAKKACigAooAKKACigAooAKSgBaSgBaKACigAooAKKACigApaAEpaAEooAWigApKACloASigAooAWkoAKKAEooAKKAFooAKKACigAooAKKACigAooAKSgBaSgBaSgAooAWigAooAKKACigAooAKWgBKKAFooASigApaACigBKKACloAKSgAooAKSgBaKACigAooAKKACigAooAKKACigBKWgApKACjtQAlOoAKKACigAooAWkoAWkoAKKACigBaKACigApKACloAKSgBaKACkoAKKAEpaACigAooAKKACigAooAKKACigAooASloAbSigBaTNAEfQ0oNAD6WgAooAKKACigBaKAEooAWigAooAKKAEooAWigApKACigBaSgAooAKKACigAooAWkoAKKACigAooAKKACigAooAa3SkXpQAvao88UAO4NJvoAXPel3UALnik3igB1OoASigBaSgApaACkoAWigAooAKKACnUAMpaACigBKWgAooASigAooAKKAFooAMUlABRQAUUAFFABRQAneigBhPHWovOH40AIZuP4U/Gqkl7Gn3nx+NAFaXW7aFeZPzrGn8ZWwY7OooApP43UdqavjnGBsYr/tUAWk8Tvcn90qp/wOtK01PzJPvtKc+tAHR28olTOaeKAJKWgBKWgAooAKSgBaSgBaKACkoAWigAooASloASloAKKACigBKKAFooAMUUAFLQA2loASigAooAKKAI2bAqLze27BoAo3Oq29v3yfXPFczfeJYQx2SEn/pn/jSAx7jxLOx4yPqeayZ9YmJ4lYfQ0DMyW8aQfM2agLUAMzxUiE0CLKSHPHBrYtNUcODn5qQHX6ZrP+3z9K6iK5WZNwNMCdHyO9S0wCloASloAKKAEooAWigAooAKO9ADqbQAUUAFJQAUUAFLQAUtABSUAOpKACkoASloASigAooASoy3Yc0AVZp1hUtI30ArjNb8Tj/VwfN70AcpeancXbfvZMgdqpNPxUlFR5/f8qrmSmIXdxThz0piJE6e1PZcUgFTNTLJtNICzDdyo2UbH0rZsPEd1B/y0NMDqdP8VRSY81gma6G11CKVflcEUwLu7pUlABRQAlLQAUUAOptABRQA6m0AOptADqbQA6m0AFFABRQAUlAC0UALS0AFJQAlJQAUUAFFAERqlf30NhbmWd9i/wA6APN9c8RTai+0fu4f7g71zksuakZWaX0qH5jTEM602mBIpFTKAaAJkTLcdakFIB+PlLDtURX5aADlG+lOz81AE8bFe5rX0vVrizbgjH900Adpo2vx3WEYhXrp43DDrQBL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
+    Origem: FOTO_RJ.db
+    Resolucao: padrao
+Occupation Code: 411010
+Occupation Name: Assistente administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

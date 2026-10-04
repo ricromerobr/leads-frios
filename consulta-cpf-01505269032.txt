@@ -1,0 +1,272 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01505269032
+Data/Hora:  03/10/2026, 21:37:49
+Tempo API:  363ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 015.052.690-32
+Nome: JAQUELINE GUIMARAES DIAS NUNES
+Primeiro Nome: JAQUELINE
+Sobrenome: NUNES
+Sexo: Feminino
+Data de Nascimento: 15/04/1976
+Nome da Mãe: VILMA BASTOS GUIMARAES
+Nome do Pai: MOISES NEVES DIAS
+RG: 1074437029
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RS
+Voter Id: 092582030469
+Ocupação: Faxineiro
+Score:
+  Value: 879
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 444
+Income Bracket: 1
+Cbo: 514320
+Endereço:
+  Tipo: RUA
+  Rua: DO JATOBA
+  Número: 648
+  Bairro: SAO DIMAS
+  Cidade: COLOMBO
+  Estado: PARANA
+  CEP: 83411-740
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DO JATOBA
+    Número: 648
+    Bairro: SAO DIMAS
+    Cidade: COLOMBO
+    Estado: PARANA
+    CEP: 83411-740
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DO JATOBA
+    Número: 648
+    Bairro: SAO DIMAS
+    Cidade: COLOMBO - PR
+    Fonte: DATASUS
+  [3]
+    Rua: LOBO DA COSTA
+    Tipo: R
+    Número: 1315
+    Complemento: BANCO DO BRASIL
+    Bairro: CENTRO
+    Cidade: PELOTAS
+    Estado: RS
+    CEP: 96010-150
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: DO JATOBA
+    Número: 0000648
+    Bairro: SAO DIMAS
+    Cidade: COLOMBO
+    Estado: PR
+    CEP: 83411-740
+    Fonte: ASSECC
+  [5]
+    Tipo: [empty]
+    Rua: [empty]
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: PR
+    CEP: 00000-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (41) 99808-2680
+  - (41) 98440-8317
+  - (41) 99803-8251
+  - (41) 98785-0762
+Datasus Phones: (1 item(s))
+  - (41) 99710-8790
+Cidade de Nascimento: PELOTAS - RS
+Cns: 708303711157960
+Rg Issue Date: 801457200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/10/2019
+    Mosaic New: H25
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: LOBO DA COSTA
+      Número: 1315
+      Complemento: BANCO DO BRASIL
+      Bairro: CENTRO
+      Cidade: PELOTAS
+      Estado: RS
+      CEP: 96010-150
+      Date Added: 22/03/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998038251
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D1
+      Date Added: 21/03/2019
+  Score:
+    CSBA: 879
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: VILMA BASTOS GUIMARAES
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 444.68
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 336.897.680-04
+    Nome: JOSE VALDIR BUENO FERREIRA
+    Logradouro: LOBO DA COSTA
+    Número: 1453
+    Bairro: CENTRO
+  [2]
+    CPF: 393.759.190-72
+    Nome: ANTONIA MARLENE OLIVEIRA FURTADO
+    Logradouro: LOBO DA COSTA
+    Número: 1334
+    Bairro: CENTRO
+  [3]
+    CPF: 022.355.010-87
+    Nome: ARY DA SILVA
+    Logradouro: LOBO DA COSTA
+    Número: 790
+    Bairro: CENTRO
+  [4]
+    CPF: 620.830.820-87
+    Nome: MARGARET CAETANO
+    Logradouro: LOBO DA COSTA
+    Número: 1435
+    Bairro: CENTRO
+  [5]
+    CPF: 363.217.370-20
+    Nome: MARIA HELENA LOPES MARQUES
+    Logradouro: LOBO DA COSTA
+    Número: 220
+    Bairro: CENTRO
+  [6]
+    CPF: 022.142.370-20
+    Nome: JOSE GIANI
+    Logradouro: LOBO DA COSTA
+    Número: 684
+    Bairro: CENTRO
+  [7]
+    CPF: 021.563.260-53
+    Nome: CLEMENTINA ONDINA CACERES RECUERO
+    Logradouro: LOBO DA COSTA
+    Número: 1573
+    Bairro: CENTRO
+  [8]
+    CPF: 005.328.940-49
+    Nome: ROSINA CORREA DA SILVA
+    Logradouro: LOBO DA COSTA
+    Número: 1479
+    Bairro: CENTRO
+  [9]
+    CPF: 480.745.940-68
+    Nome: JORGE LUIZ ERBEN CONCEICAO
+    Logradouro: LOBO DA COSTA
+    Número: 1351
+    Bairro: CENTRO
+  [10]
+    CPF: 196.049.630-15
+    Nome: JACIRA BANDEIRA BERNAUD NEVES
+    Logradouro: LOBO DA COSTA
+    Número: 1366
+    Bairro: CENTRO
+  [11]
+    CPF: 190.650.430-04
+    Nome: JOAO JOSE GARCIA
+    Logradouro: LOBO DA COSTA
+    Número: 228
+    Bairro: CENTRO
+  [12]
+    CPF: 191.092.450-49
+    Nome: JOSE ANALIO SILVEIRA DE MEDEIROS
+    Logradouro: LOBO DA COSTA
+    Número: 330
+    Bairro: CENTRO
+  [13]
+    CPF: 420.151.200-25
+    Nome: ELOCY CABREIRA VEGA
+    Logradouro: LOBO DA COSTA
+    Número: 263
+    Bairro: CENTRO
+  [14]
+    CPF: 412.432.420-00
+    Nome: MARCIA TERESINHA DE OLIVEIRA CARVALHAL
+    Logradouro: LOBO DA COSTA
+    Número: 2347
+    Bairro: CENTRO
+  [15]
+    CPF: 956.438.939-91
+    Nome: MARA GODOY PORTO
+    Logradouro: LOBO DA COSTA
+    Número: 233
+    Bairro: CENTRO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (41) 99808-2680
+    Nome: JAQUELINE GUIMARAES DIAS NUNES
+    Cidade: COLOMBO
+    UF: PR
+  [2]
+    Telefone: (41) 99803-8251
+    Nome: JAQUELINE GUIMARAES DIAS NUNES
+    Cidade: [empty]
+    UF: PR
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (41) 98785-0762
+    Nome: JAQUELINE GUIMARAES DIAS NUNES
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 444
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 444.68
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (41) 99803-8251
+    Ddd: 41
+    Número: 998038251
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: D1
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

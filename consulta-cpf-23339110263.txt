@@ -1,0 +1,413 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  23339110263
+Data/Hora:  02/10/2026, 15:42:45
+Tempo API:  8260ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 233.391.102-63
+Nome: NAIR RODRIGUES DE SOUZA
+Primeiro Nome: NAIR
+Sobrenome: SOUZA
+Sexo: Feminino
+Data de Nascimento: 23/01/1968
+Nome da Mãe: TEREZA RODRIGUES
+Nome do Pai: SEM INFORMAÇÃO
+RG: 178041
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: AC
+Mosaic: J39
+Ocupação: Professor de ciências exatas e naturais do ensino fundamental
+Score:
+  Value: 442
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 3359
+Income Bracket: 4
+Cbo: 231210
+Endereço:
+  Tipo: RUA
+  Rua: ESPIRITO SANTO
+  Bairro: CRUZEIRAO
+  Cidade: CRUZEIRO DO SUL
+  Estado: ACRE
+  CEP: 69980-000
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ESPIRITO SANTO
+    Bairro: CRUZEIRAO
+    Cidade: CRUZEIRO DO SUL
+    Estado: ACRE
+    CEP: 69980-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ESPIRITO SANTO
+    Número: 791
+    Bairro: CRUZEIRAO
+    Cidade: CRUZEIRO DO SUL - AC
+    Fonte: DATASUS
+  [3]
+    Rua: ESPIRITO SANTO
+    Tipo: R
+    Número: 791
+    Complemento: C
+    Bairro: CRUZEIRAO
+    Cidade: CRUZEIRO DO SUL
+    Estado: AC
+    CEP: 69980-000
+    Data Atualizacao: 11/07/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: RMURU C
+    Número: 400
+    Bairro: JOAO ALVES
+    Cidade: CRUZEIRO DO SUL
+    Estado: AC
+    CEP: 69980-000
+    Data Atualizacao: 15/04/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: SIQUEIRA CAMPOS
+    Tipo: R
+    Número: 732
+    Complemento: 36
+    Bairro: CZS DO SUL
+    Cidade: CRUZEIRO DO SUL
+    Estado: AC
+    CEP: 69980-000
+    Data Atualizacao: 12/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: NEWTON PRADO
+    Tipo: R
+    Número: 1198
+    Bairro: JOAO ALVES
+    Cidade: CRUZEIRO DO SUL
+    Estado: AC
+    CEP: 69980-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: GRAVATAI
+    Número: 0000005
+    Bairro: CIDADE NOVA
+    Cidade: MANAUS
+    Estado: AM
+    CEP: 69095-501
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: ESPIRITO SANTO
+    Número: 0000791
+    Bairro: CRUZEIRAO
+    Cidade: CRUZEIRO DO SUL
+    Estado: AC
+    CEP: 69980-000
+    Fonte: ASSECC
+  [9]
+    Rua: R ESPIRITO SANTO
+    Número: 791
+    Bairro: CRUZEIRAO
+    Estado: AC
+    CEP: 69980-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (68) 99241-3311
+  - (68) 99976-0640
+  - (92) 98809-4975
+  - (68) 99972-1544
+  - (68) 99911-2006
+  - (92) 99472-4223
+  - (68) 99973-7459
+  - (68) 99973-7168
+  - (68) 99977-8294
+  - (68) 99990-4102
+Datasus Phones: (1 item(s))
+  - (68) 9972-1544
+Cidade de Nascimento: CRUZEIRO DO SUL - AC
+Cns: 704601169275429
+Rg Issue Date: 523249200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Info Date: 21/12/2008
+    Mosaic: J39
+    Mosaic New: K40
+    Mosaic Secondary: K38
+    Income Bracket Id: 3
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ESPIRITO SANTO
+      Número: 791
+      Complemento: C
+      Bairro: CRUZEIRAO
+      Cidade: CRUZEIRO DO SUL
+      Estado: AC
+      CEP: 69980-000
+      Date Added: 24/04/2013
+    [2]
+      Rua: RMURU C
+      Número: 400
+      Bairro: JOAO ALVES
+      Cidade: CRUZEIRO DO SUL
+      Estado: AC
+      CEP: 69980-000
+      Date Added: 03/12/2007
+    [3]
+      Tipo: R
+      Rua: SIQUEIRA CAMPOS
+      Número: 732
+      Complemento: 36
+      Bairro: CZS DO SUL
+      Cidade: CRUZEIRO DO SUL
+      Estado: AC
+      CEP: 69980-000
+      Date Added: 18/06/2019
+    [4]
+      Tipo: R
+      Rua: NEWTON PRADO
+      Número: 1198
+      Bairro: JOAO ALVES
+      Cidade: CRUZEIRO DO SUL
+      Estado: AC
+      CEP: 69980-000
+      Date Added: 03/08/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999737459
+      Ddd: 68
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 999737168
+      Ddd: 68
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 999721544
+      Ddd: 68
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [4]
+      Telefone: 999778294
+      Ddd: 68
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 999904102
+      Ddd: 68
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  Score:
+    CSB8: 615
+    CSB8 FAIXA: BAIXO
+    CSBA: 442
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: TEREZA RODRIGUES
+      Vinculo: MAE
+  Pis: 17052652909
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1813.03
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 340.178.522-20
+    Nome: OSMILDO NASCIMENTO DE OLIVEIRA
+    Logradouro: LOC SERINGAL MIRITIZAL
+    Número: SN
+    Bairro: RURAL
+  [2]
+    CPF: 322.247.292-00
+    Nome: ANTONIO CONCEICAO DA SILVA
+    Logradouro: BR
+    Número: 364
+    Bairro: VL LAGOINHA
+  [3]
+    CPF: 051.792.137-54
+    Nome: DIOGO DE ALBUQUERQUE XAVIER
+    Logradouro: MINAS GERAIS
+    Número: 350
+    Bairro: ALUMINIO
+  [4]
+    CPF: 217.566.512-72
+    Nome: IVANETE NERY DA SILVA ALVES
+    Logradouro: BENJAMIN CONSTANT
+    Número: 460
+    Bairro: COLEGIO
+  [5]
+    CPF: 051.469.502-10
+    Nome: JOSE GERSON PINHEIRO DA CRUZ
+    Logradouro: GETULIO VARGAS
+    Número: 1272
+    Bairro: COBAL
+  [6]
+    CPF: 051.453.332-34
+    Nome: SOFIA PEREIRA DOS SANTOS
+    Logradouro: COPACABANA C
+    Número: 707
+    Bairro: COPACABANA
+  [7]
+    CPF: 051.455.542-49
+    Nome: RAIMUNDO CANDIDO DA SILVA
+    Logradouro: BENJAMIN CONSTANT
+    Número: 1857
+    Bairro: REMANSO
+  [8]
+    CPF: 051.455.702-87
+    Nome: FRANCISCO BEZERRA DA COSTA
+    Logradouro: RAIMUNDO LUIZ DE SOUZA
+    Número: 170
+    Bairro: COHAB
+  [9]
+    CPF: 051.456.942-53
+    Nome: JOSE MARIA LIMA DE MOURA
+    Logradouro: BENJAMIN CONSTANT
+    Número: 198
+  [10]
+    CPF: 051.457.672-34
+    Nome: PEDRO FRANCISCO COELHO
+    Logradouro: TAVORA
+    Número: 1110
+    Bairro: VARZEA
+  [11]
+    CPF: 955.629.582-87
+    Nome: MARIA APARECIDA ALVES VALENTE
+    Logradouro: CAXINAUA
+    Número: 991
+    Bairro: SABOEIRO
+  [12]
+    CPF: 004.605.492-86
+    Nome: ARIELE SILVA DE MENEZES
+    Logradouro: DEZ
+    Número: 63
+    Bairro: PARAISO
+  [13]
+    CPF: 001.491.832-32
+    Nome: FRANCISCO DOS REIS
+    Logradouro: RML CAROBAS
+    Número: 6502
+    Bairro: INDEFINIDO
+  [14]
+    CPF: 012.178.342-14
+    Nome: VALQUILENE DIAS DA SILVA
+    Logradouro: LAURO MULLER
+    Número: 1872
+    Bairro: AABB
+  [15]
+    CPF: 018.934.362-17
+    Nome: ENISSON SILVA PIRES
+    Logradouro: BUGI
+    Número: 57
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (92) 98809-4975
+    Nome: NAIR RODRIGUES DE SOUZA
+    Cidade: MANAUS
+    UF: AM
+  [2]
+    Telefone: (68) 99972-1544
+    Nome: NAIR RODRIGUES DE SOUZA
+    Cidade: CRUZEIRO DO SUL
+    UF: AC
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (68) 99911-2006
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 25JAN2018
+    Ultima Recarga: 05AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 25/01/2018
+  [2]
+    Telefone: (92) 99472-4223
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 16JUN2020
+    Ultima Recarga: 03AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 21/05/2020
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3359
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1813.03
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (68) 99973-7459
+    Ddd: 68
+    Número: 999737459
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (68) 99973-7168
+    Ddd: 68
+    Número: 999737168
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (68) 99972-1544
+    Ddd: 68
+    Número: 999721544
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (68) 99977-8294
+    Ddd: 68
+    Número: 999778294
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (68) 99990-4102
+    Ddd: 68
+    Número: 999904102
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 231305
+Occupation Name: Professor de ciências exatas e naturais do ensino fundamental
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

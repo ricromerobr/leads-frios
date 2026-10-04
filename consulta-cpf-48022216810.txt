@@ -1,0 +1,343 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  48022216810
+Data/Hora:  03/10/2026, 15:01:20
+Tempo API:  535ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 480.222.168-10
+Nome: DENILSON SOUZA LIMA
+Primeiro Nome: DENILSON
+Sobrenome: LIMA
+Sexo: Masculino
+Data de Nascimento: 05/12/1997
+Nome da Mãe: LINDALVA MARIA DE LIMA
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Armazenista
+Score:
+  Value: 562
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 551
+Income Bracket: 1
+Cbo: 414110
+Endereço:
+  Tipo: RUA
+  Rua: SERVIO RODRIGUES CALDAS
+  Bairro: VILA DOM PEDRO II
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 02244-040
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SERVIO RODRIGUES CALDAS
+    Bairro: VILA DOM PEDRO II
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 02244-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SEM INFORMAÇÃO
+    Número: 11
+    Bairro: SEM INFORMAÇÃO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: SERVIO RODRIGUES CALDAS
+    Tipo: R
+    Número: 430
+    Complemento: CS
+    Bairro: VL D PEDRO II
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02244-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: IGATU
+    Tipo: TV
+    Número: 45
+    Bairro: JD IPE
+    Cidade: MAUA
+    Estado: SP
+    CEP: 09390-464
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DA PATRIA
+    Tipo: R
+    Número: 869
+    Bairro: VL MAGINI
+    Cidade: MAUA
+    Estado: SP
+    CEP: 09390-400
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: SERVIO RODRIGUES CALDAS
+    Número: 430
+    Bairro: VILA DOM PEDRO II
+    Estado: SP
+    CEP: 02244-040
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: HONDA
+      Modelo: XRE 300
+      Ano: 2009
+Telefones: (4 item(s))
+  - (11) 94252-4738
+  - (11) 4546-9642
+  - (11) 98556-5387
+  - (11) 4252-4738
+Cidade de Nascimento: INVALIDO
+Cns: 708501076492180
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 24/12/2019
+    Mosaic New: D11
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: SERVIO RODRIGUES CALDAS
+      Número: 430
+      Complemento: CS
+      Bairro: VL D PEDRO II
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02244-040
+      Date Added: 01/02/2018
+    [2]
+      Tipo: TV
+      Rua: IGATU
+      Número: 45
+      Bairro: JD IPE
+      Cidade: MAUA
+      Estado: SP
+      CEP: 09390-464
+      Date Added: 06/04/2018
+    [3]
+      Tipo: R
+      Rua: DA PATRIA
+      Número: 869
+      Bairro: VL MAGINI
+      Cidade: MAUA
+      Estado: SP
+      CEP: 09390-400
+      Date Added: 02/07/2019
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 45469642
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [2]
+      Telefone: 985565387
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [3]
+      Telefone: 942524738
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [4]
+      Telefone: 42524738
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/07/2019
+      Info Date: 25/06/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: denilson_filhodorei@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 562
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 551.7
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - denilson_filhodorei@hotmail.com
+E-mail: denilson_filhodorei@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 011.753.618-01
+    Nome: DEBORA ELIANA FURONES MOURAO
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 410
+    Bairro: VL D PEDRO II
+  [2]
+    CPF: 006.605.528-84
+    Nome: GINALDO GOMES DA SILVA
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 260
+    Bairro: VL D PEDRO II
+  [3]
+    CPF: 426.468.128-68
+    Nome: JOSE MARIA CORREIA MARTINS
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 164
+    Bairro: VL D PEDRO II
+  [4]
+    CPF: 116.734.258-52
+    Nome: RENATO FONSECA SOARES
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 59
+    Bairro: VL D PEDRO II
+  [5]
+    CPF: 072.120.848-75
+    Nome: MARIA HELENA SOARES CORREA
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 517
+    Bairro: VL D PEDRO II
+  [6]
+    CPF: 100.621.878-56
+    Nome: IZABEL ARRUDA DA SILVA
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 108
+    Bairro: VL D PEDRO II
+  [7]
+    CPF: 403.863.698-44
+    Nome: GABRIEL SILVESTRE
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 2
+    Bairro: VL D PEDRO II
+  [8]
+    CPF: 404.754.748-48
+    Nome: LEANDRO ROCHA DA SILVA
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 365
+    Bairro: VL D PEDRO II
+  [9]
+    CPF: 076.245.348-60
+    Nome: PAULO GUILHERME LUDKE
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 511
+    Bairro: VL D PEDRO II
+  [10]
+    CPF: 391.511.018-31
+    Nome: TIAGO COELHO HENRIQUE
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 457
+    Bairro: VL D PEDRO II
+  [11]
+    CPF: 336.380.488-10
+    Nome: PAMELLA EVELLEN KRAMER
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 48
+    Bairro: VL D PEDRO II
+  [12]
+    CPF: 049.733.118-71
+    Nome: JANDYRA DE PAULA
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 229
+    Bairro: VL D PEDRO II
+  [13]
+    CPF: 261.791.338-40
+    Nome: EVA LEAL CENATTI
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 47
+    Bairro: VL D PEDRO II
+  [14]
+    CPF: 874.721.718-91
+    Nome: MARIA DE BARROS UBALDO
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 320
+    Bairro: VL D PEDRO II
+  [15]
+    CPF: 593.071.708-78
+    Nome: MARIA SALETE ROSCANI ALVAREZ
+    Logradouro: SERVIO RODRIGUES CALDAS
+    Número: 164
+    Bairro: VL D PEDRO II
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 94252-4738
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 31AUG2017
+    Ultima Recarga: 21JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 06/03/2017
+E-mails: (1 item(s))
+  - denilson_filhodorei@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 551
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 551.7
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (11) 4546-9642
+    Ddd: 11
+    Número: 45469642
+    Tipo: FIXO
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [2]
+    Telefone: (11) 98556-5387
+    Ddd: 11
+    Número: 985565387
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [3]
+    Telefone: (11) 94252-4738
+    Ddd: 11
+    Número: 942524738
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (11) 4252-4738
+    Ddd: 11
+    Número: 42524738
+    Tipo: FIXO
+    Data Inclusao: 02/07/2019
+    Data Informacao: 25/06/2019
+    Classificacao: D
+Occupation Code: 414110
+Occupation Name: Armazenista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

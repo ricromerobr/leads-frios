@@ -1,0 +1,397 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  71117296091
+Data/Hora:  04/10/2026, 08:18:51
+Tempo API:  756ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 711.172.960-91
+Nome: VERA REJANE DIRONG BOHLKE
+Primeiro Nome: VERA
+Sobrenome: BOHLKE
+Sexo: Feminino
+Data de Nascimento: 09/09/1972
+Nome da Mãe: ELMIRA DIRONG BOHLKE
+RG: 4053113041
+Rg Issuer: SSP
+Rg State: RS
+Voter Id: 282645150124
+Mosaic: D11
+Ocupação: Administrador
+Score:
+  Value: 719
+  Range: BAIXISSIMO RISCO
+E-mail: ts@mandic.com.br
+Additional Emails: (4 item(s))
+  - ts@mandic.com.br
+  - telesound@terra.com.br
+  - telesound@telesound.com.br
+  - verarejane@hotmail.com
+Federal Status: REGULAR
+Renda: 2694
+Income Bracket: 3
+Cbo: 252105
+Corporate Share Pct: 50
+Endereço:
+  Tipo: RUA
+  Rua: TOME PORTES
+  Número: 1083
+  Bairro: BROOKLIN PAULISTA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04623-050
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: TOME PORTES
+    Número: 1083
+    Bairro: BROOKLIN PAULISTA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04623-050
+    Fonte: PRINCIPAL
+  [2]
+    Rua: QNP 28
+    Complemento: CJ V
+    Bairro: CEILANDIA SUL CEILANDIA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72235-800
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: RAIMUNDO CORREA
+    Tipo: R
+    Número: 609
+    Bairro: OPERARIO
+    Cidade: NOVO HAMBURGO
+    Estado: RS
+    CEP: 93315-180
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: DA PRATA
+    Tipo: R
+    Número: 307
+    Bairro: JD PETROPOLIS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04637-041
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: DAMASCO
+    Tipo: R
+    Número: 247
+    Bairro: JD SEMIRAMIS
+    Cidade: COTIA
+    Estado: SP
+    CEP: 06709-340
+    Data Atualizacao: 12/05/2011
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 03/07/2019
+    Info Date: 12/04/2008
+    Rg Issuer: SSP
+    Rg State: RS
+    Mosaic: D11
+    Mosaic New: A01
+    Mosaic Secondary: A02
+    Income Bracket Id: 5
+  Endereços: (5 item(s))
+    [1]
+      Rua: QNP 28
+      Complemento: CJ V
+      Bairro: CEILANDIA SUL CEILANDIA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72235-800
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: RAIMUNDO CORREA
+      Número: 609
+      Bairro: OPERARIO
+      Cidade: NOVO HAMBURGO
+      Estado: RS
+      CEP: 93315-180
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: TOME PORTES
+      Número: 1083
+      Bairro: BROOKLIN PAULISTA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04623-050
+      Date Added: 15/08/2006
+    [4]
+      Tipo: R
+      Rua: DA PRATA
+      Número: 307
+      Bairro: JD PETROPOLIS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04637-041
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: DAMASCO
+      Número: 247
+      Bairro: JD SEMIRAMIS
+      Cidade: COTIA
+      Estado: SP
+      CEP: 06709-340
+      Date Added: 03/08/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 46125704
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 34427427
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 16/11/2015
+    [3]
+      Telefone: 997113244
+      Ddd: 51
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/11/2017
+    [4]
+      Telefone: 983324444
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 35938073
+      Ddd: 51
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+  E-mails: (4 item(s))
+    [1]
+      E-mail: telesound@terra.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: ts@mandic.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: telesound@telesound.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: verarejane@hotmail.com
+      Priority: 4
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 04/09/2014
+  Score:
+    CSBA: 719
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 788.665.700-44
+      Nome: MAURICIO DIRONG BOHLKE
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 586.504.150-91
+      Nome: ELMIRA DIRONG BOHLKE
+      Vinculo: MAE
+  Tse:
+    Titulo: 282645150124
+    Zona: 76
+    Secao: 404
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2694.6
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Telefones: (5 item(s))
+  - (11) 4612-5704
+  - (11) 3442-7427
+  - (51) 99711-3244
+  - (51) 98332-4444
+  - (51) 3593-8073
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 487.253.071-34
+    Nome: ANDREIA MARIA TRINDADE
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [2]
+    CPF: 417.606.891-49
+    Nome: ARTUR DA COSTA MARINHO
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [3]
+    CPF: 019.408.461-29
+    Nome: CRISTINA MAISA ALVES TAVARES
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [4]
+    CPF: 987.157.201-87
+    Nome: JAKSON OLIVEIRA DOS SANTOS
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [5]
+    CPF: 040.858.193-05
+    Nome: MARIA MADALENA ASSUNCAO DE SOUSA
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [6]
+    CPF: 145.952.571-04
+    Nome: JOSE JACY GOMES
+    Logradouro: QNP 28
+    Número: 36
+    Bairro: CEILANDIA SUL CEILANDIA
+  [7]
+    CPF: 055.490.941-34
+    Nome: MARIA DAS GRACAS RODRIGUES ARAUJO
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [8]
+    CPF: 005.293.561-20
+    Nome: VERA LUCIA SANTOS DE OLIVEIRA
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [9]
+    CPF: 373.141.061-34
+    Nome: HERMELINA SANTOS DE SOUZA
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [10]
+    CPF: 442.849.774-15
+    Nome: LUIZ ALVES LAURENTINO
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [11]
+    CPF: 468.249.951-34
+    Nome: MARIA DIVINA PEREIRA
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [12]
+    CPF: 443.547.201-59
+    Nome: LUZINETE FELISMINO DE MELO
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [13]
+    CPF: 443.785.051-34
+    Nome: VERA LUCIA FLORENCIA RODRIGUES
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [14]
+    CPF: 443.791.021-49
+    Nome: CLAUDIA CRISTINA SALES PENHA
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+  [15]
+    CPF: 443.575.831-87
+    Nome: AUCILEIDE ANGELO RANGEL
+    Logradouro: QNP 28
+    Bairro: CEILANDIA SUL CEILANDIA
+E-mails: (4 item(s))
+  - ts@mandic.com.br
+  - telesound@terra.com.br
+  - telesound@telesound.com.br
+  - verarejane@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2694
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2694.6
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4612-5704
+    Ddd: 11
+    Número: 46125704
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (11) 3442-7427
+    Ddd: 11
+    Número: 34427427
+    Tipo: FIXO
+    Data Inclusao: 16/11/2015
+    Classificacao: D
+  [3]
+    Telefone: (51) 99711-3244
+    Ddd: 51
+    Número: 997113244
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: A0
+  [4]
+    Telefone: (51) 98332-4444
+    Ddd: 51
+    Número: 983324444
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [5]
+    Telefone: (51) 3593-8073
+    Ddd: 51
+    Número: 35938073
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

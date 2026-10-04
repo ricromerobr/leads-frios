@@ -1,0 +1,333 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06543938935
+Data/Hora:  03/10/2026, 18:47:26
+Tempo API:  764ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 065.439.389-35
+Nome: WESLLEY ARAUJO DA SILVA
+Primeiro Nome: WESLLEY
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 27/03/1991
+Nome da Mãe: NAIR ARAUJO BREGUEDO DA SILVA
+Ocupação: Fisioterapeuta geral
+Score:
+  Value: 687
+  Range: BAIXO
+E-mail: weslley.araujo.fit@hotmail.com
+Additional Emails: (2 item(s))
+  - weslley.araujo.fit@hotmail.com
+  - danilaa_almeidaa@hotmail.com
+Federal Status: REGULAR
+Renda: 1519
+Income Bracket: 2
+Cbo: 223605
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: HUMAITA
+  Número: 100
+  Bairro: KENNEDY
+  Cidade: LONDRINA
+  Estado: PARANA
+  CEP: 86015-100
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HUMAITA
+    Número: 100
+    Bairro: KENNEDY
+    Cidade: LONDRINA
+    Estado: PARANA
+    CEP: 86015-100
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARIA
+    Tipo: R
+    Número: 116
+    Bairro: VL STA TEREZINHA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86027-640
+    Data Atualizacao: 08/04/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Tipo: NA
+    Rua: MARIA
+    Número: 0000116
+    Bairro: VILA SANTA TEREZINHA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86027-640
+    Fonte: ASSECC
+  [4]
+    Tipo: RUA
+    Rua: REGINA LONGHI PIROLA
+    Número: 318
+    Complemento: CS - Casa: Casa;
+    Bairro: LONDRINA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86031-818
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (43) 98817-5769
+  - (43) 9675-9094
+  - (43) 3037-9104
+  - +55 (43) 99907-4104
+  - (43) 3025-6193
+  - (43) 3025-6290
+  - (43) 3025-6409
+  - (43) 3337-1260
+  - (43) 99675-9094
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/10/2019
+    Mosaic New: I31
+    Mosaic Secondary: D09
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: HUMAITA
+      Número: 100
+      Bairro: KENNEDY
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86015-100
+      Date Added: 19/02/2019
+    [2]
+      Tipo: R
+      Rua: MARIA
+      Número: 116
+      Bairro: VL STA TEREZINHA
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86027-640
+      Date Added: 23/04/2015
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 33371260
+      Ddd: 43
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 15/03/2016
+      Info Date: 13/02/2019
+    [2]
+      Telefone: 996759094
+      Ddd: 43
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 09/02/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: weslley.araujo.fit@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+  Score:
+    CSBA: 687
+    CSBA FAIXA: BAIXO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 792.399.279-72
+      Nome: NAIR ARAUJO BREGUEDO DA SILVA
+      Vinculo: MAE
+    [2]
+      CPF: 727096931
+      Nome: KELLY CRISTINA ARAUJO DA SILVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 4368583981
+      Nome: EDER JUNIOR ARAUJO SILVA
+      Vinculo: IRMA(O)
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 057.504.208-76
+    Nome: REGINA NARDI VIOLATO
+    Logradouro: HUMAITA
+    Número: 307
+    Bairro: KENNEDY
+  [2]
+    CPF: 024.231.039-72
+    Nome: IZALTINO FRANCO CORREIA
+    Logradouro: HUMAITA
+    Número: 403
+    Bairro: KENNEDY
+  [3]
+    CPF: 108.227.041-53
+    Nome: NIVALDO ESTIGARRIBIA
+    Logradouro: HUMAITA
+    Número: 256
+    Bairro: KENNEDY
+  [4]
+    CPF: 006.562.839-04
+    Nome: JOSE PAES DE MELLO
+    Logradouro: HUMAITA
+    Número: 408
+    Bairro: KENNEDY
+  [5]
+    CPF: 004.646.019-59
+    Nome: EDNA RODRIGUES RIBEIRO
+    Logradouro: HUMAITA
+    Número: 176
+    Bairro: KENNEDY
+  [6]
+    CPF: 003.917.179-52
+    Nome: ISABELLA MILIORINI DE MELO
+    Logradouro: HUMAITA
+    Número: 143
+    Bairro: KENNEDY
+  [7]
+    CPF: 508.986.209-53
+    Nome: FLORIANO ROMANO
+    Logradouro: HUMAITA
+    Número: 311
+    Bairro: KENNEDY
+  [8]
+    CPF: 060.577.869-80
+    Nome: PAULA AMARAL PROFERIS
+    Logradouro: HUMAITA
+    Número: 150
+    Bairro: KENNEDY
+  [9]
+    CPF: 070.079.779-36
+    Nome: LUIZ RAFAEL SANTOS MORI
+    Logradouro: HUMAITA
+    Número: 176
+    Bairro: KENNEDY
+  [10]
+    CPF: 327.097.309-87
+    Nome: DARCI FLORINDO DE OLIVEIRA
+    Logradouro: HUMAITA
+    Número: 391
+    Bairro: KENNEDY
+  [11]
+    CPF: 041.042.109-00
+    Nome: TAINAH NAVARRO GRANJA
+    Logradouro: HUMAITA
+    Número: 143
+    Bairro: KENNEDY
+  [12]
+    CPF: 561.468.179-53
+    Nome: AMALIA FRANCISCO DOS SANTOS
+    Logradouro: HUMAITA
+    Número: 381
+    Bairro: KENNEDY
+  [13]
+    CPF: 041.305.249-41
+    Nome: JEFERSON FILIPPI
+    Logradouro: HUMAITA
+    Número: SN
+    Bairro: KENNEDY
+  [14]
+    CPF: 438.919.779-72
+    Nome: MARIA INES MAIA DA SILVA
+    Logradouro: HUMAITA
+    Número: 427
+    Bairro: KENNEDY
+  [15]
+    CPF: 531.164.379-04
+    Nome: LUZIA CARDOSO RODRIGUES
+    Logradouro: HUMAITA
+    Número: 247
+    Bairro: KENNEDY
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (43) 9675-9094
+    Nome: WESLLEY ARAUJO DA SILVA
+    Cidade: LONDRINA
+    UF: PR
+Vivo Linhas: (4 item(s))
+  [1]
+    Telefone: (43) 3037-9104
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 27APR2020:12:27:37
+    Cel Contato: +5543999074104
+    Complemento: CS - Casa: Casa;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (43) 3025-6193
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Cel Contato: +5543999074104
+    Complemento: CS - Casa: Casa;
+    Data Retirada: 25APR2020:09:26:49
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (43) 3025-6290
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Cel Contato: +5543999074104
+    Complemento: CS - Casa: Casa;
+    Data Retirada: 25APR2020:09:26:41
+    Tipo Cliente: Residencial
+  [4]
+    Telefone: (43) 3025-6409
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Cel Contato: +5543999074104
+    Complemento: CS - Casa: Casa;
+    Data Retirada: 25APR2020:13:00:03
+    Tipo Cliente: Residencial
+E-mails: (2 item(s))
+  - weslley.araujo.fit@hotmail.com
+  - danilaa_almeidaa@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1519
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (43) 3337-1260
+    Ddd: 43
+    Número: 33371260
+    Tipo: FIXO
+    Data Inclusao: 15/03/2016
+    Data Informacao: 13/02/2019
+    Classificacao: A0
+  [2]
+    Telefone: (43) 99675-9094
+    Ddd: 43
+    Número: 996759094
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: A2
+Occupation Code: 223605
+Occupation Name: Fisioterapeuta geral
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

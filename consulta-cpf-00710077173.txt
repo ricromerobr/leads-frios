@@ -1,0 +1,415 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00710077173
+Data/Hora:  03/10/2026, 15:01:28
+Tempo API:  748ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 007.100.771-73
+Nome: MICHEL PLATINI DE OLIVEIRA
+Primeiro Nome: MICHEL
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 15/07/1984
+Nome da Mãe: GELCIRA MENDES FERREIRA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 00001008964
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MS
+Voter Id: 019155891910
+Mosaic: C09
+Ocupação: Motofretista
+Score:
+  Value: 164
+  Range: ALTISSIMO
+E-mail: michelplatini799@gmail.com
+Additional Emails: (2 item(s))
+  - michelplatini799@gmail.com
+  - igorescalante50@gmail.com
+Federal Status: REGULAR
+Renda: 924
+Income Bracket: 1
+Cbo: 519110
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: S ROQUE
+  Bairro: VILA TAQUARUSSU
+  Cidade: CAMPO GRANDE
+  Estado: MATO GROSSO DO SUL
+  CEP: 79006-230
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: S ROQUE
+    Bairro: VILA TAQUARUSSU
+    Cidade: CAMPO GRANDE
+    Estado: MATO GROSSO DO SUL
+    CEP: 79006-230
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GUATEMALA
+    Número: 00290
+    Bairro: JARDIM JACY
+    Cidade: CAMPO GRANDE - MS
+    Fonte: DATASUS
+  [3]
+    Rua: MALAN
+    Tipo: R
+    Número: 119
+    Complemento: C 6
+    Bairro: CENTRO
+    Cidade: SIDROLANDIA
+    Estado: MS
+    CEP: 79170-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: GUATEMALA
+    Tipo: R
+    Número: 278
+    Bairro: JD JACY
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79006-331
+    Data Atualizacao: 23/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CALOGERAS
+    Tipo: AV
+    Número: 718
+    Bairro: CENTRO
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79004-380
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: COIMBRA
+    Tipo: R
+    Número: 127
+    Bairro: JD AERO RANCHO
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79083-430
+    Data Atualizacao: 18/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: JINTOKO MINEI
+    Tipo: R
+    Número: 6
+    Bairro: ROYAL PARK
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79021-450
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: COIMBRA
+    Número: 0000127
+    Bairro: JARDIM AERO RANCHO
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79083-430
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (18) 3908-8840
+  - (67) 99324-9036
+  - (67) 99806-1465
+  - (67) 99160-2159
+  - (67) 3029-2245
+  - +55 (67) 99158-1513
+  - (67) 99158-1513
+  - (67) 3337-4547
+Datasus Phones: (1 item(s))
+  - (67) 9158-1513
+Cidade de Nascimento: CAMPO GRANDE - MS
+Cns: 701001875665296
+Rg Issue Date: 805086000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Info Date: 03/01/2008
+    Mosaic: C09
+    Mosaic New: G23
+    Mosaic Secondary: G24
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: MALAN
+      Número: 119
+      Complemento: C 6
+      Bairro: CENTRO
+      Cidade: SIDROLANDIA
+      Estado: MS
+      CEP: 79170-000
+      Date Added: 23/02/2010
+    [2]
+      Tipo: R
+      Rua: GUATEMALA
+      Número: 278
+      Bairro: JD JACY
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79006-331
+      Date Added: 09/04/2018
+    [3]
+      Tipo: AV
+      Rua: CALOGERAS
+      Número: 718
+      Bairro: CENTRO
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79004-380
+      Date Added: 16/04/2018
+    [4]
+      Tipo: R
+      Rua: COIMBRA
+      Número: 127
+      Bairro: JD AERO RANCHO
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79083-430
+      Date Added: 13/04/2015
+    [5]
+      Tipo: R
+      Rua: JINTOKO MINEI
+      Número: 6
+      Bairro: ROYAL PARK
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79021-450
+      Date Added: 12/12/2018
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 33374547
+      Ddd: 67
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 998061465
+      Ddd: 67
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [3]
+      Telefone: 30292245
+      Ddd: 67
+      Tipo: 1
+      Classificacao: B
+      Date Added: 06/12/2018
+      Info Date: 11/12/2017
+    [4]
+      Telefone: 991581513
+      Ddd: 67
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 29/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: michelplatini799@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+  Score:
+    CSB8: 144
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 164
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: GELCIRA MENDES FERREIRA
+      Vinculo: MAE
+  Pis: 20434773748
+  Tse:
+    Titulo: 19155891910
+    Zona: 44
+    Secao: 62
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 968.387.521-15
+    Nome: LUIZ FERNANDO DOS SANTOS
+    Logradouro: PRUDENTE DE MORAIS
+    Número: 321
+    Bairro: S BENTO
+  [2]
+    CPF: 827.687.221-20
+    Nome: GEAZI CLEMENTINO SOL
+    Logradouro: JOAO CLEMENTINO
+    Número: 4
+    Bairro: ALDEIA TERERE
+  [3]
+    CPF: 892.640.451-04
+    Nome: TODO RIBEIRO
+    Logradouro: ASS JIBOIA
+    Número: 68
+    Bairro: RURAL
+  [4]
+    CPF: 014.530.131-13
+    Nome: MARCILENE DOURADO VILHARGA
+    Logradouro: PONTA PORA
+    Número: 1422
+    Bairro: CASCATINHA II
+  [5]
+    CPF: 014.983.691-03
+    Nome: DEOLINDA DA SILVA ANTONIO POLIDORIO
+    Logradouro: MATO GROSSO
+    Número: 2351
+    Bairro: JANDAIA
+  [6]
+    CPF: 051.599.819-26
+    Nome: LUIZ GUSTAVO DA SILVA BORGES
+    Logradouro: ALAGOAS
+    Número: 470
+    Bairro: CENTRO
+  [7]
+    CPF: 789.222.081-04
+    Nome: FABIOLA APARECIDA MAYER
+    Logradouro: ALAGOAS
+    Número: 899
+    Bairro: CENTRO
+  [8]
+    CPF: 030.258.691-19
+    Nome: LAIZA FARIAS SANTANA
+    Logradouro: BECO DOIS NILO PECANHA
+    Número: 130
+    Bairro: S BENTO
+  [9]
+    CPF: 031.127.071-92
+    Nome: VILSIMAR DIAS DOS SANTOS
+    Logradouro: THOMAZ DA SILVA FRANCA
+    Número: 1602
+    Bairro: S BENTO
+  [10]
+    CPF: 051.470.001-78
+    Nome: GETULIO PEREIRA DE ARRUDA
+    Logradouro: LUCIA DE SOUZA MELLO
+    Número: 122
+    Bairro: CENTRO
+  [11]
+    CPF: 338.249.831-68
+    Nome: MARIA DE FATIMA ALMEIDA SIQUEIRA
+    Logradouro: ASSENTAMENTO CAPAO BONITO II
+    Número: SN
+    Bairro: ZONA RURAL
+  [12]
+    CPF: 022.534.381-97
+    Nome: CLARICE REMEDIO GOMES DE LIMA
+    Logradouro: CUIABA
+    Número: 932
+    Bairro: CASCATINHA I
+  [13]
+    CPF: 026.373.331-97
+    Nome: NAIARA CAROLINA DIAS CABRAL
+    Logradouro: CUIABA
+    Número: 455
+    Bairro: JANDAIA
+  [14]
+    CPF: 027.843.841-52
+    Nome: EDILAINE BERNARDO MAMEDES
+    Logradouro: JOAO CLEMENTINO
+    Número: 24
+    Bairro: VL TERERE
+  [15]
+    CPF: 025.972.771-78
+    Nome: ROBEVAL MENDES DOS SANTOS
+    Logradouro: MALLAN
+    Número: 573
+    Bairro: S BENTO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (67) 99160-2159
+    Nome: SR  MICHEL PLATINI DE OLIVEIRA
+    Cidade: CAMPO GRANDE
+    UF: MS
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (67) 3029-2245
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 11DEC2017:18:12:10
+    Tipo Cliente: Residencial
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (67) 99324-9036
+    Nome: MICHEL PLATINI DE OLIVEIRA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (67) 99158-1513
+    Nome: MICHEL PLATINI DE OLIVEIRA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - michelplatini799@gmail.com
+  - igorescalante50@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 924
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (67) 3337-4547
+    Ddd: 67
+    Número: 33374547
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (67) 99806-1465
+    Ddd: 67
+    Número: 998061465
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [3]
+    Telefone: (67) 3029-2245
+    Ddd: 67
+    Número: 30292245
+    Tipo: FIXO
+    Data Inclusao: 06/12/2018
+    Data Informacao: 11/12/2017
+    Classificacao: B
+  [4]
+    Telefone: (67) 99158-1513
+    Ddd: 67
+    Número: 991581513
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: A0
+Occupation Code: 519110
+Occupation Name: Motofretista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,302 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03560416469
+Data/Hora:  04/10/2026, 00:22:56
+Tempo API:  757ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 035.604.164-69
+Nome: RAQUEL DE LIMA NICACIO
+Primeiro Nome: RAQUEL
+Sobrenome: NICACIO
+Sexo: Feminino
+Data de Nascimento: 13/09/1978
+Nome da Mãe: MARIA DE FATIMA DE LIMA NICACIO
+Nome do Pai: PEDRO PAULO NICÁCIO
+RG: 1818696
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RN
+Voter Id: 018277801627
+Mosaic: F20
+Ocupação: Dirigente do serviço público municipal
+Score:
+  Value: 150
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1647
+Income Bracket: 2
+Cbo: 111415
+Endereço:
+  Tipo: RUA
+  Rua: CORONEL PEDRO OLIVEIRA CORREIA
+  Bairro: CENTRO
+  Cidade: CEARA MIRIM
+  Estado: RIO GRANDE DO NORTE
+  CEP: 59570-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CORONEL PEDRO OLIVEIRA CORREIA
+    Bairro: CENTRO
+    Cidade: CEARA MIRIM
+    Estado: RIO GRANDE DO NORTE
+    CEP: 59570-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: OSCAR BRANDAO
+    Número: 1219
+    Bairro: CINCO BOCAS
+    Cidade: CEARA-MIRIM - RN
+    Fonte: DATASUS
+  [3]
+    Rua: PEDRO
+    Tipo: R
+    Número: 6
+    Bairro: IGAPO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59104-270
+    Data Atualizacao: 24/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOAO B ALBUQUERQU
+    Tipo: R
+    Número: 142
+    Complemento: Q 10 L 15
+    Bairro: NATUREZA I
+    Cidade: CEARA MIRIM
+    Estado: RN
+    CEP: 59570-000
+    Data Atualizacao: 09/03/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: OSCAR BRANDAO
+    Número: 1219
+    Bairro: CENTRO
+    Cidade: CEARA MIRIM
+    Estado: RN
+    CEP: 59570-000
+    Data Atualizacao: 23/01/2017
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (84) 99146-0732
+  - (84) 99414-7991
+  - (84) 99146-5895
+  - (84) 99167-8511
+  - (84) 99102-7352
+  - (84) 3274-3576
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: NATAL - RN
+Cns: 702409056701824
+Rg Issue Date: 850446000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 02/03/2019
+    Mosaic: F20
+    Mosaic New: H26
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: PEDRO
+      Número: 6
+      Bairro: IGAPO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59104-270
+      Date Added: 11/02/2011
+    [2]
+      Tipo: R
+      Rua: JOAO B ALBUQUERQU
+      Número: 142
+      Complemento: Q 10 L 15
+      Bairro: NATUREZA I
+      Cidade: CEARA MIRIM
+      Estado: RN
+      CEP: 59570-000
+      Date Added: 05/05/2015
+    [3]
+      Rua: OSCAR BRANDAO
+      Número: 1219
+      Bairro: CENTRO
+      Cidade: CEARA MIRIM
+      Estado: RN
+      CEP: 59570-000
+      Date Added: 11/10/2006
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 32743576
+      Ddd: 84
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 23/08/2016
+  Score:
+    CSB8: 138
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 150
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 778.062.474-91
+      Nome: MARIA DE FATIMA DE LIMA NICACIO
+      Vinculo: MAE
+    [2]
+      CPF: 878.562.714-34
+      Nome: JOSENILDO DE LIMA NICACIO
+      Vinculo: IRMA(O)
+  Pis: 12661036646
+  Tse:
+    Titulo: 18277801627
+    Zona: 6
+    Secao: 26
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 369.21
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 032.317.974-62
+    Nome: JOSE EDILSON CAMARA
+    Logradouro: PEDRO
+    Número: 210
+    Bairro: IGAPO
+  [2]
+    CPF: 027.141.564-95
+    Nome: PAULO SERGIO FRANCELINO SOARES
+    Logradouro: PEDRO
+    Número: 358
+    Bairro: IGAPO
+  [3]
+    CPF: 424.419.354-53
+    Nome: SEVERINO PAULINO DA SILVA
+    Logradouro: PEDRO
+    Número: 7
+    Bairro: IGAPO
+  [4]
+    CPF: 011.229.884-27
+    Nome: CLEITON DA SILVA LOURENCO
+    Logradouro: PEDRO
+    Número: 85
+    Bairro: IGAPO
+  [5]
+    CPF: 721.064.504-78
+    Nome: MARIA LUCIA DE MELO MARINHO
+    Logradouro: PEDRO
+    Número: 227
+    Bairro: IGAPO
+  [6]
+    CPF: 023.252.204-94
+    Nome: ANGELITA MARIA RIBEIRO VIEIRA
+    Logradouro: PEDRO
+    Número: 229
+    Bairro: IGAPO
+  [7]
+    CPF: 012.307.194-15
+    Nome: FRANCISCO GOMES DA SILVA
+    Logradouro: PEDRO
+    Número: 344
+    Bairro: IGAPO
+  [8]
+    CPF: 737.843.204-06
+    Nome: MARIA CLEONICE CUNHA BATISTA
+    Logradouro: PEDRO
+    Número: 177
+    Bairro: IGAPO
+  [9]
+    CPF: 698.069.184-87
+    Nome: MARIA VILMA DA SILVA
+    Logradouro: PEDRO
+    Número: 171
+    Bairro: IGAPO
+  [10]
+    CPF: 150.579.924-49
+    Nome: MARIA CELIMARIA SILVA
+    Logradouro: PEDRO
+    Número: 68
+    Bairro: IGAPO
+  [11]
+    CPF: 048.869.244-09
+    Nome: GILDESON VIEIRA DE SOUZA
+    Logradouro: PEDRO
+    Número: 210
+    Bairro: IGAPO
+  [12]
+    CPF: 034.121.274-18
+    Nome: ROGERIO INACIO DOS SANTOS
+    Logradouro: PEDRO
+    Número: 234
+    Bairro: IGAPO
+  [13]
+    CPF: 033.208.544-96
+    Nome: JUARES GOMES DO NASCIMENTO
+    Logradouro: PEDRO
+    Número: 267
+    Bairro: IGAPO
+  [14]
+    CPF: 143.972.694-91
+    Nome: FRANCINALDO FERREIRA DA SILVA
+    Logradouro: PEDRO
+    Número: 35
+    Bairro: IGAPO
+  [15]
+    CPF: 008.299.244-42
+    Nome: SANDRA LOPES DA COSTA
+    Logradouro: PEDRO
+    Número: 382
+    Bairro: IGAPO
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (84) 99167-8511
+    Nome: RAQUEL DE LIMA NICACIO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (84) 99102-7352
+    Nome: RAQUEL DE LIMA NICACIO
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1647
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 369.21
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (84) 3274-3576
+    Ddd: 84
+    Número: 32743576
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D2
+Occupation Code: 111415
+Occupation Name: Dirigente do serviço público municipal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

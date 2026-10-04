@@ -1,0 +1,406 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  90612922391
+Data/Hora:  04/10/2026, 00:57:39
+Tempo API:  727ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 906.129.223-91
+Nome: MARIA REGINA LOBATO MATOS
+Primeiro Nome: MARIA
+Sobrenome: MATOS
+Sexo: Feminino
+Data de Nascimento: 23/02/1977
+Nome da Mãe: MARIA DOS PAZERES LOBATO
+Nome do Pai: SEM INFORMAÇÃO
+RG: 493530959
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MA
+Mosaic: J37
+Score:
+  Value: 560
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 393
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: VLTO DA PATRIA
+  Bairro: TUPY
+  Cidade: SAO BENTO
+  Estado: MARANHAO
+  CEP: 65235-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VLTO DA PATRIA
+    Bairro: TUPY
+    Cidade: SAO BENTO
+    Estado: MARANHAO
+    CEP: 65235-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GONCALVES DIAS
+    Número: S/N
+    Bairro: OUTRA BANDA
+    Cidade: SAO BENTO - MA
+    Fonte: DATASUS
+  [3]
+    Rua: GONCALVES DIAS
+    Tipo: R
+    Número: 259
+    Complemento: CS
+    Cidade: SAO BENTO
+    Estado: MA
+    CEP: 65235-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: GONCALVES DIAS
+    Tipo: R
+    Número: 5
+    Bairro: OUTRA BANDA
+    Cidade: SAO BENTO
+    Estado: MA
+    CEP: 65235-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GONCALVES DIAS
+    Tipo: R
+    Número: SN
+    Complemento: C
+    Bairro: OUTRA BAND
+    Cidade: SAO BENTO
+    Estado: MA
+    CEP: 65235-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: RUIA GONCALVES DIAS
+    Número: 0000259
+    Bairro: OUTRA BANDA
+    Cidade: S BENTO
+    Estado: MA
+    CEP: 06523-500
+    Fonte: ASSECC
+  [7]
+    Rua: R RUIA GONCALVES DIAS
+    Número: 259
+    Complemento: AC CASA
+    Bairro: OUTRA BANDA
+    Estado: MA
+    CEP: 65235-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (98) 97017-3857
+  - (98) 99183-6231
+  - (98) 98894-0538
+  - (98) 99213-0629
+  - (98) 99160-0776
+  - (98) 99241-8306
+  - (98) 98708-8079
+  - (98) 98728-6097
+  - (98) 98736-1789
+  - (98) 98613-6658
+  - (98) 98720-9463
+Datasus Phones: (1 item(s))
+  - (98) 3383-0220
+Cidade de Nascimento: SAO BENTO - MA
+Cns: 706406682303386
+Rg Issue Date: 818046000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/12/2019
+    Mosaic: J37
+    Mosaic New: K38
+    Mosaic Secondary: K40
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: GONCALVES DIAS
+      Número: 259
+      Complemento: CS
+      Cidade: SAO BENTO
+      Estado: MA
+      CEP: 65235-000
+      Date Added: 16/10/2018
+    [2]
+      Tipo: R
+      Rua: GONCALVES DIAS
+      Número: 5
+      Bairro: OUTRA BANDA
+      Cidade: SAO BENTO
+      Estado: MA
+      CEP: 65235-000
+      Date Added: 19/08/2019
+    [3]
+      Tipo: R
+      Rua: GON ALO DIAS
+      Número: 259
+      Cidade: SAO BENTO
+      Estado: MA
+      CEP: 65235-000
+      Date Added: 15/08/2006
+    [4]
+      Tipo: R
+      Rua: GONCALVES DIAS
+      Número: SN
+      Complemento: C
+      Bairro: OUTRA BAND
+      Cidade: SAO BENTO
+      Estado: MA
+      CEP: 65235-000
+      Date Added: 11/03/2019
+    [5]
+      Tipo: R
+      Rua: GONALVES DIAS
+      Número: 259
+      Complemento: C
+      Bairro: OUTRA BANDA
+      Cidade: SAO BENTO
+      Estado: MA
+      CEP: 65235-000
+      Date Added: 07/01/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 987088079
+      Ddd: 98
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/03/2015
+    [2]
+      Telefone: 987286097
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 987361789
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 986136658
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 987209463
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  Score:
+    CSB8: 426
+    CSB8 FAIXA: MEDIO
+    CSBA: 560
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DOS PAZERES LOBATO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 393.3
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 013.253.383-97
+    Nome: JOSENY DE JESUS PINHEIRO
+    Logradouro: JOAO ALVES
+    Número: 178
+    Bairro: MATRIZ
+  [2]
+    CPF: 601.679.163-60
+    Nome: RONIEL DOS SANTOS NASCIMENTO SOUZA
+    Logradouro: TITO SOARES
+    Número: 522
+    Bairro: CENTRO
+  [3]
+    CPF: 016.860.423-02
+    Nome: ALMIR PEREIRA RAMOS
+    Logradouro: JO O
+    Número: 237
+    Bairro: CENTRO
+  [4]
+    CPF: 015.885.993-61
+    Nome: FERNANDA ROGERIA LIMA PEREIRA
+    Logradouro: TRAVESA BOA VONTADE
+    Número: 212
+    Bairro: S JUDAS
+  [5]
+    CPF: 024.092.393-66
+    Nome: RAIMUNDO JOSE DOS SANTOS MORAES
+    Logradouro: AGUINELIO CHAGAS
+    Número: 70
+    Bairro: MUTIRAO
+  [6]
+    CPF: 054.585.893-35
+    Nome: JOSE BENEDITO SOUSA
+    Logradouro: DA SAUDADE
+    Número: 6
+    Bairro: POR GRANDE
+  [7]
+    CPF: 030.030.103-01
+    Nome: VALDEMIR DOS SANTOS BARROS
+    Logradouro: QUITERIA
+    Número: 316
+    Bairro: OUTRA BANDA
+  [8]
+    CPF: 029.367.543-05
+    Nome: RAQUEL PEREIRA SILVA
+    Logradouro: OLHO D AGUA DOS MARTINS
+    Número: 1
+  [9]
+    CPF: 028.403.003-11
+    Nome: DOMINGAS DA MERCES CHAGAS
+    Logradouro: TITO SOARES
+    Número: SN
+    Bairro: AEROPORTO
+  [10]
+    CPF: 028.933.333-46
+    Nome: MARTA COELHO RIBEIRO
+    Logradouro: POVOADO PACHONA
+    Número: SN
+    Bairro: ZONA RURAL
+  [11]
+    CPF: 046.618.724-60
+    Nome: FRANCISCO FERREIRA DA COSTA SOBRINHO
+    Logradouro: FRANCISCO SILVEIRA
+    Número: 97
+  [12]
+    CPF: 772.142.423-20
+    Nome: HERKIO DE MACEDO CRUZ
+    Logradouro: NEWTON BELLO
+    Número: 562
+    Bairro: CENTRO
+  [13]
+    CPF: 058.091.603-01
+    Nome: ELISSANDRA PAURA FRANCA
+    Logradouro: NELTON BELO
+    Número: 885
+    Bairro: AEROPORTO
+  [14]
+    CPF: 606.778.473-43
+    Nome: DAYANE BRUNA SILVA COSTA
+    Logradouro: DEODORO DA FILHO
+    Número: 16
+    Bairro: CENTRO
+  [15]
+    CPF: 056.005.793-81
+    Nome: JANICLEA MARTINS SOARES
+    Logradouro: DO CRAVO
+    Número: SN
+    Bairro: FOMENTO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (98) 99183-6231
+    Nome: MARIA REGINA LOBATO MATOS
+    Cidade: S BENTO
+    UF: MA
+Vivo Linhas: (4 item(s))
+  [1]
+    Telefone: (98) 99213-0629
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 03/08/2020
+  [2]
+    Telefone: (98) 99160-0776
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 08/05/2020
+  [3]
+    Telefone: (98) 99241-8306
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 30AUG2020
+    Ultima Recarga: 30AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 29/08/2020
+  [4]
+    Telefone: (98) 99183-6231
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 02/06/2020
+    Valor Fatura: 35.85
+    Mes Referencia: 202009
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 393
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 393.3
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (98) 98708-8079
+    Ddd: 98
+    Número: 987088079
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: A0
+  [2]
+    Telefone: (98) 98728-6097
+    Ddd: 98
+    Número: 987286097
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (98) 98736-1789
+    Ddd: 98
+    Número: 987361789
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (98) 98613-6658
+    Ddd: 98
+    Número: 986136658
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (98) 98720-9463
+    Ddd: 98
+    Número: 987209463
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,285 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10330660608
+Data/Hora:  02/10/2026, 16:44:56
+Tempo API:  241ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 103.306.606-08
+Nome: VIVIANE MATIAS LIMA SILVA
+Primeiro Nome: VIVIANE
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 07/09/1985
+Nome da Mãe: RAIMUNDA LUZIA DE LIMA SILVA
+Mosaic: C09
+Ocupação: Alimentador de linha de produção
+Score:
+  Value: 100
+  Range: ALTISSIMO
+E-mail: EMILLYVIVIAN@OUTLOOK.COM
+Federal Status: REGULAR
+Renda: 1017
+Income Bracket: 2
+Cbo: 514320
+Endereço:
+  Tipo: AVENIDA
+  Rua: ANA CAROL
+  Bairro: FAZENDA QUEBRA ANZOL  RESIDENCIAL PORTAL DOS IPES
+  Cidade: GOIANIA
+  Estado: GOIAS
+  CEP: 74490-571
+All Addresses: (3 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: ANA CAROL
+    Bairro: FAZENDA QUEBRA ANZOL  RESIDENCIAL PORTAL DOS IPES
+    Cidade: GOIANIA
+    Estado: GOIAS
+    CEP: 74490-571
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARIA SINOPOLI FRANCOVIG
+    Tipo: R
+    Número: 1318
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86088-080
+    Data Atualizacao: 10/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: FRANCISCO ALVES MACEDO
+    Tipo: R
+    Número: 67
+    Complemento: CS A C
+    Bairro: VERDE VALE
+    Cidade: SETE LAGOAS
+    Estado: MG
+    CEP: 35702-557
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (43) 98422-0303
+  - (41) 99963-5070
+  - (43) 98444-8201
+  - (43) 98426-1085
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 16/01/2019
+    Mosaic: C09
+    Mosaic New: E18
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: MARIA SINOPOLI FRANCOVIG
+      Número: 1318
+      Bairro: CJ SEMIRAMIS BARROS BRAGA
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86088-080
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: FRANCISCO ALVES MACEDO
+      Número: 67
+      Complemento: CS A C
+      Bairro: VERDE VALE
+      Cidade: SETE LAGOAS
+      Estado: MG
+      CEP: 35702-557
+      Date Added: 13/03/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 999635070
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [2]
+      Telefone: 984448201
+      Ddd: 43
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [3]
+      Telefone: 984261085
+      Ddd: 43
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: emillyvivian@outlook.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSBA: 100
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: RAIMUNDA LUZIA DE LIMA SILVA
+      Vinculo: MAE
+  Pis: 20076804040
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 407.11
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - emillyvivian@outlook.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 048.675.659-97
+    Nome: PRISCILA DE OLIVEIRA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 876
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [2]
+    CPF: 730.679.469-87
+    Nome: LOIRDO AUGUSTO LUIZ
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 536
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [3]
+    CPF: 043.722.359-09
+    Nome: DIEGO DOS SANTOS SIQUEIRA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 1339
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [4]
+    CPF: 038.856.099-16
+    Nome: ADRIANO AMARAL DA SILVA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 144
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [5]
+    CPF: 034.444.159-82
+    Nome: JONATAS DA FONSECA PARREIRA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 1561
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [6]
+    CPF: 058.398.169-06
+    Nome: RENAN APARECIDO SAITO
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 250
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [7]
+    CPF: 307.763.498-80
+    Nome: GRACCE KELLY DE OLIVEIRA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 704
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [8]
+    CPF: 018.871.169-40
+    Nome: IVONE PEREIRA DA SILVA BARROS
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 888
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [9]
+    CPF: 009.094.381-37
+    Nome: INGRIDY FERNANDA DOS REIS MARQUETTO
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 643
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [10]
+    CPF: 324.900.979-20
+    Nome: NIVALDO CARRARO
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 249
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [11]
+    CPF: 010.083.168-06
+    Nome: CARLOS SERVIAN CACERES
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 1223
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [12]
+    CPF: 235.099.299-34
+    Nome: VITOR CARLOS EMERECIANO
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 313
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [13]
+    CPF: 582.450.309-53
+    Nome: VILSON ANTONIO FERREIRA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 217
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [14]
+    CPF: 557.401.979-53
+    Nome: ELIA VIEIRA BARBOSA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 615
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+  [15]
+    CPF: 918.184.359-34
+    Nome: CELIMAR RIBEIRO MARTINS SILVA
+    Logradouro: MARIA SINOPOLI FRANCOVIG
+    Número: 970
+    Bairro: CJ SEMIRAMIS BARROS BRAGA
+E-mails: (1 item(s))
+  - emillyvivian@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1017
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 407.11
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (41) 99963-5070
+    Ddd: 41
+    Número: 999635070
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [2]
+    Telefone: (43) 98444-8201
+    Ddd: 43
+    Número: 984448201
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [3]
+    Telefone: (43) 98426-1085
+    Ddd: 43
+    Número: 984261085
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: C2
+Occupation Code: 784205
+Occupation Name: Alimentador de linha de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

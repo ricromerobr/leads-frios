@@ -1,0 +1,380 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  44162006334
+Data/Hora:  03/10/2026, 19:23:48
+Tempo API:  744ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 441.620.063-34
+Nome: KATIA KARINA DE FRANCA ROGERIO
+Primeiro Nome: KATIA
+Sobrenome: ROGERIO
+Sexo: Feminino
+Data de Nascimento: 19/11/1971
+Nome da Mãe: MARIA IVANISIA DE FRANCA ROGERIO
+Nome do Pai: FRANCISCO DAS CHAGAS PEREIRA ROGERIO
+RG: 91002204804
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: CE
+Voter Id: 034956270710
+Mosaic: F23
+Ocupação: Manicure
+Score:
+  Value: 263
+  Range: ALTO
+E-mail: lelekinha_jesus@hotmail.com
+Additional Emails: (1 item(s))
+  - lelekinha_jesus@hotmail.com
+Federal Status: REGULAR
+Renda: 940
+Income Bracket: 1
+Cbo: 516120
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: JOSE ABILIO
+  Bairro: GRANJA LISBOA
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 60540-504
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSE ABILIO
+    Bairro: GRANJA LISBOA
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 60540-504
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CENTO E QUINZE
+    Número: 395
+    Bairro: C H N METROPOLE
+    Cidade: CAUCAIA - CE
+    Fonte: DATASUS
+  [3]
+    Rua: RUA JOSÉ ABÍLIO
+    Número: 2482
+    Complemento: CASA B
+    Bairro: GRANJA LISBOA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60540-504
+    Fonte: SARAIVA
+  [4]
+    Rua: MEDELIN
+    Tipo: R
+    Número: 2482
+    Bairro: GJA LISBOA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60540-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: JOSE ABILIO
+    Número: 0002482
+    Bairro: GRANJA LISBOA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 06054-004
+    Fonte: ASSECC
+  [6]
+    Rua: RUA JOSE ABILIO
+    Número: 2482
+    Bairro: GRANJA LISBOA
+    Estado: CE
+    CEP: 60540-504
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (85) 98222-8242
+  - (85) 99206-0811
+  - (85) 8930-1736
+  - (85) 98930-1799
+  - (85) 98535-5676
+  - (85) 98930-1736
+  - (85) 98575-4226
+  - (85) 98575-4218
+Cidade de Nascimento: FORTALEZA - CE
+Cns: 708400286784862
+Rg Issue Date: 844138800000
+Saraiva:
+  Customer Id: 5719227
+  Telefone: (85) 8930-1736
+  E-mail: lelekinha_jesus@hotmail.com
+  Data de Nascimento: 19/11/1971
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 08/07/2019
+    Mosaic: F23
+    Mosaic New: G24
+    Mosaic Secondary: J33
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE ABILIO
+      Número: 2482
+      Bairro: GJA LISBOA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60540-504
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: MEDELIN
+      Número: 2482
+      Bairro: GJA LISBOA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60540-000
+      Date Added: 17/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 989301799
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [2]
+      Telefone: 985355676
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/03/2015
+    [3]
+      Telefone: 989301736
+      Ddd: 85
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 04/03/2015
+    [4]
+      Telefone: 985754226
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 985754218
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: lelekinha_jesus@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 332
+    CSB8 FAIXA: MEDIO
+    CSBA: 263
+    CSBA FAIXA: ALTO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 360.196.073-72
+      Nome: FRANCISCO EUDO PEREIRA ROGERIO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 2872195343
+      Nome: KAIO CEZAR DE FRANCA ROGERIO
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 631.854.663-49
+      Nome: MARCIA DE FRANCA ROGERIO
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 192.748.743-91
+      Nome: MARIA IVANISIA DE FRANCA ROGERIO
+      Vinculo: MAE
+  Pis: 16388292845
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 231.78
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 807.873.473-53
+    Nome: CARLOS GEORGE DA SILVA LIMA
+    Logradouro: JOSE ABILIO
+    Número: 2390
+    Bairro: GJA LISBOA
+  [2]
+    CPF: 017.431.733-69
+    Nome: MARIA OGLEIDNA MOTA RODRIGUES
+    Logradouro: JOSE ABILIO
+    Número: 2676
+    Bairro: GJA LISBOA
+  [3]
+    CPF: 057.496.383-91
+    Nome: RAIMUNDO JUSTINO BARBOSA
+    Logradouro: JOSE ABILIO
+    Número: 2399
+    Bairro: GJA LISBOA
+  [4]
+    CPF: 616.986.553-98
+    Nome: LAIS DUARTE DA SILVA
+    Logradouro: JOSE ABILIO
+    Número: 2396
+    Bairro: GJA LISBOA
+  [5]
+    CPF: 728.974.143-91
+    Nome: MARIA CELIA SOUZA SIQUEIRA
+    Logradouro: JOSE ABILIO
+    Número: 2415
+    Bairro: GJA LISBOA
+  [6]
+    CPF: 012.417.713-16
+    Nome: ANA PAULA NUNES DE SOUZA
+    Logradouro: JOSE ABILIO
+    Número: 2355
+    Bairro: GJA LISBOA
+  [7]
+    CPF: 525.051.033-72
+    Nome: MARIA DAS DORES TORRES FERREIRA
+    Logradouro: JOSE ABILIO
+    Número: 2380
+    Bairro: GJA LISBOA
+  [8]
+    CPF: 987.700.043-15
+    Nome: CRISTIANE DUARTE ROCHA
+    Logradouro: JOSE ABILIO
+    Número: 2495
+    Bairro: GJA LISBOA
+  [9]
+    CPF: 021.702.623-00
+    Nome: ANTONIA LUCIA LOPES DOS SANTOS
+    Logradouro: JOSE ABILIO
+    Número: SN
+    Bairro: GJA LISBOA
+  [10]
+    CPF: 600.835.443-56
+    Nome: RAFAELA ALVES DE FREITAS
+    Logradouro: JOSE ABILIO
+    Número: 2346
+    Bairro: GJA LISBOA
+  [11]
+    CPF: 913.740.903-44
+    Nome: MARIA DA CUNHA ARAUJO
+    Logradouro: JOSE ABILIO
+    Número: 2138
+    Bairro: GJA LISBOA
+  [12]
+    CPF: 006.929.613-80
+    Nome: TIAGO ROCHA DE HOLANDA
+    Logradouro: JOSE ABILIO
+    Número: 2480
+    Bairro: GJA LISBOA
+  [13]
+    CPF: 049.895.043-30
+    Nome: DANIELE ALVES DO NASCIMENTO
+    Logradouro: JOSE ABILIO
+    Número: 2480
+    Bairro: GJA LISBOA
+  [14]
+    CPF: 812.129.093-72
+    Nome: LUZICKEYLLA DE CASTRO OLIVEIRA
+    Logradouro: JOSE ABILIO
+    Número: 2140
+    Bairro: GJA LISBOA
+  [15]
+    CPF: 025.172.263-50
+    Nome: MANOEL CLEDISVANDO DA SILVA
+    Logradouro: JOSE ABILIO
+    Número: 2395
+    Bairro: GJA LISBOA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (85) 98222-8242
+    Nome: KATIA  KARINA DE FRANCA ROGERIO
+    Cidade: FORTALEZA
+    UF: CE
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (85) 98222-8242
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 15/07/2019
+    Valor Fatura: 56.11
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - lelekinha_jesus@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 940
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 231.78
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (85) 98930-1799
+    Ddd: 85
+    Número: 989301799
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [2]
+    Telefone: (85) 98535-5676
+    Ddd: 85
+    Número: 985355676
+    Tipo: 3
+    Data Inclusao: 04/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (85) 98930-1736
+    Ddd: 85
+    Número: 989301736
+    Tipo: 3
+    Data Inclusao: 04/03/2015
+    Classificacao: A0
+  [4]
+    Telefone: (85) 98575-4226
+    Ddd: 85
+    Número: 985754226
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (85) 98575-4218
+    Ddd: 85
+    Número: 985754218
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+Occupation Code: 516120
+Occupation Name: Manicure
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

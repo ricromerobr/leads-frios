@@ -1,0 +1,255 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08257125806
+Data/Hora:  03/10/2026, 14:52:38
+Tempo API:  363ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 082.571.258-06
+Nome: IARA LUCIA DOS SANTOS SILVA
+Primeiro Nome: IARA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 16/08/1964
+Nome da Mãe: PALMIRA DOS SANTOS SILVA
+Voter Id: 080669380175
+Mosaic: H28
+Score:
+  Value: 704
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 621
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: GAIVOTA
+  Número: 161
+  Bairro: CAMPANARIO
+  Cidade: DIADEMA
+  Estado: SAO PAULO
+  CEP: 09931-410
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GAIVOTA
+    Número: 161
+    Bairro: CAMPANARIO
+    Cidade: DIADEMA
+    Estado: SAO PAULO
+    CEP: 09931-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ISAIAS COELHO
+    Tipo: R
+    Número: 707
+    Bairro: VL BRASIL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08210-670
+    Data Atualizacao: 01/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/12/2019
+    Mosaic: H28
+    Mosaic New: H25
+    Mosaic Secondary: D09
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: GAIVOTA
+      Número: 161
+      Bairro: CAMPANARIO
+      Cidade: DIADEMA
+      Estado: SP
+      CEP: 09931-410
+      Date Added: 28/08/2019
+    [2]
+      Tipo: R
+      Rua: ISAIAS COELHO
+      Número: 707
+      Bairro: VL BRASIL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08210-670
+      Date Added: 02/02/2016
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 996939981
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+    [2]
+      Telefone: 999613230
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSB8: 759
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 704
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 621.54
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (4 item(s))
+  - (11) 6004-2195
+  - +55 (11) 94130-5679
+  - (11) 99693-9981
+  - (11) 99961-3230
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 029.575.594-63
+    Nome: JOSINALDO ALVES FEITOZA
+    Logradouro: GAIVOTA
+    Número: 106
+    Bairro: CAMPANARIO
+  [2]
+    CPF: 044.122.178-50
+    Nome: SEBASTIAO GONCALVES
+    Logradouro: GAIVOTA
+    Número: 551
+    Bairro: CAMPANARIO
+  [3]
+    CPF: 055.768.894-95
+    Nome: WILSON JOSE SHOITI NAGAE
+    Logradouro: GAIVOTA
+    Número: 434
+    Bairro: CAMPANARIO
+  [4]
+    CPF: 420.028.448-01
+    Nome: GRAZIELLE ESTEVO DA SILVA
+    Logradouro: GAIVOTA
+    Número: 180
+    Bairro: CAMPANARIO
+  [5]
+    CPF: 092.422.658-70
+    Nome: ORLANDO RAMOS BRITO
+    Logradouro: GAIVOTA
+    Número: 105
+    Bairro: CAMPANARIO
+  [6]
+    CPF: 422.507.138-39
+    Nome: EVELYNE GRAZIELA FERREIRA DE ANDRADE
+    Logradouro: GAIVOTA
+    Número: 433
+    Bairro: CAMPANARIO
+  [7]
+    CPF: 690.537.158-00
+    Nome: LUIS CARLOS SANTOS
+    Logradouro: GAIVOTA
+    Número: SN
+    Bairro: CAMPANARIO
+  [8]
+    CPF: 020.935.168-37
+    Nome: MARIA DIVINA RODRIGUES DO NASCIMENTO
+    Logradouro: GAIVOTA
+    Número: 563
+    Bairro: CAMPANARIO
+  [9]
+    CPF: 046.448.028-08
+    Nome: GREGORIO LUIZ ALEIXO CARDOSO
+    Logradouro: GAIVOTA
+    Número: 148
+    Bairro: CAMPANARIO
+  [10]
+    CPF: 433.055.208-68
+    Nome: PEDRO JOSE BELARMINO
+    Logradouro: GAIVOTA
+    Número: 569
+    Bairro: CAMPANARIO
+  [11]
+    CPF: 278.877.458-37
+    Nome: ADEILDA SOUZA SILVA
+    Logradouro: GAIVOTA
+    Número: 507
+    Bairro: CAMPANARIO
+  [12]
+    CPF: 945.529.676-49
+    Nome: ERLANDES PIRES
+    Logradouro: GAIVOTA
+    Número: 73
+    Bairro: CAMPANARIO
+  [13]
+    CPF: 156.024.088-19
+    Nome: MARIA APARECIDA DA SILVA
+    Logradouro: GAIVOTA
+    Número: 610
+    Bairro: CAMPANARIO
+  [14]
+    CPF: 011.952.212-82
+    Nome: GILSIANE AMARAL PROGENIO
+    Logradouro: GAIVOTA
+    Número: 386
+    Bairro: CAMPANARIO
+  [15]
+    CPF: 040.127.436-51
+    Nome: PEDRO OLIVEIRA BRITO
+    Logradouro: GAIVOTA
+    Número: 263
+    Bairro: CAMPANARIO
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 6004-2195
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 07MAR2015:00:00:00
+    Cel Contato: +5511941305679
+    Tipo Cliente: Residencial
+E-mail: duziika@gmail.com
+Additional Emails: (1 item(s))
+  - duziika@gmail.com
+E-mails: (1 item(s))
+  - duziika@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 621
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 621.54
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (11) 99693-9981
+    Ddd: 11
+    Número: 996939981
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+  [2]
+    Telefone: (11) 99961-3230
+    Ddd: 11
+    Número: 999613230
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

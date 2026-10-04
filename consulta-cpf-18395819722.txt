@@ -1,0 +1,258 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  18395819722
+Data/Hora:  03/10/2026, 15:23:40
+Tempo API:  390ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 183.958.197-22
+Nome: DIONIS GABRIEL CAMPOS
+Primeiro Nome: DIONIS
+Sobrenome: CAMPOS
+Sexo: Feminino
+Data de Nascimento: 31/03/1999
+Nome da Mãe: LUCIANA GABRIEL CAMPOS
+Nome do Pai: ROBERTO CARLOS CAMPOS PASSOS
+Ocupação: Borracheiro
+Score:
+  Value: 545
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 1081
+Income Bracket: 2
+Cbo: 992115
+Endereço:
+  Tipo: RUA
+  Rua: JOAO FRIGINI
+  Bairro: VILA GUARANA
+  Cidade: ARACRUZ
+  Estado: ESPIRITO SANTO
+  CEP: 29195-470
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOAO FRIGINI
+    Bairro: VILA GUARANA
+    Cidade: ARACRUZ
+    Estado: ESPIRITO SANTO
+    CEP: 29195-470
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RIBEIRAO CRUZEIRO
+    Bairro: GUARANÁ
+    Cidade: ARACRUZ - ES
+    Fonte: DATASUS
+  [3]
+    Rua: JOAO FRIGINI
+    Tipo: R
+    Número: 5
+    Bairro: GUARANA
+    Cidade: ARACRUZ
+    Estado: ES
+    CEP: 29195-470
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FYORI TERCY
+    Tipo: R
+    Número: 260
+    Bairro: DE CARLI
+    Cidade: ARACRUZ
+    Estado: ES
+    CEP: 29194-062
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: DOMINGOS BAPTISTA DE SOUZA
+    Número: 0000004
+    Bairro: RECANTO FELIZ
+    Cidade: ARACRUZ
+    Estado: ES
+    CEP: 29195-660
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (27) 99512-1529
+  - (27) 99872-0687
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: ARACRUZ - ES
+Cns: 898000432336771
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/07/2019
+    Mosaic New: C08
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: JOAO FRIGINI
+      Número: 5
+      Bairro: GUARANA
+      Cidade: ARACRUZ
+      Estado: ES
+      CEP: 29195-470
+      Date Added: 28/10/2019
+    [2]
+      Tipo: R
+      Rua: FYORI TERCY
+      Número: 260
+      Bairro: DE CARLI
+      Cidade: ARACRUZ
+      Estado: ES
+      CEP: 29194-062
+      Date Added: 05/04/2018
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998720687
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/07/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 545
+    CSBA FAIXA: MEDIO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 484.34
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 045.934.757-83
+    Nome: MARILDA DOS SANTOS BARBOSA
+    Logradouro: JOAO FRIGINI
+    Número: SN
+    Bairro: GUARANA
+  [2]
+    CPF: 031.845.857-86
+    Nome: MARIA DAS GRACAS DE LIMA
+    Logradouro: JOAO FRIGINI
+    Número: 6
+    Bairro: GUARANA
+  [3]
+    CPF: 043.669.817-00
+    Nome: ANA DOS REIS CAPAZ
+    Logradouro: JOAO FRIGINI
+    Número: SN
+    Bairro: GUARANA
+  [4]
+    CPF: 080.929.517-21
+    Nome: HONORILDO VIEIRA RIBEIRO BATISTA
+    Logradouro: JOAO FRIGINI
+    Número: 198
+    Bairro: GUARANA
+  [5]
+    CPF: 114.165.877-13
+    Nome: MONICA DOS SANTOS PEREIRA
+    Logradouro: JOAO FRIGINI
+    Número: 158
+    Bairro: GUARANA
+  [6]
+    CPF: 992.321.207-63
+    Nome: PAULO SERGIO PINTO RODRIGUES
+    Logradouro: JOAO FRIGINI
+    Número: SN
+    Bairro: GUARANA
+  [7]
+    CPF: 838.774.017-91
+    Nome: ODAIR BRAIDO
+    Logradouro: JOAO FRIGINI
+    Número: 10
+    Bairro: GUARANA
+  [8]
+    CPF: 080.777.417-03
+    Nome: ROSANGELA GALDINO PEREIRA
+    Logradouro: JOAO FRIGINI
+    Número: SN
+    Bairro: GUARANA
+  [9]
+    CPF: 170.857.817-00
+    Nome: JAMILLY NUNES DE JESUS
+    Logradouro: JOAO FRIGINI
+    Número: 122
+    Bairro: GUARANA
+  [10]
+    CPF: 077.899.157-11
+    Nome: PAULINA AZEVEDO GUIDOLINI
+    Logradouro: JOAO FRIGINI
+    Número: 14
+    Bairro: GUARANA
+  [11]
+    CPF: 117.895.347-55
+    Nome: MARCELA DOS SANTOS BOTELHO
+    Logradouro: JOAO FRIGINI
+    Número: 172
+    Bairro: GUARANA
+  [12]
+    CPF: 078.884.647-77
+    Nome: VERA LUCIA BERNARDO RIBEIRO BOTELHO
+    Logradouro: JOAO FRIGINI
+    Número: 86
+    Bairro: GUARANA
+  [13]
+    CPF: 001.734.967-25
+    Nome: BENEDITO RIBEIRO
+    Logradouro: JOAO FRIGINI
+    Número: 92
+    Bairro: GUARANA
+  [14]
+    CPF: 092.950.717-78
+    Nome: ELISANGELA BERNARDO RIBEIRO
+    Logradouro: JOAO FRIGINI
+    Número: 90
+    Bairro: GUARANA
+  [15]
+    CPF: 091.242.287-45
+    Nome: CECILIA CHAGAS PAIXAO
+    Logradouro: JOAO FRIGINI
+    Número: SN
+    Bairro: GUARANA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (27) 99512-1529
+    Nome: DIONIS GABRIEL CAMPOS
+    Cidade: ARACRUZ
+    UF: ES
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1081
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 484.34
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (27) 99872-0687
+    Ddd: 27
+    Número: 998720687
+    Tipo: 3
+    Data Inclusao: 10/07/2019
+    Classificacao: D
+Occupation Code: 992115
+Occupation Name: Borracheiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

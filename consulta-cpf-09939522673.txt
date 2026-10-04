@@ -1,0 +1,286 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09939522673
+Data/Hora:  04/10/2026, 12:49:44
+Tempo API:  234ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 099.395.226-73
+Nome: EDELMAN COSTA BARBOSA VILELA ARAUJO
+Primeiro Nome: EDELMAN
+Sobrenome: ARAUJO
+Sexo: I
+Data de Nascimento: 18/01/1995
+Nome da Mãe: MARIA IMACULADA COSTA
+Nome do Pai: JOAQUIM BARBOSA VILELA
+RG: 396241098
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Ocupação: Atendente comercial (agência postal)
+Score:
+  Value: 129
+  Range: ALTISSIMO
+E-mail: isvanaraujo@outlook.com
+Additional Emails: (2 item(s))
+  - isvanaraujo@outlook.com
+  - thyka1233@gmail.com
+Federal Status: REGULAR
+Renda: 1104
+Income Bracket: 2
+Cbo: 521140
+Endereço:
+  Tipo: RUA
+  Rua: GERALDO
+  Número: 424
+  Complemento: 424
+  Bairro: CENTRO
+  Cidade: BOA ESPERANCA
+  Estado: MINAS GERAIS
+  CEP: 37170-000
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GERALDO
+    Número: 424
+    Complemento: 424
+    Bairro: CENTRO
+    Cidade: BOA ESPERANCA
+    Estado: MINAS GERAIS
+    CEP: 37170-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SAO GERALDO
+    Número: 427
+    Bairro: CENTENARIO
+    Cidade: BOA ESPERANCA - MG
+    Fonte: DATASUS
+Vehicles:
+  Count: 0
+Cidade de Nascimento: BOA ESPERANCA - MG
+Cns: 708608531103686
+Rg Issue Date: 1123124400000
+Paycom:
+  E-mail: thyka1233@gmail.com
+  Data de Nascimento: 18/01/1995
+  Created At: 2021-04-02 19:56:43
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Sao geraldo
+    Número: 424
+    Complemento: Fundos
+    Bairro: Centenario
+    Cidade: Boa Esperança
+    Estado: MG
+    País: BRA
+    CEP: 37170-000
+    Telephone: +55 (35) 98818-5146
+Telefones: (4 item(s))
+  - +55 (35) 98818-5146
+  - (35) 98708-7899
+  - (35) 98708-3247
+  - (35) 3851-5134
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/09/2019
+    Mosaic New: D12
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: GERALDO
+      Número: 424
+      Complemento: 424
+      Bairro: CENTRO
+      Cidade: BOA ESPERANCA
+      Estado: MG
+      CEP: 37170-000
+      Date Added: 27/04/2016
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 987087899
+      Ddd: 35
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/06/2013
+      Info Date: 27/05/2014
+    [2]
+      Telefone: 987083247
+      Ddd: 35
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 29/03/2019
+    [3]
+      Telefone: 38515134
+      Ddd: 35
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 17/11/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: isvanaraujo@outlook.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 51
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 129
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 114.264.156-21
+      Nome: DIEGO FERNANDO COSTA SILVA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 9252766855
+      Nome: MARIA IMACULADA COSTA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 382.08
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 150.420.118-38
+    Nome: GLAUCIA MARIA CUNHA FAGUNDES
+    Logradouro: JOAO JULIO FARIA
+    Número: 122
+  [2]
+    CPF: 074.920.836-88
+    Nome: WALISSON SOUSA CRISPIM
+    Logradouro: JASMIM
+    Número: 107
+    Bairro: MAGNOLIA
+  [3]
+    CPF: 051.556.456-70
+    Nome: DANIEL NOVAIS DA SILVA
+    Logradouro: MANOEL PEDRO DA SILVA
+    Número: 275
+  [4]
+    CPF: 051.318.026-52
+    Nome: CLARICE APARECIDA PINHEIRO
+    Logradouro: PROJETADA
+    Número: 61
+    Bairro: NOSSA SENHORA APAREC
+  [5]
+    CPF: 094.934.026-06
+    Nome: JOAO PAULO DINALI SANTOS OLIVEIRA
+    Logradouro: ESMERALDA
+    Número: 36
+    Bairro: JD ALVORADA
+  [6]
+    CPF: 050.603.976-53
+    Nome: HELIO CELESTINO DA COSTA
+    Logradouro: JOSE FREIRE
+    Número: 137
+    Bairro: CENTRO
+  [7]
+    CPF: 050.052.856-01
+    Nome: SHEILA REIS SAVANHANI MACHADO
+    Logradouro: SAMUEL MOURA
+    Número: 325
+  [8]
+    CPF: 052.369.486-57
+    Nome: CLAUDIA MARIA FAGUNDES BERNARDES
+    Logradouro: JOSE VERISSIMO MIRANDA
+    Número: 140
+  [9]
+    CPF: 052.369.486-57
+    Nome: CLAUDIA MARIA FAGUNDES BERNARDES
+    Logradouro: AVELINO TOME DAS CHAGAS
+    Número: 49
+  [10]
+    CPF: 118.143.046-14
+    Nome: THAIS GONCALVES SILVA
+    Logradouro: PEDRO CAZANGA
+    Número: 280
+  [11]
+    CPF: 049.685.566-24
+    Nome: FLAVIA CRISTINA DA SILVA BARBOSA
+    Logradouro: PARANA
+    Número: 91
+  [12]
+    CPF: 033.635.496-79
+    Nome: FRANCISCO DE PAULA VITOR SILVA
+    Logradouro: COMTIPO JOAO DE ABREU VILELA
+    Número: 754
+    Bairro: CENTRO
+  [13]
+    CPF: 948.919.076-49
+    Nome: NAIR DE JESUS CORREA SANTANA
+    Logradouro: MANOEL PEDRO DA SILVA
+    Número: 90
+  [14]
+    CPF: 049.404.416-01
+    Nome: MARIA DAS GRACAS GONCALVES DA SILVA
+    Logradouro: OSCAR ALEMAO
+    Número: 76
+  [15]
+    CPF: 033.815.314-41
+    Nome: JOSE JUNHO ALVES DE MEDEIROS
+    Logradouro: VAROES
+    Número: 330
+    Bairro: VL BELEM
+E-mails: (2 item(s))
+  - isvanaraujo@outlook.com
+  - thyka1233@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1104
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 382.08
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (35) 98708-7899
+    Ddd: 35
+    Número: 987087899
+    Tipo: 3
+    Data Inclusao: 10/06/2013
+    Data Informacao: 27/05/2014
+    Classificacao: D
+  [2]
+    Telefone: (35) 98708-3247
+    Ddd: 35
+    Número: 987083247
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: A2
+  [3]
+    Telefone: (35) 3851-5134
+    Ddd: 35
+    Número: 38515134
+    Tipo: FIXO
+    Data Inclusao: 17/11/2019
+    Classificacao: A2
+Occupation Code: 421105
+Occupation Name: Atendente comercial (agência postal)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

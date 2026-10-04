@@ -1,0 +1,387 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  42937135811
+Data/Hora:  02/10/2026, 16:24:27
+Tempo API:  751ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 429.371.358-11
+Nome: NAYARA REZENDE DE SOUZA
+Primeiro Nome: NAYARA
+Sobrenome: SOUZA
+Sexo: Feminino
+Data de Nascimento: 05/02/1993
+Nome da Mãe: SANDRA GENI DA SILVA SOUZA
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 154
+  Range: ALTISSIMO
+E-mail: B8C71697D238@ACS.COM.BR
+Federal Status: REGULAR
+Renda: 1334
+Income Bracket: 2
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+  Número: 50
+  Complemento: AP 71
+  Bairro: AVIACAO
+  Cidade: PRAIA GRANDE
+  Estado: SAO PAULO
+  CEP: 11702-410
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 50
+    Complemento: AP 71
+    Bairro: AVIACAO
+    Cidade: PRAIA GRANDE
+    Estado: SAO PAULO
+    CEP: 11702-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AVENIDA CARLOS MARTINIANO DE ANDRADE
+    Número: 50
+    Bairro: AVIA AO
+    Cidade: PRAIA GRANDE - SP
+    Fonte: DATASUS
+  [3]
+    Rua: AYRTON SENNA DA SILVA
+    Tipo: AV
+    Número: 1511
+    Complemento: LJ
+    Bairro: SIT DO CAMPO
+    Cidade: PRAIA GRANDE
+    Estado: SP
+    CEP: 11726-000
+    Data Atualizacao: 03/01/2017
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (13) 98157-3426
+  - (13) 6005-2072
+  - +55 (13) 98157-3426
+  - (13) 3596-1056
+  - (13) 3596-6612
+  - (13) 99620-6242
+  - (13) 3596-4879
+  - (13) 3473-2398
+Datasus Phones: (1 item(s))
+  - (13) 3481-4385
+Cidade de Nascimento: INVALIDO
+Cns: 706300729300472
+Paycom:
+  E-mail: nayararezende93@hotmail.com
+  Data de Nascimento: 05/02/1993
+  Created At: 2015-11-09 00:00:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Rua Carlos Martiniano de Andrade Bitencourt
+    Número: 50
+    Complemento: 71 
+    Bairro: Aviação
+    Cidade: Praia Grande
+    Estado: SP
+    País: BRA
+    CEP: 11702-410
+    Telephone: (13) 98157-3426
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Mosaic New: C06
+    Mosaic Secondary: C08
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+      Número: 50
+      Complemento: AP 71
+      Bairro: AVIACAO
+      Cidade: PRAIA GRANDE
+      Estado: SP
+      CEP: 11702-410
+      Date Added: 22/05/2013
+    [2]
+      Tipo: AV
+      Rua: AYRTON SENNA DA SILVA
+      Número: 1511
+      Complemento: LJ
+      Bairro: SIT DO CAMPO
+      Cidade: PRAIA GRANDE
+      Estado: SP
+      CEP: 11726-000
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 35966612
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 06/01/2012
+      Info Date: 28/10/2011
+    [2]
+      Telefone: 996206242
+      Ddd: 13
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 25/10/2012
+    [3]
+      Telefone: 35964879
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 25/10/2012
+    [4]
+      Telefone: 34732398
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 24/09/2013
+      Info Date: 16/09/2013
+    [5]
+      Telefone: 981573426
+      Ddd: 13
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 02/04/2018
+      Info Date: 25/03/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: n.rezendedesouza@globo.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: nayararezendedesouza93@hotmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+    [3]
+      E-mail: b8c71697d238@acs.com.br
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 19/09/2016
+  Score:
+    CSB8: 354
+    CSB8 FAIXA: MEDIO
+    CSBA: 154
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 161.153.268-00
+      Nome: SANDRA GENI DA SILVA SOUZA
+      Vinculo: MAE
+  Pis: 21073324402
+Additional Emails: (3 item(s))
+  - n.rezendedesouza@globo.com
+  - nayararezendedesouza93@hotmail.com
+  - b8c71697d238@acs.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 317.664.898-77
+    Nome: LEANDRO ROUTH
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 193
+    Bairro: AVIACAO
+  [2]
+    CPF: 252.401.598-07
+    Nome: ROGERIO SANTOS DOS SANTOS
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 193
+    Bairro: AVIACAO
+  [3]
+    CPF: 286.342.668-00
+    Nome: MARIO RIBEIRO SIMONETO
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 93
+    Bairro: AVIACAO
+  [4]
+    CPF: 012.603.028-65
+    Nome: MARIA DO SOCORRO DE SOUSA
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 646
+    Bairro: AVIACAO
+  [5]
+    CPF: 087.416.944-57
+    Nome: EDVANE ROSA DE LIMA
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 525
+    Bairro: AVIACAO
+  [6]
+    CPF: 467.473.386-34
+    Nome: MARIA DUVIRGEM FAGUNDES
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 477
+    Bairro: AVIACAO
+  [7]
+    CPF: 108.370.548-26
+    Nome: MANUEL GUILHERME ISIDORO NETO
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 495
+    Bairro: AVIACAO
+  [8]
+    CPF: 320.158.188-71
+    Nome: FERNANDA CARDOSO FERREIRA
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 164
+    Bairro: AVIACAO
+  [9]
+    CPF: 418.866.428-26
+    Nome: VINICIUS FRANCISCO DOS SANTOS
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 264
+    Bairro: AVIACAO
+  [10]
+    CPF: 420.679.498-70
+    Nome: MARIA CELESTE ALVES
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 642
+    Bairro: AVIACAO
+  [11]
+    CPF: 237.100.558-49
+    Nome: JOSE SERGIO PEREIRA
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 550
+    Bairro: AVIACAO
+  [12]
+    CPF: 028.089.552-60
+    Nome: GLEICIANE LOPES RIBEIRO
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 93
+    Bairro: AVIACAO
+  [13]
+    CPF: 076.449.811-87
+    Nome: PAULO ROBERTO VIANA
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 50
+    Bairro: AVIACAO
+  [14]
+    CPF: 614.873.928-34
+    Nome: WILSON RIZZO
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 93
+    Bairro: AVIACAO
+  [15]
+    CPF: 090.312.488-27
+    Nome: MARCOS AFONSO SILVA
+    Logradouro: CARLOS MARTINIANO DE ANDRADE BITENCOURT
+    Número: 47
+    Bairro: AVIACAO
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (13) 6005-2072
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 21AUG2014:00:00:00
+    Cel Contato: +5513981573426
+    Complemento: AL - Altos: NA APT71;
+    Data Retirada: 05OCT2020:20:12:08
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (13) 3596-1056
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 01APR2014:00:00:00
+    Cel Contato: +5513981573426
+    Complemento: AL - Altos: NA APT71;
+    Tipo Cliente: Residencial
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (13) 3596-1056
+    Nome: NAYARA REZENDE DE SOUZA
+    Cidade: PRAIA GR
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+E-mails: (3 item(s))
+  - b8c71697d238@acs.com.br
+  - n.rezendedesouza@globo.com
+  - nayararezendedesouza93@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1334
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (13) 3596-6612
+    Ddd: 13
+    Número: 35966612
+    Tipo: FIXO
+    Data Inclusao: 06/01/2012
+    Data Informacao: 28/10/2011
+    Classificacao: D2
+  [2]
+    Telefone: (13) 99620-6242
+    Ddd: 13
+    Número: 996206242
+    Tipo: 3
+    Data Inclusao: 25/10/2012
+    Classificacao: A2
+  [3]
+    Telefone: (13) 3596-4879
+    Ddd: 13
+    Número: 35964879
+    Tipo: FIXO
+    Data Inclusao: 25/10/2012
+    Classificacao: D2
+  [4]
+    Telefone: (13) 3473-2398
+    Ddd: 13
+    Número: 34732398
+    Tipo: FIXO
+    Data Inclusao: 24/09/2013
+    Data Informacao: 16/09/2013
+    Classificacao: D2
+  [5]
+    Telefone: (13) 98157-3426
+    Ddd: 13
+    Número: 981573426
+    Tipo: 3
+    Data Inclusao: 02/04/2018
+    Data Informacao: 25/03/2018
+    Classificacao: A0
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

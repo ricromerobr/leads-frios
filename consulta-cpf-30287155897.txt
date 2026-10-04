@@ -1,0 +1,339 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  30287155897
+Data/Hora:  04/10/2026, 14:34:14
+Tempo API:  552ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 302.871.558-97
+Nome: LUCAS FERNANDO GONCALVES
+Primeiro Nome: LUCAS
+Sobrenome: GONCALVES
+Sexo: Masculino
+Data de Nascimento: 28/11/1981
+Nome da Mãe: MARIA DAS GRACAS FAVARIM GONCALVES
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 225542490183
+Mosaic: C09
+Ocupação: Mecânico de manutenção de máquinas, em geral
+Score:
+  Value: 905
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 6848
+Income Bracket: 5
+Cbo: 911305
+Endereço:
+  Tipo: RUA
+  Rua: 18
+  Número: 3717
+  Complemento: CS
+  Bairro: IBIRAPUERA
+  Cidade: BARRETOS
+  Estado: SAO PAULO
+  CEP: 14784-168
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 18
+    Número: 3717
+    Complemento: CS
+    Bairro: IBIRAPUERA
+    Cidade: BARRETOS
+    Estado: SAO PAULO
+    CEP: 14784-168
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA
+    Número: 3717
+    Bairro: IBIRAPUERA
+    Cidade: BARRETOS - SP
+    Fonte: DATASUS
+  [3]
+    Rua: DEZESSEIS
+    Tipo: R
+    Número: 3093
+    Bairro: IBIRAPUERA
+    Cidade: BARRETOS
+    Estado: SP
+    CEP: 14784-162
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ALACYR BARTHOLOMEU BARONI
+    Tipo: R
+    Número: 1090
+    Bairro: JD ARIZONA
+    Cidade: BARRETOS
+    Estado: SP
+    CEP: 14781-292
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CENTRAL
+    Tipo: AV
+    Número: 1
+    Bairro: FRIGORIFICO
+    Cidade: BARRETOS
+    Estado: SP
+    CEP: 14784-900
+    Data Atualizacao: 09/04/2010
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: YAMAHA
+      Modelo: XT 660R
+      Ano: 2012
+    [2]
+      Marca: FIAT
+      Modelo: UNO MILLE WAY ECON
+      Ano: 2010
+    [3]
+      Marca: FIAT
+      Modelo: PALIO YOUNG
+      Ano: 2000
+Telefones: (4 item(s))
+  - (17) 99285-5254
+  - (17) 99198-1925
+  - (17) 3322-6507
+  - (17) 99196-1172
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 701100837612480
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 23/09/2019
+    Info Date: 06/08/2007
+    Mosaic: C09
+    Mosaic New: E18
+    Mosaic Secondary: E16
+    Income Bracket Id: 9
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: DEZESSEIS
+      Número: 3093
+      Bairro: IBIRAPUERA
+      Cidade: BARRETOS
+      Estado: SP
+      CEP: 14784-162
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: ALACYR BARTHOLOMEU BARONI
+      Número: 1090
+      Bairro: JD ARIZONA
+      Cidade: BARRETOS
+      Estado: SP
+      CEP: 14781-292
+      Date Added: 23/09/2019
+    [3]
+      Tipo: R
+      Rua: DEZOITO
+      Número: 3717
+      Complemento: C
+      Bairro: IBIRAPUERA
+      Cidade: BARRETOS
+      Estado: SP
+      CEP: 14784-168
+      Date Added: 10/06/2008
+    [4]
+      Tipo: AV
+      Rua: CENTRAL
+      Número: 1
+      Bairro: FRIGORIFICO
+      Cidade: BARRETOS
+      Estado: SP
+      CEP: 14784-900
+      Date Added: 13/02/2008
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 33226507
+      Ddd: 17
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 11/06/2008
+      Info Date: 30/08/2006
+    [2]
+      Telefone: 991961172
+      Ddd: 17
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 10/09/2019
+      Info Date: 31/08/2019
+  Score:
+    CSB8: 679
+    CSB8 FAIXA: BAIXO
+    CSBA: 905
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 138.858.738-69
+      Nome: CLAUDIA CATARINA GONCALVES
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 258.254.938-08
+      Nome: MARIA DAS GRACAS FAVARIM GONCALVES
+      Vinculo: MAE
+    [3]
+      CPF: 195.067.958-60
+      Nome: FABIANA APARECIDA GONCALVES
+      Vinculo: IRMA(O)
+  Pis: 12723414177
+  Tse:
+    Titulo: 225542490183
+    Zona: 21
+    Secao: 130
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO ALTO
+    RENDA PODER AQUISITIVO: 6148.27
+    FX PODER AQUISITIVO: De R$ 4082 até R$ 7017
+    COD PODER AQUISITIVO: 5
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 047.608.398-28
+    Nome: ZENAIDE JESUS DE SOUZA
+    Logradouro: DEZESSEIS
+    Número: 3767
+    Bairro: IBIRAPUERA
+  [2]
+    CPF: 181.022.468-39
+    Nome: KATIA ADRIANA MACEDO PEZENTE
+    Logradouro: DEZESSEIS
+    Número: 3745
+    Bairro: IBIRAPUERA
+  [3]
+    CPF: 369.321.078-05
+    Nome: JAQUELINE APARECIDA CUSTODIO INACIO
+    Logradouro: DEZESSEIS
+    Número: 3704
+    Bairro: IBIRAPUERA
+  [4]
+    CPF: 363.021.488-63
+    Nome: JERRI ADRIANO RODRIGUES
+    Logradouro: DEZESSEIS
+    Número: 3306
+    Bairro: IBIRAPUERA
+  [5]
+    CPF: 053.433.288-90
+    Nome: JOSE AUGUSTO TRIVELATO
+    Logradouro: DEZESSEIS
+    Número: 3284
+    Bairro: IBIRAPUERA
+  [6]
+    CPF: 609.550.406-63
+    Nome: ERIVALDO MARQUES SOBRINHO
+    Logradouro: DEZESSEIS
+    Número: 3113
+    Bairro: IBIRAPUERA
+  [7]
+    CPF: 344.235.658-03
+    Nome: ADRIANO CARLOS TOZZI
+    Logradouro: DEZESSEIS
+    Número: 3745
+    Bairro: IBIRAPUERA
+  [8]
+    CPF: 169.687.608-78
+    Nome: ADILSON BARRETO DOS SANTOS
+    Logradouro: DEZESSEIS
+    Número: 3006
+    Bairro: IBIRAPUERA
+  [9]
+    CPF: 324.040.856-20
+    Nome: JORGE APARECIDO CUSTODIO
+    Logradouro: DEZESSEIS
+    Número: 3704
+    Bairro: IBIRAPUERA
+  [10]
+    CPF: 166.395.548-44
+    Nome: SAMIR MUHAMID
+    Logradouro: DEZESSEIS
+    Número: 3711
+    Bairro: IBIRAPUERA
+  [11]
+    CPF: 105.456.358-61
+    Nome: ROGERIO APARECIDO FERREIRA
+    Logradouro: DEZESSEIS
+    Número: 3490
+    Bairro: IBIRAPUERA
+  [12]
+    CPF: 328.180.728-32
+    Nome: MARIA PAULA REIS BARBOSA
+    Logradouro: DEZESSEIS
+    Número: 3132
+    Bairro: IBIRAPUERA
+  [13]
+    CPF: 098.316.838-54
+    Nome: APARECIDO FERREIRA
+    Logradouro: DEZESSEIS
+    Número: 3605
+    Bairro: IBIRAPUERA
+  [14]
+    CPF: 400.885.308-17
+    Nome: JENAINA MARCELA DE ALMEIDA FERREIRA
+    Logradouro: DEZESSEIS
+    Número: 3569
+    Bairro: IBIRAPUERA
+  [15]
+    CPF: 141.161.828-93
+    Nome: MARIA APARECIDA PEREZ DE SOUZA
+    Logradouro: DEZESSEIS
+    Número: 3530
+    Bairro: IBIRAPUERA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (17) 99198-1925
+    Nome: LUCAS FERNANDO GONCALVES
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 5
+Renda Estimativas:
+  Presumida:
+    Valor: 6848
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 6148.27
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (17) 3322-6507
+    Ddd: 17
+    Número: 33226507
+    Tipo: FIXO
+    Data Inclusao: 11/06/2008
+    Data Informacao: 30/08/2006
+    Classificacao: D2
+  [2]
+    Telefone: (17) 99196-1172
+    Ddd: 17
+    Número: 991961172
+    Tipo: 3
+    Data Inclusao: 10/09/2019
+    Data Informacao: 31/08/2019
+    Classificacao: A0
+Occupation Code: 911305
+Occupation Name: Mecânico de manutenção de máquinas, em geral
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,566 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17821162817
+Data/Hora:  03/10/2026, 15:45:09
+Tempo API:  729ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 178.211.628-17
+Nome: FABIANA DE SOUZA
+Primeiro Nome: FABIANA
+Sobrenome: SOUZA
+Sexo: Feminino
+Data de Nascimento: 13/12/1975
+Nome da Mãe: ZELINDA RIBEIRO DE SOUZA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 2515685707
+Rg Issuer: SSP
+Rg State: SP
+Voter Id: 250685860183
+Mosaic: B03
+Ocupação: Técnico em secretariado
+Score:
+  Value: 788
+  Range: BAIXISSIMO RISCO
+E-mail: fabiana.souza8@merck.com
+Additional Emails: (5 item(s))
+  - fabiana.souza8@merck.com
+  - fabi_de_souza@yahoo.com.br
+  - fabiana.souza@zipmail.com.br
+  - fabiana.souza@wkkf.org
+  - fabiana82@hotmail.com
+Federal Status: REGULAR
+Renda: 9189
+Income Bracket: 6
+Cbo: 411010
+Endereço:
+  Tipo: RUA
+  Rua: ANACONDA
+  Complemento: CASA
+  Bairro: PQ ORATORIO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 09270-460
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANACONDA
+    Complemento: CASA
+    Bairro: PQ ORATORIO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 09270-460
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R JOAO VELHO DO REGO
+    Número: 355
+    Bairro: JARDIM COLONIAL
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: RUA ALEXANDRE DUMAS
+    Número: 2016
+    Bairro: CHÁCARA SANTO ANTÔNIO (ZONA SU
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04717-004
+    Fonte: SARAIVA
+  [4]
+    Rua: DOS IMIGRANTES ITALIANOS
+    Tipo: AV
+    Número: 2061
+    Complemento: AP 54 B
+    Bairro: PTE DE SAO JOAO
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 13218-090
+    Data Atualizacao: 04/07/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: OSVALDO DE ANDRADE
+    Tipo: R
+    Número: 111
+    Complemento: C 8
+    Bairro: VL CRUZEIRO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04727-160
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: RIO NEGRO
+    Tipo: AL
+    Número: 1084
+    Complemento: AND C 31 3
+    Bairro: ALPHAVILLE CENTRO INDUSTRIAL E EMPRESARI
+    Cidade: BARUERI
+    Estado: SP
+    CEP: 06454-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: JOAO VELHO DO REGO
+    Tipo: AV
+    Número: 355
+    Bairro: PRQ COLONIAL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03967-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Rua: ANACONDA
+    Tipo: R
+    Número: 220
+    Complemento: CS
+    Bairro: PRQ NOVO ORATORIO
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09270-460
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [9]
+    Tipo: AV
+    Rua: JOAO VELHO DO REGO
+    Número: 0000355
+    Bairro: PARQUE COLONIAL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03967-000
+    Fonte: ASSECC
+  [10]
+    CEP: 00000-000
+    Fonte: BR21M
+  [11]
+    Tipo: AVENIDA
+    Rua: AV JOAO VELHO DO REGO  355 CASA 1
+    Número: 355
+    Bairro: PARQUE COLONIAL
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (11) 99988-8881
+  - (11) 51897-4746
+  - +55 (11) 99988-8881
+  - (11) 2011-0167
+  - (11) 3205-2142
+  - (11) 5189-7746
+  - (11) 99371-9892
+  - (11) 98554-6610
+  - (11) 5189-7745
+  - (11) 3882-4528
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 702505331118239
+Saraiva:
+  Customer Id: 5387291
+  Telefone: (11) 51897-4746
+  E-mail: FABI_DE_SOUZA@YAHOO.COM.BR
+  Data de Nascimento: 13/12/1975
+Paycom:
+  E-mail: fabi_de_souza@yahoo.com.br
+  Data de Nascimento: 13/12/1975
+  Created At: 2021-08-29 13:04:48
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua João Velho do Rêgo
+    Número: 355
+    Bairro: São Mateus
+    Cidade: São Paulo
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 99988-8881
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/11/2019
+    Info Date: 14/11/2007
+    Rg Issuer: SSP
+    Rg State: SP
+    Mosaic: B03
+    Mosaic New: E16
+    Mosaic Secondary: E17
+    Income Bracket Id: 12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: DOS IMIGRANTES ITALIANOS
+      Número: 2061
+      Complemento: AP 54 B
+      Bairro: PTE DE SAO JOAO
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13218-090
+      Date Added: 16/04/2009
+    [2]
+      Tipo: R
+      Rua: OSVALDO DE ANDRADE
+      Número: 111
+      Complemento: C 8
+      Bairro: VL CRUZEIRO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04727-160
+      Date Added: 12/12/2018
+    [3]
+      Tipo: AL
+      Rua: RIO NEGRO
+      Número: 1084
+      Complemento: AND C 31 3
+      Bairro: ALPHAVILLE CENTRO INDUSTRIAL E EMPRESARI
+      Cidade: BARUERI
+      Estado: SP
+      CEP: 06454-000
+      Date Added: 01/02/2018
+    [4]
+      Tipo: AV
+      Rua: JOAO VELHO DO REGO
+      Número: 355
+      Bairro: PRQ COLONIAL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03967-000
+      Date Added: 25/08/2016
+    [5]
+      Tipo: R
+      Rua: ANACONDA
+      Número: 220
+      Complemento: CS
+      Bairro: PRQ NOVO ORATORIO
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09270-460
+      Date Added: 30/09/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 51897746
+      Ddd: 11
+      Tipo: 2
+      Classificacao: D
+      Date Added: 09/04/2013
+      Info Date: 23/03/2013
+    [2]
+      Telefone: 993719892
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 985546610
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 25/01/2018
+    [4]
+      Telefone: 51897745
+      Ddd: 11
+      Tipo: 2
+      Classificacao: D
+      Date Added: 15/02/2018
+    [5]
+      Telefone: 38824528
+      Ddd: 11
+      Tipo: 2
+      Classificacao: D
+      Date Added: 15/02/2018
+  E-mails: (5 item(s))
+    [1]
+      E-mail: fabi_de_souza@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: fabiana.souza@zipmail.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [3]
+      E-mail: fabiana.souza8@merck.com
+      Priority: 3
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+    [4]
+      E-mail: fabiana.souza@wkkf.org
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [5]
+      E-mail: fabiana82@hotmail.com
+      Priority: 5
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 829
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 788
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 277.222.988-26
+      Nome: FERNANDA APARECIDA SOUZA DE ALENCAR
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 190.749.178-36
+      Nome: ZELINDA RIBEIRO DE SOUZA
+      Vinculo: MAE
+  Pis: 12505906981
+  Tse:
+    Titulo: 250685860183
+    Zona: 375
+    Secao: 70
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 14084.35
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 222.730.838-90
+    Nome: IZAIAS APARECIDO DELFINO JUNIOR
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [2]
+    CPF: 024.682.918-40
+    Nome: FIDELIS GARCIA
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2233
+    Bairro: PTE DE SAO JOAO
+  [3]
+    CPF: 428.863.738-42
+    Nome: FILIPE DA SILVA CARDOSO
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2111
+    Bairro: PTE DE SAO JOAO
+  [4]
+    CPF: 424.674.308-98
+    Nome: EVELIN CAROLINE TONDATI BIROLIN
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [5]
+    CPF: 222.140.888-81
+    Nome: CECILIA TORRES DE CARVALHO BRANDAO
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [6]
+    CPF: 356.868.908-11
+    Nome: FABIANE CRISTINA FONSECA NAKAJIMA
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [7]
+    CPF: 312.105.108-39
+    Nome: LUCILENE DE ASSIS DEZIDERIO
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2061
+    Bairro: PTE DE SAO JOAO
+  [8]
+    CPF: 076.672.408-50
+    Nome: HELOISA HELENA ROMANI
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [9]
+    CPF: 416.296.298-71
+    Nome: ALEXANDRE VIOLA JUNIOR
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [10]
+    CPF: 386.077.228-75
+    Nome: KAREN FERNANDA PIMENTA
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 1973
+    Bairro: PTE DE SAO JOAO
+  [11]
+    CPF: 722.210.708-87
+    Nome: ANTONIO MANOEL DE JESUS NETO
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2207
+    Bairro: PTE DE SAO JOAO
+  [12]
+    CPF: 030.683.855-98
+    Nome: ANDERSON DE JESUS PEREIRA
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 1973
+    Bairro: PTE DE SAO JOAO
+  [13]
+    CPF: 446.837.745-34
+    Nome: ULENICE PEREIRA DE OLIVEIRA
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 60
+    Bairro: PTE DE SAO JOAO
+  [14]
+    CPF: 408.128.318-45
+    Nome: IVANICE DA SILVA SANTOS
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+  [15]
+    CPF: 220.972.688-38
+    Nome: LEANDRO GUIDO
+    Logradouro: DOS IMIGRANTES ITALIANOS
+    Número: 2041
+    Bairro: PTE DE SAO JOAO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 99988-8881
+    Nome: FABIANA DE SOUZA
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 99988-8881
+    Nome: FABIANA DE SOUZA
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 99988-8881
+    Nome: FABIANA DE SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 396656670
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 19/09/2019
+    Tempo Base: 11
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201909
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 13/12/1975
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 3940
+      Classe Social: C1
+      Score: 786
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 915
+        Net: 892
+        Ctv: 819
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 45
+E-mails: (5 item(s))
+  - fabiana.souza8@merck.com
+  - fabi_de_souza@yahoo.com.br
+  - fabiana.souza@zipmail.com.br
+  - fabiana.souza@wkkf.org
+  - fabiana82@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 6
+Renda Estimativas:
+  Presumida:
+    Valor: 9189
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 14084.35
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 3940
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 5189-7746
+    Ddd: 11
+    Número: 51897746
+    Tipo: CELULAR
+    Data Inclusao: 09/04/2013
+    Data Informacao: 23/03/2013
+    Classificacao: D
+  [2]
+    Telefone: (11) 99371-9892
+    Ddd: 11
+    Número: 993719892
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (11) 98554-6610
+    Ddd: 11
+    Número: 985546610
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C2
+  [4]
+    Telefone: (11) 5189-7745
+    Ddd: 11
+    Número: 51897745
+    Tipo: CELULAR
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 3882-4528
+    Ddd: 11
+    Número: 38824528
+    Tipo: CELULAR
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+Occupation Code: 351505
+Occupation Name: Técnico em secretariado
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

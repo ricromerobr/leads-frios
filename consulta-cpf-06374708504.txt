@@ -1,0 +1,352 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06374708504
+Data/Hora:  03/10/2026, 23:56:26
+Tempo API:  683ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 063.747.085-04
+Nome: GABRIELLE SANTANA MARTINS
+Primeiro Nome: GABRIELLE
+Sobrenome: MARTINS
+Sexo: Feminino
+Data de Nascimento: 19/10/1996
+Nome da Mãe: CLAUDIA SOUZA DE SANTANA MARTINS
+Ocupação: Recepcionista, em geral
+Score:
+  Value: 82
+  Range: ALTISSIMO
+E-mail: gabi_martins02@outlook.com
+Additional Emails: (3 item(s))
+  - gabi_martins02@outlook.com
+  - gabi_santana02@live.com
+  - ronaldobia@hotmail.com
+Federal Status: REGULAR
+Renda: 1159
+Income Bracket: 2
+Cbo: 521130
+Endereço:
+  Tipo: RUA
+  Rua: LADEIRA DO ACUPE
+  Bairro: ACUPE DE BROTAS
+  Cidade: SALVADOR
+  Estado: BAHIA
+  CEP: 40290-160
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LADEIRA DO ACUPE
+    Bairro: ACUPE DE BROTAS
+    Cidade: SALVADOR
+    Estado: BAHIA
+    CEP: 40290-160
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SILVEIRA MARTINS
+    Tipo: R
+    Número: SN
+    Complemento: BL BLOCOS 29 A
+    Bairro: SABOEIRO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41180-005
+    Data Atualizacao: 25/03/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: DO ACUPE
+    Tipo: LD
+    Número: 64
+    Complemento: AP 401 COND LUCIMAR
+    Bairro: ACUPE DE BROTAS
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40290-160
+    Data Atualizacao: 12/11/2018
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (71) 99907-1993
+  - (71) 3043-2861
+  - +55 (71) 99616-9942
+  - (71) 98323-5951
+  - (71) 3356-2803
+  - (71) 99616-9942
+  - (71) 99174-7296
+  - (71) 98676-7162
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/04/2019
+    Mosaic New: C06
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: SILVEIRA MARTINS
+      Número: SN
+      Complemento: BL BLOCOS 29 A
+      Bairro: SABOEIRO
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41180-005
+      Date Added: 01/02/2018
+    [2]
+      Tipo: LD
+      Rua: DO ACUPE
+      Número: 64
+      Complemento: AP 401 COND LUCIMAR
+      Bairro: ACUPE DE BROTAS
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40290-160
+      Date Added: 23/04/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33562803
+      Ddd: 71
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/05/2017
+      Info Date: 20/10/2017
+    [2]
+      Telefone: 996169942
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+    [3]
+      Telefone: 991747296
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 986767162
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 30432861
+      Ddd: 71
+      Tipo: 1
+      Classificacao: B
+      Date Added: 25/03/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: gabi_santana02@live.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: ronaldobia@hotmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+  Score:
+    CSB8: 51
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 82
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: CLAUDIA SOUZA DE SANTANA MARTINS
+      Vinculo: MAE
+  Pis: 21289303764
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 551.85
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 049.592.725-20
+    Nome: JOAO GRACA FILHO
+    Logradouro: SILVEIRA MARTINS
+    Número: 80
+    Bairro: SABOEIRO
+  [2]
+    CPF: 053.314.475-20
+    Nome: GETULIO CERQUEIRA DE OLIVEIRA
+    Logradouro: SILVEIRA MARTINS
+    Número: 21
+    Bairro: SABOEIRO
+  [3]
+    CPF: 094.398.625-72
+    Nome: EDNA MARTINS BARREIRO
+    Logradouro: SILVEIRA MARTINS
+    Número: 552
+    Bairro: SABOEIRO
+  [4]
+    CPF: 927.832.285-72
+    Nome: ANDERSON SANTANA PLANZO
+    Logradouro: SILVEIRA MARTINS
+    Número: 62
+    Bairro: SABOEIRO
+  [5]
+    CPF: 013.303.315-59
+    Nome: FRANCISCO JOSE PEREIRA BASTOS
+    Logradouro: SILVEIRA MARTINS
+    Número: SN
+    Bairro: SABOEIRO
+  [6]
+    CPF: 420.027.455-87
+    Nome: ANA LUCIA DA COSTA OLIVEIRA
+    Logradouro: SILVEIRA MARTINS
+    Número: 301
+    Bairro: SABOEIRO
+  [7]
+    CPF: 239.996.915-49
+    Nome: PEDRO FERREIRA DA SILVA FILHO
+    Logradouro: SILVEIRA MARTINS
+    Número: 33
+    Bairro: SABOEIRO
+  [8]
+    CPF: 017.846.185-78
+    Nome: EMANUELLE COSTA DE MORAES
+    Logradouro: SILVEIRA MARTINS
+    Número: 9
+    Bairro: SABOEIRO
+  [9]
+    CPF: 858.303.605-51
+    Nome: VANESSA DE SANTANA LIMEIRA
+    Logradouro: SILVEIRA MARTINS
+    Número: 25
+    Bairro: SABOEIRO
+  [10]
+    CPF: 054.440.205-72
+    Nome: ANTONIO FERREIRA SANTOS
+    Logradouro: SILVEIRA MARTINS
+    Número: 25
+    Bairro: SABOEIRO
+  [11]
+    CPF: 804.290.765-68
+    Nome: CINTIA BATISTA DO ROSARIO
+    Logradouro: SILVEIRA MARTINS
+    Número: SN
+    Bairro: SABOEIRO
+  [12]
+    CPF: 048.223.285-46
+    Nome: DANIEL ASSIS OLIVEIRA SANTOS
+    Logradouro: SILVEIRA MARTINS
+    Número: 45
+    Bairro: SABOEIRO
+  [13]
+    CPF: 028.070.125-07
+    Nome: CLEUDES JULIAM SANTIAGO TEIXEIRA
+    Logradouro: SILVEIRA MARTINS
+    Número: 19
+    Bairro: SABOEIRO
+  [14]
+    CPF: 996.923.765-91
+    Nome: RODRIGO NERY DA SILVA
+    Logradouro: SILVEIRA MARTINS
+    Número: 304
+    Bairro: SABOEIRO
+  [15]
+    CPF: 027.665.225-81
+    Nome: EDER MENESES DA SILVA E SILVA
+    Logradouro: SILVEIRA MARTINS
+    Número: 31
+    Bairro: SABOEIRO
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (71) 3043-2861
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 13MAR2017:09:04:44
+    Cel Contato: +5571996169942
+    Complemento: AP - Apartamento: 401;
+    Data Retirada: 25JAN2019:16:31:03
+    Tipo Cliente: Residencial
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (71) 98323-5951
+    Nome: GABRIELLE SANTANA MARTINS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - gabi_martins02@outlook.com
+  - gabi_santana02@live.com
+  - ronaldobia@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1159
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 551.85
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (71) 3356-2803
+    Ddd: 71
+    Número: 33562803
+    Tipo: FIXO
+    Data Inclusao: 02/05/2017
+    Data Informacao: 20/10/2017
+    Classificacao: D2
+  [2]
+    Telefone: (71) 99616-9942
+    Ddd: 71
+    Número: 996169942
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+  [3]
+    Telefone: (71) 99174-7296
+    Ddd: 71
+    Número: 991747296
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A1
+  [4]
+    Telefone: (71) 98676-7162
+    Ddd: 71
+    Número: 986767162
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (71) 3043-2861
+    Ddd: 71
+    Número: 30432861
+    Tipo: FIXO
+    Data Inclusao: 25/03/2019
+    Classificacao: B
+Occupation Code: 422105
+Occupation Name: Recepcionista, em geral
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

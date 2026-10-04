@@ -1,0 +1,433 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04207524479
+Data/Hora:  04/10/2026, 03:38:32
+Tempo API:  747ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 042.075.244-79
+Nome: RODOLFO RODRIGO DA COSTA SILVA
+Primeiro Nome: RODOLFO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 13/02/1981
+Nome da Mãe: JUVENILIA DA COSTA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 98001298187
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: AL
+Voter Id: 027857071775
+Mosaic: F20
+Ocupação: Garçom
+Score:
+  Value: 20
+  Range: ALTISSIMO
+E-mail: day_cristine@outlook.com
+Additional Emails: (2 item(s))
+  - day_cristine@outlook.com
+  - muka@viavale.com.br
+Federal Status: REGULAR
+Renda: 510
+Income Bracket: 1
+Cbo: 513405
+Endereço:
+  Tipo: RUA
+  Rua: CENTRAL
+  Bairro: TABULEIRO DO MARTINS
+  Cidade: MACEIO
+  Estado: ALAGOAS
+  CEP: 57081-014
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CENTRAL
+    Bairro: TABULEIRO DO MARTINS
+    Cidade: MACEIO
+    Estado: ALAGOAS
+    CEP: 57081-014
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DA LAVANDERIA
+    Número: 44
+    Bairro: VERGEL DO LAGO
+    Cidade: MACEIO - AL
+    Fonte: DATASUS
+  [3]
+    Rua: CENTRAL
+    Tipo: R
+    Número: 60
+    Bairro: TABULEIRO DO MARTINS
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57081-014
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BELMIRO AMORIM
+    Tipo: AV
+    Número: 70
+    Bairro: STA LUCIA
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57082-000
+    Data Atualizacao: 10/11/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: CENTRAL
+    Tipo: R
+    Número: 70
+    Bairro: TABULEIRO DO MARTINS
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57081-014
+    Data Atualizacao: 31/12/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: CHIPRE
+    Tipo: R
+    Número: 190
+    Complemento: CJ COLIBRI
+    Bairro: CLIMA BOM
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57071-828
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: BALBINO LOPES
+    Tipo: R
+    Número: 168
+    Bairro: VERGEL DO LAGO
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57015-440
+    Data Atualizacao: 25/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Rua: RUA R CENTRAL
+    Número: 70
+    Bairro: TABULEIRO DO MARTINS
+    Estado: AL
+    CEP: 57081-014
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (82) 98889-1916
+  - (82) 98741-3923
+  - (82) 98728-0054
+  - (82) 98716-7786
+  - (82) 98203-6778
+  - (82) 3994-7972
+  - (82) 98706-8952
+  - (82) 98721-6442
+  - (82) 98851-2033
+Datasus Phones: (1 item(s))
+  - (82) 8703-8931
+Cidade de Nascimento: MACEIO - AL
+Cns: 700209493880020
+Rg Issue Date: 1335409200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/08/2019
+    Info Date: 19/05/2007
+    Mosaic: F20
+    Mosaic New: D10
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CENTRAL
+      Número: 60
+      Bairro: TABULEIRO DO MARTINS
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57081-014
+      Date Added: 19/04/2011
+    [2]
+      Tipo: AV
+      Rua: BELMIRO AMORIM
+      Número: 70
+      Bairro: STA LUCIA
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57082-000
+      Date Added: 30/06/2014
+    [3]
+      Tipo: R
+      Rua: CENTRAL
+      Número: 70
+      Bairro: TABULEIRO DO MARTINS
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57081-014
+      Date Added: 01/04/2015
+    [4]
+      Tipo: R
+      Rua: CHIPRE
+      Número: 190
+      Complemento: CJ COLIBRI
+      Bairro: CLIMA BOM
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57071-828
+      Date Added: 31/01/2017
+    [5]
+      Tipo: R
+      Rua: BALBINO LOPES
+      Número: 168
+      Bairro: VERGEL DO LAGO
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57015-440
+      Date Added: 13/04/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 39947972
+      Ddd: 82
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 987167786
+      Ddd: 82
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 22/10/2015
+    [3]
+      Telefone: 987068952
+      Ddd: 82
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 987216442
+      Ddd: 82
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [5]
+      Telefone: 988512033
+      Ddd: 82
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: day_cristine@outlook.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2016
+    [2]
+      E-mail: muka@viavale.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 78
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 20
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 5660781470
+      Nome: RAFAEL COSTA SANTOS
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 388.489.374-20
+      Nome: JUVENILIA DA COSTA SILVA
+      Vinculo: MAE
+  Tse:
+    Titulo: 27857071775
+    Zona: 54
+    Secao: 109
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 347.61
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 458.132.484-04
+    Nome: FERNANDINA MARIA DA SILVA SANTOS
+    Logradouro: CENTRAL
+    Número: 75
+    Bairro: TABULEIRO DO MARTINS
+  [2]
+    CPF: 036.608.074-19
+    Nome: CLEITON FELIX DE OLIVEIRA
+    Logradouro: CENTRAL
+    Número: 105
+    Bairro: TABULEIRO DO MARTINS
+  [3]
+    CPF: 954.419.304-97
+    Nome: LUIZ AMARO DA SILVA
+    Logradouro: CENTRAL
+    Número: 349
+    Bairro: TABULEIRO DO MARTINS
+  [4]
+    CPF: 496.106.514-53
+    Nome: ZENAIDE DOS SANTOS CARVALHO
+    Logradouro: CENTRAL
+    Número: 213
+    Bairro: TABULEIRO DO MARTINS
+  [5]
+    CPF: 362.727.794-53
+    Nome: BRIVALDO VIEIRA MARQUES
+    Logradouro: CENTRAL
+    Número: 194
+    Bairro: TABULEIRO DO MARTINS
+  [6]
+    CPF: 384.352.254-53
+    Nome: RANUZIA SALUSTIANO DA SILVA
+    Logradouro: CENTRAL
+    Número: 56
+    Bairro: TABULEIRO DO MARTINS
+  [7]
+    CPF: 434.649.804-30
+    Nome: SONIA DE FREITAS SILVA
+    Logradouro: CENTRAL
+    Número: 191
+    Bairro: TABULEIRO DO MARTINS
+  [8]
+    CPF: 436.229.504-63
+    Nome: LUCIA MACHADO GOMES
+    Logradouro: CENTRAL
+    Número: SN
+    Bairro: TABULEIRO DO MARTINS
+  [9]
+    CPF: 024.928.234-82
+    Nome: ALEXSANDRO BENICIO DA SILVA
+    Logradouro: CENTRAL
+    Número: 14
+    Bairro: TABULEIRO DO MARTINS
+  [10]
+    CPF: 444.849.924-34
+    Nome: ROBERTO MIRANDA DE LIMA
+    Logradouro: CENTRAL
+    Número: 506
+    Bairro: TABULEIRO DO MARTINS
+  [11]
+    CPF: 039.594.304-34
+    Nome: CICERO JOSE DA SILVA
+    Logradouro: CENTRAL
+    Número: 261
+    Bairro: TABULEIRO DO MARTINS
+  [12]
+    CPF: 454.287.604-78
+    Nome: EDILBERTO CICERO DA SILVA
+    Logradouro: CENTRAL
+    Número: SN
+    Bairro: TABULEIRO DO MARTINS
+  [13]
+    CPF: 009.143.934-56
+    Nome: MARIA JOSILEIDE FAGUNDES DA SILVA
+    Logradouro: CENTRAL
+    Número: 285
+    Bairro: TABULEIRO DO MARTINS
+  [14]
+    CPF: 227.548.814-68
+    Nome: JOSE CARLOS FELIX MONTEIRO
+    Logradouro: CENTRAL
+    Número: 55
+    Bairro: TABULEIRO DO MARTINS
+  [15]
+    CPF: 456.491.704-87
+    Nome: MARIA DE FATIMA DA SILVA SANTOS
+    Logradouro: CENTRAL
+    Número: 315
+    Bairro: TABULEIRO DO MARTINS
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (82) 98203-6778
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 16MAY2019
+    Ultima Recarga: 09SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 16/05/2019
+E-mails: (2 item(s))
+  - day_cristine@outlook.com
+  - muka@viavale.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 510
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 347.61
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (82) 3994-7972
+    Ddd: 82
+    Número: 39947972
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (82) 98716-7786
+    Ddd: 82
+    Número: 987167786
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: A1
+  [3]
+    Telefone: (82) 98706-8952
+    Ddd: 82
+    Número: 987068952
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [4]
+    Telefone: (82) 98721-6442
+    Ddd: 82
+    Número: 987216442
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [5]
+    Telefone: (82) 98851-2033
+    Ddd: 82
+    Número: 988512033
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 513405
+Occupation Name: Garçom
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

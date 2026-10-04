@@ -1,0 +1,354 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  68072759604
+Data/Hora:  03/10/2026, 16:57:35
+Tempo API:  639ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 680.727.596-04
+Nome: ALEXANDRE RESENDE ROCHA
+Primeiro Nome: ALEXANDRE
+Sobrenome: ROCHA
+Sexo: Masculino
+Data de Nascimento: 24/06/1974
+Nome da Mãe: LUCY DE FATIMA R ROCHA
+Nome do Pai: SEM INFORMAÃÃO
+Mosaic: B04
+Ocupação: Gerente de produção de tecnologia da informação
+Score:
+  Value: 974
+  Range: BAIXISSIMO RISCO
+E-mail: alerocha123@yahoo.com.br
+Additional Emails: (1 item(s))
+  - alerocha123@yahoo.com.br
+Federal Status: REGULAR
+Renda: 3209
+Income Bracket: 4
+Cbo: 520110
+Endereço:
+  Tipo: RUA
+  Rua: SILVIANO BRANDAO
+  Número: 101
+  Complemento: AP 402
+  Bairro: CENTRO
+  Cidade: MONTE CARMELO
+  Estado: MINAS GERAIS
+  CEP: 38400-176
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SILVIANO BRANDAO
+    Número: 101
+    Complemento: AP 402
+    Bairro: CENTRO
+    Cidade: MONTE CARMELO
+    Estado: MINAS GERAIS
+    CEP: 38400-176
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MATRIZ
+    Número: 166
+    Bairro: CENTRO
+    Cidade: MONTE CARMELO - MG
+    Fonte: DATASUS
+  [3]
+    Rua: RUA Realengo
+    Número: 30
+    Complemento: apartamento 104
+    Bairro: PATRIMÔNIO
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38411-080
+    Fonte: SARAIVA
+  [4]
+    Rua: PIO
+    Tipo: R
+    Número: 153
+    Bairro: MARTINS
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38400-386
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE DE ALENCAR ROGEDO
+    Tipo: R
+    Número: 338
+    Bairro: MINASLANDIA P MAIO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31812-200
+    Data Atualizacao: 06/01/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: MARIA ITABIRA
+    Tipo: R
+    Número: 100
+    Complemento: AP 202
+    Bairro: SION
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30310-600
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (34) 99943-3735
+  - (34) 9943-3735
+  - (34) 99961-3974
+  - (34) 3231-5529
+  - (34) 3842-1495
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: MONTE CARMELO - MG
+Cns: 705200483703773
+Saraiva:
+  Customer Id: 270612
+  Telefone: (34) 9943-3735
+  E-mail: alerocha123@yahoo.com.br
+  Data de Nascimento: 24/06/1974
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/09/2019
+    Mosaic: B04
+    Mosaic New: E16
+    Mosaic Secondary: C07
+    Income Bracket Id: 5
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: PIO
+      Número: 153
+      Bairro: MARTINS
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38400-386
+      Date Added: 04/11/2013
+    [2]
+      Tipo: R
+      Rua: JOSE DE ALENCAR ROGEDO
+      Número: 338
+      Bairro: MINASLANDIA P MAIO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31812-200
+      Date Added: 13/04/2010
+    [3]
+      Tipo: R
+      Rua: SILVIANO BRANDAO
+      Número: 101
+      Complemento: AP 402
+      Bairro: FUNDINHO
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38400-176
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: MARIA ITABIRA
+      Número: 100
+      Complemento: AP 202
+      Bairro: SION
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30310-600
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 999613974
+      Ddd: 34
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 32315529
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 07/01/2011
+    [3]
+      Telefone: 38421495
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D
+      Date Added: 04/11/2013
+  E-mails: (1 item(s))
+    [1]
+      E-mail: alerocha123@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 971
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 974
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 8026238672
+      Nome: LUIZ CARLOS PORTO ROCHA
+      Vinculo: PAI
+    [2]
+      CPF: 706857623
+      Nome: FLAVIA RESENDE ROCHA
+      Vinculo: IRMA(O)
+    [3]
+      Nome: LUCY DE FATIMA R ROCHA
+      Vinculo: MAE
+  Pis: 12580058313
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2882.13
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 040.284.086-01
+    Nome: SILEIA APARECIDA DIAS DE ALMEIDA
+    Logradouro: PIO
+    Número: 1161
+    Bairro: MARTINS
+  [2]
+    CPF: 038.232.776-42
+    Nome: RENATA DOS SANTOS ALVES VILARINHO
+    Logradouro: PIO
+    Número: 134
+    Bairro: MARTINS
+  [3]
+    CPF: 894.849.916-53
+    Nome: ROSANE MENDES MELO
+    Logradouro: PIO
+    Número: 507
+    Bairro: MARTINS
+  [4]
+    CPF: 056.665.816-00
+    Nome: KELLEN CRISTINA DA SILVA
+    Logradouro: PIO
+    Número: 528
+    Bairro: MARTINS
+  [5]
+    CPF: 054.612.806-84
+    Nome: MARCELA CARRIJO SETTI
+    Logradouro: PIO
+    Número: 115
+    Bairro: MARTINS
+  [6]
+    CPF: 046.251.066-21
+    Nome: BRUNO NASCIMENTO DE JESUS
+    Logradouro: PIO
+    Número: 1344
+    Bairro: MARTINS
+  [7]
+    CPF: 306.828.606-97
+    Nome: SAMUEL MOREIRA DA CUNHA
+    Logradouro: PIO
+    Número: 323
+    Bairro: MARTINS
+  [8]
+    CPF: 008.038.611-33
+    Nome: KENIA CARDOSO SANTANA
+    Logradouro: PIO
+    Número: 1112
+    Bairro: MARTINS
+  [9]
+    CPF: 857.424.222-53
+    Nome: ANTONIA IMERIAN SILVA DE SOUSA
+    Logradouro: PIO
+    Número: 345
+    Bairro: MARTINS
+  [10]
+    CPF: 058.618.416-32
+    Nome: ODAIR AURELIO FERREIRA
+    Logradouro: PIO
+    Número: 256
+    Bairro: MARTINS
+  [11]
+    CPF: 042.307.846-19
+    Nome: MURILO SIMEAO DA COSTA MELO
+    Logradouro: PIO
+    Número: 1226
+    Bairro: MARTINS
+  [12]
+    CPF: 059.309.836-66
+    Nome: RODOLPHO CESAR QUEIROZ DE OLIVEIRA
+    Logradouro: PIO
+    Número: 133
+    Bairro: MARTINS
+  [13]
+    CPF: 966.288.636-20
+    Nome: MARCO AURELIO DE CASTRO
+    Logradouro: PIO
+    Número: 10620
+    Bairro: MARTINS
+  [14]
+    CPF: 059.957.006-77
+    Nome: FABRICIO NASCIMENTO LEAO
+    Logradouro: PIO
+    Número: 1228
+    Bairro: MARTINS
+  [15]
+    CPF: 031.458.726-80
+    Nome: JOAO RANGEL DE MENDONCA FILHO
+    Logradouro: PIO
+    Número: 1218
+    Bairro: MARTINS
+E-mails: (1 item(s))
+  - alerocha123@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3209
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2882.13
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (34) 99961-3974
+    Ddd: 34
+    Número: 999613974
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (34) 3231-5529
+    Ddd: 34
+    Número: 32315529
+    Tipo: FIXO
+    Data Inclusao: 07/01/2011
+    Classificacao: D2
+  [3]
+    Telefone: (34) 3842-1495
+    Ddd: 34
+    Número: 38421495
+    Tipo: FIXO
+    Data Inclusao: 04/11/2013
+    Classificacao: D
+Occupation Code: 142515
+Occupation Name: Gerente de produção de tecnologia da informação
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

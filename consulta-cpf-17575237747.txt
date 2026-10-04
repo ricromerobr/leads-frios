@@ -1,0 +1,274 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17575237747
+Data/Hora:  03/10/2026, 16:54:14
+Tempo API:  686ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 175.752.377-47
+Nome: DAFFENY QUADROS DOS SANTOS PEREIRA
+Primeiro Nome: DAFFENY
+Sobrenome: PEREIRA
+Sexo: Feminino
+Data de Nascimento: 24/06/1999
+Nome da Mãe: LAUDICEIA DE OLIVEIRA QUADROS
+Nome do Pai: ALESSANDRO LOURENÇO DOS SANTOS
+RG: 28648884
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: RJ
+Ocupação: Repositor de mercadorias
+Score:
+  Value: 405
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 843
+Income Bracket: 1
+Cbo: 521125
+Endereço:
+  Tipo: RUA
+  Rua: NAO INFORMADO
+  Bairro: NAO INFORMADO
+  Cidade: CALIFORNIA DA BARRA
+  Estado: RIO DE JANEIRO
+  CEP: 27163-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: NAO INFORMADO
+    Bairro: NAO INFORMADO
+    Cidade: CALIFORNIA DA BARRA
+    Estado: RIO DE JANEIRO
+    CEP: 27163-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: VINTE E QUATRO
+    Número: 335
+    Bairro: CALIFORNIA
+    Cidade: BARRA DO PIRAI - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO GRACIANO DA ROCHA
+    Tipo: R
+    Número: 617
+    Complemento: AP 101
+    Bairro: VL MARIA
+    Cidade: BARRA MANSA
+    Estado: RJ
+    CEP: 27313-280
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: SEBASTIAO ROMERO
+    Número: 0000335
+    Bairro: CALIFORNIA BARRA DO PIRAI
+    Cidade: 27163000
+    Estado: RJ
+    Fonte: ASSECC
+  [5]
+    Rua: RUA RUA ANTONIO GRACIANO DA ROCHA
+    Número: 617
+    Complemento: APTO 101
+    Bairro: VILA MARIA
+    Estado: RJ
+    CEP: 27313-280
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (24) 97402-2243
+  - (24) 99943-1329
+  - (24) 99976-9342
+  - (24) 3347-8752
+Datasus Phones: (1 item(s))
+  - (24) 99956-2720
+Cidade de Nascimento: NOVA VENECIA - ES
+Cns: 705803442855436
+Rg Issue Date: 1296788400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/10/2019
+    Mosaic New: C08
+    Mosaic Secondary: D14
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO GRACIANO DA ROCHA
+      Número: 617
+      Complemento: AP 101
+      Bairro: VL MARIA
+      Cidade: BARRA MANSA
+      Estado: RJ
+      CEP: 27313-280
+      Date Added: 01/02/2018
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 999431329
+      Ddd: 24
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/11/2017
+    [2]
+      Telefone: 33478752
+      Ddd: 24
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/11/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 405
+    CSBA FAIXA: MEDIO
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.600.797-70
+    Nome: MARIA RAQUEL DO CARMO CAMPOS DA SILVA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 1221
+    Bairro: VL MARIA
+  [2]
+    CPF: 891.620.057-15
+    Nome: SEBASTIAO HENRIQUE TELES ALVES
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 92
+    Bairro: VL MARIA
+  [3]
+    CPF: 033.035.307-18
+    Nome: VALERIA LUCIA MEDEIROS
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 1155
+    Bairro: VL MARIA
+  [4]
+    CPF: 301.367.847-04
+    Nome: DINA MARIA MILANE DA SILVA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 794
+    Bairro: VL MARIA
+  [5]
+    CPF: 994.694.997-00
+    Nome: ROSALINA MARIA DA SILVA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 44
+    Bairro: VL MARIA
+  [6]
+    CPF: 079.608.427-01
+    Nome: MARIA HELENA MARTINS FONSECA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 179
+    Bairro: VL MARIA
+  [7]
+    CPF: 172.834.266-04
+    Nome: ENEDINA TEIXEIRA DE SA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 45
+    Bairro: VL MARIA
+  [8]
+    CPF: 004.197.557-05
+    Nome: AFONSO DE SOUZA SILVA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 1100
+    Bairro: VL MARIA
+  [9]
+    CPF: 000.193.747-20
+    Nome: CRISTINA GAMA PIRES
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 117
+    Bairro: VL MARIA
+  [10]
+    CPF: 812.538.857-53
+    Nome: MANOEL JOSE DE ANDRADE
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 780
+    Bairro: VL MARIA
+  [11]
+    CPF: 026.857.147-31
+    Nome: WENDEL MIRANDA SOARES
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 179
+    Bairro: VL MARIA
+  [12]
+    CPF: 878.437.497-72
+    Nome: MARIA APARECIDA DA COSTA
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 351
+    Bairro: VL MARIA
+  [13]
+    CPF: 074.026.527-00
+    Nome: LEONARDO DE CARVALHO MARTINS
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 137
+    Bairro: VL MARIA
+  [14]
+    CPF: 076.766.277-61
+    Nome: JOSIANA GONCALVES FERREIRA DO COUTO
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 353
+    Bairro: VL MARIA
+  [15]
+    CPF: 007.490.397-79
+    Nome: HUDSON DE PAULA LOUBACK
+    Logradouro: ANTONIO GRACIANO DA ROCHA
+    Número: 44
+    Bairro: VL MARIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (24) 97402-2243
+    Nome: DAFFENY QUADROS DOS SANTOS
+    Cidade: 27163000
+    UF: RJ
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (24) 99943-1329
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 11OCT2016
+    Ultima Recarga: 31AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 11/10/2016
+  [2]
+    Telefone: (24) 99976-9342
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 21DEC2018
+    Ultima Recarga: 31AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 21/12/2018
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 843
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (24) 99943-1329
+    Ddd: 24
+    Número: 999431329
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: A0
+  [2]
+    Telefone: (24) 3347-8752
+    Ddd: 24
+    Número: 33478752
+    Tipo: FIXO
+    Data Inclusao: 20/11/2018
+    Classificacao: D2
+Occupation Code: 521125
+Occupation Name: Repositor de mercadorias
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,304 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  46785806895
+Data/Hora:  03/10/2026, 22:05:45
+Tempo API:  683ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 467.858.068-95
+Nome: THAYNA SANTOS LEITE
+Primeiro Nome: THAYNA
+Sobrenome: LEITE
+Sexo: Feminino
+Data de Nascimento: 18/08/1996
+Nome da Mãe: REINA DIAS SANTOS
+Ocupação: Técnico em secretariado
+Score:
+  Value: 82
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1576
+Income Bracket: 2
+Cbo: 420135
+Endereço:
+  Tipo: RUA
+  Rua: FRANCISCO NOGUEIRA SILVA
+  Bairro: VILA DAMACENO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05864-060
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FRANCISCO NOGUEIRA SILVA
+    Bairro: VILA DAMACENO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05864-060
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARIA BLANCHARD
+    Tipo: R
+    Número: 608
+    Complemento: B
+    Bairro: CAPAO REDONDO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05859-120
+    Data Atualizacao: 06/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: IURUTI
+    Tipo: R
+    Número: 56
+    Complemento: OUTROS C
+    Bairro: JD DO COLEGIO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05884-050
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: IURUTI
+    Número: 0000056
+    Bairro: JARDIMDOCOLEGIO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05884-050
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (11) 93945-6461
+  - (11) 96452-5181
+  - (11) 91347-5125
+  - +55 (11) 96452-5181
+  - (11) 96633-8795
+  - (11) 95113-9758
+Paycom:
+  E-mail: thaynamanuella2016@gmail.com
+  Data de Nascimento: 18/08/1996
+  Created At: 2021-08-30 20:44:06
+E-mail: thaynamanuella2016@gmail.com
+Additional Emails: (2 item(s))
+  - thaynamanuella2016@gmail.com
+  - thay_psl@hotmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: R. Henry martin
+    Número: 54
+    Complemento: Retifica irmãos Paraná
+    Bairro: Vila Remo
+    Cidade: São Paulo
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 96452-5181
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 10/08/2019
+    Mosaic New: D10
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: MARIA BLANCHARD
+      Número: 608
+      Complemento: B
+      Bairro: CAPAO REDONDO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05859-120
+      Date Added: 08/07/2015
+    [2]
+      Tipo: R
+      Rua: IURUTI
+      Número: 56
+      Complemento: OUTROS C
+      Bairro: JD DO COLEGIO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05884-050
+      Date Added: 14/10/2019
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 966338795
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [2]
+      Telefone: 951139758
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: thay_psl@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 115
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 82
+    CSBA FAIXA: ALTISSIMO
+  Pis: 20140121859
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 368.01
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 634.531.938-49
+    Nome: RENE OLBERG
+    Logradouro: MARIA BLANCHARD
+    Número: 311
+    Bairro: CAPAO REDONDO
+  [2]
+    CPF: 043.748.058-50
+    Nome: DAIR PAIVA
+    Logradouro: MARIA BLANCHARD
+    Número: 60
+    Bairro: CAPAO REDONDO
+  [3]
+    CPF: 333.736.728-30
+    Nome: FERNANDO RAMON DE OLIVEIRA
+    Logradouro: MARIA BLANCHARD
+    Número: 71
+    Bairro: CAPAO REDONDO
+  [4]
+    CPF: 308.189.518-93
+    Nome: ODENI MARIA DE ALMEIDA
+    Logradouro: MARIA BLANCHARD
+    Número: 230
+    Bairro: CAPAO REDONDO
+  [5]
+    CPF: 422.207.738-09
+    Nome: JONATHA VIEIRA FONTES
+    Logradouro: MARIA BLANCHARD
+    Número: 19
+    Bairro: CAPAO REDONDO
+  [6]
+    CPF: 004.509.175-76
+    Nome: ADILSON DE SOUZA FERREIRA
+    Logradouro: MARIA BLANCHARD
+    Número: 613
+    Bairro: CAPAO REDONDO
+  [7]
+    CPF: 606.955.524-49
+    Nome: ROSIMERE MARIA DA COSTA
+    Logradouro: MARIA BLANCHARD
+    Número: 284
+    Bairro: CAPAO REDONDO
+  [8]
+    CPF: 009.249.308-45
+    Nome: MARINA FLOR
+    Logradouro: MARIA BLANCHARD
+    Número: 26
+    Bairro: CAPAO REDONDO
+  [9]
+    CPF: 726.072.625-34
+    Nome: JOCEVAL BRITO DE ALMEIDA FERREIRA
+    Logradouro: MARIA BLANCHARD
+    Número: 25
+    Bairro: CAPAO REDONDO
+  [10]
+    CPF: 434.166.408-53
+    Nome: UBALDO ALVES MANGUEIRA
+    Logradouro: MARIA BLANCHARD
+    Número: 224
+    Bairro: CAPAO REDONDO
+  [11]
+    CPF: 065.278.288-45
+    Nome: NELSON BRAUNA DOS SANTOS
+    Logradouro: MARIA BLANCHARD
+    Número: 132
+    Bairro: CAPAO REDONDO
+  [12]
+    CPF: 408.102.078-77
+    Nome: FABRICIA MELO DOS SANTOS
+    Logradouro: MARIA BLANCHARD
+    Número: 86
+    Bairro: CAPAO REDONDO
+  [13]
+    CPF: 259.400.818-43
+    Nome: ALESSANDRO SOUSA VIEIRA
+    Logradouro: MARIA BLANCHARD
+    Número: 25
+    Bairro: CAPAO REDONDO
+  [14]
+    CPF: 268.303.498-93
+    Nome: JOSE MARIA RODRIGUES DA SILVA
+    Logradouro: MARIA BLANCHARD
+    Número: 791
+    Bairro: CAPAO REDONDO
+  [15]
+    CPF: 414.253.058-57
+    Nome: DOUGLAS RIBEIRO DE SOUSA
+    Logradouro: MARIA BLANCHARD
+    Número: 32
+    Bairro: CAPAO REDONDO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 96452-5181
+    Nome: THAYNA SANTOS LEITE
+    Cidade: SAO PAULO
+    UF: SP
+E-mails: (2 item(s))
+  - thaynamanuella2016@gmail.com
+  - thay_psl@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1576
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 368.01
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (11) 96633-8795
+    Ddd: 11
+    Número: 966338795
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [2]
+    Telefone: (11) 95113-9758
+    Ddd: 11
+    Número: 951139758
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 351505
+Occupation Name: Técnico em secretariado
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

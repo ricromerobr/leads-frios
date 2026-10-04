@@ -1,0 +1,390 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  33833152826
+Data/Hora:  03/10/2026, 19:49:59
+Tempo API:  682ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 338.331.528-26
+Nome: RENATA FERREIRA DA SILVA
+Primeiro Nome: RENATA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 19/10/1979
+Nome da Mãe: LOURDES LEMES DA SILVA
+Nome do Pai: AMARO FERREIRA DA SILVA
+RG: 352686169
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 323923910175
+Mosaic: D13
+Ocupação: Administrador
+Score:
+  Value: 61
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1142
+Income Bracket: 2
+Cbo: 513435
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: BRAZ CUBAS
+  Número: 255
+  Bairro: VILA NOVA
+  Cidade: SANTOS
+  Estado: SAO PAULO
+  CEP: 11013-163
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BRAZ CUBAS
+    Número: 255
+    Bairro: VILA NOVA
+    Cidade: SANTOS
+    Estado: SAO PAULO
+    CEP: 11013-163
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BRÁS CUBAS
+    Número: 254
+    Bairro: VILA NOVA
+    Cidade: SANTOS - SP
+    Fonte: DATASUS
+  [3]
+    Rua: BRAZ CUBAS
+    Tipo: R
+    Número: 2558
+    Bairro: VL NOVA
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11013-162
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PEGO JUNIOR
+    Tipo: R
+    Número: 34
+    Bairro: VL NOVA
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11013-500
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: CAMPOS SALES
+    Tipo: AV
+    Número: 107
+    Complemento: FDS
+    Bairro: VL MATHIAS
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11013-401
+    Data Atualizacao: 13/09/2013
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: BRAZ CUBAS
+    Tipo: R
+    Número: 254
+    Complemento: SL
+    Bairro: VL NOVA
+    Cidade: SANTOS
+    Estado: SP
+    CEP: 11013-162
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Cidade de Nascimento: GUARUJA - SP
+Cns: 704709770997537
+Rg Issue Date: 849841200000
+Mte Data:
+  Nome: Renata Ferreira Da Silva
+  Data de Nascimento: 19/10/1979
+  Nome da Mãe: Lourdes Lemes Da Silva
+  Endereço:
+    Rua: Campos Sales
+    Número: 107
+    Bairro: Vila Matias
+    Cidade: Santos
+    Estado: SP
+    CEP: 11013-401
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 20/11/2019
+    Mosaic: D13
+    Mosaic New: G23
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: BRAZ CUBAS
+      Número: 2558
+      Bairro: VL NOVA
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11013-162
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: PEGO JUNIOR
+      Número: 34
+      Bairro: VL NOVA
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11013-500
+      Date Added: 10/07/2014
+    [3]
+      Tipo: AV
+      Rua: CAMPOS SALES
+      Número: 107
+      Complemento: FDS
+      Bairro: VL MATHIAS
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11013-401
+      Date Added: 03/08/2009
+    [4]
+      Tipo: R
+      Rua: BRAZ CUBAS
+      Número: 254
+      Complemento: SL
+      Bairro: VL NOVA
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11013-162
+      Date Added: 11/10/2006
+    [5]
+      Tipo: R
+      Rua: BRAZ CUBAS
+      Número: 255
+      Complemento: AP 1
+      Bairro: VL NOVA
+      Cidade: SANTOS
+      Estado: SP
+      CEP: 11013-163
+      Date Added: 06/01/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32219183
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 10/07/2014
+      Info Date: 10/06/2014
+    [2]
+      Telefone: 996193615
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 997508284
+      Ddd: 13
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 30290014
+      Ddd: 13
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 11/02/2019
+      Info Date: 05/02/2019
+  Score:
+    CSB8: 129
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 61
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LOURDES LEMES DA SILVA
+      Vinculo: MAE
+  Pis: 20978690731
+  Tse:
+    Titulo: 323923910175
+    Zona: 118
+    Secao: 261
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 495.36
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (7 item(s))
+  - (13) 99180-3220
+  - (13) 99157-9810
+  - (13) 99152-7762
+  - (13) 3221-9183
+  - (13) 99619-3615
+  - (13) 99750-8284
+  - (13) 3029-0014
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 045.681.678-09
+    Nome: JOAO GERALDO TAVARES
+    Logradouro: BRAZ CUBAS
+    Número: 246
+    Bairro: VL NOVA
+  [2]
+    CPF: 277.927.938-93
+    Nome: LEANDRO RIBEIRO FERREIRA
+    Logradouro: BRAZ CUBAS
+    Número: 120
+    Bairro: VL NOVA
+  [3]
+    CPF: 011.300.535-04
+    Nome: JOSE NASCIMENTO DA CRUZ
+    Logradouro: BRAZ CUBAS
+    Número: 196
+    Bairro: VL NOVA
+  [4]
+    CPF: 008.854.238-60
+    Nome: EUCLIDES DE ALMEIDA RODRIGUES
+    Logradouro: BRAZ CUBAS
+    Número: 130
+    Bairro: VL NOVA
+  [5]
+    CPF: 062.228.128-30
+    Nome: NELSON CAETANO JUNIOR
+    Logradouro: BRAZ CUBAS
+    Número: 122
+    Bairro: VL NOVA
+  [6]
+    CPF: 873.760.165-20
+    Nome: OZANITO RIBEIRO DOS SANTOS
+    Logradouro: BRAZ CUBAS
+    Número: 166
+    Bairro: VL NOVA
+  [7]
+    CPF: 108.446.258-33
+    Nome: JOSEFA CANUTA DOS SANTOS
+    Logradouro: BRAZ CUBAS
+    Número: 138
+    Bairro: VL NOVA
+  [8]
+    CPF: 002.944.285-00
+    Nome: ROBERTO REZENDE PEREIRA
+    Logradouro: BRAZ CUBAS
+    Número: 248
+    Bairro: VL NOVA
+  [9]
+    CPF: 058.672.798-12
+    Nome: MARDONE DE SOUSA GONCALVES
+    Logradouro: BRAZ CUBAS
+    Número: 386
+    Bairro: VL NOVA
+  [10]
+    CPF: 127.872.888-04
+    Nome: MARCOS APARECIDO DE LIMA
+    Logradouro: BRAZ CUBAS
+    Número: 254
+    Bairro: VL NOVA
+  [11]
+    CPF: 053.122.825-88
+    Nome: JOSE SANDREI DOS SANTOS
+    Logradouro: BRAZ CUBAS
+    Número: 330
+    Bairro: VL NOVA
+  [12]
+    CPF: 062.245.998-82
+    Nome: ANDREA NOGUEIROL LOBO INFORZATO
+    Logradouro: BRAZ CUBAS
+    Número: 118
+    Bairro: VL NOVA
+  [13]
+    CPF: 097.363.788-96
+    Nome: CLAUDIA VALERIA GONCALVES BAIAO
+    Logradouro: BRAZ CUBAS
+    Número: 362
+    Bairro: VL NOVA
+  [14]
+    CPF: 729.949.248-20
+    Nome: JOAO ESTEVAO MEDEIROS
+    Logradouro: BRAZ CUBAS
+    Número: 400
+    Bairro: VL NOVA
+  [15]
+    CPF: 021.599.708-59
+    Nome: BELMIRO GARCIA
+    Logradouro: BRAZ CUBAS
+    Número: 396
+    Bairro: VL NOVA
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (13) 99180-3220
+    Nome: RENATA FERREIRA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (13) 99157-9810
+    Nome: RENATA FERREIRA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (13) 99152-7762
+    Nome: RENATA FERREIRA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1142
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 495.36
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (13) 3221-9183
+    Ddd: 13
+    Número: 32219183
+    Tipo: FIXO
+    Data Inclusao: 10/07/2014
+    Data Informacao: 10/06/2014
+    Classificacao: D2
+  [2]
+    Telefone: (13) 99619-3615
+    Ddd: 13
+    Número: 996193615
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (13) 99750-8284
+    Ddd: 13
+    Número: 997508284
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (13) 3029-0014
+    Ddd: 13
+    Número: 30290014
+    Tipo: FIXO
+    Data Inclusao: 11/02/2019
+    Data Informacao: 05/02/2019
+    Classificacao: D2
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

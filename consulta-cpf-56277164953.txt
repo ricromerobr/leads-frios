@@ -1,0 +1,409 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  56277164953
+Data/Hora:  02/10/2026, 16:10:25
+Tempo API:  464ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 562.771.649-53
+Nome: VALDECI CIRINO DA LUZ
+Primeiro Nome: VALDECI
+Sobrenome: LUZ
+Sexo: Feminino
+Data de Nascimento: 10/10/1965
+Nome da Mãe: ERCILIA F DA LUZ
+Nome do Pai: SEM INFORMAÇÃO
+Mosaic: E17
+Ocupação: Trabalhadores dos Servicos e Vendedores do Comercio (categoria CBO)
+Score:
+  Value: 826
+  Range: BAIXISSIMO RISCO
+E-mail: REKINTTELHADOS@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 2055
+Income Bracket: 3
+Cbo: 5199
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MARIA LUIZA DANTOLINI GENERO
+  Complemento: CS
+  Bairro: CIDADE INDUSTRIAL
+  Cidade: CURITIBA
+  Estado: PARANA
+  CEP: 81230-470
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARIA LUIZA DANTOLINI GENERO
+    Complemento: CS
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PARANA
+    CEP: 81230-470
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GARUVA
+    Número: 550
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA - PR
+    Fonte: DATASUS
+  [3]
+    Rua: MARIA LUIZA DANTOLINI GENERO
+    Tipo: R
+    Número: 336
+    Complemento: Q 3 L 9
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81230-470
+    Data Atualizacao: 25/11/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOEL DIBO
+    Tipo: R
+    Número: 120
+    Bairro: CENTRO
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79002-060
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: GARUVA
+    Tipo: R
+    Número: 550
+    Complemento: BL 3 AP 1
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81240-200
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: SEBASTIAO RIBEIRO BATISTA
+    Tipo: R
+    Número: 145
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81310-070
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: MARIA L DANTOLINI GENERO
+    Tipo: R
+    Número: 336
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: SEDE ALVORADA
+    Estado: PR
+    CEP: 85822-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: MARIA L DANTOLINI GENERO
+    Número: 0000336
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 81230-470
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: MARIA L DANTOLINI GENERO
+    Número: 336
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PR
+    CEP: 83301-036
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (41) 3373-7459
+  - (41) 98496-0792
+  - (41) 3373-7479
+  - (41) 3373-7451
+  - (41) 3245-5123
+Cidade de Nascimento: CURITIBA - PR
+Cns: 703404324121600
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/08/2019
+    Info Date: 08/04/2006
+    Mosaic: E17
+    Mosaic New: G22
+    Mosaic Secondary: G24
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: MARIA LUIZA DANTOLINI GENERO
+      Número: 336
+      Complemento: Q 3 L 9
+      Bairro: CIDADE INDUSTRIAL
+      Cidade: CURITIBA
+      Estado: PR
+      CEP: 81230-470
+      Date Added: 10/08/2014
+    [2]
+      Tipo: R
+      Rua: JOEL DIBO
+      Número: 120
+      Bairro: CENTRO
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79002-060
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: GARUVA
+      Número: 550
+      Complemento: BL 3 AP 1
+      Bairro: CIDADE INDUSTRIAL
+      Cidade: CURITIBA
+      Estado: PR
+      CEP: 81240-200
+      Date Added: 11/10/2006
+    [4]
+      Tipo: R
+      Rua: SEBASTIAO RIBEIRO BATISTA
+      Número: 145
+      Bairro: CIDADE INDUSTRIAL
+      Cidade: CURITIBA
+      Estado: PR
+      CEP: 81310-070
+      Date Added: 13/05/2019
+    [5]
+      Tipo: R
+      Rua: MARIA L DANTOLINI GENERO
+      Número: 336
+      Bairro: CIDADE INDUSTRIAL
+      Cidade: SEDE ALVORADA
+      Estado: PR
+      CEP: 85822-000
+      Date Added: 16/10/2017
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 33737479
+      Ddd: 41
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+      Info Date: 20/12/2004
+    [2]
+      Telefone: 33737451
+      Ddd: 41
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 28/01/2006
+    [3]
+      Telefone: 32455123
+      Ddd: 41
+      Tipo: 2
+      Classificacao: D2
+      Date Added: 21/11/2011
+      Info Date: 26/02/2004
+    [4]
+      Telefone: 984960792
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: rekinttelhados@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSBA: 826
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ERCILIA F DA LUZ
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2055.95
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (1 item(s))
+  - rekinttelhados@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 063.583.189-93
+    Nome: RODRIGO FERREIRA MACHADO
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 157
+    Bairro: CIDADE INDUSTRIAL
+  [2]
+    CPF: 451.854.849-34
+    Nome: MAURO JOSE BERTOLDI
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 19
+    Bairro: CIDADE INDUSTRIAL
+  [3]
+    CPF: 403.399.719-91
+    Nome: SANTA PEREIRA NERIS LANGE
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 415
+    Bairro: CIDADE INDUSTRIAL
+  [4]
+    CPF: 064.497.709-45
+    Nome: LUCAS DUARTE DOS SANTOS
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 190
+    Bairro: CIDADE INDUSTRIAL
+  [5]
+    CPF: 004.808.145-03
+    Nome: CELSO RICARDO DOS SANTOS ANDRADE
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 215
+    Bairro: CIDADE INDUSTRIAL
+  [6]
+    CPF: 034.755.299-47
+    Nome: EDEVANDRO SOSTER
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 419
+    Bairro: CIDADE INDUSTRIAL
+  [7]
+    CPF: 014.979.319-75
+    Nome: TEREZINHA DAS GRACAS TOMAZ
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 149
+    Bairro: CIDADE INDUSTRIAL
+  [8]
+    CPF: 054.201.369-02
+    Nome: EDICLEIA APARECIDA BRUCKNER
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 190
+    Bairro: CIDADE INDUSTRIAL
+  [9]
+    CPF: 457.022.769-49
+    Nome: CICERA GONCALVES DE MELLO LOPES
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 416
+    Bairro: CIDADE INDUSTRIAL
+  [10]
+    CPF: 055.510.519-94
+    Nome: REGIANE NERES FERREIRA ALVES
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 415
+    Bairro: CIDADE INDUSTRIAL
+  [11]
+    CPF: 089.989.219-10
+    Nome: ADRIELI GONCALVES
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 273
+    Bairro: CIDADE INDUSTRIAL
+  [12]
+    CPF: 022.621.959-35
+    Nome: DANIEL DIAS
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 265
+    Bairro: CIDADE INDUSTRIAL
+  [13]
+    CPF: 048.081.459-79
+    Nome: WAGNER ROBERTO DE BARROS
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 215
+    Bairro: CIDADE INDUSTRIAL
+  [14]
+    CPF: 225.467.159-68
+    Nome: JOSE ADEMAR ARAUJO
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 416
+    Bairro: CIDADE INDUSTRIAL
+  [15]
+    CPF: 047.249.839-81
+    Nome: KELLY CRISTINA BRASIL DA SILVA
+    Logradouro: MARIA LUIZA DANTOLINI GENERO
+    Número: 165
+    Bairro: CIDADE INDUSTRIAL
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (41) 98496-0792
+    Nome: VALDECI CIRINO DA LUZ
+    Cidade: CURITIBA
+    UF: PR
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (41) 3373-7459
+    Nome: VALDECI CIRINO DA LUZ
+    Cidade: CURITIBA
+    UF: PR
+    Operadora: BRASIL TELECOM
+    Fonte: algar
+E-mails: (1 item(s))
+  - rekinttelhados@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2055
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2055.95
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (41) 3373-7479
+    Ddd: 41
+    Número: 33737479
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 20/12/2004
+    Classificacao: D2
+  [2]
+    Telefone: (41) 3373-7451
+    Ddd: 41
+    Número: 33737451
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 28/01/2006
+    Classificacao: D
+  [3]
+    Telefone: (41) 3245-5123
+    Ddd: 41
+    Número: 32455123
+    Tipo: CELULAR
+    Data Inclusao: 21/11/2011
+    Data Informacao: 26/02/2004
+    Classificacao: D2
+  [4]
+    Telefone: (41) 98496-0792
+    Ddd: 41
+    Número: 984960792
+    Tipo: 3
+    Data Inclusao: 17/12/2018
+    Classificacao: D
+Occupation Code: 5199
+Occupation Name: Trabalhadores dos Servicos e Vendedores do Comercio (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,351 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04366525950
+Data/Hora:  03/10/2026, 23:11:55
+Tempo API:  202ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 043.665.259-50
+Nome: THAYS BUENO DE ALMEIDA
+Primeiro Nome: THAYS
+Sobrenome: ALMEIDA
+Sexo: Feminino
+Data de Nascimento: 21/09/1986
+Nome da Mãe: TANIA FRANCISCA BUENO ALMEIDA
+RG: 70564637
+Rg Issuer: SSP
+Voter Id: 091488700620
+Mosaic: F19
+Ocupação: Recepcionista de consultório médico ou dentário
+Score:
+  Value: 11
+  Range: ALTISSIMO
+E-mail: thays_almeida1@outlook.com
+Additional Emails: (2 item(s))
+  - thays_almeida1@outlook.com
+  - thays_bueno@hotmail.com
+Federal Status: REGULAR
+Renda: 4925
+Income Bracket: 4
+Cbo: 422110
+Endereço:
+  Tipo: RUA
+  Rua: SERGIPE
+  Complemento: AP 602 B
+  Bairro: CENTRO
+  Cidade: LONDRINA
+  Estado: PARANA
+  CEP: 86020-330
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SERGIPE
+    Complemento: AP 602 B
+    Bairro: CENTRO
+    Cidade: LONDRINA
+    Estado: PARANA
+    CEP: 86020-330
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ESPIRITO SANTO
+    Tipo: R
+    Número: 999
+    Bairro: CENTRO
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86010-510
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: SERGIPE
+    Tipo: R
+    Número: 1600
+    Complemento: BL B AP 602
+    Bairro: CENTRO
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86020-330
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOSE DO PATROCINIO
+    Tipo: R
+    Número: 124
+    Bairro: PRQ RESIDENCIAL MANELA
+    Cidade: CAMBE
+    Estado: PR
+    CEP: 86185-460
+    Data Atualizacao: 08/05/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ALFREDO BATTINI
+    Tipo: R
+    Número: 199
+    Complemento: AP 103
+    Bairro: SAN REMO
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86062-280
+    Data Atualizacao: 10/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: BENTO MUNHOZ DA ROCHA NETO
+    Tipo: R
+    Número: 589
+    Complemento: BL 12 A AP 5
+    Bairro: JD DO LAGO
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86050-435
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (43) 98479-0348
+  - (43) 3344-4280
+  - (43) 99109-3905
+  - (43) 99114-4005
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/08/2019
+    Info Date: 23/12/2008
+    Rg Issuer: SSP
+    Mosaic: F19
+    Mosaic New: D12
+    Mosaic Secondary: D10
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ESPIRITO SANTO
+      Número: 999
+      Bairro: CENTRO
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86010-510
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: SERGIPE
+      Número: 1600
+      Complemento: BL B AP 602
+      Bairro: CENTRO
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86020-330
+      Date Added: 22/05/2010
+    [3]
+      Tipo: R
+      Rua: JOSE DO PATROCINIO
+      Número: 124
+      Bairro: PRQ RESIDENCIAL MANELA
+      Cidade: CAMBE
+      Estado: PR
+      CEP: 86185-460
+      Date Added: 16/08/2011
+    [4]
+      Tipo: R
+      Rua: ALFREDO BATTINI
+      Número: 199
+      Complemento: AP 103
+      Bairro: SAN REMO
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86062-280
+      Date Added: 30/04/2015
+    [5]
+      Tipo: R
+      Rua: BENTO MUNHOZ DA ROCHA NETO
+      Número: 589
+      Complemento: BL 12 A AP 5
+      Bairro: JD DO LAGO
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86050-435
+      Date Added: 28/02/2013
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 33444280
+      Ddd: 43
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 991093905
+      Ddd: 43
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 991144005
+      Ddd: 43
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: thays_bueno@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSBA: 11
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: TANIA FRANCISCA BUENO DE ALMEIDA
+      Vinculo: MAE
+  Pis: 20467607073
+  Tse:
+    Titulo: 91488700620
+    Zona: 41
+    Secao: 156
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 070.570.819-52
+    Nome: LARISSA NOELI ALVIS
+    Logradouro: ESPIRITO SANTO
+    Número: 123
+    Bairro: CENTRO
+  [2]
+    CPF: 070.827.579-64
+    Nome: CARLA SOELEN DOS SANTOS
+    Logradouro: ESPIRITO SANTO
+    Número: 1037
+    Bairro: CENTRO
+  [3]
+    CPF: 046.714.779-55
+    Nome: ROMULO UMBERTO CASANOVA DOS SANTOS
+    Logradouro: ESPIRITO SANTO
+    Número: 981
+    Bairro: CENTRO
+  [4]
+    CPF: 494.762.208-30
+    Nome: PAULO ROBERTO FAZOLI
+    Logradouro: ESPIRITO SANTO
+    Número: 875
+    Bairro: CENTRO
+  [5]
+    CPF: 730.599.609-25
+    Nome: OSMAR HENRIQUE ALVES IURKIEVICZ
+    Logradouro: ESPIRITO SANTO
+    Número: 231
+    Bairro: CENTRO
+  [6]
+    CPF: 057.616.669-36
+    Nome: EDGAR ESTEVES DOS SANTOS
+    Logradouro: ESPIRITO SANTO
+    Número: 981
+    Bairro: CENTRO
+  [7]
+    CPF: 490.065.689-53
+    Nome: SILVANA VAZ TONIOLO DOMINGUEZ
+    Logradouro: ESPIRITO SANTO
+    Número: 2
+    Bairro: CENTRO
+  [8]
+    CPF: 020.620.069-26
+    Nome: MAURICIO EDUARDO FAIAD
+    Logradouro: ESPIRITO SANTO
+    Número: 901
+    Bairro: CENTRO
+  [9]
+    CPF: 463.903.324-91
+    Nome: SILVIA BORBA DA COSTA AVELINO
+    Logradouro: ESPIRITO SANTO
+    Número: 1037
+    Bairro: CENTRO
+  [10]
+    CPF: 458.864.669-91
+    Nome: ROBERTO KATSUMI YOSHINO
+    Logradouro: ESPIRITO SANTO
+    Número: 17
+    Bairro: CENTRO
+  [11]
+    CPF: 506.437.119-53
+    Nome: THEREZA NAKANISHI
+    Logradouro: ESPIRITO SANTO
+    Número: 87
+    Bairro: CENTRO
+  [12]
+    CPF: 908.684.809-59
+    Nome: MARIA PERDIGAO SCHIAVINATO
+    Logradouro: ESPIRITO SANTO
+    Número: 123
+    Bairro: CENTRO
+  [13]
+    CPF: 276.466.029-49
+    Nome: ADALGISA ANGELINA ORRUTIA
+    Logradouro: ESPIRITO SANTO
+    Número: 123
+    Bairro: CENTRO
+  [14]
+    CPF: 003.592.549-34
+    Nome: ROBERTO NEUBAUER
+    Logradouro: ESPIRITO SANTO
+    Número: 357
+    Bairro: CENTRO
+  [15]
+    CPF: 373.506.509-06
+    Nome: NILSA DANTAS DA SILVA
+    Logradouro: ESPIRITO SANTO
+    Número: 342
+    Bairro: CENTRO
+E-mails: (2 item(s))
+  - thays_almeida1@outlook.com
+  - thays_bueno@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 4925
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (43) 3344-4280
+    Ddd: 43
+    Número: 33444280
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Classificacao: D
+  [2]
+    Telefone: (43) 99109-3905
+    Ddd: 43
+    Número: 991093905
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (43) 99114-4005
+    Ddd: 43
+    Número: 991144005
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 422110
+Occupation Name: Recepcionista de consultório médico ou dentário
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

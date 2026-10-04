@@ -1,0 +1,378 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08323957495
+Data/Hora:  02/10/2026, 15:50:35
+Tempo API:  576ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 083.239.574-95
+Nome: GUILHERME AUGUSTO DE LUNA SANTOS
+Primeiro Nome: GUILHERME
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 01/11/1990
+Nome da Mãe: MARIA JOSE BATISTA DE LUNA
+RG: 8007243
+Rg Issuer: SDS
+Voter Id: 081633840809
+Mosaic: F18
+Ocupação: Dirigente do serviço público federal
+Score:
+  Value: 167
+  Range: ALTISSIMO
+E-mail: GUILHERME-LUNA@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 4874
+Income Bracket: 4
+Cbo: 10310
+Endereço:
+  Tipo: AVENIDA
+  Rua: MIN APOLONIO SALES
+  Número: 3
+  Bairro: JORDAO
+  Cidade: RECIFE
+  Estado: PERNAMBUCO
+  CEP: 51260-410
+All Addresses: (5 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: MIN APOLONIO SALES
+    Número: 3
+    Bairro: JORDAO
+    Cidade: RECIFE
+    Estado: PERNAMBUCO
+    CEP: 51260-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BREJO DA CRUZ
+    Tipo: R
+    Número: 6
+    Complemento: Q 17 CS 6
+    Bairro: IBURA
+    Cidade: RECIFE
+    Estado: PE
+    CEP: 51240-735
+    Data Atualizacao: 09/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: BREJO DA CRUZ
+    Tipo: R
+    Número: 17
+    Bairro: IBURA
+    Cidade: RECIFE
+    Estado: PE
+    CEP: 51240-735
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BR 232
+    Tipo: ROD
+    Complemento: TRINTA TRINTA 232 1
+    Bairro: CURADO
+    Cidade: JABOATAO DOS GUARARAPES
+    Estado: PE
+    CEP: 54220-520
+    Data Atualizacao: 29/02/2012
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: BREJO DA CRUZ
+    Rua: R
+    Número: 0000006
+    Bairro: JORDAO
+    Cidade: RECIFE
+    Estado: PE
+    CEP: 51260-570
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (81) 98810-0480
+  - (81) 99419-6063
+  - 558188100480
+  - (81) 98116-1248
+  - (81) 3342-0080
+  - (81) 98116-1311
+  - (81) 3462-1334
+Paycom:
+  E-mail: guilherme-luna@hotmail.com
+  Data de Nascimento: 01/11/1990
+  Created At: 2019-11-14 16:07:17
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: rua brejo da cruz
+    Número: 06
+    Complemento:  
+    Bairro: Jordão Baixo
+    Cidade: Recife
+    Estado: PE
+    País: BRA
+    CEP: 51260-570
+    Telephone: 558188100480
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 03/10/2019
+    Rg Issuer: SDS
+    Mosaic: F18
+    Mosaic New: H27
+    Mosaic Secondary: D11
+    Income Bracket Id: 3
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: BREJO DA CRUZ
+      Número: 6
+      Complemento: Q 17 CS 6
+      Bairro: IBURA
+      Cidade: RECIFE
+      Estado: PE
+      CEP: 51240-735
+      Date Added: 16/10/2018
+    [2]
+      Tipo: R
+      Rua: BREJO DA CRUZ
+      Número: 17
+      Bairro: IBURA
+      Cidade: RECIFE
+      Estado: PE
+      CEP: 51240-735
+      Date Added: 16/10/2017
+    [3]
+      Tipo: ROD
+      Rua: BR 232
+      Complemento: TRINTA TRINTA 232 1
+      Bairro: CURADO
+      Cidade: JABOATAO DOS GUARARAPES
+      Estado: PE
+      CEP: 54220-520
+      Date Added: 22/12/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33420080
+      Ddd: 81
+      Tipo: 1
+      Classificacao: B
+      Date Added: 06/03/2012
+    [2]
+      Telefone: 981161311
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 34621334
+      Ddd: 81
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/01/2014
+    [4]
+      Telefone: 981161248
+      Ddd: 81
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 988100480
+      Ddd: 81
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: guilherme-luna@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 167
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 2084437466
+      Nome: MARIA JOSE BATISTA DE LUNA
+      Vinculo: MAE
+  Pis: 19042546169
+  Tse:
+    Titulo: 81633840809
+    Zona: 148
+    Secao: 174
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1830.73
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (1 item(s))
+  - guilherme-luna@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 055.229.794-10
+    Nome: SEVERINA MARIA DA CRUZ LEAL
+    Logradouro: BREJO DA CRUZ
+    Número: 15
+    Bairro: IBURA
+  [2]
+    CPF: 715.482.034-91
+    Nome: CLAUDIA ALVES GOMES
+    Logradouro: BREJO DA CRUZ
+    Número: SN
+    Bairro: IBURA
+  [3]
+    CPF: 420.868.504-25
+    Nome: BARTOLOMEU GOMES DA SILVA
+    Logradouro: BREJO DA CRUZ
+    Número: 21
+    Bairro: IBURA
+  [4]
+    CPF: 058.405.424-66
+    Nome: ALEXSANDRO RODRIGUES ALVES
+    Logradouro: BREJO DA CRUZ
+    Número: 7
+    Bairro: IBURA
+  [5]
+    CPF: 034.542.254-69
+    Nome: EDVALDO CRISTOVAO JUNIOR
+    Logradouro: BREJO DA CRUZ
+    Número: 13
+    Bairro: IBURA
+  [6]
+    CPF: 079.725.694-60
+    Nome: MARCELO COSTA FERREIRA DA SILVA
+    Logradouro: BREJO DA CRUZ
+    Número: 12
+    Bairro: IBURA
+  [7]
+    CPF: 047.627.904-60
+    Nome: ERALDO DOMINGOS DOS SANTOS FILHO
+    Logradouro: BREJO DA CRUZ
+    Número: SN
+    Bairro: IBURA
+  [8]
+    CPF: 107.208.494-54
+    Nome: TATIANA CORREIA DA SILVA
+    Logradouro: BREJO DA CRUZ
+    Número: 390
+    Bairro: IBURA
+  [9]
+    CPF: 063.429.814-34
+    Nome: SEBASTIANA MARIA DA SILVA
+    Logradouro: BREJO DA CRUZ
+    Número: 9
+    Bairro: IBURA
+  [10]
+    CPF: 072.835.814-05
+    Nome: JAQUELINE GUEDES DA SILVA
+    Logradouro: BREJO DA CRUZ
+    Número: 26
+    Bairro: IBURA
+  [11]
+    CPF: 284.518.804-87
+    Nome: GENILDO PEREIRA DA SILVA
+    Logradouro: BREJO DA CRUZ
+    Número: 15
+    Bairro: IBURA
+  [12]
+    CPF: 081.392.254-28
+    Nome: ANNA CLAUDIA DE SOUZA
+    Logradouro: BREJO DA CRUZ
+    Número: 31
+    Bairro: IBURA
+  [13]
+    CPF: 802.017.504-06
+    Nome: CLAUDIO DO NASCIMENTO
+    Logradouro: BREJO DA CRUZ
+    Número: 18
+    Bairro: IBURA
+  [14]
+    CPF: 072.137.184-10
+    Nome: MIRELA BARROS DIAS
+    Logradouro: BREJO DA CRUZ
+    Número: 216
+    Bairro: IBURA
+  [15]
+    CPF: 456.633.604-25
+    Nome: LUIZ ANTONIO DA SILVA CONCEICAO
+    Logradouro: BREJO DA CRUZ
+    Número: 162
+    Bairro: IBURA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (81) 98116-1248
+    Nome: GUILHERME AUGUSTO DE LUNA SANTOS DE LUNA SANTOS
+    Cidade: RECIFE
+    UF: PE
+E-mails: (1 item(s))
+  - guilherme-luna@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 4874
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1830.73
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (81) 3342-0080
+    Ddd: 81
+    Número: 33420080
+    Tipo: FIXO
+    Data Inclusao: 06/03/2012
+    Classificacao: B
+  [2]
+    Telefone: (81) 98116-1311
+    Ddd: 81
+    Número: 981161311
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (81) 3462-1334
+    Ddd: 81
+    Número: 34621334
+    Tipo: FIXO
+    Data Inclusao: 07/01/2014
+    Classificacao: D
+  [4]
+    Telefone: (81) 98116-1248
+    Ddd: 81
+    Número: 981161248
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: C2
+  [5]
+    Telefone: (81) 98810-0480
+    Ddd: 81
+    Número: 988100480
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: A0
+Occupation Code: 111405
+Occupation Name: Dirigente do serviço público federal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

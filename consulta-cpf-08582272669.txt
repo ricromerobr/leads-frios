@@ -1,0 +1,464 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08582272669
+Data/Hora:  02/10/2026, 15:46:41
+Tempo API:  19482ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 085.822.726-69
+Nome: FLAVIANA PEREIRA MAGALHAES
+Primeiro Nome: FLAVIANA
+Sobrenome: MAGALHAES
+Sexo: Feminino
+Data de Nascimento: 18/01/1989
+Nome da Mãe: ILDA PEREIRA MAGALHAES
+Mosaic: J36
+Ocupação: Administrador
+Score:
+  Value: 291
+  Range: ALTO
+E-mail: GARRAFINHAFLAVI@YAHOO.COM.BR
+Federal Status: REGULAR
+Renda: 622
+Income Bracket: 1
+Cbo: 422315
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: DORA  110
+  Bairro: PIRATININGA VENDA NOVA
+  Cidade: BELO HORIZONTE
+  Estado: MINAS GERAIS
+  CEP: 31535-280
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DORA  110
+    Bairro: PIRATININGA VENDA NOVA
+    Cidade: BELO HORIZONTE
+    Estado: MINAS GERAIS
+    CEP: 31535-280
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AMAZONAS
+    Número: 48
+    Bairro: SEBASTIAO ALVES
+    Cidade: TRES MARIAS
+    Estado: MG
+    CEP: 39205-000
+    Fonte: SARAIVA
+  [3]
+    Rua: DEA
+    Tipo: R
+    Número: 69
+    Complemento: B
+    Bairro: PIRATININGA VENDA NOVA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31535-310
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DIVA
+    Tipo: R
+    Número: 247
+    Complemento: CS 20
+    Bairro: RIO BRANCO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31535-710
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: PEDRA DO MAR
+    Tipo: R
+    Número: 198
+    Complemento: CS A
+    Bairro: RIO BRANCO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31535-252
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: FLAVIANA PEREIRA MAGALHAES GONCALVES
+    Rua: 0000069
+    Número: DEA
+    Bairro: JARDIM DAS NACOES
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31535-310
+    Fonte: ASSECC
+  [7]
+    Tipo: [empty]
+    Rua: ANUAR MENHEN
+    Número: 0001212
+    Bairro: SANTA AMELIA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 03156-000
+    Fonte: ASSECC
+  [8]
+    Rua: RUA PINHEIRINHOS
+    Número: 40
+    Bairro: PIRATININGA (VENDA NOVA)
+    Estado: MG
+    CEP: 31540-060
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (31) 98546-6169
+  - (31) 99975-0779
+  - (38) 9122-5882
+  - +55 (31) 98546-6169
+  - (31) 99689-9705
+  - (31) 3225-9530
+  - (31) 99404-7208
+  - (31) 3225-0494
+  - (31) 98578-8448
+Saraiva:
+  Customer Id: 8068360
+  Telefone: (38) 9122-5882
+  E-mail: GARRAFINHAFLAVI@YAHOO.COM.BR
+  Data de Nascimento: 18/01/1989
+Paycom:
+  E-mail: flaviana.3m@hotmail.com
+  Data de Nascimento: 18/01/1989
+  Created At: 2021-07-21 18:05:05
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Av. Dep. Anuar Menhem, 1212
+    Número: 1212
+    Complemento: 23 D
+    Bairro: 31560-200
+    Cidade: Belo Horizonte
+    Estado: Minas Gerais
+    País: Brasil
+    Telephone: +55 (31) 98546-6169
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 25/11/2019
+    Mosaic: J36
+    Mosaic New: G23
+    Mosaic Secondary: E17
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: DEA
+      Número: 69
+      Complemento: B
+      Bairro: PIRATININGA VENDA NOVA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31535-310
+      Date Added: 29/10/2018
+    [2]
+      Tipo: R
+      Rua: AMAZONAS
+      Número: 48
+      Cidade: TRES MARIAS
+      Estado: MG
+      CEP: 39205-000
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: DIVA
+      Número: 247
+      Complemento: CS 20
+      Bairro: RIO BRANCO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31535-710
+      Date Added: 24/03/2015
+    [4]
+      Tipo: R
+      Rua: PEDRA DO MAR
+      Número: 198
+      Complemento: CS A
+      Bairro: RIO BRANCO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31535-252
+      Date Added: 28/08/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32259530
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/11/2011
+      Info Date: 06/09/2011
+    [2]
+      Telefone: 994047208
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 31/01/2013
+    [3]
+      Telefone: 999750779
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 32250494
+      Ddd: 31
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [5]
+      Telefone: 985788448
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: flaviana.3m@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: garrafinhaflavi@yahoo.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 572
+    CSB8 FAIXA: BAIXO
+    CSBA: 291
+    CSBA FAIXA: ALTO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 234.283.686-49
+      Nome: JOAO GONCALVES PEREIRA
+      Vinculo: TIA(O)
+    [2]
+      CPF: 505.039.956-49
+      Nome: RAIMUNDO GONCALVES PEREIRA
+      Vinculo: TIA(O)
+    [3]
+      CPF: 480.039.216-00
+      Nome: MESSIAS GONCALVES PEREIRA
+      Vinculo: TIA(O)
+    [4]
+      CPF: 234.283.506-00
+      Nome: JOSE WALMI FRANCISCO DE MELO
+      Vinculo: TIA(O)
+    [5]
+      CPF: 897.581.106-91
+      Nome: BENEDITA FRANCISCA PEREIRA
+      Vinculo: AVO
+    [6]
+      CPF: 6837471694
+      Nome: DULCINEIA GONCALVES DA SILVA
+      Vinculo: TIA(O)
+    [7]
+      CPF: 955.477.206-82
+      Nome: ILDA PEREIRA MAGALHAES
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1171.11
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Additional Emails: (2 item(s))
+  - flaviana.3m@hotmail.com
+  - garrafinhaflavi@yahoo.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 062.787.826-18
+    Nome: GLEIDE GOMES MINEIRO DE LIMA
+    Logradouro: DEA
+    Número: 60
+    Bairro: JD DAS NACOES
+  [2]
+    CPF: 483.267.046-87
+    Nome: ELIANE MARTINS FERNANDES
+    Logradouro: DEA
+    Número: 33
+    Bairro: PIRATININGA VENDA NOVA
+  [3]
+    CPF: 070.790.646-60
+    Nome: JOSIANA DE PAULA OLIVEIRA LIMA ROCHA
+    Logradouro: DEA
+    Número: 212
+    Bairro: JD DAS NACOES
+  [4]
+    CPF: 072.500.686-28
+    Nome: CATARINA MARTINS DE SOUZA
+    Logradouro: DEA
+    Número: 72
+    Bairro: JD DAS NACOES
+  [5]
+    CPF: 096.779.497-80
+    Nome: DOUGLAS APARECIDO FERRARINI TOTOLA
+    Logradouro: DEA
+    Número: 4598
+    Bairro: JD DAS NACOES
+  [6]
+    CPF: 113.381.546-48
+    Nome: BRIAN CHRISTYAN MORESCO
+    Logradouro: DEA
+    Número: 5
+    Bairro: JD DAS NACOES
+  [7]
+    CPF: 776.623.186-72
+    Nome: MARIA AUXILIADORA GARCIA
+    Logradouro: DEA
+    Número: 243
+    Bairro: JD DAS NACOES
+  [8]
+    CPF: 001.958.366-42
+    Nome: PEDRO NEVES GARCIA
+    Logradouro: DEA
+    Número: 245
+    Bairro: JD DAS NACOES
+  [9]
+    CPF: 062.088.306-56
+    Nome: MARIA RIBEIRO MARINHO
+    Logradouro: DEA
+    Número: 84
+    Bairro: JD DAS NACOES
+  [10]
+    CPF: 061.192.866-32
+    Nome: EDERSON RODRIGO DA CRUZ
+    Logradouro: DEA
+    Número: 223
+    Bairro: JD DAS NACOES
+  [11]
+    CPF: 013.096.006-35
+    Nome: MAIRA DE OLIVEIRA LAGE JUSTI
+    Logradouro: DEA
+    Número: 265
+    Bairro: JD DAS NACOES
+  [12]
+    CPF: 073.738.006-37
+    Nome: LEONARDO MELLO GOMES
+    Logradouro: DEA
+    Número: 100
+    Bairro: JD DAS NACOES
+  [13]
+    CPF: 295.228.896-87
+    Nome: HILDA DIAS MIRANDA DA CONCEICAO
+    Logradouro: DEA
+    Número: 188
+    Bairro: JD DAS NACOES
+  [14]
+    CPF: 013.811.046-81
+    Nome: LAURA ANGELICA GONCALVES DIAS
+    Logradouro: DEA
+    Número: 223
+    Bairro: JD DAS NACOES
+  [15]
+    CPF: 155.568.676-15
+    Nome: JOAO BATISTA
+    Logradouro: DEA
+    Número: 23
+    Bairro: JD DAS NACOES
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (31) 99689-9705
+    Nome: R
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [2]
+    Telefone: (31) 99975-0779
+    Nome: FLAVIANA  PEREIRA MAGALHAES
+    Cidade: BELO HORIZONTE
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (31) 99975-0779
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 27/03/2020
+    Valor Fatura: 33.69
+    Mes Referencia: 202009
+E-mails: (2 item(s))
+  - garrafinhaflavi@yahoo.com.br
+  - flaviana.3m@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 622
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1171.11
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (31) 3225-9530
+    Ddd: 31
+    Número: 32259530
+    Tipo: FIXO
+    Data Inclusao: 02/11/2011
+    Data Informacao: 06/09/2011
+    Classificacao: D
+  [2]
+    Telefone: (31) 99404-7208
+    Ddd: 31
+    Número: 994047208
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A2
+  [3]
+    Telefone: (31) 99975-0779
+    Ddd: 31
+    Número: 999750779
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A0
+  [4]
+    Telefone: (31) 3225-0494
+    Ddd: 31
+    Número: 32250494
+    Tipo: FIXO
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [5]
+    Telefone: (31) 98578-8448
+    Ddd: 31
+    Número: 985788448
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

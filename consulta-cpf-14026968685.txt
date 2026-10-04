@@ -1,0 +1,249 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14026968685
+Data/Hora:  04/10/2026, 04:26:18
+Tempo API:  459ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 140.269.686-85
+Nome: JAIMSON BRAZ VIANA
+Primeiro Nome: JAIMSON
+Sobrenome: VIANA
+Sexo: Masculino
+Data de Nascimento: 03/01/1997
+Nome da Mãe: TEREZINHA PINHEIRO BRAZ VIANA
+Ocupação: Auxiliar nos serviços de alimentação
+Score:
+  Value: 109
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1313
+Income Bracket: 2
+Cbo: 513505
+Endereço:
+  Tipo: RUA
+  Rua: EUCLIDES DA CUNHA
+  Número: 1173
+  Complemento: C
+  Bairro: CENTRO
+  Cidade: ALTO PARANA
+  Estado: PARANA
+  CEP: 87750-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EUCLIDES DA CUNHA
+    Número: 1173
+    Complemento: C
+    Bairro: CENTRO
+    Cidade: ALTO PARANA
+    Estado: PARANA
+    CEP: 87750-000
+    Fonte: PRINCIPAL
+  [2]
+    Tipo: AV
+    Rua: IPIRANGA CENTRO
+    Número: 0000119
+    Bairro: CENTRO
+    Cidade: ALTO PARANA
+    Estado: PR
+    CEP: 87750-000
+    Fonte: ASSECC
+  [3]
+    Rua: RUA EUCLIDES DA CUNHA
+    Número: 1173
+    Complemento: C
+    Bairro: CENTRO
+    Estado: PR
+    CEP: 87750-000
+    Fonte: VIVO_PRE
+  [4]
+    Rua: AV IPIRANGA CENTRO
+    Número: 119
+    Bairro: CENTRO
+    Estado: PR
+    CEP: 87750-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (44) 99161-6393
+  - (43) 99172-7410
+  - (44) 99891-5907
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Mosaic New: D14
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Rua: EUCLIDES DA CUNHA
+      Número: 1173
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: ALTO PARANA
+      Estado: PR
+      CEP: 87750-000
+      Date Added: 14/09/2016
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 998915907
+      Ddd: 44
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 25/01/2018
+  Score:
+    CSBA: 109
+    CSBA FAIXA: ALTISSIMO
+  Pis: 21283445850
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 322.74
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.624.209-13
+    Nome: LINDAURA APARECIDA TABORDA RIBAS
+    Logradouro: ESTADOS UNIDOS
+    Número: 1887
+    Bairro: AT PARANA
+  [2]
+    CPF: 440.092.679-68
+    Nome: JOSE BARBON
+    Logradouro: PRINCIPAL
+    Número: SN
+  [3]
+    CPF: 048.168.348-85
+    Nome: ANA DE ALMEIDA CANDIDO
+    Logradouro: IPIRANGA
+    Número: 837
+  [4]
+    CPF: 050.976.749-44
+    Nome: DIRCE PISTOR CAMPOS
+    Logradouro: EUCLIDES DA CUNHA
+    Número: 1262
+  [5]
+    CPF: 050.720.929-09
+    Nome: RAFAEL SANTOS DO NASCIMENTO
+    Logradouro: PEROBAS
+    Número: 581
+  [6]
+    CPF: 459.947.819-91
+    Nome: CECILIO FRANCISCO BORGES
+    Logradouro: BRASILEIRA
+    Número: SN
+  [7]
+    CPF: 050.398.569-46
+    Nome: MARIA APARECIDA LIMA
+    Logradouro: DEL BEL
+    Número: SN
+    Bairro: MARISTELA
+  [8]
+    CPF: 052.540.149-03
+    Nome: FERNANDO APARECIDO FOGACA
+    Logradouro: EUCLIDES DA CUNHA
+    Número: 1759
+  [9]
+    CPF: 050.106.659-48
+    Nome: SEVERINA DA SILVA ARAUJO
+    Logradouro: CHILE
+    Número: 1769
+  [10]
+    CPF: 050.053.159-50
+    Nome: RODRIGO MOREIRA DOS SANTOS
+    Logradouro: JOSE DE ALENCAR
+    Número: 1186
+  [11]
+    CPF: 050.053.159-50
+    Nome: RODRIGO MOREIRA DOS SANTOS
+    Logradouro: JOSE DE ALENCAR
+    Número: 2050
+  [12]
+    CPF: 049.988.689-50
+    Nome: CELIO DIAS DA COSTA
+    Logradouro: EDSON
+    Número: 1669
+    Bairro: CENTRO
+  [13]
+    CPF: 052.378.219-52
+    Nome: PAULA RENATA BARCELOS
+    Logradouro: DAS AMERICA
+    Número: 1240
+  [14]
+    CPF: 049.308.929-29
+    Nome: LUIZ GUSTAVO REIS PEREIRA
+    Logradouro: EUCLIDES DA CUNHA
+    Número: 653
+  [15]
+    CPF: 049.131.449-36
+    Nome: ZENAIDE BATISTA DE MELO
+    Logradouro: PRAINHA
+    Número: SN
+    Bairro: MARISTELA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (44) 99161-6393
+    Nome: JAIMSON BRAZ VIANA
+    Cidade: ALTO PARANA
+    UF: PR
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (43) 99172-7410
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 17JUN2020
+    Ultima Recarga: 30JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 16/06/2020
+  [2]
+    Telefone: (44) 99161-6393
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 22/08/2020
+    Flag Divida: 1
+    Maior Atraso: 18
+    Menor Atraso: 18
+    Valor Fatura: 44.99
+    Mes Referencia: 202010
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1313
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 322.74
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (44) 99891-5907
+    Ddd: 44
+    Número: 998915907
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: A0
+Occupation Code: 513505
+Occupation Name: Auxiliar nos serviços de alimentação
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

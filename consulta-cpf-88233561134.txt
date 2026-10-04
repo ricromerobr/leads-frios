@@ -1,0 +1,462 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  88233561134
+Data/Hora:  03/10/2026, 19:53:17
+Tempo API:  717ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 882.335.611-34
+Nome: MICHELLE PIMENTA DE SOUSA
+Primeiro Nome: MICHELLE
+Sobrenome: SOUSA
+Sexo: Feminino
+Data de Nascimento: 02/06/1977
+Nome da Mãe: MARIA ZENAIDE PIMENTA DE SOUSA
+Nome do Pai: ANTONIO FERREIRA DE SOUSA
+RG: 13242148
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: AM
+Voter Id: 047373650728
+Mosaic: D13
+Ocupação: Diretor geral de empresa e organizações (exceto de interesse público)
+Score:
+  Value: 54
+  Range: ALTISSIMO
+E-mail: michelle.p.sousa@hotmail.com
+Additional Emails: (1 item(s))
+  - michelle.p.sousa@hotmail.com
+Federal Status: REGULAR
+Renda: 1662
+Income Bracket: 2
+Cbo: 422105
+Endereço:
+  Tipo: RUA
+  Rua: CNF 3
+  Bairro: TAGUATINGA NORTE TAGUATINGA
+  Cidade: BRASILIA
+  Estado: DISTRITO FEDERAL
+  CEP: 72125-535
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CNF 3
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DISTRITO FEDERAL
+    CEP: 72125-535
+    Fonte: PRINCIPAL
+  [2]
+    Rua: QUINZE DE NOVEMBRO
+    Número: 325
+    Bairro: CENTRO
+    Cidade: SERRANA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: QNL 10 BLOCO E
+    Complemento: CS 13
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72156-115
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CNF 3
+    Complemento: LT 13 AP 201
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72125-535
+    Data Atualizacao: 27/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: QNL 10 CJ E
+    Complemento: 13 C
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72156-105
+    Data Atualizacao: 20/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: QNF 20
+    Complemento: LT 30
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72125-700
+    Data Atualizacao: 05/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: CNF 3
+    Número: 0000013
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72125-535
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: CNF 3
+    Número: 0000201
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72125-535
+    Fonte: ASSECC
+  [9]
+    Rua: QNF 14 LOTE 01 (GVT:72125640)
+    Número: SN
+    Complemento: LJ 1
+    Bairro: TAGUATINGA
+    Cidade: TAGUATINGA
+    Estado: DF
+    CEP: 72125-640
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 0
+Telefones: (14 item(s))
+  - (61) 99419-2720
+  - (61) 99686-8801
+  - (61) 99862-0247
+  - (61) 99555-4828
+  - (61) 99515-1944
+  - (61) 99319-0647
+  - (61) 3965-7460
+  - 556191274017
+  - 556130365181
+  - (61) 99458-8188
+  - (61) 3354-7729
+  - (61) 3036-5181
+  - (61) 2028-1003
+  - (61) 99127-4017
+Datasus Phones: (1 item(s))
+  - (61) 99515-1944
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 707003819763637
+Rg Issue Date: 791089200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Info Date: 21/12/2008
+    Mosaic: D13
+    Mosaic New: E15
+    Mosaic Secondary: E17
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Rua: QNL 10 BLOCO E
+      Complemento: CS 13
+      Bairro: TAGUATINGA NORTE TAGUATINGA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72156-115
+      Date Added: 19/08/2015
+    [2]
+      Rua: CNF 3
+      Complemento: LT 13 AP 201
+      Bairro: TAGUATINGA NORTE TAGUATINGA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72125-535
+      Date Added: 03/01/2017
+    [3]
+      Rua: QNL 10 CJ E
+      Complemento: 13 C
+      Bairro: TAGUATINGA NORTE TAGUATINGA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72156-105
+      Date Added: 26/12/2016
+    [4]
+      Rua: QNF 20
+      Complemento: LT 30
+      Bairro: TAGUATINGA NORTE TAGUATINGA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72125-700
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33547729
+      Ddd: 61
+      Tipo: 1
+      Classificacao: D
+      Date Added: 03/08/2009
+    [2]
+      Telefone: 30365181
+      Ddd: 61
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/06/2012
+      Info Date: 31/07/2008
+    [3]
+      Telefone: 20281003
+      Ddd: 61
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 09/10/2017
+      Info Date: 24/04/2019
+    [4]
+      Telefone: 991274017
+      Ddd: 61
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2018
+    [5]
+      Telefone: 993190647
+      Ddd: 61
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: michelle.p.sousa@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 32
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 54
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 155.155.403-87
+      Nome: MARIA ZENAIDE PIMENTA DE SOUSA
+      Vinculo: MAE
+    [2]
+      CPF: 144.092.081-87
+      Nome: FRANCISCO DAS CHAGAS CARVALHO
+      Vinculo: TIA(O)
+    [3]
+      CPF: 644.892.802-20
+      Nome: DANIEL PIMENTA DE SOUSA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 592.727.913-91
+      Nome: GUIOMAR PIMENTA DE CARVALHO
+      Vinculo: AVO
+    [5]
+      CPF: 842.045.831-72
+      Nome: JOSE DE ARIMATEA CARVALHO
+      Vinculo: TIA(O)
+  Pis: 23606374832
+  Tse:
+    Titulo: 47373650728
+    Zona: 19
+    Secao: 29
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1220.38
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 417.119.801-10
+    Nome: RITA PEREIRA DO NASCIMENTO
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [2]
+    CPF: 007.899.631-75
+    Nome: ZAINE SILES CANDIDA FERREIRA
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [3]
+    CPF: 477.554.151-04
+    Nome: HILDENICE DA SILVA MATOS
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [4]
+    CPF: 244.106.401-00
+    Nome: ZILDETE PEREIRA DA SILVA SOARES
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [5]
+    CPF: 683.692.556-04
+    Nome: LIBIA TEIXEIRA CASTRO MACHADO
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [6]
+    CPF: 278.838.408-43
+    Nome: MARILENE DA COSTA VITOR LOPES
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [7]
+    CPF: 046.513.781-45
+    Nome: MARCELO DE SOUZA SILVA
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [8]
+    CPF: 477.554.901-49
+    Nome: VALDEMIR ALVES DA SILVA
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [9]
+    CPF: 683.692.556-04
+    Nome: LIBIA TEIXEIRA CASTRO MACHADO
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [10]
+    CPF: 313.735.851-53
+    Nome: MARIA SOCORRO DA GLORIA
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [11]
+    CPF: 185.458.661-00
+    Nome: MARIA DAS GRACAS IBIAPINA
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [12]
+    CPF: 716.492.551-87
+    Nome: GABRIEL VALERIO DA SILVA
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [13]
+    CPF: 687.344.416-20
+    Nome: JOAO PEGO DOS SANTOS
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [14]
+    CPF: 817.758.060-49
+    Nome: RUDINEI LOPES CARVALHO
+    Logradouro: QNL 10 BLOCO E
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+  [15]
+    CPF: 021.374.641-79
+    Nome: JANIO MACHADO JUNIOR
+    Logradouro: QNL 10 BLOCO E
+    Número: 9
+    Bairro: TAGUATINGA NORTE TAGUATINGA
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (61) 99419-2720
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Cidade: BRASILIA
+    UF: DF
+  [2]
+    Telefone: (61) 99555-4828
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Cidade: BRASILIA
+    UF: DF
+  [3]
+    Telefone: (61) 99515-1944
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Cidade: BRASILIA
+    UF: DF
+  [4]
+    Telefone: (61) 99319-0647
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Cidade: BRASILIA
+    UF: DF
+  [5]
+    Telefone: (61) 99862-0247
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Cidade: BRASILIA
+    UF: DF
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (61) 3965-7460
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Data Ativacao: 12MAR2007:00:00:00
+    Cel Contato: +556191274017
+    Complemento: LJ 1
+    Data Retirada: 14NOV2008:12:27:32
+    Tipo Cliente: Residencial
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (61) 99862-0247
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (61) 99515-1944
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (61) 99458-8188
+    Nome: MICHELLE PIMENTA DE SOUSA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - michelle.p.sousa@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1662
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1220.38
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (61) 3354-7729
+    Ddd: 61
+    Número: 33547729
+    Tipo: FIXO
+    Data Inclusao: 03/08/2009
+    Classificacao: D
+  [2]
+    Telefone: (61) 3036-5181
+    Ddd: 61
+    Número: 30365181
+    Tipo: FIXO
+    Data Inclusao: 05/06/2012
+    Data Informacao: 31/07/2008
+    Classificacao: D
+  [3]
+    Telefone: (61) 2028-1003
+    Ddd: 61
+    Número: 20281003
+    Tipo: FIXO
+    Data Inclusao: 09/10/2017
+    Data Informacao: 24/04/2019
+    Classificacao: A0
+  [4]
+    Telefone: (61) 99127-4017
+    Ddd: 61
+    Número: 991274017
+    Tipo: 3
+    Data Inclusao: 17/12/2018
+    Classificacao: D
+  [5]
+    Telefone: (61) 99319-0647
+    Ddd: 61
+    Número: 993190647
+    Tipo: 3
+    Data Inclusao: 17/12/2018
+    Classificacao: D
+Occupation Code: 121010
+Occupation Name: Diretor geral de empresa e organizações (exceto de interesse público)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

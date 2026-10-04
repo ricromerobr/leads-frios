@@ -1,0 +1,282 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  41345550782
+Data/Hora:  04/10/2026, 11:35:37
+Tempo API:  562ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 413.455.507-82
+Nome: JULIO CESAR GARCIA DA ROSA
+Primeiro Nome: JULIO
+Sobrenome: ROSA
+Sexo: Masculino
+Data de Nascimento: 10/04/1953
+Nome da Mãe: JULIA BARCELOS
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 047055530370
+Mosaic: D11
+Ocupação: Diretor geral de empresa e organizações (exceto de interesse público)
+Score:
+  Value: 980
+  Range: BAIXISSIMO RISCO
+E-mail: contato@interserviceamelco.com.br
+Additional Emails: (1 item(s))
+  - contato@interserviceamelco.com.br
+Federal Status: REGULAR
+Renda: 4480
+Income Bracket: 4
+Cbo: 121010
+Endereço:
+  Tipo: RUA
+  Rua: SAO BOAVENTURA
+  Número: 898
+  Bairro: FONSECA
+  Cidade: NITEROI
+  Estado: RIO DE JANEIRO
+  CEP: 24120-191
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SAO BOAVENTURA
+    Número: 898
+    Bairro: FONSECA
+    Cidade: NITEROI
+    Estado: RIO DE JANEIRO
+    CEP: 24120-191
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ALAMEDA SAO BOAVENTURA
+    Número: 898
+    Bairro: FONSECA
+    Cidade: NITEROI - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: BOAVENTURA
+    Tipo: R
+    Número: 898
+    Complemento: FDS 3
+    Bairro: BALDEADOR
+    Cidade: NITEROI
+    Estado: RJ
+    CEP: 24140-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: LUTER KING
+    Tipo: R
+    Número: 72
+    Bairro: STA BARBARA
+    Cidade: NITEROI
+    Estado: RJ
+    CEP: 24141-560
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: MARTINS TORRES
+    Tipo: R
+    Número: 72
+    Bairro: STA ROSA
+    Cidade: NITEROI
+    Estado: RJ
+    CEP: 24240-705
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 706306121953080
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 25/11/2019
+    Mosaic: D11
+    Mosaic New: B04
+    Mosaic Secondary: G22
+    Income Bracket Id: 5
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: BOAVENTURA
+      Número: 898
+      Complemento: FDS 3
+      Bairro: BALDEADOR
+      Cidade: NITEROI
+      Estado: RJ
+      CEP: 24140-040
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: LUTER KING
+      Número: 72
+      Bairro: STA BARBARA
+      Cidade: NITEROI
+      Estado: RJ
+      CEP: 24141-560
+      Date Added: 09/12/2014
+    [3]
+      Tipo: AL
+      Rua: BOAVENTURA
+      Número: 898
+      Bairro: FONSECA
+      Cidade: NITEROI
+      Estado: RJ
+      CEP: 24120-192
+      Date Added: 21/04/2016
+    [4]
+      Tipo: R
+      Rua: MARTINS TORRES
+      Número: 72
+      Bairro: STA ROSA
+      Cidade: NITEROI
+      Estado: RJ
+      CEP: 24240-705
+      Date Added: 20/03/2013
+  E-mails: (1 item(s))
+    [1]
+      E-mail: contato@interserviceamelco.com.br
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 796
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 980
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: JULIA BARCELOS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2748.96
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 638.138.587-15
+    Nome: ROBERTO BARCELLOS FERREIRA
+    Logradouro: BOAVENTURA
+    Número: 617
+    Bairro: BALDEADOR
+  [2]
+    CPF: 531.307.319-20
+    Nome: EDGAR RODRIGUES
+    Logradouro: BOAVENTURA
+    Número: SN
+    Bairro: BALDEADOR
+  [3]
+    CPF: 037.244.157-29
+    Nome: VERA LUCIA CORREA DOS SANTOS
+    Logradouro: BOAVENTURA
+    Número: 889
+    Bairro: BALDEADOR
+  [4]
+    CPF: 037.000.487-69
+    Nome: HELEN THEREZA DA SILVA
+    Logradouro: BOAVENTURA
+    Número: 342
+    Bairro: BALDEADOR
+  [5]
+    CPF: 036.868.467-99
+    Nome: CARLOS EDUARDO DE MOURA
+    Logradouro: BOAVENTURA
+    Número: 617
+    Bairro: BALDEADOR
+  [6]
+    CPF: 036.157.157-72
+    Nome: GERALDO VALADAO DE CAMPOS LIMA
+    Logradouro: BOAVENTURA
+    Número: 890
+    Bairro: BALDEADOR
+  [7]
+    CPF: 422.684.517-04
+    Nome: DALVA EVARISTO DA SILVA
+    Logradouro: BOAVENTURA
+    Número: 873
+    Bairro: BALDEADOR
+  [8]
+    CPF: 028.288.747-45
+    Nome: MARLUCE COSTA MACEDO
+    Logradouro: BOAVENTURA
+    Número: 364
+    Bairro: BALDEADOR
+  [9]
+    CPF: 107.385.717-41
+    Nome: BRUNA RODRIGUES PEREIRA
+    Logradouro: BOAVENTURA
+    Número: 25
+    Bairro: BALDEADOR
+  [10]
+    CPF: 006.504.817-20
+    Nome: CARMEN VALERIA DA SILVEIRA PAVAO
+    Logradouro: BOAVENTURA
+    Número: 300
+    Bairro: BALDEADOR
+  [11]
+    CPF: 010.114.097-55
+    Nome: JORGE ANCHIETA DE PINHO
+    Logradouro: BOAVENTURA
+    Número: 1227
+    Bairro: BALDEADOR
+  [12]
+    CPF: 502.708.347-53
+    Nome: JORGE LUIZ DA SILVEIRA
+    Logradouro: BOAVENTURA
+    Número: 300
+    Bairro: BALDEADOR
+  [13]
+    CPF: 103.958.477-29
+    Nome: EMANOELE DOS SANTOS ALEIXO
+    Logradouro: BOAVENTURA
+    Número: 847
+    Bairro: BALDEADOR
+  [14]
+    CPF: 193.563.237-04
+    Nome: JADIR PIMENTEL PEREIRA
+    Logradouro: BOAVENTURA
+    Número: 954
+    Bairro: BALDEADOR
+  [15]
+    CPF: 095.339.877-31
+    Nome: JOSIANE VIANA DA SILVA
+    Logradouro: BOAVENTURA
+    Número: 869
+    Bairro: BALDEADOR
+E-mails: (1 item(s))
+  - contato@interserviceamelco.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 4480
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2748.96
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Occupation Code: 121010
+Occupation Name: Diretor geral de empresa e organizações (exceto de interesse público)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

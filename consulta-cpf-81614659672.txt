@@ -1,0 +1,434 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  81614659672
+Data/Hora:  04/10/2026, 00:53:23
+Tempo API:  373ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 816.146.596-72
+Nome: EVANIA APARECIDA DE JESUS
+Primeiro Nome: EVANIA
+Sobrenome: JESUS
+Sexo: Feminino
+Data de Nascimento: 06/12/1965
+Nome da Mãe: TEREZINHA GUILHERMINA DE JESUS
+Nome do Pai: PEDRO GUILHERMINO
+RG: 125414850
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PR
+Voter Id: 060906570205
+Mosaic: C08
+Ocupação: Técnico de enfermagem
+Score:
+  Value: 177
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1640
+Income Bracket: 2
+Cbo: 322205
+Endereço:
+  Tipo: RUA
+  Rua: MANOEL DE MACEDO
+  Número: 31
+  Complemento: AP 404
+  Bairro: ZONA 07
+  Cidade: MARINGA
+  Estado: PARANA
+  CEP: 87020-240
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MANOEL DE MACEDO
+    Número: 31
+    Complemento: AP 404
+    Bairro: ZONA 07
+    Cidade: MARINGA
+    Estado: PARANA
+    CEP: 87020-240
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FILADELFIA 1/299
+    Número: 200
+    Bairro: PARQUE DAS INDUSTRIAS
+    Cidade: BETIM - MG
+    Fonte: DATASUS
+  [3]
+    Rua: DOS COMERCIARIOS
+    Tipo: R
+    Número: 19
+    Bairro: PRQ DAS INDUSTRIAS
+    Cidade: BETIM
+    Estado: MG
+    CEP: 32671-412
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PAULO
+    Tipo: R
+    Número: 771
+    Complemento: AP 133
+    Bairro: CERAMICA
+    Cidade: SAO CAETANO DO SUL
+    Estado: SP
+    CEP: 09530-211
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 4002
+    Bairro: ZONA 01
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87013-000
+    Data Atualizacao: 03/07/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: VITORIO BALANI
+    Tipo: R
+    Número: 237
+    Bairro: ZONA 05
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87015-310
+    Data Atualizacao: 10/03/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: JOSE CLEMENTE
+    Tipo: R
+    Número: 90
+    Complemento: AP 401
+    Bairro: ZONA 07
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87020-070
+    Data Atualizacao: 26/07/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: EVANIA APARECIDA DE JESUS
+    Rua: 0000200
+    Número: FILADELFIA
+    Bairro: PARQUE DAS INDUSTRIAS
+    Cidade: BETIM
+    Estado: MG
+    CEP: 03267-132
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: SEM ENDERECO
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: MG
+    CEP: 00000-000
+    Fonte: ASSECC
+  [10]
+    Rua: AV FILADELFIA
+    Número: 200
+    Complemento: CS N
+    Bairro: PARQUE DAS INDUSTRIAS
+    Estado: MG
+    CEP: 32671-432
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (31) 99442-4146
+  - (31) 99837-3333
+  - (31) 98219-7322
+  - (44) 99973-7062
+  - (44) 99941-9673
+  - (31) 3511-6933
+  - (64) 3621-1758
+  - (11) 97560-2200
+Datasus Phones: (1 item(s))
+  - (44) 99840-3883
+Cidade de Nascimento: ESMERALDAS - MG
+Cns: 704301511291391
+Rg Issue Date: 1284346800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/07/2019
+    Rg Issuer: SSP
+    Mosaic: C08
+    Mosaic New: C06
+    Mosaic Secondary: A02
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: DOS COMERCIARIOS
+      Número: 19
+      Bairro: PRQ DAS INDUSTRIAS
+      Cidade: BETIM
+      Estado: MG
+      CEP: 32671-412
+      Date Added: 20/02/2014
+    [2]
+      Tipo: R
+      Rua: PAULO
+      Número: 771
+      Complemento: AP 133
+      Bairro: CERAMICA
+      Cidade: SAO CAETANO DO SUL
+      Estado: SP
+      CEP: 09530-211
+      Date Added: 03/07/2018
+    [3]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 4002
+      Bairro: ZONA 01
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87013-000
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: VITORIO BALANI
+      Número: 237
+      Bairro: ZONA 05
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87015-310
+      Date Added: 06/08/2011
+    [5]
+      Tipo: R
+      Rua: JOSE CLEMENTE
+      Número: 90
+      Complemento: AP 401
+      Bairro: ZONA 07
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87020-070
+      Date Added: 06/08/2011
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999737062
+      Ddd: 44
+      Tipo: 3
+      Classificacao: D
+      Date Added: 12/01/2012
+      Info Date: 26/04/2011
+    [2]
+      Telefone: 999419673
+      Ddd: 44
+      Tipo: 3
+      Classificacao: D
+      Date Added: 21/07/2013
+    [3]
+      Telefone: 35116933
+      Ddd: 31
+      Tipo: 1
+      Classificacao: C2
+      Date Added: 18/02/2014
+      Info Date: 28/01/2014
+    [4]
+      Telefone: 36211758
+      Ddd: 64
+      Tipo: 1
+      Classificacao: C
+      Date Added: 07/04/2014
+      Info Date: 27/03/2014
+    [5]
+      Telefone: 975602200
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 08/05/2017
+  Score:
+    CSBA: 177
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: TEREZINHA GUILHERMINA DE JESUS
+      Vinculo: MAE
+  Pis: 16013525308
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 970.94
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 035.524.576-07
+    Nome: MARCIO CANDIDO DE OLIVEIRA LACERDA
+    Logradouro: DOS COMERCIARIOS
+    Número: 69
+    Bairro: PRQ DAS INDUSTRIAS
+  [2]
+    CPF: 011.763.416-69
+    Nome: ADRIANA REZENDE MAIA
+    Logradouro: DOS COMERCIARIOS
+    Número: 20
+    Bairro: PRQ DAS INDUSTRIAS
+  [3]
+    CPF: 064.878.246-82
+    Nome: VINICIUS ALVES PEREIRA
+    Logradouro: DOS COMERCIARIOS
+    Número: 33
+    Bairro: PRQ DAS INDUSTRIAS
+  [4]
+    CPF: 088.110.236-96
+    Nome: ISAELMA DE SOUZA XAVIER
+    Logradouro: DOS COMERCIARIOS
+    Número: 68
+    Bairro: PRQ DAS INDUSTRIAS
+  [5]
+    CPF: 128.571.276-50
+    Nome: GABRIELA SOUZA DE CARAPIA
+    Logradouro: DOS COMERCIARIOS
+    Número: 106
+    Bairro: PRQ DAS INDUSTRIAS
+  [6]
+    CPF: 697.187.096-49
+    Nome: ROGERIO BERTO ALVES
+    Logradouro: DOS COMERCIARIOS
+    Número: 20
+    Bairro: PRQ DAS INDUSTRIAS
+  [7]
+    CPF: 968.833.756-00
+    Nome: LUCIANO BOSCO GUILHERMINO
+    Logradouro: DOS COMERCIARIOS
+    Número: 86
+    Bairro: PRQ DAS INDUSTRIAS
+  [8]
+    CPF: 014.393.006-07
+    Nome: PEDRO FLAVIO GUILHERMINO
+    Logradouro: DOS COMERCIARIOS
+    Número: 19
+    Bairro: PRQ DAS INDUSTRIAS
+  [9]
+    CPF: 022.738.246-37
+    Nome: DANIEL JOSE PEREIRA NETO
+    Logradouro: DOS COMERCIARIOS
+    Número: 68
+    Bairro: PRQ DAS INDUSTRIAS
+  [10]
+    CPF: 022.254.386-84
+    Nome: DANIELA MILLA DE ALMEIDA
+    Logradouro: DOS COMERCIARIOS
+    Número: 98
+    Bairro: PRQ DAS INDUSTRIAS
+  [11]
+    CPF: 113.377.006-14
+    Nome: ERIKA BARBOSA MOURA
+    Logradouro: DOS COMERCIARIOS
+    Número: 91
+    Bairro: PRQ DAS INDUSTRIAS
+  [12]
+    CPF: 459.933.273-91
+    Nome: IRANI DINIZ
+    Logradouro: DOS COMERCIARIOS
+    Número: 91
+    Bairro: PRQ DAS INDUSTRIAS
+  [13]
+    CPF: 526.131.946-34
+    Nome: HELIO DE SOUZA MENDES
+    Logradouro: DOS COMERCIARIOS
+    Número: 45
+    Bairro: PRQ DAS INDUSTRIAS
+  [14]
+    CPF: 056.324.186-18
+    Nome: EDMILSON SERAFIM DA SILVA
+    Logradouro: DOS COMERCIARIOS
+    Número: 106
+    Bairro: PRQ DAS INDUSTRIAS
+  [15]
+    CPF: 119.985.766-12
+    Nome: HIGOR PASCOAL FRANCO
+    Logradouro: DOS COMERCIARIOS
+    Número: 69
+    Bairro: PRQ DAS INDUSTRIAS
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (31) 99837-3333
+    Nome: [empty]
+    Cidade: BETIM
+    UF: MG
+  [2]
+    Telefone: (31) 99442-4146
+    Nome: EVANIA APARECIDA DE JESUS
+    Cidade: [empty]
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (31) 99837-3333
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 05/06/2020
+    Valor Fatura: 34.99
+    Mes Referencia: 202009
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1640
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 970.94
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (44) 99973-7062
+    Ddd: 44
+    Número: 999737062
+    Tipo: 3
+    Data Inclusao: 12/01/2012
+    Data Informacao: 26/04/2011
+    Classificacao: D
+  [2]
+    Telefone: (44) 99941-9673
+    Ddd: 44
+    Número: 999419673
+    Tipo: 3
+    Data Inclusao: 21/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (31) 3511-6933
+    Ddd: 31
+    Número: 35116933
+    Tipo: FIXO
+    Data Inclusao: 18/02/2014
+    Data Informacao: 28/01/2014
+    Classificacao: C2
+  [4]
+    Telefone: (64) 3621-1758
+    Ddd: 64
+    Número: 36211758
+    Tipo: FIXO
+    Data Inclusao: 07/04/2014
+    Data Informacao: 27/03/2014
+    Classificacao: C
+  [5]
+    Telefone: (11) 97560-2200
+    Ddd: 11
+    Número: 975602200
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: C
+Occupation Code: 322205
+Occupation Name: Técnico de enfermagem
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

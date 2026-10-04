@@ -1,0 +1,406 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  88615197504
+Data/Hora:  03/10/2026, 17:05:25
+Tempo API:  410ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 886.151.975-04
+Nome: ANDREA BEZERRA DA SILVA
+Primeiro Nome: ANDREA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 26/12/1975
+Nome da Mãe: MARIA DOS PRAZERES BEZERRA
+RG: 779181506
+Rg Issuer: SSP
+Voter Id: 078204980540
+Mosaic: F18
+Ocupação: Dirigente do serviço público municipal
+Score:
+  Value: 245
+  Range: ALTO
+E-mail: abs.aracaju@hotmail.com
+Additional Emails: (5 item(s))
+  - abs.aracaju@hotmail.com
+  - andreabezerraaracaju@gmail.com
+  - prazeresluysa@linkbr.com.br
+  - mariai2207@lexxanet.com.br
+  - abs.ara@lexxanet.com.br
+Federal Status: REGULAR
+Renda: 705
+Income Bracket: 1
+Cbo: 422310
+Endereço:
+  Tipo: RUA
+  Rua: SERENO
+  Número: 24
+  Bairro: PIACAVEIRA
+  Cidade: CAMACARI
+  Estado: BAHIA
+  CEP: 42809-481
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SERENO
+    Número: 24
+    Bairro: PIACAVEIRA
+    Cidade: CAMACARI
+    Estado: BAHIA
+    CEP: 42809-481
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RIO MADEIRA
+    Tipo: R
+    Número: 9986
+    Bairro: CENTRO
+    Cidade: CAMACARI
+    Estado: BA
+    CEP: 42800-080
+    Data Atualizacao: 01/05/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: B DEZESSEIS
+    Tipo: R
+    Número: 464
+    Bairro: JD PROGRESSO
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14031-835
+    Data Atualizacao: 22/07/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BOLIVIA
+    Tipo: R
+    Número: 106
+    Bairro: CIDADE NOVA
+    Cidade: ARACAJU
+    Estado: SE
+    CEP: 49070-083
+    Data Atualizacao: 06/01/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: B DEZESSEIS
+    Tipo: R
+    Número: 466
+    Bairro: JD PROGRESSO
+    Cidade: RIBEIRAO PRETO
+    Estado: SP
+    CEP: 14031-835
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: ROD
+    Rua: BA 099 KM 76
+    Bairro: COSTA DO SAUIPE
+    Cidade: MATA DE SAO JOAO
+    Estado: BA
+    CEP: 48282-970
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Paycom:
+  E-mail: andreabezerraaracaju@gmail.com
+  Data de Nascimento: 26/12/1975
+  Created At: 2021-09-01 01:54:10
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Av. Industrial Urbana
+    Número: S/n
+    Complemento: Apt 201 bloco 10
+    Bairro: Ponto Certo
+    Cidade: Camaçari  bahia
+    Estado: BA
+    País: Brasil
+    Telephone: +55 (71) 98366-0830
+Telefones: (6 item(s))
+  - +55 (71) 98366-0830
+  - (71) 98187-2128
+  - (71) 98366-0830
+  - (16) 3919-1539
+  - (79) 3215-7106
+  - (79) 98867-2818
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Rg Issuer: SSP
+    Mosaic: F18
+    Mosaic New: H27
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: RIO MADEIRA
+      Número: 9986
+      Bairro: CENTRO
+      Cidade: CAMACARI
+      Estado: BA
+      CEP: 42800-080
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: B DEZESSEIS
+      Número: 464
+      Bairro: JD PROGRESSO
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14031-835
+      Date Added: 22/05/2010
+    [3]
+      Tipo: R
+      Rua: BOLIVIA
+      Número: 106
+      Bairro: CIDADE NOVA
+      Cidade: ARACAJU
+      Estado: SE
+      CEP: 49070-083
+      Date Added: 29/07/2013
+    [4]
+      Tipo: R
+      Rua: B DEZESSEIS
+      Número: 466
+      Bairro: JD PROGRESSO
+      Cidade: RIBEIRAO PRETO
+      Estado: SP
+      CEP: 14031-835
+      Date Added: 19/03/2015
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 39191539
+      Ddd: 16
+      Tipo: 1
+      Classificacao: C
+      Date Added: 05/05/2012
+    [2]
+      Telefone: 32157106
+      Ddd: 79
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 26/12/2012
+    [3]
+      Telefone: 988672818
+      Ddd: 79
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/07/2013
+  E-mails: (4 item(s))
+    [1]
+      E-mail: prazeresluysa@linkbr.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: mariai2207@lexxanet.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 09/09/2016
+    [3]
+      E-mail: abs.aracaju@hotmail.com
+      Priority: 3
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [4]
+      E-mail: abs.ara@lexxanet.com.br
+      Priority: 4
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 319
+    CSB8 FAIXA: MEDIO
+    CSBA: 245
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DOS PRAZERES BEZERRA
+      Vinculo: MAE
+  Pis: 19009554166
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 487.62
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 325.211.895-53
+    Nome: NEIDE DULTRA SOUZA
+    Logradouro: RIO MADEIRA
+    Número: 9
+    Bairro: CENTRO
+  [2]
+    CPF: 032.477.445-17
+    Nome: EDSON FERREIRA CUNHA
+    Logradouro: RIO MADEIRA
+    Número: 13
+    Bairro: CENTRO
+  [3]
+    CPF: 422.966.925-91
+    Nome: VANTECI SOUZA DOS SANTOS
+    Logradouro: RIO MADEIRA
+    Número: SN
+    Bairro: CENTRO
+  [4]
+    CPF: 611.465.365-34
+    Nome: MARCOS PAULO SZULCZEWSKI
+    Logradouro: RIO MADEIRA
+    Número: 1
+    Bairro: CENTRO
+  [5]
+    CPF: 281.951.595-91
+    Nome: VIRGINIA MARIA MOREIRA DOS SANTOS ARIZE
+    Logradouro: RIO MADEIRA
+    Número: 105
+    Bairro: CENTRO
+  [6]
+    CPF: 017.371.545-10
+    Nome: RENILSON CEZARIO DE MELO
+    Logradouro: RIO MADEIRA
+    Número: 5
+    Bairro: CENTRO
+  [7]
+    CPF: 281.795.445-91
+    Nome: IVANILDES DE JESUS SANTOS
+    Logradouro: RIO MADEIRA
+    Número: 26
+    Bairro: CENTRO
+  [8]
+    CPF: 041.414.305-10
+    Nome: JAQUELINE DA SILVA GOMES
+    Logradouro: RIO MADEIRA
+    Número: 52
+    Bairro: CENTRO
+  [9]
+    CPF: 057.497.875-59
+    Nome: CACILDA SOARES BORGES
+    Logradouro: RIO MADEIRA
+    Número: 15
+    Bairro: CENTRO
+  [10]
+    CPF: 836.848.405-72
+    Nome: MARIA MARCIA DOS SANTOS
+    Logradouro: RIO MADEIRA
+    Número: 439
+    Bairro: CENTRO
+  [11]
+    CPF: 354.301.685-72
+    Nome: EURIDICE DOS SANTOS DE CARVALHO
+    Logradouro: RIO MADEIRA
+    Número: 23
+    Bairro: CENTRO
+  [12]
+    CPF: 209.595.594-34
+    Nome: ANA LUCIA LOUREIRO RIBAS
+    Logradouro: RIO MADEIRA
+    Número: 13
+    Bairro: CENTRO
+  [13]
+    CPF: 903.413.761-91
+    Nome: MARIA IZABEL NASCIMENTO SANTOS
+    Logradouro: RIO MADEIRA
+    Número: 10
+    Bairro: CENTRO
+  [14]
+    CPF: 241.101.245-49
+    Nome: ALZENIR RABELO DE SOUZA INACIO
+    Logradouro: RIO MADEIRA
+    Número: 14
+    Bairro: CENTRO
+  [15]
+    CPF: 079.718.706-55
+    Nome: NAYANA DA SILVA DOLAVALE
+    Logradouro: RIO MADEIRA
+    Número: 32
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (71) 98187-2128
+    Nome: ANDREA BEZERRA DA SILVA
+    Cidade: MATA DE SAO JOAO
+    UF: BA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (71) 98366-0830
+    Nome: ANDREA BEZERRA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (5 item(s))
+  - abs.aracaju@hotmail.com
+  - andreabezerraaracaju@gmail.com
+  - prazeresluysa@linkbr.com.br
+  - mariai2207@lexxanet.com.br
+  - abs.ara@lexxanet.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 705
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 487.62
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (16) 3919-1539
+    Ddd: 16
+    Número: 39191539
+    Tipo: FIXO
+    Data Inclusao: 05/05/2012
+    Classificacao: C
+  [2]
+    Telefone: (79) 3215-7106
+    Ddd: 79
+    Número: 32157106
+    Tipo: FIXO
+    Data Inclusao: 26/12/2012
+    Classificacao: A0
+  [3]
+    Telefone: (79) 98867-2818
+    Ddd: 79
+    Número: 988672818
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: A0
+Occupation Code: 111415
+Occupation Name: Dirigente do serviço público municipal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

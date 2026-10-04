@@ -1,0 +1,365 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  34637466890
+Data/Hora:  04/10/2026, 00:01:17
+Tempo API:  232ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 346.374.668-90
+Nome: TATIANE CRISTINA CANATO BRIGATI
+Primeiro Nome: TATIANE
+Sobrenome: BRIGATI
+Sexo: Feminino
+Data de Nascimento: 15/08/1985
+Nome da Mãe: SILVANA EUGENIO CANATO
+Nome do Pai: JAIME CANATO
+Voter Id: 324703860141
+Mosaic: E17
+Ocupação: Chefe de cozinha
+Score:
+  Value: 193
+  Range: ALTISSIMO
+E-mail: anavic2704@gmail.com
+Additional Emails: (1 item(s))
+  - anavic2704@gmail.com
+Federal Status: REGULAR
+Renda: 1200
+Income Bracket: 2
+Cbo: 271105
+Endereço:
+  Tipo: RUA
+  Rua: DA REDENCAO
+  Bairro: VILA CARVALHO
+  Cidade: CAMPO GRANDE
+  Estado: MATO GROSSO DO SUL
+  CEP: 79005-290
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DA REDENCAO
+    Bairro: VILA CARVALHO
+    Cidade: CAMPO GRANDE
+    Estado: MATO GROSSO DO SUL
+    CEP: 79005-290
+    Fonte: PRINCIPAL
+  [2]
+    Rua: IZOLINO ALVES PEREIRA
+    Número: 506
+    Bairro: JARDIM LOS ANGELES
+    Cidade: CAMPO GRANDE - MS
+    Fonte: DATASUS
+  [3]
+    Rua: JOSE FURNIEL
+    Tipo: R
+    Número: 657
+    Complemento: VL NOVA
+    Cidade: PARAGUACU PAULISTA
+    Estado: SP
+    CEP: 19700-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MONTEIRO LOBATO
+    Tipo: R
+    Número: 580
+    Cidade: PARAGUACU PAULISTA
+    Estado: SP
+    CEP: 19700-000
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GUAXIS
+    Tipo: R
+    Número: 141
+    Complemento: C 2 10 103 23 15200
+    Bairro: JD TIJUCA
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79094-110
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DA REDENCAO
+    Tipo: R
+    Número: 119
+    Bairro: VL CARVALHO
+    Cidade: CAMPO GRANDE
+    Estado: MS
+    CEP: 79005-290
+    Data Atualizacao: 16/10/2018
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (67) 99135-4914
+  - (67) 98435-8170
+  - (67) 3025-2112
+  - +55 (67) 99619-0391
+  - 556791776264
+  - (67) 99249-8332
+  - (18) 99739-9350
+  - (18) 99637-3291
+  - (18) 99631-8265
+  - (18) 3616-9950
+  - (67) 99606-5844
+Datasus Phones: (1 item(s))
+  - (67) 99152-7740
+Cidade de Nascimento: RANCHARIA - SP
+Cns: 700501711312258
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/08/2019
+    Mosaic: E17
+    Mosaic New: D12
+    Mosaic Secondary: D13
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE FURNIEL
+      Número: 657
+      Complemento: VL NOVA
+      Cidade: PARAGUACU PAULISTA
+      Estado: SP
+      CEP: 19700-000
+      Date Added: 10/06/2011
+    [2]
+      Tipo: R
+      Rua: MONTEIRO LOBATO
+      Número: 580
+      Cidade: PARAGUACU PAULISTA
+      Estado: SP
+      CEP: 19700-000
+      Date Added: 15/08/2006
+    [3]
+      Tipo: R
+      Rua: GUAXIS
+      Número: 141
+      Complemento: C 2 10 103 23 15200
+      Bairro: JD TIJUCA
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79094-110
+      Date Added: 07/02/2017
+    [4]
+      Tipo: R
+      Rua: DA REDENCAO
+      Número: 119
+      Bairro: VL CARVALHO
+      Cidade: CAMPO GRANDE
+      Estado: MS
+      CEP: 79005-290
+      Date Added: 08/12/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 997399350
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [2]
+      Telefone: 996373291
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 996318265
+      Ddd: 18
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 36169950
+      Ddd: 18
+      Tipo: 1
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 996065844
+      Ddd: 67
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 18/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: anavic2704@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 85
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 193
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: SILVANA EUGENIO CANATO
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 343.820.478-97
+    Nome: LILIANE NATALIA APARECIDA SILVA
+    Logradouro: FERNANDO COSTA
+    Número: 1024
+    Bairro: BARRA FUNDA
+  [2]
+    CPF: 051.079.609-52
+    Nome: RAFAEL BORGES PEREIRA
+    Logradouro: JAIME MONTEIRO
+    Número: 680
+  [3]
+    CPF: 051.031.049-46
+    Nome: HERNANI CHERRY DOS SANTOS JUNIOR
+    Logradouro: GALDINO
+    Número: 465
+  [4]
+    CPF: 710.385.668-00
+    Nome: CASSIMIRO RIBEIRO AMARAL
+    Logradouro: VITORIA
+    Número: 61
+    Bairro: VL PRIANTE
+  [5]
+    CPF: 338.759.098-95
+    Nome: MOACIR VALENTIM PINTO
+    Logradouro: PE ANCHIETA
+    Número: 1132
+    Bairro: BARRA FUNDA
+  [6]
+    CPF: 050.348.989-18
+    Nome: CARLOS ALEXANDRE VIEIRA
+    Logradouro: JAIR GARCIA NOGUEIRA
+    Número: 330
+  [7]
+    CPF: 050.296.126-02
+    Nome: OTAVIANO BRAGA DA CRUZ FILHO
+    Logradouro: IND DR CAMILO C MAGALHAES
+    Número: SN
+  [8]
+    CPF: 052.355.838-41
+    Nome: IVONE APARECIDA MATHEUS
+    Logradouro: CAXIAS DQ
+    Número: 50
+  [9]
+    CPF: 052.356.488-03
+    Nome: JOSEFA TEOFILO MOREIRA
+    Logradouro: PERNAMBUCO
+    Número: 151
+    Bairro: VL GAMMON
+  [10]
+    CPF: 052.356.488-03
+    Nome: JOSEFA TEOFILO MOREIRA
+    Logradouro: VAIL J TOLEDO
+    Número: 213
+  [11]
+    CPF: 049.655.424-79
+    Nome: JOSE ALDO ARAUJO DOS SANTOS
+    Logradouro: MARIA APARECIDA DE LIMA
+    Número: 430
+  [12]
+    CPF: 049.378.858-12
+    Nome: PEDRO MARIO STECHESKI
+    Logradouro: JOSE DE ALENCAR
+    Número: 75
+  [13]
+    CPF: 825.687.908-49
+    Nome: EDSON HIDEO IGIMA
+    Logradouro: SIQUEIRA CAMPOS
+    Número: 17
+  [14]
+    CPF: 048.501.678-88
+    Nome: NADIR GALDINO RAMOS
+    Logradouro: ASSIS CHATEAUBRIAND
+    Número: 199
+  [15]
+    CPF: 048.415.328-54
+    Nome: MARTA CAMPOS VIEIRA
+    Logradouro: JOSE CAMILO DE PAIVA
+    Número: 383
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (67) 3025-2112
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 20FEB2015:12:27:51
+    Cel Contato: +5567996190391
+    Complemento: AP - Apartamento: 14;
+    Data Retirada: 28NOV2015:11:00:00
+    Tipo Cliente: Residencial
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (67) 99249-8332
+    Nome: TATIANE CRISTINA CANATO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - anavic2704@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1200
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (18) 99739-9350
+    Ddd: 18
+    Número: 997399350
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [2]
+    Telefone: (18) 99637-3291
+    Ddd: 18
+    Número: 996373291
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (18) 99631-8265
+    Ddd: 18
+    Número: 996318265
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (18) 3616-9950
+    Ddd: 18
+    Número: 36169950
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (67) 99606-5844
+    Ddd: 67
+    Número: 996065844
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: C2
+Occupation Code: 271105
+Occupation Name: Chefe de cozinha
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

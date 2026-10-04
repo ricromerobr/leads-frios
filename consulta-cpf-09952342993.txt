@@ -1,0 +1,321 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09952342993
+Data/Hora:  04/10/2026, 03:47:03
+Tempo API:  853ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 099.523.429-93
+Nome: MISAEL DE ANDRADE MAGALHAES
+Primeiro Nome: MISAEL
+Sobrenome: MAGALHAES
+Sexo: Masculino
+Data de Nascimento: 19/09/1995
+Nome da Mãe: LUZINETE DE ANDRADE MAGALHAES
+Nome do Pai: LUIZ CARLOS DE MAGALHAES
+RG: 134344750
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PR
+Ocupação: Alimentador de linha de produção
+Score:
+  Value: 322
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 1592
+Income Bracket: 2
+Cbo: 784205
+Endereço:
+  Tipo: RUA
+  Rua: JOSAA MAURO ORCELI
+  Bairro: CONJUNTO HABITACIONAL JAMILE DEQUECH
+  Cidade: LONDRINA
+  Estado: PARANA
+  CEP: 86044-716
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSAA MAURO ORCELI
+    Bairro: CONJUNTO HABITACIONAL JAMILE DEQUECH
+    Cidade: LONDRINA
+    Estado: PARANA
+    CEP: 86044-716
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE MAURO ORCELI
+    Número: 62
+    Bairro: CONJUNTO HABITACIONAL JAMILE DEQUECH
+    Cidade: LONDRINA - PR
+    Fonte: DATASUS
+  [3]
+    Rua: SILVIO MARIANO DA SILVA
+    Tipo: R
+    Número: 210
+    Bairro: CJ ERNANI MOURA LIMA 1
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86043-700
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOSE MAURO ORCELI
+    Tipo: R
+    Número: 62
+    Bairro: CJ HABITACIONAL JAMILE DEQUECH
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86044-716
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: BULGARIA
+    Número: 0000104
+    Bairro: NACOES
+    Cidade: FAZENDA RIO GRANDE
+    Estado: PR
+    CEP: 83823-210
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (43) 99636-3070
+  - (41) 99980-2951
+  - (43) 3342-6216
+  - (43) 99824-6199
+  - (43) 98477-9178
+Datasus Phones: (1 item(s))
+  - (43) 99615-2881
+Cidade de Nascimento: OSASCO - SP
+Cns: 700403562616350
+Rg Issue Date: 1325041200000
+Mte Data:
+  Nome: Misael De Andrade Magalhaes
+  Data de Nascimento: 19/09/1995
+  Nome da Mãe: Luzinete De Andrade Magalhaes
+  Endereço:
+    Rua: Jose Mauro Orceli
+    Número: 62
+    Bairro: Conjunto Habitacion
+    Cidade: Londrina
+    Estado: PR
+    CEP: 86044-716
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 29/12/2019
+    Mosaic New: H28
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: SILVIO MARIANO DA SILVA
+      Número: 210
+      Bairro: CJ ERNANI MOURA LIMA 1
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86043-700
+      Date Added: 23/04/2015
+    [2]
+      Tipo: R
+      Rua: JOSE MAURO ORCELI
+      Número: 62
+      Bairro: CJ HABITACIONAL JAMILE DEQUECH
+      Cidade: LONDRINA
+      Estado: PR
+      CEP: 86044-716
+      Date Added: 02/04/2019
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 33426216
+      Ddd: 43
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/09/2014
+      Info Date: 28/08/2014
+    [2]
+      Telefone: 998246199
+      Ddd: 43
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [3]
+      Telefone: 984779178
+      Ddd: 43
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: misaelandrade258@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSBA: 322
+    CSBA FAIXA: ALTO
+  Pis: 16627644518
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 479.85
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - misaelandrade258@gmail.com
+E-mail: misaelandrade258@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 055.799.989-88
+    Nome: GELSON TOBIAS
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 88
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [2]
+    CPF: 005.484.859-84
+    Nome: JANETE APARECIDA TOBIAS DE OLIVEIRA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 104
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [3]
+    CPF: 109.490.088-50
+    Nome: SHIRLEI APARECIDA MARQUES
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 143
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [4]
+    CPF: 993.806.099-49
+    Nome: LUCIANO FRANCISCO DA ROCHA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 154
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [5]
+    CPF: 565.646.869-00
+    Nome: MARIA DOLORES SANTANA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 198
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [6]
+    CPF: 078.814.509-67
+    Nome: CARLA RAMOS SENA GOIS
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 506
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [7]
+    CPF: 004.136.489-90
+    Nome: SIRLEI DA LUZ
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 144
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [8]
+    CPF: 035.294.249-51
+    Nome: ODAIR BERTOLINO
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 98
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [9]
+    CPF: 849.244.039-20
+    Nome: LEVY MARTINS FERREIRA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 310
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [10]
+    CPF: 061.778.228-86
+    Nome: SANDRA CRISTINA PEREIRA NUNES
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 114
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [11]
+    CPF: 010.418.549-00
+    Nome: ANDREA ROSEMARY DANDREA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 240
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [12]
+    CPF: 062.494.248-14
+    Nome: ELZITO BATISTA DOS SANTOS
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 400
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [13]
+    CPF: 067.309.379-47
+    Nome: KATE PRISCILA VENANCIO DE OLIVEIRA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 536
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [14]
+    CPF: 066.300.159-59
+    Nome: ALINE JOSIANE DA SILVA
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 420
+    Bairro: CJ ERNANI MOURA LIMA 1
+  [15]
+    CPF: 062.160.767-36
+    Nome: LEONAN DE OLIVEIRA MATURANO
+    Logradouro: SILVIO MARIANO DA SILVA
+    Número: 54
+    Bairro: CJ ERNANI MOURA LIMA 1
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (41) 99980-2951
+    Nome: MISAEL DE ANDRADE MAGALHAES
+    Cidade: FAZENDA RIO GRANDE
+    UF: PR
+E-mails: (1 item(s))
+  - misaelandrade258@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1592
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 479.85
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (43) 3342-6216
+    Ddd: 43
+    Número: 33426216
+    Tipo: FIXO
+    Data Inclusao: 02/09/2014
+    Data Informacao: 28/08/2014
+    Classificacao: D2
+  [2]
+    Telefone: (43) 99824-6199
+    Ddd: 43
+    Número: 998246199
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [3]
+    Telefone: (43) 98477-9178
+    Ddd: 43
+    Número: 984779178
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: A0
+Occupation Code: 784205
+Occupation Name: Alimentador de linha de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,356 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  49044117904
+Data/Hora:  04/10/2026, 01:25:46
+Tempo API:  704ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 490.441.179-04
+Nome: MARILENA FATIMA GOMES
+Primeiro Nome: MARILENA
+Sobrenome: GOMES
+Sexo: Feminino
+Data de Nascimento: 17/05/1957
+Nome da Mãe: ALICE C GOMES
+Nome do Pai: NIVAL JOSE GOMES
+Mosaic: J33
+Ocupação: Mãe social
+Score:
+  Value: 237
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 1251
+Income Bracket: 2
+Cbo: 331110
+Endereço:
+  Tipo: RUA
+  Rua: AGOSTINHO SOARES
+  Número: 138
+  Complemento: C
+  Bairro: CORDEIROS
+  Cidade: ITAJAI
+  Estado: SANTA CATARINA
+  CEP: 88311-085
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AGOSTINHO SOARES
+    Número: 138
+    Complemento: C
+    Bairro: CORDEIROS
+    Cidade: ITAJAI
+    Estado: SANTA CATARINA
+    CEP: 88311-085
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOAO SANTOS DA SILVA
+    Número: S/N
+    Bairro: ESPINHEIROS
+    Cidade: ITAJAI - SC
+    Fonte: DATASUS
+  [3]
+    Rua: EUGENIO PEZZINI
+    Tipo: R
+    Número: 138
+    Complemento: RUA B BAIRRO MURTA
+    Bairro: CORDEIROS
+    Cidade: ITAJAI
+    Estado: SC
+    CEP: 88311-000
+    Data Atualizacao: 16/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: LEOCADIO FERREIRA BARBOSA
+    Tipo: R
+    Número: 60
+    Complemento: FDS C
+    Bairro: S DOMINGOS
+    Cidade: NAVEGANTES
+    Estado: SC
+    CEP: 88370-220
+    Data Atualizacao: 30/01/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE EUGENIO MULLER
+    Tipo: AV
+    Número: 1200
+    Bairro: VL OPERARIA
+    Cidade: ITAJAI
+    Estado: SC
+    CEP: 88303-171
+    Data Atualizacao: 30/12/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: JOAO QUINTINO GOMES
+    Tipo: R
+    Número: 40
+    Complemento: FDS C
+    Bairro: CENTRO
+    Cidade: PENHA
+    Estado: SC
+    CEP: 88385-000
+    Data Atualizacao: 09/07/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: EUGENIO PEZZINI
+    Número: 0000138
+    Bairro: CORDEIROS
+    Cidade: ITAJAI
+    Estado: SC
+    CEP: 88311-000
+    Fonte: ASSECC
+  [8]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (47) 99758-2919
+Cidade de Nascimento: ITAJAI - SC
+Cns: 702604768211742
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Mosaic: J33
+    Mosaic New: E16
+    Mosaic Secondary: E18
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: EUGENIO PEZZINI
+      Número: 138
+      Complemento: RUA B BAIRRO MURTA
+      Bairro: CORDEIROS
+      Cidade: ITAJAI
+      Estado: SC
+      CEP: 88311-000
+      Date Added: 29/07/2013
+    [2]
+      Tipo: R
+      Rua: LEOCADIO FERREIRA BARBOSA
+      Número: 60
+      Complemento: FDS C
+      Bairro: S DOMINGOS
+      Cidade: NAVEGANTES
+      Estado: SC
+      CEP: 88370-220
+      Date Added: 12/11/2018
+    [3]
+      Tipo: AV
+      Rua: JOSE EUGENIO MULLER
+      Número: 1200
+      Bairro: VL OPERARIA
+      Cidade: ITAJAI
+      Estado: SC
+      CEP: 88303-171
+      Date Added: 22/07/2019
+    [4]
+      Tipo: R
+      Rua: JOAO QUINTINO GOMES
+      Número: 40
+      Complemento: FDS C
+      Bairro: CENTRO
+      Cidade: PENHA
+      Estado: SC
+      CEP: 88385-000
+      Date Added: 21/11/2017
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 32414643
+      Ddd: 47
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 21/02/2011
+      Info Date: 18/01/2011
+    [2]
+      Telefone: 988470713
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 984124099
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  Score:
+    CSBA: 237
+    CSBA FAIXA: ALTO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 826.918.869-72
+      Nome: ROBERTO CARLOS GOMES
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 146.684.249-00
+      Nome: NIVAL JOSE GOMES
+      Vinculo: PAI
+    [3]
+      CPF: 426.165.659-00
+      Nome: CLAUDETE REGINA GOMES
+      Vinculo: IRMA(O)
+    [4]
+      Nome: ALICE C GOMES
+      Vinculo: MAE
+  Pis: 10695117529
+Telefones: (4 item(s))
+  - (47) 98847-0713
+  - (47) 99758-2919
+  - (47) 3241-4643
+  - (47) 98412-4099
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 044.723.639-33
+    Nome: TALITA VARELA ZATELLI MARTINS
+    Logradouro: EUGENIO PEZZINI
+    Número: 165
+    Bairro: CORDEIROS
+  [2]
+    CPF: 039.473.799-78
+    Nome: ELISABETE TEODORO
+    Logradouro: EUGENIO PEZZINI
+    Número: 165
+    Bairro: CORDEIROS
+  [3]
+    CPF: 039.371.579-56
+    Nome: MAYCKON CARLOS DE SOUZA
+    Logradouro: EUGENIO PEZZINI
+    Número: 119
+    Bairro: CORDEIROS
+  [4]
+    CPF: 030.544.979-68
+    Nome: ANTONIO SILVESTRE
+    Logradouro: EUGENIO PEZZINI
+    Número: 46
+    Bairro: CORDEIROS
+  [5]
+    CPF: 054.778.174-10
+    Nome: EDILSON VIEIRA DOS SANTOS
+    Logradouro: EUGENIO PEZZINI
+    Número: 100
+    Bairro: CORDEIROS
+  [6]
+    CPF: 016.767.557-56
+    Nome: ALEXANDRE BEZERRA DE MENEZES BRAILE
+    Logradouro: EUGENIO PEZZINI
+    Número: 156
+    Bairro: CORDEIROS
+  [7]
+    CPF: 427.398.963-87
+    Nome: ANA CLAUDIA GOIANA DA SILVA
+    Logradouro: EUGENIO PEZZINI
+    Número: 1
+    Bairro: CORDEIROS
+  [8]
+    CPF: 913.551.689-53
+    Nome: LUIZ CARLOS RAMOS
+    Logradouro: EUGENIO PEZZINI
+    Número: 189
+    Bairro: CORDEIROS
+  [9]
+    CPF: 334.474.058-05
+    Nome: BRUNO PEREIRA MOLINA
+    Logradouro: EUGENIO PEZZINI
+    Número: 155
+    Bairro: CORDEIROS
+  [10]
+    CPF: 446.724.039-04
+    Nome: MARIA DA ROSA
+    Logradouro: EUGENIO PEZZINI
+    Número: 46
+    Bairro: CORDEIROS
+  [11]
+    CPF: 086.426.979-03
+    Nome: GENIVALDO DE JESUS APARICIO
+    Logradouro: EUGENIO PEZZINI
+    Número: 177
+    Bairro: CORDEIROS
+  [12]
+    CPF: 953.066.099-53
+    Nome: IVAN PEDRO DOS SANTOS
+    Logradouro: EUGENIO PEZZINI
+    Número: 147
+    Bairro: CORDEIROS
+  [13]
+    CPF: 010.129.799-89
+    Nome: MIRIAM GONCALVES
+    Logradouro: EUGENIO PEZZINI
+    Número: 189
+    Bairro: CORDEIROS
+  [14]
+    CPF: 249.941.389-15
+    Nome: NAIR VIEIRA
+    Logradouro: EUGENIO PEZZINI
+    Número: 119
+    Bairro: CORDEIROS
+  [15]
+    CPF: 347.782.929-87
+    Nome: ANTONIO CARLOS NEVES
+    Logradouro: EUGENIO PEZZINI
+    Número: 82
+    Bairro: CORDEIROS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (47) 98847-0713
+    Nome: MARILENA FATIMA GOMES
+    Cidade: ITAJAI
+    UF: SC
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (47) 99758-2919
+    Nome: MARILENA FATIMA GOMES
+    Operadora: TIM - Celular
+    Fonte: br21m
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1251
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (47) 3241-4643
+    Ddd: 47
+    Número: 32414643
+    Tipo: FIXO
+    Data Inclusao: 21/02/2011
+    Data Informacao: 18/01/2011
+    Classificacao: D2
+  [2]
+    Telefone: (47) 98847-0713
+    Ddd: 47
+    Número: 988470713
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (47) 98412-4099
+    Ddd: 47
+    Número: 984124099
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 516215
+Occupation Name: Mãe social
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

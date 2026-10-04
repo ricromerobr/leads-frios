@@ -1,0 +1,279 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  43046395876
+Data/Hora:  04/10/2026, 12:10:37
+Tempo API:  700ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 430.463.958-76
+Nome: CAMILA DE ALMEIDA SILVA
+Primeiro Nome: CAMILA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 29/09/1994
+Nome da Mãe: NEMILDE DE ALMEIDA SILVA
+Nome do Pai: JOSE CARLOS NASCIMENTO DA SILVA
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 540
+  Range: MEDIO
+E-mail: almeida.camila94@gmail.com
+Additional Emails: (1 item(s))
+  - almeida.camila94@gmail.com
+Federal Status: REGULAR
+Renda: 1948
+Income Bracket: 2
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: KASSABIAN
+  Número: 124
+  Complemento: C 4
+  Bairro: BARONESA
+  Cidade: OSASCO
+  Estado: SAO PAULO
+  CEP: 06266-150
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: KASSABIAN
+    Número: 124
+    Complemento: C 4
+    Bairro: BARONESA
+    Cidade: OSASCO
+    Estado: SAO PAULO
+    CEP: 06266-150
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JULIO MESQUITA
+    Número: 1031
+    Bairro: JARDIM NOVO OSASCO
+    Cidade: OSASCO - SP
+    Fonte: DATASUS
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (11) 3591-8639
+Cidade de Nascimento: OSASCO - SP
+Cns: 700802932499588
+Paycom:
+  E-mail: almeida.camila94@gmail.com
+  Data de Nascimento: 29/09/1994
+  Created At: 2021-08-11 18:13:18
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua professor Otávio Guimarães
+    Número: 358
+    Bairro: Jardim dos Lagos
+    Cidade: São Paulo
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 94764-8199
+Telefones: (4 item(s))
+  - +55 (11) 94764-8199
+  - (11) 3602-2659
+  - (11) 96205-5068
+  - (11) 3596-2730
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: KASSABIAN
+      Número: 124
+      Complemento: C 4
+      Bairro: BARONESA
+      Cidade: OSASCO
+      Estado: SP
+      CEP: 06266-150
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 36022659
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 25/10/2012
+    [2]
+      Telefone: 962055068
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 25/10/2012
+    [3]
+      Telefone: 35962730
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: almeida.camila94@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+  Score:
+    CSB8: 262
+    CSB8 FAIXA: ALTO
+    CSBA: 540
+    CSBA FAIXA: MEDIO
+  Pis: 20493118556
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 829.1
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 050.579.018-18
+    Nome: FRANCISCO ELIAS DA SILVA
+    Logradouro: KASSABIAN
+    Número: 630
+    Bairro: BARONESA
+  [2]
+    CPF: 129.511.918-80
+    Nome: ELIZABETE MARIA DOS SANTOS CANDIDO
+    Logradouro: KASSABIAN
+    Número: 630
+    Bairro: BARONESA
+  [3]
+    CPF: 114.789.488-41
+    Nome: EVA ALMEIDA DE AGUILAR
+    Logradouro: KASSABIAN
+    Número: 630
+    Bairro: BARONESA
+  [4]
+    CPF: 419.440.998-16
+    Nome: LEONARDO PEREIRA DO NASCIMENTO
+    Logradouro: KASSABIAN
+    Número: 211
+    Bairro: BARONESA
+  [5]
+    CPF: 039.346.278-11
+    Nome: JERONIZA TELES
+    Logradouro: KASSABIAN
+    Número: 146
+    Bairro: BARONESA
+  [6]
+    CPF: 133.116.278-57
+    Nome: MARCOS ALESSANDRO COTRIM
+    Logradouro: KASSABIAN
+    Número: 190
+    Bairro: BARONESA
+  [7]
+    CPF: 420.082.715-87
+    Nome: ELZA REGINA SANTOS
+    Logradouro: KASSABIAN
+    Número: 182
+    Bairro: BARONESA
+  [8]
+    CPF: 552.703.873-87
+    Nome: GILDASIO PEREIRA DE AMORIM
+    Logradouro: KASSABIAN
+    Número: 630
+    Bairro: BARONESA
+  [9]
+    CPF: 342.865.368-82
+    Nome: MARCOS ANTONIO SILVA DOS SANTOS
+    Logradouro: KASSABIAN
+    Número: 447
+    Bairro: BARONESA
+  [10]
+    CPF: 009.155.518-37
+    Nome: MARIA APARECIDA DANIEL SANTOS
+    Logradouro: KASSABIAN
+    Número: 69
+    Bairro: BARONESA
+  [11]
+    CPF: 009.049.207-20
+    Nome: SONIA MARIA DE OLIVEIRA MORAES
+    Logradouro: KASSABIAN
+    Número: 630
+    Bairro: BARONESA
+  [12]
+    CPF: 322.188.368-40
+    Nome: JEANE MIRANDA DE MELO SILVA
+    Logradouro: KASSABIAN
+    Número: 182
+    Bairro: BARONESA
+  [13]
+    CPF: 064.172.124-24
+    Nome: CICERO ADRIANO OLIVEIRA SANTOS
+    Logradouro: KASSABIAN
+    Número: 496
+    Bairro: BARONESA
+  [14]
+    CPF: 004.419.998-83
+    Nome: ABIGAIL RIBEIRO DA SILVA
+    Logradouro: KASSABIAN
+    Número: 605
+    Bairro: BARONESA
+  [15]
+    CPF: 436.595.358-34
+    Nome: JOSE TEIXEIRA DE SOUZA
+    Logradouro: KASSABIAN
+    Número: 7
+    Bairro: BARONESA
+E-mails: (1 item(s))
+  - almeida.camila94@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1948
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 829.1
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 3602-2659
+    Ddd: 11
+    Número: 36022659
+    Tipo: FIXO
+    Data Inclusao: 25/10/2012
+    Classificacao: A0
+  [2]
+    Telefone: (11) 96205-5068
+    Ddd: 11
+    Número: 962055068
+    Tipo: 3
+    Data Inclusao: 25/10/2012
+    Classificacao: A2
+  [3]
+    Telefone: (11) 3596-2730
+    Ddd: 11
+    Número: 35962730
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

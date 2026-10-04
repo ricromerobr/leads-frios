@@ -1,0 +1,223 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05926302340
+Data/Hora:  03/10/2026, 17:58:47
+Tempo API:  575ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 059.263.023-40
+Nome: BRENDA KERCIA MENDES PEREIRA
+Primeiro Nome: BRENDA
+Sobrenome: PEREIRA
+Sexo: Feminino
+Data de Nascimento: 05/05/1994
+Nome da Mãe: SYDIMA MENDES PEREIRA
+Ocupação: Coordenador pedagógico
+Score:
+  Value: 562
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1060
+Income Bracket: 2
+Cbo: 239405
+Endereço:
+  Tipo: RUA
+  Rua: EDSON MAGALHAES
+  Bairro: INDUSTRIAL
+  Cidade: MARACANAU
+  Estado: CEARA
+  CEP: 61925-315
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EDSON MAGALHAES
+    Bairro: INDUSTRIAL
+    Cidade: MARACANAU
+    Estado: CEARA
+    CEP: 61925-315
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EDSON MAGALHAES
+    Tipo: AV
+    Número: 5
+    Complemento: Q SQG
+    Bairro: INDUSTRIAL
+    Cidade: MARACANAU
+    Estado: CE
+    CEP: 61925-315
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 08/02/2019
+    Mosaic New: D11
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: AV
+      Rua: EDSON MAGALHAES
+      Número: 5
+      Complemento: Q SQG
+      Bairro: INDUSTRIAL
+      Cidade: MARACANAU
+      Estado: CE
+      CEP: 61925-315
+      Date Added: 05/04/2018
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 989480589
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  Score:
+    CSB8: 238
+    CSB8 FAIXA: ALTO
+    CSBA: 562
+    CSBA FAIXA: BAIXO
+  Pis: 16093615988
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 616.99
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (2 item(s))
+  - (85) 99295-7350
+  - (85) 98948-0589
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 764.895.823-68
+    Nome: ELZA MARQUES DE LIMA VASCONCELOS
+    Logradouro: EDSON MAGALHAES
+    Número: 16
+    Bairro: INDUSTRIAL
+  [2]
+    CPF: 627.263.233-91
+    Nome: LUCILEIDE FERREIRA CIEBRA DA SILVA
+    Logradouro: EDSON MAGALHAES
+    Número: 825
+    Bairro: INDUSTRIAL
+  [3]
+    CPF: 636.121.863-53
+    Nome: JOAO PAULO FREITAS DE OLIVEIRA
+    Logradouro: EDSON MAGALHAES
+    Número: 11
+    Bairro: INDUSTRIAL
+  [4]
+    CPF: 040.894.165-07
+    Nome: RIVALDO VICTOR RIBEIRO DIAS
+    Logradouro: EDSON MAGALHAES
+    Número: 807
+    Bairro: INDUSTRIAL
+  [5]
+    CPF: 246.583.798-21
+    Nome: FRANCISCA PEDRO DE LIMA
+    Logradouro: EDSON MAGALHAES
+    Número: 9
+    Bairro: INDUSTRIAL
+  [6]
+    CPF: 733.228.303-49
+    Nome: RAIMUNDO FARIAS PEREIRA FILHO
+    Logradouro: EDSON MAGALHAES
+    Número: 2
+    Bairro: INDUSTRIAL
+  [7]
+    CPF: 258.194.705-59
+    Nome: MARCIA RODRIGUES DE SOUZA
+    Logradouro: EDSON MAGALHAES
+    Número: 290
+    Bairro: INDUSTRIAL
+  [8]
+    CPF: 025.123.943-87
+    Nome: FRANCINETE ALENCAR CRUZ
+    Logradouro: EDSON MAGALHAES
+    Número: 806
+    Bairro: INDUSTRIAL
+  [9]
+    CPF: 607.447.813-96
+    Nome: CINTHIA DANTAS MOREIRA
+    Logradouro: EDSON MAGALHAES
+    Número: 884
+    Bairro: INDUSTRIAL
+  [10]
+    CPF: 469.074.163-87
+    Nome: FRANCISCO AIRTON DA SILVA COSTA
+    Logradouro: EDSON MAGALHAES
+    Número: 300
+    Bairro: INDUSTRIAL
+  [11]
+    CPF: 837.962.073-91
+    Nome: LUCILENE PEREIRA DA SILVA
+    Logradouro: EDSON MAGALHAES
+    Número: 825
+    Bairro: INDUSTRIAL
+  [12]
+    CPF: 221.118.753-68
+    Nome: ISABEL SIMONE BOMFIM DE QUEIROZ LIMA
+    Logradouro: EDSON MAGALHAES
+    Número: 817
+    Bairro: INDUSTRIAL
+  [13]
+    CPF: 030.977.443-80
+    Nome: FRANCISCO SERGIO DE MESQUITA CAVALCANTE
+    Logradouro: EDSON MAGALHAES
+    Número: SN
+    Bairro: INDUSTRIAL
+  [14]
+    CPF: 004.377.253-67
+    Nome: JESSE ALVES DA SILVA
+    Logradouro: EDSON MAGALHAES
+    Número: 19
+    Bairro: INDUSTRIAL
+  [15]
+    CPF: 014.575.043-40
+    Nome: JOSE DAVILTON SANTIAGO
+    Logradouro: EDSON MAGALHAES
+    Número: 29
+    Bairro: INDUSTRIAL
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (85) 99295-7350
+    Nome: BRENDA KERCIA MENDES PEREIRA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1060
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 616.99
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (85) 98948-0589
+    Ddd: 85
+    Número: 989480589
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 239405
+Occupation Name: Coordenador pedagógico
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

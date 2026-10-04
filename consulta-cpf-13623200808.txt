@@ -1,0 +1,559 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13623200808
+Data/Hora:  04/10/2026, 14:39:04
+Tempo API:  264ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 136.232.008-08
+Nome: KELLY CRISTINA GONZAGA DOS SANTOS
+Primeiro Nome: KELLY
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 04/05/1972
+Nome da Mãe: MARIA DAS GRACAS
+Voter Id: 187794970191
+Mosaic: E16
+Ocupação: Faxineiro
+Score:
+  Value: 750
+  Range: BAIXISSIMO RISCO
+E-mail: kelly.gonzaga@itau.com.br
+Additional Emails: (7 item(s))
+  - kelly.gonzaga@itau.com.br
+  - kellygonzaga@ig.com.br
+  - kellygonzga@gmail.com
+  - kelly-cg@bol.com.br
+  - vandrolemos@hotmail.com
+  - deboracastro_md@yahoo.com.br
+  - kelly.santos@itau-unibanco.com.br
+Federal Status: REGULAR
+Renda: 8595
+Income Bracket: 6
+Cbo: 251215
+Endereço:
+  Tipo: RUA
+  Rua: HERMOGENES LIMA
+  Bairro: JARDIM MONTE AZUL
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05836-230
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HERMOGENES LIMA
+    Bairro: JARDIM MONTE AZUL
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05836-230
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA HERMÓGENES LIMA
+    Número: 246
+    Bairro: JARDIM MONTE AZUL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05836-230
+    Fonte: SARAIVA
+  [3]
+    Rua: HERMETO LIMA
+    Tipo: R
+    Número: 246
+    Complemento: A FR
+    Bairro: VL ALPINA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03211-160
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MARMELEIRO DO CAMPO
+    Tipo: R
+    Número: 1051
+    Bairro: CJ HABITACIONAL INSTITUTO ADVENTISTA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05868-130
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MARMELEIRO DO CAMPO
+    Tipo: R
+    Número: 111
+    Bairro: CJ HABITACIONAL INSTITUTO ADVENTISTA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05868-130
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: LUIZ CARLOS BERRINI
+    Tipo: AV
+    Número: 1376
+    Bairro: CIDADE MONCOES
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04571-936
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: HERMOGENES LIMA
+    Rua: R
+    Número: 0000246
+    Bairro: JARDIM MONTE AZUL
+    Cidade: S PAULO
+    Estado: 05836230
+    Fonte: ASSECC
+  [8]
+    Tipo: RUA
+    Rua: R HERMOGENES LIMA  246
+    Número: 246
+    Bairro: JARDIM MONTE AZUL
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: NISSAN
+      Modelo: V-DRIVE 16SEDICVT
+      Ano: 2020
+Telefones: (11 item(s))
+  - (11) 2506-5980
+  - (11) 2501-7093
+  - (11) 97365-7691
+  - +55 (11) 97365-7691
+  - (11) 95237-5387
+  - (11) 5851-4250
+  - 551158514250
+  - (11) 96906-3694
+  - (15) 3349-2425
+  - (11) 3657-6910
+  - (11) 97420-2713
+Saraiva:
+  Customer Id: 8801571
+  Telefone: (11) 97365-7691
+  E-mail: kellygonzaga@ig.com.br
+  Data de Nascimento: 04/05/1972
+Paycom:
+  E-mail: kellygonzga@gmail.com
+  Data de Nascimento: 04/05/1972
+  Created At: 2021-06-14 01:13:42
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Hermógenes Lima
+    Número: 246
+    Complemento: Casa
+    Bairro: Jardim Monte Azul
+    Cidade: São Paulo
+    Estado: SP
+    País: Brasil
+    Telephone: +55 (11) 97365-7691
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 26/11/2019
+    Info Date: 04/06/2007
+    Mosaic: E16
+    Mosaic New: E17
+    Mosaic Secondary: E16
+    Income Bracket Id: 10
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: HERMOGENES LIMA
+      Número: 246
+      Bairro: JD MONTE AZUL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05836-230
+      Date Added: 29/07/2013
+    [2]
+      Tipo: R
+      Rua: HERMETO LIMA
+      Número: 246
+      Complemento: A FR
+      Bairro: VL ALPINA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03211-160
+      Date Added: 19/12/2014
+    [3]
+      Tipo: R
+      Rua: MARMELEIRO DO CAMPO
+      Número: 1051
+      Bairro: CJ HABITACIONAL INSTITUTO ADVENTISTA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05868-130
+      Date Added: 15/12/2009
+    [4]
+      Tipo: R
+      Rua: MARMELEIRO DO CAMPO
+      Número: 111
+      Bairro: CJ HABITACIONAL INSTITUTO ADVENTISTA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05868-130
+      Date Added: 09/12/2014
+    [5]
+      Tipo: AV
+      Rua: LUIZ CARLOS BERRINI
+      Número: 1376
+      Bairro: CIDADE MONCOES
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04571-936
+      Date Added: 30/04/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 973657691
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/07/2013
+      Info Date: 11/04/2019
+    [2]
+      Telefone: 969063694
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 33492425
+      Ddd: 15
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 36576910
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 974202713
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  E-mails: (6 item(s))
+    [1]
+      E-mail: kelly-cg@bol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+    [2]
+      E-mail: kellygonzaga@ig.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [3]
+      E-mail: vandrolemos@hotmail.com
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 01/06/2016
+    [4]
+      E-mail: deboracastro_md@yahoo.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/09/2017
+    [5]
+      E-mail: kelly.gonzaga@itau.com.br
+      Priority: 5
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+    [6]
+      E-mail: kelly.santos@itau-unibanco.com.br
+      Priority: 6
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 940
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 750
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DAS GRACAS
+      Vinculo: MAE
+  Pis: 12396629443
+  Poder Aquisitivo:
+    PODER AQUISITIVO: ALTO
+    RENDA PODER AQUISITIVO: 7717.04
+    FX PODER AQUISITIVO: De R$ 7017 até R$ 11742
+    COD PODER AQUISITIVO: 6
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 007.810.716-40
+    Nome: CONCEICAO RAMOS
+    Logradouro: HERMOGENES LIMA
+    Número: 212
+    Bairro: JD MONTE AZUL
+  [2]
+    CPF: 002.791.135-79
+    Nome: CLEIRIVALDO XAVIER SILVA
+    Logradouro: HERMOGENES LIMA
+    Número: 235
+    Bairro: JD MONTE AZUL
+  [3]
+    CPF: 841.386.708-82
+    Nome: LISBETH AFONSECA FERRARI DUCH
+    Logradouro: HERMOGENES LIMA
+    Número: 65
+    Bairro: JD MONTE AZUL
+  [4]
+    CPF: 323.707.438-16
+    Nome: RENATA DA CONCEICAO ANDRADE
+    Logradouro: HERMOGENES LIMA
+    Número: 195
+    Bairro: JD MONTE AZUL
+  [5]
+    CPF: 114.550.948-70
+    Nome: JOAO PEREIRA DE SOUSA
+    Logradouro: HERMOGENES LIMA
+    Número: 286
+    Bairro: JD MONTE AZUL
+  [6]
+    CPF: 060.947.788-98
+    Nome: DEGVALDO DA SILVA
+    Logradouro: HERMOGENES LIMA
+    Número: 246
+    Bairro: JD MONTE AZUL
+  [7]
+    CPF: 196.736.908-98
+    Nome: MARIA DAS GRACAS ALVES GOMES
+    Logradouro: HERMOGENES LIMA
+    Número: 272
+    Bairro: JD MONTE AZUL
+  [8]
+    CPF: 038.594.631-79
+    Nome: MONICA MARIA DA SILVA TORRES
+    Logradouro: HERMOGENES LIMA
+    Número: 217
+    Bairro: JD MONTE AZUL
+  [9]
+    CPF: 858.071.215-70
+    Nome: JAN PIERRE FONSECA DE JESUS
+    Logradouro: HERMOGENES LIMA
+    Número: 286
+    Bairro: JD MONTE AZUL
+  [10]
+    CPF: 007.483.718-42
+    Nome: EXPEDITO DA SILVA GOMES
+    Logradouro: HERMOGENES LIMA
+    Número: 326
+    Bairro: JD MONTE AZUL
+  [11]
+    CPF: 278.420.658-02
+    Nome: GLAUCIA DE BARROS DE CASTRO
+    Logradouro: HERMOGENES LIMA
+    Número: 202
+    Bairro: JD MONTE AZUL
+  [12]
+    CPF: 416.865.058-84
+    Nome: JACSON DIAS DE JESUS JUNIOR
+    Logradouro: HERMOGENES LIMA
+    Número: 222
+    Bairro: JD MONTE AZUL
+  [13]
+    CPF: 086.140.088-72
+    Nome: MANOEL DOS SANTOS
+    Logradouro: HERMOGENES LIMA
+    Número: 26
+    Bairro: JD MONTE AZUL
+  [14]
+    CPF: 092.670.658-66
+    Nome: EDSON PEREIRA DA SILVA
+    Logradouro: HERMOGENES LIMA
+    Número: 400
+    Bairro: JD MONTE AZUL
+  [15]
+    CPF: 381.635.348-77
+    Nome: ISABELLA FREITAS DE GOES
+    Logradouro: HERMOGENES LIMA
+    Número: 3
+    Bairro: JD MONTE AZUL
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 97365-7691
+    Nome: KELLY CRISTINA GONZAGA DOS SANTOS
+    Cidade: S PAULO
+    UF: 05836230
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 391828970
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 13/08/2018
+    Tempo Base: 24
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201808
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 04/05/1972
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 4826
+      Classe Social: B2
+      Score: 764
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 940
+        Net: 942
+        Ctv: 928
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 48
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 5851-4250
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 03AUG2009:00:00:00
+    Cel Contato: +5511973657691
+    Data Retirada: 20AUG2018:20:46:50
+    Tipo Cliente: Residencial
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (11) 5851-4250
+    Nome: KELLY CRISTINA GONZAGA DOS SANTOS
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+  [2]
+    Telefone: (11) 2501-7093
+    Nome: KELLY CRISTINA GONZAGA DOS SANTOS
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+  [3]
+    Telefone: (11) 97365-7691
+    Nome: KELLY CRISTINA GONZAGA DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (7 item(s))
+  - kelly.gonzaga@itau.com.br
+  - kellygonzaga@ig.com.br
+  - kellygonzga@gmail.com
+  - kelly-cg@bol.com.br
+  - vandrolemos@hotmail.com
+  - deboracastro_md@yahoo.com.br
+  - kelly.santos@itau-unibanco.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 6
+Renda Estimativas:
+  Presumida:
+    Valor: 8595
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 7717.04
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 4826
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 97365-7691
+    Ddd: 11
+    Número: 973657691
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Data Informacao: 11/04/2019
+    Classificacao: A0
+  [2]
+    Telefone: (11) 96906-3694
+    Ddd: 11
+    Número: 969063694
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (15) 3349-2425
+    Ddd: 15
+    Número: 33492425
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: B
+  [4]
+    Telefone: (11) 3657-6910
+    Ddd: 11
+    Número: 36576910
+    Tipo: FIXO
+    Data Inclusao: 19/07/2017
+    Classificacao: B
+  [5]
+    Telefone: (11) 97420-2713
+    Ddd: 11
+    Número: 974202713
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

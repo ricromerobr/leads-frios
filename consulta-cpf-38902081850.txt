@@ -1,0 +1,448 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  38902081850
+Data/Hora:  02/10/2026, 16:33:46
+Tempo API:  251ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 389.020.818-50
+Nome: TIAGO PAMPOLINI ROCHA
+Primeiro Nome: TIAGO
+Sobrenome: ROCHA
+Sexo: Masculino
+Data de Nascimento: 12/12/1989
+Nome da Mãe: DARCI PAMPOLINI ROCHA
+Nome do Pai: ADEMILSON MARIANO DA ROCHA
+RG: 461384802
+Rg Issuer: SSP
+Voter Id: 364941630141
+Mosaic: F20
+Ocupação: Administrador
+Score:
+  Value: 48
+  Range: ALTISSIMO
+E-mail: PINTURASTIAGO.PAMPOLINI@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 652
+Income Bracket: 1
+Cbo: 252105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: PROF CELIO FIGUEIREDO SILVA 553
+  Número: 553
+  Bairro: PORTAL DO EDEN
+  Cidade: ITU
+  Estado: SAO PAULO
+  CEP: 13308-501
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PROF CELIO FIGUEIREDO SILVA 553
+    Número: 553
+    Bairro: PORTAL DO EDEN
+    Cidade: ITU
+    Estado: SAO PAULO
+    CEP: 13308-501
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PROF CELIO FIGUEIREDO SILVA
+    Número: 547
+    Bairro: PORTAL DO EDEN
+    Cidade: ITU - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ESCANIO CERQUEIRA
+    Tipo: R
+    Número: 11
+    Bairro: VL ALZIRA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03908-080
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CELIO FIGUEIREDO SILVA
+    Tipo: R
+    Número: 547
+    Complemento: 575
+    Bairro: PORTAL DO EDEN
+    Cidade: ITU
+    Estado: SP
+    CEP: 13308-501
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: RITA
+    Tipo: R
+    Número: 251
+    Bairro: CENTRO
+    Cidade: ITU
+    Estado: SP
+    CEP: 13300-070
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: CELIO FIGUEIREDO SILVA
+    Tipo: R
+    Número: 5
+    Complemento: 47
+    Bairro: PORTAL DO EDEN
+    Cidade: ITU
+    Estado: SP
+    CEP: 13308-501
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: PROFESSOR CELIO FIGUEIREDO SILVA
+    Número: 0000547
+    Bairro: PORTAL DO EDEN
+    Cidade: ITU
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+  [8]
+    Rua: RUA R PROF CELIO FIGUEIREDO SILVA 553
+    Número: 553
+    Bairro: PORTAL DO EDEN
+    Estado: SP
+    CEP: 13308-501
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (11) 93021-6723
+  - (11) 97277-3768
+  - (11) 99857-0134
+  - (11) 99527-6997
+  - (11) 4019-4626
+  - (11) 97114-2180
+  - (11) 99536-1426
+Datasus Phones: (1 item(s))
+  - (11) 4013-8000
+Cidade de Nascimento: OSASCO - SP
+Cns: 708708177862298
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/10/2019
+    Rg Issuer: SSP
+    Mosaic: F20
+    Mosaic New: G23
+    Mosaic Secondary: G24
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ESCANIO CERQUEIRA
+      Número: 11
+      Bairro: VL ALZIRA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03908-080
+      Date Added: 07/04/2014
+    [2]
+      Tipo: R
+      Rua: CELIO FIGUEIREDO SILVA
+      Número: 553
+      Bairro: PORTAL DO EDEN
+      Cidade: ITU
+      Estado: SP
+      CEP: 13308-501
+      Date Added: 25/08/2015
+    [3]
+      Tipo: R
+      Rua: CELIO FIGUEIREDO SILVA
+      Número: 547
+      Complemento: 575
+      Bairro: PORTAL DO EDEN
+      Cidade: ITU
+      Estado: SP
+      CEP: 13308-501
+      Date Added: 30/09/2009
+    [4]
+      Tipo: R
+      Rua: RITA
+      Número: 251
+      Bairro: CENTRO
+      Cidade: ITU
+      Estado: SP
+      CEP: 13300-070
+      Date Added: 17/08/2010
+    [5]
+      Tipo: R
+      Rua: CELIO FIGUEIREDO SILVA
+      Número: 5
+      Complemento: 47
+      Bairro: PORTAL DO EDEN
+      Cidade: ITU
+      Estado: SP
+      CEP: 13308-501
+      Date Added: 18/09/2013
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 998570134
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 13/08/2011
+      Info Date: 05/05/2008
+    [2]
+      Telefone: 995276997
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 28/06/2012
+      Info Date: 04/06/2012
+    [3]
+      Telefone: 40194626
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 07/04/2014
+    [4]
+      Telefone: 971142180
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 07/04/2014
+      Info Date: 19/05/2008
+    [5]
+      Telefone: 995361426
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 23/08/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: pinturastiago.pampolini@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 48
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (8 item(s))
+    [1]
+      CPF: 245.956.748-05
+      Nome: IZILDINHA DE LOURDES DOS RAMOS
+      Vinculo: TIA(O)
+    [2]
+      CPF: 414.565.458-76
+      Nome: WESLEY PAMPOLINI ROCHA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 382.157.538-76
+      Nome: SAMIRA CAMILY PAMPOLINI
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 276.652.648-08
+      Nome: MARIA APARECIDA PAMPOLINI
+      Vinculo: TIA(O)
+    [5]
+      CPF: 345.396.928-60
+      Nome: RUDNEY BERNARDO DOS SANTOS
+      Vinculo: PRIMA(O)
+    [6]
+      CPF: 212.865.008-93
+      Nome: DARCI PAMPOLINI ROCHA
+      Vinculo: MAE
+    [7]
+      CPF: 9355836880
+      Nome: PEDERLINA BARBOSA PAMPOLINI
+      Vinculo: AVO
+    [8]
+      CPF: 398.635.618-51
+      Nome: VANESSA CRISTINA DOS RAMOS
+      Vinculo: PRIMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 652.08
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (1 item(s))
+  - pinturastiago.pampolini@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 036.908.348-21
+    Nome: ANITA DOS SANTOS
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 89
+    Bairro: VL ALZIRA
+  [2]
+    CPF: 010.984.918-31
+    Nome: EDINEIA JOANA SANTOS CARNEIRO
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 54
+    Bairro: VL ALZIRA
+  [3]
+    CPF: 006.129.735-65
+    Nome: MARIA ROSINEIDE DE ALMEIDA SOUZA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 99
+    Bairro: VL ALZIRA
+  [4]
+    CPF: 321.054.048-98
+    Nome: JEFFERSON MOREIRA CALIXTO
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 103
+    Bairro: VL ALZIRA
+  [5]
+    CPF: 057.437.304-74
+    Nome: VALDEMIR ALVES DE OLIVEIRA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 22
+    Bairro: VL ALZIRA
+  [6]
+    CPF: 108.964.908-82
+    Nome: JOSE PAULO BHERING
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 6
+    Bairro: VL ALZIRA
+  [7]
+    CPF: 388.528.598-37
+    Nome: PAULO LUIZ DA SILVA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 6
+    Bairro: VL ALZIRA
+  [8]
+    CPF: 151.827.328-99
+    Nome: MARLUCE DOS SANTOS
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 21
+    Bairro: VL ALZIRA
+  [9]
+    CPF: 354.271.628-60
+    Nome: JOSE DA SILVA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 4
+    Bairro: VL ALZIRA
+  [10]
+    CPF: 135.676.508-40
+    Nome: MANOEL GREGORIO DA SILVA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 111
+    Bairro: VL ALZIRA
+  [11]
+    CPF: 388.098.618-50
+    Nome: JOSE AURELIANO DOS SANTOS FILHO
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 88
+    Bairro: VL ALZIRA
+  [12]
+    CPF: 117.825.548-40
+    Nome: GILMAR RAFAEL DA SILVA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 99
+    Bairro: VL ALZIRA
+  [13]
+    CPF: 406.507.138-00
+    Nome: MAURICIO CESTARI DE OLIVEIRA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 108
+    Bairro: VL ALZIRA
+  [14]
+    CPF: 186.108.158-89
+    Nome: ELIANA GERONIMO
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 128
+    Bairro: VL ALZIRA
+  [15]
+    CPF: 324.820.898-83
+    Nome: ANDREIA ALINE DIAS LOPES DE OLIVEIRA
+    Logradouro: ESCANIO CERQUEIRA
+    Número: 100
+    Bairro: VL ALZIRA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 97277-3768
+    Nome: TIAGO PAMPOLINI ROCHA
+    Cidade: ITU
+    UF: SP
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 93021-6723
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 22MAR2019
+    Ultima Recarga: 31AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 22/03/2019
+E-mails: (1 item(s))
+  - pinturastiago.pampolini@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 652
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 652.08
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 99857-0134
+    Ddd: 11
+    Número: 998570134
+    Tipo: 3
+    Data Inclusao: 13/08/2011
+    Data Informacao: 05/05/2008
+    Classificacao: D
+  [2]
+    Telefone: (11) 99527-6997
+    Ddd: 11
+    Número: 995276997
+    Tipo: 3
+    Data Inclusao: 28/06/2012
+    Data Informacao: 04/06/2012
+    Classificacao: D
+  [3]
+    Telefone: (11) 4019-4626
+    Ddd: 11
+    Número: 40194626
+    Tipo: FIXO
+    Data Inclusao: 07/04/2014
+    Classificacao: C
+  [4]
+    Telefone: (11) 97114-2180
+    Ddd: 11
+    Número: 971142180
+    Tipo: 3
+    Data Inclusao: 07/04/2014
+    Data Informacao: 19/05/2008
+    Classificacao: D
+  [5]
+    Telefone: (11) 99536-1426
+    Ddd: 11
+    Número: 995361426
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: C2
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

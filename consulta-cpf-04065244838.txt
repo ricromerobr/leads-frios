@@ -1,0 +1,462 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04065244838
+Data/Hora:  04/10/2026, 01:41:06
+Tempo API:  488ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 040.652.448-38
+Nome: MARIA APARECIDA EVANGELISTA
+Primeiro Nome: MARIA
+Sobrenome: EVANGELISTA
+Sexo: Feminino
+Data de Nascimento: 14/03/1958
+Nome da Mãe: ELIONETH DOS SANTOS EVANGELISTA
+Nome do Pai: ERASMO HIPOLITO EVANGELISTA
+RG: 78618253
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 118596320124
+Mosaic: E17
+Ocupação: Auxiliar de enfermagem
+Score:
+  Value: 484
+  Range: MEDIO
+E-mail: flaviocotrim@hotmail.com
+Additional Emails: (2 item(s))
+  - flaviocotrim@hotmail.com
+  - cidaevangelista1958@gmail.com
+Federal Status: REGULAR
+Renda: 1034
+Income Bracket: 2
+Cbo: 322230
+Endereço:
+  Tipo: TRAVESSA
+  Rua: JOSE FERRARETO
+  Número: 5
+  Bairro: VILA MARIZA
+  Cidade: SAO BERNARDO DO CAMPO
+  Estado: SAO PAULO
+  CEP: 09619-060
+All Addresses: (8 item(s))
+  [1]
+    Tipo: TRAVESSA
+    Rua: JOSE FERRARETO
+    Número: 5
+    Bairro: VILA MARIZA
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SAO PAULO
+    CEP: 09619-060
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE FERRARETO
+    Número: 5
+    Bairro: RUDGE RAMOS
+    Cidade: SAO BERNARDO DO CAMPO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: EUGENIA S VITALE
+    Tipo: R
+    Número: 681
+    Complemento: C 1
+    Bairro: TABOAO
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09665-000
+    Data Atualizacao: 19/09/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FELIPE CAMARAO
+    Tipo: R
+    Número: 328
+    Bairro: DEMARCHI
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09820-140
+    Data Atualizacao: 22/10/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ARROIO TRIUNFO
+    Tipo: R
+    Número: 140
+    Complemento: 43 A
+    Bairro: CJ HABITACIONAL SANTA ETELVINA III
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08485-430
+    Data Atualizacao: 20/07/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: JOSE FERRARETO
+    Número: 0000005
+    Bairro: RUDGE RAMOS
+    Cidade: S BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 00961-960
+    Fonte: ASSECC
+  [7]
+    Tipo: TV
+    Rua: JOSE FERRARETO
+    Número: 0000005
+    Bairro: VILA MARIZA
+    Cidade: SAO BERNARDO DO CAMPO
+    Estado: SP
+    CEP: 09619-060
+    Fonte: ASSECC
+  [8]
+    Rua: TV JOSE FERRARETO
+    Número: 05
+    Bairro: VILA MARIZA
+    Estado: SP
+    CEP: 09619-060
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (11) 4365-1934
+  - (11) 97449-0747
+  - (11) 96235-2439
+  - (11) 2355-0292
+  - +55 (11) 97449-0747
+  - 551123550292
+  - (11) 4930-6251
+  - (11) 4178-3705
+  - (11) 4396-1190
+  - (11) 99771-0675
+  - (11) 4365-4218
+Datasus Phones: (1 item(s))
+  - (11) 97449-0747
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 700807931067980
+Rg Issue Date: 1152241200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Info Date: 28/07/2008
+    Rg Issuer: SSP
+    Mosaic: E17
+    Mosaic New: B04
+    Mosaic Secondary: B05
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: EUGENIA S VITALE
+      Número: 681
+      Complemento: C 1
+      Bairro: TABOAO
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09665-000
+      Date Added: 21/11/2016
+    [2]
+      Tipo: R
+      Rua: FELIPE CAMARAO
+      Número: 328
+      Bairro: DEMARCHI
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09820-140
+      Date Added: 13/04/2010
+    [3]
+      Tipo: TV
+      Rua: JOSE FERRARETO
+      Número: 5
+      Complemento: C
+      Bairro: RUDGE RAMOS
+      Cidade: SAO BERNARDO DO CAMPO
+      Estado: SP
+      CEP: 09619-060
+      Date Added: 07/05/2019
+    [4]
+      Tipo: R
+      Rua: ARROIO TRIUNFO
+      Número: 140
+      Complemento: 43 A
+      Bairro: CJ HABITACIONAL SANTA ETELVINA III
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08485-430
+      Date Added: 11/12/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 41783705
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 28/08/2006
+      Info Date: 11/08/2010
+    [2]
+      Telefone: 43961190
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 05/03/2009
+      Info Date: 18/03/2008
+    [3]
+      Telefone: 997710675
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 49306251
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 03/04/2017
+    [5]
+      Telefone: 43654218
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 23/01/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: cidaevangelista1958@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+    [2]
+      E-mail: flaviocotrim@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 416
+    CSB8 FAIXA: MEDIO
+    CSBA: 484
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ELIONE S EVANGELISTA
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 311.239.388-06
+    Nome: SABRINA DANTAS AYRES
+    Logradouro: EUGENIA S VITALE
+    Número: 1302
+    Bairro: TABOAO
+  [2]
+    CPF: 606.316.703-00
+    Nome: NATALHA BARBIERI LIBERAL
+    Logradouro: EUGENIA S VITALE
+    Número: 1389
+    Bairro: TABOAO
+  [3]
+    CPF: 024.973.925-95
+    Nome: ADRIANO FARIAS BELARMINO
+    Logradouro: EUGENIA S VITALE
+    Número: 1196
+    Bairro: TABOAO
+  [4]
+    CPF: 431.539.698-25
+    Nome: MARIANA FELIX DE SOUZA LUCIO
+    Logradouro: EUGENIA S VITALE
+    Número: 1457
+    Bairro: TABOAO
+  [5]
+    CPF: 005.977.248-49
+    Nome: RENATO DELLA NINA
+    Logradouro: EUGENIA S VITALE
+    Número: 836
+    Bairro: TABOAO
+  [6]
+    CPF: 367.808.428-18
+    Nome: PEDRO LUCAS MOURA DUARTE
+    Logradouro: EUGENIA S VITALE
+    Número: 551
+    Bairro: TABOAO
+  [7]
+    CPF: 157.852.138-69
+    Nome: CLAUDETE MONICA RODRIGUES
+    Logradouro: EUGENIA S VITALE
+    Número: 1355
+    Bairro: TABOAO
+  [8]
+    CPF: 050.047.913-50
+    Nome: GERISON RODRIGO SOUSA SANTANA
+    Logradouro: EUGENIA S VITALE
+    Número: 1369
+    Bairro: TABOAO
+  [9]
+    CPF: 441.749.598-03
+    Nome: DAVI SANTOS SILVA
+    Logradouro: EUGENIA S VITALE
+    Número: 391
+    Bairro: TABOAO
+  [10]
+    CPF: 378.520.298-92
+    Nome: GUILHERME SUJKOWSKI
+    Logradouro: EUGENIA S VITALE
+    Número: 715
+    Bairro: TABOAO
+  [11]
+    CPF: 341.034.223-00
+    Nome: JOSE RIVALDO NONATO
+    Logradouro: EUGENIA S VITALE
+    Número: 681
+    Bairro: TABOAO
+  [12]
+    CPF: 328.634.998-40
+    Nome: ALEXANDRE RODRIGO TEODORO
+    Logradouro: EUGENIA S VITALE
+    Número: 600
+    Bairro: TABOAO
+  [13]
+    CPF: 077.383.146-05
+    Nome: DIEGO VINICIUS VARJAO COELHO
+    Logradouro: EUGENIA S VITALE
+    Número: 783
+    Bairro: TABOAO
+  [14]
+    CPF: 265.836.998-00
+    Nome: LEONARDO JOSE DOS SANTOS
+    Logradouro: EUGENIA S VITALE
+    Número: 2
+    Bairro: TABOAO
+  [15]
+    CPF: 444.523.988-71
+    Nome: TAMYRES NASSA LIMA
+    Logradouro: EUGENIA S VITALE
+    Número: 1427
+    Bairro: TABOAO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (11) 97449-0747
+    Nome: MARIA  APARECIDA EVANGELISTA
+    Cidade: S BERNARDO DO CAMPO
+    UF: SP
+  [2]
+    Telefone: (11) 96235-2439
+    Nome: MARIA APARECIDA EVANGELISTA
+    Cidade: SAO BERNARDO DO CAMPO
+    UF: SP
+Vivo Linhas: (5 item(s))
+  [1]
+    Telefone: (11) 2355-0292
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Cel Contato: +5511974490747
+    Data Retirada: 16SEP2020:09:54:21
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 2355-0292
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Cel Contato: +5511974490747
+    Data Retirada: 01SEP2020:16:24:52
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (11) 4365-1934
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 22SEP2020:15:32:26
+    Cel Contato: +5511974490747
+    Tipo Cliente: Residencial
+  [4]
+    Telefone: (11) 4930-6251
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 26MAR2016:14:32:28
+    Cel Contato: +5511974490747
+    Data Retirada: 27SEP2018:15:45:15
+    Tipo Cliente: Residencial
+  [5]
+    Telefone: (11) 97449-0747
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (11) 94366-4181
+    Plano: PF_POS_PURO
+    Data Instalacao: 14/03/2019
+    Valor Fatura: 129.99
+    Mes Referencia: 202009
+E-mails: (2 item(s))
+  - flaviocotrim@hotmail.com
+  - cidaevangelista1958@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1034
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4178-3705
+    Ddd: 11
+    Número: 41783705
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Data Informacao: 11/08/2010
+    Classificacao: A0
+  [2]
+    Telefone: (11) 4396-1190
+    Ddd: 11
+    Número: 43961190
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 18/03/2008
+    Classificacao: C
+  [3]
+    Telefone: (11) 99771-0675
+    Ddd: 11
+    Número: 997710675
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 4930-6251
+    Ddd: 11
+    Número: 49306251
+    Tipo: FIXO
+    Data Inclusao: 03/04/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 4365-4218
+    Ddd: 11
+    Número: 43654218
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: A0
+Occupation Code: 322230
+Occupation Name: Auxiliar de enfermagem
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,444 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09745729698
+Data/Hora:  03/10/2026, 20:02:15
+Tempo API:  416ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 097.457.296-98
+Nome: MARATTAN TAVARES OLIVEIRA
+Primeiro Nome: MARATTAN
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 10/05/1990
+Nome da Mãe: CARLINDA APARECIDA TAVARES OLIVEIRA
+Nome do Pai: OSWALDO TAVARES FILHO
+RG: MG13510896
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MG
+Ocupação: Administrador
+Score:
+  Value: 808
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 622
+Income Bracket: 1
+Cbo: 524105
+Endereço:
+  Tipo: RUA
+  Rua: CEL OLINTO FONSECA
+  Complemento: CA A
+  Bairro: SAGRADO C JESUS
+  Cidade: FORMIGA
+  Estado: MINAS GERAIS
+  CEP: 35574-393
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CEL OLINTO FONSECA
+    Complemento: CA A
+    Bairro: SAGRADO C JESUS
+    Cidade: FORMIGA
+    Estado: MINAS GERAIS
+    CEP: 35574-393
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CORONEL OLINTO FONSECA
+    Número: 203
+    Bairro: SAGRADO CORACAO DE JESUS
+    Cidade: FORMIGA - MG
+    Fonte: DATASUS
+  [3]
+    Rua: RODRIGO M F ANDRADE
+    Tipo: ROD
+    Número: 991
+    Bairro: NS DO CARMO
+    Cidade: OURO PRETO
+    Estado: MG
+    CEP: 35400-000
+    Data Atualizacao: 10/11/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ABILIO MACHADO
+    Tipo: AV
+    Número: 494
+    Complemento: C
+    Bairro: SAGRADO CORACAO DE JESUS
+    Cidade: FORMIGA
+    Estado: MG
+    CEP: 35574-348
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: OLINTO FONSECA
+    Tipo: R
+    Número: 203
+    Bairro: SAGRADO CORACAO DE JESUS
+    Cidade: FORMIGA
+    Estado: MG
+    CEP: 35570-000
+    Data Atualizacao: 01/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: CORONEL OLINTO FONSECA
+    Número: 0000203
+    Bairro: SAGRADO CORACAO DE JESUS
+    Cidade: FORMIGA
+    Estado: MG
+    CEP: 35570-000
+    Fonte: ASSECC
+  [7]
+    Tipo: [empty]
+    Rua: OLINTO FONSECA
+    Número: 0000203
+    Bairro: SAGRADO CORACAO DE JESUS
+    Cidade: FORMIGA
+    Estado: MG
+    CEP: 03557-000
+    Fonte: ASSECC
+  [8]
+    Rua: RUA ROD RODRIGO MELO FRANCO DE AND
+    Número: 991
+    Bairro: N SRA CARMO
+    Estado: MG
+    CEP: 35400-000
+    Fonte: VIVO_PRE
+  [9]
+    Rua: R CORONEL OLINTO FONSECA
+    Número: 203
+    Bairro: SAGRADO CORACAO DE JESUS
+    Estado: MG
+    CEP: 35570-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (37) 3322-7651
+  - (37) 99822-6426
+  - (37) 99805-8329
+  - (37) 98804-7651
+  - (37) 98817-7651
+  - (37) 98818-9810
+  - (31) 98885-1211
+  - (37) 99909-6808
+  - (37) 3321-4058
+Datasus Phones: (1 item(s))
+  - (37) 3329-1186
+Cidade de Nascimento: FORMIGA - MG
+Cns: 705001469014357
+Rg Issue Date: 987390000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Mosaic New: G22
+    Mosaic Secondary: C07
+    Income Bracket Id: 6
+  Endereços: (3 item(s))
+    [1]
+      Tipo: ROD
+      Rua: RODRIGO M F ANDRADE
+      Número: 991
+      Bairro: NS DO CARMO
+      Cidade: OURO PRETO
+      Estado: MG
+      CEP: 35400-000
+      Date Added: 06/03/2014
+    [2]
+      Tipo: AV
+      Rua: ABILIO MACHADO
+      Número: 494
+      Complemento: C
+      Bairro: SAGRADO CORACAO DE JESUS
+      Cidade: FORMIGA
+      Estado: MG
+      CEP: 35574-348
+      Date Added: 14/01/2020
+    [3]
+      Tipo: R
+      Rua: OLINTO FONSECA
+      Número: 203
+      Bairro: SAGRADO CORACAO DE JESUS
+      Cidade: FORMIGA
+      Estado: MG
+      CEP: 35570-000
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988189810
+      Ddd: 37
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/07/2012
+    [2]
+      Telefone: 33227651
+      Ddd: 37
+      Tipo: 1
+      Classificacao: C
+      Date Added: 02/07/2015
+      Info Date: 03/01/2020
+    [3]
+      Telefone: 33214058
+      Ddd: 37
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [4]
+      Telefone: 998058329
+      Ddd: 37
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 27/07/2017
+    [5]
+      Telefone: 999096808
+      Ddd: 37
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 01/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: marattan_10@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/07/2017
+  Score:
+    CSB8: 822
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 808
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 8977433690
+      Nome: TANMARA TAVARES OLIVEIRA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 3381719670
+      Nome: CARLINDA APARECIDA TAVARES OLIVEIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3019.92
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (1 item(s))
+  - marattan_10@hotmail.com
+E-mail: marattan_10@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 076.848.026-40
+    Nome: RENATO DE PAULA GOMES
+    Logradouro: JOAO VINTE E TRES
+    Número: 227
+    Bairro: S CRISTOVAO
+  [2]
+    CPF: 071.504.436-21
+    Nome: APARECIDA EFIGENIA MARTINS
+    Logradouro: PIEDADE
+    Número: 9
+    Bairro: PIDADE
+  [3]
+    CPF: 052.212.326-00
+    Nome: THIAGO LUCIO COELHO
+    Logradouro: BOBADELA
+    Número: 167
+  [4]
+    CPF: 051.642.646-09
+    Nome: MARIA CLAUDIA PIO RAMOS
+    Logradouro: ALFA
+    Número: 324
+    Bairro: BAUXITA
+  [5]
+    CPF: 051.604.466-48
+    Nome: BRUNO MARTINS DE ALMEIDA
+    Logradouro: ALFA
+    Número: 12
+    Bairro: BAUXPA
+  [6]
+    CPF: 051.586.796-90
+    Nome: VALERIA APARECIDA SANTANA GUIMARAES
+    Logradouro: CANAVIAL
+    Número: 2639
+    Bairro: VL CANAVIAL
+  [7]
+    CPF: 051.317.526-12
+    Nome: CATIA RIBEIRO MAIA
+    Logradouro: OTON GUIMARAES
+    Número: 1
+  [8]
+    CPF: 051.032.796-65
+    Nome: FLAVIO HENRIQUE DINIZ REZENDE
+    Logradouro: IRMAOS KENYD
+    Número: 250
+  [9]
+    CPF: 051.029.246-13
+    Nome: DANIANE DAS GRACAS ALVES
+    Logradouro: RIO DE JANEIRO
+    Número: 188
+  [10]
+    CPF: 845.951.836-15
+    Nome: NAZIA DE FIGUEIREDO
+    Logradouro: ALBINO SARTORI
+    Número: 246
+    Bairro: VL S JOSE
+  [11]
+    CPF: 050.496.156-07
+    Nome: MAURO SERGIO FAGUNDES
+    Logradouro: VIRGILIO AMERICO
+    Número: 350
+    Bairro: DR CACHOEIRA D
+  [12]
+    CPF: 050.475.946-96
+    Nome: IRISA SEABRA DOS ANJOS
+    Logradouro: SANTANA
+    Número: 49
+    Bairro: PILAR
+  [13]
+    CPF: 050.448.516-47
+    Nome: ADENILSON SILVERIO BORGES
+    Logradouro: DEZ
+    Número: 39
+  [14]
+    CPF: 050.444.686-06
+    Nome: VIVIANE GONCALVES
+    Logradouro: DO COBRE
+    Número: 30
+  [15]
+    CPF: 050.445.146-40
+    Nome: WALDIRENE FONSECA DA SILVA
+    Logradouro: LADEIRA DAS TASSARAS
+    Número: 15
+Telefones Assecc: (6 item(s))
+  [1]
+    Telefone: (37) 99805-8329
+    Nome: MARATTAN TAVARES OLIVEIRA
+    Cidade: FORMIGA
+    UF: MG
+  [2]
+    Telefone: (37) 99822-6426
+    Nome: MARATTAN TAVARES OLIVEIRA
+    Cidade: FORMIGA
+    UF: MG
+  [3]
+    Telefone: (37) 98804-7651
+    Nome: MARATTAN TAVARES OLIVEIRA
+    Cidade: FORMIGA
+    UF: MG
+  [4]
+    Telefone: (37) 98817-7651
+    Nome: MARATTAN TAVARES OLIVEIRA
+    Cidade: FORMIGA
+    UF: MG
+  [5]
+    Telefone: (37) 98818-9810
+    Nome: MARATTAN TAVARES OLIVEIRA
+    Cidade: FORMIGA
+    UF: MG
+  [6]
+    Telefone: (31) 98885-1211
+    Nome: MARATTAN TAVARES OLIVEIRA
+    Cidade: FORMIGA
+    UF: MG
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (37) 99909-6808
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 25MAY2017
+    Ultima Recarga: 13JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 08/04/2017
+  [2]
+    Telefone: (37) 99805-8329
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 29/10/2015
+    Valor Fatura: 74.99
+    Mes Referencia: 202009
+  [3]
+    Telefone: (37) 99822-6426
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 22/11/2017
+    Valor Fatura: 61.26
+    Mes Referencia: 202010
+E-mails: (1 item(s))
+  - marattan_10@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 622
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3019.92
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (37) 98818-9810
+    Ddd: 37
+    Número: 988189810
+    Tipo: 3
+    Data Inclusao: 06/07/2012
+    Classificacao: A0
+  [2]
+    Telefone: (37) 3322-7651
+    Ddd: 37
+    Número: 33227651
+    Tipo: FIXO
+    Data Inclusao: 02/07/2015
+    Data Informacao: 03/01/2020
+    Classificacao: C
+  [3]
+    Telefone: (37) 3321-4058
+    Ddd: 37
+    Número: 33214058
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [4]
+    Telefone: (37) 99805-8329
+    Ddd: 37
+    Número: 998058329
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A0
+  [5]
+    Telefone: (37) 99909-6808
+    Ddd: 37
+    Número: 999096808
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: A0
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

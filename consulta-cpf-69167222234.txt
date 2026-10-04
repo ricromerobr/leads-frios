@@ -1,0 +1,392 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  69167222234
+Data/Hora:  04/10/2026, 15:32:19
+Tempo API:  695ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 691.672.222-34
+Nome: THAIS CASSEB BASILIO
+Primeiro Nome: THAIS
+Sobrenome: BASILIO
+Sexo: Feminino
+Data de Nascimento: 22/09/1980
+Nome da Mãe: ESTRELA ALVES C NASCIMENTO
+Mosaic: F23
+Ocupação: Advogado (direito do trabalho)
+Score:
+  Value: 873
+  Range: BAIXISSIMO RISCO
+E-mail: taiscasseb@hotmail.com
+Additional Emails: (4 item(s))
+  - taiscasseb@hotmail.com
+  - thaistcn@hotmail.com
+  - thaiscasseb.adv@yahoo.com
+  - lilia.sac@drogacenter.com.br
+Federal Status: REGULAR
+Renda: 1560
+Income Bracket: 2
+Cbo: 231105
+Endereço:
+  Tipo: RUA
+  Rua: DEZESSETE
+  Número: 5
+  Complemento: 19
+  Bairro: VL NOVA
+  Cidade: VILA VELHA
+  Estado: ESPIRITO SANTO
+  CEP: 29105-130
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DEZESSETE
+    Número: 5
+    Complemento: 19
+    Bairro: VL NOVA
+    Cidade: VILA VELHA
+    Estado: ESPIRITO SANTO
+    CEP: 29105-130
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LEMOS
+    Tipo: AV
+    Número: 2228
+    Bairro: TELEGRAFO SEM FIO
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66113-003
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: IBIAPABA
+    Tipo: R
+    Número: 67
+    Complemento: AP 156
+    Bairro: VL SONIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05625-020
+    Data Atualizacao: 03/08/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: IBIAPABA
+    Tipo: R
+    Número: 6
+    Bairro: VL SONIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05625-020
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: LUIS ROCHA MIRANDA
+    Tipo: AV
+    Número: 215
+    Bairro: JABAQUARA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04344-010
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: AV
+    Rua: DR LUIS ROCHA MIRANDA
+    Número: 215
+    Complemento: APT 77
+    Bairro: JABAQUARA
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 24/01/2020
+    Mosaic: F23
+    Mosaic New: A02
+    Mosaic Secondary: C06
+    Income Bracket Id: 8
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: LEMOS
+      Número: 2228
+      Bairro: TELEGRAFO SEM FIO
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66113-003
+      Date Added: 11/01/2017
+    [2]
+      Tipo: R
+      Rua: IBIAPABA
+      Número: 67
+      Complemento: AP 156
+      Bairro: VL SONIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05625-020
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: DEZESSETE
+      Número: 5
+      Complemento: 19
+      Bairro: VL NOVA
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29105-130
+      Date Added: 19/03/2015
+    [4]
+      Tipo: R
+      Rua: IBIAPABA
+      Número: 6
+      Bairro: VL SONIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05625-020
+      Date Added: 09/12/2014
+    [5]
+      Tipo: AV
+      Rua: LUIS ROCHA MIRANDA
+      Número: 215
+      Bairro: JABAQUARA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04344-010
+      Date Added: 06/04/2018
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 32442132
+      Ddd: 91
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 30637957
+      Ddd: 27
+      Tipo: 1
+      Classificacao: D
+      Date Added: 18/03/2015
+    [3]
+      Telefone: 982834949
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (4 item(s))
+    [1]
+      E-mail: thaistcn@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 11/03/2015
+    [2]
+      E-mail: thaiscasseb.adv@yahoo.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [3]
+      E-mail: taiscasseb@hotmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [4]
+      E-mail: lilia.sac@drogacenter.com.br
+      Priority: 4
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 590
+    CSB8 FAIXA: BAIXO
+    CSBA: 873
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ESTRELA ALVES CASSEB NASCIMENTO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO ALTO
+    RENDA PODER AQUISITIVO: 5634.44
+    FX PODER AQUISITIVO: De R$ 4082 até R$ 7017
+    COD PODER AQUISITIVO: 5
+Telefones: (4 item(s))
+  - (11) 2537-8258
+  - (91) 3244-2132
+  - (27) 3063-7957
+  - (91) 98283-4949
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 009.297.822-32
+    Nome: JOELMA SANTOS AMADOR
+    Logradouro: LEMOS
+    Número: 2150
+    Bairro: TELEGRAFO SEM FIO
+  [2]
+    CPF: 049.334.862-04
+    Nome: FRANCISCA CECY REGIS DE ALENCAR
+    Logradouro: LEMOS
+    Número: 2376
+    Bairro: TELEGRAFO SEM FIO
+  [3]
+    CPF: 716.223.302-34
+    Nome: NORMA CRISTINA LOPES DA SILVA
+    Logradouro: LEMOS
+    Número: SN
+    Bairro: TELEGRAFO SEM FIO
+  [4]
+    CPF: 055.662.072-00
+    Nome: ZENAIDE ALVES DE OLANDA SOUSA
+    Logradouro: LEMOS
+    Número: 2210
+    Bairro: TELEGRAFO SEM FIO
+  [5]
+    CPF: 732.417.252-00
+    Nome: JAQUELINE CARLA DE ALBUQUERQUE
+    Logradouro: LEMOS
+    Número: SN
+    Bairro: TELEGRAFO SEM FIO
+  [6]
+    CPF: 907.502.172-00
+    Nome: MADSON NUNES PIEDADE
+    Logradouro: LEMOS
+    Número: 2161
+    Bairro: TELEGRAFO SEM FIO
+  [7]
+    CPF: 536.559.662-53
+    Nome: ANDREIA DA SILVA SANTIAGO
+    Logradouro: LEMOS
+    Número: 2507
+    Bairro: TELEGRAFO SEM FIO
+  [8]
+    CPF: 298.495.862-49
+    Nome: JOSE AFONSO SILVA PEREIRA
+    Logradouro: LEMOS
+    Número: 2362
+    Bairro: TELEGRAFO SEM FIO
+  [9]
+    CPF: 023.819.642-90
+    Nome: JOYCE CRISTINA DA SILVA DOS SANTOS
+    Logradouro: LEMOS
+    Número: SN
+    Bairro: TELEGRAFO SEM FIO
+  [10]
+    CPF: 668.522.342-15
+    Nome: WIL TRINDADE DE OLIVEIRA
+    Logradouro: LEMOS
+    Número: 2376
+    Bairro: TELEGRAFO SEM FIO
+  [11]
+    CPF: 373.346.892-91
+    Nome: MARLI SOBRAL DA SILVA OLIVEIRA
+    Logradouro: LEMOS
+    Número: 2249
+    Bairro: TELEGRAFO SEM FIO
+  [12]
+    CPF: 043.976.552-86
+    Nome: NATALIA SILVA
+    Logradouro: LEMOS
+    Número: 2210
+    Bairro: TELEGRAFO SEM FIO
+  [13]
+    CPF: 076.567.422-04
+    Nome: RAIMUNDO NONATO DA SILVA VASCONCELOS
+    Logradouro: LEMOS
+    Número: 2053
+    Bairro: TELEGRAFO SEM FIO
+  [14]
+    CPF: 755.725.592-53
+    Nome: NADIA SIMONE BENJAMIN LEAL
+    Logradouro: LEMOS
+    Número: 1934
+    Bairro: TELEGRAFO SEM FIO
+  [15]
+    CPF: 741.622.172-20
+    Nome: ROSINETE RODRIGUES DOS ANJOS
+    Logradouro: LEMOS
+    Número: 2519
+    Bairro: TELEGRAFO SEM FIO
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 2537-8258
+    Nome: THAIS CASSEB NASCIMENTO
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+E-mails: (4 item(s))
+  - taiscasseb@hotmail.com
+  - thaistcn@hotmail.com
+  - thaiscasseb.adv@yahoo.com
+  - lilia.sac@drogacenter.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1560
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 5634.44
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (91) 3244-2132
+    Ddd: 91
+    Número: 32442132
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Classificacao: D2
+  [2]
+    Telefone: (27) 3063-7957
+    Ddd: 27
+    Número: 30637957
+    Tipo: FIXO
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (91) 98283-4949
+    Ddd: 91
+    Número: 982834949
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 241035
+Occupation Name: Advogado (direito do trabalho)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

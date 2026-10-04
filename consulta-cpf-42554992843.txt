@@ -1,0 +1,337 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  42554992843
+Data/Hora:  04/10/2026, 01:40:34
+Tempo API:  521ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 425.549.928-43
+Nome: MIQUEIAS SILVA LINS
+Primeiro Nome: MIQUEIAS
+Sobrenome: LINS
+Sexo: Masculino
+Data de Nascimento: 14/02/1995
+Nome da Mãe: FRANCILENE MARIA BATISTA DA SILVA LINS
+Nome do Pai: MANOEL FIRMINO LINS FILHO
+RG: 417347078
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Ocupação: Técnico eletrônico
+Score:
+  Value: 573
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1761
+Income Bracket: 2
+Cbo: 313215
+Endereço:
+  Tipo: RUA
+  Rua: AFFONSO CELSO DIAS
+  Número: 190
+  Complemento: BL 2 AP 42
+  Bairro: JD S CARLOS
+  Cidade: SOROCABA
+  Estado: SAO PAULO
+  CEP: 18046-376
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AFFONSO CELSO DIAS
+    Número: 190
+    Complemento: BL 2 AP 42
+    Bairro: JD S CARLOS
+    Cidade: SOROCABA
+    Estado: SAO PAULO
+    CEP: 18046-376
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARIO GRANATTI
+    Número: 162
+    Bairro: PQ VITORIA REGIA
+    Cidade: SOROCABA - SP
+    Fonte: DATASUS
+  [3]
+    Rua: MARIO GRANATTI
+    Tipo: R
+    Número: 162
+    Complemento: C
+    Bairro: PRQ VITORIA REGIA
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18078-346
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PIANTOLI
+    Tipo: R
+    Número: 203
+    Bairro: JD S GUILHERME
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18074-632
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: 0000190
+    Número: AFFONSO CELSO DIAS
+    Bairro: JARDIM SAO CARLOS
+    Cidade: SOROCABA
+    Estado: SP
+    CEP: 18046-376
+    Fonte: ASSECC
+  [6]
+    Rua: AFFONSO CELSO DIAS
+    Número: 190
+    Bairro: JARDIM SAO CARLOS
+    Estado: SP
+    CEP: 18046-376
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (15) 99732-8832
+  - +55 (15) 99732-8832
+  - (15) 3226-4291
+  - (15) 98810-5776
+Datasus Phones: (1 item(s))
+  - (15) 3226-4291
+Cidade de Nascimento: OSASCO - SP
+Cns: 700500967216451
+Rg Issue Date: 1234494000000
+Mte Data:
+  Nome: Miqueias Silva Lins
+  Data de Nascimento: 14/02/1995
+  Nome da Mãe: Francilene Maria Batista Da Silva Lins
+  Endereço:
+    Rua: Mario Granatti
+    Número: 162
+    Bairro: Vitoria Regia I
+    Cidade: Sorocaba
+    Estado: SP
+    CEP: 18078-346
+Paycom:
+  E-mail: mikalinseng@gmail.com
+  Data de Nascimento: 14/02/1995
+  Created At: 2021-07-13 14:43:09
+E-mail: mikalinseng@gmail.com
+Additional Emails: (1 item(s))
+  - mikalinseng@gmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Mario Granati
+    Número: 162
+    Bairro: Parque Vitoria Regia
+    Cidade: Sorocaba
+    Estado: São Paulo
+    País: Brasil
+    Telephone: +55 (15) 99732-8832
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Mosaic New: C08
+    Mosaic Secondary: D11
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: MARIO GRANATTI
+      Número: 162
+      Complemento: C
+      Bairro: PRQ VITORIA REGIA
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18078-346
+      Date Added: 02/02/2016
+    [2]
+      Tipo: R
+      Rua: PIANTOLI
+      Número: 203
+      Bairro: JD S GUILHERME
+      Cidade: SOROCABA
+      Estado: SP
+      CEP: 18074-632
+      Date Added: 29/04/2019
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 32264291
+      Ddd: 15
+      Tipo: 1
+      Classificacao: C
+      Date Added: 15/01/2016
+      Info Date: 21/12/2015
+    [2]
+      Telefone: 988105776
+      Ddd: 15
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/06/2019
+      Info Date: 22/04/2019
+  Score:
+    CSB8: 354
+    CSB8 FAIXA: MEDIO
+    CSBA: 573
+    CSBA FAIXA: BAIXO
+  Pis: 21073509135
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1101.02
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 105.947.238-41
+    Nome: ISAEL DIAS BATISTA
+    Logradouro: MARIO GRANATTI
+    Número: 195
+    Bairro: PRQ VITORIA REGIA
+  [2]
+    CPF: 590.873.153-68
+    Nome: AUREA FERREIRA BASTOS
+    Logradouro: MARIO GRANATTI
+    Número: 161
+    Bairro: PRQ VITORIA REGIA
+  [3]
+    CPF: 073.289.798-01
+    Nome: SANDRA MEDEIROS DOS SANTOS
+    Logradouro: MARIO GRANATTI
+    Número: 286
+    Bairro: PRQ VITORIA REGIA
+  [4]
+    CPF: 135.785.818-36
+    Nome: SANDRA CRISTINA ANDRADE SILVA
+    Logradouro: MARIO GRANATTI
+    Número: 302
+    Bairro: PRQ VITORIA REGIA
+  [5]
+    CPF: 305.565.148-07
+    Nome: MARCIO RUBIO
+    Logradouro: MARIO GRANATTI
+    Número: 151
+    Bairro: PRQ VITORIA REGIA
+  [6]
+    CPF: 282.210.908-75
+    Nome: ELIAS JOSE MENDES
+    Logradouro: MARIO GRANATTI
+    Número: 368
+    Bairro: PRQ VITORIA REGIA
+  [7]
+    CPF: 276.793.659-20
+    Nome: HERMINIO FERNANDES DE ALMEIDA
+    Logradouro: MARIO GRANATTI
+    Número: 128
+    Bairro: PRQ VITORIA REGIA
+  [8]
+    CPF: 099.367.818-13
+    Nome: CACILDA VITORINO MOREIRA
+    Logradouro: MARIO GRANATTI
+    Número: 80
+    Bairro: PRQ VITORIA REGIA
+  [9]
+    CPF: 149.743.018-61
+    Nome: MARIA VIDERES DE ANDRADE SILVA
+    Logradouro: MARIO GRANATTI
+    Número: 302
+    Bairro: PRQ VITORIA REGIA
+  [10]
+    CPF: 338.787.734-04
+    Nome: MARCOS MANOEL LINS
+    Logradouro: MARIO GRANATTI
+    Número: 121
+    Bairro: PRQ VITORIA REGIA
+  [11]
+    CPF: 311.646.878-83
+    Nome: ELIAS VENANCIO OLIVEIRA SILVA
+    Logradouro: MARIO GRANATTI
+    Número: 91
+    Bairro: PRQ VITORIA REGIA
+  [12]
+    CPF: 381.430.973-15
+    Nome: ANTONIO GALDINO DE ALENCAR
+    Logradouro: MARIO GRANATTI
+    Número: 33
+    Bairro: PRQ VITORIA REGIA
+  [13]
+    CPF: 177.350.568-85
+    Nome: FATIMA APARECIDA ANDRADE DOS SANTOS
+    Logradouro: MARIO GRANATTI
+    Número: 164
+    Bairro: PRQ VITORIA REGIA
+  [14]
+    CPF: 274.335.468-20
+    Nome: JURANDIR DA SILVA SANTOS
+    Logradouro: MARIO GRANATTI
+    Número: 12
+    Bairro: PRQ VITORIA REGIA
+  [15]
+    CPF: 410.538.038-93
+    Nome: JEISSA DE PAULA DE OLIVEIRA
+    Logradouro: MARIO GRANATTI
+    Número: 154
+    Bairro: PRQ VITORIA REGIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (15) 99732-8832
+    Nome: MIQUEIAS SILVA LINS
+    Cidade: SOROCABA
+    UF: SP
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (15) 99732-8832
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 02/11/2019
+    Valor Fatura: 46.03
+    Mes Referencia: 202009
+E-mails: (1 item(s))
+  - mikalinseng@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1761
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1101.02
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (15) 3226-4291
+    Ddd: 15
+    Número: 32264291
+    Tipo: FIXO
+    Data Inclusao: 15/01/2016
+    Data Informacao: 21/12/2015
+    Classificacao: C
+  [2]
+    Telefone: (15) 98810-5776
+    Ddd: 15
+    Número: 988105776
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 22/04/2019
+    Classificacao: A0
+Occupation Code: 313215
+Occupation Name: Técnico eletrônico
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

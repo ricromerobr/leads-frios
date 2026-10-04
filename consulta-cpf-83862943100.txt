@@ -1,0 +1,428 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  83862943100
+Data/Hora:  04/10/2026, 15:47:48
+Tempo API:  210ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 838.629.431-00
+Nome: EDIANA OLIVEIRA DE SOUZA
+Primeiro Nome: EDIANA
+Sobrenome: SOUZA
+Sexo: Feminino
+Data de Nascimento: 23/07/1977
+Nome da Mãe: ANA RITA OLIVEIRA
+Nome do Pai: FRANCISCO RICARDO DE SOUZA
+RG: 3679134
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: GO
+Mosaic: F18
+Ocupação: Administrador
+Score:
+  Value: 93
+  Range: ALTISSIMO
+E-mail: danielvieiradutra@hotmail.com
+Additional Emails: (1 item(s))
+  - danielvieiradutra@hotmail.com
+Federal Status: REGULAR
+Renda: 1229
+Income Bracket: 2
+Cbo: 141415
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MONACO
+  Complemento: Q 116 L 8 N 1065
+  Bairro: JD EUROPA
+  Cidade: GOIANIA
+  Estado: GOIAS
+  CEP: 74330-070
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MONACO
+    Complemento: Q 116 L 8 N 1065
+    Bairro: JD EUROPA
+    Cidade: GOIANIA
+    Estado: GOIAS
+    CEP: 74330-070
+    Fonte: PRINCIPAL
+  [2]
+    Rua: VALDIZAR ALEXANDRINO
+    Número: 223
+    Bairro: JOSE OSIMO
+    Cidade: TAUA - CE
+    Fonte: DATASUS
+  [3]
+    Rua: UBALDINA NEVES DE BRITO
+    Tipo: AV
+    Complemento: Q 36 LT 15 C 2
+    Bairro: JD BALNEARIO MEIA PONTE
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74590-770
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: UBALDINA NEVES DE BRITO
+    Tipo: AV
+    Número: SN
+    Complemento: Q 22 LT 13
+    Bairro: JD BALNEARIO MEIA PONTE
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74590-770
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: UBALDINA NEVES DE BRITO
+    Tipo: AV
+    Número: 15
+    Complemento: Q 22 LT
+    Bairro: JD BALNEARIO MEIA PONTE
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74590-770
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: UBALDINA NEVES DE BRITO
+    Tipo: AV
+    Número: 36
+    Complemento: LT 15 C 2
+    Bairro: JD BALNEARIO MEIA PONTE
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74590-770
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: BELGICA
+    Tipo: R
+    Número: 1065
+    Complemento: Q 116 LT 8
+    Bairro: JD EUROPA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74330-110
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (2 item(s))
+  - (62) 3088-0174
+  - (88) 99737-9844
+Cidade de Nascimento: QUITERIANOPOLIS - CE
+Cns: 706109884819230
+Rg Issue Date: 780894000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/09/2019
+    Info Date: 14/06/2008
+    Mosaic: F18
+    Mosaic New: G23
+    Mosaic Secondary: E15
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: UBALDINA NEVES DE BRITO
+      Complemento: Q 36 LT 15 C 2
+      Bairro: JD BALNEARIO MEIA PONTE
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74590-770
+      Date Added: 09/12/2014
+    [2]
+      Tipo: AV
+      Rua: UBALDINA NEVES DE BRITO
+      Número: SN
+      Complemento: Q 22 LT 13
+      Bairro: JD BALNEARIO MEIA PONTE
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74590-770
+      Date Added: 05/04/2018
+    [3]
+      Tipo: AV
+      Rua: UBALDINA NEVES DE BRITO
+      Número: 15
+      Complemento: Q 22 LT
+      Bairro: JD BALNEARIO MEIA PONTE
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74590-770
+      Date Added: 03/06/2015
+    [4]
+      Tipo: AV
+      Rua: UBALDINA NEVES DE BRITO
+      Número: 36
+      Complemento: LT 15 C 2
+      Bairro: JD BALNEARIO MEIA PONTE
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74590-770
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: BELGICA
+      Número: 1065
+      Complemento: Q 116 LT 8
+      Bairro: JD EUROPA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74330-110
+      Date Added: 24/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 35363905
+      Ddd: 62
+      Tipo: 1
+      Classificacao: C2
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 974120060
+      Ddd: 62
+      Tipo: 3
+      Classificacao: D
+      Date Added: 30/03/2011
+      Info Date: 05/03/2011
+    [3]
+      Telefone: 991598075
+      Ddd: 62
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 30/03/2011
+      Info Date: 05/03/2011
+    [4]
+      Telefone: 30880174
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/01/2014
+    [5]
+      Telefone: 36264379
+      Ddd: 62
+      Tipo: 1
+      Classificacao: B
+      Date Added: 24/03/2015
+      Info Date: 16/06/2014
+  E-mails: (1 item(s))
+    [1]
+      E-mail: danielvieiradutra@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+  Score:
+    CSB8: 115
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 93
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ANA RITA OLIVEIRA
+      Vinculo: MAE
+  Pis: 12648017315
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 922.25
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Telefones: (8 item(s))
+  - (62) 3210-9010
+  - 556232109010
+  - 556281050560
+  - (62) 3088-0174
+  - (62) 3626-4379
+  - (62) 3536-3905
+  - (62) 97412-0060
+  - (62) 99159-8075
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 750.476.321-72
+    Nome: FLAVIENY TEIXEIRA DA SILVA
+    Logradouro: UBALDINA NEVES DE BRITO
+    Número: SN
+    Bairro: JD BALNEARIO MEIA PONTE
+  [2]
+    CPF: 360.534.651-00
+    Nome: JULIO CESAR DUARTE
+    Logradouro: UBALDINA NAVES DE BRITO
+    Número: SN
+    Bairro: JD BALNEARIO MEIA PONTE
+  [3]
+    CPF: 295.387.421-68
+    Nome: LOURIVAL PEREIRA DOS SANTOS
+    Logradouro: UBALDINA NEVES DE BRITO
+    Bairro: JD BALNEARIO MEIA PONTE
+  [4]
+    CPF: 030.601.976-01
+    Nome: LUCIANO BRANDAO BORGES
+    Logradouro: UBALDINA NEVES DE BRITO
+    Número: 1
+    Bairro: JD BALNEARIO MEIA PONTE
+  [5]
+    CPF: 024.147.241-53
+    Nome: VALDIVINO MACHADO CASTRO
+    Logradouro: UBALDINA NEVES DE BRITO
+    Bairro: JD BALNEARIO MEIA PONTE
+  [6]
+    CPF: 479.301.282-53
+    Nome: VANIA STORCH
+    Logradouro: UBALDINA NEVES DE BRITO
+    Bairro: JD BALNEARIO MEIA PONTE
+  [7]
+    CPF: 018.716.541-65
+    Nome: EDUARDO ALVES DE FARIA
+    Logradouro: UBALDINA NEVES DE BRITO
+    Número: 4
+    Bairro: JD BALNEARIO MEIA PONTE
+  [8]
+    CPF: 002.814.071-00
+    Nome: LUZINEIDE MARCIANA DA CRUZ
+    Logradouro: UBALDINA NAVES DE BRITO
+    Número: SN
+    Bairro: JD BALNEARIO MEIA PONTE
+  [9]
+    CPF: 012.955.521-59
+    Nome: JAIME PEREIRA MACEDO
+    Logradouro: UBALDINA NEVES DE BRITO
+    Bairro: JD BALNEARIO MEIA PONTE
+  [10]
+    CPF: 422.571.071-87
+    Nome: CARLOS BELIZARIO DOURADO
+    Logradouro: UBALDINA NEVES DE BRITO
+    Número: 135
+    Bairro: JD BALNEARIO MEIA PONTE
+  [11]
+    CPF: 429.678.482-04
+    Nome: NORMA GOMES FRUTUOSO
+    Logradouro: UBALDINA NEVES DE BRITO
+    Número: 20
+    Bairro: JD BALNEARIO MEIA PONTE
+  [12]
+    CPF: 007.254.141-54
+    Nome: DANIEL FERREIRA DOS SANTOS
+    Logradouro: UBALDINA NEVES DE BRITO
+    Número: 22
+    Bairro: JD BALNEARIO MEIA PONTE
+  [13]
+    CPF: 008.478.481-40
+    Nome: ROSA APARECIDA DE SOUZA
+    Logradouro: UBALDINA NEVES DE BRITO
+    Bairro: JD BALNEARIO MEIA PONTE
+  [14]
+    CPF: 935.388.201-04
+    Nome: ELIZABETE MARCIANA DA CRUZ
+    Logradouro: UBALDINA NAVES DE BRITO
+    Número: SN
+    Bairro: JD BALNEARIO MEIA PONTE
+  [15]
+    CPF: 006.836.051-78
+    Nome: BRUNO HENRIQUE GRANJA DA SILVA
+    Logradouro: UBALDINA NEVES DE BRITO
+    Bairro: JD BALNEARIO MEIA PONTE
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (62) 3210-9010
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Cel Contato: +556232109010
+    Complemento: QD 19 LT 14
+    Data Retirada: 14DEC2012:00:00:00
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (62) 3088-0174
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 17DEC2012:00:39:30
+    Complemento: QD - Quadra: 22; LT - Lote: 13;
+    Data Retirada: 16APR2014:14:00:28
+    Tipo Cliente: Residencial
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (62) 3626-4379
+    Nome: EDIANA OLIVEIRA DE SOUZA
+    Cidade: GOIANIA
+    UF: GO
+    Operadora: EMBRATEL
+    Fonte: algar
+E-mails: (1 item(s))
+  - danielvieiradutra@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1229
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 922.25
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (62) 3536-3905
+    Ddd: 62
+    Número: 35363905
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: C2
+  [2]
+    Telefone: (62) 97412-0060
+    Ddd: 62
+    Número: 974120060
+    Tipo: 3
+    Data Inclusao: 30/03/2011
+    Data Informacao: 05/03/2011
+    Classificacao: D
+  [3]
+    Telefone: (62) 99159-8075
+    Ddd: 62
+    Número: 991598075
+    Tipo: 3
+    Data Inclusao: 30/03/2011
+    Data Informacao: 05/03/2011
+    Classificacao: C2
+  [4]
+    Telefone: (62) 3088-0174
+    Ddd: 62
+    Número: 30880174
+    Tipo: FIXO
+    Data Inclusao: 07/01/2014
+    Classificacao: D
+  [5]
+    Telefone: (62) 3626-4379
+    Ddd: 62
+    Número: 36264379
+    Tipo: FIXO
+    Data Inclusao: 24/03/2015
+    Data Informacao: 16/06/2014
+    Classificacao: B
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

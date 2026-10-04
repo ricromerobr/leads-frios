@@ -1,0 +1,422 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10546929710
+Data/Hora:  03/10/2026, 17:58:27
+Tempo API:  412ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 105.469.297-10
+Nome: HIGOR ARAUJO LIMA
+Primeiro Nome: HIGOR
+Sobrenome: LIMA
+Sexo: Masculino
+Data de Nascimento: 03/07/1984
+Nome da Mãe: SANDRA REGINA ARAUJO LIMA
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 024502041490
+Mosaic: C09
+Ocupação: Administrador
+Score:
+  Value: 82
+  Range: ALTISSIMO
+E-mail: akiggles@websolute.com.br
+Additional Emails: (1 item(s))
+  - akiggles@websolute.com.br
+Federal Status: REGULAR
+Renda: 1699
+Income Bracket: 2
+Cbo: 411010
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MIOSOTIS
+  Número: 9
+  Complemento: FR CS
+  Bairro: JARDIM COLORADO
+  Cidade: VILA VELHA
+  Estado: ESPIRITO SANTO
+  CEP: 29104-660
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MIOSOTIS
+    Número: 9
+    Complemento: FR CS
+    Bairro: JARDIM COLORADO
+    Cidade: VILA VELHA
+    Estado: ESPIRITO SANTO
+    CEP: 29104-660
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MIOSOTIS
+    Número: 9
+    Bairro: JARDIM COLORADO
+    Cidade: VILA VELHA - ES
+    Fonte: DATASUS
+  [3]
+    Rua: HUMBERTO SERRANO
+    Tipo: R
+    Número: 1542
+    Bairro: PR DA COSTA
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29101-460
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ARARIBOIA
+    Tipo: R
+    Número: 687
+    Complemento: C
+    Bairro: CENTRO DE VILA VELHA
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29100-340
+    Data Atualizacao: 24/06/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GUANABARA
+    Tipo: R
+    Número: 2
+    Bairro: ITAPUA
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29101-595
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: CJ
+    Rua: 0000000
+    Número: VARANDAS DE ITAPOA
+    Bairro: B ITAPOA
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 02910-128
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: 0002800
+    Número: GUANABARA
+    Bairro: ITAPUA
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29101-928
+    Fonte: ASSECC
+  [8]
+    Rua: R R FORTALEZA
+    Número: 789
+    Complemento: ED CAMARA 04 AP 301
+    Bairro: JARDIM ITAPOA
+    Estado: ES
+    CEP: 29101-400
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (27) 3349-7619
+Cidade de Nascimento: VILA VELHA - ES
+Cns: 702904515489472
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/11/2019
+    Info Date: 21/12/2008
+    Mosaic: C09
+    Mosaic New: C06
+    Mosaic Secondary: A02
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: HUMBERTO SERRANO
+      Número: 1542
+      Bairro: PR DA COSTA
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29101-460
+      Date Added: 27/07/2017
+    [2]
+      Tipo: R
+      Rua: ARARIBOIA
+      Número: 687
+      Complemento: C
+      Bairro: CENTRO DE VILA VELHA
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29100-340
+      Date Added: 15/12/2009
+    [3]
+      Tipo: R
+      Rua: MIOSOTIS
+      Número: 9
+      Complemento: CAFR
+      Bairro: JD COLORADO
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29104-660
+      Date Added: 15/08/2006
+    [4]
+      Tipo: R
+      Rua: HUMBERTO SERRANO
+      Número: 1542
+      Complemento: BL C 3 AP 202
+      Bairro: PR DA COSTA
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29101-462
+      Date Added: 23/09/2019
+    [5]
+      Tipo: R
+      Rua: GUANABARA
+      Número: 2
+      Bairro: ITAPUA
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29101-595
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32898494
+      Ddd: 27
+      Tipo: 1
+      Classificacao: D
+      Date Added: 18/06/2007
+    [2]
+      Telefone: 996009061
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [3]
+      Telefone: 996675895
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [4]
+      Telefone: 995121030
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 36292362
+      Ddd: 55
+      Tipo: 1
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: akiggles@websolute.com.br
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: DESCONHECIDO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 167
+    CSB8 FAIXA: ALTO
+    CSBA: 82
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 9040673780
+      Nome: SANDRA REGINA ARAUJO LIMA
+      Vinculo: MAE
+  Pis: 13180808291
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 795.47
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Telefones: (7 item(s))
+  - (27) 99771-2369
+  - (27) 99807-3215
+  - (27) 3289-8494
+  - (27) 99600-9061
+  - (27) 99667-5895
+  - (27) 99512-1030
+  - (55) 3629-2362
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 046.250.846-36
+    Nome: BRUNELLA TAFFNER
+    Logradouro: HUMBERTO SERRANO
+    Número: 1140
+    Bairro: PR DA COSTA
+  [2]
+    CPF: 214.400.777-20
+    Nome: IVONI SANTOS DA SILVA
+    Logradouro: HUMBERTO SERRANO
+    Número: 1375
+    Bairro: PR DA COSTA
+  [3]
+    CPF: 157.583.748-06
+    Nome: PATRICIA LOFFREDO ARANTES
+    Logradouro: HUMBERTO SERRANO
+    Número: 280
+    Bairro: PR DA COSTA
+  [4]
+    CPF: 209.926.536-49
+    Nome: ELIANE DE PAULA FERRAZ OLIVEIRA
+    Logradouro: HUMBERTO SERRANO
+    Número: 280
+    Bairro: PR DA COSTA
+  [5]
+    CPF: 086.604.507-44
+    Nome: CRISTIANO REIS JUNQUEIRA FERRAZ
+    Logradouro: HUMBERTO SERRANO
+    Número: 280
+    Bairro: PR DA COSTA
+  [6]
+    CPF: 969.706.187-49
+    Nome: ELMA ABREU BRITTO PRETTI
+    Logradouro: HUMBERTO SERRANO
+    Número: 1192
+    Bairro: PR DA COSTA
+  [7]
+    CPF: 623.259.147-04
+    Nome: NATALINA HELENA PANETO DO AMARAL
+    Logradouro: HUMBERTO SERRANO
+    Número: 40
+    Bairro: PR DA COSTA
+  [8]
+    CPF: 008.153.207-52
+    Nome: ENOQUE DA SILVA AGUM
+    Logradouro: HUMBERTO SERRANO
+    Número: 178
+    Bairro: PR DA COSTA
+  [9]
+    CPF: 053.992.857-70
+    Nome: LUCAS DE CARVALHO STHEL
+    Logradouro: HUMBERTO SERRANO
+    Número: 280
+    Bairro: PR DA COSTA
+  [10]
+    CPF: 002.377.737-08
+    Nome: WLADIMIR FIRME ZANOTTI
+    Logradouro: HUMBERTO SERRANO
+    Número: 178
+    Bairro: PR DA COSTA
+  [11]
+    CPF: 109.121.027-64
+    Nome: DANIEL GHIDETTI DE OLIVEIRA
+    Logradouro: HUMBERTO SERRANO
+    Número: 1542
+    Bairro: PR DA COSTA
+  [12]
+    CPF: 127.752.417-35
+    Nome: RAONY ONOFRE FALCAO
+    Logradouro: HUMBERTO SERRANO
+    Número: 326
+    Bairro: PR DA COSTA
+  [13]
+    CPF: 343.227.957-49
+    Nome: ESMERINO PEREIRA NETO
+    Logradouro: HUMBERTO SERRANO
+    Número: 1542
+    Bairro: PR DA COSTA
+  [14]
+    CPF: 163.048.387-78
+    Nome: ALEXIA DIAS DE ANDRADE
+    Logradouro: HUMBERTO SERRANO
+    Número: 40
+    Bairro: PR DA COSTA
+  [15]
+    CPF: 894.747.166-68
+    Nome: FABIO RIBEIRO CERQUEIRA
+    Logradouro: HUMBERTO SERRANO
+    Número: 178
+    Bairro: PR DA COSTA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (27) 99771-2369
+    Nome: HIGOR ARAUJO LIMA
+    Cidade: VILA VELHA
+    UF: ES
+  [2]
+    Telefone: (27) 99807-3215
+    Nome: HIGOR ARAUJO LIMA
+    Cidade: VILA VELHA
+    UF: ES
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (27) 99771-2369
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 09/07/2018
+    Valor Fatura: 56.99
+    Mes Referencia: 202010
+E-mails: (1 item(s))
+  - akiggles@websolute.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1699
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 795.47
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (27) 3289-8494
+    Ddd: 27
+    Número: 32898494
+    Tipo: FIXO
+    Data Inclusao: 18/06/2007
+    Classificacao: D
+  [2]
+    Telefone: (27) 99600-9061
+    Ddd: 27
+    Número: 996009061
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [3]
+    Telefone: (27) 99667-5895
+    Ddd: 27
+    Número: 996675895
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [4]
+    Telefone: (27) 99512-1030
+    Ddd: 27
+    Número: 995121030
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (55) 3629-2362
+    Ddd: 55
+    Número: 36292362
+    Tipo: FIXO
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

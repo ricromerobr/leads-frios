@@ -1,0 +1,445 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02960098579
+Data/Hora:  03/10/2026, 18:20:21
+Tempo API:  547ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 029.600.985-79
+Nome: ANTONIO CARLOS MATOS DOS SANTOS
+Primeiro Nome: ANTONIO
+Sobrenome: SANTOS
+Sexo: Masculino
+Data de Nascimento: 25/10/1987
+Nome da Mãe: IEDA BATISTA MATOS
+Nome do Pai: SEM INFORMAÇÃO
+RG: 00907010032
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: BA
+Voter Id: 112508780523
+Mosaic: F20
+Ocupação: Fiscal de loja
+Score:
+  Value: 164
+  Range: ALTISSIMO
+E-mail: antoniouruguai@yahoo.com.br
+Additional Emails: (1 item(s))
+  - antoniouruguai@yahoo.com.br
+Federal Status: REGULAR
+Renda: 1974
+Income Bracket: 2
+Cbo: 517425
+Endereço:
+  Tipo: AVENIDA
+  Rua: BONS AMIGOS
+  Bairro: URUGUAI
+  Cidade: SALVADOR
+  Estado: BAHIA
+  CEP: 40455-971
+All Addresses: (9 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: BONS AMIGOS
+    Bairro: URUGUAI
+    Cidade: SALVADOR
+    Estado: BAHIA
+    CEP: 40455-971
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANNITA MARIA DOS SANTOS
+    Número: 36
+    Bairro: FORQUILHAS
+    Cidade: SAO JOSE - SC
+    Fonte: DATASUS
+  [3]
+    Rua: BOA VISTA
+    Tipo: R
+    Número: 35
+    Complemento: C
+    Bairro: URUGUAI
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40450-290
+    Data Atualizacao: 19/10/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MIGUEL CALMON
+    Tipo: R
+    Número: 146
+    Bairro: COMERCIO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40015-010
+    Data Atualizacao: 05/11/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: MELLO MORAES FILHO
+    Tipo: R
+    Número: SN
+    Bairro: FAZ GRANDE DO RETIRO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40350-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: LUZIA
+    Tipo: PC
+    Número: 35
+    Complemento: TER
+    Bairro: URUGUAI
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40451-290
+    Data Atualizacao: 18/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: BONS AMIGOS
+    Tipo: AV
+    Número: 35
+    Complemento: C
+    Bairro: URUGUAI
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40450-500
+    Data Atualizacao: 10/10/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: MELLO MORAES FILHO
+    Bairro: FAZENDA GRANDE DO RETIRO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40350-000
+    Fonte: ASSECC
+  [9]
+    Rua: R BOA VISTA
+    Número: 0000035
+    Bairro: URUGUAI
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40450-290
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (71) 99625-1087
+  - (48) 99175-2052
+  - (71) 99157-4269
+  - (71) 98606-2861
+  - (71) 98692-1786
+  - (71) 98642-6407
+  - (71) 98673-8797
+Datasus Phones: (2 item(s))
+  - (48) 99865-3239
+  - (48) 99626-3599
+Cidade de Nascimento: SALVADOR - BA
+Cns: 707807690638214
+Rg Issue Date: 833857200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 02/07/2019
+    Rg Issuer: SSP
+    Mosaic: F20
+    Mosaic New: H29
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: BOA VISTA
+      Número: 35
+      Complemento: C
+      Bairro: URUGUAI
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40450-290
+      Date Added: 14/10/2013
+    [2]
+      Tipo: R
+      Rua: MIGUEL CALMON
+      Número: 146
+      Bairro: COMERCIO
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40015-010
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: MELLO MORAES FILHO
+      Número: SN
+      Bairro: FAZ GRANDE DO RETIRO
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40350-000
+      Date Added: 11/12/2017
+    [4]
+      Tipo: PC
+      Rua: LUZIA
+      Número: 35
+      Complemento: TER
+      Bairro: URUGUAI
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40451-290
+      Date Added: 15/01/2019
+    [5]
+      Tipo: AV
+      Rua: BONS AMIGOS
+      Número: 35
+      Complemento: C
+      Bairro: URUGUAI
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40450-500
+      Date Added: 24/07/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 986062861
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 22/10/2015
+    [2]
+      Telefone: 986921786
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/01/2016
+    [3]
+      Telefone: 986426407
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 986738797
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 996251087
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: antoniouruguai@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 256
+    CSB8 FAIXA: ALTO
+    CSBA: 164
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 4866716584
+      Nome: ANA PAULA MATOS GOMES
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 1103316567
+      Nome: SIDNEI BATISTA MATOS
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 176.081.125-49
+      Nome: IEDA BATISTA MATOS
+      Vinculo: MAE
+    [4]
+      CPF: 3497261599
+      Nome: EDNELSON BATISTA MATOS
+      Vinculo: IRMA(O)
+  Pis: 20009257653
+  Tse:
+    Titulo: 112508780523
+    Zona: 18
+    Secao: 171
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 330.41
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 043.161.655-85
+    Nome: PATRICIA DA HORA SANTOS
+    Logradouro: BOA VISTA
+    Número: 110
+    Bairro: URUGUAI
+  [2]
+    CPF: 034.266.365-81
+    Nome: ALEX SANTANA DOS SANTOS
+    Logradouro: BOA VISTA
+    Número: 58
+    Bairro: URUGUAI
+  [3]
+    CPF: 121.432.355-34
+    Nome: GEORGINA DE AQUINO CALASANS
+    Logradouro: BOA VISTA
+    Número: 65
+    Bairro: URUGUAI
+  [4]
+    CPF: 424.292.005-97
+    Nome: JADIEL PEREIRA BATISTA
+    Logradouro: BOA VISTA
+    Número: 128
+    Bairro: URUGUAI
+  [5]
+    CPF: 025.580.445-83
+    Nome: FABIO GOMES DE OLIVEIRA
+    Logradouro: BOA VISTA
+    Número: 40
+    Bairro: URUGUAI
+  [6]
+    CPF: 029.087.535-88
+    Nome: LAIS SANTOS SANTANA
+    Logradouro: BOA VISTA
+    Número: 109
+    Bairro: URUGUAI
+  [7]
+    CPF: 023.964.865-00
+    Nome: MONICA SANTOS DOS SANTOS
+    Logradouro: BOA VISTA
+    Número: 353
+    Bairro: URUGUAI
+  [8]
+    CPF: 022.338.685-52
+    Nome: DANIELA PERPETUO DOS SANTOS
+    Logradouro: BOA VISTA
+    Número: 148
+    Bairro: URUGUAI
+  [9]
+    CPF: 422.210.135-49
+    Nome: PAULO CESAR MOURA DOS SANTOS
+    Logradouro: BOA VISTA
+    Número: 314
+    Bairro: URUGUAI
+  [10]
+    CPF: 013.645.985-40
+    Nome: VALNEI BARAUNA ALVES
+    Logradouro: BOA VISTA
+    Número: 495
+    Bairro: URUGUAI
+  [11]
+    CPF: 013.113.925-80
+    Nome: CINTIA QUELI ALMEIDA DE JESUS
+    Logradouro: BOA VISTA
+    Número: 57
+    Bairro: URUGUAI
+  [12]
+    CPF: 010.113.145-33
+    Nome: EDNEIDE CALIXTO DOS SANTOS
+    Logradouro: BOA VISTA
+    Número: 54
+    Bairro: URUGUAI
+  [13]
+    CPF: 008.761.085-08
+    Nome: LEANDRO CORREIA RAMOS
+    Logradouro: BOA VISTA
+    Número: 39
+    Bairro: URUGUAI
+  [14]
+    CPF: 342.133.845-00
+    Nome: JOSE MIRANDA FERREIRA
+    Logradouro: BOA VISTA
+    Número: 119
+    Bairro: URUGUAI
+  [15]
+    CPF: 787.112.155-34
+    Nome: LEIDIJANE DOS SANTOS SILVA
+    Logradouro: BOA VISTA
+    Número: 142
+    Bairro: URUGUAI
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (71) 99625-1087
+    Nome: ANTONIO CARLOS MATOS DOS SANTOS
+    Cidade: SALVADOR
+    UF: BA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (71) 99157-4269
+    Nome: ANTONIO CARLOS MATOS DOS SANTOS
+    Cidade: SALVADOR
+    UF: BA
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (1 item(s))
+  - antoniouruguai@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1974
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 330.41
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (71) 98606-2861
+    Ddd: 71
+    Número: 986062861
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: A0
+  [2]
+    Telefone: (71) 98692-1786
+    Ddd: 71
+    Número: 986921786
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: D
+  [3]
+    Telefone: (71) 98642-6407
+    Ddd: 71
+    Número: 986426407
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [4]
+    Telefone: (71) 98673-8797
+    Ddd: 71
+    Número: 986738797
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [5]
+    Telefone: (71) 99625-1087
+    Ddd: 71
+    Número: 996251087
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 517425
+Occupation Name: Fiscal de loja
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

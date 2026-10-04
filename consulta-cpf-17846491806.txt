@@ -1,0 +1,378 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17846491806
+Data/Hora:  02/10/2026, 16:53:54
+Tempo API:  578ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 178.464.918-06
+Nome: LEANDRO DE SOUZA SILVA
+Primeiro Nome: LEANDRO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 29/05/1974
+Nome da Mãe: MARIA MADALENA FONSECA
+Nome do Pai: JOSE APARECIDO SILVA
+RG: 12817735298
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RJ
+Mosaic: F20
+Ocupação: Chefe de cozinha
+Score:
+  Value: 167
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 970
+Income Bracket: 1
+Cbo: 513405
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: HUMBERTO PENCANHA
+  Número: 1080
+  Bairro: FATIMA VALENCA
+  Cidade: VALENCA
+  Estado: RIO DE JANEIRO
+  CEP: 27600-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HUMBERTO PENCANHA
+    Número: 1080
+    Bairro: FATIMA VALENCA
+    Cidade: VALENCA
+    Estado: RIO DE JANEIRO
+    CEP: 27600-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EDUARDO JUNQUEIRA
+    Número: 536
+    Bairro: CENTRO
+    Cidade: BARRA MANSA - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: TEREZA
+    Tipo: TV
+    Número: 8
+    Complemento: AP 402
+    Bairro: CENTRO
+    Cidade: BARRA MANSA
+    Estado: RJ
+    CEP: 27330-070
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TORINO RIDIGUERES
+    Número: 655
+    Bairro: CAMBOTA
+    Cidade: VALENCA
+    Estado: RJ
+    CEP: 27600-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GERVASIO GOMES AZEVEDO
+    Tipo: R
+    Número: 74
+    Complemento: C 1
+    Bairro: FATIMA
+    Cidade: VALENCA
+    Estado: RJ
+    CEP: 27600-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: LOURENCO
+    Tipo: R
+    Número: 80
+    Complemento: ATUAL R
+    Bairro: FLORIANO
+    Cidade: BARRA MANSA
+    Estado: RJ
+    CEP: 27365-170
+    Data Atualizacao: 20/07/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: MARECHAL FLORIANO
+    Rua: AV
+    Número: 0000536
+    Bairro: CENTRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20080-002
+    Fonte: ASSECC
+  [8]
+    Tipo: HUMBERTO PENCANHA
+    Rua: R
+    Número: 0001080
+    Bairro: FATIMA VALENCA
+    Cidade: VALENCA
+    Estado: RJ
+    CEP: 27600-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (24) 3337-2094
+  - (24) 99232-1537
+  - (24) 99221-1249
+  - (24) 99847-9108
+  - (24) 3349-9798
+Datasus Phones: (1 item(s))
+  - (24) 3333-5432
+Cidade de Nascimento: BARRA MANSA - RJ
+Cns: 700808949556585
+Rg Issue Date: 709527600000
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 08/09/2019
+    Mosaic: F20
+    Mosaic New: G24
+    Mosaic Secondary: H27
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: TV
+      Rua: TEREZA
+      Número: 8
+      Complemento: AP 402
+      Bairro: CENTRO
+      Cidade: BARRA MANSA
+      Estado: RJ
+      CEP: 27330-070
+      Date Added: 02/03/2009
+    [2]
+      Rua: TORINO RIDIGUERES
+      Número: 655
+      Bairro: CAMBOTA
+      Cidade: VALENCA
+      Estado: RJ
+      CEP: 27600-000
+      Date Added: 10/10/2016
+    [3]
+      Tipo: R
+      Rua: HUMBERTO PENCANHA
+      Número: 1080
+      Bairro: FATIMA VALENCA
+      Cidade: VALENCA
+      Estado: RJ
+      CEP: 27600-000
+      Date Added: 29/07/2013
+    [4]
+      Tipo: R
+      Rua: GERVASIO GOMES AZEVEDO
+      Número: 74
+      Complemento: C 1
+      Bairro: FATIMA
+      Cidade: VALENCA
+      Estado: RJ
+      CEP: 27600-000
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: LOURENCO
+      Número: 80
+      Complemento: ATUAL R
+      Bairro: FLORIANO
+      Cidade: BARRA MANSA
+      Estado: RJ
+      CEP: 27365-170
+      Date Added: 15/12/2009
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 998479108
+      Ddd: 24
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [2]
+      Telefone: 33499798
+      Ddd: 24
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 07/03/2013
+      Info Date: 29/11/2012
+    [3]
+      Telefone: 992211249
+      Ddd: 24
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+  Score:
+    CSB8: 173
+    CSB8 FAIXA: ALTO
+    CSBA: 167
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA MADALENA FONSECA
+      Vinculo: MAE
+  Pis: 12501581239
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 642.21
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.059.806-07
+    Nome: ADELIA CRISTINA VIEIRA DE REZENDE DORNELAS
+    Logradouro: TEREZA
+    Número: 77
+    Bairro: CENTRO
+  [2]
+    CPF: 964.723.327-20
+    Nome: ROBERTO CARLOS DE OLIVEIRA
+    Logradouro: TEREZA
+    Número: 117
+    Bairro: CENTRO
+  [3]
+    CPF: 105.792.997-24
+    Nome: LEANDRO SILVA DE OLIVEIRA
+    Logradouro: TEREZA
+    Número: 140
+    Bairro: CENTRO
+  [4]
+    CPF: 090.445.197-60
+    Nome: DANIEL NEVES CURTY
+    Logradouro: TEREZA
+    Número: 82
+    Bairro: CENTRO
+  [5]
+    CPF: 120.855.077-27
+    Nome: RAFAEL DA SILVA REIS
+    Logradouro: TEREZA
+    Número: 155
+    Bairro: CENTRO
+  [6]
+    CPF: 109.616.657-77
+    Nome: FERNANDA DOS SANTOS ALIXANDRE
+    Logradouro: TEREZA
+    Número: 8
+    Bairro: CENTRO
+  [7]
+    CPF: 470.320.657-91
+    Nome: DORALICE MARIA VIGORITO HELIODORO
+    Logradouro: TEREZA
+    Número: 77
+    Bairro: CENTRO
+  [8]
+    CPF: 327.536.087-68
+    Nome: DANIEL MARQUES RODRIGUES
+    Logradouro: TEREZA
+    Número: 59
+    Bairro: CENTRO
+  [9]
+    CPF: 060.768.686-35
+    Nome: LIDIANE ALBANA RIBEIRO
+    Logradouro: TEREZA
+    Número: 8
+    Bairro: CENTRO
+  [10]
+    CPF: 121.060.757-31
+    Nome: ROGERIO LUIZ DA SILVA
+    Logradouro: TEREZA
+    Número: 152
+    Bairro: CENTRO
+  [11]
+    CPF: 144.542.127-59
+    Nome: LEONARDO LOPES GOMES
+    Logradouro: TEREZA
+    Número: 67
+    Bairro: CENTRO
+  [12]
+    CPF: 058.959.127-45
+    Nome: CARLOS EDGAR MENDONCA DE BARROS
+    Logradouro: TEREZA
+    Número: 46
+    Bairro: CENTRO
+  [13]
+    CPF: 201.972.097-34
+    Nome: MARIA APARECIDA ALVES SIQUEIRA
+    Logradouro: TEREZA
+    Número: 67
+    Bairro: CENTRO
+  [14]
+    CPF: 619.875.907-59
+    Nome: MARIA APARECIDA DA ROCHA
+    Logradouro: TEREZA
+    Número: 46
+    Bairro: CENTRO
+  [15]
+    CPF: 497.570.597-49
+    Nome: MARIA DAS GRACAS LEAL DA CRUZ DA COSTA
+    Logradouro: TEREZA
+    Número: 52
+    Bairro: CENTRO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (24) 99232-1537
+    Nome: LEANDRO DE SOUZA SILVA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [2]
+    Telefone: (24) 99221-1249
+    Nome: LEANDRO DE SOUZA SILVA
+    Cidade: VALENCA
+    UF: RJ
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (24) 99232-1537
+    Nome: LEANDRO DE SOUZA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 970
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 642.21
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (24) 99847-9108
+    Ddd: 24
+    Número: 998479108
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [2]
+    Telefone: (24) 3349-9798
+    Ddd: 24
+    Número: 33499798
+    Tipo: FIXO
+    Data Inclusao: 07/03/2013
+    Data Informacao: 29/11/2012
+    Classificacao: D2
+  [3]
+    Telefone: (24) 99221-1249
+    Ddd: 24
+    Número: 992211249
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+Occupation Code: 271105
+Occupation Name: Chefe de cozinha
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

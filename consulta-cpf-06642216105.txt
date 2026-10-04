@@ -1,0 +1,289 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06642216105
+Data/Hora:  02/10/2026, 16:45:29
+Tempo API:  425ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 066.422.161-05
+Nome: RONALD ZEIK SOUZA ALVES DA SILVA
+Primeiro Nome: RONALD
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 18/10/1999
+Nome da Mãe: MARIA KENNHYA LEONIDIO DA SILVA
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 167
+  Range: ALTISSIMO
+E-mail: ronaldsouza19@gmail.com
+Federal Status: REGULAR
+Renda: 348
+Income Bracket: 1
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: 303 NORTE AL 10
+  Complemento: LT 1
+  Bairro: PLANO DIRETOR NORTE
+  Cidade: PALMAS
+  Estado: TOCANTINS
+  CEP: 77001-272
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 303 NORTE AL 10
+    Complemento: LT 1
+    Bairro: PLANO DIRETOR NORTE
+    Cidade: PALMAS
+    Estado: TOCANTINS
+    CEP: 77001-272
+    Fonte: PRINCIPAL
+  [2]
+    Rua: 303 NORTE AL 10
+    Número: 303
+    Complemento: N ALAMEDA 10 N 2 QI 14 LT 1
+    Bairro: PLANO DIRETOR NORTE
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77001-272
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: QD 9
+    Complemento: CJ G CS 2 ITAPOA
+    Bairro: PARANOA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 71571-000
+    Data Atualizacao: 16/11/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: 303 NORTE AL 10
+    Bairro: PLANO DIRETOR NORTE
+    Cidade: PALMAS
+    Estado: GO
+    CEP: 77001-272
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (63) 98410-3809
+  - (63) 91003-6572
+  - (63) 99271-0798
+  - (63) 3224-7771
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 16/01/2019
+    Mosaic New: D11
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Rua: 303 NORTE AL 10
+      Número: 303
+      Complemento: N ALAMEDA 10 N 2 QI 14 LT 1
+      Bairro: PLANO DIRETOR NORTE
+      Cidade: PALMAS
+      Estado: TO
+      CEP: 77001-272
+      Date Added: 19/06/2018
+    [2]
+      Rua: QD 9
+      Complemento: CJ G CS 2 ITAPOA
+      Bairro: PARANOA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 71571-000
+      Date Added: 05/04/2018
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 992710798
+      Ddd: 63
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 29/03/2019
+    [2]
+      Telefone: 910036572
+      Ddd: 63
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+    [3]
+      Telefone: 32247771
+      Ddd: 63
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 17/11/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: ronaldsouza19@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 1
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 167
+    CSBA FAIXA: ALTISSIMO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 348.15
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - ronaldsouza19@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 785.999.707-04
+    Nome: ELENICE MARIA SANTANA
+    Logradouro: 303 NORTE AL 10
+    Número: 40
+    Bairro: PLANO DIRETOR NORTE
+  [2]
+    CPF: 009.531.501-27
+    Nome: LUZIVANE DIAS DE SOUSA
+    Logradouro: 303 NORTE AL 10
+    Número: 4
+    Bairro: PLANO DIRETOR NORTE
+  [3]
+    CPF: 450.401.922-15
+    Nome: GEANI JORGE DA SILVA
+    Logradouro: 303 NORTE AL 10
+    Número: 4
+    Bairro: PLANO DIRETOR NORTE
+  [4]
+    CPF: 005.849.062-00
+    Nome: ELIANE MORAIS SILVA
+    Logradouro: 303 NORTE AL 10
+    Número: 351
+    Bairro: PLANO DIRETOR NORTE
+  [5]
+    CPF: 442.930.541-20
+    Nome: ADERLI DA SILVA NOLETO
+    Logradouro: 303 NORTE AL 10
+    Bairro: PLANO DIRETOR NORTE
+  [6]
+    CPF: 022.473.091-60
+    Nome: BEATRIZ MOREIRA LIMA
+    Logradouro: 303 NORTE AL 10
+    Número: SN
+    Bairro: PLANO DIRETOR NORTE
+  [7]
+    CPF: 881.991.691-68
+    Nome: CELSO MOREIRA DE SA COUTO
+    Logradouro: 303 NORTE AL 10
+    Número: SN
+    Bairro: PLANO DIRETOR NORTE
+  [8]
+    CPF: 182.722.741-91
+    Nome: DEUSINA SARAIVA SOUZA
+    Logradouro: 303 NORTE AL 10
+    Número: 303
+    Bairro: PLANO DIRETOR NORTE
+  [9]
+    CPF: 177.890.442-49
+    Nome: ANTONIA DE SOUSA CASTRO
+    Logradouro: 303 NORTE AL 10
+    Número: 303
+    Bairro: PLANO DIRETOR NORTE
+  [10]
+    CPF: 004.245.091-80
+    Nome: FRANCISCO ANTONIO DE MOURA
+    Logradouro: 303 NORTE AL 10
+    Número: SN
+    Bairro: PLANO DIRETOR NORTE
+  [11]
+    CPF: 495.874.392-87
+    Nome: EVALDO ALVES PEREIRA
+    Logradouro: 303 NORTE AL 10
+    Bairro: PLANO DIRETOR NORTE
+  [12]
+    CPF: 029.287.391-30
+    Nome: LUIS CARLOS TEIXEIRA DE SOUSA
+    Logradouro: 303 NORTE AL 10
+    Número: SN
+    Bairro: PLANO DIRETOR NORTE
+  [13]
+    CPF: 403.093.158-83
+    Nome: TACYLLA ANDRIELLE BORGES DE ARAUJO MARIANO
+    Logradouro: 303 NORTE AL 10
+    Número: SN
+    Bairro: PLANO DIRETOR NORTE
+  [14]
+    CPF: 005.827.911-38
+    Nome: ELIOMARQUI GOMES DA SILVA
+    Logradouro: 303 NORTE AL 10
+    Bairro: PLANO DIRETOR NORTE
+  [15]
+    CPF: 134.012.438-61
+    Nome: CELSO SILVA DE LIMA
+    Logradouro: 303 NORTE AL 10
+    Número: SN
+    Bairro: PLANO DIRETOR NORTE
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (63) 91003-6572
+    Nome: RONALD ZEIK SOUZA ALVES DA SILVA
+    Cidade: PALMAS
+    UF: GO
+E-mails: (1 item(s))
+  - ronaldsouza19@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 348
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 348.15
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (63) 99271-0798
+    Ddd: 63
+    Número: 992710798
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: A2
+  [2]
+    Telefone: (63) 91003-6572
+    Ddd: 63
+    Número: 910036572
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+  [3]
+    Telefone: (63) 3224-7771
+    Ddd: 63
+    Número: 32247771
+    Tipo: FIXO
+    Data Inclusao: 17/11/2019
+    Classificacao: D2
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

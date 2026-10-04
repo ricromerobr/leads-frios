@@ -1,0 +1,442 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  27995361823
+Data/Hora:  03/10/2026, 16:42:16
+Tempo API:  247ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 279.953.618-23
+Nome: RENATO SIMOES FONTES
+Primeiro Nome: RENATO
+Sobrenome: FONTES
+Sexo: Masculino
+Data de Nascimento: 08/11/1979
+Nome da Mãe: MARIA DEOLINDA SIMOES FONTES
+Nome do Pai: SEM INFORMAÇÃO
+RG: 27060375
+Rg State: SP
+Voter Id: 252096040159
+Mosaic: D11
+Ocupação: Administrador
+Score:
+  Value: 916
+  Range: BAIXISSIMO RISCO
+E-mail: renato@megaplate.com.br
+Additional Emails: (2 item(s))
+  - renato@megaplate.com.br
+  - luana_tais25@hotmail.com
+Federal Status: REGULAR
+Renda: 2015
+Income Bracket: 3
+Cbo: 521105
+Endereço:
+  Tipo: RUA
+  Rua: JOSE ANTONIO ZERAIBE
+  Número: 100
+  Bairro: JD BOM CLIMA
+  Cidade: GUARULHOS
+  Estado: SAO PAULO
+  CEP: 07196-170
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSE ANTONIO ZERAIBE
+    Número: 100
+    Bairro: JD BOM CLIMA
+    Cidade: GUARULHOS
+    Estado: SAO PAULO
+    CEP: 07196-170
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R FRANCISCO XAVIER PAES BARRETO
+    Número: 67
+    Bairro: PENHA
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: FRANCISCO XAVIER PAES BARRETO
+    Número: 67
+    Bairro: PENHA
+    Estado: SP
+    Fonte: MEC
+  [4]
+    Rua: FRANCISCO XAVIER PAES BARRETO
+    Tipo: R
+    Número: 67
+    Complemento: 1
+    Bairro: VL S GERALDO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03608-040
+    Data Atualizacao: 17/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ALEXANDRE MACHADO
+    Tipo: R
+    Número: 24
+    Complemento: AC 1
+    Bairro: VL AUGUSTA
+    Cidade: GUARULHOS
+    Estado: SP
+    CEP: 07040-040
+    Data Atualizacao: 05/02/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DO CORREIO
+    Tipo: R
+    Número: 43
+    Bairro: GOPOUVA
+    Cidade: GUARULHOS
+    Estado: SP
+    CEP: 07050-020
+    Data Atualizacao: 16/02/2012
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: FRANCISCO XAVIER PAES BARRETO
+    Tipo: R
+    Número: 16
+    Bairro: VL S GERALDO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03608-040
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 4
+  List: (4 item(s))
+    [1]
+      Marca: VW
+      Modelo: SANTANA GL
+      Ano: 1989
+    [2]
+      Marca: HONDA
+      Modelo: FIT EX
+      Ano: 2006
+    [3]
+      Marca: FORD
+      Modelo: COURIER L 1.6 FLEX
+      Ano: 2008
+    [4]
+      Marca: VW
+      Modelo: VOYAGE GL
+      Ano: 1991
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 705607461089811
+Mec:
+  Titulo Eleitor: 0252096040159
+Paycom:
+  E-mail: luana_tais25@hotmail.com
+  Data de Nascimento: 08/11/1979
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Rua Francisco Xavier Paes Barreto, 67 casa 2
+    Bairro: Vila São Geraldo
+    Cidade: São Paulo
+    Estado: São Paulo
+    País: BRA
+    CEP: 03608-040
+    Telephone: (11) 4321-1234
+Telefones: (6 item(s))
+  - (11) 4321-1234
+  - (11) 2941-4988
+  - (11) 2414-4248
+  - (11) 2422-4953
+  - (11) 2957-0939
+  - (11) 99244-3779
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/11/2019
+    Info Date: 01/01/2000
+    Rg State: SP
+    Mosaic: D11
+    Mosaic New: A02
+    Mosaic Secondary: G22
+    Income Bracket Id: 5
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: FRANCISCO XAVIER PAES BARRETO
+      Número: 67
+      Complemento: 1
+      Bairro: VL S GERALDO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03608-040
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: ALEXANDRE MACHADO
+      Número: 24
+      Complemento: AC 1
+      Bairro: VL AUGUSTA
+      Cidade: GUARULHOS
+      Estado: SP
+      CEP: 07040-040
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: DO CORREIO
+      Número: 43
+      Bairro: GOPOUVA
+      Cidade: GUARULHOS
+      Estado: SP
+      CEP: 07050-020
+      Date Added: 08/09/2010
+    [4]
+      Tipo: AV
+      Rua: JOSE ANTONIO ZERAIBE
+      Número: 100
+      Bairro: JD BOM CLIMA
+      Cidade: GUARULHOS
+      Estado: SP
+      CEP: 07196-170
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: FRANCISCO XAVIER PAES BARRETO
+      Número: 16
+      Bairro: VL S GERALDO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03608-040
+      Date Added: 02/02/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 29414988
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+      Info Date: 01/01/2000
+    [2]
+      Telefone: 24144248
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 15/12/2014
+      Info Date: 18/02/2006
+    [3]
+      Telefone: 24224953
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 29570939
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 992443779
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A
+      Date Added: 20/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: renato@megaplate.com.br
+      Priority: 1
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: S
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 855
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 916
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 256.510.358-18
+      Nome: RICARDO SIMOES FONTES
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 268.345.998-00
+      Nome: REGIANE PENHA SIMOES FONTES
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 163.226.758-69
+      Nome: MARIA DEOLINDA SIMOES FONTES
+      Vinculo: MAE
+  Pis: 12834377938
+  Tse:
+    Titulo: 252096040159
+    Zona: 252
+    Secao: 70
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2976.49
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 021.366.418-67
+    Nome: ELISABETE BERTONI
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 98
+    Bairro: VL S GERALDO
+  [2]
+    CPF: 573.237.128-15
+    Nome: HUGO BERTONI
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 98
+    Bairro: VL S GERALDO
+  [3]
+    CPF: 256.351.158-53
+    Nome: ERNESTO FITORRA DOS SANTOS
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 120
+    Bairro: VL S GERALDO
+  [4]
+    CPF: 295.827.848-49
+    Nome: OSVALDINO LIMA DE ANDRADE
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 21
+    Bairro: VL S GERALDO
+  [5]
+    CPF: 010.301.568-08
+    Nome: MARIA HELENA VITERI LHAMAS SAMPAIO
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 36
+    Bairro: VL S GERALDO
+  [6]
+    CPF: 277.434.008-08
+    Nome: YGOR HENRIQUE PIO DA SILVA
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 73
+    Bairro: VL S GERALDO
+  [7]
+    CPF: 295.827.848-49
+    Nome: OSVALDINO LIMA DE ANDRADE
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 49
+    Bairro: VL S GERALDO
+  [8]
+    CPF: 063.376.655-03
+    Nome: ELICIVALDO MACEDO SANTOS
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 200
+    Bairro: VL S GERALDO
+  [9]
+    CPF: 995.110.708-78
+    Nome: IRENE HUBER DO NASCIMENTO
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 28
+    Bairro: VL S GERALDO
+  [10]
+    CPF: 279.445.768-30
+    Nome: MAYUME CONSTANTINO SHIMOMURA DOS REIS
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 34
+    Bairro: VL S GERALDO
+  [11]
+    CPF: 260.771.618-70
+    Nome: FERNANDA DE FREITAS DA COSTA
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 52
+    Bairro: VL S GERALDO
+  [12]
+    CPF: 281.965.338-37
+    Nome: VIVIANE KIDANI DUALIBI
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 63
+    Bairro: VL S GERALDO
+  [13]
+    CPF: 283.745.808-28
+    Nome: BIANCA VIEIRA LOPES
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 54
+    Bairro: VL S GERALDO
+  [14]
+    CPF: 342.556.988-05
+    Nome: FLAVIA SOARES FLORIANO
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 58
+    Bairro: VL S GERALDO
+  [15]
+    CPF: 256.510.358-18
+    Nome: RICARDO SIMOES FONTES
+    Logradouro: FRANCISCO XAVIER PAES BARRETO
+    Número: 67
+    Bairro: VL S GERALDO
+E-mails: (2 item(s))
+  - renato@megaplate.com.br
+  - luana_tais25@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2015
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2976.49
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2941-4988
+    Ddd: 11
+    Número: 29414988
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 01/01/2000
+    Classificacao: D2
+  [2]
+    Telefone: (11) 2414-4248
+    Ddd: 11
+    Número: 24144248
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 18/02/2006
+    Classificacao: C
+  [3]
+    Telefone: (11) 2422-4953
+    Ddd: 11
+    Número: 24224953
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: C
+  [4]
+    Telefone: (11) 2957-0939
+    Ddd: 11
+    Número: 29570939
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: C
+  [5]
+    Telefone: (11) 99244-3779
+    Ddd: 11
+    Número: 992443779
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: A
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

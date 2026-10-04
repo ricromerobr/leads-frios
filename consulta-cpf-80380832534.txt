@@ -1,0 +1,463 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  80380832534
+Data/Hora:  03/10/2026, 19:13:53
+Tempo API:  831ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 803.808.325-34
+Nome: JAMILLY CHAGAS DIAS GUSMAO
+Primeiro Nome: JAMILLY
+Sobrenome: GUSMAO
+Sexo: Feminino
+Data de Nascimento: 10/12/1982
+Nome da Mãe: MARIA JOSE CHAGAS FERNANDES
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 105229050590
+Mosaic: D13
+Ocupação: Comerciante varejista
+Score:
+  Value: 584
+  Range: BAIXO
+E-mail: jamilly.gusmao@hotmail.com
+Additional Emails: (4 item(s))
+  - jamilly.gusmao@hotmail.com
+  - professores.ne@gmail.com
+  - jamillycdgusmao@gmail.com
+  - uarangusmao@hotmail.com
+Federal Status: REGULAR
+Renda: 16386
+Income Bracket: 8
+Cbo: 142115
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: JOSE PEREIRA DE OLIVEIRA
+  Número: 4
+  Bairro: CANDEIAS
+  Cidade: VITORIA DA CONQUISTA
+  Estado: BAHIA
+  CEP: 45028-894
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSE PEREIRA DE OLIVEIRA
+    Número: 4
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BAHIA
+    CEP: 45028-894
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R JOSE PEREIRA DE OLIVEIRA
+    Número: 4
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA - BA
+    Fonte: DATASUS
+  [3]
+    Rua: AVENIDA IVO FREIRE DE AGUIAR
+    Número: 652
+    Complemento: NOVA ESCOLA
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BA
+    CEP: 45050-460
+    Fonte: SARAIVA
+  [4]
+    Rua: IVO FREIRE DE AGUIAR
+    Tipo: AV
+    Número: 652
+    Complemento: COLEGIO
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BA
+    CEP: 45028-095
+    Data Atualizacao: 18/03/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE PEREIRA DE OLIVEIRA
+    Tipo: R
+    Número: 401
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BA
+    CEP: 45028-894
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: 0000000
+    Número: JOSE PEREIRA DE OLIVEIRA
+    Bairro: CANDEIAS
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BA
+    CEP: 45028-894
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: PROFESSORA MARIA LEAL
+    Número: 90
+    Bairro: CRUZEIRO
+    Cidade: VITORIA DA CONQUISTA
+    Estado: BA
+    CEP: 45040-070
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (77) 98803-9394
+  - (77) 34244-7921
+  - +55 (77) 98859-3633
+  - (77) 98818-3112
+  - (77) 3028-0706
+  - +55 (77) 98863-4399
+  - 557730280706
+  - (77) 3082-7991
+  - (77) 98859-3633
+  - (77) 3420-1114
+  - (77) 98826-1981
+Datasus Phones: (1 item(s))
+  - (77) 8859-3633
+Cidade de Nascimento: VITORIA DA CONQUISTA - BA
+Cns: 705004033131154
+Saraiva:
+  Customer Id: 1562185
+  Telefone: (77) 34244-7921
+  E-mail: professores.ne@gmail.com
+  Data de Nascimento: 10/12/1982
+Paycom:
+  E-mail: jamillycdgusmao@gmail.com
+  Data de Nascimento: 06/07/1990
+  Created At: 2018-07-20 09:23:46
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Ivo Freire de Aguiar
+    Número: 660
+    Complemento: Nova Escola
+    Bairro: Candeias
+    Cidade: Vitória da Conquista
+    Estado: BA
+    País: BRA
+    CEP: 45028-095
+    Telephone: +55 (77) 98859-3633
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 28/08/2019
+    Mosaic: D13
+    Mosaic New: G22
+    Mosaic Secondary: G23
+  Endereços: (3 item(s))
+    [1]
+      Tipo: AV
+      Rua: IVO FREIRE DE AGUIAR
+      Número: 652
+      Complemento: COLEGIO
+      Bairro: CANDEIAS
+      Cidade: VITORIA DA CONQUISTA
+      Estado: BA
+      CEP: 45028-095
+      Date Added: 06/05/2011
+    [2]
+      Tipo: R
+      Rua: JOSE PEREIRA DE OLIVEIRA
+      Número: 4
+      Complemento: AP 1
+      Bairro: CANDEIAS
+      Cidade: VITORIA DA CONQUISTA
+      Estado: BA
+      CEP: 45028-894
+      Date Added: 17/12/2018
+    [3]
+      Tipo: R
+      Rua: JOSE PEREIRA DE OLIVEIRA
+      Número: 401
+      Bairro: CANDEIAS
+      Cidade: VITORIA DA CONQUISTA
+      Estado: BA
+      CEP: 45028-894
+      Date Added: 29/03/2013
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 30827991
+      Ddd: 77
+      Tipo: 1
+      Classificacao: B
+      Date Added: 16/04/2009
+      Info Date: 13/06/2011
+    [2]
+      Telefone: 34201114
+      Ddd: 77
+      Tipo: 1
+      Classificacao: B
+      Date Added: 16/04/2009
+      Info Date: 30/08/2013
+    [3]
+      Telefone: 988039394
+      Ddd: 77
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [4]
+      Telefone: 988261981
+      Ddd: 77
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 988593633
+      Ddd: 77
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/09/2016
+  E-mails: (4 item(s))
+    [1]
+      E-mail: jamillycdgusmao@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 01/06/2016
+    [2]
+      E-mail: uarangusmao@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [3]
+      E-mail: jamilly.gusmao@hotmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: professores.ne@gmail.com
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 369
+    CSB8 FAIXA: MEDIO
+    CSBA: 584
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA JOSE CHAGAS FERNANDES
+      Vinculo: MAE
+  Pis: 12732377041
+  Tse:
+    Titulo: 105229050590
+    Zona: 41
+    Secao: 140
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 012.250.935-89
+    Nome: MARCUS TANURI MARQUES FILHO
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 526
+    Bairro: CANDEIAS
+  [2]
+    CPF: 333.035.095-49
+    Nome: JESULINO FERREIRA DA SILVA FILHO
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 25
+    Bairro: CANDEIAS
+  [3]
+    CPF: 997.869.075-15
+    Nome: MARCELE BUJARD
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 900
+    Bairro: CANDEIAS
+  [4]
+    CPF: 242.292.535-91
+    Nome: CACILDA DOS ANJOS TRINDADE
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 900
+    Bairro: CANDEIAS
+  [5]
+    CPF: 008.577.935-00
+    Nome: ANTONIO MOURA DOS SANTOS
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 299
+    Bairro: CANDEIAS
+  [6]
+    CPF: 509.317.175-15
+    Nome: EDNA DE SOUZA FRANCA
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 900
+    Bairro: CANDEIAS
+  [7]
+    CPF: 573.543.915-49
+    Nome: ELIANA MAGALHAES FAGUNDES
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 900
+    Bairro: CANDEIAS
+  [8]
+    CPF: 261.029.198-15
+    Nome: JOSEMIR FERREIRA DA SILVA
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 1
+    Bairro: CANDEIAS
+  [9]
+    CPF: 031.057.846-91
+    Nome: ITAMAR SOARES
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 25
+    Bairro: CANDEIAS
+  [10]
+    CPF: 525.840.625-34
+    Nome: VITORIA DUTRA DA SILVA
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 1120
+    Bairro: CANDEIAS
+  [11]
+    CPF: 044.331.575-20
+    Nome: STELA DALVA BRUNO BACELAR DE OLIVEIRA
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 900
+    Bairro: CANDEIAS
+  [12]
+    CPF: 346.946.925-34
+    Nome: ROGERIO MOREIRA FERRAZ DE BRITO
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 350
+    Bairro: CANDEIAS
+  [13]
+    CPF: 919.615.305-97
+    Nome: CREMILDA SOUZA GOMES
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 250
+    Bairro: CANDEIAS
+  [14]
+    CPF: 247.280.715-53
+    Nome: MARIA SONIA DOS SANTOS SILVA
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 250
+    Bairro: CANDEIAS
+  [15]
+    CPF: 692.574.935-04
+    Nome: DULCINEIA TRINDADE ROCHA
+    Logradouro: IVO FREIRE DE AGUIAR
+    Número: 660
+    Bairro: CANDEIAS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (77) 98818-3112
+    Nome: JAMILLY CHAGAS DIAS
+    Cidade: VITORIA DA CONQUISTA
+    UF: BA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (77) 3028-0706
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Cel Contato: +5577988634399
+    Complemento: AP - Apartamento: 2;
+    Data Retirada: 06DEC2017:15:18:28
+    Tipo Cliente: Residencial
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (77) 3082-7991
+    Nome: JAMILLY CHAGAS DIAS
+    Cidade: VITORIA DA CONQUISTA
+    UF: BA
+    Operadora: EMBRATEL - BA
+    Fonte: algar
+  [2]
+    Telefone: (77) 98859-3633
+    Nome: JAMILLY CHAGAS DIAS GUSMAO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - jamilly.gusmao@hotmail.com
+  - professores.ne@gmail.com
+  - jamillycdgusmao@gmail.com
+  - uarangusmao@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 16386
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: JAMILLY CHAGAS DIAS GUSMAO
+    Ano Vestibular: 2009
+    Faculdade: FACULDADE JUVANCIO TERRA
+    Curso: SECRETARIADO EXECUTIVO TRILINGAE   SECRETARIADO EXECUTIVO
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (77) 3082-7991
+    Ddd: 77
+    Número: 30827991
+    Tipo: FIXO
+    Data Inclusao: 16/04/2009
+    Data Informacao: 13/06/2011
+    Classificacao: B
+  [2]
+    Telefone: (77) 3420-1114
+    Ddd: 77
+    Número: 34201114
+    Tipo: FIXO
+    Data Inclusao: 16/04/2009
+    Data Informacao: 30/08/2013
+    Classificacao: B
+  [3]
+    Telefone: (77) 98803-9394
+    Ddd: 77
+    Número: 988039394
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [4]
+    Telefone: (77) 98826-1981
+    Ddd: 77
+    Número: 988261981
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (77) 98859-3633
+    Ddd: 77
+    Número: 988593633
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: A0
+Occupation Code: 141410
+Occupation Name: Comerciante varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

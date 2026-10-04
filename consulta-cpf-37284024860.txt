@@ -1,0 +1,286 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  37284024860
+Data/Hora:  03/10/2026, 22:08:58
+Tempo API:  691ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 372.840.248-60
+Nome: RENATO DOS SANTOS PIRES
+Primeiro Nome: RENATO
+Sobrenome: PIRES
+Sexo: Masculino
+Data de Nascimento: 06/04/1990
+Nome da Mãe: MARCIA DOS SANTOS PIRES
+Nome do Pai: APARECIDO CASSIANO PIRES
+Voter Id: 362988600191
+Mosaic: F20
+Ocupação: Motofretista
+Score:
+  Value: 674
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 836
+Income Bracket: 1
+Cbo: 519110
+Endereço:
+  Tipo: RUA
+  Rua: HENRI MARTIN
+  Número: 54
+  Bairro: VL REMO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05864-070
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HENRI MARTIN
+    Número: 54
+    Bairro: VL REMO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05864-070
+    Fonte: PRINCIPAL
+  [2]
+    Rua: COMENDADOR ANTUNES DOS SANTOS
+    Número: 310
+    Bairro: JARDIM MARACA
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: IURUTI
+    Tipo: R
+    Número: 56
+    Bairro: JD DO COLEGIO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05884-050
+    Data Atualizacao: 07/07/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: IURUTI
+    Rua: R
+    Número: 0000056
+    Bairro: JARDIM DO COLEGIO
+    Cidade: SP
+    Estado: SAO PAULO
+    CEP: 05884-050
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (11) 93211-1688
+  - (11) 5870-9820
+  - (11) 99492-6850
+  - (11) 99587-0982
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 707000804257339
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/08/2019
+    Info Date: 16/12/2008
+    Mosaic: F20
+    Mosaic New: D13
+    Mosaic Secondary: D09
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: IURUTI
+      Número: 56
+      Bairro: JD DO COLEGIO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05884-050
+      Date Added: 02/03/2009
+    [2]
+      Tipo: R
+      Rua: HENRI MARTIN
+      Número: 54
+      Bairro: VL REMO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05864-070
+      Date Added: 28/02/2013
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 58709820
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/03/2009
+      Info Date: 03/02/2014
+    [2]
+      Telefone: 994926850
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [3]
+      Telefone: 995870982
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 19/07/2017
+  Score:
+    CSB8: 57
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 674
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 146.897.458-03
+      Nome: MARCIA DOS SANTOS PIRES
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 003.917.028-40
+    Nome: APARECIDO CASSIANO PIRES
+    Logradouro: IURUTI
+    Número: 56
+    Bairro: JD DO COLEGIO
+  [2]
+    CPF: 284.946.108-30
+    Nome: BENEDICTO FABIO SANTOS
+    Logradouro: IURUTI
+    Número: 56
+    Bairro: JD DO COLEGIO
+  [3]
+    CPF: 022.437.325-05
+    Nome: JUNIOR QUEIROZ BRITO
+    Logradouro: IURUTI
+    Número: 60
+    Bairro: JD DO COLEGIO
+  [4]
+    CPF: 329.605.878-80
+    Nome: ADMILSON ANDRADE MOREIRA
+    Logradouro: IURUTI
+    Número: 60
+    Bairro: JD DO COLEGIO
+  [5]
+    CPF: 153.695.888-30
+    Nome: KATIA CRISTINA TENORIO CAVALCANTI BELO
+    Logradouro: IURUTI
+    Número: 2
+    Bairro: JD DO COLEGIO
+  [6]
+    CPF: 337.217.048-27
+    Nome: FERNANDO SILVA MENDES
+    Logradouro: IURUTI
+    Número: 28
+    Bairro: JD DO COLEGIO
+  [7]
+    CPF: 050.828.045-10
+    Nome: SIMAO CEZAR TEIXEIRA BARBOSA DOS SANTOS
+    Logradouro: IURUTI
+    Número: 60
+    Bairro: JD DO COLEGIO
+  [8]
+    CPF: 344.558.428-10
+    Nome: BRUNO REINOLDES DA SILVA
+    Logradouro: IURUTI
+    Número: 60
+    Bairro: JD DO COLEGIO
+  [9]
+    CPF: 338.403.018-40
+    Nome: ANDRESSA DA SILVA FELIPPE
+    Logradouro: IURUTI
+    Número: 28
+    Bairro: JD DO COLEGIO
+  [10]
+    CPF: 066.718.333-70
+    Nome: INACIO DA CONCEICAO
+    Logradouro: IURUTI
+    Número: 28
+    Bairro: JD DO COLEGIO
+  [11]
+    CPF: 146.897.458-03
+    Nome: MARCIA DOS SANTOS PIRES
+    Logradouro: IURUTI
+    Número: 56
+    Bairro: JD DO COLEGIO
+  [12]
+    CPF: 072.769.434-02
+    Nome: FRANCISCO DAS CHAGAS ALVES DO NASCIMENTO
+    Logradouro: IURUTI
+    Número: 2
+    Bairro: JD DO COLEGIO
+  [13]
+    CPF: 304.304.608-05
+    Nome: VIVIANE CAMPOS NOGUEIRA DA SILVA
+    Logradouro: IURUTI
+    Número: 13
+    Bairro: JD DO COLEGIO
+  [14]
+    CPF: 218.356.178-59
+    Nome: MARCELO MELO DE CASTRO
+    Logradouro: IURUTI
+    Número: 17
+    Bairro: JD DO COLEGIO
+  [15]
+    CPF: 302.851.678-04
+    Nome: JOSE DE JESUS ARAUJO JUNIOR
+    Logradouro: IURUTI
+    Número: 8
+    Bairro: JD DO COLEGIO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 93211-1688
+    Nome: RENATO DOS SANTOS PIRES
+    Cidade: SP
+    UF: SAO PAULO
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 93211-1688
+    Nome: RENATO DOS SANTOS PIRES
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 836
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 5870-9820
+    Ddd: 11
+    Número: 58709820
+    Tipo: FIXO
+    Data Inclusao: 02/03/2009
+    Data Informacao: 03/02/2014
+    Classificacao: D2
+  [2]
+    Telefone: (11) 99492-6850
+    Ddd: 11
+    Número: 994926850
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (11) 99587-0982
+    Ddd: 11
+    Número: 995870982
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D2
+Occupation Code: 519110
+Occupation Name: Motofretista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

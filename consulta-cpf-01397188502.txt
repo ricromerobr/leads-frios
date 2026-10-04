@@ -1,0 +1,446 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01397188502
+Data/Hora:  03/10/2026, 22:38:52
+Tempo API:  425ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 013.971.885-02
+Nome: MARCIO GARCIA CARVALHO
+Primeiro Nome: MARCIO
+Sobrenome: CARVALHO
+Sexo: Masculino
+Data de Nascimento: 02/03/1983
+Nome da Mãe: MARIA LOURDES GARCIA CARVALHO
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 107459740540
+Mosaic: J37
+Ocupação: Dirigente do serviço público estadual e distrital
+Score:
+  Value: 160
+  Range: ALTISSIMO
+E-mail: marciogarcia02@hotmail.com
+Additional Emails: (3 item(s))
+  - marciogarcia02@hotmail.com
+  - mgcarvalho02@yahoo.com
+  - mgcarvalho02@yahoo.com.br
+Federal Status: REGULAR
+Renda: 5764
+Income Bracket: 5
+Cbo: 111410
+Endereço:
+  Tipo: RUA
+  Rua: HORACIO CESAR
+  Número: 2
+  Bairro: DOIS DE JULHO
+  Cidade: SALVADOR
+  Estado: BAHIA
+  CEP: 40060-350
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+    Cidade: SALVADOR
+    Estado: BAHIA
+    CEP: 40060-350
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R HORACIO CESAR EDIFICIO STUDIO 1
+    Número: 2
+    Bairro: AFLITOS
+    Cidade: SALVADOR - BA
+    Fonte: DATASUS
+  [3]
+    Rua: RUA HORÁCIO CÉSAR
+    Número: 02
+    Complemento: EDF. STUDIO UM,
+    Bairro: DOIS DE JULHO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40060-350
+    Fonte: SARAIVA
+  [4]
+    Rua: HORACIO CESAR
+    Tipo: R
+    Número: 1
+    Complemento: 2
+    Bairro: DOIS DE JULHO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40060-350
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ROMA DO BAIRRO BARCELOS
+    Tipo: TV
+    Número: 40
+    Bairro: ROCINHA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22451-510
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: SEM ENDERECO
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: BA
+    CEP: 00000-000
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: HORACIO CESAR
+    Número: 0000002
+    Bairro: CENTRO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40060-350
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (71) 98847-4853
+  - (71) 99296-7468
+  - (71) 99970-6293
+  - (71) 3565-4853
+  - (71) 99917-2455
+  - (71) 3329-1182
+  - (75) 98102-6831
+Datasus Phones: (1 item(s))
+  - (71) 9917-2455
+Cidade de Nascimento: INVALIDO
+Cns: 705000083327652
+Saraiva:
+  Customer Id: 6319733
+  Telefone: (71) 3565-4853
+  E-mail: marciogarcia02@hotmail.com
+  Data de Nascimento: 02/03/1983
+Paycom:
+  E-mail: marciogarcia02@hotmail.com
+  Data de Nascimento: 30/12/1988
+  Created At: 2020-03-28 12:43:40
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Marquês de Caravelas
+    Número: 314
+    Complemento: Apto. 301
+    Bairro: Barra
+    Cidade: Salvador
+    Estado: BA
+    País: BRA
+    CEP: 40140-240
+    Telephone: 188474853
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/08/2019
+    Info Date: 24/03/2006
+    Mosaic: J37
+    Mosaic New: E17
+    Mosaic Secondary: C06
+    Income Bracket Id: 5
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: HORACIO CESAR
+      Número: 2
+      Complemento: AP 103 2
+      Bairro: DOIS DE JULHO
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40060-350
+      Date Added: 29/07/2013
+    [2]
+      Tipo: R
+      Rua: HORACIO CESAR
+      Número: 1
+      Complemento: 2
+      Bairro: DOIS DE JULHO
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40060-350
+      Date Added: 04/06/2019
+    [3]
+      Tipo: TV
+      Rua: ROMA DO BAIRRO BARCELOS
+      Número: 40
+      Bairro: ROCINHA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22451-510
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33291182
+      Ddd: 71
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 24/03/2006
+    [2]
+      Telefone: 999172455
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [3]
+      Telefone: 988474853
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/07/2013
+    [4]
+      Telefone: 981026831
+      Ddd: 75
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/11/2013
+    [5]
+      Telefone: 992967468
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 23/08/2016
+  E-mails: (3 item(s))
+    [1]
+      E-mail: mgcarvalho02@yahoo.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+    [2]
+      E-mail: mgcarvalho02@yahoo.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2017
+    [3]
+      E-mail: marciogarcia02@hotmail.com
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSBA: 160
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 114.102.305-97
+      Nome: MARIA DE LOURDES GARCIA CARVALHO
+      Vinculo: MAE
+    [2]
+      CPF: 2657929591
+      Nome: PEDRO ELOI DA SILVA CARVALHO
+      Vinculo: PAI
+    [3]
+      CPF: 205343538
+      Nome: MICHELLE GARCIA CARVALHO
+      Vinculo: IRMA(O)
+  Pis: 19034795813
+  Tse:
+    Titulo: 107459740540
+    Zona: 108
+    Secao: 74
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2632.92
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 178.622.725-87
+    Nome: JOANA ANGELICA BARROS PALMA
+    Logradouro: HORACIO CESAR
+    Número: 4
+    Bairro: DOIS DE JULHO
+  [2]
+    CPF: 019.139.335-55
+    Nome: RAFAELA MATOS DE SOUZA
+    Logradouro: HORACIO CESAR
+    Número: 42
+    Bairro: DOIS DE JULHO
+  [3]
+    CPF: 004.258.665-80
+    Nome: NADIOMARA DE OLIVEIRA DE JESUS
+    Logradouro: HORACIO CESAR
+    Número: 64
+    Bairro: DOIS DE JULHO
+  [4]
+    CPF: 801.873.405-44
+    Nome: TIAGO GOMES LIMA
+    Logradouro: HORACIO CESAR
+    Número: SN
+    Bairro: DOIS DE JULHO
+  [5]
+    CPF: 576.620.455-87
+    Nome: ROBENILSON DOS SANTOS LOPES
+    Logradouro: HORACIO CESAR
+    Número: 10
+    Bairro: DOIS DE JULHO
+  [6]
+    CPF: 614.491.485-49
+    Nome: ALDAINA BASTOS DOS SANTOS
+    Logradouro: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+  [7]
+    CPF: 860.375.325-32
+    Nome: GABRIEL ROCHA PRESIDIO
+    Logradouro: HORACIO CESAR
+    Número: 1
+    Bairro: DOIS DE JULHO
+  [8]
+    CPF: 006.001.725-20
+    Nome: RENAN SANTANA BARROS
+    Logradouro: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+  [9]
+    CPF: 115.934.235-00
+    Nome: HILDETE TEIXEIRA BARBOSA
+    Logradouro: HORACIO CESAR
+    Número: 1
+    Bairro: DOIS DE JULHO
+  [10]
+    CPF: 903.354.495-49
+    Nome: GEORGE DA HORA SILVA
+    Logradouro: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+  [11]
+    CPF: 471.466.305-44
+    Nome: ERICO ISAAC SEVERINO NASCIMENTO AMARAL
+    Logradouro: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+  [12]
+    CPF: 175.787.105-59
+    Nome: MARIA DUCE VELOSO DE BRITO
+    Logradouro: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+  [13]
+    CPF: 223.711.845-00
+    Nome: MARINALVA QUEIROZ NERY
+    Logradouro: HORACIO CESAR
+    Número: 10
+    Bairro: DOIS DE JULHO
+  [14]
+    CPF: 216.142.885-34
+    Nome: VITAL COVA FILHO
+    Logradouro: HORACIO CESAR
+    Número: 41
+    Bairro: DOIS DE JULHO
+  [15]
+    CPF: 036.240.485-20
+    Nome: JOSE CARLOS DA SILVA
+    Logradouro: HORACIO CESAR
+    Número: 2
+    Bairro: DOIS DE JULHO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (71) 99296-7468
+    Nome: MARCIO GARCIA CARVALHO
+    Cidade: [empty]
+    UF: BA
+  [2]
+    Telefone: (71) 98847-4853
+    Nome: MARCIO GARCIA CARVALHO
+    Cidade: SALVADOR
+    UF: BA
+  [3]
+    Telefone: (71) 99917-2455
+    Nome: MARCIO GARCIA CARVALHO
+    Cidade: SALVADOR
+    UF: BA
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (71) 99296-7468
+    Nome: MARCIO GARCIA CARVALHO
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (3 item(s))
+  - marciogarcia02@hotmail.com
+  - mgcarvalho02@yahoo.com
+  - mgcarvalho02@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 5
+Renda Estimativas:
+  Presumida:
+    Valor: 5764
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2632.92
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (71) 3329-1182
+    Ddd: 71
+    Número: 33291182
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 24/03/2006
+    Classificacao: D
+  [2]
+    Telefone: (71) 99917-2455
+    Ddd: 71
+    Número: 999172455
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [3]
+    Telefone: (71) 98847-4853
+    Ddd: 71
+    Número: 988474853
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: A0
+  [4]
+    Telefone: (75) 98102-6831
+    Ddd: 75
+    Número: 981026831
+    Tipo: 3
+    Data Inclusao: 04/11/2013
+    Classificacao: D
+  [5]
+    Telefone: (71) 99296-7468
+    Ddd: 71
+    Número: 992967468
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A1
+Occupation Code: 111410
+Occupation Name: Dirigente do serviço público estadual e distrital
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,353 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  85459410991
+Data/Hora:  04/10/2026, 14:00:55
+Tempo API:  725ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 854.594.109-91
+Nome: SANDRO MARCOS DOS SANTOS VIEIRA
+Primeiro Nome: SANDRO
+Sobrenome: VIEIRA
+Sexo: Masculino
+Data de Nascimento: 23/10/1972
+Nome da Mãe: MARIA DE LOURDES DOS SANTOS VIEIRA
+Nome do Pai: JOAO VIEIRA
+RG: 2381174
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RS
+Voter Id: 026185160949
+Mosaic: E17
+Ocupação: Motorista de carro de passeio
+Score:
+  Value: 225
+  Range: ALTO
+E-mail: sandromocl@gmail.com
+Additional Emails: (1 item(s))
+  - sandromocl@gmail.com
+Federal Status: REGULAR
+Renda: 1590
+Income Bracket: 2
+Cbo: 782305
+Endereço:
+  Tipo: RUA
+  Rua: BRAULIO ARAUJO DA SILVA
+  Complemento: CS 2
+  Bairro: AMBROSIO
+  Cidade: GAROPABA
+  Estado: SANTA CATARINA
+  CEP: 88495-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BRAULIO ARAUJO DA SILVA
+    Complemento: CS 2
+    Bairro: AMBROSIO
+    Cidade: GAROPABA
+    Estado: SANTA CATARINA
+    CEP: 88495-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BRAULIO ARAÚJO DA SILVA
+    Número: 246
+    Bairro: AMBRÓSIO
+    Cidade: GAROPABA - SC
+    Fonte: DATASUS
+  [3]
+    Rua: CAXIAS
+    Tipo: R
+    Número: 426
+    Bairro: CENTRO
+    Cidade: IMBITUBA
+    Estado: SC
+    CEP: 88780-000
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BRAULIO ARAUJO DA SILVA
+    Tipo: R
+    Número: 246
+    Complemento: C
+    Bairro: AMBROSIO DE FOR
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: GERAL DO AMBROSIO
+    Tipo: EST
+    Número: 1
+    Bairro: AMBROSIO
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: E GERAL DO AMBROSIO DE FORA
+    Número: SN
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Data Atualizacao: 16/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: BRAULIO ARAUJO DA SILVA
+    Número: 0000246
+    Bairro: AMBROSIO
+    Cidade: GAROPABA
+    Estado: SC
+    CEP: 88495-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (48) 3254-0304
+  - (48) 99696-4697
+  - (48) 98858-8204
+  - (48) 99175-9912
+  - (48) 98850-2661
+  - (48) 99991-2586
+  - (48) 98466-2729
+Datasus Phones: (1 item(s))
+  - (48) 99924-3817
+Cidade de Nascimento: PORTO ALEGRE - RS
+Cns: 707605299578292
+Rg Issue Date: 693198000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 10/10/2018
+    Info Date: 21/12/2008
+    Mosaic: E17
+    Mosaic New: D12
+    Mosaic Secondary: H26
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: CAXIAS
+      Número: 426
+      Bairro: CENTRO
+      Cidade: IMBITUBA
+      Estado: SC
+      CEP: 88780-000
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: BRAULIO ARAUJO DA SILVA
+      Número: 246
+      Complemento: C
+      Bairro: AMBROSIO DE FOR
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 19/11/2018
+    [3]
+      Tipo: EST
+      Rua: GERAL DO AMBROSIO
+      Número: 1
+      Bairro: AMBROSIO
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 04/12/2019
+    [4]
+      Rua: E GERAL DO AMBROSIO DE FORA
+      Número: SN
+      Cidade: GAROPABA
+      Estado: SC
+      CEP: 88495-000
+      Date Added: 08/07/2019
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 999912586
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 984662729
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: sandromocl@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSBA: 225
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DE LOURDES DOS SANTOS VIEIRA
+      Vinculo: MAE
+  Pis: 12483272810
+  Tse:
+    Titulo: 26185160949
+    Zona: 73
+    Secao: 126
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1457.62
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 027.691.819-39
+    Nome: ROSIANE DOS SANTOS SILVA
+    Logradouro: JOAO RINSA
+    Número: 601
+    Bairro: CENTRO
+  [2]
+    CPF: 052.045.459-64
+    Nome: JUCILANE INACIO NUNES
+    Logradouro: NOVO HORIZONTE
+    Número: 2
+  [3]
+    CPF: 060.885.999-01
+    Nome: JACI DA SILVA
+    Logradouro: JOAO DE CARVALHO
+    Número: 18
+    Bairro: MIRIM
+  [4]
+    CPF: 052.225.548-56
+    Nome: WILLIAM MENEGHEL
+    Logradouro: CASTRO ALVEZ
+    Número: 61
+  [5]
+    CPF: 051.429.969-09
+    Nome: FERNANDA ZEFERINO CUSTODIO
+    Logradouro: FRANCISCO LAURENTINO
+    Número: SN
+  [6]
+    CPF: 051.369.589-36
+    Nome: ANDRESSA ALVES ROCHA CORREA
+    Logradouro: GETULIO VARGAS
+    Número: SN
+  [7]
+    CPF: 051.185.919-88
+    Nome: VANDA FERNANDES DA SILVA
+    Logradouro: ANTONIO JOAO MACHADO
+    Número: 70
+  [8]
+    CPF: 051.168.799-09
+    Nome: RODRIGO MEDEIROS DOS PASSOS
+    Logradouro: JOAO OLIVEIRA FO
+    Número: 315
+    Bairro: CENTRO
+  [9]
+    CPF: 008.492.862-04
+    Nome: ALIRIO JERONIMO DE SOUZA
+    Logradouro: TRES DE OUTUBRO
+    Número: 467
+    Bairro: CENTRO
+  [10]
+    CPF: 484.873.250-68
+    Nome: KATIA JANAINA SCHAFFER DA COSTA
+    Logradouro: JOSE ANTONIO RANSO LEITE
+    Número: 70
+    Bairro: VL ESPERANYA
+  [11]
+    CPF: 050.823.609-65
+    Nome: CLAUDIONOR FERNANDES MARQUES
+    Logradouro: HIGINO JOSE MARTINS
+    Número: SN
+    Bairro: NOVA BRASILIA
+  [12]
+    CPF: 050.795.079-85
+    Nome: RUBIANA MIGUEL RODRIGUES VIEIRA
+    Logradouro: TRES DE OUTUBRO
+    Número: 63
+  [13]
+    CPF: 050.717.489-59
+    Nome: JULIANA CORREA FERNANDES
+    Logradouro: RENATO RAMOS DA SILVA
+    Número: 3287
+  [14]
+    CPF: 050.720.989-31
+    Nome: MAICON WESTPHAL
+    Logradouro: ACEDINO HERMINIO JOAQUIM
+    Número: 371
+  [15]
+    CPF: 050.721.309-24
+    Nome: DANIELA BATISTA GERONIMO
+    Logradouro: CATARINA
+    Número: 1046
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (48) 99696-4697
+    Nome: SANDRO MARCOS DOS SANTOS VIEIRA
+    Cidade: GAROPABA
+    UF: SC
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (48) 99175-9912
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_CONTROLE
+    Data Instalacao: 11/09/2020
+    Valor Fatura: 59.99
+    Mes Referencia: 202010
+E-mails: (1 item(s))
+  - sandromocl@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1590
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1457.62
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (48) 99991-2586
+    Ddd: 48
+    Número: 999912586
+    Tipo: 3
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (48) 98466-2729
+    Ddd: 48
+    Número: 984662729
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 782305
+Occupation Name: Motorista de carro de passeio
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

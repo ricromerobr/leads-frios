@@ -1,0 +1,348 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  43604442818
+Data/Hora:  04/10/2026, 14:09:52
+Tempo API:  798ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 436.044.428-18
+Nome: BRUNO BARBOSA DE OLIVEIRA
+Primeiro Nome: BRUNO
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 20/02/1996
+Nome da Mãe: JANAINA BARBOSA DE OLIVEIRA
+Ocupação: Operador de caixa
+Score:
+  Value: 54
+  Range: ALTISSIMO
+E-mail: barbosabruno790@gmail.com
+Additional Emails: (2 item(s))
+  - barbosabruno790@gmail.com
+  - bbarbosa0012@gmail.com
+Federal Status: REGULAR
+Renda: 1311
+Income Bracket: 2
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: ADELAIDE MARIA DE JESUS
+  Bairro: JARDIM DAS ACCIAS
+  Cidade: STA ISABEL
+  Estado: SAO PAULO
+  CEP: 00750-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ADELAIDE MARIA DE JESUS
+    Bairro: JARDIM DAS ACCIAS
+    Cidade: STA ISABEL
+    Estado: SAO PAULO
+    CEP: 00750-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DALILA FERREIRA BARBOSA
+    Tipo: PC
+    Número: 22
+    Bairro: CENTRO
+    Cidade: ARUJA
+    Estado: SP
+    CEP: 07401-295
+    Data Atualizacao: 19/10/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: JACUTINGA
+    Tipo: R
+    Número: 233
+    Complemento: CS 2
+    Bairro: PEDREIRA
+    Cidade: ARUJA
+    Estado: SP
+    CEP: 07405-440
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ADELAIDE MARIA DE JESUS
+    Tipo: R
+    Número: 127
+    Complemento: FDS
+    Bairro: JD ACACIAS
+    Cidade: SANTA ISABEL
+    Estado: SP
+    CEP: 07500-000
+    Data Atualizacao: 28/03/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DO TRONCO
+    Tipo: EST
+    Número: 2312
+    Complemento: ITAQUAQUECETUB
+    Bairro: VERANEIO MARACANA
+    Cidade: ITAQUAQUECETUBA
+    Estado: SP
+    CEP: 08582-460
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: SANTA CRUZ
+    Rua: R
+    Número: 0000039
+    Bairro: CENTRO
+    Cidade: SANTA ISABEL
+    Estado: SP
+    CEP: 07500-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (11) 96908-9401
+  - (11) 97259-2720
+  - (95) 7364-4224
+  - (11) 4648-5892
+  - (11) 4655-1900
+Paycom:
+  E-mail: bbarbosa0012@gmail.com
+  Data de Nascimento: 21/08/1996
+  Created At: 2021-08-21 00:28:35
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Santa Isabel
+    Número: 77
+    Bairro: Santa Isabel
+    Cidade: Santa Isabel
+    Estado: 27
+    País: BR
+    CEP: 18700-330
+    Telephone: (95) 7364-4224
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Mosaic New: D12
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: PC
+      Rua: DALILA FERREIRA BARBOSA
+      Número: 22
+      Bairro: CENTRO
+      Cidade: ARUJA
+      Estado: SP
+      CEP: 07401-295
+      Date Added: 15/09/2015
+    [2]
+      Tipo: R
+      Rua: JACUTINGA
+      Número: 233
+      Complemento: CS 2
+      Bairro: PEDREIRA
+      Cidade: ARUJA
+      Estado: SP
+      CEP: 07405-440
+      Date Added: 23/04/2015
+    [3]
+      Tipo: R
+      Rua: ADELAIDE MARIA DE JESUS
+      Número: 127
+      Complemento: FDS
+      Bairro: JD ACACIAS
+      Cidade: SANTA ISABEL
+      Estado: SP
+      CEP: 07500-000
+      Date Added: 23/04/2015
+    [4]
+      Tipo: EST
+      Rua: DO TRONCO
+      Número: 2312
+      Complemento: ITAQUAQUECETUB
+      Bairro: VERANEIO MARACANA
+      Cidade: ITAQUAQUECETUBA
+      Estado: SP
+      CEP: 08582-460
+      Date Added: 23/04/2015
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 46485892
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 13/10/2014
+    [2]
+      Telefone: 46551900
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 25/03/2015
+      Info Date: 14/03/2015
+    [3]
+      Telefone: 972592720
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 27/03/2019
+  Score:
+    CSB8: 54
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 54
+    CSBA FAIXA: ALTISSIMO
+  Pis: 20786335062
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 607.92
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 291.885.518-90
+    Nome: RIVALDO JOSE DE LIMA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 60
+    Bairro: CENTRO
+  [2]
+    CPF: 278.772.918-50
+    Nome: CLEONICE DOS SANTOS SALGADO
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 54
+    Bairro: CENTRO
+  [3]
+    CPF: 291.745.848-80
+    Nome: VALDENIR DE SOUZA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 40
+    Bairro: CENTRO
+  [4]
+    CPF: 139.293.348-01
+    Nome: JOSIMO RAMOS DA SILVA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 38
+    Bairro: CENTRO
+  [5]
+    CPF: 308.889.128-62
+    Nome: MARCOS PEREIRA DA SILVA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 54
+    Bairro: CENTRO
+  [6]
+    CPF: 314.841.368-70
+    Nome: MOISES DE MORAES MOREIRA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 54
+    Bairro: CENTRO
+  [7]
+    CPF: 319.819.408-39
+    Nome: ADRIANA RIBEIRO LEMOS
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 40
+    Bairro: CENTRO
+  [8]
+    CPF: 339.662.718-00
+    Nome: ELISANGELA MARIA LOPES
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 74
+    Bairro: CENTRO
+  [9]
+    CPF: 304.625.748-14
+    Nome: RODRIGO CRISTIANO BENEDITO DOS ANJOS
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 40
+    Bairro: JD MODELO
+  [10]
+    CPF: 428.525.168-02
+    Nome: ARY PEREIRA DA CONCEICAO
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 72
+    Bairro: JD MODELO
+  [11]
+    CPF: 069.802.828-75
+    Nome: MARIA APARECIDA SILVA MOREIRA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 72
+    Bairro: JD MODELO
+  [12]
+    CPF: 371.118.038-84
+    Nome: ADRIANA DA SILVA PINHEIRO
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 68
+    Bairro: CENTRO
+  [13]
+    CPF: 379.137.288-25
+    Nome: NATALI FERREIRA ADOLPHO
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 40
+    Bairro: CENTRO
+  [14]
+    CPF: 257.701.668-94
+    Nome: DENIS CUBA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 40
+    Bairro: CENTRO
+  [15]
+    CPF: 616.201.065-15
+    Nome: ELIADE LIMA DE ALMEIDA
+    Logradouro: DALILA FERREIRA BARBOSA
+    Número: 40
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 97259-2720
+    Nome: BRUNO BARBOSA DE OLIVEIRA
+    Cidade: SANTA ISABEL
+    UF: SP
+E-mails: (2 item(s))
+  - barbosabruno790@gmail.com
+  - bbarbosa0012@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1311
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 607.92
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 4648-5892
+    Ddd: 11
+    Número: 46485892
+    Tipo: FIXO
+    Data Inclusao: 13/10/2014
+    Classificacao: D2
+  [2]
+    Telefone: (11) 4655-1900
+    Ddd: 11
+    Número: 46551900
+    Tipo: FIXO
+    Data Inclusao: 25/03/2015
+    Data Informacao: 14/03/2015
+    Classificacao: C
+  [3]
+    Telefone: (11) 97259-2720
+    Ddd: 11
+    Número: 972592720
+    Tipo: 3
+    Data Inclusao: 27/03/2019
+    Classificacao: A0
+Occupation Code: 421125
+Occupation Name: Operador de caixa
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

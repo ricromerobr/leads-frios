@@ -1,0 +1,251 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  79213197268
+Data/Hora:  04/10/2026, 13:21:06
+Tempo API:  814ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 792.131.972-68
+Nome: WALTER JUNIOR SANTOS DO NASCIMENTO SOUZA
+Primeiro Nome: WALTER
+Sobrenome: SOUZA
+Sexo: Masculino
+Data de Nascimento: 08/07/2000
+Nome da Mãe: ARLETE CRISTINA DOS SANTOS
+Nome do Pai: MAIRRAULE PEREIRA DE SOUZA
+Mosaic: F22
+Score:
+  Value: 363
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 377
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: FORTALEZA
+  Número: 8
+  Bairro: SACRAMENTA
+  Cidade: BELEM
+  Estado: PARA
+  CEP: 66123-300
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FORTALEZA
+    Número: 8
+    Bairro: SACRAMENTA
+    Cidade: BELEM
+    Estado: PARA
+    CEP: 66123-300
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FORTALEZA
+    Número: 8
+    Bairro: SACRAMENTA
+    Cidade: BELEM - PA
+    Fonte: DATASUS
+  [3]
+    Tipo: PAS
+    Rua: FORTALEZA
+    Número: 0000008
+    Bairro: SACRAMENTA
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66123-300
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (91) 3244-9133
+Cidade de Nascimento: BELEM - PA
+Cns: 700007428733906
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 09/11/2018
+    Mosaic: F22
+    Mosaic New: H28
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: PSG
+      Rua: FORTALEZA
+      Número: 8
+      Bairro: SACRAMENTA
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66123-300
+      Date Added: 22/03/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 991129791
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D1
+      Date Added: 21/03/2019
+  Score:
+    CSB8: 312
+    CSB8 FAIXA: MEDIO
+    CSBA: 363
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ARLETE CRISTINA DOS SANTOS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 377.57
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (91) 98408-2067
+  - (91) 99112-9791
+  - (91) 98522-9552
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 296.930.122-91
+    Nome: MANOEL FERREIRA CHAVES FILHO
+    Logradouro: FORTALEZA
+    Número: 40
+    Bairro: SACRAMENTA
+  [2]
+    CPF: 467.115.892-20
+    Nome: MARIA DAS DORES SOARES ROCHA
+    Logradouro: FORTALEZA
+    Número: 65
+    Bairro: SACRAMENTA
+  [3]
+    CPF: 429.255.092-15
+    Nome: JAWILSON LEAO SOUSA
+    Logradouro: FORTALEZA
+    Número: 92
+    Bairro: SACRAMENTA
+  [4]
+    CPF: 602.782.002-06
+    Nome: ALCY COSTA DOS SANTOS
+    Logradouro: FORTALEZA
+    Número: 1271
+    Bairro: SACRAMENTA
+  [5]
+    CPF: 489.440.842-20
+    Nome: JOCEL PIMENTEL SILVA
+    Logradouro: FORTALEZA
+    Número: 42
+    Bairro: SACRAMENTA
+  [6]
+    CPF: 930.717.872-00
+    Nome: TATIANE FAVACHO DE SOUSA
+    Logradouro: FORTALEZA
+    Número: 80
+    Bairro: SACRAMENTA
+  [7]
+    CPF: 003.919.983-58
+    Nome: LUCIANO DA SILVA DANTAS
+    Logradouro: FORTALEZA
+    Número: 67
+    Bairro: SACRAMENTA
+  [8]
+    CPF: 739.562.872-15
+    Nome: RUTE SOARES XAVIER
+    Logradouro: FORTALEZA
+    Número: 8
+    Bairro: SACRAMENTA
+  [9]
+    CPF: 429.255.092-15
+    Nome: JAWILSON LEAO SOUSA
+    Logradouro: FORTALEZA
+    Número: 20
+    Bairro: SACRAMENTA
+  [10]
+    CPF: 010.526.722-80
+    Nome: MARA SHELDA DUARTE DE MATOS
+    Logradouro: FORTALEZA
+    Número: 10
+    Bairro: SACRAMENTA
+  [11]
+    CPF: 245.095.152-00
+    Nome: CELIO PIMENTEL PINHEIRO
+    Logradouro: FORTALEZA
+    Número: 3
+    Bairro: SACRAMENTA
+  [12]
+    CPF: 218.444.702-10
+    Nome: DEUZARINA DE LIMA COSTA
+    Logradouro: FORTALEZA
+    Número: 2
+    Bairro: SACRAMENTA
+  [13]
+    CPF: 127.460.702-78
+    Nome: RAIMUNDA DO NASCIMENTO MONTEIRO
+    Logradouro: FORTALEZA
+    Número: 6
+    Bairro: SACRAMENTA
+  [14]
+    CPF: 096.832.322-72
+    Nome: LUZIA MARTINS VASCONCELOS
+    Logradouro: FORTALEZA
+    Número: 19
+    Bairro: SACRAMENTA
+  [15]
+    CPF: 910.009.392-00
+    Nome: LUCINEIDE COSTA DE ARAUJO
+    Logradouro: FORTALEZA
+    Número: 68
+    Bairro: SACRAMENTA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (91) 98408-2067
+    Nome: WALTER JUNIOR SANTOS DO NASCIM SOUZA
+    Cidade: BELEM
+    UF: PA
+  [2]
+    Telefone: (91) 99112-9791
+    Nome: WALTER JUNIOR SANTOS DO NASCIMENTO SOUZA
+    Cidade: BELEM
+    UF: PA
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (91) 98522-9552
+    Nome: WALTER JUNIOR SANTOS DO NASCIMENTO SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (91) 98408-2067
+    Nome: WALTER JUNIOR SANTOS DO NASCIMENTO SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 377
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 377.57
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (91) 99112-9791
+    Ddd: 91
+    Número: 991129791
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: D1
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

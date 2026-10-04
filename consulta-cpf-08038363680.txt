@@ -1,0 +1,279 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08038363680
+Data/Hora:  03/10/2026, 21:13:36
+Tempo API:  239ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 080.383.636-80
+Nome: MARIA LUIZA PIRES PEREIRA
+Primeiro Nome: MARIA
+Sobrenome: PEREIRA
+Sexo: Feminino
+Data de Nascimento: 12/08/1998
+Nome da Mãe: MARTA TOMAZ PIRES PEREIRA
+Ocupação: Recepcionista, em geral
+Score:
+  Value: 167
+  Range: ALTISSIMO
+E-mail: marialuizapires98@gmail.com
+Additional Emails: (2 item(s))
+  - marialuizapires98@gmail.com
+  - m_marimalu@hotmail.com
+Federal Status: REGULAR
+Renda: 425
+Income Bracket: 1
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: CRISTAL
+  Número: 492
+  Bairro: JD RIACHO DAS PEDRAS
+  Cidade: CONTAGEM
+  Estado: MINAS GERAIS
+  CEP: 32241-390
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CRISTAL
+    Número: 492
+    Bairro: JD RIACHO DAS PEDRAS
+    Cidade: CONTAGEM
+    Estado: MINAS GERAIS
+    CEP: 32241-390
+    Fonte: PRINCIPAL
+  [2]
+    Tipo: AV
+    Rua: CRISTAL
+    Número: 0000492
+    Bairro: JARDIM RIACHO DAS PEDRAS
+    Cidade: CONTAGEM
+    Estado: MG
+    CEP: 32241-390
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Paycom:
+  E-mail: marialuizapires98@gmail.com
+  Data de Nascimento: 12/08/1998
+  Created At: 2021-08-30 20:01:20
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Cristal
+    Número: 492
+    Complemento: Apto 301
+    Bairro: Jardim Riacho das Pedras
+    Cidade: Contagem
+    Estado: MG
+    País: Brasil
+    Telephone: +55 (31) 99625-1337
+Telefones: (3 item(s))
+  - +55 (31) 99625-1337
+  - (31) 99625-1337
+  - (31) 3396-6026
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 27/11/2019
+    Mosaic New: C08
+    Mosaic Secondary: D10
+  Endereços: (1 item(s))
+    [1]
+      Tipo: AV
+      Rua: CRISTAL
+      Número: 492
+      Complemento: BL 492
+      Bairro: JD RIACHO DAS PEDRAS
+      Cidade: CONTAGEM
+      Estado: MG
+      CEP: 32241-390
+      Date Added: 08/05/2018
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 33966026
+      Ddd: 31
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 20/07/2017
+    [2]
+      Telefone: 996251337
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: m_marimalu@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [2]
+      E-mail: marialuizapires98@gmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 452
+    CSB8 FAIXA: MEDIO
+    CSBA: 167
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 953.468.726-04
+      Nome: MARTA TOMAZ PIRES PEREIRA
+      Vinculo: MAE
+    [2]
+      CPF: 8038364651
+      Nome: DIEGO PIRES PEREIRA
+      Vinculo: IRMA(O)
+  Pis: 20351719002
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 049.469.736-99
+    Nome: FABIO JUNIOR DE ANDRADE
+    Logradouro: CRISTAL
+    Número: 483
+    Bairro: JD RIACHO DAS PEDRAS
+  [2]
+    CPF: 037.510.926-92
+    Nome: VIVIAN KARLA BARRETO DA CUNHA
+    Logradouro: CRISTAL
+    Número: 528
+    Bairro: JD RIACHO DAS PEDRAS
+  [3]
+    CPF: 420.273.496-34
+    Nome: ZILDA LIZIAR DA SILVA
+    Logradouro: CRISTAL
+    Número: 515
+    Bairro: JD RIACHO DAS PEDRAS
+  [4]
+    CPF: 024.267.447-07
+    Nome: MARCIO ARGENTO GOMES
+    Logradouro: CRISTAL
+    Número: 522
+    Bairro: JD RIACHO DAS PEDRAS
+  [5]
+    CPF: 055.741.026-68
+    Nome: OSMAM CAMPOS GUIMARAES
+    Logradouro: CRISTAL
+    Número: 570
+    Bairro: JD RIACHO DAS PEDRAS
+  [6]
+    CPF: 924.369.437-53
+    Nome: UELIA VIEIRA LACERDA
+    Logradouro: CRISTAL
+    Número: 525
+    Bairro: JD RIACHO DAS PEDRAS
+  [7]
+    CPF: 046.338.186-60
+    Nome: SANDRO VINICIUS RAMOS PEDRASSI
+    Logradouro: CRISTAL
+    Número: 346
+    Bairro: JD RIACHO DAS PEDRAS
+  [8]
+    CPF: 005.047.026-45
+    Nome: JOSEMAR LIMA RIBEIRO
+    Logradouro: CRISTAL
+    Número: 528
+    Bairro: JD RIACHO DAS PEDRAS
+  [9]
+    CPF: 001.992.996-09
+    Nome: RICARDO GONCALVES DE ALMEIDA
+    Logradouro: CRISTAL
+    Número: 188
+    Bairro: JD RIACHO DAS PEDRAS
+  [10]
+    CPF: 978.130.446-49
+    Nome: ELOISA FILOMENA DE ALMEIDA
+    Logradouro: CRISTAL
+    Número: 516
+    Bairro: JD RIACHO DAS PEDRAS
+  [11]
+    CPF: 256.668.356-53
+    Nome: ANA MARIA PEREIRA GOMES
+    Logradouro: CRISTAL
+    Número: 212
+    Bairro: JD RIACHO DAS PEDRAS
+  [12]
+    CPF: 144.457.356-04
+    Nome: JOAO NUNES DA ROCHA
+    Logradouro: CRISTAL
+    Número: 540
+    Bairro: JD RIACHO DAS PEDRAS
+  [13]
+    CPF: 060.934.066-28
+    Nome: LEONARDO NETO ROSA
+    Logradouro: CRISTAL
+    Número: 516
+    Bairro: JD RIACHO DAS PEDRAS
+  [14]
+    CPF: 490.628.596-15
+    Nome: SILDER MONICA DA SILVA
+    Logradouro: CRISTAL
+    Número: 20
+    Bairro: JD RIACHO DAS PEDRAS
+  [15]
+    CPF: 074.434.366-61
+    Nome: CARLOS HENRIQUE DE AGUIAR
+    Logradouro: CRISTAL
+    Número: 498
+    Bairro: JD RIACHO DAS PEDRAS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (31) 99625-1337
+    Nome: MARIA LUIZA PIRES PEREIRA
+    Cidade: CONTAGEM
+    UF: MG
+E-mails: (2 item(s))
+  - marialuizapires98@gmail.com
+  - m_marimalu@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 425
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (31) 3396-6026
+    Ddd: 31
+    Número: 33966026
+    Tipo: FIXO
+    Data Inclusao: 20/07/2017
+    Classificacao: A2
+  [2]
+    Telefone: (31) 99625-1337
+    Ddd: 31
+    Número: 996251337
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+Occupation Code: 422105
+Occupation Name: Recepcionista, em geral
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

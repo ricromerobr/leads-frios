@@ -1,0 +1,471 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  30797003843
+Data/Hora:  03/10/2026, 16:53:14
+Tempo API:  437ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 307.970.038-43
+Nome: ALEXANDRE FACHINELLI
+Primeiro Nome: ALEXANDRE
+Sobrenome: FACHINELLI
+Sexo: Masculino
+Data de Nascimento: 25/01/1982
+Nome da Mãe: MARIA ONEIDE DE SOUZA FACHINELLI
+RG: 33631426
+Rg Issuer: SSP
+Voter Id: 249419130116
+Mosaic: E14
+Ocupação: Dirigente do serviço público municipal
+Score:
+  Value: 691
+  Range: BAIXO
+E-mail: fachinelli.net@ig.com.br
+Additional Emails: (3 item(s))
+  - fachinelli.net@ig.com.br
+  - a.fachinelli@sinimplast.com.br
+  - 7gestao@gmail.com
+Federal Status: REGULAR
+Renda: 15784
+Income Bracket: 8
+Cbo: 141615
+Corporate Share Pct: 100
+Endereço:
+  Tipo: AVENIDA
+  Rua: CAETANO GORNATI
+  Número: 1500
+  Complemento: AP APTO 64 D
+  Bairro: ENGORDADOURO
+  Cidade: JUNDIAI
+  Estado: SAO PAULO
+  CEP: 13214-661
+All Addresses: (6 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: CAETANO GORNATI
+    Número: 1500
+    Complemento: AP APTO 64 D
+    Bairro: ENGORDADOURO
+    Cidade: JUNDIAI
+    Estado: SAO PAULO
+    CEP: 13214-661
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AMELIA LATORRE
+    Tipo: AV
+    Número: 1
+    Complemento: ED EXCELLENCE AP 21
+    Bairro: JD GUANABARA
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 13211-815
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: IRANY APARECIDO COSTA
+    Tipo: R
+    Número: 140
+    Bairro: JD DAS TULIPAS
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 13212-740
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: IRANY APARECIDO COSTA
+    Tipo: R
+    Número: 136
+    Complemento: XXXXXXXXXX
+    Bairro: JD DAS TULIPAS
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 13212-740
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: CAETANO GORNATI
+    Número: 0001500
+    Bairro: ENGORDADOURO
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 01321-461
+    Fonte: ASSECC
+  [6]
+    Rua: RUA AV  CAETANO GORNATI 1500 BL D AP 64
+    Número: 1500
+    Complemento: BL D AP 64
+    Bairro: ENGORDADOURO
+    Estado: SP
+    CEP: 13214-661
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: DAFRA
+      Modelo: SPEED 150
+      Ano: 2008
+Telefones: (9 item(s))
+  - (11) 4815-6139
+  - (11) 99688-9896
+  - +55 (11) 95358-8846
+  - (11) 4815-6575
+  - (11) 93776-4473
+  - (11) 97616-9822
+  - (11) 3964-7436
+  - (11) 98934-6842
+  - (11) 99236-5350
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 10/08/2019
+    Info Date: 03/12/2007
+    Rg Issuer: SSP
+    Mosaic: E14
+    Mosaic New: G22
+    Mosaic Secondary: E18
+    Income Bracket Id: 12
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: CAETANO GORNATI
+      Número: 1500
+      Complemento: AP 64
+      Bairro: ENGORDADOURO
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13214-661
+      Date Added: 16/05/2019
+    [2]
+      Tipo: AV
+      Rua: AMELIA LATORRE
+      Número: 1
+      Complemento: ED EXCELLENCE AP 21
+      Bairro: JD GUANABARA
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13211-815
+      Date Added: 24/03/2015
+    [3]
+      Tipo: R
+      Rua: IRANY APARECIDO COSTA
+      Número: 140
+      Bairro: JD DAS TULIPAS
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13212-740
+      Date Added: 30/08/2019
+    [4]
+      Tipo: R
+      Rua: IRANY APARECIDO COSTA
+      Número: 136
+      Complemento: XXXXXXXXXX
+      Bairro: JD DAS TULIPAS
+      Cidade: JUNDIAI
+      Estado: SP
+      CEP: 13212-740
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 48156575
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 26/03/2007
+    [2]
+      Telefone: 996889896
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 31/01/2013
+    [3]
+      Telefone: 39647436
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 24/03/2015
+    [4]
+      Telefone: 989346842
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [5]
+      Telefone: 992365350
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 08/05/2017
+  E-mails: (2 item(s))
+    [1]
+      E-mail: fachinelli.net@ig.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: a.fachinelli@sinimplast.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 799
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 691
+    CSBA FAIXA: BAIXO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 149.974.998-89
+      Nome: ADILSON FACHINELLI
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 137.579.508-28
+      Nome: ANDREA FACHINELLI SILVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 724.199.548-15
+      Nome: DIRCEU FACHINELLI
+      Vinculo: PAI
+    [4]
+      CPF: 120.774.228-74
+      Nome: MARIA ONEIDE DE SOUZA FACHINELLI
+      Vinculo: MAE
+  Pis: 19006607943
+  Tse:
+    Titulo: 249419130116
+    Zona: 65
+    Secao: 302
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 14169.87
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 329.810.038-28
+    Nome: FERNANDO HENRIQUE MAYER MINGOTTI
+    Logradouro: CAETANO GORNATI
+    Número: 1500
+    Bairro: ENGORDADOURO
+  [2]
+    CPF: 292.458.798-01
+    Nome: ALEXANDRE BACK E TRAVI
+    Logradouro: CAETANO GORNATI
+    Número: 1101
+    Bairro: ENGORDADOURO
+  [3]
+    CPF: 348.536.768-05
+    Nome: TAMIRIS FEDERIJI DE OLIVEIRA CATALDO
+    Logradouro: CAETANO GORNATI
+    Número: 1001
+    Bairro: ENGORDADOURO
+  [4]
+    CPF: 285.950.638-18
+    Nome: MARCIO AUGUSTO STEFANO
+    Logradouro: CAETANO GORNATI
+    Número: 1101
+    Bairro: ENGORDADOURO
+  [5]
+    CPF: 775.451.338-20
+    Nome: EDUARDO BICHARA FILHO
+    Logradouro: CAETANO GORNATI
+    Número: 1101
+    Bairro: ENGORDADOURO
+  [6]
+    CPF: 218.712.368-51
+    Nome: LUCIANO DUCATTI PELLIZZARI
+    Logradouro: CAETANO GORNATI
+    Número: 1101
+    Bairro: ENGORDADOURO
+  [7]
+    CPF: 279.303.098-86
+    Nome: JULIANA BALBINO CARRION
+    Logradouro: CAETANO GORNATI
+    Número: 1500
+    Bairro: ENGORDADOURO
+  [8]
+    CPF: 017.143.429-30
+    Nome: VILMAR GRASSE PEREIRA
+    Logradouro: CAETANO GORNATI
+    Número: 45
+    Bairro: ENGORDADOURO
+  [9]
+    CPF: 119.213.398-61
+    Nome: MARLUCI FERREIRA
+    Logradouro: CAETANO GORNATI
+    Número: 1271
+    Bairro: ENGORDADOURO
+  [10]
+    CPF: 066.053.178-07
+    Nome: TONY DEL MASCHIO
+    Logradouro: CAETANO GORNATI
+    Número: 160
+    Bairro: ENGORDADOURO
+  [11]
+    CPF: 213.868.138-69
+    Nome: MARINA DE MORAIS BELETTATO
+    Logradouro: CAETANO GORNATI
+    Número: 1271
+    Bairro: ENGORDADOURO
+  [12]
+    CPF: 303.471.628-19
+    Nome: JONES CESAR BERGANTIN
+    Logradouro: CAETANO GORNATI
+    Número: 1271
+    Bairro: ENGORDADOURO
+  [13]
+    CPF: 137.540.368-07
+    Nome: MARLI ANTONIA DA SILVA XAVIER
+    Logradouro: CAETANO GORNATI
+    Número: 1500
+    Bairro: ENGORDADOURO
+  [14]
+    CPF: 064.019.646-26
+    Nome: WESLEY SILVA
+    Logradouro: CAETANO GORNATI
+    Número: 188
+    Bairro: ENGORDADOURO
+  [15]
+    CPF: 654.209.691-49
+    Nome: ZAIDA TERESINHA GOULART
+    Logradouro: CAETANO GORNATI
+    Número: 1101
+    Bairro: ENGORDADOURO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 99688-9896
+    Nome: ALEXANDRE  FACHINELLI
+    Cidade: JUNDIAI
+    UF: SP
+Vivo Linhas: (4 item(s))
+  [1]
+    Telefone: (11) 4815-6139
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 19JUL2019:16:41:06
+    Cel Contato: +5511953588846
+    Complemento: AP - Apartamento: 64D;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 4815-6575
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 27JUL2001:00:00:00
+    Cel Contato: +5511953588846
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (11) 93776-4473
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_PRE_PURO
+    Data Instalacao: 11/08/2020
+  [4]
+    Telefone: (11) 99688-9896
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 17/10/2018
+    Valor Fatura: 39.99
+    Mes Referencia: 202009
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 4815-6575
+    Nome: ALEXANDRE FACHINELLI
+    Cidade: JUNDIAI
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+  [2]
+    Telefone: (11) 97616-9822
+    Nome: ALEXANDRE FACHINELLI
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - fachinelli.net@ig.com.br
+  - a.fachinelli@sinimplast.com.br
+  - 7gestao@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 15784
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 14169.87
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 4815-6575
+    Ddd: 11
+    Número: 48156575
+    Tipo: FIXO
+    Data Inclusao: 26/03/2007
+    Classificacao: C
+  [2]
+    Telefone: (11) 99688-9896
+    Ddd: 11
+    Número: 996889896
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A0
+  [3]
+    Telefone: (11) 3964-7436
+    Ddd: 11
+    Número: 39647436
+    Tipo: FIXO
+    Data Inclusao: 24/03/2015
+    Classificacao: C
+  [4]
+    Telefone: (11) 98934-6842
+    Ddd: 11
+    Número: 989346842
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [5]
+    Telefone: (11) 99236-5350
+    Ddd: 11
+    Número: 992365350
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: C
+Occupation Code: 111415
+Occupation Name: Dirigente do serviço público municipal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

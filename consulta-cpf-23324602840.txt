@@ -1,0 +1,366 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  23324602840
+Data/Hora:  03/10/2026, 16:08:55
+Tempo API:  223ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 233.246.028-40
+Nome: BRUNA MARQUES FERREIRA CORREIA
+Primeiro Nome: BRUNA
+Sobrenome: CORREIA
+Sexo: Feminino
+Data de Nascimento: 27/01/1986
+Nome da Mãe: TANIA REGINA MATEUS MARQUES
+Nome do Pai: JOAO ALBERTO FERREIRA
+RG: 527420402
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PR
+Mosaic: C09
+Ocupação: Abatedor
+Score:
+  Value: 43
+  Range: ALTISSIMO
+E-mail: bruna27marques@hotmail.com
+Additional Emails: (1 item(s))
+  - bruna27marques@hotmail.com
+Federal Status: REGULAR
+Renda: 1070
+Income Bracket: 2
+Cbo: 848505
+Endereço:
+  Tipo: RUA
+  Rua: PRIMEIRO DE MAIO
+  Número: 144
+  Complemento: CS
+  Bairro: CETRO
+  Cidade: NOVA OLIMPIA
+  Estado: PARANA
+  CEP: 87490-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PRIMEIRO DE MAIO
+    Número: 144
+    Complemento: CS
+    Bairro: CETRO
+    Cidade: NOVA OLIMPIA
+    Estado: PARANA
+    CEP: 87490-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AMARO TAVARES
+    Número: 2192
+    Bairro: PARQUE BANDEIRANTES
+    Cidade: UMUARAMA - PR
+    Fonte: DATASUS
+  [3]
+    Rua: AMARO TAVARES
+    Tipo: R
+    Número: 2192
+    Complemento: C
+    Bairro: PRQ BANDEIRANTES
+    Cidade: UMUARAMA
+    Estado: PR
+    CEP: 87504-688
+    Data Atualizacao: 17/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: SEBASTIAO LOPES DE LIMA
+    Tipo: R
+    Número: 6
+    Bairro: CENTRO
+    Cidade: NOVA OLIMPIA
+    Estado: PR
+    CEP: 87490-000
+    Data Atualizacao: 22/06/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CARLOS GOMES
+    Tipo: R
+    Número: 1325
+    Bairro: CENTRO
+    Cidade: GOIOERE
+    Estado: PR
+    CEP: 87360-000
+    Data Atualizacao: 07/07/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: JOAO DE OLIVEIRA DIAS
+    Tipo: R
+    Número: 1912
+    Complemento: FDS
+    Bairro: VL GUAIRA
+    Cidade: GOIOERE
+    Estado: PR
+    CEP: 87360-000
+    Data Atualizacao: 25/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: PRIMEIRO DE MAIO
+    Rua: R
+    Número: 0000144
+    Bairro: CETRO
+    Cidade: NOVA OLIMPIA
+    Estado: PR
+    CEP: 87490-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (44) 9852-6022
+Cidade de Nascimento: MARIA HELENA - PR
+Cns: 700507196728157
+Rg Issue Date: 1216177200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Rg Issuer: SSP
+    Mosaic: C09
+    Mosaic New: D12
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: AMARO TAVARES
+      Número: 2192
+      Complemento: C
+      Bairro: PRQ BANDEIRANTES
+      Cidade: UMUARAMA
+      Estado: PR
+      CEP: 87504-688
+      Date Added: 05/09/2017
+    [2]
+      Tipo: R
+      Rua: SEBASTIAO LOPES DE LIMA
+      Número: 6
+      Bairro: CENTRO
+      Cidade: NOVA OLIMPIA
+      Estado: PR
+      CEP: 87490-000
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: CARLOS GOMES
+      Número: 1325
+      Bairro: CENTRO
+      Cidade: GOIOERE
+      Estado: PR
+      CEP: 87360-000
+      Date Added: 21/10/2012
+    [4]
+      Tipo: R
+      Rua: JOAO DE OLIVEIRA DIAS
+      Número: 1912
+      Complemento: FDS
+      Bairro: VL GUAIRA
+      Cidade: GOIOERE
+      Estado: PR
+      CEP: 87360-000
+      Date Added: 09/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 999624840
+      Ddd: 43
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2014
+    [2]
+      Telefone: 994642432
+      Ddd: 15
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: bruna27marques@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSBA: 43
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 748.852.949-91
+      Nome: TANIA REGINA MATEUS MARQUES
+      Vinculo: MAE
+    [2]
+      CPF: 5835728980
+      Nome: ISABEL FERNANDES MATEUS MARQUES
+      Vinculo: AVO
+    [3]
+      CPF: 1824420986
+      Nome: CHARLES ROBERTO MARQUES
+      Vinculo: TIA(O)
+    [4]
+      CPF: 5531822936
+      Nome: ANDREIA REGINA MARQUES FERREIRA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 7548007922
+      Nome: JOAO RAFAEL MARQUES FERREIRA
+      Vinculo: IRMA(O)
+  Pis: 13038454523
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 408.18
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (44) 98823-4075
+  - (43) 99962-4840
+  - (15) 99464-2432
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 038.584.769-60
+    Nome: GISELE CARMO DO BEM
+    Logradouro: AMARO TAVARES
+    Número: 3441
+    Bairro: PRQ BANDEIRANTES
+  [2]
+    CPF: 006.064.899-67
+    Nome: ALEXANDRE ZAFRET POLZONOFF
+    Logradouro: AMARO TAVARES
+    Número: 3316
+    Bairro: PRQ BANDEIRANTES
+  [3]
+    CPF: 004.658.889-25
+    Nome: CLEDYNALDO SOUSA DOS SANTOS
+    Logradouro: AMARO TAVARES
+    Número: 2689
+    Bairro: PRQ BANDEIRANTES
+  [4]
+    CPF: 022.473.379-61
+    Nome: CRISTIANA MARIA SOUZA MOTA FONTES
+    Logradouro: AMARO TAVARES
+    Número: 21
+    Bairro: PRQ BANDEIRANTES
+  [5]
+    CPF: 006.168.579-85
+    Nome: KARINE TREVISAN ALVES
+    Logradouro: AMARO TAVARES
+    Número: 4
+    Bairro: PRQ BANDEIRANTES
+  [6]
+    CPF: 081.638.799-04
+    Nome: RADUAN EDUARDO BUENO
+    Logradouro: AMARO TAVARES
+    Número: 2418
+    Bairro: PRQ BANDEIRANTES
+  [7]
+    CPF: 051.986.879-01
+    Nome: SALVADOR SANTANA
+    Logradouro: AMARO TAVARES
+    Número: 21
+    Bairro: PRQ BANDEIRANTES
+  [8]
+    CPF: 005.975.019-71
+    Nome: PAULO HENRIQUE MARINS DE SOUZA
+    Logradouro: AMARO TAVARES
+    Número: 20
+    Bairro: PRQ BANDEIRANTES
+  [9]
+    CPF: 173.674.259-00
+    Nome: JOAO RIBEIRO DE ALMEIDA
+    Logradouro: AMARO TAVARES
+    Número: 9
+    Bairro: PRQ BANDEIRANTES
+  [10]
+    CPF: 284.290.879-15
+    Nome: JULIO PEREIRA DA SILVA
+    Logradouro: AMARO TAVARES
+    Número: 2349
+    Bairro: PRQ BANDEIRANTES
+  [11]
+    CPF: 668.911.679-49
+    Nome: VALTER DA ROCHA LOPES
+    Logradouro: AMARO TAVARES
+    Número: 3352
+    Bairro: PRQ BANDEIRANTES
+  [12]
+    CPF: 623.229.669-91
+    Nome: MARIA JOSE RAMOS ESPINA
+    Logradouro: AMARO TAVARES
+    Número: 2774
+    Bairro: PRQ BANDEIRANTES
+  [13]
+    CPF: 031.408.259-00
+    Nome: ANTONIA COELHO GAVASSI
+    Logradouro: AMARO TAVARES
+    Número: 2825
+    Bairro: PRQ BANDEIRANTES
+  [14]
+    CPF: 697.755.329-49
+    Nome: ROSANA FERNANDES DE SOUZA
+    Logradouro: AMARO TAVARES
+    Número: 27
+    Bairro: PRQ BANDEIRANTES
+  [15]
+    CPF: 018.233.609-39
+    Nome: SIDNEI LEME
+    Logradouro: AMARO TAVARES
+    Número: 2418
+    Bairro: PRQ BANDEIRANTES
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (44) 98823-4075
+    Nome: BRUNA MARQUES FERREIRA
+    Cidade: NOVA OLIMPIA
+    UF: PR
+E-mails: (1 item(s))
+  - bruna27marques@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1070
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 408.18
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (43) 99962-4840
+    Ddd: 43
+    Número: 999624840
+    Tipo: 3
+    Data Inclusao: 17/12/2014
+    Classificacao: D
+  [2]
+    Telefone: (15) 99464-2432
+    Ddd: 15
+    Número: 994642432
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 848505
+Occupation Name: Abatedor
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

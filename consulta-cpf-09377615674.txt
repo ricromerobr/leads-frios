@@ -1,0 +1,314 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09377615674
+Data/Hora:  03/10/2026, 16:14:07
+Tempo API:  573ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 093.776.156-74
+Nome: GLORIA LUCIA DE FREITAS MELO
+Primeiro Nome: GLORIA
+Sobrenome: MELO
+Sexo: Feminino
+Data de Nascimento: 24/11/1944
+Nome da Mãe: DIVA PEREIRA
+Mosaic: F20
+Score:
+  Value: 641
+  Range: BAIXO
+E-mail: ryanpablomelo@gmail.com
+Additional Emails: (2 item(s))
+  - ryanpablomelo@gmail.com
+  - karen.christine625@gmail.com
+Federal Status: REGULAR
+Renda: 1331
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: JOSE PINTO DE MOURA
+  Bairro: JARDIM GUANABARA
+  Cidade: BELO HORIZONTE
+  Estado: MINAS GERAIS
+  CEP: 31742-324
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOSE PINTO DE MOURA
+    Bairro: JARDIM GUANABARA
+    Cidade: BELO HORIZONTE
+    Estado: MINAS GERAIS
+    CEP: 31742-324
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE PINTO DE MOURA
+    Tipo: R
+    Número: 625
+    Complemento: CAD
+    Bairro: JD GUANABARA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31742-324
+    Data Atualizacao: 10/11/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: RUA R  JOSE PINTO DE MOURA 625 CAD
+    Número: 625
+    Complemento: CAD
+    Bairro: JD GUANABARA
+    Estado: MG
+    CEP: 31742-324
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (31) 97212-1155
+  - (31) 97163-1635
+  - (31) 98362-3278
+  - (31) 97114-2021
+  - (31) 3436-8413
+  - (31) 3436-8167
+  - (31) 98547-4286
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/10/2019
+    Mosaic: F20
+    Mosaic New: F20
+    Mosaic Secondary: F19
+    Income Bracket Id: 2
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: JOSE PINTO DE MOURA
+      Número: 625
+      Complemento: CAD
+      Bairro: JD GUANABARA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31742-324
+      Date Added: 20/06/2011
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 34368413
+      Ddd: 31
+      Tipo: 1
+      Classificacao: B
+      Date Added: 16/04/2009
+    [2]
+      Telefone: 34368167
+      Ddd: 31
+      Tipo: 1
+      Classificacao: B
+      Date Added: 16/06/2011
+    [3]
+      Telefone: 985474286
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+  E-mails: (1 item(s))
+    [1]
+      E-mail: karen.christine625@gmail.com
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+  Score:
+    CSB8: 436
+    CSB8 FAIXA: MEDIO
+    CSBA: 641
+    CSBA FAIXA: BAIXO
+  Parentes: (8 item(s))
+    [1]
+      CPF: 3191782699
+      Nome: ALEXANDRA DE FREITAS MELO FERREIRA
+      Vinculo: FILHA(O)
+    [2]
+      CPF: 761.138.416-34
+      Nome: AGUINALDO DE FREITAS MELO
+      Vinculo: FILHA(O)
+    [3]
+      CPF: 3348558611
+      Nome: ANDERSON DE FREITAS MELO
+      Vinculo: FILHA(O)
+    [4]
+      CPF: 746.413.796-53
+      Nome: JACKSON DE FREITAS MELO
+      Vinculo: FILHA(O)
+    [5]
+      CPF: 884.008.756-72
+      Nome: LENICE DE FREITAS MELO
+      Vinculo: FILHA(O)
+    [6]
+      CPF: 5617180673
+      Nome: ALEXSON DE FREITAS MELO
+      Vinculo: FILHA(O)
+    [7]
+      CPF: 5787789636
+      Nome: SILZIA DE FREITAS MELO
+      Vinculo: FILHA(O)
+    [8]
+      CPF: 4897818613
+      Nome: DIVA PEREIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1331.65
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 048.978.186-13
+    Nome: DIVA PEREIRA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 625
+    Bairro: JD GUANABARA
+  [2]
+    CPF: 052.907.236-09
+    Nome: GLEISSON BERNADINO DA SILVA GONCALVES
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 30
+    Bairro: JD GUANABARA
+  [3]
+    CPF: 039.793.796-20
+    Nome: RONALDO AUGUSTO
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 207
+    Bairro: JD GUANABARA
+  [4]
+    CPF: 036.157.766-40
+    Nome: RENATA VARGAS MOREIRA LOPES
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 80
+    Bairro: JD GUANABARA
+  [5]
+    CPF: 035.055.086-75
+    Nome: SIRLENE CARDOSO DE JESUS
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 10
+    Bairro: JD GUANABARA
+  [6]
+    CPF: 034.014.696-65
+    Nome: ALISON JOSE DE SENA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 695
+    Bairro: JD GUANABARA
+  [7]
+    CPF: 105.497.508-60
+    Nome: MARIA DA GLORIA FERREIRA EVANGELISTA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 340
+    Bairro: JD GUANABARA
+  [8]
+    CPF: 426.705.606-44
+    Nome: INES LINDAURA RIBEIRO
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 742
+    Bairro: JD GUANABARA
+  [9]
+    CPF: 011.813.166-42
+    Nome: KATIA PEREIRA DA SILVA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 690
+    Bairro: JD GUANABARA
+  [10]
+    CPF: 631.871.916-49
+    Nome: ANDERSON JOSE DE SENA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 695
+    Bairro: JD GUANABARA
+  [11]
+    CPF: 009.469.676-44
+    Nome: JAIRO DA SILVA ROSA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 230
+    Bairro: JD GUANABARA
+  [12]
+    CPF: 065.654.536-40
+    Nome: LEANDRO GONCALVES VIEIRA DE SOUZA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 190
+    Bairro: JD GUANABARA
+  [13]
+    CPF: 971.125.506-53
+    Nome: RAINNE DE JESUS LEANDRO
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 40
+    Bairro: JD GUANABARA
+  [14]
+    CPF: 146.211.388-55
+    Nome: YONE CASTRO GONCALVES DA SILVA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 760
+    Bairro: JD GUANABARA
+  [15]
+    CPF: 001.212.096-01
+    Nome: GERALDO WILSON DA FONSECA
+    Logradouro: JOSE PINTO DE MOURA
+    Número: 690
+    Bairro: JD GUANABARA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (31) 97114-2021
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 27APR2020
+    Ultima Recarga: 12JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 27/04/2020
+E-mails: (2 item(s))
+  - ryanpablomelo@gmail.com
+  - karen.christine625@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1331
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1331.65
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (31) 3436-8413
+    Ddd: 31
+    Número: 34368413
+    Tipo: FIXO
+    Data Inclusao: 16/04/2009
+    Classificacao: B
+  [2]
+    Telefone: (31) 3436-8167
+    Ddd: 31
+    Número: 34368167
+    Tipo: FIXO
+    Data Inclusao: 16/06/2011
+    Classificacao: B
+  [3]
+    Telefone: (31) 98547-4286
+    Ddd: 31
+    Número: 985474286
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

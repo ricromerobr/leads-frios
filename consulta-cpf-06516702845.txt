@@ -1,0 +1,501 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06516702845
+Data/Hora:  03/10/2026, 16:45:09
+Tempo API:  752ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 065.167.028-45
+Nome: MARA LUCIA PINTO DA CUNHA
+Primeiro Nome: MARA
+Sobrenome: CUNHA
+Sexo: Feminino
+Data de Nascimento: 25/06/1967
+Nome da Mãe: OLINDA RODRIGUES DA CUNHA
+Voter Id: 095366040116
+Mosaic: B03
+Ocupação: Gerente de loja e supermercado
+Score:
+  Value: 953
+  Range: BAIXISSIMO RISCO
+E-mail: mara67@superig.com.br
+Additional Emails: (4 item(s))
+  - mara67@superig.com.br
+  - maraluciapcunha@hotmail.com
+  - nathaliafazendeiro@gmail.com
+  - mara.cunha@ciademoda.com.br
+Federal Status: REGULAR
+Renda: 2161
+Income Bracket: 3
+Cbo: 520110
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: IBITURUNA  79
+  Complemento: APT 134
+  Bairro: PARQUE IMPERIAL
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04302-050
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: IBITURUNA  79
+    Complemento: APT 134
+    Bairro: PARQUE IMPERIAL
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04302-050
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CANARIO
+    Tipo: R
+    Número: 1261
+    Bairro: MOEMA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04521-005
+    Data Atualizacao: 22/10/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: IBITURUNA
+    Tipo: R
+    Número: 79
+    Complemento: AP 134
+    Bairro: PRQ IMPERIAL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04302-050
+    Data Atualizacao: 15/05/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: APRIGIO GONZAGA
+    Tipo: R
+    Número: 204
+    Bairro: S JUDAS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04303-000
+    Data Atualizacao: 30/06/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: LISBOA
+    Tipo: R
+    Número: 518
+    Complemento: AP 21
+    Bairro: CERQUEIRA CESAR
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05413-000
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: APRIGIO GONZAGA
+    Tipo: R
+    Número: 172
+    Complemento: CJ T 2
+    Bairro: S JUDAS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04303-000
+    Data Atualizacao: 25/07/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: IBITURUNA
+    Número: 0000079
+    Bairro: PARQUE IMPERIAL
+    Cidade: S PAULO
+    Estado: SP
+    CEP: 00430-250
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: IBITURUNA
+    Número: 0000079
+    Bairro: PARQUE IMPERIAL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04302-050
+    Fonte: ASSECC
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: VW
+      Modelo: FOX 1.6 GII
+      Ano: 2012
+    [2]
+      Marca: FIAT
+      Modelo: PALIO WK ADVENTURE
+      Ano: 2000
+    [3]
+      Marca: IMP
+      Modelo: RENAULT 19 RT
+      Ano: 1994
+Telefones: (7 item(s))
+  - (11) 97111-8330
+  - (11) 98892-4522
+  - +55 (11) 98892-4522
+  - (11) 97697-2121
+  - (11) 5071-6033
+  - (11) 3567-6000
+  - (11) 99725-0781
+Paycom:
+  E-mail: maraluciapcunha@hotmail.com
+  Data de Nascimento: 25/06/1967
+  Created At: 2021-05-16 15:06:29
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Ibituruna
+    Número: 79
+    Complemento: Apto 134
+    Bairro: parque imperial
+    Cidade: São Paulo
+    Estado: São Paulo
+    País: Brasil
+    Telephone: +55 (11) 98892-4522
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 08/08/2019
+    Info Date: 30/09/2005
+    Mosaic: B03
+    Mosaic New: G22
+    Mosaic Secondary: B03
+    Income Bracket Id: 12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CANARIO
+      Número: 1261
+      Bairro: MOEMA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04521-005
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: IBITURUNA
+      Número: 79
+      Complemento: AP 134
+      Bairro: PRQ IMPERIAL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04302-050
+      Date Added: 03/08/2009
+    [3]
+      Tipo: R
+      Rua: APRIGIO GONZAGA
+      Número: 204
+      Bairro: S JUDAS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04303-000
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: LISBOA
+      Número: 518
+      Complemento: AP 21
+      Bairro: CERQUEIRA CESAR
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05413-000
+      Date Added: 13/04/2010
+    [5]
+      Tipo: R
+      Rua: APRIGIO GONZAGA
+      Número: 172
+      Complemento: CJ T 2
+      Bairro: S JUDAS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04303-000
+      Date Added: 18/12/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 50716033
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 13/08/2009
+      Info Date: 04/04/2012
+    [2]
+      Telefone: 976972121
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 06/01/2012
+      Info Date: 11/11/2011
+    [3]
+      Telefone: 35676000
+      Ddd: 11
+      Tipo: 2
+      Classificacao: C
+      Date Added: 02/07/2014
+    [4]
+      Telefone: 997250781
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 988924522
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/06/2019
+      Info Date: 16/03/2019
+  E-mails: (4 item(s))
+    [1]
+      E-mail: maraluciapcunha@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: mara67@superig.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: nathaliafazendeiro@gmail.com
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2017
+    [4]
+      E-mail: mara.cunha@ciademoda.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 744
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 953
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: OLINDA RODRIGUES DA CUNHA
+      Vinculo: MAE
+  Pis: 12124996977
+  Tse:
+    Titulo: 95366040116
+    Zona: 258
+    Secao: 17
+  Poder Aquisitivo:
+    PODER AQUISITIVO: ALTO
+    RENDA PODER AQUISITIVO: 10931.05
+    FX PODER AQUISITIVO: De R$ 7017 até R$ 11742
+    COD PODER AQUISITIVO: 6
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 440.872.846-20
+    Nome: SONIA REGINA DE SOUZA
+    Logradouro: CANARIO
+    Número: 1331
+    Bairro: MOEMA
+  [2]
+    CPF: 420.927.988-98
+    Nome: JESSICA DOS SANTOS SILVA
+    Logradouro: CANARIO
+    Número: 1354
+    Bairro: MOEMA
+  [3]
+    CPF: 074.895.278-05
+    Nome: DORIS LUZIA DE BETTENCOURT AFONSO
+    Logradouro: CANARIO
+    Número: 1111
+    Bairro: MOEMA
+  [4]
+    CPF: 400.369.418-08
+    Nome: EDNEY PAULO DOS SANTOS
+    Logradouro: CANARIO
+    Número: 1523
+    Bairro: MOEMA
+  [5]
+    CPF: 086.453.818-93
+    Nome: EDUARDO DE CLEMENTE BENVENUTI
+    Logradouro: CANARIO
+    Número: 1368
+    Bairro: MOEMA
+  [6]
+    CPF: 258.157.218-32
+    Nome: GIVANILDO NOLETO CHAVES
+    Logradouro: CANARIO
+    Número: 1111
+    Bairro: MOEMA
+  [7]
+    CPF: 070.248.448-25
+    Nome: LUCIANA CARNEIRO DA CUNHA DE LIMA AZEVEDO
+    Logradouro: CANARIO
+    Número: 1221
+    Bairro: MOEMA
+  [8]
+    CPF: 007.650.338-01
+    Nome: VERIOVALDO BATISTA BRITO DE ALMEIDA
+    Logradouro: CANARIO
+    Número: 1138
+    Bairro: MOEMA
+  [9]
+    CPF: 075.531.118-30
+    Nome: ROGERIO PASTORE BASSITT
+    Logradouro: CANARIO
+    Número: 1111
+    Bairro: MOEMA
+  [10]
+    CPF: 322.516.238-84
+    Nome: CLEIDE NANCI MARTINS VISCONTE
+    Logradouro: CANARIO
+    Número: 1112
+    Bairro: MOEMA
+  [11]
+    CPF: 086.410.398-05
+    Nome: CELIA MARIA DE CARVALHO
+    Logradouro: CANARIO
+    Número: 1076
+    Bairro: MOEMA
+  [12]
+    CPF: 055.247.935-78
+    Nome: ROQUE RAMOS DA SILVA SANTOS
+    Logradouro: CANARIO
+    Número: 1221
+    Bairro: MOEMA
+  [13]
+    CPF: 465.166.896-87
+    Nome: LUIZ GONZAGA COELHO
+    Logradouro: CANARIO
+    Número: 1212
+    Bairro: MOEMA
+  [14]
+    CPF: 174.176.018-63
+    Nome: ALEXANDRE FRANCA DE OLIVEIRA
+    Logradouro: CANARIO
+    Número: 1270
+    Bairro: MOEMA
+  [15]
+    CPF: 269.238.218-86
+    Nome: ERIKA MARI OKAZAKI
+    Logradouro: CANARIO
+    Número: 1301
+    Bairro: MOEMA
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (11) 97111-8330
+    Nome: MARA LUCIA PINTO DA CUNHA
+    Cidade: S PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 97697-2121
+    Nome: MARA LUCIA PINTO DA CUNHA
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 98892-4522
+    Nome: MARA LUCIA PINTO DA CUNHA
+    Cidade: S PAULO
+    UF: SP
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 98892-4522
+    Nome: MARA LUCIA PINTO DA CUNHA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - mara67@superig.com.br
+  - maraluciapcunha@hotmail.com
+  - nathaliafazendeiro@gmail.com
+  - mara.cunha@ciademoda.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2161
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 10931.05
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 5071-6033
+    Ddd: 11
+    Número: 50716033
+    Tipo: FIXO
+    Data Inclusao: 13/08/2009
+    Data Informacao: 04/04/2012
+    Classificacao: A0
+  [2]
+    Telefone: (11) 97697-2121
+    Ddd: 11
+    Número: 976972121
+    Tipo: 3
+    Data Inclusao: 06/01/2012
+    Data Informacao: 11/11/2011
+    Classificacao: A1
+  [3]
+    Telefone: (11) 3567-6000
+    Ddd: 11
+    Número: 35676000
+    Tipo: CELULAR
+    Data Inclusao: 02/07/2014
+    Classificacao: C
+  [4]
+    Telefone: (11) 99725-0781
+    Ddd: 11
+    Número: 997250781
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (11) 98892-4522
+    Ddd: 11
+    Número: 988924522
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 16/03/2019
+    Classificacao: A0
+Occupation Code: 141415
+Occupation Name: Gerente de loja e supermercado
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

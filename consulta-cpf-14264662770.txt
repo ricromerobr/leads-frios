@@ -1,0 +1,290 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14264662770
+Data/Hora:  04/10/2026, 11:44:57
+Tempo API:  487ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 142.646.627-70
+Nome: NATALIA SANTOS DA SILVA
+Primeiro Nome: NATALIA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 25/08/1992
+Nome da Mãe: IVONE RODRIGUES DOS SANTOS DA SILVA
+Nome do Pai: ROBERTO ADELINO TERTO DA SILVA
+Score:
+  Value: 475
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 547
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: ENORA
+  Número: 15
+  Bairro: ACARI
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21531-300
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ENORA
+    Número: 15
+    Bairro: ACARI
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21531-300
+    Fonte: PRINCIPAL
+  [2]
+    Rua: COMPOSITOR MANOEL EUZÉBIO
+    Número: 12
+    Bairro: ACARI
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 1846
+    Complemento: AP 204 ETP 11
+    Bairro: BENFICA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20930-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: [empty]
+    Rua: ENORA
+    Número: 0000015
+    Bairro: ACARI
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21531-300
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (21) 96559-7617
+  - (21) 98873-2303
+  - (21) 99094-5772
+  - (21) 97135-8616
+Datasus Phones: (3 item(s))
+  - (21) 2474-7862
+  - (21) 96936-3681
+  - (21) 97856-3412
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 704305517926996
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Mosaic New: C08
+    Mosaic Secondary: D09
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 1846
+      Complemento: AP 204 ETP 11
+      Bairro: BENFICA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20930-040
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 988732303
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 27/07/2017
+    [2]
+      Telefone: 990945772
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [3]
+      Telefone: 971358616
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: jgdt92@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/07/2017
+  Score:
+    CSB8: 374
+    CSB8 FAIXA: MEDIO
+    CSBA: 475
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: IVONE RODRIGUES DOS SANTOS DA SILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 547.91
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - jgdt92@gmail.com
+E-mail: jgdt92@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.912.367-36
+    Nome: ALESSANDRA LEANDRO TAVARES
+    Logradouro: BRASIL
+    Número: 2232
+    Bairro: BENFICA
+  [2]
+    CPF: 081.456.747-94
+    Nome: EDUARDO GEREMIAS DE SOUZA
+    Logradouro: BRASIL
+    Número: 3300
+    Bairro: BENFICA
+  [3]
+    CPF: 022.060.093-74
+    Nome: MARCIO SANTOS BARBOSA
+    Logradouro: BRASIL
+    Número: 2542
+    Bairro: BENFICA
+  [4]
+    CPF: 085.535.407-07
+    Nome: LUIZ EDUARDO DIAS DE ALMEIDA
+    Logradouro: BRASIL
+    Número: 2522
+    Bairro: BENFICA
+  [5]
+    CPF: 006.684.517-34
+    Nome: SERGIO PEIXOTO DE CASTRO PALHARES
+    Logradouro: BRASIL
+    Número: 3666
+    Bairro: BENFICA
+  [6]
+    CPF: 033.361.197-74
+    Nome: SIMONE GOMES SILVA DE MELO
+    Logradouro: BRASIL
+    Número: 2790
+    Bairro: BENFICA
+  [7]
+    CPF: 011.013.297-18
+    Nome: ROGERIO MARTINS DE OLIVEIRA
+    Logradouro: BRASIL
+    Número: 1940
+    Bairro: BENFICA
+  [8]
+    CPF: 072.247.207-20
+    Nome: DANIEL DUARTE LEAL
+    Logradouro: BRASIL
+    Número: 2498
+    Bairro: BENFICA
+  [9]
+    CPF: 051.805.497-79
+    Nome: RENATA MACHADO BENJAMIM
+    Logradouro: BRASIL
+    Número: 1876
+    Bairro: BENFICA
+  [10]
+    CPF: 117.288.907-48
+    Nome: ANGELICA CHRISTINA CANUTO MIRANDA DE BRITO
+    Logradouro: BRASIL
+    Número: 1976
+    Bairro: BENFICA
+  [11]
+    CPF: 088.087.307-86
+    Nome: DIOGO ABRANTES E SILVA
+    Logradouro: BRASIL
+    Número: 2996
+    Bairro: BENFICA
+  [12]
+    CPF: 495.385.007-68
+    Nome: JOSE LUCAS DA SILVA FILHO
+    Logradouro: BRASIL
+    Número: 3200
+    Bairro: BENFICA
+  [13]
+    CPF: 126.134.957-15
+    Nome: SONIA MARIA DOS SANTOS
+    Logradouro: BRASIL
+    Número: 2540
+    Bairro: BENFICA
+  [14]
+    CPF: 080.631.277-73
+    Nome: JONATAS GERALDO LIMA
+    Logradouro: BRASIL
+    Número: 2996
+    Bairro: BENFICA
+  [15]
+    CPF: 114.665.437-52
+    Nome: SILVANA VILELA DE JESUS
+    Logradouro: BRASIL
+    Número: 2048
+    Bairro: BENFICA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (21) 96559-7617
+    Nome: NATALIA SANTOS DA SILVA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+E-mails: (1 item(s))
+  - jgdt92@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 547
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 547.91
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (21) 98873-2303
+    Ddd: 21
+    Número: 988732303
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A1
+  [2]
+    Telefone: (21) 99094-5772
+    Ddd: 21
+    Número: 990945772
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [3]
+    Telefone: (21) 97135-8616
+    Ddd: 21
+    Número: 971358616
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

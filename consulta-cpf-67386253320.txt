@@ -1,0 +1,386 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  67386253320
+Data/Hora:  03/10/2026, 14:56:31
+Tempo API:  533ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 673.862.533-20
+Nome: JOSE DE SOUSA DOS ANJOS
+Primeiro Nome: JOSE
+Sobrenome: ANJOS
+Sexo: Masculino
+Data de Nascimento: 06/01/1973
+Nome da Mãe: MARIA VIEIRA DE SOUSA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 4660155
+Rg State: GO
+Voter Id: 037578921082
+Mosaic: F20
+Ocupação: Garçom
+Score:
+  Value: 54
+  Range: ALTISSIMO
+E-mail: josepanificadoramundial@gmail.com
+Additional Emails: (1 item(s))
+  - josepanificadoramundial@gmail.com
+Federal Status: REGULAR
+Renda: 1900
+Income Bracket: 2
+Cbo: 513205
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: ACAPULCO
+  Complemento: QD 02 LT15
+  Bairro: JARDIM NOVO MUNDO
+  Cidade: GOIANIA
+  Estado: GOIAS
+  CEP: 74710-180
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ACAPULCO
+    Complemento: QD 02 LT15
+    Bairro: JARDIM NOVO MUNDO
+    Cidade: GOIANIA
+    Estado: GOIAS
+    CEP: 74710-180
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AV DECIMA AVENIDA
+    Número: 92
+    Bairro: VL NOVA
+    Cidade: GOIANIA - GO
+    Fonte: DATASUS
+  [3]
+    Rua: MP 2
+    Tipo: R
+    Complemento: Q 5 LT3
+    Bairro: RES MAR DEL PLATA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74766-172
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DECIMA AVENIDA
+    Tipo: AV
+    Número: 2
+    Complemento: Q 67 B
+    Bairro: ST LESTE VILA NOVA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74645-040
+    Data Atualizacao: 19/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DECIMA AVENIDA
+    Tipo: AV
+    Número: 92
+    Bairro: ST LESTE VILA NOVA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74645-040
+    Data Atualizacao: 13/04/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DECIMA AVENIDA
+    Tipo: AV
+    Complemento: Q 67 B L 2
+    Bairro: ST LESTE VILA NOVA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74645-040
+    Data Atualizacao: 16/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: 7
+    Número: 0000633
+    Bairro: SETOR CENTRAL
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74023-020
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: ACAPULCO
+    Bairro: JARDIM NOVO MUNDO
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74710-180
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (62) 98273-5935
+  - (62) 99494-4017
+  - (62) 99109-4208
+  - (62) 99282-5491
+  - (62) 99326-9021
+  - (62) 3264-7184
+  - (62) 99155-9674
+  - (62) 3202-1679
+  - (62) 3224-0679
+Datasus Phones: (1 item(s))
+  - (62) 9155-9674
+Cidade de Nascimento: INVALIDO
+Cns: 702007366839281
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/08/2019
+    Info Date: 28/12/2002
+    Rg State: GO
+    Mosaic: F20
+    Mosaic New: G23
+    Mosaic Secondary: E15
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: MP 2
+      Complemento: Q 5 LT3
+      Bairro: RES MAR DEL PLATA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74766-172
+      Date Added: 17/12/2018
+    [2]
+      Tipo: AV
+      Rua: DECIMA AVENIDA
+      Número: 2
+      Complemento: Q 67 B
+      Bairro: ST LESTE VILA NOVA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74645-040
+      Date Added: 03/06/2015
+    [3]
+      Tipo: AV
+      Rua: DECIMA AVENIDA
+      Número: 92
+      Bairro: ST LESTE VILA NOVA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74645-040
+      Date Added: 09/12/2014
+    [4]
+      Tipo: AV
+      Rua: DECIMA AVENIDA
+      Complemento: Q 67 B L 2
+      Bairro: ST LESTE VILA NOVA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74645-040
+      Date Added: 22/01/2018
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32647184
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 28/12/2002
+    [2]
+      Telefone: 991559674
+      Ddd: 62
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 22/10/2010
+    [3]
+      Telefone: 32021679
+      Ddd: 62
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+    [4]
+      Telefone: 32240679
+      Ddd: 62
+      Tipo: 2
+      Classificacao: D2
+      Date Added: 15/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: josepanificadoramundial@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 14
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 54
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA VIEIRA DE SOUSA
+      Vinculo: MAE
+  Pis: 12581828090
+  Tse:
+    Titulo: 37578921082
+    Zona: 126
+    Secao: 229
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 577.526.561-00
+    Nome: MANOEL MESSIAS BARBOSA OLIVEIRA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [2]
+    CPF: 900.217.461-68
+    Nome: LIDIA PEREIRA MONTE OLIVEIRA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [3]
+    CPF: 960.161.751-53
+    Nome: MARLICE MOREIRA GONTIJO
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [4]
+    CPF: 040.395.811-30
+    Nome: VANIA LUCIA PEREIRA RODRIGUES
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [5]
+    CPF: 034.568.091-07
+    Nome: ALICIANE RODRIGUES DA SILVA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [6]
+    CPF: 029.771.041-94
+    Nome: WILHAN DANIEL MOREIRA DE OLIVEIRA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [7]
+    CPF: 022.496.911-00
+    Nome: MICHAEL LUCAS DA SILVA SIQUEIRA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [8]
+    CPF: 849.938.471-49
+    Nome: SILVANIA FIGUEREDO DA COSTA
+    Logradouro: MP 2
+    Número: 1
+    Bairro: RES MAR DEL PLATA
+  [9]
+    CPF: 516.951.971-00
+    Nome: ALZENI BALBINO DE ARAUJO
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [10]
+    CPF: 277.315.961-68
+    Nome: ESPEDITO FERNANDO DE SOUSA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [11]
+    CPF: 019.265.071-85
+    Nome: REGISLAINY CRISTINA ALVES CAIXETA
+    Logradouro: MP 2
+    Número: 9999
+    Bairro: RES MAR DEL PLATA
+  [12]
+    CPF: 757.764.801-91
+    Nome: ANDRIASNARA AUGUSTA DA SILVA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [13]
+    CPF: 578.175.884-49
+    Nome: MARCOS MAURICIO DA SILVA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+  [14]
+    CPF: 470.251.231-53
+    Nome: JOSE NUNES DE ALENCAR
+    Logradouro: MP 2
+    Número: 1
+    Bairro: RES MAR DEL PLATA
+  [15]
+    CPF: 031.676.271-74
+    Nome: MAIKON DOUGLAS GONCALVES SILVA
+    Logradouro: MP 2
+    Bairro: RES MAR DEL PLATA
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (62) 99494-4017
+    Nome: JOSE DE SOUSA DOS ANJOS
+    Cidade: GOIANIA
+    UF: GO
+  [2]
+    Telefone: (62) 99109-4208
+    Nome: JOSE DE SOUSA DOS ANJOS
+    Cidade: GOIANIA
+    UF: GO
+  [3]
+    Telefone: (62) 99282-5491
+    Nome: JOSE DE SOUSA DOS ANJOS
+    Cidade: GOIANIA
+    UF: GO
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (62) 99326-9021
+    Nome: JOSE DE SOUSA DOS ANJOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - josepanificadoramundial@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1900
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (62) 3264-7184
+    Ddd: 62
+    Número: 32647184
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 28/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (62) 99155-9674
+    Ddd: 62
+    Número: 991559674
+    Tipo: 3
+    Data Inclusao: 22/10/2010
+    Classificacao: A0
+  [3]
+    Telefone: (62) 3202-1679
+    Ddd: 62
+    Número: 32021679
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: B
+  [4]
+    Telefone: (62) 3224-0679
+    Ddd: 62
+    Número: 32240679
+    Tipo: CELULAR
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+Occupation Code: 513405
+Occupation Name: Garçom
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

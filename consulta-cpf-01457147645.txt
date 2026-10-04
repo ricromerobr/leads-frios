@@ -1,0 +1,460 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01457147645
+Data/Hora:  04/10/2026, 02:28:10
+Tempo API:  702ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 014.571.476-45
+Nome: GUSTAVO ALBERTO RODRIGUES DA COSTA
+Primeiro Nome: GUSTAVO
+Sobrenome: COSTA
+Sexo: Masculino
+Data de Nascimento: 02/01/1983
+Nome da Mãe: HELOISA MARIA LUCIANO
+Nome do Pai: ILDEU RODRIGUES DA COSTA
+RG: MG12426832          
+Voter Id: 150535440299
+Mosaic: B05
+Ocupação: Dirigentes e Gerentes (categoria CBO)
+Score:
+  Value: 781
+  Range: BAIXISSIMO RISCO
+E-mail: gustavarc13@gmail.com
+Additional Emails: (3 item(s))
+  - gustavarc13@gmail.com
+  - vocevaiver@outlook.com.br
+  - gustavoarc13@gmail.com
+Federal Status: REGULAR
+Renda: 3145
+Income Bracket: 4
+Cbo: 225125
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: ANA DE ASSIS VIANA
+  Número: 138
+  Bairro: LGA STO ANT
+  Cidade: PEDRO LEOPOLDO
+  Estado: MINAS GERAIS
+  CEP: 33600-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANA DE ASSIS VIANA
+    Número: 138
+    Bairro: LGA STO ANT
+    Cidade: PEDRO LEOPOLDO
+    Estado: MINAS GERAIS
+    CEP: 33600-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CORREGO DA MATA
+    Número: 329
+    Bairro: PORTO
+    Cidade: BELO HORIZONTE - MG
+    Fonte: DATASUS
+  [3]
+    Rua: CORREGO DA MATA
+    Tipo: R
+    Número: 329
+    Bairro: HORTO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31030-030
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: VARGAS
+    Tipo: AV
+    Número: 1217
+    Complemento: FDS
+    Bairro: JD JOSE OMETTO II
+    Cidade: ARARAS
+    Estado: SP
+    CEP: 13606-361
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: STEPINAC
+    Tipo: R
+    Número: 143
+    Complemento: AP 301
+    Bairro: CIDADE NOVA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31170-220
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: GUSTAVO  ALBERTO RODRIGUES DA COSTA
+    Rua: 0000329
+    Número: CORREGO DA MATA
+    Bairro: HORTO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31030-030
+    Fonte: ASSECC
+  [7]
+    Tipo: [empty]
+    Rua: STEPINAC
+    Número: 0000143
+    Bairro: CIDADE NOVA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 03117-020
+    Fonte: ASSECC
+  [8]
+    Rua: R CORREGO DA MATA
+    Número: 329
+    Bairro: HORTO
+    Estado: MG
+    CEP: 31030-030
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (31) 99880-7294
+  - (31) 99182-3371
+  - 553133241063
+  - (31) 99811-7294
+  - (31) 3324-1063
+  - +55 (31) 99182-3371
+  - (31) 3482-7294
+  - (31) 3461-9323
+  - (31) 3482-7290
+Datasus Phones: (1 item(s))
+  - (31) 9182-3371
+Cidade de Nascimento: BELO HORIZONTE - MG
+Cns: 704800557655048
+Paycom:
+  E-mail: vocevaiver@outlook.com.br
+  Created At: 2019-03-23 10:39:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Cardeal Stepinac
+    Número: 143
+    Bairro: Cidade Nova
+    Cidade: Belo Horizonte
+    Estado: MG
+    País: BRA
+    CEP: 31170-220
+    Telephone: 55313324-1063
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Info Date: 15/07/2008
+    Mosaic: B05
+    Mosaic New: A02
+    Mosaic Secondary: A01
+    Income Bracket Id: 12
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: CORREGO DA MATA
+      Número: 329
+      Bairro: HORTO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31030-030
+      Date Added: 17/07/2014
+    [2]
+      Tipo: AV
+      Rua: VARGAS
+      Número: 1217
+      Complemento: FDS
+      Bairro: JD JOSE OMETTO II
+      Cidade: ARARAS
+      Estado: SP
+      CEP: 13606-361
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: ANA DE ASSIS VIANA
+      Número: 138
+      Bairro: LGA STO ANT
+      Cidade: PEDRO LEOPOLDO
+      Estado: MG
+      CEP: 33600-000
+      Date Added: 30/04/2015
+    [4]
+      Tipo: R
+      Rua: STEPINAC
+      Número: 143
+      Complemento: AP 301
+      Bairro: CIDADE NOVA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31170-220
+      Date Added: 16/05/2019
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 34827294
+      Ddd: 31
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 05/03/2009
+      Info Date: 25/02/2005
+    [2]
+      Telefone: 991823371
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 07/04/2014
+    [3]
+      Telefone: 34619323
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 21/05/2014
+    [4]
+      Telefone: 34827290
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/02/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: gustavoarc13@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: gustavarc13@gmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 426
+    CSB8 FAIXA: MEDIO
+    CSBA: 781
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 6949548613
+      Nome: HELOISA MARIA LUCIANO
+      Vinculo: MAE
+  Pis: 19054086052
+  Tse:
+    Titulo: 150535440299
+    Zona: 26
+    Secao: 126
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 14397.17
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 040.553.846-45
+    Nome: LUCAS NICODEMOS BATISTA DE PAIVA
+    Logradouro: CORREGO DA MATA
+    Número: 400
+    Bairro: HORTO
+  [2]
+    CPF: 511.951.946-68
+    Nome: ANGELA MARIA CORREA
+    Logradouro: CORREGO DA MATA
+    Número: 290
+    Bairro: HORTO
+  [3]
+    CPF: 014.700.546-98
+    Nome: ANA CAROLINA LIMA MAFRA BATISTA
+    Logradouro: CORREGO DA MATA
+    Número: 400
+    Bairro: HORTO
+  [4]
+    CPF: 980.656.966-00
+    Nome: BRUNO AUGUSTO DE CARVALHO
+    Logradouro: CORREGO DA MATA
+    Número: 601
+    Bairro: HORTO
+  [5]
+    CPF: 990.574.336-72
+    Nome: CLAUDINEY JOSE DE SOUZA
+    Logradouro: CORREGO DA MATA
+    Número: 590
+    Bairro: HORTO
+  [6]
+    CPF: 439.423.696-72
+    Nome: MARY DINIZ MARQUES CORREA
+    Logradouro: CORREGO DA MATA
+    Número: 400
+    Bairro: HORTO
+  [7]
+    CPF: 044.790.946-01
+    Nome: PEDRO PAULO SORIANO DE CARVALHO
+    Logradouro: CORREGO DA MATA
+    Número: 296
+    Bairro: HORTO
+  [8]
+    CPF: 198.777.736-00
+    Nome: FRANCISCO FERREIRA DA SILVA
+    Logradouro: CORREGO DA MATA
+    Número: 296
+    Bairro: HORTO
+  [9]
+    CPF: 031.944.136-94
+    Nome: CARLA FERNANDA FERREIRA GOMES DA SILVA
+    Logradouro: CORREGO DA MATA
+    Número: 590
+    Bairro: HORTO
+  [10]
+    CPF: 061.959.756-99
+    Nome: MEIRE DA CONSOLACAO RIBEIRO
+    Logradouro: CORREGO DA MATA
+    Número: 319
+    Bairro: HORTO
+  [11]
+    CPF: 316.706.016-68
+    Nome: MARCOS CORDEIRO
+    Logradouro: CORREGO DA MATA
+    Número: 590
+    Bairro: HORTO
+  [12]
+    CPF: 030.219.816-40
+    Nome: ROBERTA MURTA DE OLIVEIRA
+    Logradouro: CORREGO DA MATA
+    Número: 501
+    Bairro: HORTO
+  [13]
+    CPF: 522.915.376-87
+    Nome: HENRIQUE LUIZ SABINO
+    Logradouro: CORREGO DA MATA
+    Número: 552
+    Bairro: HORTO
+  [14]
+    CPF: 050.169.296-70
+    Nome: VENICIUS SANTOS TEIXEIRA
+    Logradouro: CORREGO DA MATA
+    Número: 590
+    Bairro: HORTO
+  [15]
+    CPF: 101.357.416-88
+    Nome: MATHEUS HENRIQUE MARINHO E SANTOS
+    Logradouro: CORREGO DA MATA
+    Número: 309
+    Bairro: HORTO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (31) 99811-7294
+    Nome: R
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [2]
+    Telefone: (31) 99880-7294
+    Nome: GUSTAVO  ALBERTO RODRIGUES DA COSTA
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [3]
+    Telefone: (31) 99182-3371
+    Nome: GUSTAVO  ALBERTO RODRIGUES DA COSTA
+    Cidade: BELO HORIZONTE
+    UF: MG
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (31) 3324-1063
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 06OCT2018:17:52:34
+    Cel Contato: +5531991823371
+    Complemento: AP - Apartamento: 301;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (31) 99182-3371
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (31) 9182-3371
+    Plano: PF_POS_PURO
+    Data Instalacao: 27/03/2013
+    Valor Fatura: 262.88
+    Mes Referencia: 202009
+  [3]
+    Telefone: (31) 99880-7294
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (31) 9880-7294
+    Plano: PF_POS_PURO
+    Data Instalacao: 22/05/2015
+    Valor Fatura: 262.88
+    Mes Referencia: 202009
+E-mails: (3 item(s))
+  - gustavarc13@gmail.com
+  - vocevaiver@outlook.com.br
+  - gustavoarc13@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3145
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 14397.17
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (31) 3482-7294
+    Ddd: 31
+    Número: 34827294
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 25/02/2005
+    Classificacao: A0
+  [2]
+    Telefone: (31) 99182-3371
+    Ddd: 31
+    Número: 991823371
+    Tipo: 3
+    Data Inclusao: 07/04/2014
+    Classificacao: A0
+  [3]
+    Telefone: (31) 3461-9323
+    Ddd: 31
+    Número: 34619323
+    Tipo: FIXO
+    Data Inclusao: 21/05/2014
+    Classificacao: D2
+  [4]
+    Telefone: (31) 3482-7290
+    Ddd: 31
+    Número: 34827290
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+Occupation Code: 111
+Occupation Name: Dirigentes e Gerentes (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

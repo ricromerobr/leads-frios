@@ -1,0 +1,359 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03838809980
+Data/Hora:  02/10/2026, 17:14:32
+Tempo API:  771ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 038.388.099-80
+Nome: JAISON ROBERTO DE SOUZA
+Primeiro Nome: JAISON
+Sobrenome: SOUZA
+Sexo: Masculino
+Data de Nascimento: 21/04/1982
+Nome da Mãe: JANETE BORBA DE SOUZA
+Nome do Pai: JOSE DE SOUZA
+RG: 4263625
+Rg Issuer: SSP
+Voter Id: 040118240906
+Mosaic: D13
+Ocupação: Rebarbador de metal
+Score:
+  Value: 343
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 2227
+Income Bracket: 3
+Cbo: 782410
+Endereço:
+  Tipo: RUA
+  Rua: PARANAENSE
+  Número: 44
+  Bairro: COMASA
+  Cidade: JOINVILLE
+  Estado: SANTA CATARINA
+  CEP: 89228-405
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PARANAENSE
+    Número: 44
+    Bairro: COMASA
+    Cidade: JOINVILLE
+    Estado: SANTA CATARINA
+    CEP: 89228-405
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PARANAENSE
+    Número: 44
+    Bairro: COMASA
+    Cidade: JOINVILLE - SC
+    Fonte: DATASUS
+  [3]
+    Rua: PARANAENSE
+    Tipo: R
+    Número: 14
+    Bairro: COMASA
+    Cidade: JOINVILLE
+    Estado: SC
+    CEP: 89228-405
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: SANTOS
+    Tipo: R
+    Número: 1
+    Bairro: BUCAREIN
+    Cidade: JOINVILLE
+    Estado: SC
+    CEP: 89202-460
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: PARANAENSE
+    Número: 0000044
+    Bairro: COMASA
+    Cidade: JOINVILLE
+    Estado: SC
+    CEP: 89228-405
+    Fonte: ASSECC
+  [6]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (47) 99728-8068
+  - (47) 99107-1120
+  - (47) 99943-3318
+  - (47) 3433-1473
+  - (47) 2071-0340
+  - (55) 3030-2536
+Cidade de Nascimento: JOINVILLE - SC
+Cns: 709108226452330
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 26/10/2019
+    Info Date: 12/06/2007
+    Rg Issuer: SSP
+    Mosaic: D13
+    Mosaic New: E18
+    Mosaic Secondary: H27
+    Income Bracket Id: 2
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: PARANAENSE
+      Número: 44
+      Bairro: COMASA
+      Cidade: JOINVILLE
+      Estado: SC
+      CEP: 89228-405
+      Date Added: 09/12/2019
+    [2]
+      Tipo: R
+      Rua: PARANAENSE
+      Número: 14
+      Bairro: COMASA
+      Cidade: JOINVILLE
+      Estado: SC
+      CEP: 89228-405
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: SANTOS
+      Número: 1
+      Bairro: BUCAREIN
+      Cidade: JOINVILLE
+      Estado: SC
+      CEP: 89202-460
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991071120
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 999433318
+      Ddd: 47
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [3]
+      Telefone: 34331473
+      Ddd: 47
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/03/2016
+      Info Date: 24/02/2016
+    [4]
+      Telefone: 20710340
+      Ddd: 47
+      Tipo: 1
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 30302536
+      Ddd: 55
+      Tipo: 1
+      Classificacao: D
+      Date Added: 19/07/2017
+  Score:
+    CSBA: 343
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 988.918.559-87
+      Nome: JULIANA DE SOUZA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 821.791.079-00
+      Nome: JOSIANE CRISTINA DE SOUZA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 936.847.899-68
+      Nome: JANETE BORBA DE SOUZA
+      Vinculo: MAE
+  Pis: 20079128941
+  Tse:
+    Titulo: 40118240906
+    Zona: 95
+    Secao: 162
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1143.73
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 038.624.719-69
+    Nome: JOSE MOACIR LUCIO
+    Logradouro: PARANAENSE
+    Número: 228
+    Bairro: COMASA
+  [2]
+    CPF: 058.999.259-73
+    Nome: EMERSON FONSECA DE SOUZA
+    Logradouro: PARANAENSE
+    Número: 278
+    Bairro: COMASA
+  [3]
+    CPF: 003.514.619-22
+    Nome: SIDIMAR ANTONIO TUBIN
+    Logradouro: PARANAENSE
+    Número: 88
+    Bairro: COMASA
+  [4]
+    CPF: 970.747.809-87
+    Nome: ANA CARLA DE OLIVEIRA
+    Logradouro: PARANAENSE
+    Número: 172
+    Bairro: COMASA
+  [5]
+    CPF: 450.898.769-91
+    Nome: NILTON DE SOUZA
+    Logradouro: PARANAENSE
+    Número: 216
+    Bairro: COMASA
+  [6]
+    CPF: 594.899.609-34
+    Nome: ALZIRA BLASIUS
+    Logradouro: PARANAENSE
+    Número: 58
+    Bairro: COMASA
+  [7]
+    CPF: 658.003.469-68
+    Nome: EDMILSON ALVES
+    Logradouro: PARANAENSE
+    Número: 323
+    Bairro: COMASA
+  [8]
+    CPF: 750.813.349-87
+    Nome: VERONICA RODRIGUES
+    Logradouro: PARANAENSE
+    Número: 165
+    Bairro: COMASA
+  [9]
+    CPF: 821.960.289-91
+    Nome: EDMAR APARECIDO DA SILVA
+    Logradouro: PARANAENSE
+    Número: 120
+    Bairro: COMASA
+  [10]
+    CPF: 011.381.650-26
+    Nome: DANIEL DALLA ROZ
+    Logradouro: PARANAENSE
+    Número: 384
+    Bairro: COMASA
+  [11]
+    CPF: 064.891.429-10
+    Nome: GILSON MARTINS
+    Logradouro: PARANAENSE
+    Número: 150
+    Bairro: COMASA
+  [12]
+    CPF: 044.143.999-39
+    Nome: EDIVALDO LOPES DE OLIVEIRA
+    Logradouro: PARANAENSE
+    Número: 338
+    Bairro: COMASA
+  [13]
+    CPF: 851.268.969-20
+    Nome: ARNOLDO SILVINO DA CUNHA
+    Logradouro: PARANAENSE
+    Número: 59
+    Bairro: COMASA
+  [14]
+    CPF: 489.229.941-34
+    Nome: EDERALDO DA SILVA TOLEDO
+    Logradouro: PARANAENSE
+    Número: 339
+    Bairro: COMASA
+  [15]
+    CPF: 768.715.259-04
+    Nome: JOSE ARY TRONCO
+    Logradouro: PARANAENSE
+    Número: 88
+    Bairro: COMASA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (47) 99728-8068
+    Nome: JAISON ROBERTO DE SOUSA
+    Cidade: JOINVILLE
+    UF: SC
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (47) 99728-8068
+    Nome: JAISON ROBERTO DE SOUSA
+    Operadora: TIM - Celular
+    Fonte: br21m
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2227
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1143.73
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (47) 99107-1120
+    Ddd: 47
+    Número: 991071120
+    Tipo: 3
+    Data Inclusao: 22/11/2006
+    Classificacao: D
+  [2]
+    Telefone: (47) 99943-3318
+    Ddd: 47
+    Número: 999433318
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (47) 3433-1473
+    Ddd: 47
+    Número: 34331473
+    Tipo: FIXO
+    Data Inclusao: 15/03/2016
+    Data Informacao: 24/02/2016
+    Classificacao: D2
+  [4]
+    Telefone: (47) 2071-0340
+    Ddd: 47
+    Número: 20710340
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (55) 3030-2536
+    Ddd: 55
+    Número: 30302536
+    Tipo: FIXO
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+Occupation Code: 821450
+Occupation Name: Rebarbador de metal
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,500 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  52171175168
+Data/Hora:  02/10/2026, 16:15:23
+Tempo API:  750ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 521.711.751-68
+Nome: NATANIEL DE SENA SOARES
+Primeiro Nome: NATANIEL
+Sobrenome: SOARES
+Sexo: Masculino
+Data de Nascimento: 15/03/1972
+Nome da Mãe: ZELIA DE SENA SOARES
+Nome do Pai: EDUARDO DE SOUSA SOARES
+RG: 25933
+Rg Issuer: I CLA - CARTEIRA DE IDENTIDADE CLASSISTA
+Rg State: GO
+Voter Id: 041652221031
+Mosaic: D11
+Ocupação: Operador de turismo
+Score:
+  Value: 746
+  Range: BAIXISSIMO RISCO
+E-mail: ELEICAOMASTERCONTABILIDADE@GMAIL.COM
+Federal Status: REGULAR
+Renda: 6067
+Income Bracket: 5
+Cbo: 21110
+Endereço:
+  Tipo: RUA
+  Rua: BOULEVARD C DOS ARCOS
+  Complemento: QD 27 LT 02 SALA 02
+  Bairro: GOIANIA
+  Cidade: GOIANIA
+  Estado: GOIAS
+  CEP: 74663-130
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BOULEVARD C DOS ARCOS
+    Complemento: QD 27 LT 02 SALA 02
+    Bairro: GOIANIA
+    Cidade: GOIANIA
+    Estado: GOIAS
+    CEP: 74663-130
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DO OURO
+    Bairro: GOIANIA
+    Cidade: GOIANIA - GO
+    Fonte: DATASUS
+  [3]
+    Rua: DOS DIAMANTES
+    Tipo: R
+    Complemento: Q 36 LT 46
+    Bairro: ST GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-260
+    Data Atualizacao: 15/05/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: DOS DIAMANTES
+    Tipo: R
+    Número: SN
+    Complemento: Q 36 LT 41
+    Bairro: ST GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-260
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DOS DIAMANTES
+    Tipo: R
+    Número: 1
+    Bairro: ST GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-260
+    Data Atualizacao: 17/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DO OURO
+    Tipo: R
+    Complemento: Q 41 LT 6
+    Bairro: ST GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-490
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: DOS DIAMANTES Q 36
+    Bairro: SETOR GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-260
+    Fonte: ASSECC
+  [8]
+    Tipo: RUA
+    Rua: R DOS DIAMANTES QD 36 LT 46 CASA 1
+    Número: 36
+    Bairro: SETOR GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-260
+    Fonte: NET
+  [9]
+    Tipo: R
+    Rua: DOS DIAMANTES
+    Complemento: QD 36 LT 46 CAS
+    Bairro: SETOR GOIANIA 2
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74663-260
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (62) 3877-6414
+  - (62) 98481-0190
+  - (62) 91007-0726
+  - (62) 99951-7052
+  - (62) 99635-6622
+  - (62) 3205-7638
+  - 556232057638
+  - (62) 3274-3877
+  - (62) 3521-7976
+  - (62) 3213-6012
+Cidade de Nascimento: ITAPACI - GO
+Cns: 702008390457386
+Rg Issue Date: 738298800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/10/2019
+    Info Date: 14/06/2008
+    Rg Issuer: SSP
+    Mosaic: D11
+    Mosaic New: G22
+    Mosaic Secondary: A02
+    Income Bracket Id: 5
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: DOS DIAMANTES
+      Complemento: Q 36 LT 46
+      Bairro: ST GOIANIA 2
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74663-260
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: DOS DIAMANTES
+      Número: SN
+      Complemento: Q 36 LT 41
+      Bairro: ST GOIANIA 2
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74663-260
+      Date Added: 11/09/2013
+    [3]
+      Tipo: R
+      Rua: DOS DIAMANTES
+      Número: 1
+      Bairro: ST GOIANIA 2
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74663-260
+      Date Added: 27/12/2010
+    [4]
+      Tipo: R
+      Rua: DO OURO
+      Complemento: Q 41 LT 6
+      Bairro: ST GOIANIA 2
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74663-490
+      Date Added: 03/08/2009
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32057638
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 32743877
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 27/12/2005
+    [3]
+      Telefone: 35217976
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 17/12/2003
+    [4]
+      Telefone: 32136012
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/12/2014
+      Info Date: 20/10/2005
+    [5]
+      Telefone: 984810190
+      Ddd: 62
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 04/04/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: eleicaomastercontabilidade@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+  Score:
+    CSB8: 838
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 746
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (5 item(s))
+    [1]
+      CPF: 484.932.361-87
+      Nome: TANIA MARIA DE SENA SOARES DA SILVA
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 830.793.511-34
+      Nome: ZELIA DE SENA SOARES
+      Vinculo: MAE
+    [3]
+      CPF: 336.371.801-20
+      Nome: FRANCISCO DE ASSIS DE SENA SOARES
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 391.716.551-15
+      Nome: ROGERIO DE SENA SOARES
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 665.176.131-53
+      Nome: MAX SANIO DE SENA SOARES
+      Vinculo: IRMA(O)
+  Pis: 17051087698
+  Tse:
+    Titulo: 41652221031
+    Zona: 146
+    Secao: 216
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2632.98
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (2 item(s))
+  - eleicaomastercontabilidade@gmail.com
+  - mrfss2015@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 735.591.991-15
+    Nome: GABRIELA GONZALES DE REZENDE
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: GOIANIA 2
+  [2]
+    CPF: 028.766.221-73
+    Nome: LUZIA GABRIELA FLOR SANTOS BRAGA
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: GOIANIA 2
+  [3]
+    CPF: 032.089.961-60
+    Nome: HENRIQUE PANAZZOLO BIGARELLA
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: GOIANIA 2
+  [4]
+    CPF: 862.109.391-04
+    Nome: FLAVIO SALES MARINHO JUNIOR
+    Logradouro: DOS DIAMANTES
+    Bairro: ST GOIANIA 2
+  [5]
+    CPF: 053.342.141-19
+    Nome: MAYZA MACEDO DA CRUZ
+    Logradouro: DOS DIAMANTES
+    Bairro: GOIANIA 2
+  [6]
+    CPF: 521.765.681-68
+    Nome: VICENTINA LEITE
+    Logradouro: DOS DIAMANTES
+    Número: 36
+    Bairro: GOIANIA 2
+  [7]
+    CPF: 007.812.541-32
+    Nome: ELINS RIBEIRO DA SILVA
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: GOIANIA 2
+  [8]
+    CPF: 048.395.421-71
+    Nome: DANIELY ALVES MARTINS
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: GOIANIA 2
+  [9]
+    CPF: 470.996.661-34
+    Nome: BIMAEL PEREIRA DUARTE
+    Logradouro: DOS DIAMANTES
+    Número: 10
+    Bairro: GOIANIA 2
+  [10]
+    CPF: 227.943.951-49
+    Nome: HONORIO JOSE SANTANA
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: ST GOIANIA 2
+  [11]
+    CPF: 048.395.421-71
+    Nome: DANIELY ALVES MARTINS
+    Logradouro: DOS DIAMANTES
+    Número: SN
+    Bairro: GOIANIA 2
+  [12]
+    CPF: 040.596.012-33
+    Nome: ANTONIO DOUGLAS LEITE
+    Logradouro: DOS DIAMANTES
+    Número: 908
+    Bairro: GOIANIA 2
+  [13]
+    CPF: 899.577.841-53
+    Nome: GISELLE TORES DA SILVA
+    Logradouro: DOS DIAMANTES
+    Número: 4
+    Bairro: ST GOIANIA 2
+  [14]
+    CPF: 394.547.891-04
+    Nome: ALEXANDRE TRENTINO
+    Logradouro: DOS DIAMANTES
+    Bairro: ST GOIANIA 2
+  [15]
+    CPF: 548.779.701-34
+    Nome: NIURA CRISTINA DOMINGOS
+    Logradouro: DOS DIAMANTES
+    Número: 36
+    Bairro: ST GOIANIA 2
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (62) 98481-0190
+    Nome: NATANIEL DE SENA SOARES
+    Cidade: GOIANIA
+    UF: GO
+  [2]
+    Telefone: (62) 91007-0726
+    Nome: NATANIEL DE SENA SOARES
+    Cidade: GOIANIA
+    UF: GO
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 18089950
+    Operadora: 10
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 23/11/2018
+    Tempo Base: 21
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201811
+    Geo:
+      Ibge Municipio: 5208707
+      Ddd Origem: 62
+      Estado Nome: GOIAS
+    Nascimento: 15/03/1972
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 11961
+      Classe Social: B1
+      Score: 709
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 529
+        Net: 509
+        Ctv: 564
+        Faixa Cmv: 435 - 547
+        Faixa Net: 349 - 669
+        Faixa Ctv: 557 - 597
+        Risco Cmv: MEDIO
+        Risco Net: MEDIO
+        Risco Ctv: ALTO
+        Idade: 48
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (62) 3205-7638
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Cel Contato: +55
+    Complemento: QD - Quadra: 36; LT - Lote: 46;
+    Tipo Cliente: Residencial
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (62) 3205-7638
+    Nome: NATANIEL DE SENA SOARES
+    Cidade: GOIANIA
+    UF: GO
+    Operadora: EMBRATEL
+    Fonte: algar
+  [2]
+    Telefone: (62) 98481-0190
+    Nome: NATANIEL DE SENA SOARES
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - eleicaomastercontabilidade@gmail.com
+  - mrfss2015@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 5
+Renda Estimativas:
+  Presumida:
+    Valor: 6067
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2632.98
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 11961
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (62) 3205-7638
+    Ddd: 62
+    Número: 32057638
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: D2
+  [2]
+    Telefone: (62) 3274-3877
+    Ddd: 62
+    Número: 32743877
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 27/12/2005
+    Classificacao: D
+  [3]
+    Telefone: (62) 3521-7976
+    Ddd: 62
+    Número: 35217976
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 17/12/2003
+    Classificacao: D
+  [4]
+    Telefone: (62) 3213-6012
+    Ddd: 62
+    Número: 32136012
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 20/10/2005
+    Classificacao: D
+  [5]
+    Telefone: (62) 98481-0190
+    Ddd: 62
+    Número: 984810190
+    Tipo: 3
+    Data Inclusao: 04/04/2019
+    Classificacao: A0
+Occupation Code: 354810
+Occupation Name: Operador de turismo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

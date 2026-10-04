@@ -1,0 +1,364 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04720168906
+Data/Hora:  03/10/2026, 18:41:40
+Tempo API:  729ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 047.201.689-06
+Nome: VALDETE IRACEMA MARCOS
+Primeiro Nome: VALDETE
+Sobrenome: MARCOS
+Sexo: Feminino
+Data de Nascimento: 30/09/1982
+Nome da Mãe: IRACEMA CUNHA
+Voter Id: 042305630922
+Mosaic: F18
+Ocupação: Faxineiro
+Score:
+  Value: 393
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 1381
+Income Bracket: 2
+Cbo: 514320
+Endereço:
+  Tipo: RUA
+  Rua: GERAL DE
+  Número: 3
+  Bairro: SAUDADE
+  Cidade: BIGUACU
+  Estado: SANTA CATARINA
+  CEP: 88160-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GERAL DE
+    Número: 3
+    Bairro: SAUDADE
+    Cidade: BIGUACU
+    Estado: SANTA CATARINA
+    CEP: 88160-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: TREZE MAIO LD
+    Tipo: R
+    Número: 3728
+    Bairro: SAUDADE
+    Cidade: SAUDADES
+    Estado: SC
+    CEP: 89868-000
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: TREZE DE MAIO
+    Tipo: R
+    Número: 3728
+    Complemento: C
+    Bairro: ENCRUZILHADA
+    Cidade: BIGUACU
+    Estado: SC
+    CEP: 88165-330
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PEDRO
+    Tipo: R
+    Número: 667
+    Bairro: AREIAS
+    Cidade: SAO JOSE
+    Estado: SC
+    CEP: 88113-250
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ROMALINO CUNHA
+    Tipo: R
+    Número: 1
+    Bairro: COL SANTANA
+    Cidade: SAO JOSE
+    Estado: SC
+    CEP: 88123-120
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: SAO PEDRO
+    Número: 0000667
+    Bairro: AREIAS
+    Cidade: SAO JOSE
+    Estado: SC
+    CEP: 88113-250
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (48) 98459-9305
+  - (48) 98497-3729
+  - (48) 3214-9038
+  - (48) 3246-0136
+  - (48) 98427-6413
+  - (48) 98439-1194
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 31/12/2019
+    Info Date: 21/12/2008
+    Mosaic: F18
+    Mosaic New: D11
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: TREZE MAIO LD
+      Número: 3728
+      Bairro: SAUDADE
+      Cidade: SAUDADES
+      Estado: SC
+      CEP: 89868-000
+      Date Added: 01/11/2010
+    [2]
+      Tipo: R
+      Rua: TREZE DE MAIO
+      Número: 3728
+      Complemento: C
+      Bairro: ENCRUZILHADA
+      Cidade: BIGUACU
+      Estado: SC
+      CEP: 88165-330
+      Date Added: 16/04/2018
+    [3]
+      Tipo: R
+      Rua: PEDRO
+      Número: 667
+      Bairro: AREIAS
+      Cidade: SAO JOSE
+      Estado: SC
+      CEP: 88113-250
+      Date Added: 16/04/2018
+    [4]
+      Tipo: R
+      Rua: ROMALINO CUNHA
+      Número: 1
+      Bairro: COL SANTANA
+      Cidade: SAO JOSE
+      Estado: SC
+      CEP: 88123-120
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32149038
+      Ddd: 48
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/12/2014
+      Info Date: 21/10/2011
+    [2]
+      Telefone: 32460136
+      Ddd: 48
+      Tipo: 1
+      Classificacao: C
+      Date Added: 16/04/2018
+      Info Date: 07/04/2018
+    [3]
+      Telefone: 984276413
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [4]
+      Telefone: 984391194
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  Score:
+    CSBA: 393
+    CSBA FAIXA: ALTO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 721.669.839-87
+      Nome: IRACEMA CUNHA
+      Vinculo: MAE
+    [2]
+      CPF: 2637104910
+      Nome: VANILDA IRACEMA CUNHA MARCOS SCHELBAUER
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 3739285990
+      Nome: VALDA IRACEMA CUNHA MARCOS CARVALHO
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 1642807907
+      Nome: JOSE LUIZ CUNHA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 2742854959
+      Nome: VANDA IRACEMA CUNHA MARCOS ALVES
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 2910094928
+      Nome: VANIO CUNHA MARCOS
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 4035586978
+      Nome: VALESIA IRACEMA MARCOS
+      Vinculo: IRMA(O)
+  Pis: 12993466722
+  Tse:
+    Titulo: 42305630922
+    Zona: 29
+    Secao: 312
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 699.54
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.707.049-92
+    Nome: ANDREIA MARIA SCHUH
+    Logradouro: KENIDY
+    Número: 80
+  [2]
+    CPF: 068.146.419-41
+    Nome: CLEITON BERNARDY
+    Logradouro: ISABEL
+    Número: 549
+    Bairro: CENTRO
+  [3]
+    CPF: 051.406.799-30
+    Nome: FLAVIO DUTRA
+    Logradouro: VENANCIO AIRES
+    Número: 32
+  [4]
+    CPF: 050.107.049-43
+    Nome: VILMAR DE LIMA
+    Logradouro: LINHA APARECIDA
+    Número: 1
+  [5]
+    CPF: 049.644.819-64
+    Nome: MARISETE GONCALVES
+    Logradouro: LINHA SAUDADES
+    Número: 1
+    Bairro: LINHA SAUDADES
+  [6]
+    CPF: 049.066.139-42
+    Nome: JARDEL KIRCH ALVES DE ANDRADE
+    Logradouro: VENANCIO AIRES
+    Número: 199
+  [7]
+    CPF: 049.066.139-42
+    Nome: JARDEL KIRCH ALVES DE ANDRADE
+    Logradouro: INDEPENDENCIA
+    Número: SN
+    Bairro: CENTRO
+  [8]
+    CPF: 048.908.079-00
+    Nome: JOAO NILSON DE PAULA
+    Logradouro: DEODORO
+    Número: 207
+  [9]
+    CPF: 048.908.079-00
+    Nome: JOAO NILSON DE PAULA
+    Logradouro: JACOB THEODORO SEHNEM
+    Número: 45
+  [10]
+    CPF: 048.756.439-18
+    Nome: MARCOS ANDRE WERLANG
+    Logradouro: JUVENCIO
+    Número: 1
+  [11]
+    CPF: 048.391.599-80
+    Nome: CLAUDINEI DE ALMEIDA
+    Logradouro: INDEPENDEN
+    Número: 615
+  [12]
+    CPF: 068.219.259-76
+    Nome: CLEVERSON PIRES DA FONSECA
+    Logradouro: MIGUEL KOULLER
+    Número: 254
+    Bairro: CENTRO
+  [13]
+    CPF: 048.245.219-63
+    Nome: EUCLIDES ANDRE MAYER
+    Logradouro: JOAO P KREMER
+    Número: 16
+  [14]
+    CPF: 047.003.609-50
+    Nome: SOLENI OLIVEIRA JESUS
+    Logradouro: LINHA J BAIXA
+    Número: SN
+    Bairro: ZONA RURAL
+  [15]
+    CPF: 052.658.699-05
+    Nome: MAIRI DE PAULA
+    Logradouro: ALVORADA
+    Número: 110
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (48) 98497-3729
+    Nome: VALDETE IRACEMA MARCOS
+    Cidade: SAO JOSE
+    UF: SC
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1381
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 699.54
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (48) 3214-9038
+    Ddd: 48
+    Número: 32149038
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 21/10/2011
+    Classificacao: D
+  [2]
+    Telefone: (48) 3246-0136
+    Ddd: 48
+    Número: 32460136
+    Tipo: FIXO
+    Data Inclusao: 16/04/2018
+    Data Informacao: 07/04/2018
+    Classificacao: C
+  [3]
+    Telefone: (48) 98427-6413
+    Ddd: 48
+    Número: 984276413
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (48) 98439-1194
+    Ddd: 48
+    Número: 984391194
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

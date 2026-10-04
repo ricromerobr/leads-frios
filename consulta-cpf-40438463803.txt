@@ -1,0 +1,363 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  40438463803
+Data/Hora:  03/10/2026, 22:06:42
+Tempo API:  789ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 404.384.638-03
+Nome: JESSICA ISIDRO FUKAMACHI
+Primeiro Nome: JESSICA
+Sobrenome: FUKAMACHI
+Sexo: Feminino
+Data de Nascimento: 01/10/1991
+Nome da Mãe: SEBASTIANA MARIA ISIDRO DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+Ocupação: Operador de telemarketing receptivo
+Score:
+  Value: 288
+  Range: ALTO
+E-mail: jessicaisidrodasilva@hotmail.com
+Additional Emails: (2 item(s))
+  - jessicaisidrodasilva@hotmail.com
+  - jessicaheloisidro@gmail.com
+Federal Status: REGULAR
+Renda: 650
+Income Bracket: 1
+Cbo: 422315
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MARIA LUIZA AMERICANO
+  Bairro: CIDADE LIDER
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 08280-190
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARIA LUIZA AMERICANO
+    Bairro: CIDADE LIDER
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 08280-190
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SEM INFORMAÇÃO
+    Número: 2394
+    Bairro: SEM INFORMAÇÃO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: MARIA LUIZA AMERICANO
+    Tipo: AV
+    Número: 2394
+    Bairro: CIDADE LIDER
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08280-190
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ANDRE FRAZAO
+    Tipo: R
+    Número: 30
+    Complemento: AP 41 A
+    Bairro: CJ HABITACIONAL PADRE MANOEL DA NOBREGA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03590-030
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (11) 96796-1682
+  - (11) 96671-9771
+  - (11) 99376-5234
+  - +55 (11) 96671-9771
+  - (11) 99358-7607
+  - (11) 2743-2515
+  - (11) 99668-5985
+  - (11) 99805-3151
+Datasus Phones: (1 item(s))
+  - (11) 2743-2515
+Cidade de Nascimento: SAO PAULO - SP
+Cns: 700508535016252
+Paycom:
+  E-mail: jessicaheloisidro@gmail.com
+  Data de Nascimento: 01/10/1991
+  Created At: 2021-06-16 00:37:19
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Maria Luiza Americano
+    Número: 2394
+    Complemento: Casa
+    Bairro: Cidade Líder
+    Cidade: São Paulo
+    Estado: São Paulo
+    País: Brasil
+    Telephone: +55 (11) 96671-9771
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/08/2019
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: AV
+      Rua: MARIA LUIZA AMERICANO
+      Número: 2394
+      Bairro: CIDADE LIDER
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08280-190
+      Date Added: 09/10/2013
+    [2]
+      Tipo: R
+      Rua: ANDRE FRAZAO
+      Número: 30
+      Complemento: AP 41 A
+      Bairro: CJ HABITACIONAL PADRE MANOEL DA NOBREGA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03590-030
+      Date Added: 06/05/2011
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 27432515
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 05/05/2011
+      Info Date: 08/03/2011
+    [2]
+      Telefone: 996685985
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 998053151
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/12/2018
+      Info Date: 25/06/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: jessicaisidrodasilva@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+  Score:
+    CSB8: 298
+    CSB8 FAIXA: ALTO
+    CSBA: 288
+    CSBA FAIXA: ALTO
+  Parentes: (10 item(s))
+    [1]
+      CPF: 6635463895
+      Nome: SEBASTIANA MARIA ISIDRO DA SILVA
+      Vinculo: MAE
+    [2]
+      CPF: 329.518.678-24
+      Nome: MARIA JOSENILDA ISIDRO DA SILVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 366.944.298-78
+      Nome: JOSEMAR SEBASTIAO DA SILVA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 108.573.368-86
+      Nome: MARIA FRANCISCA DA CONCEICAO
+      Vinculo: AVO
+    [5]
+      CPF: 330.514.348-76
+      Nome: GERALDO ISIDRO DA SILVA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 430.644.998-07
+      Nome: MAYARA ISIDRO DA SILVA
+      Vinculo: SOBRINHA(O)
+    [7]
+      CPF: 688.016.108-15
+      Nome: JOAQUIM FERREIRA DA COSTA
+      Vinculo: TIA(O)
+    [8]
+      CPF: 135.264.508-46
+      Nome: MARIA GILEIDE ISIDRO DA SILVA
+      Vinculo: IRMA(O)
+    [9]
+      CPF: 413.553.558-50
+      Nome: DANIELE ISIDRO DA SILVA
+      Vinculo: SOBRINHA(O)
+    [10]
+      CPF: 233.296.118-63
+      Nome: JOSEVALDO SEBASTIAO DA SILVA
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 524.75
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 044.557.988-97
+    Nome: ALUISIO ANDRADE DE SOUSA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2114
+    Bairro: CIDADE LIDER
+  [2]
+    CPF: 170.703.308-04
+    Nome: AILDA COUTO DOS SANTOS
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2808
+    Bairro: CIDADE LIDER
+  [3]
+    CPF: 005.987.625-58
+    Nome: ADAILTON DE JESUS FERREIRA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2580
+    Bairro: CIDADE LIDER
+  [4]
+    CPF: 198.600.508-99
+    Nome: JOSE CLAUDIO PEREIRA DOS SANTOS
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2301
+    Bairro: CIDADE LIDER
+  [5]
+    CPF: 583.944.194-53
+    Nome: SEBASTIAO PEREIRA DA SILVA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2741
+    Bairro: CIDADE LIDER
+  [6]
+    CPF: 182.433.658-69
+    Nome: MARIA DE FATIMA SANTOS PANTALEAO
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2210
+    Bairro: CIDADE LIDER
+  [7]
+    CPF: 083.846.364-94
+    Nome: ELITON DE ARAUJO PEREIRA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2304
+    Bairro: CIDADE LIDER
+  [8]
+    CPF: 198.482.908-42
+    Nome: LUCIANO PIRES ASSIS
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2765
+    Bairro: CIDADE LIDER
+  [9]
+    CPF: 108.658.348-57
+    Nome: JUAREZ MONTEIRO DA SILVA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2574
+    Bairro: CIDADE LIDER
+  [10]
+    CPF: 350.955.798-04
+    Nome: THIAGO SANCHES LEITAO
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2113
+    Bairro: CIDADE LIDER
+  [11]
+    CPF: 284.676.298-86
+    Nome: PAULO ROGERIO DA SILVA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2741
+    Bairro: CIDADE LIDER
+  [12]
+    CPF: 143.950.598-56
+    Nome: VILMA DA ROCHA SANTOS
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2169
+    Bairro: CIDADE LIDER
+  [13]
+    CPF: 192.236.763-04
+    Nome: MIGUEL ADONIAS DA SILVA
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2600
+    Bairro: CIDADE LIDER
+  [14]
+    CPF: 187.013.368-43
+    Nome: GENILDA AMARA DE FREITAS
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2408
+    Bairro: CIDADE LIDER
+  [15]
+    CPF: 300.525.608-13
+    Nome: VANESSA AQUINO PINHEIRO
+    Logradouro: MARIA LUIZA AMERICANO
+    Número: 2808
+    Bairro: CIDADE LIDER
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (11) 99358-7607
+    Nome: JESSICA ISIDRO DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - jessicaisidrodasilva@hotmail.com
+  - jessicaheloisidro@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 650
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 524.75
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 2743-2515
+    Ddd: 11
+    Número: 27432515
+    Tipo: FIXO
+    Data Inclusao: 05/05/2011
+    Data Informacao: 08/03/2011
+    Classificacao: B
+  [2]
+    Telefone: (11) 99668-5985
+    Ddd: 11
+    Número: 996685985
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D2
+  [3]
+    Telefone: (11) 99805-3151
+    Ddd: 11
+    Número: 998053151
+    Tipo: 3
+    Data Inclusao: 04/12/2018
+    Data Informacao: 25/06/2019
+    Classificacao: D
+Occupation Code: 422315
+Occupation Name: Operador de telemarketing receptivo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

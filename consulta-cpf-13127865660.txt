@@ -1,0 +1,331 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13127865660
+Data/Hora:  04/10/2026, 02:26:13
+Tempo API:  228ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 131.278.656-60
+Nome: MIKAELLE MONIQUE SILVA SIQUEIRA
+Primeiro Nome: MIKAELLE
+Sobrenome: SIQUEIRA
+Sexo: Feminino
+Data de Nascimento: 04/04/1996
+Nome da Mãe: ROSELI DA SILVA
+Nome do Pai: ANTONIO DOS REIS GONSALVES SIQUEIRA
+RG: 20445731
+Rg Issuer: MAE - MINISTERIO DA AERONAUTICA
+Rg State: MG
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 180
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 404
+Income Bracket: 1
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: GOIAS
+  Bairro: PERNAMBUCO
+  Cidade: BOCAIUVA
+  Estado: MINAS GERAIS
+  CEP: 39390-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GOIAS
+    Bairro: PERNAMBUCO
+    Cidade: BOCAIUVA
+    Estado: MINAS GERAIS
+    CEP: 39390-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: GOIAS
+    Número: 102
+    Bairro: PERNAMBUCA
+    Cidade: BOCAIUVA - MG
+    Fonte: DATASUS
+  [3]
+    Rua: GOIAS
+    Tipo: R
+    Número: 102
+    Bairro: PERNAMBUCO
+    Cidade: BOCAIUVA
+    Estado: MG
+    CEP: 39390-000
+    Data Atualizacao: 24/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: GOIAS
+    Número: 0000102
+    Bairro: PERNAMBUCO
+    Cidade: BOCAIUVA
+    Estado: MG
+    CEP: 39390-000
+    Fonte: ASSECC
+  [5]
+    Rua: RUA R GOIAS
+    Número: 102
+    Bairro: PERNAMBUCO
+    Estado: MG
+    CEP: 39390-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (38) 99855-9646
+Cidade de Nascimento: BOCAIUVA - MG
+Cns: 704200788400083
+Rg Issue Date: 1376017200000
+Paycom:
+  E-mail: mikaellymon@gmail.com
+  Data de Nascimento: 04/04/1996
+  Created At: 2020-07-16 22:54:11
+E-mail: mikaellymon@gmail.com
+Additional Emails: (2 item(s))
+  - mikaellymon@gmail.com
+  - mikaellemonique@hotmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua :Goiás 
+    Número: 102
+    Complemento: Casa
+    Bairro: Pernambuco
+    Cidade: Bocaiúva
+    Estado: MG
+    País: BRA
+    CEP: 39390-000
+    Telephone: +55 (38) 99898-7256
+Telefones: (6 item(s))
+  - +55 (38) 99898-7256
+  - (38) 99815-9646
+  - (38) 99898-7256
+  - (38) 99915-6640
+  - (38) 99855-9646
+  - (38) 98811-3362
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: GOIAS
+      Número: 102
+      Bairro: PERNAMBUCO
+      Cidade: BOCAIUVA
+      Estado: MG
+      CEP: 39390-000
+      Date Added: 23/04/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 999156640
+      Ddd: 38
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [2]
+      Telefone: 998159646
+      Ddd: 38
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [3]
+      Telefone: 998559646
+      Ddd: 38
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [4]
+      Telefone: 988113362
+      Ddd: 38
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: mikaellemonique@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 444
+    CSB8 FAIXA: MEDIO
+    CSBA: 180
+    CSBA FAIXA: ALTISSIMO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 404.8
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.020.856-05
+    Nome: ANTONIO CARLOS SANTOS MEIRA
+    Logradouro: A ESPLANADA
+    Número: 81
+  [2]
+    CPF: 052.020.986-93
+    Nome: APARECIDA CARDOSO DA SILVA
+    Logradouro: OLHOS DAGUA
+    Número: 258
+    Bairro: PERNABUCO
+  [3]
+    CPF: 051.808.826-05
+    Nome: SEMEAO PEREIRA JUNIOR
+    Logradouro: OSCAR EUZEBIO DA CRUZ
+    Número: 178
+  [4]
+    CPF: 051.761.386-70
+    Nome: ARTHUR EMMANUEL PASCOAL COSTA
+    Logradouro: LAZARO JOS SOUTO
+    Número: 140
+    Bairro: ESPLANADA
+  [5]
+    CPF: 052.291.646-54
+    Nome: FABIO JUNIOR DE SOUZA
+    Logradouro: FELIX
+    Número: 30
+    Bairro: ZONA RURAL
+  [6]
+    CPF: 051.413.156-06
+    Nome: VENCESLAU TEIXEIRA FILHO
+    Logradouro: C
+    Número: 105
+    Bairro: NOSSA SENHORA APAREC
+  [7]
+    CPF: 051.170.396-10
+    Nome: CARLOS ANDRE FRANCISCO SOARES
+    Logradouro: NILO PEREIRA DIAS
+    Número: 399
+  [8]
+    CPF: 017.961.186-05
+    Nome: ROZILENE DE PAULO
+    Logradouro: DA LIA BRANDAO
+    Número: 19
+    Bairro: BONFIM
+  [9]
+    CPF: 368.973.456-87
+    Nome: NEY LIBRELON
+    Logradouro: HILARIO RODRIGUES
+    Número: 235
+    Bairro: PERNAMBUCO
+  [10]
+    CPF: 050.950.336-58
+    Nome: ALEXANDRE FERREIRA DOS SANTOS
+    Logradouro: B FERNANDES
+    Número: 210
+  [11]
+    CPF: 050.951.986-57
+    Nome: CHRISTIANE DE FATIMA SOARES
+    Logradouro: HENRIQUE STORINO
+    Número: 201
+  [12]
+    CPF: 050.950.136-22
+    Nome: ALAN JONNES PEREIRA
+    Logradouro: ANTONIO TIBURCIO
+    Número: 1286
+    Bairro: PERNAMBUCO
+  [13]
+    CPF: 050.907.386-70
+    Nome: VERA PINHEIRO LIMA
+    Logradouro: ADALTIVO SILVEIRA
+    Número: 26
+  [14]
+    CPF: 050.907.816-80
+    Nome: WAGNER LEAL DUARTE
+    Logradouro: PARA TERRA C
+    Número: 7
+    Bairro: ZONA RURAL
+  [15]
+    CPF: 443.282.306-20
+    Nome: EVALDO GERALDO DOS SANTOS
+    Logradouro: A
+    Número: 84
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (38) 99815-9646
+    Nome: MIKAELLE  MONIQUE SILVA SIQUEIRA
+    Cidade: BOCAIUVA
+    UF: MG
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (38) 99898-7256
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 20MAR2018
+    Ultima Recarga: 10SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 13/03/2018
+E-mails: (2 item(s))
+  - mikaellymon@gmail.com
+  - mikaellemonique@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 404
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 404.8
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (38) 99915-6640
+    Ddd: 38
+    Número: 999156640
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [2]
+    Telefone: (38) 99815-9646
+    Ddd: 38
+    Número: 998159646
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (38) 99855-9646
+    Ddd: 38
+    Número: 998559646
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [4]
+    Telefone: (38) 98811-3362
+    Ddd: 38
+    Número: 988113362
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,428 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  50016903404
+Data/Hora:  04/10/2026, 00:15:06
+Tempo API:  789ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 500.169.034-04
+Nome: IRENE SOUSA DE SIQUEIRA REIS
+Primeiro Nome: IRENE
+Sobrenome: REIS
+Sexo: Feminino
+Data de Nascimento: 25/09/1965
+Nome da Mãe: MARIA DE LOURDES PEREIRA DE SOUS
+Nome do Pai: JOSE GOMES DE SIQUEIRA FILHO
+RG: 273551875
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: BA
+Mosaic: C07
+Ocupação: Assistente administrativo
+Score:
+  Value: 539
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 1411
+Income Bracket: 2
+Cbo: 411010
+Endereço:
+  Tipo: RUA
+  Rua: AV BADEN POWELL
+  Número: 881
+  Bairro: JARDIM NOVA EUROPA
+  Cidade: CAMPINAS
+  Estado: SAO PAULO
+  CEP: 13040-093
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: AV BADEN POWELL
+    Número: 881
+    Bairro: JARDIM NOVA EUROPA
+    Cidade: CAMPINAS
+    Estado: SAO PAULO
+    CEP: 13040-093
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DO PROFESSOR
+    Número: 888
+    Bairro: JARDIM PROENCA I
+    Cidade: CAMPINAS - SP
+    Fonte: DATASUS
+  [3]
+    Rua: EPITACIO PESSOA
+    Tipo: R
+    Número: 470
+    Bairro: JD AMANDA II
+    Cidade: HORTOLANDIA
+    Estado: SP
+    CEP: 13188-170
+    Data Atualizacao: 27/09/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BARRETO LEME
+    Tipo: R
+    Número: 907
+    Complemento: AP 42
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13010-200
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: BARRA BONITA
+    Tipo: R
+    Número: 210
+    Bairro: JD PROENCA I
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13100-408
+    Data Atualizacao: 17/01/2012
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: DO PROFESSOR
+    Tipo: R
+    Número: 888
+    Bairro: JD PROENCA I
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13100-420
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: BARRETO LEME
+    Número: 0000907
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13010-200
+    Fonte: ASSECC
+  [8]
+    Rua: RUA AV BADEN POWELL
+    Número: 881
+    Bairro: JARDIM NOVA EUROPA
+    Estado: SP
+    CEP: 13040-093
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (12 item(s))
+  - (11) 99712-9132
+  - (19) 99398-3988
+  - (19) 98122-4388
+  - (19) 98172-6658
+  - (19) 99222-3799
+  - (19) 99776-1549
+  - (19) 99817-4863
+  - (21) 99032-2847
+  - (19) 3294-3510
+  - (19) 3308-2833
+  - (19) 99860-6922
+  - (19) 3308-8833
+Datasus Phones: (2 item(s))
+  - (19) 3308-2833
+  - (19) 98172-6658
+Cidade de Nascimento: SERTANIA - PE
+Cns: 705009044592659
+Rg Issue Date: 1255921200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/11/2019
+    Info Date: 21/12/2008
+    Mosaic: C07
+    Mosaic New: H25
+    Mosaic Secondary: E18
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: EPITACIO PESSOA
+      Número: 470
+      Bairro: JD AMANDA II
+      Cidade: HORTOLANDIA
+      Estado: SP
+      CEP: 13188-170
+      Date Added: 15/08/2006
+    [2]
+      Tipo: R
+      Rua: BARRETO LEME
+      Número: 907
+      Complemento: AP 42
+      Bairro: CENTRO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13010-200
+      Date Added: 29/07/2013
+    [3]
+      Tipo: AV
+      Rua: BADEN POWELL
+      Número: 881
+      Complemento: NOVA EUROPA
+      Bairro: JD NOVA EUROPA
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13040-093
+      Date Added: 15/12/2009
+    [4]
+      Tipo: R
+      Rua: BARRA BONITA
+      Número: 210
+      Bairro: JD PROENCA I
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13100-408
+      Date Added: 16/04/2009
+    [5]
+      Tipo: R
+      Rua: DO PROFESSOR
+      Número: 888
+      Bairro: JD PROENCA I
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13100-420
+      Date Added: 23/05/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 32943510
+      Ddd: 19
+      Tipo: 2
+      Classificacao: D
+      Date Added: 02/03/2009
+    [2]
+      Telefone: 33082833
+      Ddd: 19
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 01/10/2013
+      Info Date: 14/05/2015
+    [3]
+      Telefone: 998606922
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [4]
+      Telefone: 33088833
+      Ddd: 19
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/04/2018
+      Info Date: 27/06/2018
+  Score:
+    CSB8: 965
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 539
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DE LOURDES PEREIRA DE SOUS
+      Vinculo: MAE
+  Pis: 12444854456
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 661.39
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 037.245.769-00
+    Nome: EVANDRO ROGERIO SILVESTRE DE OLIVEIRA
+    Logradouro: EPITACIO PESSOA
+    Número: 391
+    Bairro: JD AMANDA II
+  [2]
+    CPF: 419.124.958-48
+    Nome: GISLAINE APARECIDA SILVA SARAIVA
+    Logradouro: EPITACIO PESSOA
+    Número: 51
+    Bairro: JD AMANDA II
+  [3]
+    CPF: 023.141.515-00
+    Nome: DINA SOARES FREIRE SILVA
+    Logradouro: EPITACIO PESSOA
+    Número: 400
+    Bairro: JD AMANDA II
+  [4]
+    CPF: 673.305.509-06
+    Nome: MARIA APARECIDA DOS SANTOS SILVA
+    Logradouro: EPITACIO PESSOA
+    Número: 101
+    Bairro: JD AMANDA II
+  [5]
+    CPF: 255.280.288-50
+    Nome: PAULO SERGIO CIRINO
+    Logradouro: EPITACIO PESSOA
+    Número: 273
+    Bairro: JD AMANDA II
+  [6]
+    CPF: 105.768.924-67
+    Nome: WILLAMS DA SILVA
+    Logradouro: EPITACIO PESSOA
+    Número: 281
+    Bairro: JD AMANDA II
+  [7]
+    CPF: 375.103.498-69
+    Nome: LUIZ FERNANDO PALHAO
+    Logradouro: EPITACIO PESSOA
+    Número: 395
+    Bairro: JD AMANDA II
+  [8]
+    CPF: 341.404.368-83
+    Nome: ALINNE BISPO DOS SANTOS
+    Logradouro: EPITACIO PESSOA
+    Número: 242
+    Bairro: JD AMANDA II
+  [9]
+    CPF: 286.842.668-97
+    Nome: MARLENE PEREIRA DIAS BOHLKE
+    Logradouro: EPITACIO PESSOA
+    Número: 361
+    Bairro: JD AMANDA II
+  [10]
+    CPF: 510.950.419-91
+    Nome: APARECIDA RAMOS PALMEIRA
+    Logradouro: EPITACIO PESSOA
+    Número: 470
+    Bairro: JD AMANDA II
+  [11]
+    CPF: 330.289.598-44
+    Nome: JOICE DOS SANTOS BRITO
+    Logradouro: EPITACIO PESSOA
+    Número: 152
+    Bairro: JD AMANDA II
+  [12]
+    CPF: 451.522.333-04
+    Nome: JURACI RODRIGUES DE SOUSA
+    Logradouro: EPITACIO PESSOA
+    Número: 351
+    Bairro: JD AMANDA II
+  [13]
+    CPF: 020.915.895-60
+    Nome: ALINE RODRIGUES DE SOUZA
+    Logradouro: EPITACIO PESSOA
+    Número: 471
+    Bairro: JD AMANDA II
+  [14]
+    CPF: 115.368.674-03
+    Nome: MANOELA ISIDORIO BENTO
+    Logradouro: EPITACIO PESSOA
+    Número: 281
+    Bairro: JD AMANDA II
+  [15]
+    CPF: 089.815.228-39
+    Nome: EUNICE AVELINO DOS SANTOS
+    Logradouro: EPITACIO PESSOA
+    Número: 172
+    Bairro: JD AMANDA II
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (19) 99398-3988
+    Nome: IRENE SOUSA DE SIQUEIRA
+    Cidade: CAMPINAS
+    UF: SP
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (19) 99776-1549
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 23OCT2019
+    Ultima Recarga: 16AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 23/10/2019
+  [2]
+    Telefone: (19) 99817-4863
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 17JAN2020
+    Ultima Recarga: 13AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 01/01/2020
+  [3]
+    Telefone: (11) 99712-9132
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 25FEB2020
+    Ultima Recarga: 10SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 03/12/2019
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (19) 99398-3988
+    Nome: IRENE SOUSA DE SIQUEIRA REIS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (19) 99222-3799
+    Nome: IRENE SOUSA DE SIQUEIRA REIS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (21) 99032-2847
+    Nome: IRENE SOUSA DE SIQUEIRA REIS
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1411
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 661.39
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (19) 3294-3510
+    Ddd: 19
+    Número: 32943510
+    Tipo: CELULAR
+    Data Inclusao: 02/03/2009
+    Classificacao: D
+  [2]
+    Telefone: (19) 3308-2833
+    Ddd: 19
+    Número: 33082833
+    Tipo: FIXO
+    Data Inclusao: 01/10/2013
+    Data Informacao: 14/05/2015
+    Classificacao: A0
+  [3]
+    Telefone: (19) 99860-6922
+    Ddd: 19
+    Número: 998606922
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [4]
+    Telefone: (19) 3308-8833
+    Ddd: 19
+    Número: 33088833
+    Tipo: FIXO
+    Data Inclusao: 02/04/2018
+    Data Informacao: 27/06/2018
+    Classificacao: D
+Occupation Code: 411010
+Occupation Name: Assistente administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

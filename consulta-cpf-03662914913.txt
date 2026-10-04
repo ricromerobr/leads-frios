@@ -1,0 +1,614 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03662914913
+Data/Hora:  03/10/2026, 23:48:40
+Tempo API:  750ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 036.629.149-13
+Nome: NARJARA NAOMI BONISSONI IZUMI
+Primeiro Nome: NARJARA
+Sobrenome: IZUMI
+Sexo: Feminino
+Data de Nascimento: 21/08/1981
+Nome da Mãe: ENOI CLOTILDE BONISSONI IZUMI
+Nome do Pai: SEM INFORMAÇÃO
+Mosaic: B04
+Ocupação: Profissionais das Ciencias e das Artes (categoria CBO)
+Score:
+  Value: 363
+  Range: ALTO
+E-mail: narjao81@ig.com.br
+Additional Emails: (6 item(s))
+  - narjao81@ig.com.br
+  - narjao@gmail.com
+  - geraldagelopes@gmail.com
+  - narjao@ig.com.br
+  - narjao@yahoo.com.br
+  - narjao@irg.com.br
+Federal Status: REGULAR
+Renda: 18435
+Income Bracket: 8
+Cbo: 225125
+Endereço:
+  Tipo: AVENIDA
+  Rua: PRESIDENTE NEREU RAMOS
+  Número: 1055
+  Complemento: APT 903
+  Bairro: CAMPINAS
+  Cidade: SAO JOSE
+  Estado: SANTA CATARINA
+  CEP: 88101-410
+All Addresses: (12 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: PRESIDENTE NEREU RAMOS
+    Número: 1055
+    Complemento: APT 903
+    Bairro: CAMPINAS
+    Cidade: SAO JOSE
+    Estado: SANTA CATARINA
+    CEP: 88101-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PRESIDENTE NEREU RAMOS
+    Número: 1055
+    Bairro: CAMPINAS
+    Cidade: SAO JOSE - SC
+    Fonte: DATASUS
+  [3]
+    Rua: RUA SANTOS
+    Número: 777
+    Complemento: 502
+    Bairro: CENTRO
+    Cidade: LONDRINA
+    Estado: PR
+    CEP: 86020-041
+    Fonte: SARAIVA
+  [4]
+    Rua: DA BALIZA
+    Tipo: R
+    Número: 218
+    Complemento: AP 201
+    Bairro: CACHOEIRA DO BOM JESUS
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88056-070
+    Data Atualizacao: 15/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DO KALIFA
+    Tipo: R
+    Número: 406
+    Complemento: AP 101
+    Bairro: CANASVIEIRAS
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88054-130
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PEDRO SILVA
+    Tipo: R
+    Número: 1588
+    Complemento: AP 703
+    Bairro: COQUEIROS
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88080-700
+    Data Atualizacao: 30/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: PEDRO LEITE
+    Tipo: R
+    Número: 530
+    Bairro: BARREIROS
+    Cidade: SAO JOSE
+    Estado: SC
+    CEP: 88117-600
+    Data Atualizacao: 26/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: AV
+    Rua: PRESIDENTE NEREU RAMOS
+    Número: 0001055
+    Bairro: CAMPINAS
+    Cidade: SAO JOSE
+    Estado: SC
+    CEP: 88101-410
+    Fonte: ASSECC
+  [9]
+    Rua: ENGENHEIRO MAX DE SOUZA
+    Número: 0001588
+    Complemento: APTO 703
+    Bairro: COQUEIROS
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88080-000
+    Fonte: BR21M
+  [10]
+    Rua: AV CENTENARIO
+    Número: 0002600
+    Complemento: APARTAMENTO 505
+    Bairro: SANTA BARBARA
+    Cidade: CRICIUMA
+    Estado: SC
+    CEP: 88804-001
+    Fonte: BR21M
+  [11]
+    Tipo: AV.
+    Rua: CENTENARIO (GVT:88815001)
+    Número: 2600
+    Complemento: AP 505
+    Bairro: CRICIUMA
+    Cidade: CRICIUMA
+    Estado: SC
+    CEP: 88801-000
+    Fonte: VIVO_FIXO
+  [12]
+    Tipo: R.
+    Rua: DES. PEDRO SILVA-2070-BL D-AN 5 AO 8
+    Número: 2070
+    Complemento: AP - Apartamento: 601;
+    Bairro: FLORIANOPOLIS
+    Cidade: FLORIANOPOLIS
+    Estado: SC
+    CEP: 88080-700
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 0
+Telefones: (15 item(s))
+  - (43) 99911-0093
+  - (51) 99421-6975
+  - (48) 99906-4351
+  - (48) 3165-2343
+  - +55 (48) 99906-4351
+  - (48) 99908-0089
+  - (48) 3045-1596
+  - 554899080089
+  - (48) 3028-5255
+  - +55 (48) 99006-4351
+  - 554833652343
+  - (48) 3028-3936
+  - (48) 3433-4418
+  - (48) 99959-5885
+  - (48) 3049-8504
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 898004744109812
+Saraiva:
+  Customer Id: 8034332
+  Telefone: (48) 3165-2343
+  E-mail: narjao81@ig.com.br
+  Data de Nascimento: 21/08/1981
+Paycom:
+  E-mail: narjao@gmail.com
+  Data de Nascimento: 06/07/1990
+  Created At: 2016-11-24 10:54:22
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: R Des Pedro Silva
+    Número: 2070
+    Complemento: Bloco D ap 601
+    Bairro: Coqueiros
+    Cidade: Florianópolis
+    Estado: SC
+    País: BRA
+    CEP: 88080-700
+    Telephone: +55 (48) 99906-4351
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 26/08/2019
+    Info Date: 04/04/2008
+    Mosaic: B04
+    Mosaic New: A02
+    Mosaic Secondary: E17
+    Income Bracket Id: 12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: DA BALIZA
+      Número: 218
+      Complemento: AP 201
+      Bairro: CACHOEIRA DO BOM JESUS
+      Cidade: FLORIANOPOLIS
+      Estado: SC
+      CEP: 88056-070
+      Date Added: 30/06/2014
+    [2]
+      Tipo: R
+      Rua: DO KALIFA
+      Número: 406
+      Complemento: AP 101
+      Bairro: CANASVIEIRAS
+      Cidade: FLORIANOPOLIS
+      Estado: SC
+      CEP: 88054-130
+      Date Added: 18/03/2011
+    [3]
+      Tipo: AV
+      Rua: NEREU RAMOS
+      Número: 1055
+      Complemento: AP 903
+      Bairro: CAMPINAS
+      Cidade: SAO JOSE
+      Estado: SC
+      CEP: 88101-410
+      Date Added: 17/12/2018
+    [4]
+      Tipo: R
+      Rua: PEDRO SILVA
+      Número: 1588
+      Complemento: AP 703
+      Bairro: COQUEIROS
+      Cidade: FLORIANOPOLIS
+      Estado: SC
+      CEP: 88080-700
+      Date Added: 02/04/2019
+    [5]
+      Tipo: R
+      Rua: PEDRO LEITE
+      Número: 530
+      Bairro: BARREIROS
+      Cidade: SAO JOSE
+      Estado: SC
+      CEP: 88117-600
+      Date Added: 26/12/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999064351
+      Ddd: 48
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 999110093
+      Ddd: 43
+      Tipo: 3
+      Classificacao: C
+      Date Added: 08/05/2017
+    [3]
+      Telefone: 34334418
+      Ddd: 48
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+    [4]
+      Telefone: 999595885
+      Ddd: 48
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 30498504
+      Ddd: 48
+      Tipo: 2
+      Classificacao: C2
+      Date Added: 18/06/2019
+      Info Date: 23/02/2018
+  E-mails: (6 item(s))
+    [1]
+      E-mail: narjao81@ig.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: narjao@gmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [3]
+      E-mail: geraldagelopes@gmail.com
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 12/07/2017
+    [4]
+      E-mail: narjao@ig.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [5]
+      E-mail: narjao@yahoo.com.br
+      Priority: 5
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [6]
+      E-mail: narjao@irg.com.br
+      Priority: 6
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 02/06/2016
+  Score:
+    CSBA: 363
+    CSBA FAIXA: ALTO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 4419344989
+      Nome: ENOI CLOTILDE BONISSONI IZUMI
+      Vinculo: MAE
+    [2]
+      CPF: 8818620967
+      Nome: GABRIEL SHOGO IZUMI HATA
+      Vinculo: SOBRINHA(O)
+    [3]
+      CPF: 879.584.149-00
+      Nome: MONIA YOKO BONISSONI IZUMI
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 8771788956
+      Nome: VICTORIA SOPHIE IZUMI SALMI
+      Vinculo: SOBRINHA(O)
+    [5]
+      CPF: 8818394932
+      Nome: RAPHAEL KIKOJI IZUMI HATA
+      Vinculo: SOBRINHA(O)
+    [6]
+      CPF: 1453590935
+      Nome: ALETHEA AYUMI BONISSONI IZUMI
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 8030960972
+      Nome: SHOGO IZUMI
+      Vinculo: PAI
+  Pis: 12986044532
+  Poder Aquisitivo:
+    PODER AQUISITIVO: ALTO
+    RENDA PODER AQUISITIVO: 10714.33
+    FX PODER AQUISITIVO: De R$ 7017 até R$ 11742
+    COD PODER AQUISITIVO: 6
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 149.519.658-52
+    Nome: MARIA ENGRACIA FRANCA OLIVEIRA
+    Logradouro: DA BALIZA
+    Número: 218
+    Bairro: CACHOEIRA DO BOM JESUS
+  [2]
+    CPF: 416.636.329-87
+    Nome: CLETA SELVA DE CORDOVA DE JESUS
+    Logradouro: DA BALIZA
+    Número: 207
+    Bairro: CACHOEIRA DO BOM JESUS
+  [3]
+    CPF: 416.634.469-20
+    Nome: SANDRA REGINA PACHECO BRUNO
+    Logradouro: DA BALIZA
+    Número: 149
+    Bairro: CACHOEIRA DO BOM JESUS
+  [4]
+    CPF: 010.768.279-69
+    Nome: MARIA CRISTINA MURIAS DE VILLARREAL
+    Logradouro: DA BALIZA
+    Número: 75
+    Bairro: CACHOEIRA DO BOM JESUS
+  [5]
+    CPF: 081.691.649-74
+    Nome: JOAO VICTOR BORGES LANGE
+    Logradouro: DA BALIZA
+    Número: 149
+    Bairro: CACHOEIRA DO BOM JESUS
+  [6]
+    CPF: 340.986.348-64
+    Nome: DEMERVAL TEIXEIRA NETO
+    Logradouro: DA BALIZA
+    Número: 75
+    Bairro: CACHOEIRA DO BOM JESUS
+  [7]
+    CPF: 422.297.589-34
+    Nome: IVO DARCI MENDES
+    Logradouro: DA BALIZA
+    Número: 217
+    Bairro: CACHOEIRA DO BOM JESUS
+  [8]
+    CPF: 002.264.409-15
+    Nome: HERCIDES JOSE DA SILVA
+    Logradouro: DA BALIZA
+    Número: 15
+    Bairro: CACHOEIRA DO BOM JESUS
+  [9]
+    CPF: 741.125.620-04
+    Nome: LUCIANE LEITE GARCIA
+    Logradouro: DA BALIZA
+    Número: 148
+    Bairro: CACHOEIRA DO BOM JESUS
+  [10]
+    CPF: 048.429.109-25
+    Nome: ERNANI SIMOM BONISSONI
+    Logradouro: DA BALIZA
+    Número: 218
+    Bairro: CACHOEIRA DO BOM JESUS
+  [11]
+    CPF: 539.242.740-53
+    Nome: LUDMILA SANTANA FERRARI
+    Logradouro: DA BALIZA
+    Número: 14
+    Bairro: CACHOEIRA DO BOM JESUS
+  [12]
+    CPF: 003.156.219-15
+    Nome: ENIO GREGORIO BONISSONI
+    Logradouro: DA BALIZA
+    Número: 228
+    Bairro: CACHOEIRA DO BOM JESUS
+  [13]
+    CPF: 952.414.429-87
+    Nome: EDSON LUIS FERREIRA DE LIMA
+    Logradouro: DA BALIZA
+    Número: 75
+    Bairro: CACHOEIRA DO BOM JESUS
+  [14]
+    CPF: 056.693.449-36
+    Nome: THIAGO FERNANDO GREGOLON
+    Logradouro: DA BALIZA
+    Número: 218
+    Bairro: CACHOEIRA DO BOM JESUS
+  [15]
+    CPF: 240.481.519-91
+    Nome: LUIZ BERTOLDO DA SILVEIRA
+    Logradouro: DA BALIZA
+    Número: 75
+    Bairro: CACHOEIRA DO BOM JESUS
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (48) 99906-4351
+    Nome: NARJARA NAOMI BONISSONI IZUMI
+    Cidade: SAO JOSE
+    UF: SC
+  [2]
+    Telefone: (43) 99911-0093
+    Nome: NARJARA NAOMI BONISSONI IZUMI
+    Cidade: SAO JOSE
+    UF: SC
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (48) 99906-4351
+    Nome: NARJARA NAOMI BONISSONI IZUMI
+    Cidade: FLORIANOPOLIS
+    UF: SC
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (48) 99908-0089
+    Nome: NARJARA NAOMI BONISSONI IZUMI
+    Cidade: CRICIUMA
+    UF: SC
+    Operadora: TIM - Celular
+    Fonte: br21m
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (48) 3045-1596
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Data Ativacao: 17AUG2006:00:00:00
+    Complemento: AP 505
+    Data Retirada: 23JAN2008:11:25:00
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (48) 3028-5255
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 15FEB2020:12:45:14
+    Cel Contato: +5548990064351
+    Complemento: BL - Blocos: A; AP - Apartamento: 201;
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (48) 3028-3936
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 17SEP2019:12:43:50
+    Cel Contato: +5548990064351
+    Complemento: AP - Apartamento: 601;
+    Tipo Cliente: Residencial
+E-mails: (6 item(s))
+  - narjao81@ig.com.br
+  - narjao@gmail.com
+  - geraldagelopes@gmail.com
+  - narjao@ig.com.br
+  - narjao@yahoo.com.br
+  - narjao@irg.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 18435
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 10714.33
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (48) 99906-4351
+    Ddd: 48
+    Número: 999064351
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A0
+  [2]
+    Telefone: (43) 99911-0093
+    Ddd: 43
+    Número: 999110093
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: C
+  [3]
+    Telefone: (48) 3433-4418
+    Ddd: 48
+    Número: 34334418
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: B
+  [4]
+    Telefone: (48) 99959-5885
+    Ddd: 48
+    Número: 999595885
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C2
+  [5]
+    Telefone: (48) 3049-8504
+    Ddd: 48
+    Número: 30498504
+    Tipo: CELULAR
+    Data Inclusao: 18/06/2019
+    Data Informacao: 23/02/2018
+    Classificacao: C2
+Occupation Code: 2231
+Occupation Name: Profissionais das Ciencias e das Artes (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

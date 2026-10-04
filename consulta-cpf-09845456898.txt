@@ -1,0 +1,451 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09845456898
+Data/Hora:  02/10/2026, 15:44:18
+Tempo API:  20136ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 098.454.568-98
+Nome: REGINALDO ROBERTO
+Primeiro Nome: REGINALDO
+Sobrenome: ROBERTO
+Sexo: Masculino
+Data de Nascimento: 17/10/1969
+Nome da Mãe: IRACI DE ALIVEIRA
+Mosaic: C07
+Ocupação: Vendedor em comércio atacadista
+Score:
+  Value: 892
+  Range: BAIXISSIMO RISCO
+E-mail: VIPMOBILLE@GMAIL.COM
+Federal Status: REGULAR
+Renda: 864
+Income Bracket: 1
+Cbo: 521105
+Endereço:
+  Tipo: RUA
+  Rua: ABILIO FERREIRA
+  Bairro: JARDIM GUANABARA
+  Cidade: SAO JOAO DA BOA VISTA
+  Estado: SAO PAULO
+  CEP: 13873-095
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ABILIO FERREIRA
+    Bairro: JARDIM GUANABARA
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SAO PAULO
+    CEP: 13873-095
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARIA INES
+    Tipo: R
+    Número: 230
+    Bairro: JD DEL PLATA
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 13873-151
+    Data Atualizacao: 09/04/2010
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: ABILIO FERREIRA
+    Tipo: R
+    Número: 214
+    Bairro: VL VALENTIN
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 13873-040
+    Data Atualizacao: 09/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: HENRIQUE MARTARELLO
+    Tipo: R
+    Número: 108
+    Bairro: VL BRASIL
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 13875-031
+    Data Atualizacao: 30/08/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: HENRIQUE MARTARELLO
+    Tipo: R
+    Número: 114
+    Complemento: CS SOB
+    Bairro: VL BRASIL
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 13875-031
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: JOAO BATISTA DE A BARBOSA
+    Tipo: AV
+    Número: 600
+    Bairro: S MARCOS
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 13876-021
+    Data Atualizacao: 21/04/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: ABILIO FERREIRA
+    Número: 0000214
+    Bairro: JARDIM GUANABARA
+    Cidade: S JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 01387-395
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: HENRIQUE MARTARELLO
+    Número: 0000108
+    Bairro: VILA BRASIL
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: ABILIO FERREIRA
+    Número: 0000214
+    Bairro: VILA VALENTIN
+    Cidade: SAO JOAO DA BOA VISTA
+    Estado: SP
+    CEP: 13873-040
+    Fonte: ASSECC
+  [10]
+    Rua: ABILIO FERREIRA
+    Número: 214
+    Bairro: JARDIM GUANABARA
+    Estado: SP
+    CEP: 13873-095
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: FIAT
+      Modelo: UNO MILLE EX
+      Ano: 1998
+    [2]
+      Marca: FIAT
+      Modelo: FIORINO PICK UP LX
+      Ano: 1993
+Telefones: (7 item(s))
+  - (19) 3631-1903
+  - (19) 99843-5184
+  - (19) 97126-9874
+  - (19) 98848-1891
+  - +55 (19) 97126-9874
+  - 551936311903
+  - (19) 3631-6827
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 06/08/2019
+    Info Date: 21/12/2008
+    Mosaic: C07
+    Mosaic New: H25
+    Mosaic Secondary: I30
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: MARIA INES
+      Número: 230
+      Bairro: JD DEL PLATA
+      Cidade: SAO JOAO DA BOA VISTA
+      Estado: SP
+      CEP: 13873-151
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: ABILIO FERREIRA
+      Número: 214
+      Bairro: VL VALENTIN
+      Cidade: SAO JOAO DA BOA VISTA
+      Estado: SP
+      CEP: 13873-040
+      Date Added: 15/08/2006
+    [3]
+      Tipo: R
+      Rua: HENRIQUE MARTARELLO
+      Número: 108
+      Bairro: VL BRASIL
+      Cidade: SAO JOAO DA BOA VISTA
+      Estado: SP
+      CEP: 13875-031
+      Date Added: 01/02/2018
+    [4]
+      Tipo: R
+      Rua: HENRIQUE MARTARELLO
+      Número: 114
+      Complemento: CS SOB
+      Bairro: VL BRASIL
+      Cidade: SAO JOAO DA BOA VISTA
+      Estado: SP
+      CEP: 13875-031
+      Date Added: 06/02/2015
+    [5]
+      Tipo: AV
+      Rua: JOAO BATISTA DE A BARBOSA
+      Número: 600
+      Bairro: S MARCOS
+      Cidade: SAO JOAO DA BOA VISTA
+      Estado: SP
+      CEP: 13876-021
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 36316827
+      Ddd: 19
+      Tipo: 1
+      Classificacao: D
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 998435184
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 36311903
+      Ddd: 19
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 17/03/2015
+    [4]
+      Telefone: 988481891
+      Ddd: 19
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 971269874
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  Score:
+    CSB8: 832
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 892
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: IRACI DE ALIVEIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1870.6
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 264.257.688-43
+    Nome: WELDSNEY SANDRO DE MORAES ALMEIDA
+    Logradouro: MARIA INES
+    Número: 180
+    Bairro: JD DEL PLATA
+  [2]
+    CPF: 428.634.088-01
+    Nome: FELIPE JUNIO BEZERRA DE OLIVEIRA
+    Logradouro: MARIA INES
+    Número: 301
+    Bairro: JD DEL PLATA
+  [3]
+    CPF: 133.199.998-77
+    Nome: ROSELI MIGUEL DOS SANTOS
+    Logradouro: MARIA INES
+    Número: 100
+    Bairro: JD DEL PLATA
+  [4]
+    CPF: 149.192.008-46
+    Nome: SILVIO DE JESUS ROMAN
+    Logradouro: MARIA INES
+    Número: 180
+    Bairro: JD DEL PLATA
+  [5]
+    CPF: 966.618.108-82
+    Nome: RIBAMAR FERNANDES DA SILVA
+    Logradouro: MARIA INES
+    Número: 282
+    Bairro: JD DEL PLATA
+  [6]
+    CPF: 376.176.538-08
+    Nome: MARIANA MISSASSI RIVERA DE OLIVEIRA
+    Logradouro: MARIA INES
+    Número: 301
+    Bairro: JD DEL PLATA
+  [7]
+    CPF: 032.215.186-41
+    Nome: ALEXANDRE MAGNO ERLER
+    Logradouro: MARIA INES
+    Número: 95
+    Bairro: JD DEL PLATA
+  [8]
+    CPF: 116.042.308-35
+    Nome: ROBERTO CARLOS BORGES
+    Logradouro: MARIA INES
+    Número: 200
+    Bairro: JD DEL PLATA
+  [9]
+    CPF: 276.472.038-60
+    Nome: ADRIANA RODRIGUES CONCEICAO
+    Logradouro: MARIA INES
+    Número: 312
+    Bairro: JD DEL PLATA
+  [10]
+    CPF: 400.580.158-76
+    Nome: LARISSA COBRA FERREIRA
+    Logradouro: MARIA INES
+    Número: 100
+    Bairro: JD DEL PLATA
+  [11]
+    CPF: 335.741.648-40
+    Nome: ALVARO HENRIQUE GOMES
+    Logradouro: MARIA INES
+    Número: 355
+    Bairro: JD DEL PLATA
+  [12]
+    CPF: 327.984.808-33
+    Nome: GLEICE APARECIDA ANDRADE
+    Logradouro: MARIA INES
+    Número: 41
+    Bairro: JD DEL PLATA
+  [13]
+    CPF: 300.625.038-98
+    Nome: ROVILSON ROQUE JOAQUIM MESSIAS
+    Logradouro: MARIA INES
+    Número: 345
+    Bairro: JD DEL PLATA
+  [14]
+    CPF: 390.922.678-72
+    Nome: ANTONIO ROBERTO SA MASTRE
+    Logradouro: MARIA INES
+    Número: 312
+    Bairro: JD DEL PLATA
+  [15]
+    CPF: 292.500.818-63
+    Nome: CRISTIANO ALVES DE CARVALHO
+    Logradouro: MARIA INES
+    Número: 95
+    Bairro: JD DEL PLATA
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (19) 97126-9874
+    Nome: REGINALDO ROBERTO
+    Cidade: S JOAO DA BOA VISTA
+    UF: SP
+  [2]
+    Telefone: (19) 98848-1891
+    Nome: REGINALDO ROBERTO
+    Cidade: SAO JOAO DA BOA VISTA
+    UF: SP
+  [3]
+    Telefone: (19) 99843-5184
+    Nome: REGINALDO ROBERTO
+    Cidade: SAO JOAO DA BOA VISTA
+    UF: SP
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (19) 3631-1903
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 05OCT2012:00:00:00
+    Cel Contato: +5519971269874
+    Complemento: CS - Casa: SOBRADO;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (19) 97126-9874
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_CONTROLE
+    Data Instalacao: 09/01/2018
+    Valor Fatura: 59.99
+    Mes Referencia: 202010
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (19) 98848-1891
+    Nome: REGINALDO ROBERTO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - vipmobille@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 864
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1870.6
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (19) 3631-6827
+    Ddd: 19
+    Número: 36316827
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: D
+  [2]
+    Telefone: (19) 99843-5184
+    Ddd: 19
+    Número: 998435184
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (19) 3631-1903
+    Ddd: 19
+    Número: 36311903
+    Tipo: FIXO
+    Data Inclusao: 17/03/2015
+    Classificacao: A0
+  [4]
+    Telefone: (19) 98848-1891
+    Ddd: 19
+    Número: 988481891
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: A0
+  [5]
+    Telefone: (19) 97126-9874
+    Ddd: 19
+    Número: 971269874
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Occupation Code: 521105
+Occupation Name: Vendedor em comércio atacadista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

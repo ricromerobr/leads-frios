@@ -1,0 +1,363 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14198974705
+Data/Hora:  03/10/2026, 21:17:11
+Tempo API:  241ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 141.989.747-05
+Nome: GABRIELA MORAIS DOS SANTOS
+Primeiro Nome: GABRIELA
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 09/11/1989
+Nome da Mãe: MARIA DE LOURDES VIEIRA DE MORAIS
+Nome do Pai: SEM INFORMAÇÃO
+RG: 266522473
+Mosaic: F19
+Score:
+  Value: 137
+  Range: ALTISSIMO
+E-mail: gabriela.sara2014@gmail.com
+Additional Emails: (1 item(s))
+  - gabriela.sara2014@gmail.com
+Federal Status: REGULAR
+Renda: 443
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: ANTONIO RAMALHO
+  Bairro: MIGUEL COUTO
+  Cidade: NOVA IGUACU
+  Estado: RIO DE JANEIRO
+  CEP: 26061-290
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ANTONIO RAMALHO
+    Bairro: MIGUEL COUTO
+    Cidade: NOVA IGUACU
+    Estado: RIO DE JANEIRO
+    CEP: 26061-290
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R ANTONIO RAMALHO
+    Número: 201
+    Bairro: MIGUEL COUTO
+    Cidade: NOVA IGUACU - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: ANTONIO RAMALHO
+    Tipo: R
+    Número: 30
+    Complemento: C C
+    Bairro: MIGUEL COUTO
+    Cidade: NOVA IGUACU
+    Estado: RJ
+    CEP: 26061-290
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DA GAMA
+    Tipo: EST
+    Número: 564
+    Bairro: JURITI
+    Cidade: NOVA IGUACU
+    Estado: RJ
+    CEP: 26030-165
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANTONIO RAMALHO
+    Tipo: R
+    Número: 198
+    Bairro: MIGUEL COUTO
+    Cidade: NOVA IGUACU
+    Estado: RJ
+    CEP: 26061-290
+    Data Atualizacao: 09/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: ANTONIO RAMALHO
+    Número: 0000198
+    Bairro: MIGUEL COUTO
+    Cidade: NOVA IGUACU
+    Estado: RJ
+    CEP: 26061-290
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (21) 97751-1710
+  - (21) 98388-5205
+  - (21) 97413-1183
+  - (21) 97463-2013
+  - (21) 96680-2831
+  - (21) 96415-3769
+  - (21) 99879-0742
+  - (21) 3769-4269
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: INVALIDO
+Cns: 709600667278071
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 06/07/2019
+    Mosaic: F19
+    Mosaic New: H28
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO RAMALHO
+      Número: 30
+      Complemento: C C
+      Bairro: MIGUEL COUTO
+      Cidade: NOVA IGUACU
+      Estado: RJ
+      CEP: 26061-290
+      Date Added: 02/02/2016
+    [2]
+      Tipo: EST
+      Rua: DA GAMA
+      Número: 564
+      Bairro: JURITI
+      Cidade: NOVA IGUACU
+      Estado: RJ
+      CEP: 26030-165
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ANTONIO RAMALHO
+      Número: 198
+      Bairro: MIGUEL COUTO
+      Cidade: NOVA IGUACU
+      Estado: RJ
+      CEP: 26061-290
+      Date Added: 13/04/2010
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 964153769
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [2]
+      Telefone: 998790742
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [3]
+      Telefone: 37694269
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 23/01/2018
+    [4]
+      Telefone: 983885205
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/03/2018
+      Info Date: 01/03/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: gabriela.sara2014@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 378
+    CSB8 FAIXA: MEDIO
+    CSBA: 137
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 129.620.807-90
+      Nome: RAFAELA MORAIS DOS SANTOS
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 107.440.627-30
+      Nome: MARIA DE LOURDES VIEIRA DE MORAIS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 443.43
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 056.918.767-24
+    Nome: FLAVIO DE JESUS OLIVEIRA
+    Logradouro: ANTONIO RAMALHO
+    Número: 229
+    Bairro: MIGUEL COUTO
+  [2]
+    CPF: 007.668.387-73
+    Nome: JORGE CARLOTA
+    Logradouro: ANTONIO RAMALHO
+    Número: 80
+    Bairro: MIGUEL COUTO
+  [3]
+    CPF: 079.455.607-84
+    Nome: JEFFERSON NASCIMENTO DOS SANTOS
+    Logradouro: ANTONIO RAMALHO
+    Número: 165
+    Bairro: MIGUEL COUTO
+  [4]
+    CPF: 095.638.114-61
+    Nome: CHARLES DE OLIVEIRA PEREIRA
+    Logradouro: ANTONIO RAMALHO
+    Número: 192
+    Bairro: MIGUEL COUTO
+  [5]
+    CPF: 085.810.327-37
+    Nome: ALAN DE SOUZA DA CONCEICAO
+    Logradouro: ANTONIO RAMALHO
+    Número: 110
+    Bairro: MIGUEL COUTO
+  [6]
+    CPF: 086.731.347-14
+    Nome: MARIA CRISTIANA EMENEGILDO
+    Logradouro: ANTONIO RAMALHO
+    Número: 37
+    Bairro: MIGUEL COUTO
+  [7]
+    CPF: 076.003.637-39
+    Nome: ROSEMERE CLAUDINO
+    Logradouro: ANTONIO RAMALHO
+    Número: 20
+    Bairro: MIGUEL COUTO
+  [8]
+    CPF: 094.216.837-22
+    Nome: TARCISO DOS SANTOS VIEIRA
+    Logradouro: ANTONIO RAMALHO
+    Número: 198
+    Bairro: MIGUEL COUTO
+  [9]
+    CPF: 112.635.617-48
+    Nome: RODRIGO LINO BARING
+    Logradouro: ANTONIO RAMALHO
+    Número: 635
+    Bairro: MIGUEL COUTO
+  [10]
+    CPF: 009.257.377-04
+    Nome: GEORGE SANTOS
+    Logradouro: ANTONIO RAMALHO
+    Número: 55
+    Bairro: MIGUEL COUTO
+  [11]
+    CPF: 142.699.117-78
+    Nome: RAFAEL ALEXANDRINO DA SILVA JUNIOR
+    Logradouro: ANTONIO RAMALHO
+    Número: 11
+    Bairro: MIGUEL COUTO
+  [12]
+    CPF: 033.546.187-52
+    Nome: RAFAEL ALEXANDRINO DA SILVA
+    Logradouro: ANTONIO RAMALHO
+    Número: 11
+    Bairro: MIGUEL COUTO
+  [13]
+    CPF: 139.861.087-93
+    Nome: MARCELA DE ALMEIDA SOARES
+    Logradouro: ANTONIO RAMALHO
+    Número: 30
+    Bairro: MIGUEL COUTO
+  [14]
+    CPF: 127.585.397-80
+    Nome: CRISTIANO SILVA GOMES
+    Logradouro: ANTONIO RAMALHO
+    Número: 175
+    Bairro: MIGUEL COUTO
+  [15]
+    CPF: 420.326.287-91
+    Nome: GENY DE SOUZA
+    Logradouro: ANTONIO RAMALHO
+    Número: 183
+    Bairro: MIGUEL COUTO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (21) 97413-1183
+    Nome: SRA  GABRIELA MORAIS DOS SANTOS
+    Cidade: NOVA IGUACU
+    UF: RJ
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (21) 97463-2013
+    Nome: GABRIELA MORAIS DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (21) 96680-2831
+    Nome: GABRIELA MORAIS DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - gabriela.sara2014@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 443
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 443.43
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (21) 96415-3769
+    Ddd: 21
+    Número: 964153769
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [2]
+    Telefone: (21) 99879-0742
+    Ddd: 21
+    Número: 998790742
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [3]
+    Telefone: (21) 3769-4269
+    Ddd: 21
+    Número: 37694269
+    Tipo: FIXO
+    Data Inclusao: 23/01/2018
+    Classificacao: B
+  [4]
+    Telefone: (21) 98388-5205
+    Ddd: 21
+    Número: 983885205
+    Tipo: 3
+    Data Inclusao: 06/03/2018
+    Data Informacao: 01/03/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

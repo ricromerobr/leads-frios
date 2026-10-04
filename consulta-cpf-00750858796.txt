@@ -1,0 +1,471 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00750858796
+Data/Hora:  04/10/2026, 12:38:08
+Tempo API:  741ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 007.508.587-96
+Nome: GEOVANI JOSE MONTEIRO LANDEIRO
+Primeiro Nome: GEOVANI
+Sobrenome: LANDEIRO
+Sexo: Masculino
+Data de Nascimento: 18/09/1970
+Nome da Mãe: SEBASTIANA MONTEIRO LANDEIRO
+Nome do Pai: SEM INFORMAÃÃO
+RG: 83029454
+Voter Id: 078517100396
+Mosaic: E14
+Ocupação: Engenheiro eletricista
+Score:
+  Value: 450
+  Range: MEDIO
+E-mail: geovani.landeiro@concremat.com.br
+Additional Emails: (4 item(s))
+  - geovani.landeiro@concremat.com.br
+  - geovani.landeiro@gmail.com
+  - geovani_landeiro@ig.com.br
+  - geovani.landeiro@csn.com.br
+Federal Status: REGULAR
+Renda: 13737
+Income Bracket: 7
+Cbo: 514310
+Corporate Share Pct: 100
+Endereço:
+  Tipo: AVENIDA
+  Rua: LTO VILA RICA TIRADENTES
+  Número: 151
+  Bairro: JD VL RICA TIRADENTE
+  Cidade: VOLTA REDONDA
+  Estado: RIO DE JANEIRO
+  CEP: 27259-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: LTO VILA RICA TIRADENTES
+    Número: 151
+    Bairro: JD VL RICA TIRADENTE
+    Cidade: VOLTA REDONDA
+    Estado: RIO DE JANEIRO
+    CEP: 27259-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R SANTA EDWIRGES
+    Número: 151
+    Bairro: VILA RICA
+    Cidade: VOLTA REDONDA - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: AIRES SALDANHA
+    Tipo: R
+    Número: 7
+    Bairro: COPACABANA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22060-030
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: UM
+    Tipo: R
+    Número: 151
+    Bairro: VL RICA
+    Cidade: VOLTA REDONDA
+    Estado: RJ
+    CEP: 27240-190
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 105
+    Bairro: LOT MENINO JESUS I
+    Cidade: SINOP
+    Estado: MT
+    CEP: 78559-097
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: [empty]
+    Rua: UM
+    Número: 0000151
+    Bairro: JARDIM VILA RICA  TIRADENTES
+    Cidade: 02725900
+    Estado: RJ
+    Fonte: ASSECC
+  [7]
+    Rua: AV UM LTO VILA RICA TIRADENTES
+    Número: 151
+    Bairro: JD VILA RICA TIRADEN
+    Estado: RJ
+    CEP: 27259-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (24) 99994-6619
+  - +55 (24) 99994-6619
+  - (24) 99907-9617
+  - (21) 99538-6309
+  - (21) 2106-1544
+  - (21) 99953-8630
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: VASSOURAS - RJ
+Cns: 708100596479033
+Paycom:
+  E-mail: geovani.landeiro@gmail.com
+  Data de Nascimento: 10/10/2000
+  Created At: 2021-07-31 21:42:27
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Av Paulista
+    Número: 99
+    Bairro: Centro
+    Cidade: Sao Paulo
+    Estado: SP
+    País: BRA
+    CEP: 99999-999
+    Telephone: +55 (24) 99994-6619
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: O
+    Status Date: 25/10/2019
+    Info Date: 24/09/2007
+    Mosaic: E14
+    Mosaic New: G22
+    Mosaic Secondary: G24
+    Income Bracket Id: 12
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: UM
+      Número: 151
+      Complemento: 658
+      Bairro: JD VILA RICA TIRADENTES
+      Cidade: VOLTA REDONDA
+      Estado: RJ
+      CEP: 27259-000
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: AIRES SALDANHA
+      Número: 7
+      Bairro: COPACABANA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22060-030
+      Date Added: 22/08/2017
+    [3]
+      Tipo: R
+      Rua: UM
+      Número: 151
+      Bairro: VL RICA
+      Cidade: VOLTA REDONDA
+      Estado: RJ
+      CEP: 27240-190
+      Date Added: 07/11/2011
+    [4]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 105
+      Bairro: LOT MENINO JESUS I
+      Cidade: SINOP
+      Estado: MT
+      CEP: 78559-097
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999079617
+      Ddd: 24
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 999946619
+      Ddd: 24
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+      Info Date: 09/03/2018
+    [3]
+      Telefone: 21061544
+      Ddd: 21
+      Tipo: 2
+      Classificacao: C2
+      Date Added: 22/08/2017
+      Info Date: 13/06/2017
+    [4]
+      Telefone: 995386309
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 01/02/2018
+    [5]
+      Telefone: 999538630
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 13/06/2017
+  E-mails: (4 item(s))
+    [1]
+      E-mail: geovani_landeiro@ig.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: geovani.landeiro@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [3]
+      E-mail: geovani.landeiro@concremat.com.br
+      Priority: 3
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+    [4]
+      E-mail: geovani.landeiro@csn.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+  Score:
+    CSB8: 416
+    CSB8 FAIXA: MEDIO
+    CSBA: 450
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: SEBASTIANA MONTEIRO LANDEIRO
+      Vinculo: MAE
+  Pis: 17014175635
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 12332.67
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 036.693.577-18
+    Nome: CRISTIANE MARA DE ARAUJO PAUFERRO
+    Logradouro: UM
+    Número: 528
+    Bairro: JD VILA RICA TIRADENTES
+  [2]
+    CPF: 373.898.829-72
+    Nome: OSVALDO PACHECO
+    Logradouro: UM
+    Número: 289
+    Bairro: JD VILA RICA TIRADENTES
+  [3]
+    CPF: 754.408.067-68
+    Nome: JOSILDA MEDEIROS DA SILVA
+    Logradouro: UM
+    Número: 481
+    Bairro: JD VILA RICA TIRADENTES
+  [4]
+    CPF: 568.137.167-00
+    Nome: MILTON PEREIRA
+    Logradouro: UM
+    Número: 313
+    Bairro: JD VILA RICA TIRADENTES
+  [5]
+    CPF: 077.867.207-74
+    Nome: JEFFERSON JOSE SIQUEIRA
+    Logradouro: UM
+    Número: 369
+    Bairro: JD VILA RICA TIRADENTES
+  [6]
+    CPF: 068.773.857-13
+    Nome: LUIZ CLAUDIO DE SOUZA
+    Logradouro: UM
+    Número: 160
+    Bairro: JD VILA RICA TIRADENTES
+  [7]
+    CPF: 018.355.917-79
+    Nome: JOAO RICARDO DE ABREU KOCH
+    Logradouro: UM
+    Número: 512
+    Bairro: JD VILA RICA TIRADENTES
+  [8]
+    CPF: 886.181.617-72
+    Nome: RINALDO LOPES SOARES BENTO
+    Logradouro: UM
+    Número: 552
+    Bairro: JD VILA RICA TIRADENTES
+  [9]
+    CPF: 069.807.977-94
+    Nome: ALEXANDRE BALBINO SILVA
+    Logradouro: UM
+    Número: 24
+    Bairro: JD VILA RICA TIRADENTES
+  [10]
+    CPF: 163.655.297-83
+    Nome: CECILIA GONCALVES DE ABREU
+    Logradouro: UM
+    Número: 425
+    Bairro: JD VILA RICA TIRADENTES
+  [11]
+    CPF: 981.905.207-68
+    Nome: JAIRO LUIS MORAES E SILVA
+    Logradouro: UM
+    Número: 120
+    Bairro: JD VILA RICA TIRADENTES
+  [12]
+    CPF: 974.373.017-68
+    Nome: CARLOS ALBERTO FERNANDES DIAS
+    Logradouro: UM
+    Número: 345
+    Bairro: JD VILA RICA TIRADENTES
+  [13]
+    CPF: 380.317.527-53
+    Nome: VANDERLY MOURAO
+    Logradouro: UM
+    Número: 127
+    Bairro: JD VILA RICA TIRADENTES
+  [14]
+    CPF: 281.760.307-91
+    Nome: ESTELA DA SILVA FREITAS
+    Logradouro: UM
+    Número: 16
+    Bairro: JD VILA RICA TIRADENTES
+  [15]
+    CPF: 209.449.507-87
+    Nome: JOAO BATISTA CARDOSO
+    Logradouro: UM
+    Número: 167
+    Bairro: JD VILA RICA TIRADENTES
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (24) 99994-6619
+    Nome: GEOVANI  JOSE MONTEIRO LANDEIRO
+    Cidade: 02725900
+    UF: RJ
+  [2]
+    Telefone: (24) 99907-9617
+    Nome: GEOVANI JOSE MONTEIRO LANDEIRO
+    Cidade: 27240190
+    UF: RJ
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (21) 99538-6309
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 15DEC2015
+    Ultima Recarga: 18AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 22/11/2015
+  [2]
+    Telefone: (24) 99994-6619
+    Tipo: pos
+    Status Linha: SUSPENS�O PARCIAL
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 18/06/2019
+    Flag Divida: 1
+    Maior Atraso: 60
+    Menor Atraso: -1
+    Valor Fatura: 35.99
+    Mes Referencia: 202009
+E-mails: (4 item(s))
+  - geovani.landeiro@concremat.com.br
+  - geovani.landeiro@gmail.com
+  - geovani_landeiro@ig.com.br
+  - geovani.landeiro@csn.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 7
+Renda Estimativas:
+  Presumida:
+    Valor: 13737
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 12332.67
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: GEOVANI JOSE MONTEIRO LANDEIRO
+    Ano Vestibular: 2008
+    Faculdade: CENTRO UNIVERSITARIO DE VOLTA REDONDA
+    Curso: ENGENHARIA ELETRICA   ELETROTA CNICA
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (24) 99907-9617
+    Ddd: 24
+    Número: 999079617
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [2]
+    Telefone: (24) 99994-6619
+    Ddd: 24
+    Número: 999946619
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Data Informacao: 09/03/2018
+    Classificacao: A0
+  [3]
+    Telefone: (21) 2106-1544
+    Ddd: 21
+    Número: 21061544
+    Tipo: CELULAR
+    Data Inclusao: 22/08/2017
+    Data Informacao: 13/06/2017
+    Classificacao: C2
+  [4]
+    Telefone: (21) 99538-6309
+    Ddd: 21
+    Número: 995386309
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: A2
+  [5]
+    Telefone: (21) 99953-8630
+    Ddd: 21
+    Número: 999538630
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 13/06/2017
+    Classificacao: D
+Occupation Code: 214305
+Occupation Name: Engenheiro eletricista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

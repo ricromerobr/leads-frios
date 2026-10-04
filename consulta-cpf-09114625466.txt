@@ -1,0 +1,249 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09114625466
+Data/Hora:  04/10/2026, 11:37:50
+Tempo API:  538ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 091.146.254-66
+Nome: MARIA CREMILDA DA SILVA SANTOS
+Primeiro Nome: MARIA
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 03/02/1966
+Nome da Mãe: MARIA CREMILDA DA ISILVA
+RG: 7973535
+Rg Issuer: SDS
+Voter Id: 008636270833
+Score:
+  Value: 841
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 552
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: DEZENOVE
+  Número: 5
+  Complemento: LT NOVA E
+  Bairro: PTE DOS CARVALHOS
+  Cidade: CABO DE SANTO AGOSTINHO
+  Estado: PERNAMBUCO
+  CEP: 54580-805
+All Addresses: (1 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DEZENOVE
+    Número: 5
+    Complemento: LT NOVA E
+    Bairro: PTE DOS CARVALHOS
+    Cidade: CABO DE SANTO AGOSTINHO
+    Estado: PERNAMBUCO
+    CEP: 54580-805
+    Fonte: PRINCIPAL
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (81) 98436-6026
+  - (81) 98861-9376
+  - (81) 99179-0589
+  - (81) 3522-8746
+  - (81) 98737-1256
+  - (81) 98481-3215
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/03/2019
+    Rg Issuer: SDS
+    Mosaic New: H25
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: DEZENOVE
+      Número: 5
+      Complemento: LT NOVA E
+      Bairro: PTE DOS CARVALHOS
+      Cidade: CABO DE SANTO AGOSTINHO
+      Estado: PE
+      CEP: 54580-805
+      Date Added: 09/12/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 35228746
+      Ddd: 81
+      Tipo: 1
+      Classificacao: D
+      Date Added: 26/07/2011
+    [2]
+      Telefone: 987371256
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 984813215
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  Score:
+    CSB8: 611
+    CSB8 FAIXA: BAIXO
+    CSBA: 841
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA CREMILDA DA ISILVA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 552.63
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 065.173.434-74
+    Nome: ANDERSON AZEVEDO DE SALES
+    Logradouro: DEZENOVE
+    Número: 65
+    Bairro: PTE DOS CARVALHOS
+  [2]
+    CPF: 099.058.424-03
+    Nome: CICERO DE SOUZA
+    Logradouro: DEZENOVE
+    Número: 113
+    Bairro: PTE DOS CARVALHOS
+  [3]
+    CPF: 381.855.394-72
+    Nome: TEREZINHA MARIA DA CONCEICAO
+    Logradouro: DEZENOVE
+    Número: 75
+    Bairro: PTE DOS CARVALHOS
+  [4]
+    CPF: 960.619.284-91
+    Nome: ERNANI AMANCIO PEREIRA JUNIOR
+    Logradouro: DEZENOVE
+    Número: 81
+    Bairro: PTE DOS CARVALHOS
+  [5]
+    CPF: 735.583.464-91
+    Nome: ANA CLEIDE MARIA DA SILVA
+    Logradouro: DEZENOVE
+    Número: 12
+    Bairro: PTE DOS CARVALHOS
+  [6]
+    CPF: 042.542.564-93
+    Nome: ADIELZA HILARIO DA SILVA
+    Logradouro: DEZENOVE
+    Número: 8
+    Bairro: PTE DOS CARVALHOS
+  [7]
+    CPF: 270.850.904-72
+    Nome: ELINALDO REIS DA COSTA
+    Logradouro: DEZENOVE
+    Número: 87
+    Bairro: PTE DOS CARVALHOS
+  [8]
+    CPF: 295.680.558-43
+    Nome: PAULO MARCOS FERREIRA DE CARVALHO
+    Logradouro: DEZENOVE
+    Número: 145
+    Bairro: PTE DOS CARVALHOS
+  [9]
+    CPF: 068.133.774-50
+    Nome: EDJA MARIA NASCIMENTO DE BRITO
+    Logradouro: DEZENOVE
+    Número: SN
+    Bairro: PTE DOS CARVALHOS
+  [10]
+    CPF: 076.292.164-16
+    Nome: CRISTIANO SOUSA MORENO
+    Logradouro: DEZENOVE
+    Número: 727
+    Bairro: PTE DOS CARVALHOS
+  [11]
+    CPF: 087.214.004-07
+    Nome: TACIZIO SILVA DE OLIVEIRA JUNIOR
+    Logradouro: DEZENOVE
+    Número: 2
+    Bairro: PTE DOS CARVALHOS
+  [12]
+    CPF: 093.652.524-07
+    Nome: PALLOMA PATRICIA DO NASCIMENTO
+    Logradouro: DEZENOVE
+    Número: 31
+    Bairro: PTE DOS CARVALHOS
+  [13]
+    CPF: 089.673.604-01
+    Nome: LUIZ HENRIQUE SANTOS DA SILVA
+    Logradouro: DEZENOVE
+    Número: 75
+    Bairro: PTE DOS CARVALHOS
+  [14]
+    CPF: 960.563.804-59
+    Nome: LIVINGSTONE GONCALVES DA SILVA
+    Logradouro: DEZENOVE
+    Número: 22
+    Bairro: PTE DOS CARVALHOS
+  [15]
+    CPF: 232.233.164-34
+    Nome: AMARO MOURA DA SILVA
+    Logradouro: DEZENOVE
+    Número: 145
+    Bairro: PTE DOS CARVALHOS
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (81) 99179-0589
+    Nome: MARIA CREMILDA DA SILVA SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 552
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 552.63
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (81) 3522-8746
+    Ddd: 81
+    Número: 35228746
+    Tipo: FIXO
+    Data Inclusao: 26/07/2011
+    Classificacao: D
+  [2]
+    Telefone: (81) 98737-1256
+    Ddd: 81
+    Número: 987371256
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (81) 98481-3215
+    Ddd: 81
+    Número: 984813215
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

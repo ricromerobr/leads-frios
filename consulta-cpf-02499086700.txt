@@ -1,0 +1,602 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02499086700
+Data/Hora:  03/10/2026, 15:18:25
+Tempo API:  766ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 024.990.867-00
+Nome: MARCELO DE AZEVEDO
+Primeiro Nome: MARCELO
+Sobrenome: AZEVEDO
+Sexo: Masculino
+Data de Nascimento: 28/02/1971
+Nome da Mãe: REQUILDES SIQUEIRA DE AZEVEDO
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 081376620361
+Mosaic: C10
+Ocupação: Agente de trânsito
+Score:
+  Value: 29
+  Range: ALTISSIMO
+E-mail: fgj@hotmail.com
+Additional Emails: (3 item(s))
+  - fgj@hotmail.com
+  - gloriacsantanna@gmail.com
+  - kathyregis1@hotmail.com
+Federal Status: REGULAR
+Renda: 1488
+Income Bracket: 2
+Cbo: 783225
+Endereço:
+  Tipo: RUA
+  Rua: FRANCIS HIME
+  Bairro: MARECHAL HERMES
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21610-610
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FRANCIS HIME
+    Bairro: MARECHAL HERMES
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21610-610
+    Fonte: PRINCIPAL
+  [2]
+    Rua: QUATIARA
+    Número: 214
+    Bairro: HONORIO GURGEL
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: NATIVIDADE
+    Tipo: R
+    Número: 7
+    Complemento: C C 6
+    Bairro: RCR DOS BANDEIRANTES
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22790-725
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FRANCIS HIME
+    Tipo: R
+    Número: 103
+    Complemento: AP 202 BL
+    Bairro: MAL HERMES
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21610-610
+    Data Atualizacao: 13/04/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: FRANCIS HIME
+    Tipo: R
+    Número: 51
+    Complemento: BL 4 AP 401
+    Bairro: MAL HERMES
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21610-610
+    Data Atualizacao: 09/04/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: IDALINA
+    Tipo: TV
+    Número: 12
+    Complemento: C 1
+    Bairro: OLINDA
+    Cidade: NILOPOLIS
+    Estado: RJ
+    CEP: 26510-130
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: FRANCISHIME
+    Número: 0000051
+    Bairro: MARECHALHERMES
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21610-610
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (21) 99006-1841
+  - (11) 2830-1736
+  - (21) 99222-4616
+  - (21) 3546-1985
+  - +55 (21) 96441-7229
+  - 552135461985
+  - (21) 96649-3159
+  - (21) 2830-1736
+  - (62) 2830-1736
+  - (21) 7730-6417
+  - (21) 97410-8327
+Datasus Phones: (1 item(s))
+  - (21) 99222-4616
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 704209241251684
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/10/2019
+    Info Date: 28/11/2007
+    Mosaic: C10
+    Mosaic New: E15
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: NATIVIDADE
+      Número: 7
+      Complemento: C C 6
+      Bairro: RCR DOS BANDEIRANTES
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22790-725
+      Date Added: 31/12/2018
+    [2]
+      Tipo: R
+      Rua: FRANCIS HIME
+      Número: 103
+      Complemento: AP 202 BL
+      Bairro: MAL HERMES
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21610-610
+      Date Added: 11/03/2015
+    [3]
+      Tipo: R
+      Rua: FRANCIS HIME
+      Número: 51
+      Complemento: BL 4 AP 401
+      Bairro: MAL HERMES
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21610-610
+      Date Added: 11/10/2006
+    [4]
+      Tipo: TV
+      Rua: IDALINA
+      Número: 12
+      Complemento: C 1
+      Bairro: OLINDA
+      Cidade: NILOPOLIS
+      Estado: RJ
+      CEP: 26510-130
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 28301736
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 11/06/2008
+      Info Date: 28/11/2007
+    [2]
+      Telefone: 28301736
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [3]
+      Telefone: 77306417
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+    [4]
+      Telefone: 974108327
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [5]
+      Telefone: 35461985
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 31/12/2018
+      Info Date: 25/12/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: gloriacsantanna@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 191
+    CSB8 FAIXA: ALTO
+    CSBA: 29
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: REQUILDES SIQUEIRA DE AZEVEDO
+      Vinculo: MAE
+  Pis: 12430650519
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 413.15
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 142.756.247-42
+    Nome: DIEGO DE SOUSA ALVES
+    Logradouro: NATIVIDADE
+    Número: 56
+    Bairro: BARRA DA TIJUCA
+  [2]
+    CPF: 043.483.584-60
+    Nome: LUCIEL GOMES DE FARIAS
+    Logradouro: NATIVIDADE
+    Número: 30
+    Bairro: BARRA DA TIJUCA
+  [3]
+    CPF: 417.909.797-49
+    Nome: LUIS CARLOS DOS SANTOS
+    Logradouro: NATIVIDADE
+    Número: 552
+    Bairro: BARRA DA TIJUCA
+  [4]
+    CPF: 080.679.767-32
+    Nome: CARLIZETE COSTA GONCALVES
+    Logradouro: NATIVIDADE
+    Número: 552
+    Bairro: BARRA DA TIJUCA
+  [5]
+    CPF: 053.440.864-82
+    Nome: MANOEL JERONIMO VICENTE NETO
+    Logradouro: NATIVIDADE
+    Número: 42
+    Bairro: BARRA DA TIJUCA
+  [6]
+    CPF: 028.252.476-26
+    Nome: ANA PAULA FIRMINO LIMA DOS SANTOS
+    Logradouro: NATIVIDADE
+    Número: 36
+    Bairro: BARRA DA TIJUCA
+  [7]
+    CPF: 057.900.166-00
+    Nome: THOMAS BECKER SILVA
+    Logradouro: NATIVIDADE
+    Número: 552
+    Bairro: BARRA DA TIJUCA
+  [8]
+    CPF: 018.730.275-83
+    Nome: VANESSA RIBEIRO BRITO
+    Logradouro: NATIVIDADE
+    Número: 552
+    Bairro: BARRA DA TIJUCA
+  [9]
+    CPF: 025.006.815-05
+    Nome: CLAUDEITO DE SOUZA MACHADO
+    Logradouro: NATIVIDADE
+    Número: 36
+    Bairro: BARRA DA TIJUCA
+  [10]
+    CPF: 013.004.717-19
+    Nome: MARILISE ALVES COUTINHO
+    Logradouro: NATIVIDADE
+    Número: 552
+    Bairro: BARRA DA TIJUCA
+  [11]
+    CPF: 122.197.217-01
+    Nome: CAROLINE FELIX SOUZA MARTINS
+    Logradouro: NATIVIDADE
+    Número: 7
+    Bairro: RCR DOS BANDEIRANTES
+  [12]
+    CPF: 094.413.137-93
+    Nome: LUCIANO DE SOUZA SALVADOR
+    Logradouro: NATIVIDADE
+    Número: 26
+    Bairro: BARRA DA TIJUCA
+  [13]
+    CPF: 753.733.004-20
+    Nome: JOSE PEREIRA DA SILVA
+    Logradouro: NATIVIDADE
+    Número: 7
+    Bairro: RCR DOS BANDEIRANTES
+  [14]
+    CPF: 066.592.384-84
+    Nome: EDSON BRAZ DE SENA
+    Logradouro: NATIVIDADE
+    Número: 32
+    Bairro: BARRA DA TIJUCA
+  [15]
+    CPF: 139.644.277-48
+    Nome: ALESSANDRO ADRIAN ALESSIO
+    Logradouro: NATIVIDADE
+    Número: 552
+    Bairro: RCR DOS BANDEIRANTES
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (21) 99222-4616
+    Nome: MARCELO DE AZEVEDO
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (21) 3546-1985
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 02OCT2017:08:02:17
+    Cel Contato: +5521964417229
+    Complemento: CS - Casa: 6;
+    Data Retirada: 21DEC2018:05:55:47
+    Tipo Cliente: Residencial
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (21) 96649-3159
+    Nome: MARCELO DE AZEVEDO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - fgj@hotmail.com
+  - gloriacsantanna@gmail.com
+  - kathyregis1@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1488
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 413.15
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 2830-1736
+    Ddd: 21
+    Número: 28301736
+    Tipo: FIXO
+    Data Inclusao: 11/06/2008
+    Data Informacao: 28/11/2007
+    Classificacao: D
+  [2]
+    Telefone: (62) 2830-1736
+    Ddd: 62
+    Número: 28301736
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [3]
+    Telefone: (21) 7730-6417
+    Ddd: 21
+    Número: 77306417
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+  [4]
+    Telefone: (21) 97410-8327
+    Ddd: 21
+    Número: 974108327
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [5]
+    Telefone: (21) 3546-1985
+    Ddd: 21
+    Número: 35461985
+    Tipo: FIXO
+    Data Inclusao: 31/12/2018
+    Data Informacao: 25/12/2018
+    Classificacao: D
+Processos: (18 item(s))
+  [1]
+    Número: 1146535-08.2026.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: IPVA - Imposto Sobre Propriedade de Veículos Automotores
+    Vara: 5ª Vara do Juizado Especial da Fazenda Pública
+    Data: 16/09/2026
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Azevedo de Carvalho
+  [2]
+    Número: 0611427-05.2008.8.26.0053
+    Classe: Procedimento Comum Cível
+    Assunto: Sistema Remuneratório e Benefícios
+    Vara: Unidade de Processamento das Execuções contra a Fazenda Pública da Comarca da Capital - UPEFAZ
+    Data: 05/11/2008
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Adolfo de Azevedo
+  [3]
+    Número: 1144027-89.2026.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: Repetição de indébito
+    Vara: 5ª Vara do Juizado Especial da Fazenda Pública
+    Data: 11/09/2026
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Mello de Azevedo Vulcano
+  [4]
+    Número: 1050893-08.2026.8.26.0053
+    Classe: Procedimento Comum Cível
+    Assunto: Auxílio-Acidente (Art. 86)
+    Vara: 1ª Vara de Acidentes do Trabalho
+    Data: 15/04/2026
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo de Azevedo Lopes
+  [5]
+    Número: 1057129-54.2018.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: Adicional por Tempo de Serviço
+    Vara: 1ª Vara do Juizado Especial da Fazenda Pública
+    Data: 16/11/2018
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Marques Azevedo
+  [6]
+    Número: 1022343-03.2026.8.26.0053
+    Classe: Cumprimento de Sentença contra a Fazenda Pública
+    Assunto: Fazenda Pública
+    Vara: 11ª Vara de Fazenda Pública
+    Data: 26/02/2026
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo de Azevedo
+  [7]
+    Número: 1015483-83.2026.8.26.0053
+    Classe: Petição Cível
+    Assunto: Obrigações
+    Vara: 2ª Vara do Juizado Especial da Fazenda Pública
+    Data: 11/02/2026
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Huang Azevedo
+  [8]
+    Número: 1005284-02.2026.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: Adicional de Fronteira
+    Vara: 4ª Vara do Juizado Especial da Fazenda Pública da Capital
+    Data: 21/01/2026
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo de Paiva Azevedo
+  [9]
+    Número: 1140104-89.2025.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: Indenização por Dano Material
+    Vara: 4ª Vara do Juizado Especial da Fazenda Pública da Capital
+    Data: 25/11/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo de Paiva Azevedo
+  [10]
+    Número: 1139830-28.2025.8.26.0053
+    Classe: Cumprimento de sentença
+    Assunto: DIREITO PROCESSUAL CIVIL E DO TRABALHO-Liquidação / Cumprimento / Execução-Obrigação de Fazer / Não Fazer
+    Vara: 5ª Vara de Fazenda Pública
+    Data: 25/11/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Exeqte
+        Nome: Marcelo de Paiva Azevedo
+  [11]
+    Número: 0027862-10.2025.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO-Militar-Sistema Remuneratório e Benefícios-Descontos Indevidos
+    Vara: 4ª Vara do Juizado Especial da Fazenda Pública da Capital
+    Data: 03/10/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Francisco Azevedo
+  [12]
+    Número: 1074012-32.2025.8.26.0053
+    Classe: Procedimento Comum Cível
+    Assunto: Reintegração
+    Vara: 8ª Vara de Fazenda Pública
+    Data: 31/07/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Azevedo Leonessa
+  [13]
+    Número: 1066021-05.2025.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: CNH - Carteira Nacional de Habilitação
+    Vara: Núcleo Especializado de Justiça 4.0 – DETRAN / TRÂNSITO
+    Data: 16/07/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Azevedo Ferro
+  [14]
+    Número: 1016515-60.2025.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: Auxílio-Alimentação
+    Vara: 2ª Vara do Juizado Especial da Fazenda Pública
+    Data: 03/03/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Anderson de Azevedo
+  [15]
+    Número: 1009930-89.2025.8.26.0053
+    Classe: Procedimento do Juizado Especial da Fazenda Pública
+    Assunto: Quitação
+    Vara: 3ª Vara do Juizado Especial da Fazenda Pública da Capital
+    Data: 11/02/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo de Azevedo Santos
+  [16]
+    Número: 1012644-56.2024.8.26.0053
+    Classe: Cumprimento de sentença
+    Assunto: Valor da Execução / Cálculo / Atualização
+    Vara: 11ª Vara de Fazenda Pública
+    Data: 28/02/2024
+    Partes: (1 item(s))
+      [1]
+        Papel: Exeqte
+        Nome: Marcelo de Azevedo
+  [17]
+    Número: 1067788-49.2023.8.26.0053
+    Classe: Cumprimento de Sentença contra a Fazenda Pública
+    Assunto: Correção Monetária
+    Vara: 8ª Vara de Fazenda Pública
+    Data: 10/10/2023
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo Monte de Azevedo
+  [18]
+    Número: 1063773-37.2023.8.26.0053
+    Classe: Cumprimento de Sentença contra a Fazenda Pública
+    Assunto: Correção Monetária
+    Vara: 8ª Vara de Fazenda Pública
+    Data: 26/09/2023
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Marcelo de Paiva Azevedo
+Occupation Code: 517220
+Occupation Name: Agente de trânsito
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

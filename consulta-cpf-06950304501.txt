@@ -1,0 +1,231 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06950304501
+Data/Hora:  02/10/2026, 15:35:55
+Tempo API:  21292ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 069.503.045-01
+Nome: LISSANDRA SCHINDLER FERNANDES
+Primeiro Nome: LISSANDRA
+Sobrenome: FERNANDES
+Sexo: Feminino
+Data de Nascimento: 14/02/1997
+Nome da Mãe: CARLA PATRICIA DIAS SCHINDLER
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 637
+  Range: BAIXO
+E-mail: carlapatriciadias@outlook.com
+Federal Status: REGULAR
+Renda: 1066
+Income Bracket: 2
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+All Addresses: (1 item(s))
+  [1]
+    Rua: PEDRO
+    Tipo: R
+    Número: 134
+    Bairro: VL CANARIA
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41390-000
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/01/2019
+    Mosaic New: D11
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: PEDRO
+      Número: 134
+      Bairro: VL CANARIA
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41390-000
+      Date Added: 27/07/2017
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 986959828
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [2]
+      Telefone: 988859057
+      Ddd: 71
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 27/07/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: carlapatriciadias@outlook.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 03/07/2017
+  Score:
+    CSB8: 520
+    CSB8 FAIXA: BAIXO
+    CSBA: 637
+    CSBA FAIXA: BAIXO
+  Pis: 21277415996
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 428.96
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (2 item(s))
+  - (71) 98695-9828
+  - (71) 98885-9057
+Additional Emails: (1 item(s))
+  - carlapatriciadias@outlook.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 418.488.295-15
+    Nome: JOSE DE OLIVEIRA NETO
+    Logradouro: PEDRO
+    Número: SN
+    Bairro: VL CANARIA
+  [2]
+    CPF: 899.302.075-20
+    Nome: REINALDO MOTA DOS SANTOS
+    Logradouro: PEDRO
+    Número: 37
+    Bairro: VL CANARIA
+  [3]
+    CPF: 030.941.615-96
+    Nome: VALDECI DE JESUS PINHEIRO
+    Logradouro: PEDRO
+    Número: 69
+    Bairro: VL CANARIA
+  [4]
+    CPF: 027.336.245-39
+    Nome: ELIENE CARVALHO DOS SANTOS
+    Logradouro: PEDRO
+    Número: 69
+    Bairro: VL CANARIA
+  [5]
+    CPF: 055.449.635-68
+    Nome: EMERITA NASCIMENTO MENDES
+    Logradouro: PEDRO
+    Número: 33
+    Bairro: VL CANARIA
+  [6]
+    CPF: 021.529.455-65
+    Nome: LENILDA MOURA DE SOUZA
+    Logradouro: PEDRO
+    Número: 12
+    Bairro: VL CANARIA
+  [7]
+    CPF: 020.641.185-51
+    Nome: SAMUEL DE JESUS CONCEICAO
+    Logradouro: PEDRO
+    Número: 9
+    Bairro: VL CANARIA
+  [8]
+    CPF: 019.316.345-48
+    Nome: HELARIO RODRIGUES E XAVIER
+    Logradouro: PEDRO
+    Número: 89
+    Bairro: VL CANARIA
+  [9]
+    CPF: 587.036.675-53
+    Nome: EVANICE BISPO PINHEIRO
+    Logradouro: PEDRO
+    Número: 13
+    Bairro: VL CANARIA
+  [10]
+    CPF: 006.462.111-10
+    Nome: WILSON CAMPOS REIS
+    Logradouro: PEDRO
+    Número: 33
+    Bairro: VL CANARIA
+  [11]
+    CPF: 883.584.105-49
+    Nome: AIBALDO DO ESPIRITO SANTO DE OLIVEIRA
+    Logradouro: PEDRO
+    Número: 63
+    Bairro: VL CANARIA
+  [12]
+    CPF: 807.651.305-72
+    Nome: JOSE ROBERTO BARBOSA DE BRITO
+    Logradouro: PEDRO
+    Número: 6
+    Bairro: VL CANARIA
+  [13]
+    CPF: 081.877.975-68
+    Nome: MARIVALDO VIEIRA DA SILVA
+    Logradouro: PEDRO
+    Número: 70
+    Bairro: VL CANARIA
+  [14]
+    CPF: 612.892.215-53
+    Nome: JORGINALDO MACHADO DE SOUZA
+    Logradouro: PEDRO
+    Número: 8
+    Bairro: VL CANARIA
+  [15]
+    CPF: 233.235.235-04
+    Nome: MARGARIDA MARIA LIMA GONDIM SILVA
+    Logradouro: PEDRO
+    Número: 1
+    Bairro: VL CANARIA
+E-mails: (1 item(s))
+  - carlapatriciadias@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1066
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 428.96
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (71) 98695-9828
+    Ddd: 71
+    Número: 986959828
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [2]
+    Telefone: (71) 98885-9057
+    Ddd: 71
+    Número: 988859057
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

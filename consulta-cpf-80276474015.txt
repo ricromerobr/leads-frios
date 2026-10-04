@@ -1,0 +1,499 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  80276474015
+Data/Hora:  03/10/2026, 21:52:15
+Tempo API:  687ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 802.764.740-15
+Nome: FERNANDO RODRIGUES MACIEL
+Primeiro Nome: FERNANDO
+Sobrenome: MACIEL
+Sexo: Masculino
+Data de Nascimento: 22/01/1977
+Nome da Mãe: GENIR RODRIGUES MACIEL
+Nome do Pai: SEM INFORMAÇÃO
+RG: 9059649237
+Rg Issuer: SSP
+Voter Id: 066343910477
+Mosaic: B05
+Ocupação: Capitão da polícia militar
+Score:
+  Value: 829
+  Range: BAIXISSIMO RISCO
+E-mail: sheila-natura@bol.com.br
+Additional Emails: (3 item(s))
+  - sheila-natura@bol.com.br
+  - fernando-maciel@bm.rs.gov.br
+  - fernando-maciel@brigadamilitar.rs.gov.br
+Federal Status: REGULAR
+Renda: 16962
+Income Bracket: 8
+Cbo: 20205
+Endereço:
+  Tipo: RUA
+  Rua: ROQUE CALAGE
+  Número: 886
+  Bairro: PASSO DA AREIA
+  Cidade: PORTO ALEGRE
+  Estado: RIO GRANDE DO SUL
+  CEP: 91350-090
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ROQUE CALAGE
+    Número: 886
+    Bairro: PASSO DA AREIA
+    Cidade: PORTO ALEGRE
+    Estado: RIO GRANDE DO SUL
+    CEP: 91350-090
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R ROQUE CALAGE
+    Número: 886
+    Bairro: PASSO D AREIA
+    Cidade: PORTO ALEGRE - RS
+    Fonte: DATASUS
+  [3]
+    Rua: ROQUE CALAGE
+    Tipo: R
+    Número: 900
+    Complemento: 50 4
+    Bairro: PASSO DA AREIA
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 91350-090
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: SILVADO
+    Tipo: R
+    Número: 630
+    Complemento: BOE
+    Bairro: CEL APARICIO BORGES
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 91510-100
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: FRANCISCO BITENCOURT
+    Tipo: R
+    Número: 22
+    Complemento: AP 470
+    Bairro: PASSO DA AREIA
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 91360-360
+    Data Atualizacao: 15/05/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: ROQUE CALAGE
+    Número: 0000886
+    Bairro: PASSO DAREIA
+    Cidade: PORTO ALEGRE
+    Estado: RS
+    CEP: 91350-090
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (51) 98613-1020
+  - (51) 98453-9988
+  - +55 (51) 98453-9988
+  - (51) 8132-9898
+  - (51) 98410-6382
+  - (51) 98132-9898
+  - (51) 3337-2788
+  - (53) 99241-9965
+  - (53) 3337-2788
+Cidade de Nascimento: INVALIDO
+Cns: 702803672873563
+Mte Data:
+  Nome: Fernando Rodrigues Maciel
+  Data de Nascimento: 22/01/1977
+  Nome da Mãe: Genir Rodrigues Maciel
+  Endereço:
+    Rua: Roque Calage
+    Número: 886
+    Complemento: Apto 504
+    Bairro: Passo D Areia
+    Cidade: Porto Alegre
+    Estado: RS
+    CEP: 91350-090
+Paycom:
+  E-mail: fernando-maciel@bm.rs.gov.br
+  Data de Nascimento: 01/01/1940
+  Created At: 2021-08-09 17:13:59
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Roque Calage
+    Número: 886
+    Bairro: Passo da Areia
+    Cidade: Porto Alegre
+    Estado: RS
+    País: BRA
+    CEP: 91350-090
+    Telephone: +55 (51) 98453-9988
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 12/08/2019
+    Info Date: 21/12/2008
+    Rg Issuer: SSP
+    Mosaic: B05
+    Mosaic New: A02
+    Mosaic Secondary: A01
+    Income Bracket Id: 12
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ROQUE CALAGE
+      Número: 900
+      Complemento: 50 4
+      Bairro: PASSO DA AREIA
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 91350-090
+      Date Added: 09/10/2013
+    [2]
+      Tipo: R
+      Rua: SILVADO
+      Número: 630
+      Complemento: BOE
+      Bairro: CEL APARICIO BORGES
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 91510-100
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ROQUE CALAGE
+      Número: 886
+      Bairro: PASSO DA AREIA
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 91350-090
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: FRANCISCO BITENCOURT
+      Número: 22
+      Complemento: AP 470
+      Bairro: PASSO DA AREIA
+      Cidade: PORTO ALEGRE
+      Estado: RS
+      CEP: 91360-360
+      Date Added: 16/06/2007
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33372788
+      Ddd: 51
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 18/06/2007
+      Info Date: 03/04/2012
+    [2]
+      Telefone: 992419965
+      Ddd: 53
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 33372788
+      Ddd: 53
+      Tipo: 1
+      Classificacao: D
+      Date Added: 20/12/2009
+    [4]
+      Telefone: 984106382
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [5]
+      Telefone: 984539988
+      Ddd: 51
+      Tipo: 3
+      Classificacao: D
+      Date Added: 06/08/2013
+      Info Date: 21/04/2010
+  E-mails: (2 item(s))
+    [1]
+      E-mail: sheila-natura@bol.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2016
+    [2]
+      E-mail: fernando-maciel@brigadamilitar.rs.gov.br
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+  Score:
+    CSBA: 829
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      Nome: GENIR RODRIGUES MACIEL
+      Vinculo: MAE
+    [2]
+      CPF: 9271554000
+      Nome: BELMIRO BARROS MACIEL
+      Vinculo: PAI
+    [3]
+      CPF: 651.476.770-20
+      Nome: MARCELO RODRIGUES MACIEL
+      Vinculo: IRMA(O)
+  Pis: 17060348571
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 14534.98
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 694.792.910-53
+    Nome: VANDA DA ROSA LINDMANN
+    Logradouro: ROQUE CALAGE
+    Número: 280
+    Bairro: PASSO DA AREIA
+  [2]
+    CPF: 017.925.460-09
+    Nome: LUCAS CORREIA MENDES
+    Logradouro: ROQUE CALAGE
+    Número: 280
+    Bairro: PASSO DA AREIA
+  [3]
+    CPF: 055.073.670-00
+    Nome: ARNO RODRIGUES DA SILVA
+    Logradouro: ROQUE CALAGE
+    Número: 566
+    Bairro: PASSO DA AREIA
+  [4]
+    CPF: 280.497.560-68
+    Nome: LEISA ROSELAINE WANZELLER PINHEIRO
+    Logradouro: ROQUE CALAGE
+    Número: 812
+    Bairro: PASSO DA AREIA
+  [5]
+    CPF: 011.876.880-88
+    Nome: RAFAEL PINTO GUIMARAES
+    Logradouro: ROQUE CALAGE
+    Número: 200
+    Bairro: PASSO DA AREIA
+  [6]
+    CPF: 464.503.940-72
+    Nome: GLAMIR CHIARADIA COELHO
+    Logradouro: ROQUE CALAGE
+    Número: 260
+    Bairro: PASSO DA AREIA
+  [7]
+    CPF: 087.776.590-15
+    Nome: WALCZAK CARDOSO
+    Logradouro: ROQUE CALAGE
+    Número: 180
+    Bairro: PASSO DA AREIA
+  [8]
+    CPF: 340.091.750-87
+    Nome: CARMEN LUCIA BITTENCOURT
+    Logradouro: ROQUE CALAGE
+    Número: 744
+    Bairro: PASSO DA AREIA
+  [9]
+    CPF: 221.080.410-87
+    Nome: NEUSA GARCIA DE MORAIS
+    Logradouro: ROQUE CALAGE
+    Número: 580
+    Bairro: PASSO DA AREIA
+  [10]
+    CPF: 011.349.810-15
+    Nome: JAMES RODRIGUES
+    Logradouro: ROQUE CALAGE
+    Número: 200
+    Bairro: PASSO DA AREIA
+  [11]
+    CPF: 517.727.280-04
+    Nome: ZELI SILVEIRA DE OLIVEIRA
+    Logradouro: ROQUE CALAGE
+    Número: 180
+    Bairro: PASSO DA AREIA
+  [12]
+    CPF: 124.989.390-91
+    Nome: OCTAVIANO FREITAS LEAL
+    Logradouro: ROQUE CALAGE
+    Número: 180
+    Bairro: PASSO DA AREIA
+  [13]
+    CPF: 140.936.500-04
+    Nome: DALVA MARIA DE FREITAS
+    Logradouro: ROQUE CALAGE
+    Número: 180
+    Bairro: PASSO DA AREIA
+  [14]
+    CPF: 457.194.030-00
+    Nome: CARLOS AUGUSTO DE LIMA GARCIA
+    Logradouro: ROQUE CALAGE
+    Número: 494
+    Bairro: PASSO DA AREIA
+  [15]
+    CPF: 151.998.510-04
+    Nome: GENERINO LOURENCIO DE MESQUITA
+    Logradouro: ROQUE CALAGE
+    Número: 870
+    Bairro: PASSO DA AREIA
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (51) 98613-1020
+    Nome: FERNANDO RODRIGUES MACIEL
+    Cidade: PORTO ALEGRE
+    UF: RS
+  [2]
+    Telefone: (51) 98453-9988
+    Nome: FERNANDO RODRIGUES MACIEL
+    Cidade: PORTO ALEGRE
+    UF: RS
+  [3]
+    Telefone: (51) 8132-9898
+    Nome: FERNANDO RODRIGUES MACIEL
+    Cidade: PORTO ALEGRE
+    UF: RS
+  [4]
+    Telefone: (51) 98410-6382
+    Nome: FERNANDO RODRIGUES MACIEL
+    Cidade: PORTO ALEGRE
+    UF: RS
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (51) 98132-9898
+    Nome: FERNANDO RODRIGUES MACIEL
+    Cidade: PORTO ALEGRE
+    UF: RS
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (51) 3337-2788
+    Nome: FERNANDO RODRIGUES MACIEL
+    Cidade: PORTO ALEGRE
+    UF: RS
+    Operadora: EMBRATEL
+    Fonte: algar
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 712189052
+    Operadora: 78
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 11/10/2010
+    Tempo Base: 119
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201010
+    Geo:
+      —
+    Nascimento: 22/01/1977
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 12846
+      Classe Social: B1
+      Score: 837
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 871
+        Net: 861
+        Ctv: 893
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 670 - 884
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXO
+        Risco Ctv: BAIXISSIMO
+        Idade: 44
+E-mails: (3 item(s))
+  - sheila-natura@bol.com.br
+  - fernando-maciel@bm.rs.gov.br
+  - fernando-maciel@brigadamilitar.rs.gov.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 16962
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 14534.98
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 12846
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (51) 3337-2788
+    Ddd: 51
+    Número: 33372788
+    Tipo: FIXO
+    Data Inclusao: 18/06/2007
+    Data Informacao: 03/04/2012
+    Classificacao: A0
+  [2]
+    Telefone: (53) 99241-9965
+    Ddd: 53
+    Número: 992419965
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (53) 3337-2788
+    Ddd: 53
+    Número: 33372788
+    Tipo: FIXO
+    Data Inclusao: 20/12/2009
+    Classificacao: D
+  [4]
+    Telefone: (51) 98410-6382
+    Ddd: 51
+    Número: 984106382
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [5]
+    Telefone: (51) 98453-9988
+    Ddd: 51
+    Número: 984539988
+    Tipo: 3
+    Data Inclusao: 06/08/2013
+    Data Informacao: 21/04/2010
+    Classificacao: D
+Occupation Code: 20205
+Occupation Name: Capitão da polícia militar
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

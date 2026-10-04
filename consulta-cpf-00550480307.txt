@@ -1,0 +1,311 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00550480307
+Data/Hora:  04/10/2026, 14:20:15
+Tempo API:  794ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 005.504.803-07
+Nome: JOSE AMAURI BENEVINUTO DE SOUSA
+Primeiro Nome: JOSE
+Sobrenome: SOUSA
+Sexo: Masculino
+Data de Nascimento: 20/08/1980
+Nome da Mãe: MARIA DO SOCORRO BENEVINUTO DE SOUSA
+Nome do Pai: ANTONIO RODRIGUES DE SOUSA
+RG: 326998098
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: CE
+Voter Id: 045743940701
+Mosaic: J37
+Ocupação: Agente de trânsito
+Score:
+  Value: 645
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1129
+Income Bracket: 2
+Cbo: 517220
+Endereço:
+  Tipo: RUA
+  Rua: 20 DE JANEIRO  575
+  Número: 20
+  Bairro: ALTO BOA VISTA
+  Cidade: MONSENHOR TABOSA
+  Estado: CEARA
+  CEP: 63780-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 20 DE JANEIRO  575
+    Número: 20
+    Bairro: ALTO BOA VISTA
+    Cidade: MONSENHOR TABOSA
+    Estado: CEARA
+    CEP: 63780-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: 20 DE JANEIRO
+    Número: 38
+    Bairro: ALTO DA BOA VISTA
+    Cidade: MONSENHOR TABOSA - CE
+    Fonte: DATASUS
+  [3]
+    Rua: HONORIO MELO
+    Tipo: AV
+    Número: 39
+    Bairro: CENTRO
+    Cidade: MONSENHOR TABOSA
+    Estado: CE
+    CEP: 63780-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: F
+    Tipo: R
+    Número: 118
+    Complemento: C
+    Bairro: TURMALINA
+    Cidade: VIRGEM DA LAPA
+    Estado: MG
+    CEP: 39630-000
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (61) 3315-2425
+Cidade de Nascimento: MONSENHOR TABOSA - CE
+Cns: 702008320673985
+Rg Issue Date: 894942000000
+Paycom:
+  E-mail: benevinutos@gmail.com
+  Data de Nascimento: 29/08/1980
+  Created At: 2020-01-14 18:34:49
+E-mail: benevinutos@gmail.com
+Additional Emails: (1 item(s))
+  - benevinutos@gmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua 20 de janeiro,575,Auto da Boa Vista 
+    Número: 0
+    Cidade: Monsenhor Tabosa 
+    Estado: CE
+    País: BRA
+    CEP: 63780-000
+    Telephone: +55 (88) 99990-6981
+Telefones: (3 item(s))
+  - +55 (88) 99990-6981
+  - (45) 3812-8620
+  - (88) 3696-1232
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/11/2019
+    Mosaic: J37
+    Mosaic New: I31
+    Mosaic Secondary: J34
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: HONORIO MELO
+      Número: 39
+      Bairro: CENTRO
+      Cidade: MONSENHOR TABOSA
+      Estado: CE
+      CEP: 63780-000
+      Date Added: 25/08/2016
+    [2]
+      Rua: SEBASTIAO
+      Número: 39
+      Cidade: MONSENHOR TABOSA
+      Estado: CE
+      CEP: 63780-000
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: F
+      Número: 118
+      Complemento: C
+      Bairro: TURMALINA
+      Cidade: VIRGEM DA LAPA
+      Estado: MG
+      CEP: 39630-000
+      Date Added: 09/12/2014
+    [4]
+      Rua: NARCISO PINTO
+      Número: 118
+      Bairro: TURMALINA
+      Cidade: VIRGEM DA LAPA
+      Estado: MG
+      CEP: 39630-000
+      Date Added: 09/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 38128620
+      Ddd: 45
+      Tipo: 1
+      Classificacao: D
+      Date Added: 13/06/2011
+    [2]
+      Telefone: 36961232
+      Ddd: 88
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 23/08/2016
+  Score:
+    CSB8: 647
+    CSB8 FAIXA: BAIXO
+    CSBA: 645
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DO SOCORRO BENEVINUTO DE SOUSA
+      Vinculo: MAE
+  Pis: 12890861262
+  Tse:
+    Titulo: 45743940701
+    Zona: 93
+    Secao: 33
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 1015.04
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 017.809.223-10
+    Nome: MARIA DE FATIMA BARBOSA DA SILVA
+    Logradouro: CANTA GALO
+    Número: 5
+    Bairro: ZONA RURAL
+  [2]
+    CPF: 036.018.573-83
+    Nome: FRANCISCO ANTONIO TAVARES DE SOUSA
+    Logradouro: BARGADO
+    Número: 605
+    Bairro: CENTRO
+  [3]
+    CPF: 024.000.183-40
+    Nome: CRISTIANA FERREIRA DE ARAUJO
+    Logradouro: LIVRAMENTO
+    Número: 20
+    Bairro: MNS BARBOSA
+  [4]
+    CPF: 049.139.613-90
+    Nome: GLAITON SOUZA DE MESQUITA
+    Logradouro: MULUNGU
+    Número: 1
+    Bairro: CENTRO
+  [5]
+    CPF: 071.249.604-10
+    Nome: JOSEFA MARTINS DE SOUSA OLIVEIRA
+    Logradouro: DOS CURSINOS
+    Número: 36
+    Bairro: CENTRO
+  [6]
+    CPF: 026.271.523-60
+    Nome: JAKSON DA SILVA MAGALHAES
+    Logradouro: CAMARA DOS BASILIOS
+    Número: 3
+    Bairro: ZONA RURAL
+  [7]
+    CPF: 052.683.893-00
+    Nome: FERNANDO FERREIRA DE MELO
+    Logradouro: ONORIO MELO
+    Número: 38
+    Bairro: CENTRO
+  [8]
+    CPF: 052.690.913-72
+    Nome: MATIAS MENDES DE SOUZA
+    Logradouro: CINCO C
+    Número: 26
+  [9]
+    CPF: 507.276.643-87
+    Nome: FRANCISCO ALVES CAVALCANTE
+    Logradouro: ANTONIO
+    Número: SN
+    Bairro: CENTRO
+  [10]
+    CPF: 000.209.291-37
+    Nome: RAMON NUNES DA SILVA
+    Logradouro: SEBASTIAO
+    Número: 146
+    Bairro: CENTRO
+  [11]
+    CPF: 722.395.221-00
+    Nome: MARIA VANDA VERISSIMO DA LUZ
+    Logradouro: PAU FERRO
+    Número: SN
+    Bairro: LIVRAMENTO
+  [12]
+    CPF: 729.043.723-34
+    Nome: MARIA JOSE CAMELO DA SILVA
+    Logradouro: POCINHO
+    Número: SN
+  [13]
+    CPF: 023.279.573-89
+    Nome: ANTONIO FRANCISCO MARINHO DE LIMA
+    Logradouro: LVOTA DO RIO
+    Número: 38
+    Bairro: VOLTA
+  [14]
+    CPF: 005.772.663-90
+    Nome: ANTONIA REGINA ALVES RODRIGUES
+    Logradouro: SEBASTIAO
+    Número: 14
+    Bairro: CENTRO
+  [15]
+    CPF: 600.914.583-07
+    Nome: FRANCISCO DE ASSIS SIQUEIRA
+    Logradouro: TRAV NOSSA SENHORA DE FATIMA
+    Número: 24
+    Bairro: CENTRO
+E-mails: (1 item(s))
+  - benevinutos@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1129
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1015.04
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (45) 3812-8620
+    Ddd: 45
+    Número: 38128620
+    Tipo: FIXO
+    Data Inclusao: 13/06/2011
+    Classificacao: D
+  [2]
+    Telefone: (88) 3696-1232
+    Ddd: 88
+    Número: 36961232
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D2
+Occupation Code: 517220
+Occupation Name: Agente de trânsito
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

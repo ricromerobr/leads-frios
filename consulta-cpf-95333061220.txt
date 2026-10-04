@@ -1,0 +1,309 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  95333061220
+Data/Hora:  03/10/2026, 19:08:50
+Tempo API:  735ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 953.330.612-20
+Nome: ELIVONE OLIVEIRA DE JESUS
+Primeiro Nome: ELIVONE
+Sobrenome: JESUS
+Sexo: Feminino
+Data de Nascimento: 04/03/1988
+Nome da Mãe: IONICE MARIA DE JESUS
+Nome do Pai: JUSTINIANO OLIVEIRA DE JESUS
+Ocupação: Faxineiro
+Score:
+  Value: 575
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1753
+Income Bracket: 2
+Cbo: 514320
+Endereço:
+  Tipo: RUA
+  Rua: NICARAGUA
+  Complemento: DE 11641165 AO FIM
+  Bairro: SETOR
+  Cidade: ARIQUEMES
+  Estado: RONDONIA
+  CEP: 76876-132
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: NICARAGUA
+    Complemento: DE 11641165 AO FIM
+    Bairro: SETOR
+    Cidade: ARIQUEMES
+    Estado: RONDONIA
+    CEP: 76876-132
+    Fonte: PRINCIPAL
+  [2]
+    Rua: NICARAGUAS
+    Número: 1380
+    Bairro: 10
+    Cidade: ARIQUEMES - RO
+    Fonte: DATASUS
+  [3]
+    Rua: NICARAGUA
+    Tipo: R
+    Número: 1358
+    Bairro: ST 10
+    Cidade: ARIQUEMES
+    Estado: RO
+    CEP: 76876-132
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PORTO RICO
+    Tipo: R
+    Número: 1445
+    Bairro: ST 10
+    Cidade: ARIQUEMES
+    Estado: RO
+    CEP: 76876-110
+    Data Atualizacao: 21/11/2018
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (69) 98425-6784
+  - (69) 99379-8688
+  - (69) 99227-7051
+  - (69) 98472-4088
+  - (69) 98469-0537
+  - (69) 98464-6593
+  - (69) 98409-8048
+Datasus Phones: (1 item(s))
+  - (69) 8478-5140
+Cidade de Nascimento: ARIQUEMES - RO
+Cns: 700208405741820
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/12/2019
+    Mosaic New: J33
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: NICARAGUA
+      Número: 1358
+      Bairro: ST 10
+      Cidade: ARIQUEMES
+      Estado: RO
+      CEP: 76876-132
+      Date Added: 24/12/2018
+    [2]
+      Tipo: R
+      Rua: PORTO RICO
+      Número: 1445
+      Bairro: ST 10
+      Cidade: ARIQUEMES
+      Estado: RO
+      CEP: 76876-110
+      Date Added: 05/04/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 984724088
+      Ddd: 69
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [2]
+      Telefone: 984690537
+      Ddd: 69
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [3]
+      Telefone: 984646593
+      Ddd: 69
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [4]
+      Telefone: 984256784
+      Ddd: 69
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 984098048
+      Ddd: 69
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  Score:
+    CSB8: 258
+    CSB8 FAIXA: ALTO
+    CSBA: 575
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: IONICE MARIA DE JESUS
+      Vinculo: MAE
+  Pis: 16031779065
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 749.56
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 326.803.332-68
+    Nome: SIDRAQUE OLINTO
+    Logradouro: NICARAGUA
+    Número: 1408
+    Bairro: ST 10
+  [2]
+    CPF: 529.619.669-49
+    Nome: FRANCISCO OSMARIO ALVES
+    Logradouro: NICARAGUA
+    Número: 1231
+    Bairro: ST 10
+  [3]
+    CPF: 290.257.372-34
+    Nome: CARLOS ALBERTO RODRIGUES DIAS
+    Logradouro: NICARAGUA
+    Número: 1231
+    Bairro: ST 10
+  [4]
+    CPF: 457.360.492-87
+    Nome: RIZIA ALVES DA SILVA
+    Logradouro: NICARAGUA
+    Número: 1247
+    Bairro: ST 10
+  [5]
+    CPF: 000.040.992-81
+    Nome: SOLANGE DA SILVA GOMES
+    Logradouro: NICARAGUA
+    Número: 1194
+    Bairro: ST 10
+  [6]
+    CPF: 011.166.962-66
+    Nome: RAIANE CONCEICAO DOS SANTOS CORDEIRO
+    Logradouro: NICARAGUA
+    Número: 1357
+    Bairro: ST 10
+  [7]
+    CPF: 018.062.402-46
+    Nome: AMANDA BRONZE RODRIGUES
+    Logradouro: NICARAGUA
+    Número: 3156
+    Bairro: ST 10
+  [8]
+    CPF: 386.960.102-72
+    Nome: DULCILENE GUIMARAES CALDEIRA
+    Logradouro: NICARAGUA
+    Número: 1202
+    Bairro: ST 10
+  [9]
+    CPF: 053.253.872-27
+    Nome: DAVID ASSIS ALEXANDRE
+    Logradouro: NICARAGUA
+    Número: 1173
+    Bairro: ST 10
+  [10]
+    CPF: 898.394.122-72
+    Nome: MAURICIO SIQUEIRA LUCINDO
+    Logradouro: NICARAGUA
+    Número: 1165
+    Bairro: ST 10
+  [11]
+    CPF: 723.314.702-78
+    Nome: SOLANGE DOS SANTOS BONFIM
+    Logradouro: NICARAGUA
+    Número: 1213
+    Bairro: ST 10
+  [12]
+    CPF: 827.949.602-53
+    Nome: MARIA LUCIA COSTA SANTOS
+    Logradouro: NICARAGUA
+    Número: 1205
+    Bairro: ST 10
+  [13]
+    CPF: 326.803.332-68
+    Nome: SIDRAQUE OLINTO
+    Logradouro: NICARAGUA
+    Número: 1408
+    Bairro: ST 10
+  [14]
+    CPF: 175.345.502-20
+    Nome: JOSE AMANCIO FERRO NETO
+    Logradouro: NICARAGUA
+    Número: 1309
+    Bairro: ST 10
+  [15]
+    CPF: 027.765.531-53
+    Nome: EDSON SOARES MOITINHO
+    Logradouro: NICARAGUA
+    Número: 1326
+    Bairro: ST 10
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1753
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 749.56
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (69) 98472-4088
+    Ddd: 69
+    Número: 984724088
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [2]
+    Telefone: (69) 98469-0537
+    Ddd: 69
+    Número: 984690537
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [3]
+    Telefone: (69) 98464-6593
+    Ddd: 69
+    Número: 984646593
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (69) 98425-6784
+    Ddd: 69
+    Número: 984256784
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: A0
+  [5]
+    Telefone: (69) 98409-8048
+    Ddd: 69
+    Número: 984098048
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,349 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05220164481
+Data/Hora:  04/10/2026, 12:21:14
+Tempo API:  707ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 052.201.644-81
+Nome: LINO HENRIQUE DE ARAUJO BEZERRA
+Primeiro Nome: LINO
+Sobrenome: BEZERRA
+Sexo: Masculino
+Data de Nascimento: 22/05/1985
+Nome da Mãe: ANA MARIA DE ARAUJO BEZERRA
+Voter Id: 023024681627
+Mosaic: C09
+Score:
+  Value: 242
+  Range: ALTO
+E-mail: eriolsun@hotmail.com
+Additional Emails: (4 item(s))
+  - eriolsun@hotmail.com
+  - eriolsun@gmail.com
+  - eriolsun@ig.com.br
+  - squilat@hotmail.com
+Federal Status: REGULAR
+Renda: 672
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: BUZIOS
+  Número: 1670
+  Bairro: REDINHA
+  Cidade: NATAL
+  Estado: RIO GRANDE DO NORTE
+  CEP: 59122-550
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BUZIOS
+    Número: 1670
+    Bairro: REDINHA
+    Cidade: NATAL
+    Estado: RIO GRANDE DO NORTE
+    CEP: 59122-550
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ESTEVAM
+    Tipo: AV
+    Número: 1408
+    Bairro: ALECRIM
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59035-000
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Paycom:
+  E-mail: ERIOLSUN@GMAIL.COM
+  Created At: 2021-09-08 15:34:38
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: BUZIOS
+    Número: 1670
+    Bairro: REDINHA NOVA
+    Cidade: EXTREMOZ
+    Estado: RN
+    País: BRA
+    CEP: 59575-000
+    Telephone: 558484
+Telefones: (5 item(s))
+  - (84) 3223-8730
+  - (84) 3614-9358
+  - (84) 98829-5557
+  - (84) 98899-7001
+  - (84) 98772-9565
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 20/12/2019
+    Info Date: 31/01/2002
+    Mosaic: C09
+    Mosaic New: H28
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: AV
+      Rua: ESTEVAM
+      Número: 1408
+      Bairro: ALECRIM
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59035-000
+      Date Added: 11/12/2017
+    [2]
+      Tipo: TV
+      Rua: JOAO MACHADO
+      Número: 1670
+      Bairro: REDINHA
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59122-550
+      Date Added: 06/03/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32238730
+      Ddd: 84
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 36149358
+      Ddd: 84
+      Tipo: 1
+      Classificacao: B
+      Date Added: 07/01/2014
+      Info Date: 19/03/2013
+    [3]
+      Telefone: 988295557
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [4]
+      Telefone: 988997001
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [5]
+      Telefone: 987729565
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+  E-mails: (3 item(s))
+    [1]
+      E-mail: eriolsun@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+    [2]
+      E-mail: eriolsun@ig.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [3]
+      E-mail: squilat@hotmail.com
+      Priority: 3
+      Quality: PESSIMO
+      Personal: N
+      Blacklisted: S
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 242
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 282.875.764-15
+      Nome: ANA MARIA DE ARAUJO BEZERRA
+      Vinculo: MAE
+  Tse:
+    Titulo: 23024681627
+    Zona: 1
+    Secao: 366
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 672.64
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.668.524-70
+    Nome: RENATO BELCHIOR GOMES DA SILVA
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [2]
+    CPF: 037.126.124-43
+    Nome: NARCIZIO DE MELO SILVA
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [3]
+    CPF: 035.471.974-22
+    Nome: REGINALDO RODRIGUES DA SILVA
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [4]
+    CPF: 035.023.114-12
+    Nome: DANUBIO GOMES DELFINO
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [5]
+    CPF: 033.022.204-05
+    Nome: MARIA DO ROSARIO MATIAS DA SILVA
+    Logradouro: ESTEVAM
+    Número: 1985
+    Bairro: ALECRIM
+  [6]
+    CPF: 031.361.114-94
+    Nome: LUIZ ANTONIO SILVA DOS SANTOS
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [7]
+    CPF: 031.237.114-47
+    Nome: GILDOMAR MELO GOMES
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [8]
+    CPF: 029.078.544-88
+    Nome: JOSUEIDER VENANCIO DA SILVA
+    Logradouro: ESTEVAM
+    Número: 1574
+    Bairro: ALECRIM
+  [9]
+    CPF: 057.393.424-06
+    Nome: FRANCISCO JOSE HALLOSMAM GOMES
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+  [10]
+    CPF: 025.993.904-86
+    Nome: DOMINGOS ALEXANDRE DE SOUSA JUNIOR
+    Logradouro: ESTEVAM
+    Número: 1916
+    Bairro: ALECRIM
+  [11]
+    CPF: 130.449.234-68
+    Nome: JOSE GUEDES NUNES
+    Logradouro: ESTEVAM
+    Número: 1261
+    Bairro: ALECRIM
+  [12]
+    CPF: 481.535.594-00
+    Nome: VELUZIA FERREIRA DA SILVA ARAUJO
+    Logradouro: ESTEVAM
+    Número: 2115
+    Bairro: ALECRIM
+  [13]
+    CPF: 061.391.044-32
+    Nome: BILEU FERNANDES DE ARRUDA
+    Logradouro: ESTEVAM
+    Número: 2030
+    Bairro: ALECRIM
+  [14]
+    CPF: 011.024.974-79
+    Nome: LUCIANA MARIA FLOR BARBOSA GOMES
+    Logradouro: ESTEVAM
+    Número: 1676
+    Bairro: ALECRIM
+  [15]
+    CPF: 009.301.124-58
+    Nome: IVAN DOMINGOS DE SOUZA
+    Logradouro: ESTEVAM
+    Número: 1841
+    Bairro: ALECRIM
+E-mails: (4 item(s))
+  - eriolsun@hotmail.com
+  - eriolsun@gmail.com
+  - eriolsun@ig.com.br
+  - squilat@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 672
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 672.64
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (84) 3223-8730
+    Ddd: 84
+    Número: 32238730
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: D
+  [2]
+    Telefone: (84) 3614-9358
+    Ddd: 84
+    Número: 36149358
+    Tipo: FIXO
+    Data Inclusao: 07/01/2014
+    Data Informacao: 19/03/2013
+    Classificacao: B
+  [3]
+    Telefone: (84) 98829-5557
+    Ddd: 84
+    Número: 988295557
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [4]
+    Telefone: (84) 98899-7001
+    Ddd: 84
+    Número: 988997001
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [5]
+    Telefone: (84) 98772-9565
+    Ddd: 84
+    Número: 987729565
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

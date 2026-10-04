@@ -1,0 +1,627 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  89308000844
+Data/Hora:  03/10/2026, 16:54:25
+Tempo API:  750ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 893.080.008-44
+Nome: LUIZ ANGELO FORTUNA
+Primeiro Nome: LUIZ
+Sobrenome: FORTUNA
+Sexo: Masculino
+Data de Nascimento: 13/06/1958
+Nome da Mãe: VERA SCARPATO FORTUNA
+Nome do Pai: SEM INFORMAÃÃO
+Voter Id: 085491310141
+Mosaic: A02
+Ocupação: Engenheiro civil
+Score:
+  Value: 971
+  Range: BAIXISSIMO RISCO
+E-mail: lafortuna@uol.com.br
+Additional Emails: (2 item(s))
+  - lafortuna@uol.com.br
+  - fortuna@uol.com.br
+Federal Status: REGULAR
+Renda: 50889
+Income Bracket: 10
+Cbo: 234520
+Corporate Share Pct: 25
+Endereço:
+  Tipo: RUA
+  Rua: CARAIBAS
+  Bairro: PERDIZES
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 05020-000
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CARAIBAS
+    Bairro: PERDIZES
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 05020-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R CARAIBAS
+    Número: 666
+    Bairro: PERDIZES
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: RUA CARAIBAS
+    Número: 666
+    Complemento: 41
+    Bairro: PERDIZES
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05020-000
+    Fonte: SARAIVA
+  [4]
+    Rua: SP 340
+    Tipo: ROD
+    Número: 133
+    Bairro: KM 133
+    Cidade: JAGUARIUNA
+    Estado: SP
+    CEP: 13820-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DA PATRIA
+    Tipo: R
+    Número: 3533
+    Complemento: AP 12
+    Bairro: SANTANA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 02401-300
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DO ESTILO BARROCO
+    Tipo: R
+    Número: 721
+    Complemento: 1
+    Bairro: STO AMARO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04709-011
+    Data Atualizacao: 06/10/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: CARAIBAS
+    Rua: R
+    Número: 0000666
+    Bairro: PERDIZES
+    Cidade: SAO PAULO
+    Estado: 05020000
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: CARAIBAS
+    Número: 0000666
+    Bairro: PERDIZES
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05020-000
+    Fonte: ASSECC
+  [9]
+    Tipo: RUA
+    Rua: R CARAIBAS  666
+    Número: 666
+    Complemento: APT 41
+    Bairro: PERDIZES
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: CITROEN
+      Modelo: C3 GLX 14 FLEX
+      Ano: 2010
+    [2]
+      Marca: HONDA
+      Modelo: HR-V EXL CVT
+      Ano: 2016
+Telefones: (17 item(s))
+  - (11) 97644-9028
+  - (11) 98752-2309
+  - (11) 99121-2354
+  - (11) 98752-2308
+  - (11) 97634-4857
+  - (11) 7177-2012
+  - +55 (11) 99121-2354
+  - (11) 97699-7585
+  - (11) 96300-2245
+  - (11) 99127-3672
+  - (11) 98997-9507
+  - (11) 94552-4775
+  - (11) 3871-1753
+  - (11) 2645-3792
+  - 551138711753
+  - (19) 3847-5571
+  - (11) 99434-0051
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 705301478830290
+Saraiva:
+  Customer Id: 1716783
+  Telefone: (11) 7177-2012
+  E-mail: lafortuna@uol.com.br
+  Data de Nascimento: 13/06/1958
+Paycom:
+  E-mail: lafortuna@uol.com.br
+  Data de Nascimento: 13/06/1958
+  Created At: 2020-04-03 13:46:47
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Caraíbas
+    Número: 666
+    Bairro: Perdizes
+    Cidade: São Paulo
+    Estado: SP
+    País: BRA
+    CEP: 05020-000
+    Telephone: +55 (11) 99121-2354
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: C
+    Status Date: 29/08/2019
+    Info Date: 14/02/2009
+    Mosaic: A02
+    Mosaic New: A01
+    Mosaic Secondary: A02
+    Income Bracket Id: 12
+  Endereços: (4 item(s))
+    [1]
+      Tipo: ROD
+      Rua: SP 340
+      Número: 133
+      Bairro: KM 133
+      Cidade: JAGUARIUNA
+      Estado: SP
+      CEP: 13820-000
+      Date Added: 13/07/2011
+    [2]
+      Tipo: R
+      Rua: CARAIBAS
+      Número: 666
+      Complemento: AP 41
+      Bairro: PERDIZES
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05020-000
+      Date Added: 24/03/2015
+    [3]
+      Tipo: R
+      Rua: DA PATRIA
+      Número: 3533
+      Complemento: AP 12
+      Bairro: SANTANA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 02401-300
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: DO ESTILO BARROCO
+      Número: 721
+      Complemento: 1
+      Bairro: STO AMARO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04709-011
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 38711753
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 28/08/2006
+    [2]
+      Telefone: 991212354
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 38475571
+      Ddd: 19
+      Tipo: 1
+      Classificacao: D
+      Date Added: 12/07/2011
+      Info Date: 19/12/2011
+    [4]
+      Telefone: 994340051
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 987522309
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 25/01/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: lafortuna@uol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: fortuna@uol.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 938
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 971
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 2145583807
+      Nome: YOLE CESTARI SCARPATO
+      Vinculo: AVO
+    [2]
+      CPF: 668248858
+      Nome: SIDNEI FORTUNA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 3826465849
+      Nome: LUIZ CARLOS SCARPATO
+      Vinculo: TIA(O)
+    [4]
+      CPF: 298.736.998-05
+      Nome: VERA SCARPATO FORTUNA
+      Vinculo: MAE
+    [5]
+      CPF: 8236933849
+      Nome: PEDRO SCARPATO NETTO
+      Vinculo: TIA(O)
+    [6]
+      CPF: 934.324.888-15
+      Nome: SERGIO FORTUNA
+      Vinculo: IRMA(O)
+  Pis: 10430767223
+  Poder Aquisitivo:
+    PODER AQUISITIVO: ALTO
+    RENDA PODER AQUISITIVO: 11646.35
+    FX PODER AQUISITIVO: De R$ 7017 até R$ 11742
+    COD PODER AQUISITIVO: 6
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.872.364-07
+    Nome: GEILSON LOPES DA SILVA
+    Logradouro: TASSINARI
+    Número: 483
+    Bairro: DONA LUISA
+  [2]
+    CPF: 059.338.074-60
+    Nome: LEANDRO GALVAO PEREIRA
+    Logradouro: ORESTES GOTHARDO
+    Número: 267
+    Bairro: C DO SUL
+  [3]
+    CPF: 051.724.358-08
+    Nome: MARIA DE FATIMA MENEGON
+    Logradouro: NISTARDA
+    Número: 186
+    Bairro: S JOSE
+  [4]
+    CPF: 051.412.558-67
+    Nome: EVERALDO JOSE BODINI
+    Logradouro: MARGINAL
+    Número: 804
+  [5]
+    CPF: 051.411.118-65
+    Nome: RICARDO JORGE ALVES DE ALMEIDA
+    Logradouro: DOS CAJUS
+    Número: 333
+    Bairro: TRES PONTES
+  [6]
+    CPF: 051.285.908-60
+    Nome: CARLOS APARECIDO PEREIRA
+    Logradouro: CANDIDO BUENO
+    Número: 915
+  [7]
+    CPF: 051.029.136-89
+    Nome: CRISTIANE DANYNERE BRITO RUAS
+    Logradouro: POLTRONIERI
+    Número: 181
+  [8]
+    CPF: 050.772.638-33
+    Nome: PAULO LANNA
+    Logradouro: PCABENEDITO BERGAMASCO
+    Número: 139
+  [9]
+    CPF: 050.772.668-59
+    Nome: ROSEMEIRE GODOY
+    Logradouro: RITA VILELA ANDRADE DE LIMA
+    Número: 268
+    Bairro: CRUZEIRO DO SUL
+  [10]
+    CPF: 052.296.236-08
+    Nome: LUCIA HELENA TERCETTI BERNARDES
+    Logradouro: JOSE AMARAL
+    Número: 46
+  [11]
+    CPF: 052.299.684-19
+    Nome: JANAINA LEANDRO DE MORAIS
+    Logradouro: DOIS
+    Número: 237
+  [12]
+    CPF: 418.945.398-69
+    Nome: FELIPE ELOY TORCINELLI DOS SANTOS
+    Logradouro: DANTI PANINI
+    Número: 60
+    Bairro: CAPOTUNA
+  [13]
+    CPF: 418.466.918-26
+    Nome: MAURICIO ARLEGO RODRIGUES DA SILVA
+    Logradouro: PEDRO MAION
+    Número: 201
+    Bairro: PRQ FLORIANOPOLI
+  [14]
+    CPF: 295.896.558-90
+    Nome: ROBSON RODRIGUES DA SILVA
+    Logradouro: JOS FRAZATTO
+    Número: 527
+    Bairro: JD STO ANTONIO DA
+  [15]
+    CPF: 047.739.723-94
+    Nome: FRANCIELDO SANTOS DA SILVA
+    Logradouro: TASSINARI
+    Número: 493
+    Bairro: DOZE DE SETEMBRO
+Telefones Assecc: (10 item(s))
+  [1]
+    Telefone: (11) 97699-7585
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: 05020000
+  [2]
+    Telefone: (11) 96300-2245
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 97634-4857
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [4]
+    Telefone: (11) 98752-2308
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [5]
+    Telefone: (11) 97644-9028
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [6]
+    Telefone: (11) 98752-2309
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [7]
+    Telefone: (11) 99121-2354
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [8]
+    Telefone: (11) 99127-3672
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [9]
+    Telefone: (11) 98997-9507
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+  [10]
+    Telefone: (11) 94552-4775
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 307945990
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 18/07/2007
+    Tempo Base: 159
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 200707
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 13/06/1958
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 16185
+      Classe Social: A
+      Score: 923
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 908
+        Net: 922
+        Ctv: 947
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 62
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 3871-1753
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 20OCT1989:00:00:00
+    Cel Contato: +5511991212354
+    Complemento: AP - Apartamento: 41;
+    Tipo Cliente: Residencial
+Telefones Operadoras: (11 item(s))
+  [1]
+    Telefone: (11) 3871-1753
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+  [2]
+    Telefone: (11) 2645-3792
+    Nome: LUIZ ANGELO FORTUNA
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+  [3]
+    Telefone: (11) 97634-4857
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (11) 96300-2245
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [5]
+    Telefone: (11) 94552-4775
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [6]
+    Telefone: (11) 99127-3672
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [7]
+    Telefone: (11) 99121-2354
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [8]
+    Telefone: (11) 98997-9507
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [9]
+    Telefone: (11) 98752-2309
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [10]
+    Telefone: (11) 98752-2308
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [11]
+    Telefone: (11) 97644-9028
+    Nome: LUIZ ANGELO FORTUNA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - lafortuna@uol.com.br
+  - fortuna@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 10
+Renda Estimativas:
+  Presumida:
+    Valor: 50889
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 11646.35
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 16185
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 3871-1753
+    Ddd: 11
+    Número: 38711753
+    Tipo: FIXO
+    Data Inclusao: 28/08/2006
+    Classificacao: A0
+  [2]
+    Telefone: (11) 99121-2354
+    Ddd: 11
+    Número: 991212354
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: A0
+  [3]
+    Telefone: (19) 3847-5571
+    Ddd: 19
+    Número: 38475571
+    Tipo: FIXO
+    Data Inclusao: 12/07/2011
+    Data Informacao: 19/12/2011
+    Classificacao: D
+  [4]
+    Telefone: (11) 99434-0051
+    Ddd: 11
+    Número: 994340051
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: C
+  [5]
+    Telefone: (11) 98752-2309
+    Ddd: 11
+    Número: 987522309
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C2
+Occupation Code: 214205
+Occupation Name: Engenheiro civil
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

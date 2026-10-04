@@ -1,0 +1,429 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  87306298100
+Data/Hora:  03/10/2026, 14:50:11
+Tempo API:  239ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 873.062.981-00
+Nome: JOSIMEIRE DE OLIVEIRA LINS
+Primeiro Nome: JOSIMEIRE
+Sobrenome: LINS
+Sexo: Feminino
+Data de Nascimento: 01/10/1979
+Nome da Mãe: GILDA DE OLIVEIRA LINS
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 014227662054
+Mosaic: C08
+Ocupação: Caixa de banco
+Score:
+  Value: 972
+  Range: BAIXISSIMO RISCO
+E-mail: josipirata@yahoo.com
+Additional Emails: (3 item(s))
+  - josipirata@yahoo.com
+  - josi_lins05@hotmail.com
+  - josipirata@yahoo.com.br
+Federal Status: REGULAR
+Renda: 11109
+Income Bracket: 7
+Cbo: 231205
+Endereço:
+  Tipo: RUA
+  Rua: C 3   72010030
+  Número: 1
+  Complemento: CONJ A CASA 45
+  Bairro: TAGUATINGA CENTRO TAGUATINGA
+  Cidade: BRASILIA
+  Estado: DISTRITO FEDERAL
+  CEP: 72010-030
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: C 3   72010030
+    Número: 1
+    Complemento: CONJ A CASA 45
+    Bairro: TAGUATINGA CENTRO TAGUATINGA
+    Cidade: BRASILIA
+    Estado: DISTRITO FEDERAL
+    CEP: 72010-030
+    Fonte: PRINCIPAL
+  [2]
+    Rua: QUADRA CONJUNTO A CASA
+    Número: 11
+    Bairro: SOBRADINHO
+    Cidade: BRASILIA - DF
+    Fonte: DATASUS
+  [3]
+    Rua: SQN 308 BLOCO F APTO
+    Número: 403
+    Bairro: ASA NORTE
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 70747-060
+    Fonte: SARAIVA
+  [4]
+    Rua: QD 10
+    Complemento: CJ A CS 45 10
+    Bairro: SOBRADINHO
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 73005-100
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: QD 11
+    Complemento: LT 7 AP 202
+    Bairro: ST CENTRAL GAMA
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 72405-110
+    Data Atualizacao: 19/01/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: CA 2
+    Complemento: Q2 BL100 AP214 CENTRO DE ATIV
+    Bairro: ST DE HABITACOES INDIVIDUAIS NORTE
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 71503-502
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: QD
+    Rua: QUADRA 10
+    Bairro: SOBRADINHO
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 73005-100
+    Fonte: ASSECC
+  [8]
+    Rua: QUADRA
+    Número: 0000010
+    Complemento: CONJUNTO A CASA 45
+    Bairro: SOBRADINHO
+    Cidade: BRASILIA
+    Estado: DF
+    CEP: 73005-100
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (61) 98109-3399
+  - (61) 98179-0915
+  - (61) 3797-4759
+  - +55 (61) 98109-3399
+  - (61) 99161-5079
+  - (61) 98133-6991
+  - (61) 3591-2148
+  - (61) 99294-6918
+Datasus Phones: (1 item(s))
+  - (61) 98109-3399
+Cidade de Nascimento: BRASILIA - DF
+Cns: 704008834174663
+Saraiva:
+  Customer Id: 805140
+  Telefone: (61) 3797-4759
+  E-mail: josi_lins05@hotmail.com
+  Data de Nascimento: 01/10/1979
+Paycom:
+  E-mail: josi_lins05@hotmail.com
+  Data de Nascimento: 01/10/1979
+  Created At: 2017-04-18 13:43:25
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: SQN 308 Bloco F
+    Número: 403
+    Bairro: Asa Norte
+    Cidade: Brasília
+    Estado: DF
+    País: BRA
+    CEP: 70747-060
+    Telephone: +55 (61) 98109-3399
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Info Date: 16/01/2008
+    Mosaic: C08
+    Mosaic New: E17
+    Mosaic Secondary: A02
+    Income Bracket Id: 12
+  Endereços: (3 item(s))
+    [1]
+      Rua: QD 10
+      Complemento: CJ A CS 45 10
+      Bairro: SOBRADINHO
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 73005-100
+      Date Added: 16/10/2018
+    [2]
+      Rua: QD 11
+      Complemento: LT 7 AP 202
+      Bairro: ST CENTRAL GAMA
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 72405-110
+      Date Added: 13/04/2010
+    [3]
+      Rua: CA 2
+      Complemento: Q2 BL100 AP214 CENTRO DE ATIV
+      Bairro: ST DE HABITACOES INDIVIDUAIS NORTE
+      Cidade: BRASILIA
+      Estado: DF
+      CEP: 71503-502
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 981336991
+      Ddd: 61
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 35912148
+      Ddd: 61
+      Tipo: 1
+      Classificacao: D
+      Date Added: 07/03/2013
+      Info Date: 26/06/2009
+    [3]
+      Telefone: 981093399
+      Ddd: 61
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 07/04/2014
+    [4]
+      Telefone: 37974759
+      Ddd: 61
+      Tipo: 1
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 992946918
+      Ddd: 61
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: josi_lins05@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: josipirata@yahoo.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: josipirata@yahoo.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 951
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 972
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 635.303.171-87
+      Nome: GLAYSON DE OLIVEIRA LINS
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 565891154
+      Nome: JULIANA DE OLIVEIRA LINS
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 473.126.291-72
+      Nome: GILDA DE OLIVEIRA LINS
+      Vinculo: MAE
+  Pis: 12728309274
+  Tse:
+    Titulo: 14227662054
+    Zona: 5
+    Secao: 78
+  Poder Aquisitivo:
+    PODER AQUISITIVO: ALTO
+    RENDA PODER AQUISITIVO: 9973.53
+    FX PODER AQUISITIVO: De R$ 7017 até R$ 11742
+    COD PODER AQUISITIVO: 6
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 417.749.651-00
+    Nome: JOSE WILLIAM GOMES CARDOSO
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [2]
+    CPF: 417.851.261-72
+    Nome: ERASMO GONCALVES DE CARVALHO
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [3]
+    CPF: 498.351.571-20
+    Nome: SILVANIA RIBEIRO LIMA
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [4]
+    CPF: 504.281.441-87
+    Nome: RITA MARIA LOPES
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [5]
+    CPF: 477.471.451-87
+    Nome: VANETE APARECIDA SPINDOLA MACHADO
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [6]
+    CPF: 006.174.831-59
+    Nome: ESTEVAO AUGUSTO DE CASTRO SOUZA PINTO
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [7]
+    CPF: 186.370.601-10
+    Nome: ANA CELIA MENEZES MENDES
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [8]
+    CPF: 648.071.001-06
+    Nome: ELIANNE ROCHA DE ARAUJO
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [9]
+    CPF: 344.283.801-00
+    Nome: LEOMAR CAMPOS SIQUEIRA
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [10]
+    CPF: 012.091.091-82
+    Nome: DEBORAH CALACIA OLIVEIRA
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [11]
+    CPF: 010.321.831-95
+    Nome: RENATO CABRAL AMIZAIDAN
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [12]
+    CPF: 718.836.301-34
+    Nome: RITA ALVES DAMASCENO
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [13]
+    CPF: 006.559.931-42
+    Nome: LEONINA MARTINS CIRQUEIRA
+    Logradouro: QD 10
+    Número: 11
+    Bairro: SOBRADINHO
+  [14]
+    CPF: 981.653.216-68
+    Nome: MARIA LUCIA DA SILVA
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+  [15]
+    CPF: 002.822.851-05
+    Nome: CRISTIANO OLIMPIO SILVA
+    Logradouro: QD 10
+    Bairro: SOBRADINHO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (61) 99161-5079
+    Nome: JOSIMEIRE DE OLIVEIRA LINS
+    Cidade: BRASILIA
+    UF: DF
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (61) 98109-3399
+    Nome: JOSIMEIRE DE OLIVEIRA LINS
+    Cidade: BRASILIA
+    UF: DF
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (3 item(s))
+  - josipirata@yahoo.com
+  - josi_lins05@hotmail.com
+  - josipirata@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 7
+Renda Estimativas:
+  Presumida:
+    Valor: 11109
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 9973.53
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (61) 98133-6991
+    Ddd: 61
+    Número: 981336991
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: C2
+  [2]
+    Telefone: (61) 3591-2148
+    Ddd: 61
+    Número: 35912148
+    Tipo: FIXO
+    Data Inclusao: 07/03/2013
+    Data Informacao: 26/06/2009
+    Classificacao: D
+  [3]
+    Telefone: (61) 98109-3399
+    Ddd: 61
+    Número: 981093399
+    Tipo: 3
+    Data Inclusao: 07/04/2014
+    Classificacao: A0
+  [4]
+    Telefone: (61) 3797-4759
+    Ddd: 61
+    Número: 37974759
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (61) 99294-6918
+    Ddd: 61
+    Número: 992946918
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 413210
+Occupation Name: Caixa de banco
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

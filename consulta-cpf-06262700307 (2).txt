@@ -1,0 +1,270 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  06262700307
+Data/Hora:  04/10/2026, 14:29:03
+Tempo API:  576ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 062.627.003-07
+Nome: JOSE DE SOUZA ARAUJO NETO
+Primeiro Nome: JOSE
+Sobrenome: NETO
+Sexo: Masculino
+Data de Nascimento: 02/09/1995
+Nome da Mãe: FRANSUIR GAMA DA SILVA
+Score:
+  Value: 475
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 324
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: LINDOLFO BRAGA
+  Bairro: CENTRO
+  Cidade: MIRAIMA
+  Estado: CEARA
+  CEP: 62530-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LINDOLFO BRAGA
+    Bairro: CENTRO
+    Cidade: MIRAIMA
+    Estado: CEARA
+    CEP: 62530-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LINDOLFO BRAGA
+    Tipo: AV
+    Número: 234
+    Cidade: MIRAIMA
+    Estado: CE
+    CEP: 62530-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: [empty]
+    Rua: 0000234
+    Número: LINDOLFO BRAGA L
+    Bairro: ALTOS
+    Cidade: MIRAIMA
+    Estado: CE
+    CEP: 06253-000
+    Fonte: ASSECC
+  [4]
+    Tipo: R
+    Rua: LINDOLFO BRAGA
+    Número: 0000234
+    Bairro: CENTRO
+    Cidade: MIRAIMA
+    Estado: CE
+    CEP: 62530-000
+    Fonte: ASSECC
+  [5]
+    Rua: RUA RUA SICILIA
+    Número: 50
+    Complemento: CASA
+    Bairro: JARDIM EUROPA
+    Estado: CE
+    CEP: 38414-546
+    Fonte: VIVO_PRE
+  [6]
+    Rua: R 1 M MENDES
+    Número: 51
+    Complemento: . DA ON�A . CASA
+    Bairro: ALTOS
+    Estado: MG
+    CEP: 62530-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (98) 98503-9248
+  - (88) 98117-9021
+  - (34) 99942-4694
+  - (88) 99235-1925
+  - (88) 98186-6032
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 15/01/2019
+    Mosaic New: K38
+    Mosaic Secondary: K40
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: AV
+      Rua: LINDOLFO BRAGA
+      Número: 234
+      Cidade: MIRAIMA
+      Estado: CE
+      CEP: 62530-000
+      Date Added: 03/10/2019
+  Score:
+    CSB8: 238
+    CSB8 FAIXA: ALTO
+    CSBA: 475
+    CSBA FAIXA: MEDIO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 324.49
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 877.921.507-63
+    Nome: JULIO CEZAR OLIVEIRA
+    Logradouro: ACUDE
+    Número: 1
+    Bairro: CENTRO
+  [2]
+    CPF: 032.045.653-60
+    Nome: FRANCISCO EVALDO RODRIGUES VASCONCELOS
+    Logradouro: DO BENJAMIN
+    Número: SN
+    Bairro: BROTAS
+  [3]
+    CPF: 047.017.833-74
+    Nome: JOSE EDVALDO PEREIRA DE SOUSA
+    Logradouro: DO MOTOR
+    Número: SN
+    Bairro: BROTAS
+  [4]
+    CPF: 966.005.943-49
+    Nome: RAIMUNDA LUZENICE MAGALHAES DOS SANTOS
+    Logradouro: PV CARNAUBAS
+    Número: 4
+    Bairro: BOM JESUS
+  [5]
+    CPF: 033.645.448-16
+    Nome: TIAGO PINHEIRO DE SOUSA
+    Logradouro: DOZE DE MAIO
+    Número: 1988
+  [6]
+    CPF: 045.395.473-13
+    Nome: JUVENIL DE SOUSA VIANA
+    Logradouro: PV LUNDU
+    Número: 1
+    Bairro: BROTAS
+  [7]
+    CPF: 120.087.613-04
+    Nome: RAIMUNDO NONATO VERAS
+    Logradouro: LINDOLFO BRAGA
+    Número: 234
+    Bairro: CENTRO
+  [8]
+    CPF: 021.868.823-70
+    Nome: FRANCISCO COELHO CARNEIRO
+    Logradouro: POCO DA ONCA
+    Número: SN
+  [9]
+    CPF: 464.963.863-15
+    Nome: MARIA DAS DORES PEREIRA MAGALHAES
+    Logradouro: MARIA DELITE TEIXEIRA DE SOUSA
+    Número: 532
+  [10]
+    CPF: 060.598.088-83
+    Nome: MARIA ANGELITA VASCONCELOS BARBOSA
+    Logradouro: PV ASST PEDRA BRACA
+    Número: 319
+    Bairro: POCO DA ONCA
+  [11]
+    CPF: 060.598.088-83
+    Nome: MARIA ANGELITA VASCONCELOS BARBOSA
+    Logradouro: LIMHA FRANCISCO MARQUE
+    Número: 22
+    Bairro: ESTACAO
+  [12]
+    CPF: 004.854.533-39
+    Nome: CAUBI ARAUJO TEIXEIRA JUNIOR
+    Logradouro: CANDIDO RIBEIRO
+    Número: 507
+    Bairro: ALTOS
+  [13]
+    CPF: 921.100.453-53
+    Nome: LUIS GONZAGA OLIVEIRA DO NASCIMENTO
+    Logradouro: DO PRADO EM BROTAS
+    Número: 2801
+    Bairro: BROTAS
+  [14]
+    CPF: 002.708.793-07
+    Nome: RAIMUNDO MOURA MOTA
+    Logradouro: VALDEVINO MENDES
+    Número: 710
+    Bairro: CRUZEIRO
+  [15]
+    CPF: 002.484.623-69
+    Nome: MARIA DE JESUS ALVES SALES
+    Logradouro: JOSE LINHARES
+    Número: 644
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (88) 98117-9021
+    Nome: JOSE DE SOUZA  ARUJO NETO
+    Cidade: MIRAIMA
+    UF: CE
+  [2]
+    Telefone: (34) 99942-4694
+    Nome: JOSE DE SOUZA ARUJO NETO
+    Cidade: MIRAIMA
+    UF: CE
+  [3]
+    Telefone: (88) 99235-1925
+    Nome: JOSE DE SOUZA ARAUJO NETO
+    Cidade: MIRAIMA
+    UF: CE
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (88) 98186-6032
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 05MAY2020
+    Ultima Recarga: 02AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 16/04/2020
+  [2]
+    Telefone: (34) 99942-4694
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 13/08/2020
+    Flag Divida: 1
+    Maior Atraso: 18
+    Menor Atraso: 18
+    Valor Fatura: 49.99
+    Mes Referencia: 202010
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (88) 99235-1925
+    Nome: JOSE DE SOUZA ARAUJO NETO
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 324
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 324.49
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

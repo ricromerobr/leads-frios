@@ -1,0 +1,436 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  78439400578
+Data/Hora:  04/10/2026, 09:55:28
+Tempo API:  773ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 784.394.005-78
+Nome: JULIO CONRADO VAZ JUNIOR
+Primeiro Nome: JULIO
+Sobrenome: JUNIOR
+Sexo: Masculino
+Data de Nascimento: 11/04/1979
+Nome da Mãe: MARIA DE FATIMA DA SILVA
+Nome do Pai: JULIO CONRADO VAZ
+RG: 832544205
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: BA
+Voter Id: 081550140566
+Mosaic: D13
+Ocupação: Trabalhadores de Servicos Administrativos (categoria CBO)
+Score:
+  Value: 196
+  Range: ALTISSIMO
+E-mail: dr7camonicacao@hotmail.com
+Additional Emails: (1 item(s))
+  - dr7camonicacao@hotmail.com
+Federal Status: REGULAR
+Renda: 642
+Income Bracket: 1
+Cbo: 4110
+Endereço:
+  Tipo: RUA
+  Rua: RIO INHAMBUPE 50 A
+  Bairro: CENTRO
+  Cidade: DIAS DAVILA
+  Estado: BAHIA
+  CEP: 42850-000
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: RIO INHAMBUPE 50 A
+    Bairro: CENTRO
+    Cidade: DIAS DAVILA
+    Estado: BAHIA
+    CEP: 42850-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARIA FERREIRA
+    Número: 174
+    Bairro: CENTRO
+    Cidade: NOVA FATIMA - BA
+    Fonte: DATASUS
+  [3]
+    Rua: RUA Princesa Leopoldina
+    Número: 15
+    Complemento: ld do balaio
+    Bairro: SANTO ANTÔNIO
+    Cidade: CANDEIAS
+    Estado: BA
+    CEP: 43825-110
+    Fonte: SARAIVA
+  [4]
+    Rua: BOA VIAGEM
+    Tipo: TV
+    Número: 7
+    Bairro: CENTRO
+    Cidade: DIAS D AVILA
+    Estado: BA
+    CEP: 42850-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE VIANA SAMPAIO
+    Número: 50
+    Bairro: CENTRO
+    Cidade: DIAS D AVILA
+    Estado: BA
+    CEP: 42850-000
+    Data Atualizacao: 28/05/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: GILDASIO OLIVEIRA SOUZA
+    Tipo: R
+    Número: 74
+    Bairro: CENTRO
+    Cidade: NOVA FATIMA
+    Estado: BA
+    CEP: 44642-000
+    Data Atualizacao: 17/10/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: JUDACIO DE SOUZA
+    Tipo: R
+    Número: 374
+    Bairro: CENTRO
+    Cidade: NOVA FATIMA
+    Estado: BA
+    CEP: 44642-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Rua: JOSE MIRABEAU SAMPAIO
+    Tipo: R
+    Número: 50
+    Bairro: JD APIPEMA
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 40155-705
+    Classificacao: residencial
+    Fonte: SERASA
+  [9]
+    Tipo: 10A R
+    Rua: R  TV NS BOA VIAGEM
+    Número: 0000007
+    Bairro: DIAS D AVILA
+    Cidade: DIAS D AVILA
+    Estado: BA
+    CEP: 42850-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (75) 98266-0372
+Cidade de Nascimento: SALVADOR - BA
+Cns: 706002347981947
+Rg Issue Date: 781412400000
+Saraiva:
+  Customer Id: 3988221
+  Telefone: (71) 3601-2227
+  E-mail: dr7camonicacao@hotmail.com
+  Data de Nascimento: 11/04/1979
+Telefones: (8 item(s))
+  - (71) 3601-2227
+  - (71) 98248-8730
+  - (75) 98177-5399
+  - (75) 98266-0372
+  - (71) 98103-3106
+  - (71) 98602-5769
+  - (71) 98603-2702
+  - (75) 99933-1288
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Mosaic: D13
+    Mosaic New: H27
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: TV
+      Rua: BOA VIAGEM
+      Número: 7
+      Bairro: CENTRO
+      Cidade: DIAS D AVILA
+      Estado: BA
+      CEP: 42850-000
+      Date Added: 20/07/2011
+    [2]
+      Rua: JOSE VIANA SAMPAIO
+      Número: 50
+      Bairro: CENTRO
+      Cidade: DIAS D AVILA
+      Estado: BA
+      CEP: 42850-000
+      Date Added: 02/03/2009
+    [3]
+      Tipo: R
+      Rua: GILDASIO OLIVEIRA SOUZA
+      Número: 74
+      Bairro: CENTRO
+      Cidade: NOVA FATIMA
+      Estado: BA
+      CEP: 44642-000
+      Date Added: 23/07/2018
+    [4]
+      Tipo: R
+      Rua: JUDACIO DE SOUZA
+      Número: 374
+      Bairro: CENTRO
+      Cidade: NOVA FATIMA
+      Estado: BA
+      CEP: 44642-000
+      Date Added: 29/10/2018
+    [5]
+      Tipo: R
+      Rua: JOSE MIRABEAU SAMPAIO
+      Número: 50
+      Bairro: JD APIPEMA
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 40155-705
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 981033106
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 982488730
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 30/09/2014
+    [3]
+      Telefone: 986025769
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 30/09/2014
+    [4]
+      Telefone: 986032702
+      Ddd: 71
+      Tipo: 3
+      Classificacao: D
+      Date Added: 30/09/2014
+    [5]
+      Telefone: 999331288
+      Ddd: 75
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: dr7camonicacao@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 136
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 196
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 375.114.407-20
+      Nome: FRANCISCO DE ASSIS DA SILVA
+      Vinculo: TIA(O)
+    [2]
+      CPF: 344.220.307-44
+      Nome: MARIA DE FATIMA DA SILVA
+      Vinculo: MAE
+    [3]
+      CPF: 441.800.477-72
+      Nome: ALZIRA MARQUES DA SILVA
+      Vinculo: AVO
+  Tse:
+    Titulo: 81550140566
+    Zona: 186
+    Secao: 14
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 642.4
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 534.135.631-49
+    Nome: MARIA APARECIDA GONCALVES DA SILVA
+    Logradouro: DA SUICA
+    Número: 202
+    Bairro: URBIS
+  [2]
+    CPF: 960.176.355-49
+    Nome: GILENO DE SANTISSIMA TRINDADE DOS SANTOS
+    Logradouro: CAMILO TORREND
+    Número: 6
+  [3]
+    CPF: 052.004.585-87
+    Nome: MAURILIO DESIDERIA DOS SANTOS
+    Logradouro: DAS CANDEIAS
+    Número: 228
+    Bairro: GENARO
+  [4]
+    CPF: 415.473.735-04
+    Nome: MARIA DA GLORIA DE JESUS RODRIGUES
+    Logradouro: JOAO DALTRO DANTAS
+    Número: 103
+    Bairro: IMBASSAY
+  [5]
+    CPF: 884.078.375-04
+    Nome: HELITO BORGES GOMES
+    Logradouro: CAMILO TORREND
+    Número: 560
+    Bairro: CENTRO DIAS D AVILA
+  [6]
+    CPF: 008.140.055-19
+    Nome: DANIELA ANDRADE SOUZA PINHEIRO
+    Logradouro: CAMILO TORREND
+    Número: 618
+    Bairro: CENTRO DIAS D AVILA
+  [7]
+    CPF: 030.510.835-26
+    Nome: DEISE DA PAIXAO CRUZ
+    Logradouro: UM PAZ
+    Número: 178
+    Bairro: STA HELENA
+  [8]
+    CPF: 959.732.145-91
+    Nome: NERIVALDO OLIVEIRA
+    Logradouro: ET ANTIGA BAHIA FEIRA
+    Número: 22
+    Bairro: LEANDRINHO
+  [9]
+    CPF: 039.213.305-99
+    Nome: ANA PAULA CONCEICAO DE JESUS
+    Logradouro: MARQUES DE LEAO
+    Número: 40
+    Bairro: PRQ PETROPOLIS
+  [10]
+    CPF: 056.632.795-39
+    Nome: CLAUDIA BISPO PARAGUASSU
+    Logradouro: DIRETA D BIRIBEIRA
+    Número: SN
+    Bairro: BERIBEIRA
+  [11]
+    CPF: 342.284.688-37
+    Nome: RODRIGO CANDIDO DA SILVA
+    Logradouro: SEIS BULGARIA
+    Número: 126
+    Bairro: CJ URBIS
+  [12]
+    CPF: 052.766.145-71
+    Nome: ROZANA FREITAS SANTOS
+    Logradouro: II TRAVESSA
+    Número: 25
+    Bairro: ENTROCAMENTO
+  [13]
+    CPF: 050.581.444-76
+    Nome: ANGELINA EFIGENIA SIMOES RIBEIRO MIRANDA
+    Logradouro: DOS PASSOS
+    Número: 44
+  [14]
+    CPF: 050.496.608-15
+    Nome: JOAO ALBINO DA SILVA
+    Logradouro: K C
+    Número: 8
+  [15]
+    CPF: 050.496.608-15
+    Nome: JOAO ALBINO DA SILVA
+    Logradouro: LOT MTE AT
+    Número: 24
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (71) 98248-8730
+    Nome: JULIO CONRADO VAZ JUNIOR
+    Cidade: DIAS D AVILA
+    UF: BA
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (75) 98177-5399
+    Nome: JULIO CONRADO VAZ JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (75) 98266-0372
+    Nome: JULIO CONRADO VAZ JUNIOR
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - dr7camonicacao@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 642
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 642.4
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (71) 98103-3106
+    Ddd: 71
+    Número: 981033106
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: D
+  [2]
+    Telefone: (71) 98248-8730
+    Ddd: 71
+    Número: 982488730
+    Tipo: 3
+    Data Inclusao: 30/09/2014
+    Classificacao: D
+  [3]
+    Telefone: (71) 98602-5769
+    Ddd: 71
+    Número: 986025769
+    Tipo: 3
+    Data Inclusao: 30/09/2014
+    Classificacao: D
+  [4]
+    Telefone: (71) 98603-2702
+    Ddd: 71
+    Número: 986032702
+    Tipo: 3
+    Data Inclusao: 30/09/2014
+    Classificacao: D
+  [5]
+    Telefone: (75) 99933-1288
+    Ddd: 75
+    Número: 999331288
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Occupation Code: 4110
+Occupation Name: Trabalhadores de Servicos Administrativos (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

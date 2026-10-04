@@ -1,0 +1,380 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05437514492
+Data/Hora:  04/10/2026, 14:43:39
+Tempo API:  418ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 054.375.144-92
+Nome: AGACIO MEDEIROS NETO
+Primeiro Nome: AGACIO
+Sobrenome: NETO
+Sexo: Masculino
+Data de Nascimento: 28/04/1985
+Nome da Mãe: ELZAMAR MORAIS DE MEDEIROS
+RG: 2279166
+Voter Id: 023861631600
+Mosaic: C09
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 577
+  Range: BAIXO
+E-mail: hcioneto@hotmail.com
+Additional Emails: (1 item(s))
+  - hcioneto@hotmail.com
+Federal Status: REGULAR
+Renda: 1095
+Income Bracket: 2
+Cbo: 421125
+Endereço:
+  Tipo: RUA
+  Rua: CEL GURGEL
+  Bairro: CENTRO
+  Cidade: MOSSORO
+  Estado: RIO GRANDE DO NORTE
+  CEP: 59600-200
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CEL GURGEL
+    Bairro: CENTRO
+    Cidade: MOSSORO
+    Estado: RIO GRANDE DO NORTE
+    CEP: 59600-200
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO LUZ
+    Tipo: R
+    Número: 5
+    Bairro: CENTRO
+    Cidade: TIBAU
+    Estado: RN
+    CEP: 59678-000
+    Data Atualizacao: 31/05/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: BARROSO
+    Tipo: R
+    Número: 52
+    Bairro: AT DA CONCEICAO
+    Cidade: MOSSORO
+    Estado: RN
+    CEP: 59600-290
+    Data Atualizacao: 03/07/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: GURGEL
+    Tipo: R
+    Número: 975
+    Bairro: CENTRO
+    Cidade: MOSSORO
+    Estado: RN
+    CEP: 59600-200
+    Data Atualizacao: 30/06/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: MELO FRANCO
+    Tipo: R
+    Número: 10
+    Bairro: CENTRO
+    Cidade: MOSSORO
+    Estado: RN
+    CEP: 59600-165
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: CORONEL GURGEL
+    Número: 0000975
+    Bairro: CENTRO
+    Cidade: MOSSORO
+    Estado: RN
+    CEP: 59600-200
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (84) 98873-1129
+  - (84) 98753-7374
+  - (84) 3065-5200
+  - (84) 3061-2256
+  - (84) 3317-3802
+  - (84) 98753-7437
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 27/12/2019
+    Info Date: 06/11/2007
+    Mosaic: C09
+    Mosaic New: C07
+    Mosaic Secondary: E18
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ANTONIO LUZ
+      Número: 5
+      Bairro: CENTRO
+      Cidade: TIBAU
+      Estado: RN
+      CEP: 59678-000
+      Date Added: 22/09/2015
+    [2]
+      Tipo: R
+      Rua: BARROSO
+      Número: 52
+      Bairro: AT DA CONCEICAO
+      Cidade: MOSSORO
+      Estado: RN
+      CEP: 59600-290
+      Date Added: 22/08/2013
+    [3]
+      Tipo: R
+      Rua: GURGEL
+      Número: 975
+      Bairro: CENTRO
+      Cidade: MOSSORO
+      Estado: RN
+      CEP: 59600-200
+      Date Added: 16/04/2009
+    [4]
+      Tipo: R
+      Rua: GURGEL
+      Número: 975
+      Complemento: C
+      Bairro: AT DA CONCEICAO
+      Cidade: MOSSORO
+      Estado: RN
+      CEP: 59600-322
+      Date Added: 18/11/2019
+    [5]
+      Tipo: R
+      Rua: MELO FRANCO
+      Número: 10
+      Bairro: CENTRO
+      Cidade: MOSSORO
+      Estado: RN
+      CEP: 59600-165
+      Date Added: 12/12/2018
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 30655200
+      Ddd: 84
+      Tipo: 2
+      Classificacao: C
+      Date Added: 22/11/2006
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 30612256
+      Ddd: 84
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 16/04/2009
+      Info Date: 08/10/2016
+    [3]
+      Telefone: 33173802
+      Ddd: 84
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 09/01/2012
+      Info Date: 04/12/2018
+    [4]
+      Telefone: 987537437
+      Ddd: 84
+      Tipo: 3
+      Classificacao: C
+      Date Added: 26/01/2012
+  E-mails: (1 item(s))
+    [1]
+      E-mail: hcioneto@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 19/09/2016
+  Score:
+    CSB8: 461
+    CSB8 FAIXA: MEDIO
+    CSBA: 577
+    CSBA FAIXA: BAIXO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 791.550.064-34
+      Nome: ELZAMAR MORAIS DE MEDEIROS
+      Vinculo: MAE
+    [2]
+      CPF: 7695450413
+      Nome: ALZENOR EPITACIO DE MORAIS NETO
+      Vinculo: IRMA(O)
+  Pis: 20610637686
+  Tse:
+    Titulo: 23861631600
+    Zona: 34
+    Secao: 158
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 706.22
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 302.887.544-68
+    Nome: RUI ALVES DOS SANTOS
+    Logradouro: PROJETADA
+    Número: SN
+  [2]
+    CPF: 423.456.264-53
+    Nome: ANGELA MARIA DA SILVA
+    Logradouro: PROJETADA
+    Número: SN
+  [3]
+    CPF: 049.890.594-25
+    Nome: SOLANGE ANTONIA DA SILVA COSTA
+    Logradouro: ESTRELA DO MAR
+    Número: 8
+    Bairro: CENTRO
+  [4]
+    CPF: 055.300.904-43
+    Nome: FERNANDO JOSE RIBEIRO DE OLIVEIRA
+    Logradouro: ROMAO
+    Número: 84
+    Bairro: SIT P BRANCO
+  [5]
+    CPF: 048.974.744-26
+    Nome: IRENICE RODRIGUES DA SILVA
+    Logradouro: PROJETADA
+    Número: 2
+    Bairro: CENTRO
+  [6]
+    CPF: 048.963.694-24
+    Nome: MARIA EDNA DO NASCIMENTO
+    Logradouro: JOAO VENTURELI
+    Número: 2
+  [7]
+    CPF: 044.165.114-34
+    Nome: ANTONIO JOAQUIM NOLASCO SOBRINHO
+    Logradouro: ZDFBDVBSDFB
+    Número: 25
+  [8]
+    CPF: 043.703.344-97
+    Nome: MARIA NELMIZIA MARQUES DAS CHAGAS RODRIGUES
+    Logradouro: DO PARGO
+    Número: 31
+  [9]
+    CPF: 039.585.144-05
+    Nome: EVERTON CLEMENTINO DE SOUZA
+    Logradouro: ARABAIANA
+    Número: 8
+    Bairro: CENTRO
+  [10]
+    CPF: 430.136.944-91
+    Nome: RONILDO FRANCISCO DE OLIVEIRA
+    Logradouro: MARIA MOTA BARROS
+    Número: 642
+    Bairro: CENTRO
+  [11]
+    CPF: 055.249.244-27
+    Nome: WALTER IGLE ARRUDA JUNIOR
+    Logradouro: PROJETADA
+    Número: 23
+  [12]
+    CPF: 448.860.393-91
+    Nome: MARIA BRAGA PINTO
+    Logradouro: CAMURIM
+    Número: 520
+  [13]
+    CPF: 072.213.527-04
+    Nome: ALESSANDRA SOUZA DE SAMPAIO
+    Logradouro: DA BALEIA
+    Número: 63
+    Bairro: CENTRO
+  [14]
+    CPF: 033.898.814-92
+    Nome: JOAO ELVIRIO RODRIGUES NETO
+    Logradouro: JOAO MARCELINO
+    Número: 13
+  [15]
+    CPF: 033.593.024-78
+    Nome: ALDICEIA RODRIGUES DA SILVA
+    Logradouro: PROJETADA
+    Número: SN
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (84) 98873-1129
+    Nome: AGACIO MEDEIROS NETO
+    Cidade: MOSSORO
+    UF: RN
+  [2]
+    Telefone: (84) 98753-7374
+    Nome: AGACIO MEDEIROS NETO
+    Cidade: MOSSORO
+    UF: RN
+E-mails: (1 item(s))
+  - hcioneto@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1095
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 706.22
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (84) 3065-5200
+    Ddd: 84
+    Número: 30655200
+    Tipo: CELULAR
+    Data Inclusao: 22/11/2006
+    Data Informacao: 31/12/2002
+    Classificacao: C
+  [2]
+    Telefone: (84) 3061-2256
+    Ddd: 84
+    Número: 30612256
+    Tipo: FIXO
+    Data Inclusao: 16/04/2009
+    Data Informacao: 08/10/2016
+    Classificacao: A0
+  [3]
+    Telefone: (84) 3317-3802
+    Ddd: 84
+    Número: 33173802
+    Tipo: FIXO
+    Data Inclusao: 09/01/2012
+    Data Informacao: 04/12/2018
+    Classificacao: D2
+  [4]
+    Telefone: (84) 98753-7437
+    Ddd: 84
+    Número: 987537437
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: C
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,288 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  07539125977
+Data/Hora:  02/10/2026, 16:09:55
+Tempo API:  359ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 075.391.259-77
+Nome: TIAGO SANTOS DA ROCHA
+Primeiro Nome: TIAGO
+Sobrenome: ROCHA
+Sexo: Masculino
+Data de Nascimento: 17/12/1988
+Nome da Mãe: ANDREA DOS SANTOS
+Mosaic: F18
+Ocupação: Alimentador de linha de produção
+Score:
+  Value: 403
+  Range: MEDIO
+Federal Status: REGULAR
+Renda: 1617
+Income Bracket: 2
+Cbo: 784205
+Endereço:
+  Tipo: RUA
+  Rua: MARIO PINHEIRO
+  Número: 41
+  Bairro: CIDADE INDUSTRIAL
+  Cidade: CURITIBA
+  Estado: PARANA
+  CEP: 81310-410
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARIO PINHEIRO
+    Número: 41
+    Bairro: CIDADE INDUSTRIAL
+    Cidade: CURITIBA
+    Estado: PARANA
+    CEP: 81310-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AMARO FERNANDES VIEIRA
+    Tipo: R
+    Número: 207
+    Complemento: C
+    Bairro: MIRIM
+    Cidade: GUARATUBA
+    Estado: PR
+    CEP: 83280-000
+    Data Atualizacao: 21/01/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: NAZIR SATORSK
+    Número: 750
+    Cidade: GUARATUBA
+    Estado: PR
+    CEP: 83280-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ANTONIO DA PLATINA
+    Tipo: R
+    Número: 1905
+    Bairro: COAPAR II
+    Cidade: GUARATUBA
+    Estado: PR
+    CEP: 83280-000
+    Data Atualizacao: 22/07/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: 0000000
+    Número: [empty]
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: PR
+    CEP: 00000-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (41) 99590-2270
+  - (41) 99905-7149
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/10/2019
+    Info Date: 06/04/2007
+    Mosaic: F18
+    Mosaic New: K35
+    Mosaic Secondary: K36
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: AMARO FERNANDES VIEIRA
+      Número: 207
+      Complemento: C
+      Bairro: MIRIM
+      Cidade: GUARATUBA
+      Estado: PR
+      CEP: 83280-000
+      Date Added: 08/08/2017
+    [2]
+      Rua: NAZIR SATORSK
+      Número: 750
+      Cidade: GUARATUBA
+      Estado: PR
+      CEP: 83280-000
+      Date Added: 27/11/2017
+    [3]
+      Tipo: TV
+      Rua: MARIO PINHEIRO
+      Número: 41
+      Bairro: CIDADE INDUSTRIAL
+      Cidade: CURITIBA
+      Estado: PR
+      CEP: 81310-410
+      Date Added: 07/11/2011
+    [4]
+      Tipo: R
+      Rua: AMARO FERNANDES VIEIR
+      Número: 207
+      Bairro: MIRIM
+      Cidade: GUARATUBA
+      Estado: PR
+      CEP: 83280-000
+      Date Added: 21/01/2019
+    [5]
+      Tipo: R
+      Rua: ANTONIO DA PLATINA
+      Número: 1905
+      Bairro: COAPAR II
+      Cidade: GUARATUBA
+      Estado: PR
+      CEP: 83280-000
+      Date Added: 02/12/2014
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 999057149
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 21/06/2012
+      Info Date: 21/05/2012
+  Score:
+    CSBA: 403
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ANDREA DOS SANTOS
+      Vinculo: MAE
+  Pis: 20412643833
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 854.03
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.144.659-71
+    Nome: MICHELE DE SOUZA PINTO
+    Logradouro: DAMIAO BOTELHO DE SOUZA
+    Número: 1057
+    Bairro: PICARRAS
+  [2]
+    CPF: 052.145.939-70
+    Nome: MARIA BENEDITA DE OLIVEIRA MACHADO
+    Logradouro: GENEROSO MQ
+    Número: 52
+  [3]
+    CPF: 052.100.609-00
+    Nome: ARI ARTIKEVICZ BERNARDI
+    Logradouro: PATO BRANCO
+    Número: 995
+    Bairro: ELIANE
+  [4]
+    CPF: 052.100.609-00
+    Nome: ARI ARTIKEVICZ BERNARDI
+    Logradouro: AVDAMIAO BOTELHO DE SOUZA
+    Número: 1320
+  [5]
+    CPF: 051.924.359-51
+    Nome: CRISTIANO CARNEIRO POLICARPO
+    Logradouro: ALIPIO DOS SANTOS
+    Número: 75
+  [6]
+    CPF: 337.571.869-15
+    Nome: VICENTINA REGINA BORGES
+    Logradouro: CUBATAO
+    Número: 1639
+    Bairro: PICARRAS
+  [7]
+    CPF: 022.061.819-40
+    Nome: HERCULES LOPES PEREIRA
+    Logradouro: HAVAI
+    Número: 13
+    Bairro: NEREIDAS
+  [8]
+    CPF: 051.810.459-10
+    Nome: PAULO MARCELO MACANEIRO
+    Logradouro: AMAZONAS
+    Número: 108
+  [9]
+    CPF: 051.786.869-50
+    Nome: FABIO BATISTA
+    Logradouro: LAURO CHAVES
+    Número: 12
+  [10]
+    CPF: 051.747.289-93
+    Nome: VALDETI ARZAO MARCONDES
+    Logradouro: A
+    Número: 68
+    Bairro: COHAPAR
+  [11]
+    CPF: 051.596.759-90
+    Nome: PAULO AUGUSTO FARIAS MARGARIDA
+    Logradouro: CUBATAO
+    Número: 1387
+  [12]
+    CPF: 051.545.329-37
+    Nome: ALINE MIRANDA VIEIRA
+    Logradouro: PAULO SAPORSKI FO
+    Número: 28
+  [13]
+    CPF: 083.331.899-38
+    Nome: CAROLINA VEIGA
+    Logradouro: TAMANDARE
+    Número: 1300
+    Bairro: CENTRO
+  [14]
+    CPF: 015.377.759-10
+    Nome: NEUSA MARIA VIEIRA
+    Logradouro: FRANCISCO
+    Número: 200
+    Bairro: COROADOS
+  [15]
+    CPF: 609.050.349-53
+    Nome: ROSELY TEREZINHA CHOINSKI
+    Logradouro: EDUARDO NILMANN
+    Número: 550
+    Bairro: NEREIDAS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (41) 99590-2270
+    Nome: TIAGO SANTOS DA ROCHA
+    Cidade: [empty]
+    UF: PR
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1617
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 854.03
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (41) 99905-7149
+    Ddd: 41
+    Número: 999057149
+    Tipo: 3
+    Data Inclusao: 21/06/2012
+    Data Informacao: 21/05/2012
+    Classificacao: D
+Occupation Code: 784205
+Occupation Name: Alimentador de linha de produção
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

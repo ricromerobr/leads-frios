@@ -1,0 +1,474 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  49999770525
+Data/Hora:  03/10/2026, 23:17:22
+Tempo API:  742ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 499.997.705-25
+Nome: MARIA DAS GRACAS ZAURISIO SARAIVA DE TOLEDO ALVES
+Primeiro Nome: MARIA
+Sobrenome: ALVES
+Sexo: Feminino
+Data de Nascimento: 11/07/1969
+Nome da Mãe: LAURENTINA SANTOS SARAIVA
+Nome do Pai: SALUSTEANO ZAUSTEANO SARAIVA
+RG: 366413673
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 262733620159
+Mosaic: G24
+Ocupação: Administrador
+Score:
+  Value: 577
+  Range: BAIXO
+E-mail: inteligenciaesolucoes@gmail.com
+Additional Emails: (4 item(s))
+  - inteligenciaesolucoes@gmail.com
+  - liaema@gmail.com
+  - vinicius.sporto@terra.com.br
+  - liaema@hotmail.com
+Federal Status: REGULAR
+Renda: 3219
+Income Bracket: 4
+Cbo: 521110
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: SIMAO BOTOSSI
+  Bairro: VILA BELA
+  Cidade: TAUBATE
+  Estado: SAO PAULO
+  CEP: 12070-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SIMAO BOTOSSI
+    Bairro: VILA BELA
+    Cidade: TAUBATE
+    Estado: SAO PAULO
+    CEP: 12070-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SIMAO BOTOSSI
+    Número: 179
+    Bairro: VILA PROSPERIDADE
+    Cidade: TAUBATE - SP
+    Fonte: DATASUS
+  [3]
+    Rua: SIMAO BOTOSSI
+    Número: 179
+    Bairro: JARDIM SANTA CATARI
+    Estado: SP
+    CEP: 12051-840
+    Fonte: MEC
+  [4]
+    Rua: ARGENTINA
+    Tipo: R
+    Número: 552
+    Bairro: PRQ DAS NACOES
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09210-100
+    Data Atualizacao: 07/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOSE FELIPE CURSINO DE MOURA
+    Tipo: R
+    Número: 410
+    Bairro: VL APARECIDA
+    Cidade: TAUBATE
+    Estado: SP
+    CEP: 12052-090
+    Data Atualizacao: 30/04/2013
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: SIMAO BOTOSSI
+    Tipo: R
+    Número: 179
+    Bairro: JD STA CATARINA
+    Cidade: TAUBATE
+    Estado: SP
+    CEP: 12051-840
+    Data Atualizacao: 01/01/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: SIMAO BOTOSSI
+    Número: 0000179
+    Bairro: JARDIM SANTA CATARINA
+    Cidade: TAUBATE
+    Estado: SP
+    CEP: 01205-140
+    Fonte: ASSECC
+Vehicles:
+  Count: 3
+  List: (3 item(s))
+    [1]
+      Marca: FORD
+      Modelo: FIESTA HA 1.6L SE
+      Ano: 2014
+    [2]
+      Marca: YAMAHA
+      Modelo: NMAX
+      Ano: 2017
+    [3]
+      Marca: HONDA
+      Modelo: CG 150 FAN ESI
+      Ano: 2010
+Telefones: (8 item(s))
+  - (12) 98827-1187
+  - (12) 99706-7042
+  - (12) 98879-0177
+  - +55 (12) 99158-6135
+  - (11) 4479-5792
+  - (12) 98802-1120
+  - (11) 2438-7207
+  - (77) 3463-2654
+Datasus Phones: (1 item(s))
+  - (12) 3622-6938
+Cidade de Nascimento: JACARACI - BA
+Cns: 700001770683105
+Rg Issue Date: 1061953200000
+Mec:
+  Titulo Eleitor: 0262733620159
+Paycom:
+  E-mail: liaema@gmail.com
+  Data de Nascimento: 11/01/1969
+  Created At: 2020-05-30 19:58:49
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: SIMAO BOTOSSI
+    Número: 179
+    Bairro: JARDIM SANTA CATARINA
+    Cidade: TAUBATE
+    Estado: SP
+    País: BRA
+    CEP: 12051-840
+    Telephone: +55 (12) 99158-6135
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Info Date: 16/12/2007
+    Mosaic: G24
+    Mosaic New: G24
+    Mosaic Secondary: G22
+    Income Bracket Id: 5
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: ARGENTINA
+      Número: 552
+      Bairro: PRQ DAS NACOES
+      Cidade: SANTO ANDRE
+      Estado: SP
+      CEP: 09210-100
+      Date Added: 11/10/2006
+    [2]
+      Tipo: R
+      Rua: JOSE FELIPE CURSINO DE MOURA
+      Número: 410
+      Bairro: VL APARECIDA
+      Cidade: TAUBATE
+      Estado: SP
+      CEP: 12052-090
+      Date Added: 15/02/2013
+    [3]
+      Tipo: R
+      Rua: SIMAO BOTOSSI
+      Número: 179
+      Bairro: JD STA CATARINA
+      Cidade: TAUBATE
+      Estado: SP
+      CEP: 12051-840
+      Date Added: 30/06/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 997067042
+      Ddd: 12
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/03/2007
+      Info Date: 02/09/2007
+    [2]
+      Telefone: 44795792
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2009
+      Info Date: 31/12/2002
+    [3]
+      Telefone: 988021120
+      Ddd: 12
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 20/07/2017
+    [4]
+      Telefone: 24387207
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/02/2018
+    [5]
+      Telefone: 34632654
+      Ddd: 77
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+  E-mails: (4 item(s))
+    [1]
+      E-mail: liaema@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [2]
+      E-mail: vinicius.sporto@terra.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [3]
+      E-mail: inteligenciaesolucoes@gmail.com
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/05/2017
+    [4]
+      E-mail: liaema@hotmail.com
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+  Score:
+    CSB8: 648
+    CSB8 FAIXA: BAIXO
+    CSBA: 577
+    CSBA FAIXA: BAIXO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 736.172.455-87
+      Nome: LAURENTINA SANTOS SARAIVA
+      Vinculo: MAE
+    [2]
+      CPF: 7574804893
+      Nome: IZAUMI ZAURISTO SARAIVA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 8458755823
+      Nome: ARLENE DE SOUZA DIAS SARAIVA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 571.990.865-04
+      Nome: ELENILTON ZAURISIO SARAIVA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 260.676.398-07
+      Nome: MARLUCIA SANTOS SARAIVA
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 406.318.248-71
+      Nome: BRUNA SOUZA SARAIVA
+      Vinculo: SOBRINHA(O)
+    [7]
+      CPF: 352.238.045-20
+      Nome: VALMIR ZAURISIO SARAIVA
+      Vinculo: IRMA(O)
+  Tse:
+    Titulo: 262733620159
+    Zona: 407
+    Secao: 141
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2891.99
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 311.566.218-10
+    Nome: FRANCISCO DE ASSIS BRITO DE ALMEIDA JUNIOR
+    Logradouro: ARGENTINA
+    Número: 329
+    Bairro: PRQ DAS NACOES
+  [2]
+    CPF: 030.668.759-38
+    Nome: JOYCE MARA APARICIO PALMEJAN
+    Logradouro: ARGENTINA
+    Número: 227
+    Bairro: PRQ DAS NACOES
+  [3]
+    CPF: 008.545.708-61
+    Nome: JORGE LUIZ DE COUTO
+    Logradouro: ARGENTINA
+    Número: 227
+    Bairro: PRQ DAS NACOES
+  [4]
+    CPF: 296.682.778-56
+    Nome: THIAGO PAZ DE MEDEIROS
+    Logradouro: ARGENTINA
+    Número: 227
+    Bairro: PRQ DAS NACOES
+  [5]
+    CPF: 351.994.358-17
+    Nome: BRUNO OLIVEIRA
+    Logradouro: ARGENTINA
+    Número: 227
+    Bairro: PRQ DAS NACOES
+  [6]
+    CPF: 097.057.978-03
+    Nome: NEUSA MARTINS CYPRIANO
+    Logradouro: ARGENTINA
+    Número: 74
+    Bairro: PRQ DAS NACOES
+  [7]
+    CPF: 477.701.478-91
+    Nome: OSVALDO PEREIRA DOS SANTOS
+    Logradouro: ARGENTINA
+    Número: 595
+    Bairro: PRQ DAS NACOES
+  [8]
+    CPF: 939.502.928-53
+    Nome: CLEONICE RAMOS VIEIRA
+    Logradouro: ARGENTINA
+    Número: 461
+    Bairro: PRQ DAS NACOES
+  [9]
+    CPF: 261.744.138-53
+    Nome: JOAO DA GRACA MONTEIRO
+    Logradouro: ARGENTINA
+    Número: 443
+    Bairro: PRQ DAS NACOES
+  [10]
+    CPF: 183.624.478-93
+    Nome: EDILANIA CRISTINA SILVA LOPES
+    Logradouro: ARGENTINA
+    Número: 227
+    Bairro: PRQ DAS NACOES
+  [11]
+    CPF: 476.191.128-04
+    Nome: JOSUE REIS
+    Logradouro: ARGENTINA
+    Número: 368
+    Bairro: PRQ DAS NACOES
+  [12]
+    CPF: 079.937.598-54
+    Nome: MIRIAM RICCI CONTATO
+    Logradouro: ARGENTINA
+    Número: SN
+    Bairro: PRQ DAS NACOES
+  [13]
+    CPF: 276.480.048-79
+    Nome: CLAUDIO FURONE
+    Logradouro: ARGENTINA
+    Número: 235
+    Bairro: PRQ DAS NACOES
+  [14]
+    CPF: 276.480.768-61
+    Nome: CRISTIANE APARECIDA DA SILVA
+    Logradouro: ARGENTINA
+    Número: 350
+    Bairro: PRQ DAS NACOES
+  [15]
+    CPF: 327.282.338-70
+    Nome: PAULA MAZZO PASTANA
+    Logradouro: ARGENTINA
+    Número: 339
+    Bairro: PRQ DAS NACOES
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (12) 99706-7042
+    Nome: MARIA DAS GRACAS ZAURISIO SARAIVA DE TOLEDO ALVES
+    Cidade: TAUBATE
+    UF: SP
+E-mails: (4 item(s))
+  - inteligenciaesolucoes@gmail.com
+  - liaema@gmail.com
+  - vinicius.sporto@terra.com.br
+  - liaema@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3219
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2891.99
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (12) 99706-7042
+    Ddd: 12
+    Número: 997067042
+    Tipo: 3
+    Data Inclusao: 04/03/2007
+    Data Informacao: 02/09/2007
+    Classificacao: D
+  [2]
+    Telefone: (11) 4479-5792
+    Ddd: 11
+    Número: 44795792
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [3]
+    Telefone: (12) 98802-1120
+    Ddd: 12
+    Número: 988021120
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: A0
+  [4]
+    Telefone: (11) 2438-7207
+    Ddd: 11
+    Número: 24387207
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D2
+  [5]
+    Telefone: (77) 3463-2654
+    Ddd: 77
+    Número: 34632654
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

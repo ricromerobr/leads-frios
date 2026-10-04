@@ -1,0 +1,228 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10459671650
+Data/Hora:  04/10/2026, 00:16:46
+Tempo API:  731ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 104.596.716-50
+Nome: JULIA GABRIELE MOREIRA DOS SANTOS
+Primeiro Nome: JULIA
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 17/03/1997
+Nome da Mãe: DILMA CANDIDA MOREIRA
+Score:
+  Value: 771
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 954
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: SABARA
+  Número: 237
+  Complemento: CASA
+  Bairro: VARZEA
+  Cidade: LAGOA SANTA
+  Estado: MINAS GERAIS
+  CEP: 33400-000
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SABARA
+    Número: 237
+    Complemento: CASA
+    Bairro: VARZEA
+    Cidade: LAGOA SANTA
+    Estado: MINAS GERAIS
+    CEP: 33400-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SETE
+    Tipo: R
+    Número: 153
+    Bairro: PROMISAO
+    Cidade: LAGOA SANTA
+    Estado: MG
+    CEP: 33400-000
+    Data Atualizacao: 09/07/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Tipo: R
+    Rua: SABARA
+    Número: 0000237
+    Bairro: VARZEA
+    Cidade: LAGOA SANTA
+    Estado: MG
+    CEP: 33400-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (31) 97331-9492
+  - (31) 3375-7391
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Mosaic New: D14
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: SETE
+      Número: 153
+      Bairro: PROMISAO
+      Cidade: LAGOA SANTA
+      Estado: MG
+      CEP: 33400-000
+      Date Added: 04/07/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 33757391
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 23/08/2016
+  Score:
+    CSB8: 238
+    CSB8 FAIXA: ALTO
+    CSBA: 771
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 122648650
+      Nome: DILMA CANDIDA MOREIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 665.95
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 809.140.206-68
+    Nome: ELIANA BARBOSA DOS SANTOS
+    Logradouro: DEZ
+    Número: 55
+  [2]
+    CPF: 052.126.666-19
+    Nome: ALEXANDRA SILVA OLIVEIRA
+    Logradouro: J JOAQUIM BRUN DE ALMEID
+    Número: 121
+    Bairro: CJ BL VISTA
+  [3]
+    CPF: 051.846.446-60
+    Nome: NATALIA RAMOS DA SILVA
+    Logradouro: ISMAEL DO CARMO MADEIRA
+    Número: 54
+  [4]
+    CPF: 034.887.816-82
+    Nome: CONCEICAO APARECIDA VIEIRA DOS SANTOS
+    Logradouro: DEDORO DA FONSECA
+    Número: 901
+  [5]
+    CPF: 051.803.046-60
+    Nome: MARIA APARECIDA LARA MOURA
+    Logradouro: ALAMADA DO JACARANDA
+    Número: 25
+  [6]
+    CPF: 675.283.250-15
+    Nome: RITA DE CASSIA MANCIA DE OLIVEIRA
+    Logradouro: LOTUS
+    Número: 21
+    Bairro: COND MANANCIAL
+  [7]
+    CPF: 417.211.873-91
+    Nome: DARLON ANDRE DE SOUZA
+    Logradouro: PETROPOLIS
+    Número: 200
+    Bairro: OVIDIO GUERRA
+  [8]
+    CPF: 490.321.430-34
+    Nome: RONI DA SILVA
+    Logradouro: DA SUICA
+    Número: 520
+    Bairro: LUDICEIA
+  [9]
+    CPF: 266.618.048-40
+    Nome: CICERO FABIO RODRIGUES TEIXEIRA
+    Logradouro: SABARA
+    Número: 67
+  [10]
+    CPF: 051.500.376-05
+    Nome: LIVIA SOARES DE AVELAR
+    Logradouro: EXPEDICIONARIOS
+    Número: 815
+    Bairro: BRANT
+  [11]
+    CPF: 051.387.306-65
+    Nome: IRENE DE FATIMA MAURICIO TEIXEIRA
+    Logradouro: SEBASTIAO
+    Número: 640
+  [12]
+    CPF: 052.339.446-26
+    Nome: JANIO BATISTA DA CRUZ
+    Logradouro: L MG 800
+    Bairro: DT INDUST
+  [13]
+    CPF: 043.508.215-97
+    Nome: JARDILSON RODRIGUES CRUZ
+    Logradouro: C
+    Número: 160
+    Bairro: JD YPE
+  [14]
+    CPF: 051.287.856-02
+    Nome: MONICA REGINA OLIVEIRA BATISTA
+    Logradouro: AQUILES DE OLIVEIRA
+    Número: 39
+    Bairro: VARZEA
+  [15]
+    CPF: 051.262.646-48
+    Nome: WESLEY DE FREITAS RODRIGUES
+    Logradouro: DOLABELA
+    Número: 1572
+    Bairro: VARZEA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (31) 97331-9492
+    Nome: JULIA GABRIELE MOREIRA DOS SANTOS
+    Cidade: LAGOA SANTA
+    UF: MG
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 954
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 665.95
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (31) 3375-7391
+    Ddd: 31
+    Número: 33757391
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D2
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

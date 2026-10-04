@@ -1,0 +1,231 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  47672747886
+Data/Hora:  02/10/2026, 16:41:06
+Tempo API:  396ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 476.727.478-86
+Nome: DANIEL GOMES VERAS DE SOUSA
+Primeiro Nome: DANIEL
+Sobrenome: SOUSA
+Sexo: Masculino
+Data de Nascimento: 23/06/1999
+Nome da Mãe: ELIANE GOMES DE SOUSA
+Score:
+  Value: 364
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 424
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: OLHO D AGUA DO BORGES
+  Bairro: VILA SILVIA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03820-000
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: OLHO D AGUA DO BORGES
+    Bairro: VILA SILVIA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03820-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: OLHO D AGUA DO BORGES
+    Tipo: R
+    Número: 90
+    Complemento: BL 7 AP 1
+    Bairro: VL SILVIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03820-000
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (11) 2623-4632
+  - (11) 93938-2399
+  - (11) 96389-0233
+  - (11) 97655-5741
+  - (11) 91486-5840
+  - (69) 3441-6832
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 10/08/2019
+    Mosaic New: C08
+    Mosaic Secondary: C06
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: OLHO D AGUA DO BORGES
+      Número: 90
+      Complemento: BL 7 AP 1
+      Bairro: VL SILVIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03820-000
+      Date Added: 05/04/2018
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 34416832
+      Ddd: 69
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/07/2017
+    [2]
+      Telefone: 963890233
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/06/2019
+      Info Date: 19/02/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 364
+    CSBA FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 424.74
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 426.338.261-72
+    Nome: MEIRIANE MAIA BARREIRA
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 90
+    Bairro: VL SILVIA
+  [2]
+    CPF: 045.552.128-00
+    Nome: CREUZA MAGALHAES DOS SANTOS
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 15
+    Bairro: VL SILVIA
+  [3]
+    CPF: 417.771.398-80
+    Nome: TAINA SILVA DO NASCIMENTO
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 590
+    Bairro: VL SILVIA
+  [4]
+    CPF: 017.976.845-07
+    Nome: HELCIO SILVA DE CARVALHO
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 30
+    Bairro: VL SILVIA
+  [5]
+    CPF: 111.979.128-60
+    Nome: ROSEMEIRE CANDIDA NUNES
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 90
+    Bairro: VL SILVIA
+  [6]
+    CPF: 422.089.538-86
+    Nome: JONATHAN NOGUEIRA MARQUES
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 199
+    Bairro: VL SILVIA
+  [7]
+    CPF: 031.928.078-06
+    Nome: VIRGINIA CASSEMIRO DA SILVA
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 94
+    Bairro: VL SILVIA
+  [8]
+    CPF: 114.570.048-95
+    Nome: MARCOS ROBERTO CAIRES BRITO
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 291
+    Bairro: VL SILVIA
+  [9]
+    CPF: 264.024.558-90
+    Nome: SALMA AURORA CORREA DA SILVA
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 94
+    Bairro: VL SILVIA
+  [10]
+    CPF: 422.860.838-86
+    Nome: IZABEL CRISTINA RODRIGUES FERREIRA
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 94
+    Bairro: VL SILVIA
+  [11]
+    CPF: 346.019.358-14
+    Nome: LUCAS CORDEIRO MORENO
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 111
+    Bairro: VL SILVIA
+  [12]
+    CPF: 274.768.458-03
+    Nome: CASSIA ROL
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 184
+    Bairro: VL SILVIA
+  [13]
+    CPF: 226.055.648-51
+    Nome: DAIANE DAYRELL BARACAT
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 4
+    Bairro: VL SILVIA
+  [14]
+    CPF: 056.194.444-06
+    Nome: MIKE WILLIAM DE OLIVEIRA
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 998
+    Bairro: VL SILVIA
+  [15]
+    CPF: 014.063.728-11
+    Nome: HELIO EDUARDO SILVA
+    Logradouro: OLHO D AGUA DO BORGES
+    Número: 1026
+    Bairro: VL SILVIA
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 424
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 424.74
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (69) 3441-6832
+    Ddd: 69
+    Número: 34416832
+    Tipo: FIXO
+    Data Inclusao: 20/07/2017
+    Classificacao: D2
+  [2]
+    Telefone: (11) 96389-0233
+    Ddd: 11
+    Número: 963890233
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 19/02/2019
+    Classificacao: A0
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

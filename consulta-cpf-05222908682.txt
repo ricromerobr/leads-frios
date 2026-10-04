@@ -1,0 +1,529 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05222908682
+Data/Hora:  03/10/2026, 17:38:42
+Tempo API:  764ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 052.229.086-82
+Nome: BRUNO LUIZ BARBOSA GOMES
+Primeiro Nome: BRUNO
+Sobrenome: GOMES
+Sexo: Masculino
+Data de Nascimento: 03/08/1981
+Nome da Mãe: OLIMPIA FAUSTINA BARBOSA GOMES
+Voter Id: 139831580248
+Mosaic: C08
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 951
+  Range: BAIXISSIMO RISCO
+E-mail: brunogomes103@gmail.com
+Additional Emails: (5 item(s))
+  - brunogomes103@gmail.com
+  - barbosa100@gmail.com
+  - fabriciocmacedo@gmail.com
+  - bruno.gomes@bdobrazil.com.br
+  - srxz@netsite.com.br
+Federal Status: REGULAR
+Renda: 16269
+Income Bracket: 8
+Cbo: 252205
+Endereço:
+  Tipo: RUA
+  Rua: FLAVIO SILVA
+  Número: 1058
+  Bairro: OLINDA
+  Cidade: UBERABA
+  Estado: MINAS GERAIS
+  CEP: 38055-530
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FLAVIO SILVA
+    Número: 1058
+    Bairro: OLINDA
+    Cidade: UBERABA
+    Estado: MINAS GERAIS
+    CEP: 38055-530
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CARIJOS
+    Tipo: R
+    Número: 398
+    Complemento: S
+    Bairro: JD STA CLARA
+    Cidade: UBERABA
+    Estado: MG
+    CEP: 38038-002
+    Data Atualizacao: 09/02/2012
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: JOSE CELSO CLAUDIO
+    Tipo: R
+    Número: 900
+    Complemento: AP 205
+    Bairro: JD CAMBURI
+    Cidade: VITORIA
+    Estado: ES
+    CEP: 29090-410
+    Data Atualizacao: 03/10/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: DAS CANARIAS
+    Tipo: R
+    Número: 1977
+    Complemento: AP 202
+    Bairro: STA BRANCA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31560-050
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: PERNAMBUCO
+    Tipo: R
+    Número: 1077
+    Complemento: EMPRESA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30130-155
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: PEDROGAO PEQUENO
+    Tipo: R
+    Número: 477
+    Complemento: AP 202
+    Bairro: PAQUETA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31340-300
+    Data Atualizacao: 26/07/2013
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: BRUNO LUIZ BARBOSA GOMES
+    Rua: 0000447
+    Número: PEDROGAO PEQUENO
+    Bairro: PAQUETA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31340-300
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: ELI SEABRA FILHO
+    Número: 0000405
+    Bairro: BURITIS
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 30575-740
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: PEDROGAO PEQUENO
+    Número: 0000447
+    Bairro: PAQUETA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31340-300
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (31) 98801-3004
+  - (31) 99185-7478
+  - (31) 99312-7784
+  - (31) 98329-1376
+  - (31) 99749-3108
+  - (34) 99163-1776
+  - (31) 3261-3058
+  - (31) 99738-3715
+  - (34) 98425-7560
+Paycom:
+  E-mail: brunogomes103@gmail.com
+  Created At: 2019-02-25 09:17:23
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Av. Presidente Carlos Luz
+    Número: 1275
+    Bairro: Caiçaras
+    Cidade: Belo Horizonte
+    Estado: MG
+    País: BRA
+    CEP: 31230-000
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 24/08/2019
+    Info Date: 21/12/2008
+    Mosaic: C08
+    Mosaic New: A02
+    Mosaic Secondary: A01
+    Income Bracket Id: 12
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CARIJOS
+      Número: 398
+      Complemento: S
+      Bairro: JD STA CLARA
+      Cidade: UBERABA
+      Estado: MG
+      CEP: 38038-002
+      Date Added: 13/07/2011
+    [2]
+      Tipo: R
+      Rua: JOSE CELSO CLAUDIO
+      Número: 900
+      Complemento: AP 205
+      Bairro: JD CAMBURI
+      Cidade: VITORIA
+      Estado: ES
+      CEP: 29090-410
+      Date Added: 19/05/2016
+    [3]
+      Tipo: R
+      Rua: DAS CANARIAS
+      Número: 1977
+      Complemento: AP 202
+      Bairro: STA BRANCA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31560-050
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: PERNAMBUCO
+      Número: 1077
+      Complemento: EMPRESA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 30130-155
+      Date Added: 07/06/2016
+    [5]
+      Tipo: R
+      Rua: PEDROGAO PEQUENO
+      Número: 477
+      Complemento: AP 202
+      Bairro: PAQUETA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31340-300
+      Date Added: 21/10/2012
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991631776
+      Ddd: 34
+      Tipo: 3
+      Classificacao: D
+      Date Added: 21/11/2011
+    [2]
+      Telefone: 32613058
+      Ddd: 31
+      Tipo: 2
+      Classificacao: C2
+      Date Added: 11/03/2014
+      Info Date: 28/04/2016
+    [3]
+      Telefone: 993127784
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 997383715
+      Ddd: 31
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 27/07/2017
+    [5]
+      Telefone: 984257560
+      Ddd: 34
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 25/01/2018
+  E-mails: (5 item(s))
+    [1]
+      E-mail: barbosa100@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+    [2]
+      E-mail: brunogomes103@gmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [3]
+      E-mail: fabriciocmacedo@gmail.com
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [4]
+      E-mail: bruno.gomes@bdobrazil.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: DESCONHECIDO
+      Date Added: 13/01/2016
+    [5]
+      E-mail: srxz@netsite.com.br
+      Priority: 5
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 577
+    CSB8 FAIXA: BAIXO
+    CSBA: 951
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 407.783.636-00
+      Nome: OLIMPIA FAUSTINA BARBOSA GOMES
+      Vinculo: MAE
+    [2]
+      CPF: 7486996600
+      Nome: BRUNA PATRICIA BARBOSA GOMES SANTOS
+      Vinculo: IRMA(O)
+  Pis: 12661544099
+  Tse:
+    Titulo: 139831580248
+    Zona: 312
+    Secao: 67
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO ALTO
+    RENDA PODER AQUISITIVO: 16789.63
+    FX PODER AQUISITIVO: Acima de R$ 11742
+    COD PODER AQUISITIVO: 7
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 108.619.316-45
+    Nome: TIAGO ADRIANO DE CASTRO
+    Logradouro: CARIJOS
+    Número: 744
+    Bairro: JD STA CLARA
+  [2]
+    CPF: 427.950.606-04
+    Nome: EDGARD ROSA GONCALVES
+    Logradouro: CARIJOS
+    Número: 398
+    Bairro: JD STA CLARA
+  [3]
+    CPF: 755.942.266-72
+    Nome: ALEXANDRE JOSE DOS SANTOS
+    Logradouro: CARIJOS
+    Número: 398
+    Bairro: JD STA CLARA
+  [4]
+    CPF: 719.210.016-15
+    Nome: APARECIDO DONIZETTI MENDES
+    Logradouro: CARIJOS
+    Número: 77
+    Bairro: JD STA CLARA
+  [5]
+    CPF: 109.923.706-80
+    Nome: DIOGO DOS REIS SOUSA
+    Logradouro: CARIJOS
+    Número: 77
+    Bairro: JD STA CLARA
+  [6]
+    CPF: 088.233.206-66
+    Nome: RAFAEL APARECIDO MARQUES BARBOSA
+    Logradouro: CARIJOS
+    Número: 398
+    Bairro: JD STA CLARA
+  [7]
+    CPF: 002.747.466-62
+    Nome: NELTON EDIONE ALVES DE DEUS
+    Logradouro: CARIJOS
+    Número: 77
+    Bairro: JD STA CLARA
+  [8]
+    CPF: 027.432.943-37
+    Nome: GILMAR DE SOUZA MENEZ
+    Logradouro: CARIJOS
+    Número: SN
+    Bairro: JD STA CLARA
+  [9]
+    CPF: 745.992.326-53
+    Nome: NELSON LINO DE JESUS JUNIOR
+    Logradouro: CARIJOS
+    Número: 77
+    Bairro: JD STA CLARA
+  [10]
+    CPF: 245.750.278-04
+    Nome: ANTONIO CARLOS BARBOZA
+    Logradouro: CARIJOS
+    Número: 211
+    Bairro: JD STA CLARA
+  [11]
+    CPF: 080.810.324-52
+    Nome: LUCIANO CESAR SANTOS OLIVEIRA
+    Logradouro: CARIJOS
+    Número: 33
+    Bairro: JD STA CLARA
+  [12]
+    CPF: 049.807.816-75
+    Nome: CLEBER BELMIRO DA SILVA
+    Logradouro: CARIJOS
+    Número: 77
+    Bairro: JD STA CLARA
+  [13]
+    CPF: 039.841.996-51
+    Nome: BRUNNA MORAIS DO NASCIMENTO
+    Logradouro: CARIJOS
+    Número: 98
+    Bairro: JD STA CLARA
+  [14]
+    CPF: 028.676.495-44
+    Nome: FABIO FERNANDES SANTOS
+    Logradouro: CARIJOS
+    Número: 398
+    Bairro: JD STA CLARA
+  [15]
+    CPF: 107.014.096-14
+    Nome: DENIS LOPES DOS REIS SILVA
+    Logradouro: CARIJOS
+    Número: 77
+    Bairro: JD STA CLARA
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (31) 99185-7478
+    Nome: R
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [2]
+    Telefone: (31) 99312-7784
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [3]
+    Telefone: (31) 98801-3004
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [4]
+    Telefone: (31) 98329-1376
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Cidade: BELO HORIZONTE
+    UF: MG
+  [5]
+    Telefone: (31) 99749-3108
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Cidade: BELO HORIZONTE
+    UF: MG
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (31) 98329-1376
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (31) 99312-7784
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (31) 98801-3004
+    Nome: BRUNO LUIZ BARBOSA GOMES
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (5 item(s))
+  - brunogomes103@gmail.com
+  - barbosa100@gmail.com
+  - fabriciocmacedo@gmail.com
+  - bruno.gomes@bdobrazil.com.br
+  - srxz@netsite.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 8
+Renda Estimativas:
+  Presumida:
+    Valor: 16269
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 16789.63
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (34) 99163-1776
+    Ddd: 34
+    Número: 991631776
+    Tipo: 3
+    Data Inclusao: 21/11/2011
+    Classificacao: D
+  [2]
+    Telefone: (31) 3261-3058
+    Ddd: 31
+    Número: 32613058
+    Tipo: CELULAR
+    Data Inclusao: 11/03/2014
+    Data Informacao: 28/04/2016
+    Classificacao: C2
+  [3]
+    Telefone: (31) 99312-7784
+    Ddd: 31
+    Número: 993127784
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: A0
+  [4]
+    Telefone: (31) 99738-3715
+    Ddd: 31
+    Número: 997383715
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A0
+  [5]
+    Telefone: (34) 98425-7560
+    Ddd: 34
+    Número: 984257560
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C2
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

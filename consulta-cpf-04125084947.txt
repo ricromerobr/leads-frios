@@ -1,0 +1,460 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04125084947
+Data/Hora:  02/10/2026, 17:25:01
+Tempo API:  773ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 041.250.849-47
+Nome: FABIANO ROBERTO RODRIGUES DE FREITAS
+Primeiro Nome: FABIANO
+Sobrenome: FREITAS
+Sexo: Masculino
+Data de Nascimento: 27/04/1983
+Nome da Mãe: MADALENA RODRIGUES MACHADO
+Nome do Pai: DOMINGOS DE FREITAS
+RG: 8067239
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PR
+Voter Id: 082702650698
+Mosaic: E17
+Ocupação: Motorista de carro de passeio
+Score:
+  Value: 65
+  Range: ALTISSIMO
+E-mail: SIMONEREDONDO@TERRA.COM.BR
+Federal Status: REGULAR
+Renda: 4016
+Income Bracket: 4
+Cbo: 21210
+Endereço:
+  Tipo: RUA
+  Rua: DO GIRASSOL
+  Bairro: SAO DIMAS
+  Cidade: COLOMBO
+  Estado: PARANA
+  CEP: 83411-410
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DO GIRASSOL
+    Bairro: SAO DIMAS
+    Cidade: COLOMBO
+    Estado: PARANA
+    CEP: 83411-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: NAO INF
+    Bairro: NAO INF
+    Cidade: CURITIBA - PR
+    Fonte: DATASUS
+  [3]
+    Rua: FRANCISCO XAVIER
+    Tipo: R
+    Número: 136
+    Bairro: FATIMA
+    Cidade: COLOMBO
+    Estado: PR
+    CEP: 83405-250
+    Data Atualizacao: 12/12/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: DO GIRASSOL
+    Tipo: R
+    Número: 250
+    Bairro: S DIMAS
+    Cidade: COLOMBO
+    Estado: PR
+    CEP: 83411-410
+    Data Atualizacao: 07/08/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DA PEDREIRA
+    Tipo: R
+    Número: 814
+    Complemento: AP 302
+    Bairro: CPO PEQUENO
+    Cidade: COLOMBO
+    Estado: PR
+    CEP: 83404-010
+    Data Atualizacao: 31/12/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DAS ORQUIDEAS
+    Tipo: R
+    Número: 39
+    Complemento: COL FA
+    Bairro: S DIMAS
+    Cidade: COLOMBO
+    Estado: PR
+    CEP: 83411-360
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: AZEMIRO FERREIRA DA SILVA
+    Tipo: R
+    Número: 19
+    Complemento: C C
+    Bairro: ROCA GRANDE
+    Cidade: COLOMBO
+    Estado: PR
+    CEP: 83402-010
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (41) 99735-2879
+  - (41) 99870-8526
+  - (41) 3037-5203
+  - +55 (41) 99810-2203
+  - 554195286814
+  - (41) 3675-6553
+  - (41) 99137-9024
+  - (41) 99528-6814
+  - (41) 99142-8075
+Cidade de Nascimento: MANDAGUARI - PR
+Cns: 700006364442301
+Rg Issue Date: 1260759600000
+Paycom:
+  E-mail: payer_11255940@meupatrocinio.com
+  Created At: 2021-04-23 06:39:42
+Endereços de Entrega: (2 item(s))
+  [1]
+    Tipo: 2
+    Rua: Av. Paulista
+    Número: 1636
+    Complemento: cj 706
+    Bairro: Bela vista
+    Cidade: Bela vista
+    Estado: SP
+    País: BRA
+    CEP: 01310-200
+  [2]
+    Tipo: 2
+    Rua: Av. Paulista
+    Número: 1636
+    Complemento: cj 706
+    Bairro: Bela Vista
+    Cidade: São Paulo
+    Estado: SP
+    País: BRA
+    CEP: 01310-200
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/12/2019
+    Info Date: 21/12/2008
+    Mosaic: E17
+    Mosaic New: H27
+    Mosaic Secondary: H26
+    Income Bracket Id: 6
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: FRANCISCO XAVIER
+      Número: 136
+      Bairro: FATIMA
+      Cidade: COLOMBO
+      Estado: PR
+      CEP: 83405-250
+      Date Added: 22/07/2015
+    [2]
+      Tipo: R
+      Rua: DO GIRASSOL
+      Número: 250
+      Bairro: S DIMAS
+      Cidade: COLOMBO
+      Estado: PR
+      CEP: 83411-410
+      Date Added: 13/04/2010
+    [3]
+      Tipo: R
+      Rua: DA PEDREIRA
+      Número: 814
+      Complemento: AP 302
+      Bairro: CPO PEQUENO
+      Cidade: COLOMBO
+      Estado: PR
+      CEP: 83404-010
+      Date Added: 23/06/2015
+    [4]
+      Tipo: R
+      Rua: DAS ORQUIDEAS
+      Número: 39
+      Complemento: COL FA
+      Bairro: S DIMAS
+      Cidade: COLOMBO
+      Estado: PR
+      CEP: 83411-360
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: AZEMIRO FERREIRA DA SILVA
+      Número: 19
+      Complemento: C C
+      Bairro: ROCA GRANDE
+      Cidade: COLOMBO
+      Estado: PR
+      CEP: 83402-010
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 36756553
+      Ddd: 41
+      Tipo: 1
+      Classificacao: C2
+      Date Added: 16/06/2011
+    [2]
+      Telefone: 991379024
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 30375203
+      Ddd: 41
+      Tipo: 1
+      Classificacao: B
+      Date Added: 02/12/2013
+      Info Date: 10/05/2013
+    [4]
+      Telefone: 995286814
+      Ddd: 41
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 16/09/2015
+    [5]
+      Telefone: 991428075
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (3 item(s))
+    [1]
+      E-mail: fabiano.r.r.freitas@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: luana_tnogueira@hotmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [3]
+      E-mail: simoneredondo@terra.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSBA: 65
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 6573019903
+      Nome: MADALENA RODRIGUES MACHADO
+      Vinculo: MAE
+  Pis: 19017855943
+  Tse:
+    Titulo: 82702650698
+    Zona: 186
+    Secao: 173
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 3348.39
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (3 item(s))
+  - fabiano.r.r.freitas@gmail.com
+  - luana_tnogueira@hotmail.com
+  - simoneredondo@terra.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 030.085.359-92
+    Nome: ANTONIA UCZENISKI GOLUNSKI
+    Logradouro: FRANCISCO XAVIER
+    Número: 57
+    Bairro: FATIMA
+  [2]
+    CPF: 430.195.408-28
+    Nome: LEANDRO DE ALMEIDA ANDRADE
+    Logradouro: FRANCISCO XAVIER
+    Número: 17
+    Bairro: FATIMA
+  [3]
+    CPF: 007.479.489-25
+    Nome: LUCIMARA MELO
+    Logradouro: FRANCISCO XAVIER
+    Número: 10
+    Bairro: FATIMA
+  [4]
+    CPF: 647.953.499-91
+    Nome: IOLANDA DA ROSA
+    Logradouro: FRANCISCO XAVIER
+    Número: 17
+    Bairro: FATIMA
+  [5]
+    CPF: 514.430.409-59
+    Nome: INES COSTA DE SOUZA
+    Logradouro: FRANCISCO XAVIER
+    Número: 17
+    Bairro: FATIMA
+  [6]
+    CPF: 906.972.519-34
+    Nome: GEOVANA COSTA
+    Logradouro: FRANCISCO XAVIER
+    Número: 136
+    Bairro: FATIMA
+  [7]
+    CPF: 773.752.899-72
+    Nome: SONEA MARA ALMEIDA
+    Logradouro: FRANCISCO XAVIER
+    Número: 28
+    Bairro: FATIMA
+  [8]
+    CPF: 241.348.309-82
+    Nome: LAURO PRESCHLAK
+    Logradouro: FRANCISCO XAVIER
+    Número: 152
+    Bairro: FATIMA
+  [9]
+    CPF: 078.203.849-21
+    Nome: ACNANDRA ONOFRE CORREA
+    Logradouro: FRANCISCO XAVIER
+    Número: 199
+    Bairro: FATIMA
+  [10]
+    CPF: 022.713.689-60
+    Nome: FABIANI CRISTINA FERREIRA
+    Logradouro: FRANCISCO XAVIER
+    Número: 235
+    Bairro: FATIMA
+  [11]
+    CPF: 734.707.919-53
+    Nome: NILZA VIEIRA
+    Logradouro: FRANCISCO XAVIER
+    Número: 28
+    Bairro: FATIMA
+  [12]
+    CPF: 175.451.029-91
+    Nome: ILSON RIBEIRO DE QUEIROZ
+    Logradouro: FRANCISCO XAVIER
+    Número: 199
+    Bairro: FATIMA
+  [13]
+    CPF: 965.586.019-15
+    Nome: ANALIA DE OLIVEIRA KUNTZ
+    Logradouro: FRANCISCO XAVIER
+    Número: 208
+    Bairro: FATIMA
+  [14]
+    CPF: 113.625.099-90
+    Nome: ESTEFANI SOARES BUENO
+    Logradouro: FRANCISCO XAVIER
+    Número: 145
+    Bairro: FATIMA
+  [15]
+    CPF: 014.509.619-08
+    Nome: HELIO COSTA JUNIOR
+    Logradouro: FRANCISCO XAVIER
+    Número: 136
+    Bairro: FATIMA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (41) 3037-5203
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 15JUN2012:16:05:47
+    Cel Contato: +5541998102203
+    Data Retirada: 05MAR2015:22:15:20
+    Tipo Cliente: Residencial
+E-mails: (3 item(s))
+  - simoneredondo@terra.com.br
+  - fabiano.r.r.freitas@gmail.com
+  - luana_tnogueira@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 4016
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 3348.39
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (41) 3675-6553
+    Ddd: 41
+    Número: 36756553
+    Tipo: FIXO
+    Data Inclusao: 16/06/2011
+    Classificacao: C2
+  [2]
+    Telefone: (41) 99137-9024
+    Ddd: 41
+    Número: 991379024
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (41) 3037-5203
+    Ddd: 41
+    Número: 30375203
+    Tipo: FIXO
+    Data Inclusao: 02/12/2013
+    Data Informacao: 10/05/2013
+    Classificacao: B
+  [4]
+    Telefone: (41) 99528-6814
+    Ddd: 41
+    Número: 995286814
+    Tipo: 3
+    Data Inclusao: 16/09/2015
+    Classificacao: A2
+  [5]
+    Telefone: (41) 99142-8075
+    Ddd: 41
+    Número: 991428075
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 782305
+Occupation Name: Motorista de carro de passeio
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

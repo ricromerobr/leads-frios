@@ -1,0 +1,435 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04533996817
+Data/Hora:  04/10/2026, 12:56:35
+Tempo API:  378ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 045.339.968-17
+Nome: RISOLENE BARBOSA DE VASCONCELOS
+Primeiro Nome: RISOLENE
+Sobrenome: VASCONCELOS
+Sexo: Feminino
+Data de Nascimento: 24/02/1963
+Nome da Mãe: HILDA BARBOSA DE VASCONCELOS
+Voter Id: 004502490132
+Mosaic: F18
+Score:
+  Value: 100
+  Range: ALTISSIMO
+E-mail: pri_caprioli@hotmail.com
+Additional Emails: (2 item(s))
+  - pri_caprioli@hotmail.com
+  - risolnebarbosa816@gmail.com
+Federal Status: REGULAR
+Renda: 954
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: TABAJARAS
+  Bairro: MOOCA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03121-010
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: TABAJARAS
+    Bairro: MOOCA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03121-010
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ALBERTO LUPO
+    Tipo: R
+    Número: 50
+    Complemento: C A
+    Bairro: PRQ DOS BANCARIOS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03923-150
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: ALBERTO LUPO
+    Tipo: R
+    Número: 150
+    Bairro: PRQ DOS BANCARIOS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03923-150
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TABAJARAS
+    Tipo: R
+    Número: 459
+    Complemento: B
+    Bairro: MOOCA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03121-010
+    Data Atualizacao: 03/08/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: PAES DE BARROS
+    Tipo: AV
+    Número: 1667
+    Complemento: AP 151
+    Bairro: MOOCA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03115-001
+    Data Atualizacao: 01/02/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: ALBERTOLUPO
+    Número: 0000475
+    Bairro: PARQUEDOSBANCARIOS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03923-150
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: ALBERTO LUPO
+    Número: 475
+    Complemento: CS - Casa: 1;
+    Bairro: SAO PAULO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03923-150
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 0
+Telefones: (13 item(s))
+  - (11) 2725-3738
+  - (11) 2935-5289
+  - (11) 91179-1420
+  - (11) 95035-1760
+  - (11) 2725-4227
+  - +55 (11) 99993-5880
+  - (11) 2725-7513
+  - (11) 2727-4359
+  - (11) 2721-1669
+  - (11) 97211-6690
+  - (11) 98104-5317
+  - (11) 96907-5085
+  - (11) 96362-1108
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Info Date: 30/11/2000
+    Mosaic: F18
+    Mosaic New: C06
+    Mosaic Secondary: B03
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ALBERTO LUPO
+      Número: 50
+      Complemento: C A
+      Bairro: PRQ DOS BANCARIOS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03923-150
+      Date Added: 29/10/2018
+    [2]
+      Tipo: R
+      Rua: ALBERTO LUPO
+      Número: 150
+      Bairro: PRQ DOS BANCARIOS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03923-150
+      Date Added: 29/09/2015
+    [3]
+      Tipo: R
+      Rua: TABAJARAS
+      Número: 459
+      Complemento: B
+      Bairro: MOOCA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03121-010
+      Date Added: 09/06/2015
+    [4]
+      Tipo: AV
+      Rua: PAES DE BARROS
+      Número: 1667
+      Complemento: AP 151
+      Bairro: MOOCA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03115-001
+      Date Added: 19/08/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 27211669
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 29/02/2012
+      Info Date: 17/03/2018
+    [2]
+      Telefone: 972116690
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/03/2015
+    [3]
+      Telefone: 981045317
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [4]
+      Telefone: 969075085
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+    [5]
+      Telefone: 963621108
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/09/2019
+      Info Date: 02/09/2019
+  Score:
+    CSB8: 115
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 100
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 3231678889
+      Nome: ROSELIA BARBOSA DE VASCONCELOS RIBEIRO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 345.421.018-60
+      Nome: PRISCILA BARBOSA DE VASCONCELOS CAPRIOLI
+      Vinculo: SOBRINHA(O)
+    [3]
+      CPF: 345.421.058-57
+      Nome: BEATRIZ BARBOSA DE VASCONCELOS SEOANES
+      Vinculo: SOBRINHA(O)
+    [4]
+      CPF: 7022891400
+      Nome: EDILSON PINHEIRO DE VASCONCELOS
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 248.522.928-76
+      Nome: ROSELANE BARBOSA DE VASCONCELOS
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 919.440.748-72
+      Nome: HILDA BARBOSA DE VASCONCELOS
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1138.61
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 260.849.188-08
+    Nome: ALTINA LOPES DA SILVA
+    Logradouro: ALBERTO LUPO
+    Número: 4
+    Bairro: PRQ DOS BANCARIOS
+  [2]
+    CPF: 330.448.128-10
+    Nome: EVERTON GOUVEIA DA SILVA
+    Logradouro: ALBERTO LUPO
+    Número: 70
+    Bairro: PRQ DOS BANCARIOS
+  [3]
+    CPF: 029.899.318-05
+    Nome: BENEDITO NILSON DE ARAUJO
+    Logradouro: ALBERTO LUPO
+    Número: 313
+    Bairro: PRQ DOS BANCARIOS
+  [4]
+    CPF: 695.618.698-53
+    Nome: NARCISO BARBOSA DA SILVA
+    Logradouro: ALBERTO LUPO
+    Número: 395
+    Bairro: PRQ DOS BANCARIOS
+  [5]
+    CPF: 617.930.865-91
+    Nome: JOELIO SANTOS NASCIMENTO
+    Logradouro: ALBERTO LUPO
+    Número: 111
+    Bairro: PRQ DOS BANCARIOS
+  [6]
+    CPF: 305.641.518-74
+    Nome: LUIZ CARLOS BISPO JUNIOR
+    Logradouro: ALBERTO LUPO
+    Número: 99
+    Bairro: PRQ DOS BANCARIOS
+  [7]
+    CPF: 936.234.374-68
+    Nome: JOSE SEVERINO PIQUENO
+    Logradouro: ALBERTO LUPO
+    Número: 308
+    Bairro: PRQ DOS BANCARIOS
+  [8]
+    CPF: 090.130.998-23
+    Nome: NILTON CESAR CELESTINO DA SILVA
+    Logradouro: ALBERTO LUPO
+    Número: 69
+    Bairro: PRQ DOS BANCARIOS
+  [9]
+    CPF: 044.018.138-04
+    Nome: MARIA TERESA GONCALVES DO VAL
+    Logradouro: ALBERTO LUPO
+    Número: 13
+    Bairro: PRQ DOS BANCARIOS
+  [10]
+    CPF: 273.334.068-90
+    Nome: ALEXANDRE MARTINS DE ARRUDA
+    Logradouro: ALBERTO LUPO
+    Número: 30
+    Bairro: PRQ DOS BANCARIOS
+  [11]
+    CPF: 378.672.008-86
+    Nome: SAHIMOM AUGUSTO AFONSO
+    Logradouro: ALBERTO LUPO
+    Número: 319
+    Bairro: PRQ DOS BANCARIOS
+  [12]
+    CPF: 936.234.374-68
+    Nome: JOSE SEVERINO PIQUENO
+    Logradouro: ALBERTO LUPO
+    Número: 427
+    Bairro: PRQ DOS BANCARIOS
+  [13]
+    CPF: 257.312.268-90
+    Nome: VALDINEI APARECIDA DOS SANTOS
+    Logradouro: ALBERTO LUPO
+    Número: 222
+    Bairro: PRQ DOS BANCARIOS
+  [14]
+    CPF: 015.541.653-77
+    Nome: FLAVIO LIMA RODRIGUES
+    Logradouro: ALBERTO LUPO
+    Número: 115
+    Bairro: PRQ DOS BANCARIOS
+  [15]
+    CPF: 260.835.538-22
+    Nome: ADRIANA APARECIDA DA SILVA NOCCE
+    Logradouro: ALBERTO LUPO
+    Número: 91
+    Bairro: PRQ DOS BANCARIOS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 95035-1760
+    Nome: RISOLENE BARBOSA DE VASCONCELOS
+    Cidade: SAO PAULO
+    UF: SP
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (11) 2725-4227
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 01JUN2019:16:48:52
+    Cel Contato: +5511999935880
+    Complemento: CS - Casa: 1;
+    Data Retirada: 30MAR2020:17:09:26
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 2725-7513
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Cel Contato: +5511999935880
+    Complemento: CS - Casa: 1;
+    Data Retirada: 06MAY2020:10:11:02
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (11) 2727-4359
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 05MAY2020:17:33:11
+    Cel Contato: +5511999935880
+    Complemento: CS - Casa: 1A;
+    Tipo Cliente: Residencial
+E-mails: (2 item(s))
+  - pri_caprioli@hotmail.com
+  - risolnebarbosa816@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 954
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1138.61
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2721-1669
+    Ddd: 11
+    Número: 27211669
+    Tipo: FIXO
+    Data Inclusao: 29/02/2012
+    Data Informacao: 17/03/2018
+    Classificacao: D2
+  [2]
+    Telefone: (11) 97211-6690
+    Ddd: 11
+    Número: 972116690
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: D
+  [3]
+    Telefone: (11) 98104-5317
+    Ddd: 11
+    Número: 981045317
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [4]
+    Telefone: (11) 96907-5085
+    Ddd: 11
+    Número: 969075085
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 96362-1108
+    Ddd: 11
+    Número: 963621108
+    Tipo: 3
+    Data Inclusao: 10/09/2019
+    Data Informacao: 02/09/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

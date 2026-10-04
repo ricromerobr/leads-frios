@@ -1,0 +1,306 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04504486148
+Data/Hora:  04/10/2026, 12:42:34
+Tempo API:  530ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 045.044.861-48
+Nome: LAIS CINTRA DE ALENCAR
+Primeiro Nome: LAIS
+Sobrenome: ALENCAR
+Sexo: Feminino
+Data de Nascimento: 29/08/1990
+Nome da Mãe: SILVANA OTOBONI CINTRA DE ALENCAR
+Score:
+  Value: 655
+  Range: BAIXO
+E-mail: laisalencar@hotmail.com
+Additional Emails: (1 item(s))
+  - laisalencar@hotmail.com
+Federal Status: REGULAR
+Renda: 980
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MARIA ARRUDA MULLER
+  Número: 146
+  Bairro: SANTA ROSA
+  Cidade: CUIABA
+  Estado: MATO GROSSO
+  CEP: 78040-130
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARIA ARRUDA MULLER
+    Número: 146
+    Bairro: SANTA ROSA
+    Cidade: CUIABA
+    Estado: MATO GROSSO
+    CEP: 78040-130
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Complemento: AP 13 BLOCO 4
+    Bairro: JARDIM BONFIGLIOLI
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05595-040
+    Fonte: SARAIVA
+  [3]
+    Rua: VALDEMAR FERREIRA
+    Tipo: AV
+    Número: 168
+    Complemento: AP 22
+    Bairro: BUTANTA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 05501-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: RUA MARIA ARRUDA MULLER
+    Número: 146
+    Bairro: SANTA ROSA
+    Estado: SP
+    CEP: 78040-130
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Saraiva:
+  Customer Id: 8428785
+  Telefone: (11) 7227-5084
+  E-mail: laisalencar@hotmail.com
+  Data de Nascimento: 29/08/1990
+Telefones: (5 item(s))
+  - (11) 7227-5084
+  - 553143728617
+  - (11) 93399-7023
+  - (11) 99722-7508
+  - (11) 97227-5084
+Paycom:
+  E-mail: laisalencar@hotmail.com
+  Created At: 2020-03-04 23:30:55
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua José do Patrocínio
+    Número: 777
+    Complemento: 872
+    Bairro: Jardim Nova Yorque
+    Cidade: Araçatuba
+    Estado: SP
+    País: BRA
+    CEP: 16018-310
+    Telephone: 55314372-8617
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/12/2019
+    Mosaic New: C06
+    Mosaic Secondary: C07
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: ALBERTO NASCIMENTO JUNIOR
+      Número: 178
+      Complemento: AP 13 BL 4
+      Bairro: JD BONFIGLIOLI
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05595-040
+      Date Added: 01/02/2018
+    [2]
+      Tipo: AV
+      Rua: VALDEMAR FERREIRA
+      Número: 168
+      Complemento: AP 22
+      Bairro: BUTANTA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 05501-000
+      Date Added: 02/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 997227508
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2014
+    [2]
+      Telefone: 972275084
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: laisalencar@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 258
+    CSB8 FAIXA: ALTO
+    CSBA: 655
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: SILVANA OTOBONI CINTRA DE ALENCAR
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 980.66
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.790.148-52
+    Nome: RICARDO GOMES DO REGO
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [2]
+    CPF: 419.236.178-77
+    Nome: AUGUSTO RAPP DE ESTON PINTO COELHO
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [3]
+    CPF: 010.470.008-49
+    Nome: JOSE EDMUR VIANNA COUTINHO
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [4]
+    CPF: 059.976.426-07
+    Nome: NATALIA OLIVEIRA RIGOTTI BRITO
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [5]
+    CPF: 277.954.878-90
+    Nome: PEDRO REFINETTI RODRIGUES MARTINS
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [6]
+    CPF: 308.764.908-28
+    Nome: KATIA CRISTINA SILVA MONTE
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [7]
+    CPF: 253.134.978-20
+    Nome: FABIO ALEXANDRE RIGOS ALVES
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [8]
+    CPF: 430.380.342-15
+    Nome: LILIA MARA MESQUITA DUTRA
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [9]
+    CPF: 354.738.918-61
+    Nome: ADRIAN EITI ARAKAKI
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [10]
+    CPF: 409.710.298-22
+    Nome: RUAN SOARES CARRAZEDO FERNANDES
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 63
+    Bairro: JD BONFIGLIOLI
+  [11]
+    CPF: 335.934.398-08
+    Nome: PATRICIA GALENI DA SILVA
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [12]
+    CPF: 327.951.288-37
+    Nome: ALBERTO RODRIGUES DE BESSA
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [13]
+    CPF: 097.891.228-45
+    Nome: RENATA JAZE RIGOS ALVES
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+  [14]
+    CPF: 291.456.038-98
+    Nome: PETERSON ALVES LIMA
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 86
+    Bairro: JD BONFIGLIOLI
+  [15]
+    CPF: 034.285.238-81
+    Nome: MARIA DORA RODRIGUES SIMOES GIGLIO
+    Logradouro: ALBERTO NASCIMENTO JUNIOR
+    Número: 178
+    Bairro: JD BONFIGLIOLI
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 93399-7023
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 24FEB2020
+    Ultima Recarga: 08SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 12/12/2019
+E-mails: (1 item(s))
+  - laisalencar@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 980
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 980.66
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (11) 99722-7508
+    Ddd: 11
+    Número: 997227508
+    Tipo: 3
+    Data Inclusao: 17/12/2014
+    Classificacao: D
+  [2]
+    Telefone: (11) 97227-5084
+    Ddd: 11
+    Número: 972275084
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A0
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

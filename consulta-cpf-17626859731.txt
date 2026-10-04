@@ -1,0 +1,312 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17626859731
+Data/Hora:  03/10/2026, 20:55:15
+Tempo API:  710ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 176.268.597-31
+Nome: DANILO RIBEIRO JACINTO
+Primeiro Nome: DANILO
+Sobrenome: JACINTO
+Sexo: Masculino
+Data de Nascimento: 24/01/2000
+Nome da Mãe: ANDREIA DA SILVA RIBEIRO JACINTO
+Nome do Pai: DANIEL JACINTO
+Score:
+  Value: 598
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 789
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: PADUA
+  Número: 397
+  Complemento: ND
+  Bairro: REDENTOR
+  Cidade: BELFORD ROXO
+  Estado: RIO DE JANEIRO
+  CEP: 26110-250
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PADUA
+    Número: 397
+    Complemento: ND
+    Bairro: REDENTOR
+    Cidade: BELFORD ROXO
+    Estado: RIO DE JANEIRO
+    CEP: 26110-250
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA PADUA
+    Número: 10
+    Bairro: JARDIM REDENTOR
+    Cidade: BELFORD ROXO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: PADUA
+    Tipo: R
+    Número: 7
+    Complemento: Q 15 Q LT 6
+    Bairro: REDENTOR
+    Cidade: BELFORD ROXO
+    Estado: RJ
+    CEP: 26110-250
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PADUA
+    Tipo: R
+    Número: 197
+    Complemento: Q 15 LT 6
+    Bairro: REDENTOR
+    Cidade: BELFORD ROXO
+    Estado: RJ
+    CEP: 26110-250
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: MARTIN LUTHER KING JR
+    Tipo: AV
+    Número: 4420
+    Complemento: BL 4 AP 101
+    Bairro: TOMAS COELHO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21220-300
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PADUA
+    Tipo: R
+    Número: 10
+    Complemento: BC
+    Bairro: REDENTOR
+    Cidade: BELFORD ROXO
+    Estado: RJ
+    CEP: 26110-250
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (21) 93300-0714
+  - (21) 99947-5603
+  - (21) 3300-0714
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: SAO JOAO DE MERITI - RJ
+Cns: 705103885859240
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 13/08/2019
+    Mosaic New: D11
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: PADUA
+      Número: 7
+      Complemento: Q 15 Q LT 6
+      Bairro: REDENTOR
+      Cidade: BELFORD ROXO
+      Estado: RJ
+      CEP: 26110-250
+      Date Added: 04/12/2019
+    [2]
+      Tipo: R
+      Rua: PADUA
+      Número: 197
+      Complemento: Q 15 LT 6
+      Bairro: REDENTOR
+      Cidade: BELFORD ROXO
+      Estado: RJ
+      CEP: 26110-250
+      Date Added: 18/11/2019
+    [3]
+      Tipo: AV
+      Rua: MARTIN LUTHER KING JR
+      Número: 4420
+      Complemento: BL 4 AP 101
+      Bairro: TOMAS COELHO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21220-300
+      Date Added: 16/10/2018
+    [4]
+      Tipo: R
+      Rua: PADUA
+      Número: 10
+      Complemento: BC
+      Bairro: REDENTOR
+      Cidade: BELFORD ROXO
+      Estado: RJ
+      CEP: 26110-250
+      Date Added: 05/04/2018
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 999475603
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/04/2018
+    [2]
+      Telefone: 33000714
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 18/11/2019
+      Info Date: 25/11/2019
+  Score:
+    CSB8: 581
+    CSB8 FAIXA: BAIXO
+    CSBA: 598
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 789.54
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 014.075.137-88
+    Nome: DUCLEA DOS SANTOS JACINTO
+    Logradouro: PADUA
+    Número: 175
+    Bairro: REDENTOR
+  [2]
+    CPF: 011.472.447-40
+    Nome: JADIR JOSE SOARES
+    Logradouro: PADUA
+    Número: 305
+    Bairro: REDENTOR
+  [3]
+    CPF: 467.268.457-15
+    Nome: JOSE EUDES DA SILVA NOGUEIRA
+    Logradouro: PADUA
+    Número: 166
+    Bairro: REDENTOR
+  [4]
+    CPF: 796.475.107-72
+    Nome: ROBSON DA SILVA PIMENTA
+    Logradouro: PADUA
+    Número: 70
+    Bairro: REDENTOR
+  [5]
+    CPF: 099.307.547-92
+    Nome: ALESSANDRA DE ALCANTARA NERI
+    Logradouro: PADUA
+    Número: 17
+    Bairro: REDENTOR
+  [6]
+    CPF: 033.362.237-50
+    Nome: PAULO ROBERTO VIEIRA
+    Logradouro: PADUA
+    Número: 74
+    Bairro: REDENTOR
+  [7]
+    CPF: 290.815.997-04
+    Nome: ALOISIO RIBEIRO FRANCO DE SA
+    Logradouro: PADUA
+    Número: 165
+    Bairro: REDENTOR
+  [8]
+    CPF: 669.791.887-04
+    Nome: JOSE CARLOS DA SILVA FERREIRA
+    Logradouro: PADUA
+    Número: 152
+    Bairro: REDENTOR
+  [9]
+    CPF: 016.777.525-13
+    Nome: CLEBER LOURENCO DOS SANTOS
+    Logradouro: PADUA
+    Número: 1
+    Bairro: REDENTOR
+  [10]
+    CPF: 071.457.347-70
+    Nome: JACIRA MARIA MENDES DE LIMA
+    Logradouro: PADUA
+    Número: 176
+    Bairro: REDENTOR
+  [11]
+    CPF: 127.093.417-19
+    Nome: SUHELLEN DA CONCEICAO LIMA
+    Logradouro: PADUA
+    Número: 8
+    Bairro: REDENTOR
+  [12]
+    CPF: 125.890.147-16
+    Nome: BIANCA GOMES CAETANO DOS SANTOS
+    Logradouro: PADUA
+    Número: 164
+    Bairro: REDENTOR
+  [13]
+    CPF: 303.331.647-68
+    Nome: JOSE GRACIAS RODRIGUES
+    Logradouro: PADUA
+    Número: 150
+    Bairro: REDENTOR
+  [14]
+    CPF: 009.280.187-09
+    Nome: ANA PAULA GOMES DOS SANTOS
+    Logradouro: PADUA
+    Número: 151
+    Bairro: REDENTOR
+  [15]
+    CPF: 709.928.007-49
+    Nome: ELIZEU IZIDIO DA SILVA
+    Logradouro: PADUA
+    Número: 420
+    Bairro: REDENTOR
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (21) 93300-0714
+    Nome: DANILO RIBEIRO JACINTO
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 789
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 789.54
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (21) 99947-5603
+    Ddd: 21
+    Número: 999475603
+    Tipo: 3
+    Data Inclusao: 05/04/2018
+    Classificacao: D
+  [2]
+    Telefone: (21) 3300-0714
+    Ddd: 21
+    Número: 33000714
+    Tipo: FIXO
+    Data Inclusao: 18/11/2019
+    Data Informacao: 25/11/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

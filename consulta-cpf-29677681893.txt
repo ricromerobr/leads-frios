@@ -1,0 +1,728 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  29677681893
+Data/Hora:  04/10/2026, 13:19:02
+Tempo API:  580ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 296.776.818-93
+Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+Primeiro Nome: GABRIEL
+Sobrenome: OLIVEIRA
+Sexo: Masculino
+Data de Nascimento: 08/04/1981
+Nome da Mãe: CRISTINA HELENA R OLIVEIRA
+Voter Id: 196216950183
+Mosaic: A01
+Ocupação: Médico anestesiologista
+Score:
+  Value: 944
+  Range: BAIXISSIMO RISCO
+E-mail: gabrielredondano@yahoo.com
+Additional Emails: (4 item(s))
+  - gabrielredondano@yahoo.com
+  - gabrielredondano@yahoo.com.br
+  - anestesiacampinas@bol.com.br
+  - GABRIELREDONDANO@YAHOO.COM
+Federal Status: REGULAR
+Renda: 1863
+Income Bracket: 2
+Cbo: 225151
+Endereço:
+  Tipo: RUA
+  Rua: PERCILIO NETO
+  Número: 628
+  Bairro: PARQUE TAQUARAL
+  Cidade: CAMPINAS
+  Estado: SAO PAULO
+  CEP: 13087-090
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PERCILIO NETO
+    Número: 628
+    Bairro: PARQUE TAQUARAL
+    Cidade: CAMPINAS
+    Estado: SAO PAULO
+    CEP: 13087-090
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA COELHO NETO
+    Número: 15
+    Complemento: AP 94
+    Bairro: VILA ITAPURA
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13023-020
+    Fonte: SARAIVA
+  [3]
+    Rua: ROBERTO SIMONSEN
+    Tipo: R
+    Número: 404
+    Bairro: JD BELA VISTA
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13076-416
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ANDRADE NEVES
+    Tipo: AV
+    Número: 402
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13013-908
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: PERCILIO NETO
+    Número: 0000628
+    Bairro: PARQUE TAQUARAL
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13087-090
+    Fonte: ASSECC
+  [6]
+    Tipo: RUA
+    Rua: R ENG JOSE F B HOMEM DE MELLO. 1160 TOR A
+    Número: 1160
+    Complemento: APT 63
+    Bairro: FAZENDA S QUIRINO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13091-700
+    Fonte: NET
+  [7]
+    Tipo: AVENIDA
+    Rua: AV BENJAMIN CONSTANT 1971
+    Número: 1971
+    Complemento: APT 1604
+    Bairro: CAMBUI
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13025-005
+    Fonte: NET
+  [8]
+    Rua: R PERCILIO NETO
+    Número: 628
+    Bairro: PARQUE TAQUARAL
+    Estado: SP
+    CEP: 13087-090
+    Fonte: VIVO_POS
+  [9]
+    Rua: R PRES KENNEDY
+    Número: 75
+    Bairro: STO ANTONIO
+    Estado: SP
+    CEP: 13970-380
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 5
+  List: (5 item(s))
+    [1]
+      Marca: I
+      Modelo: BMW X4 XDRIVE28I
+      Ano: 2016
+    [2]
+      Marca: HONDA
+      Modelo: CIVIC EXL CVT
+      Ano: 2018
+    [3]
+      Marca: I
+      Modelo: PORSCHE CAYENNE COUPE
+      Ano: 2020
+    [4]
+      Marca: I
+      Modelo: AUDI Q5 2.0TFSI
+      Ano: 2018
+    [5]
+      Marca: I
+      Modelo: PORSCHE BOXSTER
+      Ano: 2019
+Telefones: (17 item(s))
+  - (19) 99772-2111
+  - (19) 99738-9492
+  - (19) 98126-2525
+  - (19) 99774-8066
+  - (19) 99971-0869
+  - (19) 9608-8181
+  - 551999608818
+  - (19) 99608-8181
+  - (19) 99609-8005
+  - (19) 99986-8566
+  - (19) 99931-3868
+  - (19) 99918-0190
+  - (19) 3367-5672
+  - (19) 3235-2886
+  - (92) 3233-4771
+  - (11) 97158-8889
+  - (19) 99695-7725
+Cns: 709807090808697
+Saraiva:
+  Customer Id: 3246084
+  Telefone: (19) 9608-8181
+  E-mail: gabrielredondano@yahoo.com.br
+  Data de Nascimento: 08/04/1981
+Paycom:
+  E-mail: gabrielredondano@yahoo.com.br
+  Data de Nascimento: 08/04/1981
+  Created At: 2021-05-30 16:23:59
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Engenheiro José Francisco Bento Homem de 
+    Número: 1160
+    Complemento: Ap 63 A
+    Bairro: Fazenda São Quirino
+    Cidade: Campinas
+    Estado: SP
+    País: BRA
+    CEP: 13091-700
+    Telephone: 551999608818
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 10/08/2019
+    Info Date: 26/01/2009
+    Mosaic: A01
+    Mosaic New: A02
+    Mosaic Secondary: A01
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ROBERTO SIMONSEN
+      Número: 404
+      Bairro: JD BELA VISTA
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13076-416
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: COELHO NETO
+      Número: 15
+      Complemento: AP 94
+      Bairro: VL ITAPURA
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13023-020
+      Date Added: 09/12/2014
+    [3]
+      Tipo: AV
+      Rua: ANDRADE NEVES
+      Número: 402
+      Bairro: CENTRO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13013-908
+      Date Added: 30/04/2015
+    [4]
+      Tipo: R
+      Rua: PERCILIO NETO
+      Número: 628
+      Complemento: CS 5
+      Bairro: PRQ TAQUARAL
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13087-090
+      Date Added: 24/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32352886
+      Ddd: 19
+      Tipo: 2
+      Classificacao: D
+      Date Added: 11/06/2008
+      Info Date: 29/03/2005
+    [2]
+      Telefone: 32334771
+      Ddd: 92
+      Tipo: 1
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 12/05/2008
+    [3]
+      Telefone: 971588889
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/10/2013
+    [4]
+      Telefone: 981262525
+      Ddd: 19
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 08/11/2017
+    [5]
+      Telefone: 996957725
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: gabrielredondano@yahoo.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: anestesiacampinas@bol.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [3]
+      E-mail: gabrielredondano@yahoo.com.br
+      Priority: 3
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 975
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 944
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 915.408.605-15
+      Nome: LARISSA DE CASTRO E SA OLIVEIRA
+      Vinculo: CONJUGE
+    [2]
+      CPF: 260.843.765-68
+      Nome: EURIDICE GONCALVES DE CASTRO E SA
+      Vinculo: SOGRA
+    [3]
+      CPF: 313.499.328-76
+      Nome: GERUZZA MARIA REDONDANO DE OLIVEIRA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 967.292.288-49
+      Nome: CRISTINA HELENA REDONDANO DE OLIVEIRA
+      Vinculo: MAE
+  Tse:
+    Titulo: 196216950183
+    Zona: 54
+    Secao: 32
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 053.537.968-45
+    Nome: MARIA AMELIA ALVES GARCIA
+    Logradouro: ROBERTO SIMONSEN
+    Número: 40
+    Bairro: JD BELA VISTA
+  [2]
+    CPF: 044.832.418-00
+    Nome: LAZARA ANTONIA ROSA
+    Logradouro: ROBERTO SIMONSEN
+    Número: 96
+    Bairro: JD BELA VISTA
+  [3]
+    CPF: 405.145.428-29
+    Nome: JOSE OTAVIO MARQUES DE CARVALHO
+    Logradouro: ROBERTO SIMONSEN
+    Número: 260
+    Bairro: JD BELA VISTA
+  [4]
+    CPF: 120.616.288-00
+    Nome: SILMARA ROCHA DE ALMEIDA
+    Logradouro: ROBERTO SIMONSEN
+    Número: 360
+    Bairro: JD BELA VISTA
+  [5]
+    CPF: 217.060.718-84
+    Nome: VANESSA DEL VECHIO GONCALVES
+    Logradouro: ROBERTO SIMONSEN
+    Número: 337
+    Bairro: JD BELA VISTA
+  [6]
+    CPF: 717.691.538-53
+    Nome: MARIO LUIZ GASPARINI
+    Logradouro: ROBERTO SIMONSEN
+    Número: 620
+    Bairro: JD BELA VISTA
+  [7]
+    CPF: 350.456.958-19
+    Nome: CAROLINA COSTA COELHO DA SILVA
+    Logradouro: ROBERTO SIMONSEN
+    Número: 493
+    Bairro: JD BELA VISTA
+  [8]
+    CPF: 373.643.718-85
+    Nome: JULIANA GARCIA
+    Logradouro: ROBERTO SIMONSEN
+    Número: 133
+    Bairro: JD BELA VISTA
+  [9]
+    CPF: 102.232.868-93
+    Nome: RITA DE CASSIA LORENZI
+    Logradouro: ROBERTO SIMONSEN
+    Número: 754
+    Bairro: JD BELA VISTA
+  [10]
+    CPF: 414.985.258-81
+    Nome: RODRIGO FREITAS CANDIDO
+    Logradouro: ROBERTO SIMONSEN
+    Número: 729
+    Bairro: JD BELA VISTA
+  [11]
+    CPF: 089.618.518-45
+    Nome: SALVADOR FERNANDO MORAD
+    Logradouro: ROBERTO SIMONSEN
+    Número: 696
+    Bairro: JD BELA VISTA
+  [12]
+    CPF: 219.725.118-07
+    Nome: YOLANDA MONTANHEIRO RIBOLLI
+    Logradouro: ROBERTO SIMONSEN
+    Número: 481
+    Bairro: JD BELA VISTA
+  [13]
+    CPF: 216.441.158-75
+    Nome: ROBERTA JARDIM GORI
+    Logradouro: ROBERTO SIMONSEN
+    Número: 742
+    Bairro: JD BELA VISTA
+  [14]
+    CPF: 437.198.136-49
+    Nome: AGDA BARBOSA CAMPOS DAIBERT
+    Logradouro: ROBERTO SIMONSEN
+    Número: 37
+    Bairro: JD BELA VISTA
+  [15]
+    CPF: 102.554.238-02
+    Nome: VERONICA FACHINI BRANDAO
+    Logradouro: ROBERTO SIMONSEN
+    Número: 278
+    Bairro: JD BELA VISTA
+Telefones Assecc: (10 item(s))
+  [1]
+    Telefone: (19) 99738-9492
+    Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [2]
+    Telefone: (19) 99772-2111
+    Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [3]
+    Telefone: (19) 98126-2525
+    Nome: GABRIEL  JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [4]
+    Telefone: (19) 99608-8181
+    Nome: GABRIEL  JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [5]
+    Telefone: (19) 99609-8005
+    Nome: GABRIEL  JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [6]
+    Telefone: (19) 99986-8566
+    Nome: GABRIEL  JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [7]
+    Telefone: (19) 99774-8066
+    Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [8]
+    Telefone: (19) 99971-0869
+    Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [9]
+    Telefone: (19) 99931-3868
+    Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+  [10]
+    Telefone: (19) 99918-0190
+    Nome: GABRIEL JOSE REDONDANO DE OLIVEIRA
+    Cidade: CAMPINAS
+    UF: SP
+Net Contratos: (3 item(s))
+  [1]
+    Contrato: 20602970
+    Operadora: 52
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 26/02/2020
+    Tempo Base: 5
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 202002
+    Geo:
+      Ibge Municipio: 3509502
+      Ddd Origem: 19
+      Estado Nome: SAO PAULO
+    Nascimento: 08/04/1971
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 21867
+      Classe Social: A
+      Score: 810
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 1000
+        Net: 954
+        Ctv: 1000
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 39
+  [2]
+    Contrato: 18661802
+    Operadora: 52
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 05/07/2016
+    Tempo Base: 50
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201607
+    Geo:
+      Ibge Municipio: 3509502
+      Ddd Origem: 19
+      Estado Nome: SAO PAULO
+    Nascimento: 08/04/1981
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 16635
+      Classe Social: A
+      Score: 894
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 1000
+        Net: 954
+        Ctv: 1000
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 39
+  [3]
+    Contrato: 10865255
+    Operadora: 52
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 17/06/2009
+    Tempo Base: 135
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 200906
+    Geo:
+      Ibge Municipio: 3509502
+      Ddd Origem: 19
+      Estado Nome: SAO PAULO
+    Nascimento: 08/04/1981
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 14684
+      Classe Social: A
+      Score: 793
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 1000
+        Net: 954
+        Ctv: 1000
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 39
+Vivo Linhas: (9 item(s))
+  [1]
+    Telefone: (19) 99971-0869
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 07/10/2019
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [2]
+    Telefone: (19) 99931-3868
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 07/10/2019
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [3]
+    Telefone: (19) 99774-8066
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (19) 9774-8066
+    Plano: PF_POS_PURO
+    Data Instalacao: 07/08/1998
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [4]
+    Telefone: (19) 99608-8181
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (19) 9608-8181
+    Plano: PF_POS_PURO
+    Data Instalacao: 05/08/2004
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [5]
+    Telefone: (19) 99986-8566
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_POS_PURO
+    Data Instalacao: 21/01/2014
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [6]
+    Telefone: (19) 98126-2525
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (19) 99816-5253
+    Plano: PF_POS_PURO
+    Data Instalacao: 10/08/2015
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [7]
+    Telefone: (19) 99609-8005
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (19) 9609-8005
+    Plano: PF_POS_PURO
+    Data Instalacao: 05/08/2004
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [8]
+    Telefone: (19) 99738-9492
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (19) 9738-9492
+    Plano: PF_POS_PLACA
+    Data Instalacao: 19/10/2011
+    Valor Fatura: 649.97
+    Mes Referencia: 202010
+  [9]
+    Telefone: (19) 99918-0190
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 21/01/2019
+    Valor Fatura: 54.99
+    Mes Referencia: 202009
+E-mails: (3 item(s))
+  - gabrielredondano@yahoo.com
+  - gabrielredondano@yahoo.com.br
+  - anestesiacampinas@bol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1863
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Media Familiar:
+    Valor: 21867
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (19) 3235-2886
+    Ddd: 19
+    Número: 32352886
+    Tipo: CELULAR
+    Data Inclusao: 11/06/2008
+    Data Informacao: 29/03/2005
+    Classificacao: D
+  [2]
+    Telefone: (92) 3233-4771
+    Ddd: 92
+    Número: 32334771
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 12/05/2008
+    Classificacao: D
+  [3]
+    Telefone: (11) 97158-8889
+    Ddd: 11
+    Número: 971588889
+    Tipo: 3
+    Data Inclusao: 04/10/2013
+    Classificacao: D
+  [4]
+    Telefone: (19) 98126-2525
+    Ddd: 19
+    Número: 981262525
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: C2
+  [5]
+    Telefone: (19) 99695-7725
+    Ddd: 19
+    Número: 996957725
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+Occupation Code: 225151
+Occupation Name: Médico anestesiologista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

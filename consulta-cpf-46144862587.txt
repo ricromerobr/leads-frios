@@ -1,0 +1,359 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  46144862587
+Data/Hora:  03/10/2026, 19:47:48
+Tempo API:  389ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 461.448.625-87
+Nome: DOMINGOS BISPO FERREIRA FILHO
+Primeiro Nome: DOMINGOS
+Sobrenome: FILHO
+Sexo: Masculino
+Data de Nascimento: 03/12/1968
+Nome da Mãe: NOEMIA MARIA DE JESUS
+Nome do Pai: DOMINGOS BISPO FERREIRA
+RG: 0817516131
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: BA
+Mosaic: I31
+Ocupação: Tratorista agrícola
+Score:
+  Value: 205
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 1238
+Income Bracket: 2
+Cbo: 641015
+Endereço:
+  Tipo: RUA
+  Rua: JOAO AMARO GOMES
+  Número: 555
+  Bairro: TANCREDO NEVES
+  Cidade: TEIXEIRA DE FREITAS
+  Estado: BAHIA
+  CEP: 45993-261
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOAO AMARO GOMES
+    Número: 555
+    Bairro: TANCREDO NEVES
+    Cidade: TEIXEIRA DE FREITAS
+    Estado: BAHIA
+    CEP: 45993-261
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CHINA
+    Número: 70
+    Bairro: LIBERDADE I
+    Cidade: TEIXEIRA DE FREITAS - BA
+    Fonte: DATASUS
+  [3]
+    Rua: CHILE
+    Tipo: R
+    Número: 150
+    Bairro: LIBERDADE I
+    Cidade: TEIXEIRA DE FREITAS
+    Estado: BA
+    CEP: 45993-434
+    Data Atualizacao: 28/05/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CHINA
+    Tipo: R
+    Número: 70
+    Bairro: LIBERDADE I
+    Cidade: TEIXEIRA DE FREITAS
+    Estado: BA
+    CEP: 45993-437
+    Data Atualizacao: 06/11/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: UM
+    Tipo: R
+    Número: 10
+    Complemento: CJ I
+    Bairro: URBIS I
+    Cidade: TEIXEIRA DE FREITAS
+    Estado: BA
+    CEP: 45990-832
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: CHINA
+    Número: 0000070
+    Bairro: LIBERDADE I
+    Cidade: TEIXEIRA DE FREITAS
+    Estado: BA
+    CEP: 45993-437
+    Fonte: ASSECC
+  [7]
+    Rua: RUA R CHILE
+    Número: 150
+    Bairro: LIBERDADE I
+    Estado: BA
+    CEP: 45993-434
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (73) 3291-4831
+Cidade de Nascimento: CAMACAN - BA
+Cns: 702109744968699
+Rg Issue Date: 771044400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/12/2019
+    Mosaic: I31
+    Mosaic New: H26
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: CHILE
+      Número: 150
+      Bairro: LIBERDADE I
+      Cidade: TEIXEIRA DE FREITAS
+      Estado: BA
+      CEP: 45993-434
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: JOAO AMARO GOMES
+      Número: 555
+      Bairro: TANCREDO NEVES
+      Cidade: TEIXEIRA DE FREITAS
+      Estado: BA
+      CEP: 45993-261
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: CHINA
+      Número: 70
+      Bairro: LIBERDADE I
+      Cidade: TEIXEIRA DE FREITAS
+      Estado: BA
+      CEP: 45993-437
+      Date Added: 19/02/2018
+    [4]
+      Tipo: R
+      Rua: UM
+      Número: 10
+      Complemento: CJ I
+      Bairro: URBIS I
+      Cidade: TEIXEIRA DE FREITAS
+      Estado: BA
+      CEP: 45990-832
+      Date Added: 09/12/2014
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 998002347
+      Ddd: 73
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [2]
+      Telefone: 999344131
+      Ddd: 73
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  Score:
+    CSB8: 335
+    CSB8 FAIXA: MEDIO
+    CSBA: 205
+    CSBA FAIXA: ALTO
+  Parentes: (7 item(s))
+    [1]
+      CPF: 254.135.975-68
+      Nome: NOEMIA MARIA DE JESUS
+      Vinculo: MAE
+    [2]
+      CPF: 524.066.285-15
+      Nome: ERCILIA FERREIRA DE JESUS
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 708.813.325-34
+      Nome: ELOI DE JESUS CHAGAS
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 603.121.815-15
+      Nome: DINA BISPO FERREIRA
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 936.850.095-91
+      Nome: NIVALDO FRANCISCO CHAGAS
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 132.882.567-11
+      Nome: FABRICIO FERREIRA DE JESUS
+      Vinculo: SOBRINHA(O)
+    [7]
+      CPF: 367.993.718-02
+      Nome: DIEGO FERREIRA DE OLIVEIRA
+      Vinculo: SOBRINHA(O)
+  Pis: 12678527044
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 412.57
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (73) 99934-4131
+  - (73) 99813-0474
+  - (73) 99800-2347
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 465.572.705-59
+    Nome: MARGARIDA PEREIRA DE NOVAIS
+    Logradouro: CHILE
+    Número: 268
+    Bairro: LIBERDADE I
+  [2]
+    CPF: 426.117.096-53
+    Nome: ELZIRA ROCHA CAMPOS
+    Logradouro: CHILE
+    Número: 9876
+    Bairro: LIBERDADE I
+  [3]
+    CPF: 817.250.515-91
+    Nome: EDSON CARLOS GOMES DAS VIRGENS
+    Logradouro: CHILE
+    Número: 265
+    Bairro: LIBERDADE I
+  [4]
+    CPF: 434.159.625-04
+    Nome: DALCI DE JESUS GASPAR
+    Logradouro: CHILE
+    Número: 269
+    Bairro: LIBERDADE I
+  [5]
+    CPF: 513.344.106-15
+    Nome: ETELVINO PEREIRA DA SILVA
+    Logradouro: CHILE
+    Número: 118
+    Bairro: LIBERDADE I
+  [6]
+    CPF: 832.333.345-91
+    Nome: MARIA FERREIRA DE JESUS SOUZA
+    Logradouro: CHILE
+    Número: 497
+    Bairro: LIBERDADE I
+  [7]
+    CPF: 287.962.332-49
+    Nome: JOAO DE JESUS
+    Logradouro: CHILE
+    Número: 481
+    Bairro: LIBERDADE I
+  [8]
+    CPF: 547.334.215-91
+    Nome: COSME OLIVEIRA DOS SANTOS
+    Logradouro: CHILE
+    Número: 330
+    Bairro: LIBERDADE I
+  [9]
+    CPF: 335.713.505-10
+    Nome: GILDASIO DA SILVA QUEIROZ
+    Logradouro: CHILE
+    Número: 162
+    Bairro: LIBERDADE I
+  [10]
+    CPF: 065.455.745-40
+    Nome: EDUARDO NASCIMENTO SUZART
+    Logradouro: CHILE
+    Número: 117
+    Bairro: LIBERDADE I
+  [11]
+    CPF: 040.131.175-92
+    Nome: LUCIANA DE JESUS SANTOS
+    Logradouro: CHILE
+    Número: 233
+    Bairro: LIBERDADE I
+  [12]
+    CPF: 283.323.265-91
+    Nome: CARLITO SOUZA COSTA
+    Logradouro: CHILE
+    Número: 265
+    Bairro: LIBERDADE I
+  [13]
+    CPF: 056.883.565-45
+    Nome: CAMILA DOS SANTOS LOPES
+    Logradouro: CHILE
+    Número: 26
+    Bairro: LIBERDADE I
+  [14]
+    CPF: 014.683.565-42
+    Nome: FABIANO CAMPOS QUEIROZ
+    Logradouro: CHILE
+    Número: 162
+    Bairro: LIBERDADE I
+  [15]
+    CPF: 258.490.855-72
+    Nome: ERMITA FERREIRA COELHO
+    Logradouro: CHILE
+    Número: 115
+    Bairro: LIBERDADE I
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (73) 99934-4131
+    Nome: DOMINGOS BISPO FERREIRA FILHO
+    Cidade: TEIXEIRA DE FREITAS
+    UF: BA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (73) 99813-0474
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 27DEC2019
+    Ultima Recarga: 28JUL2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 08/12/2019
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1238
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 412.57
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (73) 99800-2347
+    Ddd: 73
+    Número: 998002347
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [2]
+    Telefone: (73) 99934-4131
+    Ddd: 73
+    Número: 999344131
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Occupation Code: 641015
+Occupation Name: Tratorista agrícola
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

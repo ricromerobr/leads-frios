@@ -1,0 +1,409 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04561979905
+Data/Hora:  02/10/2026, 16:01:01
+Tempo API:  459ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 045.619.799-05
+Nome: DULCILENE GOMES BRASIL
+Primeiro Nome: DULCILENE
+Sobrenome: BRASIL
+Sexo: Feminino
+Data de Nascimento: 25/09/1974
+Nome da Mãe: ADIVAIR GOMES BRASIL
+Voter Id: 080046470698
+Mosaic: D13
+Ocupação: Comerciante varejista
+Score:
+  Value: 618
+  Range: BAIXO
+E-mail: dulcilene.brasil@bol.com.br
+Federal Status: REGULAR
+Renda: 2087
+Income Bracket: 3
+Cbo: 141410
+Endereço:
+  Tipo: RUA
+  Rua: CINCO DE JUNHO
+  Número: 851
+  Bairro: CENTRO HISTORICO
+  Cidade: PARANAGUA
+  Estado: PARANA
+  CEP: 83203-140
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CINCO DE JUNHO
+    Número: 851
+    Bairro: CENTRO HISTORICO
+    Cidade: PARANAGUA
+    Estado: PARANA
+    CEP: 83203-140
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CINCO DE JUNHO
+    Tipo: R
+    Número: 145
+    Bairro: CENTRO HISTORICO
+    Cidade: PARANAGUA
+    Estado: PR
+    CEP: 83203-140
+    Data Atualizacao: 16/10/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: CINCO DE JUNHO
+    Tipo: R
+    Número: 856
+    Bairro: CENTRO HISTORICO
+    Cidade: PARANAGUA
+    Estado: PR
+    CEP: 83203-140
+    Data Atualizacao: 24/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: EUGENIO JOSE DE SOUZA
+    Tipo: R
+    Número: 200
+    Complemento: C 1
+    Bairro: VL CRUZEIRO
+    Cidade: PARANAGUA
+    Estado: PR
+    CEP: 83221-360
+    Data Atualizacao: 19/04/2011
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (41) 98529-8585
+  - (41) 98719-1508
+  - (41) 98428-7062
+  - (41) 3425-1311
+  - (41) 98482-5832
+  - (41) 99133-4925
+  - (41) 99221-2278
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/10/2019
+    Mosaic: D13
+    Mosaic New: G22
+    Mosaic Secondary: C07
+    Income Bracket Id: 4
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: CINCO DE JUNHO
+      Número: 851
+      Bairro: CENTRO HISTORICO
+      Cidade: PARANAGUA
+      Estado: PR
+      CEP: 83203-140
+      Date Added: 17/12/2013
+    [2]
+      Tipo: R
+      Rua: CINCO DE JUNHO
+      Número: 145
+      Bairro: CENTRO HISTORICO
+      Cidade: PARANAGUA
+      Estado: PR
+      CEP: 83203-140
+      Date Added: 21/10/2012
+    [3]
+      Tipo: R
+      Rua: CINCO DE JUNHO
+      Número: 856
+      Bairro: CENTRO HISTORICO
+      Cidade: PARANAGUA
+      Estado: PR
+      CEP: 83203-140
+      Date Added: 03/08/2009
+    [4]
+      Tipo: R
+      Rua: EUGENIO JOSE DE SOUZA
+      Número: 200
+      Complemento: C 1
+      Bairro: VL CRUZEIRO
+      Cidade: PARANAGUA
+      Estado: PR
+      CEP: 83221-360
+      Date Added: 13/04/2010
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34251311
+      Ddd: 41
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/12/2009
+      Info Date: 19/12/2018
+    [2]
+      Telefone: 984287062
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [3]
+      Telefone: 984825832
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [4]
+      Telefone: 991334925
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 992212278
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: dulcilene.brasil@bol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [2]
+      E-mail: gustavo@zapzuniformes.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+  Score:
+    CSBA: 618
+    CSBA FAIXA: BAIXO
+  Parentes: (12 item(s))
+    [1]
+      CPF: 104.760.709-37
+      Nome: GABRIELA BRASIL HENRIQUE
+      Vinculo: FILHA(O)
+    [2]
+      CPF: 3874484971
+      Nome: EZEQUIEL GOMES BRASIL
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 6020353923
+      Nome: LEIA GOMES BRASIL
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 7720477901
+      Nome: SOLANGE GOMES BRASIL
+      Vinculo: IRMA(O)
+    [5]
+      CPF: 6891734908
+      Nome: EUCINEIA GOMES BRASIL CHAVES
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 5895141994
+      Nome: ISAAC GOMES BRASIL
+      Vinculo: IRMA(O)
+    [7]
+      CPF: 649.963.109-44
+      Nome: GENESIA GOMES
+      Vinculo: AVO
+    [8]
+      CPF: 941.531.679-91
+      Nome: NORMA GOMES BRASIL DOS SANTOS
+      Vinculo: IRMA(O)
+    [9]
+      CPF: 7244427905
+      Nome: GABRIEL BRASIL HENRIQUE
+      Vinculo: FILHA(O)
+    [10]
+      CPF: 6163869907
+      Nome: GADIEL GOMES BRASIL
+      Vinculo: IRMA(O)
+    [11]
+      CPF: 1610615913
+      Nome: ADIVAIR GOMES BRASIL
+      Vinculo: MAE
+    [12]
+      CPF: 184.847.279-04
+      Nome: LIRIO MOREIRA
+      Vinculo: TIA(O)
+  Tse:
+    Titulo: 80046470698
+    Zona: 5
+    Secao: 102
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2087.18
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (2 item(s))
+  - dulcilene.brasil@bol.com.br
+  - gustavo@zapzuniformes.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 029.318.149-70
+    Nome: JAQUELINE MACHADO SANTOS
+    Logradouro: CINCO DE JUNHO
+    Número: 816
+    Bairro: CENTRO HISTORICO
+  [2]
+    CPF: 027.644.309-81
+    Nome: EDISON DO ROSARIO
+    Logradouro: CINCO DE JUNHO
+    Número: 816
+    Bairro: CENTRO HISTORICO
+  [3]
+    CPF: 056.717.397-64
+    Nome: DIRCEU HENRIQUE NASCIMENTO
+    Logradouro: CINCO DE JUNHO
+    Número: 850
+    Bairro: CENTRO HISTORICO
+  [4]
+    CPF: 052.062.419-03
+    Nome: REGIANE APARECIDA FERNANDES
+    Logradouro: CINCO DE JUNHO
+    Número: 53
+    Bairro: CENTRO HISTORICO
+  [5]
+    CPF: 443.686.669-68
+    Nome: VALDENIL ROCHA PEDRO
+    Logradouro: CINCO DE JUNHO
+    Número: 759
+    Bairro: CENTRO HISTORICO
+  [6]
+    CPF: 051.395.739-11
+    Nome: LIDIANA MACHADO DA COSTA
+    Logradouro: CINCO DE JUNHO
+    Número: 846
+    Bairro: CENTRO HISTORICO
+  [7]
+    CPF: 022.510.419-90
+    Nome: DILVA SOUZA DOS SANTOS ALVES
+    Logradouro: CINCO DE JUNHO
+    Número: 846
+    Bairro: CENTRO HISTORICO
+  [8]
+    CPF: 021.932.249-00
+    Nome: FLAVIO DANIEL ROSA
+    Logradouro: CINCO DE JUNHO
+    Número: 801
+    Bairro: CENTRO HISTORICO
+  [9]
+    CPF: 056.343.459-79
+    Nome: FRANCIELE MARTINS DO AMARAL
+    Logradouro: CINCO DE JUNHO
+    Número: 3
+    Bairro: CENTRO HISTORICO
+  [10]
+    CPF: 373.518.699-87
+    Nome: EDEVALDO APARECIDO GOLTZ
+    Logradouro: CINCO DE JUNHO
+    Número: 519
+    Bairro: CENTRO HISTORICO
+  [11]
+    CPF: 218.162.908-07
+    Nome: JOSE CARLOS OLIVEIRA DO NASCIMENTO
+    Logradouro: CINCO DE JUNHO
+    Número: 816
+    Bairro: CENTRO HISTORICO
+  [12]
+    CPF: 072.582.839-00
+    Nome: JOSE EMIDEO DE ARAUJO
+    Logradouro: CINCO DE JUNHO
+    Número: 1276
+    Bairro: CENTRO HISTORICO
+  [13]
+    CPF: 051.383.269-61
+    Nome: ELAINE NOVAIS DOS SANTOS
+    Logradouro: CINCO DE JUNHO
+    Número: 11
+    Bairro: CENTRO HISTORICO
+  [14]
+    CPF: 045.582.759-19
+    Nome: RAFAEL JADSON DE OLIVEIRA CAMPOS
+    Logradouro: CINCO DE JUNHO
+    Número: 370
+    Bairro: CENTRO HISTORICO
+  [15]
+    CPF: 073.746.479-80
+    Nome: VALERIA ALVES DA CRUZ ROZA
+    Logradouro: CINCO DE JUNHO
+    Número: 825
+    Bairro: CENTRO HISTORICO
+E-mails: (2 item(s))
+  - dulcilene.brasil@bol.com.br
+  - gustavo@zapzuniformes.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2087
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2087.18
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (41) 3425-1311
+    Ddd: 41
+    Número: 34251311
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Data Informacao: 19/12/2018
+    Classificacao: D
+  [2]
+    Telefone: (41) 98428-7062
+    Ddd: 41
+    Número: 984287062
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [3]
+    Telefone: (41) 98482-5832
+    Ddd: 41
+    Número: 984825832
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (41) 99133-4925
+    Ddd: 41
+    Número: 991334925
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (41) 99221-2278
+    Ddd: 41
+    Número: 992212278
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 141410
+Occupation Name: Comerciante varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

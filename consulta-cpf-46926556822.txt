@@ -1,0 +1,224 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  46926556822
+Data/Hora:  03/10/2026, 19:16:34
+Tempo API:  769ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 469.265.568-22
+Nome: MARCOS ANTONIO CATARINO
+Primeiro Nome: MARCOS
+Sobrenome: CATARINO
+Sexo: Masculino
+Data de Nascimento: 19/04/2001
+Nome da Mãe: JOICE PATRICIA CLAUDIANO CATARINO
+Nome do Pai: ANTONIO LUIS CATARINO
+RG: 575599674
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Ocupação: Auxiliar de escritório
+Score:
+  Value: 0
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 442
+Income Bracket: 1
+Cbo: 411005
+Endereço:
+  Tipo: RUA
+  Rua: PEDRO ARCHANJO
+  Número: 100
+  Bairro: NORBERTO J RIBEIRO
+  Cidade: MORRO AGUDO
+  Estado: SAO PAULO
+  CEP: 14640-000
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PEDRO ARCHANJO
+    Número: 100
+    Bairro: NORBERTO J RIBEIRO
+    Cidade: MORRO AGUDO
+    Estado: SAO PAULO
+    CEP: 14640-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE THOMAZ NETO
+    Número: 352
+    Bairro: MIGUEL FIATKOSKI
+    Cidade: MORRO AGUDO - SP
+    Fonte: DATASUS
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (16) 99325-5789
+  - 551696902001
+  - (16) 99119-6448
+Datasus Phones: (1 item(s))
+  - (16) 99158-7142
+Cidade de Nascimento: MORRO AGUDO - SP
+Cns: 709206238291237
+Rg Issue Date: 1369191600000
+Paycom:
+  E-mail: Marcosnois55@gmail.com
+  Data de Nascimento: 19/04/2001
+  Created At: 2020-07-03 04:36:38
+E-mail: marcosnois55@gmail.com
+Additional Emails: (1 item(s))
+  - marcosnois55@gmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Antônio Beletate
+    Número: 285
+    Bairro: José Benedeti
+    Cidade: Morro Agudo SP
+    Estado: SP
+    País: BRA
+    CEP: 14640-000
+    Telephone: 551696902001
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/12/2019
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: PEDRO ARCHANJO
+      Número: 100
+      Cidade: MORRO AGUDO
+      Estado: SP
+      CEP: 14640-000
+      Date Added: 03/10/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 225.84
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.091.098-28
+    Nome: EVA FERREIRA DUARTE DE SOUZA
+    Logradouro: PERU
+    Número: 264
+    Bairro: CENTRO
+  [2]
+    CPF: 051.218.738-08
+    Nome: CLEUSA ROCHA DA SILVA
+    Logradouro: NOVE DE JULHO
+    Número: 62
+    Bairro: CENTRO
+  [3]
+    CPF: 281.063.218-94
+    Nome: LUIS FERNANDO CAMARGO
+    Logradouro: MEXICO
+    Número: 827
+  [4]
+    CPF: 052.428.118-11
+    Nome: CAETANO NUNES DA COSTA
+    Logradouro: SEIS DE JANEIRO
+    Número: 1060
+  [5]
+    CPF: 422.763.678-73
+    Nome: JAINI CRISTINA TEIXEIRA BRAGA
+    Logradouro: INACIO PINTO FERRAZ
+    Número: 259
+    Bairro: SOBRADO
+  [6]
+    CPF: 398.197.748-37
+    Nome: AUGUSTO CESAR SABINO COSTA
+    Logradouro: SETE DE SETEMBRO
+    Número: 2025
+    Bairro: CENTRO
+  [7]
+    CPF: 433.890.528-01
+    Nome: GABRIELA DOS SANTOS RODRIGUES
+    Logradouro: JOVERT BUCK
+    Número: 373
+    Bairro: CENTRO
+  [8]
+    CPF: 433.890.528-01
+    Nome: GABRIELA DOS SANTOS RODRIGUES
+    Logradouro: JOSE JORGE JUNQUEIRA
+    Número: 1011
+    Bairro: CENTRO
+  [9]
+    CPF: 438.108.818-21
+    Nome: DIEGO RAFAEL RIBEIRO LOPES
+    Logradouro: JOSE NOBRE
+    Número: 144
+    Bairro: CENTRO
+  [10]
+    CPF: 439.908.898-26
+    Nome: ELIZABETE MURGI
+    Logradouro: DOSMAR FIGUEIREDO JUNIOR
+    Número: 296
+    Bairro: JD EUROPA
+  [11]
+    CPF: 052.916.948-74
+    Nome: ADILSON MARCOS F DIONIZIO
+    Logradouro: MARIA LIPORINE MEIRELES
+    Número: 1090
+    Bairro: CENTRO
+  [12]
+    CPF: 048.202.278-74
+    Nome: FATIMA EVA FELIX DA SILVA
+    Logradouro: GENESIO JOSE RIBEIRO
+    Número: 247
+  [13]
+    CPF: 048.012.023-49
+    Nome: RAIMUNDO PEREIRA DO NASCIMENTO
+    Logradouro: JERONIMO
+    Número: 1
+    Bairro: ZONA RURAL
+  [14]
+    CPF: 047.907.708-85
+    Nome: RAIMUNDO DE MIRANDA
+    Logradouro: FRANCISCO DENIBOTI
+    Número: 56
+  [15]
+    CPF: 047.907.888-22
+    Nome: SUELI PEREIRA
+    Logradouro: JORGE TOMAZELLI
+    Número: 372
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (16) 99119-6448
+    Nome: MARCOS ANTONIO CATARINO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - marcosnois55@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 442
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 225.84
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Occupation Code: 411005
+Occupation Name: Auxiliar de escritório
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

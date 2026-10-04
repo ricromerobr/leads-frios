@@ -1,0 +1,335 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  10786292423
+Data/Hora:  03/10/2026, 22:09:25
+Tempo API:  709ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 107.862.924-23
+Nome: ROSICLEIDE DOS SANTOS
+Primeiro Nome: ROSICLEIDE
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 07/09/1988
+Nome da Mãe: MARIA DO CARMO DE ALENCAR
+Nome do Pai: LUIZ VANDERLEI DOS SANTOS
+RG: 8922919
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: PE
+Voter Id: 081964050868
+Mosaic: J35
+Score:
+  Value: 82
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 353.19
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: JOAQUIM DUARTE MACHADO
+  Número: 365
+  Complemento: CS
+  Bairro: VILA BAZU
+  Cidade: FRANCO DA ROCHA
+  Estado: SAO PAULO
+  CEP: 07807-020
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOAQUIM DUARTE MACHADO
+    Número: 365
+    Complemento: CS
+    Bairro: VILA BAZU
+    Cidade: FRANCO DA ROCHA
+    Estado: SAO PAULO
+    CEP: 07807-020
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CINEMA
+    Número: 65
+    Bairro: MANGABEIRA
+    Cidade: RECIFE - PE
+    Fonte: DATASUS
+  [3]
+    Rua: SI MANDASSAIA
+    Número: SN
+    Bairro: SIT MANDASSAIA
+    Cidade: BREJO DA MADRE DE DEUS
+    Estado: PE
+    CEP: 55170-000
+    Data Atualizacao: 29/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MANDASSAIA
+    Tipo: SIT
+    Número: 5
+    Complemento: PROX ESCO MU P
+    Bairro: MANDASSAIA
+    Cidade: BREJO DA MADRE DE DEUS
+    Estado: PE
+    CEP: 55170-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: JOAQUIM DUARTE MACHADO
+    Número: 0000365
+    Bairro: VILA BAZU
+    Cidade: FRANCO DA ROCHA
+    Estado: SP
+    CEP: 07807-020
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (11) 95831-3559
+  - +55 (11) 95831-3559
+  - (11) 93266-5118
+  - (11) 95702-3313
+  - (11) 95702-9485
+  - (11) 99968-0696
+Datasus Phones: (1 item(s))
+  - (81) 9636-0938
+Cidade de Nascimento: GODOFREDO VIANA - MA
+Cns: 706806229838024
+Rg Issue Date: 1263783600000
+Paycom:
+  E-mail: srosicleidedossantos@gmail.com
+  Created At: 2021-06-29 16:19:27
+E-mail: srosicleidedossantos@gmail.com
+Additional Emails: (1 item(s))
+  - srosicleidedossantos@gmail.com
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Joaquim Duarte Machado
+    Número: 365
+    Bairro: Vila Bazu
+    Cidade: Franco da Rocha
+    Estado: SP
+    País: BRA
+    CEP: 07807-020
+    Telephone: +55 (11) 95831-3559
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 05/10/2019
+    Rg Issuer: SDS
+    Mosaic: J35
+    Mosaic New: J33
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Rua: SI MANDASSAIA
+      Número: SN
+      Bairro: SIT MANDASSAIA
+      Cidade: BREJO DA MADRE DE DEUS
+      Estado: PE
+      CEP: 55170-000
+      Date Added: 04/12/2014
+    [2]
+      Tipo: R
+      Rua: JOAQUIM DUARTE MACHADO
+      Número: 365
+      Bairro: VL BAZU
+      Cidade: FRANCO DA ROCHA
+      Estado: SP
+      CEP: 07807-020
+      Date Added: 23/07/2018
+    [3]
+      Tipo: SIT
+      Rua: MANDASSAIA
+      Número: 5
+      Complemento: PROX ESCO MU P
+      Bairro: MANDASSAIA
+      Cidade: BREJO DA MADRE DE DEUS
+      Estado: PE
+      CEP: 55170-000
+      Date Added: 24/07/2014
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 957023313
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [2]
+      Telefone: 957029485
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 20/07/2017
+    [3]
+      Telefone: 999680696
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 08/11/2017
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 82
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DO CARMO DE ALENCAR
+      Vinculo: MAE
+  Tse:
+    Titulo: 81964050868
+    Zona: 54
+    Secao: 33
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 353.19
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 386.361.584-00
+    Nome: ALICE MARIA DE SALES NEVES
+    Logradouro: ISMAREL CORDEIO DE MEL
+    Número: 42
+    Bairro: CENTRO
+  [2]
+    CPF: 000.991.521-42
+    Nome: NAZANIA GOVEIA DE SOUSA
+    Logradouro: L CECILIO DE SANTANA
+    Número: 36
+    Bairro: S DOMIGOS
+  [3]
+    CPF: 216.932.458-50
+    Nome: VIVIANE MARIA DE LIMA
+    Logradouro: SI MANDASSAIA
+    Número: 20
+    Bairro: RURAL
+  [4]
+    CPF: 051.621.944-84
+    Nome: VALDOMIRO FRANCISCO DO NASCIMENTO JUNIOR
+    Logradouro: LEOPOLDINA
+    Número: 83
+    Bairro: PINGA FOGO
+  [5]
+    CPF: 065.329.994-07
+    Nome: GILSON DE OLIVEIRA SILVA
+    Logradouro: BARRA FARIAS
+    Número: 10
+    Bairro: BARRA FARIAS
+  [6]
+    CPF: 051.029.864-81
+    Nome: IVONEIDE PEREIRA DE ARAUJO SANTOS
+    Logradouro: PREDRO GUENES
+    Número: 81
+    Bairro: CENTRO
+  [7]
+    CPF: 071.031.644-52
+    Nome: CILIANE DA CONCEICAO ARAUJO
+    Logradouro: SOMBRAES
+    Número: 72
+    Bairro: S DOMINGO
+  [8]
+    CPF: 050.054.124-84
+    Nome: JIVANILDO FRANCISCO DA SILVA
+    Logradouro: ANTONIO VIEIRA DE ARAUJO
+    Número: 14
+  [9]
+    CPF: 035.169.144-83
+    Nome: JOSE WELLINGTON MONTEIRO
+    Logradouro: UM NOSSA SRA DE FATIMA NN
+    Número: 44
+    Bairro: S DOMINGOS
+  [10]
+    CPF: 048.804.784-66
+    Nome: AUSSANGELA RAMOS DE ARAUJO
+    Logradouro: LUIS DE BRITO
+    Número: 248
+    Bairro: CENTRO
+  [11]
+    CPF: 048.707.414-90
+    Nome: JOSEFA DAS NEVES CORDEIRO
+    Logradouro: DE FATIMA
+    Número: 52
+  [12]
+    CPF: 069.495.984-75
+    Nome: VALDEBERTO JOSE SANTOS DA CRUZ
+    Logradouro: DAMIAO
+    Número: 311
+    Bairro: S DOMINGOS
+  [13]
+    CPF: 048.467.124-35
+    Nome: VALDICE DE SOUSA LIMA
+    Logradouro: CARLOS
+    Número: 173
+  [14]
+    CPF: 048.420.774-17
+    Nome: ANDERSON FELIPE NEVES DE ARAUJO
+    Logradouro: CAPITULINO MARIO FALCAO
+    Número: 108
+  [15]
+    CPF: 032.783.481-17
+    Nome: JANICLEIS SANTOS DA SILVA
+    Logradouro: BRASIL
+    Número: 88
+    Bairro: S DOMINGOS
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (11) 93266-5118
+    Nome: ROSICLEIDE DOS SANTOS SILVA
+    Cidade: FRANCO DA ROCHA
+    UF: SP
+  [2]
+    Telefone: (11) 95831-3559
+    Nome: ROSICLEIDE DOS SANTOS SILVA
+    Cidade: SP
+    UF: FRANCO DA ROCHA
+E-mails: (1 item(s))
+  - srosicleidedossantos@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 353.19
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 353.19
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (11) 95702-3313
+    Ddd: 11
+    Número: 957023313
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [2]
+    Telefone: (11) 95702-9485
+    Ddd: 11
+    Número: 957029485
+    Tipo: 3
+    Data Inclusao: 20/07/2017
+    Classificacao: D
+  [3]
+    Telefone: (11) 99968-0696
+    Ddd: 11
+    Número: 999680696
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: C
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,282 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14670899740
+Data/Hora:  03/10/2026, 22:38:13
+Tempo API:  694ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 146.708.997-40
+Nome: KAIQUE MATTOS DO PRADO
+Primeiro Nome: KAIQUE
+Sobrenome: PRADO
+Sexo: Masculino
+Data de Nascimento: 16/10/1995
+Nome da Mãe: VANDA SIQUEIRA DE MATTOS
+Ocupação: Administrador
+Score:
+  Value: 200
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1243
+Income Bracket: 2
+Cbo: 717020
+Endereço:
+  Tipo: RUA
+  Rua: ROBERTO DA SILVEIRA
+  Número: 520
+  Complemento: Q 70 LT 8
+  Bairro: VL CARVALHO VILA INHOMIRIM
+  Cidade: MAGE
+  Estado: RIO DE JANEIRO
+  CEP: 25935-514
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ROBERTO DA SILVEIRA
+    Número: 520
+    Complemento: Q 70 LT 8
+    Bairro: VL CARVALHO VILA INHOMIRIM
+    Cidade: MAGE
+    Estado: RIO DE JANEIRO
+    CEP: 25935-514
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MARGARIDA
+    Tipo: R
+    Número: 66
+    Bairro: VL CARVALHO VILA INHOMIRIM
+    Cidade: MAGE
+    Estado: RJ
+    CEP: 25935-816
+    Data Atualizacao: 06/03/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: ROBERTO DA SILVEIRA
+    Tipo: R
+    Número: 66
+    Complemento: R MARIA MARGARIDA
+    Bairro: VL CARVALHO VILA INHOMIRIM
+    Cidade: MAGE
+    Estado: RJ
+    CEP: 25935-678
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (21) 98963-5352
+  - (21) 98764-7347
+  - (21) 4134-0650
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 08/08/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: MARGARIDA
+      Número: 66
+      Bairro: VL CARVALHO VILA INHOMIRIM
+      Cidade: MAGE
+      Estado: RJ
+      CEP: 25935-816
+      Date Added: 28/03/2017
+    [2]
+      Tipo: R
+      Rua: ROBERTO DA SILVEIRA
+      Número: 66
+      Complemento: R MARIA MARGARIDA
+      Bairro: VL CARVALHO VILA INHOMIRIM
+      Cidade: MAGE
+      Estado: RJ
+      CEP: 25935-678
+      Date Added: 03/01/2017
+    [3]
+      Tipo: AV
+      Rua: ROBERTO DA SILVEIRA
+      Número: 520
+      Complemento: Q 70 LT 8
+      Bairro: VL CARVALHO VILA INHOMIRIM
+      Cidade: MAGE
+      Estado: RJ
+      CEP: 25935-514
+      Date Added: 07/08/2018
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 987647347
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [2]
+      Telefone: 989635352
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 22/10/2015
+    [3]
+      Telefone: 41340650
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 17/11/2019
+  Score:
+    CSB8: 407
+    CSB8 FAIXA: MEDIO
+    CSBA: 200
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: VANDA SIQUEIRA DE MATTOS
+      Vinculo: MAE
+  Pis: 13920873814
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 294.44
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 094.087.167-01
+    Nome: ANDERSON VELASCO BRAGA
+    Logradouro: MARGARIDA
+    Número: 278
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [2]
+    CPF: 114.957.207-80
+    Nome: SABRINA MIRANDA CANCIO
+    Logradouro: MARGARIDA
+    Número: 379
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [3]
+    CPF: 163.915.597-08
+    Nome: CAROLINA ANDRADE DE SOUZA ALMEIDA
+    Logradouro: MARGARIDA
+    Número: 43
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [4]
+    CPF: 157.642.097-30
+    Nome: ANDERSON FERREIRA DA SILVA
+    Logradouro: MARGARIDA
+    Número: SN
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [5]
+    CPF: 138.827.787-50
+    Nome: RENATA RORIZ DA SILVA
+    Logradouro: MARGARIDA
+    Número: 64
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [6]
+    CPF: 128.042.447-84
+    Nome: ALESSANDRA CONCEICAO CARDOSO DE ARAUJO
+    Logradouro: MARGARIDA
+    Número: SN
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [7]
+    CPF: 096.657.017-03
+    Nome: JOSENI SAMPAIO RANGEL
+    Logradouro: MARGARIDA
+    Número: 220
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [8]
+    CPF: 154.612.417-94
+    Nome: PATRICK SEPULVEDA RIBEIRO RODRIGUES
+    Logradouro: MARGARIDA
+    Número: 301
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [9]
+    CPF: 036.546.187-31
+    Nome: ELISANGELA SOUZA DOS SANTOS
+    Logradouro: MARGARIDA
+    Número: 167
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [10]
+    CPF: 146.982.567-80
+    Nome: BEATRIZ DO NASCIMENTO RAMOS
+    Logradouro: MARGARIDA
+    Número: 279
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [11]
+    CPF: 011.177.047-50
+    Nome: HAROLDO SIQUEIRA DE MATTOS
+    Logradouro: MARGARIDA
+    Número: 66
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [12]
+    CPF: 901.879.387-68
+    Nome: ROSANGELA GARLOPPE
+    Logradouro: MARGARIDA
+    Número: 215
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [13]
+    CPF: 139.122.497-33
+    Nome: DANIEL DIAS LEONARDO MARTINS
+    Logradouro: MARGARIDA
+    Número: 43
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [14]
+    CPF: 096.695.007-02
+    Nome: EDINALDO DA SILVA RAMOS
+    Logradouro: MARGARIDA
+    Número: 279
+    Bairro: VL CARVALHO VILA INHOMIRIM
+  [15]
+    CPF: 100.516.167-42
+    Nome: DEIVID BATISTA DOS SANTOS
+    Logradouro: MARGARIDA
+    Número: 379
+    Bairro: VL CARVALHO VILA INHOMIRIM
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1243
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 294.44
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (21) 98764-7347
+    Ddd: 21
+    Número: 987647347
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [2]
+    Telefone: (21) 98963-5352
+    Ddd: 21
+    Número: 989635352
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: A0
+  [3]
+    Telefone: (21) 4134-0650
+    Ddd: 21
+    Número: 41340650
+    Tipo: FIXO
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,375 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00870590537
+Data/Hora:  03/10/2026, 18:58:39
+Tempo API:  238ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 008.705.905-37
+Nome: ROSANGELA DOS SANTOS OLIVEIRA
+Primeiro Nome: ROSANGELA
+Sobrenome: OLIVEIRA
+Sexo: Feminino
+Data de Nascimento: 09/02/1980
+Nome da Mãe: RITA FERREIRA DOS SANTOS
+Nome do Pai: MANOEL NUNES DOS SANTOS
+RG: 144870
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: MT
+Voter Id: 082321350531
+Mosaic: I31
+Ocupação: Servente de obras
+Score:
+  Value: 45
+  Range: ALTISSIMO
+Federal Status: REGULAR
+Renda: 1067
+Income Bracket: 2
+Cbo: 717020
+Endereço:
+  Tipo: AVENIDA
+  Rua: ANIBAL PEDREIRA
+  Bairro: CENTRO
+  Cidade: SAO GONCALO DOS CAMPOS
+  Estado: BAHIA
+  CEP: 44330-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: ANIBAL PEDREIRA
+    Bairro: CENTRO
+    Cidade: SAO GONCALO DOS CAMPOS
+    Estado: BAHIA
+    CEP: 44330-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DAS FLORES
+    Número: 175
+    Bairro: TAPERA
+    Cidade: SAO GONCALO DOS CAMPOS - BA
+    Fonte: DATASUS
+  [3]
+    Rua: PO TAPERA
+    Número: 175
+    Complemento: R DAS FLORES
+    Bairro: POV TAPERA
+    Cidade: SAO GONCALO DOS CAMPOS
+    Estado: BA
+    CEP: 44330-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ONZE
+    Tipo: R
+    Número: 90
+    Bairro: LAMARAO
+    Cidade: ARACAJU
+    Estado: SE
+    CEP: 49088-120
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DAS FLORES
+    Tipo: R
+    Número: 207
+    Cidade: SAO GONCALO DOS CAMPOS
+    Estado: BA
+    CEP: 44330-000
+    Data Atualizacao: 01/11/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PEIXOTO GOMIDE
+    Tipo: R
+    Número: 742
+    Complemento: AP 12
+    Bairro: JD PAULISTA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 01409-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: DAS FLORES
+    Tipo: R
+    Número: 175
+    Bairro: SUBAE
+    Cidade: FEIRA DE SANTANA
+    Estado: BA
+    CEP: 44079-196
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: FIAT
+      Modelo: MAREA WEEKEND SX
+      Ano: 2001
+Datasus Phones: (2 item(s))
+  - (75) 98104-3291
+  - (61) 3315-2425
+Cidade de Nascimento: SALVADOR - BA
+Cns: 700000145471602
+Rg Issue Date: 809751600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/12/2019
+    Mosaic: I31
+    Mosaic New: J33
+    Mosaic Secondary: H26
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Rua: PO TAPERA
+      Número: 175
+      Complemento: R DAS FLORES
+      Bairro: POV TAPERA
+      Cidade: SAO GONCALO DOS CAMPOS
+      Estado: BA
+      CEP: 44330-000
+      Date Added: 13/12/2011
+    [2]
+      Tipo: R
+      Rua: ONZE
+      Número: 90
+      Bairro: LAMARAO
+      Cidade: ARACAJU
+      Estado: SE
+      CEP: 49088-120
+      Date Added: 12/03/2018
+    [3]
+      Tipo: R
+      Rua: DAS FLORES
+      Número: 207
+      Cidade: SAO GONCALO DOS CAMPOS
+      Estado: BA
+      CEP: 44330-000
+      Date Added: 11/10/2006
+    [4]
+      Tipo: R
+      Rua: PEIXOTO GOMIDE
+      Número: 742
+      Complemento: AP 12
+      Bairro: JD PAULISTA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 01409-000
+      Date Added: 25/02/2011
+    [5]
+      Tipo: R
+      Rua: DAS FLORES
+      Número: 175
+      Bairro: SUBAE
+      Cidade: FEIRA DE SANTANA
+      Estado: BA
+      CEP: 44079-196
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 36223000
+      Ddd: 75
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 22/11/2006
+    [2]
+      Telefone: 32840331
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 01/02/2011
+    [3]
+      Telefone: 41789449
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 01/02/2011
+    [4]
+      Telefone: 982414788
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  Score:
+    CSB8: 105
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 45
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: RITA FERREIRA DOS SANTOS
+      Vinculo: MAE
+  Pis: 16543148730
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 178.81
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (6 item(s))
+  - (75) 98289-5403
+  - (75) 98248-4473
+  - (75) 3622-3000
+  - (11) 3284-0331
+  - (11) 4178-9449
+  - (11) 98241-4788
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 450.442.795-87
+    Nome: VALTER AGUIAR DA SILVA
+    Logradouro: MERCES LOTEAMENTO T MACHADO
+    Número: SN
+  [2]
+    CPF: 024.558.405-65
+    Nome: LARA GOES D AFFONSECA
+    Logradouro: ANTONIO HENRIQUE DE O
+    Número: 30
+    Bairro: CENTRO
+  [3]
+    CPF: 025.949.165-95
+    Nome: JOELMA MOREIRA DA SILVA SODRE
+    Logradouro: MARIA BARBOSA MAGALHAES
+    Número: 163
+    Bairro: MURILO LEITE
+  [4]
+    CPF: 027.975.085-48
+    Nome: ADAILTON PEREIRA DIAS
+    Logradouro: SETE PORTAS
+    Número: SN
+    Bairro: CENTRO
+  [5]
+    CPF: 021.315.535-44
+    Nome: CRISTIANE DA CRUZ ARAUJO
+    Logradouro: DA PROVIDENCIA
+    Número: 13
+    Bairro: JOAO DURVAL
+  [6]
+    CPF: 026.349.685-66
+    Nome: SIMONE SANTOS DE SOUZA
+    Logradouro: ANTONIO DE OLIVEIRA
+    Número: 13
+    Bairro: CENTRO SAO GONCALO D
+  [7]
+    CPF: 033.330.315-66
+    Nome: ROMILTON NUNES
+    Logradouro: MACACO
+    Número: 9
+    Bairro: RURAL MERCES
+  [8]
+    CPF: 033.959.345-86
+    Nome: NOELIA CONCEICAO SANTOS TRINDADE PEREIRA
+    Logradouro: RO FEIRA SAO GONCALO
+    Número: 60
+    Bairro: RURAL JACARE
+  [9]
+    CPF: 029.492.425-61
+    Nome: PAULO MARTIM BASTOS DE CERQUEIRA
+    Logradouro: ANTONIETA BORGES
+    Número: 163
+    Bairro: MURILO LEITE
+  [10]
+    CPF: 050.496.795-91
+    Nome: GONCALO BATISTA DOS SANTOS
+    Logradouro: DO ESTADIO
+    Número: 44
+    Bairro: ESTADIO
+  [11]
+    CPF: 030.874.535-36
+    Nome: MARIDALVA DA LUZ ALVES
+    Logradouro: POV MERCES
+    Número: SN
+    Bairro: ZONA RURAL
+  [12]
+    CPF: 960.383.735-00
+    Nome: FABIO BORGES DA REISSURREICAO
+    Logradouro: DURINHO
+    Número: 7
+    Bairro: RURAL JACARE
+  [13]
+    CPF: 263.013.695-72
+    Nome: BEATRIZ BASTOS DOS SANTOS
+    Logradouro: BOA ESTRADA DE SAO GONCALO
+    Número: 22
+    Bairro: OURO VERDE
+  [14]
+    CPF: 056.212.565-57
+    Nome: CRISTIANE MIRANDA DE JESUS CANCIO
+    Logradouro: M BARBOSA MAGALHAES
+    Número: 57
+    Bairro: MURILO LEITE
+  [15]
+    CPF: 041.758.625-60
+    Nome: LEONARDO GONCALVES DOS SANTOS
+    Logradouro: ZULMIRA SANTOS
+    Número: 30
+    Bairro: MURILO LEITE
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (75) 98289-5403
+    Nome: ROSANGELA DOS SANTOS OLIVEIRA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (75) 98248-4473
+    Nome: ROSANGELA DOS SANTOS OLIVEIRA
+    Operadora: CLARO
+    Fonte: claro_cpf
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1067
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 178.81
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (75) 3622-3000
+    Ddd: 75
+    Número: 36223000
+    Tipo: FIXO
+    Data Inclusao: 22/11/2006
+    Classificacao: D2
+  [2]
+    Telefone: (11) 3284-0331
+    Ddd: 11
+    Número: 32840331
+    Tipo: FIXO
+    Data Inclusao: 01/02/2011
+    Classificacao: D2
+  [3]
+    Telefone: (11) 4178-9449
+    Ddd: 11
+    Número: 41789449
+    Tipo: FIXO
+    Data Inclusao: 01/02/2011
+    Classificacao: D2
+  [4]
+    Telefone: (11) 98241-4788
+    Ddd: 11
+    Número: 982414788
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 717020
+Occupation Name: Servente de obras
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

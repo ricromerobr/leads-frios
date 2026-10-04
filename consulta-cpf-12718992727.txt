@@ -1,0 +1,425 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  12718992727
+Data/Hora:  02/10/2026, 15:17:33
+Tempo API:  15465ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 127.189.927-27
+Nome: JESSICA GUEDES BASTOS
+Primeiro Nome: JESSICA
+Sobrenome: BASTOS
+Sexo: Feminino
+Data de Nascimento: 14/08/1995
+Nome da Mãe: DENIZE GUEDES BASTOS
+Nome do Pai: MESAQUE DO NASCIMENTO BASTOS
+Ocupação: Assistente administrativo
+Score:
+  Value: 54
+  Range: ALTISSIMO
+E-mail: JESSICAGUEDESSILVADELPHUS@GMAIL.COM
+Federal Status: REGULAR
+Renda: 513
+Income Bracket: 1
+Cbo: 411010
+Endereço:
+  Tipo: RUA
+  Rua: IGOA
+  Bairro: BENTO RIBEIRO
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21555-080
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: IGOA
+    Bairro: BENTO RIBEIRO
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21555-080
+    Fonte: PRINCIPAL
+  [2]
+    Rua: IGOA
+    Número: 188
+    Bairro: BENTO RIBEIRO
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: IGOA
+    Tipo: R
+    Número: 188
+    Complemento: FDS
+    Bairro: BENTO RIBEIRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21555-080
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JOAQUIM CAMARA FERREIRA
+    Tipo: AV
+    Número: 71
+    Complemento: C 1
+    Bairro: BANGU
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21850-180
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: IGOA
+    Tipo: R
+    Número: 201
+    Bairro: BENTO RIBEIRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21555-080
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: IGOA
+    Tipo: R
+    Número: SN
+    Bairro: BENTO RIBEIRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21555-080
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (11 item(s))
+  - (21) 97697-9284
+  - (21) 98969-0064
+  - (21) 97424-1398
+  - (21) 96649-9690
+  - (21) 99007-5061
+  - (21) 2451-5811
+  - (21) 99469-0534
+  - (21) 96807-2285
+  - (21) 3522-7207
+  - (21) 97388-8567
+  - (21) 96488-7117
+Datasus Phones: (1 item(s))
+  - (21) 3018-7128
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 704601119206326
+Paycom:
+  E-mail: jessicaguedessilvadelphus@gmail.com
+  Created At: 2017-09-12 16:54:29
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Igoa
+    Número: 188
+    Complemento: Casa
+    Bairro: Bento Ribeiro
+    Cidade: Rio de Janeiro
+    Estado: RJ
+    País: BR
+    CEP: 21555-080
+    Telephone: (21) 99007-5061
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/08/2019
+    Mosaic New: D10
+    Mosaic Secondary: C08
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: IGOA
+      Número: 188
+      Complemento: FDS
+      Bairro: BENTO RIBEIRO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21555-080
+      Date Added: 09/12/2014
+    [2]
+      Tipo: AV
+      Rua: JOAQUIM CAMARA FERREIRA
+      Número: 71
+      Complemento: C 1
+      Bairro: BANGU
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21850-180
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: IGOA
+      Número: 201
+      Bairro: BENTO RIBEIRO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21555-080
+      Date Added: 03/01/2017
+    [4]
+      Tipo: R
+      Rua: IGOA
+      Número: SN
+      Bairro: BENTO RIBEIRO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21555-080
+      Date Added: 19/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 35227207
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 02/12/2013
+      Info Date: 29/11/2013
+    [2]
+      Telefone: 24515811
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 27/07/2017
+      Info Date: 31/05/2016
+    [3]
+      Telefone: 973888567
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [4]
+      Telefone: 964887117
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: jessicaguedessilvadelphus@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/02/2017
+  Score:
+    CSB8: 183
+    CSB8 FAIXA: ALTO
+    CSBA: 54
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 900776790
+      Nome: DELFINO PIMENTEL GUEDES
+      Vinculo: TIA(O)
+    [2]
+      CPF: 136132782
+      Nome: JANETE PIMENTEL GUEDES
+      Vinculo: AVO
+    [3]
+      CPF: 3755510774
+      Nome: DEISE PIMENTEL GUEDES
+      Vinculo: TIA(O)
+    [4]
+      CPF: 8724662720
+      Nome: DENIZE GUEDES BASTOS
+      Vinculo: MAE
+    [5]
+      CPF: 900779705
+      Nome: DENILSON PIMENTEL GUEDES
+      Vinculo: TIA(O)
+    [6]
+      CPF: 8212820777
+      Nome: DEMERSON PIMENTEL GUEDES
+      Vinculo: TIA(O)
+  Pis: 20771356042
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 457.38
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - jessicaguedessilvadelphus@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 020.353.017-93
+    Nome: LUCIANO JOSE DA SILVA
+    Logradouro: IGOA
+    Número: 155
+    Bairro: BENTO RIBEIRO
+  [2]
+    CPF: 095.042.937-60
+    Nome: KELLY CRISTINA ROSA DA SILVA
+    Logradouro: IGOA
+    Número: 155
+    Bairro: BENTO RIBEIRO
+  [3]
+    CPF: 071.111.087-52
+    Nome: ROSA BENINCASA
+    Logradouro: IGOA
+    Número: 71
+    Bairro: BENTO RIBEIRO
+  [4]
+    CPF: 631.904.007-68
+    Nome: MARLENE DE SOUZA GUIMARAES
+    Logradouro: IGOA
+    Número: 200
+    Bairro: BENTO RIBEIRO
+  [5]
+    CPF: 538.778.537-49
+    Nome: ALDEIR DE CARVALHO
+    Logradouro: IGOA
+    Número: 188
+    Bairro: BENTO RIBEIRO
+  [6]
+    CPF: 108.203.087-22
+    Nome: LEANDRO DOS SANTOS MARTILIANO
+    Logradouro: IGOA
+    Número: 201
+    Bairro: BENTO RIBEIRO
+  [7]
+    CPF: 026.422.314-45
+    Nome: MANOEL FELIPE GOMES
+    Logradouro: IGOA
+    Número: 201
+    Bairro: BENTO RIBEIRO
+  [8]
+    CPF: 974.218.476-34
+    Nome: EUNICE MARTINS SILVA
+    Logradouro: IGOA
+    Número: 250
+    Bairro: BENTO RIBEIRO
+  [9]
+    CPF: 009.007.767-90
+    Nome: DELFINO PIMENTEL GUEDES
+    Logradouro: IGOA
+    Número: 188
+    Bairro: BENTO RIBEIRO
+  [10]
+    CPF: 602.283.857-68
+    Nome: WASHINGTON COSTA SALERNO
+    Logradouro: IGOA
+    Número: 80
+    Bairro: BENTO RIBEIRO
+  [11]
+    CPF: 112.609.227-40
+    Nome: GILBERTO LAMBERTI RAMOS
+    Logradouro: IGOA
+    Número: 20
+    Bairro: BENTO RIBEIRO
+  [12]
+    CPF: 126.528.077-06
+    Nome: JULIANA MATTOS DE ALMEIDA
+    Logradouro: IGOA
+    Número: 188
+    Bairro: BENTO RIBEIRO
+  [13]
+    CPF: 098.659.547-02
+    Nome: CARLOS EDUARDO ARAUJO DA SILVA
+    Logradouro: IGOA
+    Número: 201
+    Bairro: BENTO RIBEIRO
+  [14]
+    CPF: 112.937.447-51
+    Nome: RITA DE CASSIA CONCEICAO FERNANDES
+    Logradouro: IGOA
+    Número: 201
+    Bairro: BENTO RIBEIRO
+  [15]
+    CPF: 092.553.507-90
+    Nome: ELIEZER DOS SANTOS GUIMARAES
+    Logradouro: IGOA
+    Número: 164
+    Bairro: BENTO RIBEIRO
+Telefones Operadoras: (5 item(s))
+  [1]
+    Telefone: (21) 2451-5811
+    Nome: JESSICA GUEDES BASTOS
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+    Operadora: TELEMAR - TELERJ
+    Fonte: algar
+  [2]
+    Telefone: (21) 96649-9690
+    Nome: JESSICA GUEDES BASTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (21) 99469-0534
+    Nome: JESSICA GUEDES BASTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [4]
+    Telefone: (21) 97424-1398
+    Nome: JESSICA GUEDES BASTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [5]
+    Telefone: (21) 96807-2285
+    Nome: JESSICA GUEDES BASTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - jessicaguedessilvadelphus@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 513
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 457.38
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (21) 3522-7207
+    Ddd: 21
+    Número: 35227207
+    Tipo: FIXO
+    Data Inclusao: 02/12/2013
+    Data Informacao: 29/11/2013
+    Classificacao: D2
+  [2]
+    Telefone: (21) 2451-5811
+    Ddd: 21
+    Número: 24515811
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Data Informacao: 31/05/2016
+    Classificacao: B
+  [3]
+    Telefone: (21) 97388-8567
+    Ddd: 21
+    Número: 973888567
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [4]
+    Telefone: (21) 96488-7117
+    Ddd: 21
+    Número: 964887117
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Foto: 📸 ENVIADA SEPARADAMENTE NO TELEGRAM
+Foto Source: FOTO_RJ.db
+Occupation Code: 411010
+Occupation Name: Assistente administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

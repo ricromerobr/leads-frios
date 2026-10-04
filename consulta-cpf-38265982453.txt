@@ -1,0 +1,304 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  38265982453
+Data/Hora:  03/10/2026, 16:44:51
+Tempo API:  419ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 382.659.824-53
+Nome: VOLGA COELHO DE LIMA
+Primeiro Nome: VOLGA
+Sobrenome: LIMA
+Sexo: I
+Data de Nascimento: 28/08/1931
+Nome da Mãe: ADELIA DE LIMA COELHO
+Nome do Pai: AMERICO COELHO LIMA
+RG: 63831
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: AL
+Mosaic: G26
+Score:
+  Value: 125
+  Range: ALTISSIMO
+E-mail: info@adrianalocutora.vila.bol.com.br
+Additional Emails: (2 item(s))
+  - info@adrianalocutora.vila.bol.com.br
+  - info@adrianaloira.com.br
+Death Date: 26/11/2016
+Federal Status: TITULAR FALECIDO
+Renda: 1105
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: TREZE DE MAIO
+  Número: 50
+  Bairro: POCO
+  Cidade: MACEIO
+  Estado: ALAGOAS
+  CEP: 57025-410
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: TREZE DE MAIO
+    Número: 50
+    Bairro: POCO
+    Cidade: MACEIO
+    Estado: ALAGOAS
+    CEP: 57025-410
+    Fonte: PRINCIPAL
+  [2]
+    Rua: TREZE DE MAIO
+    Número: 50
+    Bairro: POCO
+    Cidade: MACEIO - AL
+    Fonte: DATASUS
+  [3]
+    Rua: TOCANTINS
+    Tipo: R
+    Número: 141
+    Complemento: AP 302 ED MAR
+    Bairro: BOCA DO RIO
+    Cidade: SALVADOR
+    Estado: BA
+    CEP: 41706-200
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: R
+    Rua: TREZE DE MAIO
+    Número: 0000050
+    Bairro: POCO
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57025-410
+    Fonte: ASSECC
+  [5]
+    Tipo: R
+    Rua: TREZE DE MAIO
+    Número: 50
+    Bairro: 0000000
+    Cidade: 57025410
+    Estado: MACEIO
+    Fonte: ASSECC
+  [6]
+    Rua: R TREZE DE MAIO	50
+    Bairro: POCO
+    Cidade: MACEIO
+    Estado: AL
+    CEP: 57025-410
+    Fonte: BR21M
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (82) 99997-9139
+  - (82) 98822-6100
+  - (82) 98805-2720
+Cidade de Nascimento: MACEIO - AL
+Cns: 705602453741012
+Rg Issue Date: 398055600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 20/11/2018
+    Info Date: 16/04/2002
+    Death Date Raw: 31/12/2016
+    Mosaic: G26
+    Mosaic New: B04
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: TOCANTINS
+      Número: 141
+      Complemento: AP 302 ED MAR
+      Bairro: BOCA DO RIO
+      Cidade: SALVADOR
+      Estado: BA
+      CEP: 41706-200
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: TREZE DE MAIO
+      Número: 50
+      Bairro: CHA DA JAQUEIRA
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57018-402
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: TREZE DE MAIO
+      Número: 50
+      Bairro: POCO
+      Cidade: MACEIO
+      Estado: AL
+      CEP: 57025-410
+      Date Added: 22/10/2015
+  E-mails: (2 item(s))
+    [1]
+      E-mail: info@adrianalocutora.vila.bol.com.br
+      Priority: 1
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 09/09/2016
+    [2]
+      E-mail: info@adrianaloira.com.br
+      Priority: 2
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 112
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 125
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: ADELIA DE LIMA COELHO
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 163.633.105-04
+    Nome: MADALENA PAULA DA SILVA
+    Logradouro: TOCANTINS
+    Número: 13
+    Bairro: BOCA DO RIO
+  [2]
+    CPF: 256.701.665-15
+    Nome: MARIA DAMIANA FERREIRA
+    Logradouro: TOCANTINS
+    Número: 77
+    Bairro: BOCA DO RIO
+  [3]
+    CPF: 164.210.195-87
+    Nome: MARIA STELA DIAS ALMEIDA
+    Logradouro: TOCANTINS
+    Número: 20
+    Bairro: BOCA DO RIO
+  [4]
+    CPF: 124.885.936-72
+    Nome: MARLY NOVAES COSTA
+    Logradouro: TOCANTINS
+    Número: 295
+    Bairro: BOCA DO RIO
+  [5]
+    CPF: 035.116.425-15
+    Nome: MARIONETE CARLOS DE ALCANTARA
+    Logradouro: TOCANTINS
+    Número: 16
+    Bairro: BOCA DO RIO
+  [6]
+    CPF: 687.863.105-00
+    Nome: LAERCIO SANTOS ALMEIDA
+    Logradouro: TOCANTINS
+    Número: 52
+    Bairro: BOCA DO RIO
+  [7]
+    CPF: 466.332.515-72
+    Nome: CRISTINA RAIMUNDA BRITO DE OLIVEIRA
+    Logradouro: TOCANTINS
+    Número: 173
+    Bairro: BOCA DO RIO
+  [8]
+    CPF: 808.966.695-72
+    Nome: FABIO JESUINO DOS SANTOS SOUSA
+    Logradouro: TOCANTINS
+    Número: 13
+    Bairro: BOCA DO RIO
+  [9]
+    CPF: 344.370.705-00
+    Nome: FERNANDO TEIXEIRA HURST
+    Logradouro: TOCANTINS
+    Número: 83
+    Bairro: BOCA DO RIO
+  [10]
+    CPF: 786.183.635-53
+    Nome: ALEX VIANA DOS SANTOS
+    Logradouro: TOCANTINS
+    Número: 207
+    Bairro: BOCA DO RIO
+  [11]
+    CPF: 066.557.105-45
+    Nome: PEDRO VICTOR DO VALE SERAFIM DE CARVALHO
+    Logradouro: TOCANTINS
+    Número: 173
+    Bairro: BOCA DO RIO
+  [12]
+    CPF: 035.580.065-93
+    Nome: DJEAN DE OLIVEIRA NUNES
+    Logradouro: TOCANTINS
+    Número: 173
+    Bairro: BOCA DO RIO
+  [13]
+    CPF: 437.620.678-48
+    Nome: VANESSA OLIVEIRA NUNES
+    Logradouro: TOCANTINS
+    Número: 173
+    Bairro: BOCA DO RIO
+  [14]
+    CPF: 056.939.165-29
+    Nome: RENATO GUIMARAES DAS NEVES
+    Logradouro: TOCANTINS
+    Número: 207
+    Bairro: BOCA DO RIO
+  [15]
+    CPF: 058.812.865-10
+    Nome: ANALBERG DA SILVA JESUS
+    Logradouro: TOCANTINS
+    Número: 141
+    Bairro: BOCA DO RIO
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (82) 98822-6100
+    Nome: VOLGA COELHO DE LIMA
+    Cidade: MACEIO
+    UF: AL
+  [2]
+    Telefone: (82) 99997-9139
+    Nome: VOLGA COELHO DE LIMA
+    Cidade: 57025410
+    UF: MACEIO
+  [3]
+    Telefone: (82) 98805-2720
+    Nome: VOLGA COELHO DE LIMA
+    Cidade: MACEIO
+    UF: AL
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (82) 99997-9139
+    Nome: VOLGA COELHO DE LIMA
+    Cidade: MACEIO
+    UF: AL
+    Operadora: 55341
+    Fonte: br21m
+E-mails: (2 item(s))
+  - info@adrianalocutora.vila.bol.com.br
+  - info@adrianaloira.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1105
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

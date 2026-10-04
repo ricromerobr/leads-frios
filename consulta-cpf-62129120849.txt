@@ -1,0 +1,408 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  62129120849
+Data/Hora:  04/10/2026, 10:04:46
+Tempo API:  582ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 621.291.208-49
+Nome: OEIDENE JOANA MIONE
+Primeiro Nome: OEIDENE
+Sobrenome: MIONE
+Sexo: Masculino
+Data de Nascimento: 11/12/1940
+Nome da Mãe: ANA APARECIDA BOTIGELI MIONE
+Nome do Pai: SEM INFORMAÇÃO
+RG: 4702434
+Mosaic: D11
+Ocupação: Administrador
+Score:
+  Value: 15
+  Range: ALTISSIMO
+E-mail: tbranca@cdlnet.com.br
+Additional Emails: (1 item(s))
+  - tbranca@cdlnet.com.br
+Federal Status: REGULAR
+Renda: 1091
+Income Bracket: 2
+Cbo: 252105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MAGE
+  Número: 57
+  Bairro: PENHA CIRCULAR
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21020-130
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MAGE
+    Número: 57
+    Bairro: PENHA CIRCULAR
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21020-130
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AV ERICO VERISSIMO
+    Número: 1993
+    Bairro: SANTA MONICA
+    Cidade: BELO HORIZONTE - MG
+    Fonte: DATASUS
+  [3]
+    Rua: FERNANDO PEREIRA MAGALHAES
+    Tipo: R
+    Número: 48
+    Complemento: 104
+    Bairro: CANDELARIA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31510-230
+    Data Atualizacao: 04/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ERICO VERISSIMO
+    Tipo: R
+    Número: 3065
+    Bairro: STA MONICA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31525-365
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: PORTUGAL
+    Tipo: AV
+    Número: 3336
+    Complemento: C
+    Bairro: JD ATLANTICO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31560-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PORTUGAL
+    Tipo: AV
+    Número: 1575
+    Bairro: JD ATLANTICO
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31550-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: ERICO VERISSIMO
+    Número: 0001993
+    Bairro: SANTA MONICA
+    Cidade: BELO HORIZONTE
+    Estado: MG
+    CEP: 31525-365
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 702008870749186
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: O
+    Status Date: 22/01/2020
+    Info Date: 19/09/2008
+    Mosaic: D11
+    Mosaic New: E15
+    Mosaic Secondary: B04
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: FERNANDO PEREIRA MAGALHAES
+      Número: 48
+      Complemento: 104
+      Bairro: CANDELARIA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31510-230
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: ERICO VERISSIMO
+      Número: 3065
+      Bairro: STA MONICA
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31525-365
+      Date Added: 30/08/2016
+    [3]
+      Tipo: AV
+      Rua: PORTUGAL
+      Número: 3336
+      Complemento: C
+      Bairro: JD ATLANTICO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31560-000
+      Date Added: 04/01/2016
+    [4]
+      Tipo: AV
+      Rua: PORTUGAL
+      Número: 1575
+      Bairro: JD ATLANTICO
+      Cidade: BELO HORIZONTE
+      Estado: MG
+      CEP: 31550-000
+      Date Added: 02/02/2016
+    [5]
+      Tipo: R
+      Rua: MAGE
+      Número: 57
+      Bairro: PENHA CIRCULAR
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21020-130
+      Date Added: 21/10/2012
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34431038
+      Ddd: 31
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 05/03/2009
+      Info Date: 11/12/2012
+    [2]
+      Telefone: 36343251
+      Ddd: 31
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+      Info Date: 19/08/2006
+    [3]
+      Telefone: 991348773
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [4]
+      Telefone: 38886276
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 06/05/2012
+      Info Date: 29/11/2012
+    [5]
+      Telefone: 985927073
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+  E-mails: (1 item(s))
+    [1]
+      E-mail: tbranca@cdlnet.com.br
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 07/06/2016
+  Score:
+    CSB8: 6
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 15
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 5918808655
+      Nome: JULIANA HELOISA MIONE LIMA
+      Vinculo: FILHA(O)
+    [2]
+      Nome: ANA APARECIDA BOTIGELI MIONE
+      Vinculo: MAE
+    [3]
+      CPF: 154850802
+      Nome: JOSE ONEILDO FERREIRA DE LIMA
+      Vinculo: CONJUGE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1604.9
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (5 item(s))
+  - (31) 98592-7073
+  - (31) 3443-1038
+  - (31) 3634-3251
+  - (31) 99134-8773
+  - (21) 3888-6276
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 041.731.696-80
+    Nome: VILMAR RODRIGUES DE SOUZA
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 178
+    Bairro: CANDELARIA
+  [2]
+    CPF: 040.116.716-06
+    Nome: GUILHERME EUSTAQUIO FURTADO
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 99
+    Bairro: CANDELARIA
+  [3]
+    CPF: 840.436.608-04
+    Nome: LEVI DE SOUZA LIMA
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 156
+    Bairro: CANDELARIA
+  [4]
+    CPF: 053.598.146-59
+    Nome: ADAIR GOMES PEREIRA
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 105
+    Bairro: CANDELARIA
+  [5]
+    CPF: 681.659.946-20
+    Nome: ZELIA APARECIDA OLIVEIRA
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 253
+    Bairro: CANDELARIA
+  [6]
+    CPF: 151.685.816-68
+    Nome: NEUZA MARIA DE FREITAS
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 68
+    Bairro: CANDELARIA
+  [7]
+    CPF: 067.350.366-62
+    Nome: MIRIA HELEN MESSIAS DA SILVA BORGES
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 168
+    Bairro: CANDELARIA
+  [8]
+    CPF: 079.884.306-37
+    Nome: MARLANE SANTOS RIBEIRO
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 336
+    Bairro: CANDELARIA
+  [9]
+    CPF: 598.862.776-53
+    Nome: IZA DAS GRACAS LARA REZENDE
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 40
+    Bairro: CANDELARIA
+  [10]
+    CPF: 056.653.926-85
+    Nome: PAULO RAMOS
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 126
+    Bairro: CANDELARIA
+  [11]
+    CPF: 006.545.136-86
+    Nome: GIOVANINI APARECIDA GUIMARAES
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 295
+    Bairro: CANDELARIA
+  [12]
+    CPF: 817.817.846-04
+    Nome: ALEXANDRE COSTA DIAS
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 306
+    Bairro: CANDELARIA
+  [13]
+    CPF: 265.974.703-20
+    Nome: EDSON VIANA DANTAS
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 105
+    Bairro: CANDELARIA
+  [14]
+    CPF: 764.083.376-00
+    Nome: ANTONIO FERREIRA DO NASCIMENTO
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 168
+    Bairro: CANDELARIA
+  [15]
+    CPF: 139.016.406-30
+    Nome: EFIGENIA APARECIDA MANTUANI PAIVA
+    Logradouro: FERNANDO PEREIRA MAGALHAES
+    Número: 315
+    Bairro: CANDELARIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (31) 98592-7073
+    Nome: OEIDENE JOANA MIONE
+    Cidade: BELO HORIZONTE
+    UF: MG
+E-mails: (1 item(s))
+  - tbranca@cdlnet.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1091
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1604.9
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (31) 3443-1038
+    Ddd: 31
+    Número: 34431038
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 11/12/2012
+    Classificacao: A0
+  [2]
+    Telefone: (31) 3634-3251
+    Ddd: 31
+    Número: 36343251
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 19/08/2006
+    Classificacao: D2
+  [3]
+    Telefone: (31) 99134-8773
+    Ddd: 31
+    Número: 991348773
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [4]
+    Telefone: (21) 3888-6276
+    Ddd: 21
+    Número: 38886276
+    Tipo: FIXO
+    Data Inclusao: 06/05/2012
+    Data Informacao: 29/11/2012
+    Classificacao: D2
+  [5]
+    Telefone: (31) 98592-7073
+    Ddd: 31
+    Número: 985927073
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

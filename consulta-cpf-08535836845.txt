@@ -1,0 +1,424 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08535836845
+Data/Hora:  04/10/2026, 09:55:10
+Tempo API:  837ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 085.358.368-45
+Nome: FERNANDO LUIS GARCIA MAGNO
+Primeiro Nome: FERNANDO
+Sobrenome: MAGNO
+Sexo: Masculino
+Data de Nascimento: 17/02/1969
+Nome da Mãe: ANA LUCIA DE ALMEIDA GARCIA MAGNO
+Voter Id: 030731391090
+Mosaic: E17
+Ocupação: Dirigentes e Gerentes (categoria CBO)
+Score:
+  Value: 714
+  Range: BAIXISSIMO RISCO
+E-mail: fmagno@vne.com.br
+Additional Emails: (5 item(s))
+  - fmagno@vne.com.br
+  - fernandomagno@oi.com.br
+  - amamir@uol.com.br
+  - amamelo@upe.poli.br
+  - cristinaf@vne.com.br
+Federal Status: REGULAR
+Renda: 2987
+Income Bracket: 3
+Cbo: 1411
+Endereço:
+  Tipo: RUA
+  Rua: 213
+  Número: 117
+  Bairro: S AEROPORTO
+  Cidade: SAO LUIS DE MONTES BELOS
+  Estado: GOIAS
+  CEP: 76100-000
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 213
+    Número: 117
+    Bairro: S AEROPORTO
+    Cidade: SAO LUIS DE MONTES BELOS
+    Estado: GOIAS
+    CEP: 76100-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AV. COUTO DE MAGALHAES
+    Número: 1079
+    Bairro: CENTRO
+    Cidade: MORRINHOS
+    Estado: GO
+    CEP: 75650-000
+    Fonte: SARAIVA
+  [3]
+    Rua: DUZENTOS E DEZ
+    Tipo: R
+    Número: 155
+    Bairro: S AEROPORTO
+    Cidade: MORRINHOS
+    Estado: GO
+    CEP: 75650-000
+    Data Atualizacao: 10/09/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PARA
+    Tipo: R
+    Número: 419
+    Cidade: MORRINHOS
+    Estado: GO
+    CEP: 75650-000
+    Data Atualizacao: 04/02/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: DUZENTOS E TREZE
+    Tipo: R
+    Número: 117
+    Bairro: ST AEROPORTO
+    Cidade: MORRINHOS
+    Estado: GO
+    CEP: 75650-000
+    Data Atualizacao: 15/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: TREZE
+    Tipo: R
+    Número: 95
+    Cidade: MORRINHOS
+    Estado: GO
+    CEP: 75650-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Saraiva:
+  Customer Id: 7915315
+  Telefone: (64) 3416-1717
+  E-mail: FMAGNO@VNE.COM.BR
+  Data de Nascimento: 17/02/1969
+Telefones: (6 item(s))
+  - (64) 3416-1717
+  - (64) 99642-6042
+  - (64) 98414-8704
+  - (64) 99983-0090
+  - (64) 99985-2952
+  - (64) 99995-8081
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/12/2019
+    Info Date: 21/12/2008
+    Mosaic: E17
+    Mosaic New: E16
+    Mosaic Secondary: E18
+    Income Bracket Id: 5
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: DUZENTOS E DEZ
+      Número: 155
+      Bairro: S AEROPORTO
+      Cidade: MORRINHOS
+      Estado: GO
+      CEP: 75650-000
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: PARA
+      Número: 419
+      Cidade: MORRINHOS
+      Estado: GO
+      CEP: 75650-000
+      Date Added: 11/12/2009
+    [3]
+      Tipo: R
+      Rua: DUZENTOS E TREZE
+      Número: 117
+      Bairro: ST AEROPORTO
+      Cidade: MORRINHOS
+      Estado: GO
+      CEP: 75650-000
+      Date Added: 07/01/2014
+    [4]
+      Tipo: R
+      Rua: TREZE
+      Número: 95
+      Cidade: MORRINHOS
+      Estado: GO
+      CEP: 75650-000
+      Date Added: 07/11/2011
+    [5]
+      Tipo: R
+      Rua: DUZENTOS E TREZE
+      Número: 117
+      Cidade: SAO LUIS DE MONTES BELOS
+      Estado: GO
+      CEP: 76100-000
+      Date Added: 01/02/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 996426042
+      Ddd: 64
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 984148704
+      Ddd: 64
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 999830090
+      Ddd: 64
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/10/2018
+    [4]
+      Telefone: 999852952
+      Ddd: 64
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 999958081
+      Ddd: 64
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (5 item(s))
+    [1]
+      E-mail: fernandomagno@oi.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: amamir@uol.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: fmagno@vne.com.br
+      Priority: 3
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 09/09/2016
+    [4]
+      E-mail: amamelo@upe.poli.br
+      Priority: 4
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 09/09/2016
+    [5]
+      E-mail: cristinaf@vne.com.br
+      Priority: 5
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 491
+    CSB8 FAIXA: MEDIO
+    CSBA: 714
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 226.633.598-74
+      Nome: NOEMIA DE ALMEIDA
+      Vinculo: AVO
+    [2]
+      CPF: 930.600.258-00
+      Nome: ANA LUCIA DE ALMEIDA GARCIA MAGNO
+      Vinculo: MAE
+    [3]
+      CPF: 162.084.188-60
+      Nome: ANA CLAUDIA MAGNO
+      Vinculo: IRMA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2987.06
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.262.441-34
+    Nome: LOURIVAL MIGUEL DE SOUZA
+    Logradouro: JOSE GOMES
+    Número: 141
+  [2]
+    CPF: 031.524.351-18
+    Nome: MARCIA LUCIA DOS SANTOS
+    Logradouro: CENTRAL
+    Número: 5
+    Bairro: RANJU ALEGRE
+  [3]
+    CPF: 052.243.221-20
+    Nome: MARIA HELENA PEREIRA FEITOSA
+    Logradouro: E FRAUZINO
+    Número: 1090
+    Bairro: MORRINHOS
+  [4]
+    CPF: 052.254.261-15
+    Nome: ELON PAULO VIDIGAL
+    Logradouro: D
+    Número: 873
+    Bairro: S PEDRO
+  [5]
+    CPF: 052.274.101-00
+    Nome: DORVANI MARQUES VIEIRA
+    Logradouro: RIO DE JANEIRO
+    Número: 363
+  [6]
+    CPF: 050.876.066-60
+    Nome: DIVINO HELDER DA SILVA DELFINO
+    Logradouro: DEZESSEIS
+    Número: 256
+  [7]
+    CPF: 818.326.721-15
+    Nome: MARCELO LOPES DE SOUZA
+    Logradouro: A EVARISTO FRAUZINO
+    Número: 687
+    Bairro: CENTRO
+  [8]
+    CPF: 992.219.771-53
+    Nome: DIVINO ETERNO DA CUNHA
+    Logradouro: NOVE C
+    Número: 2
+    Bairro: MRO DA SAUDA
+  [9]
+    CPF: 050.444.211-20
+    Nome: PEDRO MARTINS DE AZEVEDO
+    Logradouro: TURIM
+    Número: 176
+  [10]
+    CPF: 050.426.401-00
+    Nome: ORCALINO INOCENCIO DE OLIVEIRA FILHO
+    Logradouro: MINERVINO QUINTINO
+    Número: 64
+  [11]
+    CPF: 050.421.351-20
+    Nome: EURIPEDES DE SOUZA
+    Logradouro: L
+    Número: 19
+  [12]
+    CPF: 050.423.801-91
+    Nome: MILTON AFONSO ARANTES
+    Logradouro: VINTE E UM
+    Número: 57
+  [13]
+    CPF: 024.860.921-10
+    Nome: STEFANIA EDIVIGES SILVEIRA ALVES ROSA
+    Logradouro: VINTE E OITO
+    Número: 17
+    Bairro: JD STA FE
+  [14]
+    CPF: 035.836.101-05
+    Nome: ANDRESSA ADENILIA BARBOSA SILVA
+    Logradouro: JOSE CANDIDO
+    Número: 298
+    Bairro: ST CRISTO
+  [15]
+    CPF: 052.384.009-85
+    Nome: ANTONIO BALDAIA NETO
+    Logradouro: PEDRO NUNES
+    Número: 1347
+    Bairro: S CENTRAL
+E-mails: (5 item(s))
+  - fmagno@vne.com.br
+  - fernandomagno@oi.com.br
+  - amamir@uol.com.br
+  - amamelo@upe.poli.br
+  - cristinaf@vne.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2987
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2987.06
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (64) 99642-6042
+    Ddd: 64
+    Número: 996426042
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: C2
+  [2]
+    Telefone: (64) 98414-8704
+    Ddd: 64
+    Número: 984148704
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (64) 99983-0090
+    Ddd: 64
+    Número: 999830090
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: A0
+  [4]
+    Telefone: (64) 99985-2952
+    Ddd: 64
+    Número: 999852952
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (64) 99995-8081
+    Ddd: 64
+    Número: 999958081
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 1411
+Occupation Name: Dirigentes e Gerentes (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

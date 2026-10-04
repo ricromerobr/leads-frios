@@ -1,0 +1,340 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00913571288
+Data/Hora:  03/10/2026, 21:15:20
+Tempo API:  726ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 009.135.712-88
+Nome: SOLENI ALVES DO NASCIMENTO
+Primeiro Nome: SOLENI
+Sobrenome: NASCIMENTO
+Sexo: Feminino
+Data de Nascimento: 12/03/1988
+Nome da Mãe: MARIA DAMIANA ALVES
+Nome do Pai: SEBASTIÃO FRANCISCO DO NASCIMENTO
+RG: 5329291
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PA
+Mosaic: F23
+Score:
+  Value: 583
+  Range: BAIXO
+E-mail: sollenni.alves@gmail.com
+Additional Emails: (1 item(s))
+  - sollenni.alves@gmail.com
+Federal Status: REGULAR
+Renda: 686
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: SAO PEDRO
+  Bairro: TERRA FIRME
+  Cidade: BELEM
+  Estado: PARA
+  CEP: 66070-740
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SAO PEDRO
+    Bairro: TERRA FIRME
+    Cidade: BELEM
+    Estado: PARA
+    CEP: 66070-740
+    Fonte: PRINCIPAL
+  [2]
+    Rua: NOSSA SENHORA DAS GRACAS
+    Número: 724
+    Bairro: TERRA FIRME
+    Cidade: BELEM - PA
+    Fonte: DATASUS
+  [3]
+    Rua: FE EM DEUS
+    Tipo: PSG
+    Número: 35
+    Complemento: TER D LEITURA 14 5
+    Bairro: GUAMA
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66073-200
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: RAIMUNDO
+    Tipo: AL
+    Número: 497
+    Bairro: ICUI GUAJARA
+    Cidade: ANANINDEUA
+    Estado: PA
+    CEP: 67125-054
+    Data Atualizacao: 30/08/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: [empty]
+    Rua: BARAO DE IGARAPE MIRI
+    Número: 0001334
+    Bairro: GUAMA
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66075-045
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (91) 99834-5229
+  - (91) 98810-5710
+  - (91) 98848-0508
+  - (91) 99305-6207
+  - (91) 99801-5766
+  - (91) 98725-6768
+Datasus Phones: (1 item(s))
+  - (91) 98877-6566
+Cidade de Nascimento: BELEM - PA
+Cns: 705004690124251
+Rg Issue Date: 1146193200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Mosaic: F23
+    Mosaic New: H28
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (2 item(s))
+    [1]
+      Tipo: PSG
+      Rua: FE EM DEUS
+      Número: 35
+      Complemento: TER D LEITURA 14 5
+      Bairro: GUAMA
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66073-200
+      Date Added: 20/07/2011
+    [2]
+      Tipo: AL
+      Rua: RAIMUNDO
+      Número: 497
+      Bairro: ICUI GUAJARA
+      Cidade: ANANINDEUA
+      Estado: PA
+      CEP: 67125-054
+      Date Added: 27/04/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988105710
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [2]
+      Telefone: 988480508
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [3]
+      Telefone: 993056207
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+    [4]
+      Telefone: 998015766
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+    [5]
+      Telefone: 987256768
+      Ddd: 91
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: sollenni.alves@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+  Score:
+    CSB8: 436
+    CSB8 FAIXA: MEDIO
+    CSBA: 583
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA O ALVES
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 686.9
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 022.683.642-83
+    Nome: MICHEL BENICIO CARDOSO
+    Logradouro: FE EM DEUS
+    Número: 54
+    Bairro: GUAMA
+  [2]
+    CPF: 422.826.498-00
+    Nome: GUSTAVO DE SOUZA BENITE
+    Logradouro: FE EM DEUS
+    Número: 257
+    Bairro: GUAMA
+  [3]
+    CPF: 440.907.902-63
+    Nome: RAIMUNDA SOUZA
+    Logradouro: FE EM DEUS
+    Número: 36
+    Bairro: GUAMA
+  [4]
+    CPF: 016.228.842-56
+    Nome: ALESSANDRA DA SILVA ARAUJO BORGES
+    Logradouro: FE EM DEUS
+    Número: 9
+    Bairro: GUAMA
+  [5]
+    CPF: 007.002.452-94
+    Nome: SILVANE DE JESUS LOPES TAVARES
+    Logradouro: FE EM DEUS
+    Número: 225
+    Bairro: GUAMA
+  [6]
+    CPF: 831.011.012-04
+    Nome: DAYANE SOARES ARAUJO
+    Logradouro: FE EM DEUS
+    Número: 91
+    Bairro: GUAMA
+  [7]
+    CPF: 425.599.012-34
+    Nome: ISMAEL CADETE FONSECA
+    Logradouro: FE EM DEUS
+    Número: 20
+    Bairro: GUAMA
+  [8]
+    CPF: 845.599.422-34
+    Nome: DEUSIANE DE JESUS COIMBRA DOS SANTOS
+    Logradouro: FE EM DEUS
+    Número: 23
+    Bairro: GUAMA
+  [9]
+    CPF: 645.978.142-72
+    Nome: CLOVIS AUGUSTO CARDOSO FARIAS
+    Logradouro: FE EM DEUS
+    Número: 6
+    Bairro: GUAMA
+  [10]
+    CPF: 011.725.672-20
+    Nome: RILDO BARBOSA OLIVEIRA
+    Logradouro: FE EM DEUS
+    Número: 5
+    Bairro: GUAMA
+  [11]
+    CPF: 429.393.562-20
+    Nome: NATANAEL LIMA DA SILVA
+    Logradouro: FE EM DEUS
+    Número: 181
+    Bairro: GUAMA
+  [12]
+    CPF: 678.616.872-87
+    Nome: LEONILDO DA SILVA ARAUJO DE MATOS
+    Logradouro: FE EM DEUS
+    Número: 9
+    Bairro: GUAMA
+  [13]
+    CPF: 257.582.682-91
+    Nome: MARIA JOSE SANTANA PRADO
+    Logradouro: FE EM DEUS
+    Número: 10
+    Bairro: GUAMA
+  [14]
+    CPF: 141.970.142-87
+    Nome: MANOEL JOSE AZEVEDO
+    Logradouro: FE EM DEUS
+    Número: 2
+    Bairro: GUAMA
+  [15]
+    CPF: 020.067.732-24
+    Nome: TATIANE FERREIRA CARVALHO
+    Logradouro: FE EM DEUS
+    Número: 204
+    Bairro: GUAMA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (91) 99834-5229
+    Nome: SOLENI ALVES DO NASCIMENTO
+    Cidade: BELEM
+    UF: PA
+E-mails: (1 item(s))
+  - sollenni.alves@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 686
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 686.9
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (91) 98810-5710
+    Ddd: 91
+    Número: 988105710
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [2]
+    Telefone: (91) 98848-0508
+    Ddd: 91
+    Número: 988480508
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [3]
+    Telefone: (91) 99305-6207
+    Ddd: 91
+    Número: 993056207
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+  [4]
+    Telefone: (91) 99801-5766
+    Ddd: 91
+    Número: 998015766
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+  [5]
+    Telefone: (91) 98725-6768
+    Ddd: 91
+    Número: 987256768
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

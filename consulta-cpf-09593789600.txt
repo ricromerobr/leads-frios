@@ -1,0 +1,390 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  09593789600
+Data/Hora:  02/10/2026, 17:26:56
+Tempo API:  755ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 095.937.896-00
+Nome: HAMILTON SERGIO DE MELO
+Primeiro Nome: HAMILTON
+Sobrenome: MELO
+Sexo: Masculino
+Data de Nascimento: 25/08/1991
+Nome da Mãe: APARECIDA MARIA DE JESUS MELO
+Nome do Pai: FRANCISCO JESUS MARCELINO MELO
+Mosaic: F22
+Ocupação: Ajudante de motorista
+Score:
+  Value: 311
+  Range: ALTO
+E-mail: PRETINHOSPEED452@GMAIL.COM
+Federal Status: REGULAR
+Renda: 1346
+Income Bracket: 2
+Cbo: 811770
+Endereço:
+  Tipo: RUA
+  Rua: LONDRINA
+  Número: 360
+  Bairro: PARQUE DAS GAMELEIRAS
+  Cidade: UBERABA
+  Estado: MINAS GERAIS
+  CEP: 38037-450
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LONDRINA
+    Número: 360
+    Bairro: PARQUE DAS GAMELEIRAS
+    Cidade: UBERABA
+    Estado: MINAS GERAIS
+    CEP: 38037-450
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LONDRINA
+    Número: 360
+    Bairro: JD METROPOLE
+    Cidade: UBERABA - MG
+    Fonte: DATASUS
+  [3]
+    Rua: DA CONSTITUICAO
+    Tipo: R
+    Número: 1354
+    Complemento: C
+    Bairro: NOSSA SENHORA DA ABADIA
+    Cidade: UBERABA
+    Estado: MG
+    CEP: 38025-110
+    Data Atualizacao: 17/06/2011
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ELIAS CRUVINEL
+    Tipo: AV
+    Número: 205
+    Bairro: BOA VISTA
+    Cidade: UBERABA
+    Estado: MG
+    CEP: 38070-100
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ELIAS CRUVINEL
+    Tipo: AV
+    Número: 204
+    Bairro: BOA VISTA
+    Cidade: UBERABA
+    Estado: MG
+    CEP: 38070-100
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: DA CONSTITUICAO
+    Tipo: R
+    Número: 1350
+    Bairro: NOSSA SENHORA DA ABADIA
+    Cidade: UBERABA
+    Estado: MG
+    CEP: 38025-110
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: AMILTON SERGIO DE MELO
+    Rua: 0000360
+    Número: LONDRINA
+    Bairro: PARQUE DAS GAMELEIRAS
+    Cidade: UBERABA
+    Estado: MG
+    CEP: 38037-450
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Cidade de Nascimento: UBERABA - MG
+Cns: 708404778418863
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/09/2019
+    Mosaic: F22
+    Mosaic New: E18
+    Mosaic Secondary: D13
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: DA CONSTITUICAO
+      Número: 1354
+      Complemento: C
+      Bairro: NOSSA SENHORA DA ABADIA
+      Cidade: UBERABA
+      Estado: MG
+      CEP: 38025-110
+      Date Added: 18/01/2011
+    [2]
+      Tipo: AV
+      Rua: ELIAS CRUVINEL
+      Número: 205
+      Bairro: BOA VISTA
+      Cidade: UBERABA
+      Estado: MG
+      CEP: 38070-100
+      Date Added: 21/10/2012
+    [3]
+      Tipo: R
+      Rua: LONDRINA
+      Número: 360
+      Complemento: C
+      Bairro: PRQ DAS GAMELEIRAS
+      Cidade: UBERABA
+      Estado: MG
+      CEP: 38037-450
+      Date Added: 09/12/2014
+    [4]
+      Tipo: AV
+      Rua: ELIAS CRUVINEL
+      Número: 204
+      Bairro: BOA VISTA
+      Cidade: UBERABA
+      Estado: MG
+      CEP: 38070-100
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: DA CONSTITUICAO
+      Número: 1350
+      Bairro: NOSSA SENHORA DA ABADIA
+      Cidade: UBERABA
+      Estado: MG
+      CEP: 38025-110
+      Date Added: 07/11/2011
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33252510
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 21/02/2011
+      Info Date: 09/11/2010
+    [2]
+      Telefone: 33222152
+      Ddd: 34
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 06/05/2012
+      Info Date: 08/05/2012
+    [3]
+      Telefone: 998142553
+      Ddd: 34
+      Tipo: 3
+      Classificacao: D
+      Date Added: 04/10/2013
+    [4]
+      Telefone: 984562808
+      Ddd: 32
+      Tipo: 3
+      Classificacao: D
+      Date Added: 19/07/2017
+    [5]
+      Telefone: 988272358
+      Ddd: 34
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 06/04/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: pretinhospeed452@gmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/01/2018
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 311
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      CPF: 101.143.556-06
+      Nome: AMANDA CAROLINA MELO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 978657888
+      Nome: APARECIDA MARIA DE JESUS MELO
+      Vinculo: MAE
+    [3]
+      CPF: 1643556690
+      Nome: SILAS AUGUSTO MELO
+      Vinculo: IRMA(O)
+  Pis: 16030974360
+Telefones: (5 item(s))
+  - (32) 98456-2808
+  - (34) 3325-2510
+  - (34) 3322-2152
+  - (34) 99814-2553
+  - (34) 98827-2358
+Additional Emails: (1 item(s))
+  - pretinhospeed452@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.413.956-00
+    Nome: WALTER APARECIDO TEIXEIRA
+    Logradouro: DA CONSTITUICAO
+    Número: 1790
+    Bairro: NOSSA SENHORA DA ABADIA
+  [2]
+    CPF: 050.749.696-54
+    Nome: RAFAEL AMPARO DE MIRANDA
+    Logradouro: DA CONSTITUICAO
+    Número: 1549
+    Bairro: NOSSA SENHORA DA ABADIA
+  [3]
+    CPF: 034.412.546-78
+    Nome: JORGE LUIS DE OLIVEIRA
+    Logradouro: DA CONSTITUICAO
+    Número: 1957
+    Bairro: NOSSA SENHORA DA ABADIA
+  [4]
+    CPF: 029.397.636-82
+    Nome: LUCIA HELENA DA SILVA
+    Logradouro: DA CONSTITUICAO
+    Número: 1981
+    Bairro: NOSSA SENHORA DA ABADIA
+  [5]
+    CPF: 057.651.486-11
+    Nome: DANIELA APARECIDA SILVA
+    Logradouro: DA CONSTITUICAO
+    Número: 1056
+    Bairro: NOSSA SENHORA DA ABADIA
+  [6]
+    CPF: 341.313.706-97
+    Nome: ORACILDA MARIA DA SILVA
+    Logradouro: DA CONSTITUICAO
+    Número: 1316
+    Bairro: NOSSA SENHORA DA ABADIA
+  [7]
+    CPF: 476.823.966-87
+    Nome: GERALDO JULIO COSTA JUNIOR
+    Logradouro: DA CONSTITUICAO
+    Número: 1511
+    Bairro: NOSSA SENHORA DA ABADIA
+  [8]
+    CPF: 439.637.146-20
+    Nome: LAURINDA CORNELIA DE ANDRADE
+    Logradouro: DA CONSTITUICAO
+    Número: SN
+    Bairro: NOSSA SENHORA DA ABADIA
+  [9]
+    CPF: 459.674.406-82
+    Nome: MARIO DANTAS
+    Logradouro: DA CONSTITUICAO
+    Número: 1954
+    Bairro: NOSSA SENHORA DA ABADIA
+  [10]
+    CPF: 620.230.550-91
+    Nome: THERBIO FELIPE MORAES CEZAR
+    Logradouro: DA CONSTITUICAO
+    Número: 1187
+    Bairro: NOSSA SENHORA DA ABADIA
+  [11]
+    CPF: 498.175.402-78
+    Nome: CEILA DAMASCENO DA COSTA GARCEZ
+    Logradouro: DA CONSTITUICAO
+    Número: 1213
+    Bairro: NOSSA SENHORA DA ABADIA
+  [12]
+    CPF: 449.485.906-06
+    Nome: JOSE ANTONIO BELARMINO
+    Logradouro: DA CONSTITUICAO
+    Número: 1560
+    Bairro: NOSSA SENHORA DA ABADIA
+  [13]
+    CPF: 012.645.856-16
+    Nome: CECILIA FERNANDES DA SILVA
+    Logradouro: DA CONSTITUICAO
+    Número: 715
+    Bairro: NOSSA SENHORA DA ABADIA
+  [14]
+    CPF: 449.244.706-78
+    Nome: VERA LUCIA DOS SANTOS LIENCKVITZ
+    Logradouro: DA CONSTITUICAO
+    Número: 1359
+    Bairro: NOSSA SENHORA DA ABADIA
+  [15]
+    CPF: 032.705.746-73
+    Nome: RODRIGO ATAIDE GOTT
+    Logradouro: DA CONSTITUICAO
+    Número: 571
+    Bairro: NOSSA SENHORA DA ABADIA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (32) 98456-2808
+    Nome: R
+    Cidade: UBERABA
+    UF: MG
+E-mails: (1 item(s))
+  - pretinhospeed452@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1346
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (34) 3325-2510
+    Ddd: 34
+    Número: 33252510
+    Tipo: FIXO
+    Data Inclusao: 21/02/2011
+    Data Informacao: 09/11/2010
+    Classificacao: D2
+  [2]
+    Telefone: (34) 3322-2152
+    Ddd: 34
+    Número: 33222152
+    Tipo: FIXO
+    Data Inclusao: 06/05/2012
+    Data Informacao: 08/05/2012
+    Classificacao: D2
+  [3]
+    Telefone: (34) 99814-2553
+    Ddd: 34
+    Número: 998142553
+    Tipo: 3
+    Data Inclusao: 04/10/2013
+    Classificacao: D
+  [4]
+    Telefone: (32) 98456-2808
+    Ddd: 32
+    Número: 984562808
+    Tipo: 3
+    Data Inclusao: 19/07/2017
+    Classificacao: D
+  [5]
+    Telefone: (34) 98827-2358
+    Ddd: 34
+    Número: 988272358
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A0
+Occupation Code: 783225
+Occupation Name: Ajudante de motorista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

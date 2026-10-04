@@ -1,0 +1,611 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  28171974880
+Data/Hora:  03/10/2026, 20:48:55
+Tempo API:  733ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 281.719.748-80
+Nome: FRANCYNE COZZETTI PETECOF
+Primeiro Nome: FRANCYNE
+Sobrenome: PETECOF
+Sexo: Feminino
+Data de Nascimento: 04/05/1979
+Nome da Mãe: FRANCIS MEIRE COZZETTI
+Nome do Pai: SEM INFORMAÇÃO
+Voter Id: 254882990141
+Mosaic: B04
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 295
+  Range: ALTO
+E-mail: francynecp@bol.com.br
+Additional Emails: (4 item(s))
+  - francynecp@bol.com.br
+  - francynecp@yahoo.com.br
+  - francynecp@yahoo.com
+  - francis.cozzetti@uol.com.br
+Federal Status: REGULAR
+Renda: 4669
+Income Bracket: 4
+Cbo: 223505
+Endereço:
+  Tipo: RUA
+  Rua: EVANGELINA
+  Bairro: VILA CARRAO
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03421-000
+All Addresses: (13 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EVANGELINA
+    Bairro: VILA CARRAO
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03421-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AV CIPRIANO RODRIGUES
+    Número: 340
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: AVENIDA CIPRIANO RODRIGUES
+    Número: 200
+    Complemento: AP 33C
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03361-010
+    Fonte: SARAIVA
+  [4]
+    Rua: DO CURSINO
+    Tipo: AV
+    Número: 104
+    Complemento: AP 23 A
+    Bairro: SAUDE
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04132-000
+    Data Atualizacao: 07/04/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: EVANGELINA
+    Tipo: R
+    Número: 1221
+    Complemento: AP 103
+    Bairro: VL CARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03421-000
+    Data Atualizacao: 30/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PEDRALIA
+    Tipo: R
+    Número: 93
+    Complemento: AP 22
+    Bairro: VL GUMERCINDO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04130-080
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: COIMBRA
+    Tipo: R
+    Número: 584
+    Bairro: BRAS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03052-030
+    Data Atualizacao: 16/10/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: COIMBRA
+    Número: 0000584
+    Bairro: BRAS
+    Cidade: S PAULO
+    Estado: SP
+    CEP: 00305-230
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: DA MOOCA
+    Número: 0004969
+    Bairro: MOOCA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03165-003
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: COIMBRA
+    Número: 0000584
+    Bairro: BRAS
+    Cidade: S PAULO
+    Estado: SP
+    CEP: 03052-030
+    Fonte: ASSECC
+  [11]
+    Tipo: R
+    Rua: JUVENTUS
+    Número: 0000379
+    Bairro: PARQUE DA MOOCA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03124-020
+    Fonte: ASSECC
+  [12]
+    Tipo: R
+    Rua: EVANGELINA
+    Número: 0001221
+    Bairro: VILA CARRAO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03421-000
+    Fonte: ASSECC
+  [13]
+    Tipo: R
+    Rua: AIMORES|EDI:PEDRAS PRECIOSAS|BLC:B|AND:7 AO 9
+    Número: 615
+    Complemento: AP - Apartamento: 84;
+    Bairro: SANTO ANDRE
+    Cidade: SANTO ANDRE
+    Estado: SP
+    CEP: 09195-090
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: RENAULT
+      Modelo: LOGAN AUTH 10
+      Ano: 2017
+Telefones: (15 item(s))
+  - (11) 4213-0959
+  - (11) 91280-8081
+  - (11) 98807-8081
+  - (11) 96640-3772
+  - (11) 96151-0651
+  - (11) 94375-6626
+  - (11) 2116-5042
+  - +55 (11) 98807-8081
+  - (11) 95026-0666
+  - (11) 99017-0994
+  - (11) 96915-8189
+  - (11) 4971-3460
+  - (11) 2091-5406
+  - (11) 2061-6302
+  - (11) 98124-0002
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 704200582988190
+Saraiva:
+  Customer Id: 3196285
+  Telefone: (11) 2116-5042
+  E-mail: francynecp@yahoo.com.br
+  Data de Nascimento: 04/05/1979
+Mte Data:
+  Nome: Francyne Cozzetti Petecof
+  Data de Nascimento: 04/05/1979
+  Nome da Mãe: Francis Meire Cozzetti Petecof
+  Endereço:
+    Rua: Evangelina
+    Número: 1221
+    Complemento: Apt0 103 Bloco Unico
+    Bairro: Vila Carrao
+    Cidade: Sao Paulo
+    Estado: SP
+    CEP: 03421-000
+Paycom:
+  E-mail: francynecp@yahoo.com.br
+  Data de Nascimento: 04/05/1979
+  Created At: 2021-08-22 02:31:20
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Rua Aimorés
+    Número: 615
+    Complemento: Ap 84 Jade
+    Bairro: Vila Alzira
+    Cidade: Santo André
+    Estado: SP
+    País: BRA
+    CEP: 09195-090
+    Telephone: +55 (11) 98807-8081
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 29/08/2019
+    Info Date: 14/11/2008
+    Mosaic: B04
+    Mosaic New: A02
+    Mosaic Secondary: A01
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: DO CURSINO
+      Número: 104
+      Complemento: AP 23 A
+      Bairro: SAUDE
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04132-000
+      Date Added: 11/10/2006
+    [2]
+      Tipo: AV
+      Rua: CIPRIANO RODRIGUES
+      Número: 200
+      Complemento: AP 33 C
+      Bairro: VL FORMOSA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03361-010
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: EVANGELINA
+      Número: 1221
+      Complemento: AP 103
+      Bairro: VL CARRAO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03421-000
+      Date Added: 16/05/2019
+    [4]
+      Tipo: R
+      Rua: PEDRALIA
+      Número: 93
+      Complemento: AP 22
+      Bairro: VL GUMERCINDO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04130-080
+      Date Added: 15/08/2006
+    [5]
+      Tipo: R
+      Rua: COIMBRA
+      Número: 584
+      Bairro: BRAS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03052-030
+      Date Added: 02/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 20616302
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 11/06/2008
+      Info Date: 01/05/2004
+    [2]
+      Telefone: 950260666
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 27/11/2014
+      Info Date: 10/06/2012
+    [3]
+      Telefone: 969158189
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 981240002
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 990170994
+      Ddd: 11
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 01/02/2018
+  E-mails: (3 item(s))
+    [1]
+      E-mail: francynecp@bol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [2]
+      E-mail: francynecp@yahoo.com.br
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [3]
+      E-mail: francynecp@yahoo.com
+      Priority: 3
+      Quality: PESSIMO
+      Personal: S
+      Blacklisted: S
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 324
+    CSB8 FAIXA: MEDIO
+    CSBA: 295
+    CSBA FAIXA: ALTO
+  Parentes: (8 item(s))
+    [1]
+      CPF: 5262527825
+      Nome: MARCO ANTONIO COZZETTI
+      Vinculo: TIA(O)
+    [2]
+      CPF: 278.792.948-64
+      Nome: FABRIZIO COZZETTI PETECOF
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 828.576.368-49
+      Nome: DELCI APARECIDA ARNONI COZZETTI
+      Vinculo: AVO
+    [4]
+      CPF: 229.142.238-38
+      Nome: JOSIANI COZZETTI RODRIGUES
+      Vinculo: PRIMA(O)
+    [5]
+      CPF: 949.212.888-87
+      Nome: EDSON PETECOF
+      Vinculo: PAI
+    [6]
+      CPF: 5551640809
+      Nome: FRANCIS MEIRE COZZETTI
+      Vinculo: MAE
+    [7]
+      CPF: 112.607.518-30
+      Nome: VALERIA DE FATIMA COZZETTI RODRIGUES
+      Vinculo: TIA(O)
+    [8]
+      CPF: 229.142.248-00
+      Nome: DIEGO COZZETTI RODRIGUES
+      Vinculo: PRIMA(O)
+  Pis: 12567362934
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.298.588-26
+    Nome: MARIA APARECIDA DOS SANTOS DE OLIVEIRA
+    Logradouro: DO CURSINO
+    Número: 58
+    Bairro: SAUDE
+  [2]
+    CPF: 024.517.284-00
+    Nome: FRANCISCA DE SALES MATIAS SOSSAI
+    Logradouro: DO CURSINO
+    Número: 24
+    Bairro: SAUDE
+  [3]
+    CPF: 147.313.678-40
+    Nome: JOSE AUGUSTO DA SILVA
+    Logradouro: DO CURSINO
+    Número: 1274
+    Bairro: SAUDE
+  [4]
+    CPF: 028.236.904-09
+    Nome: FRANCISCO MANDU NETO
+    Logradouro: DO CURSINO
+    Número: 694
+    Bairro: SAUDE
+  [5]
+    CPF: 001.418.163-09
+    Nome: FRANCISCO WELINGTON VIEIRA MARQUES
+    Logradouro: DO CURSINO
+    Número: 1216
+    Bairro: SAUDE
+  [6]
+    CPF: 148.269.028-40
+    Nome: ELAINE CRISTINA INOCENTINI
+    Logradouro: DO CURSINO
+    Número: 912
+    Bairro: SAUDE
+  [7]
+    CPF: 005.831.613-24
+    Nome: DENILSON DE SOUSA CARVALHO
+    Logradouro: DO CURSINO
+    Número: 694
+    Bairro: SAUDE
+  [8]
+    CPF: 434.966.956-68
+    Nome: VANILDA MARIA DA COSTA CARVALHO LOPES
+    Logradouro: DO CURSINO
+    Número: 1274
+    Bairro: SAUDE
+  [9]
+    CPF: 296.682.958-38
+    Nome: TIAGO RIBEIRO DE SOUZA
+    Logradouro: DO CURSINO
+    Número: SN
+    Bairro: SAUDE
+  [10]
+    CPF: 000.470.614-56
+    Nome: IVONALDO SOARES DOS SANTOS
+    Logradouro: DO CURSINO
+    Número: 694
+    Bairro: SAUDE
+  [11]
+    CPF: 393.298.798-53
+    Nome: JOSE ROBERTO PEDROSO
+    Logradouro: DO CURSINO
+    Número: 912
+    Bairro: SAUDE
+  [12]
+    CPF: 276.342.908-40
+    Nome: FABIO RAFFAELE CAMMAROSANO
+    Logradouro: DO CURSINO
+    Número: 784
+    Bairro: SAUDE
+  [13]
+    CPF: 318.140.608-20
+    Nome: HELOISA SOUZA DE OLIVEIRA
+    Logradouro: DO CURSINO
+    Número: 574
+    Bairro: SAUDE
+  [14]
+    CPF: 146.595.798-75
+    Nome: SHUNSUKE INOUE
+    Logradouro: DO CURSINO
+    Número: 104
+    Bairro: SAUDE
+  [15]
+    CPF: 077.659.638-13
+    Nome: ANTONIO TEIXEIRA SOBRINHO
+    Logradouro: DO CURSINO
+    Número: 694
+    Bairro: SAUDE
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (11) 94375-6626
+    Nome: FRANCYNE COZZETTI PETECOF
+    Cidade: S PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 95026-0666
+    Nome: FRANCYNE COZZETTI PETECOF
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 99017-0994
+    Nome: FRANCYNE COZZETI PETECOF
+    Cidade: S PAULO
+    UF: SP
+  [4]
+    Telefone: (11) 96915-8189
+    Nome: FRANCINE COZZETTI PETECOF
+    Cidade: SAO PAULO
+    UF: SP
+  [5]
+    Telefone: (11) 98807-8081
+    Nome: FRANCYNE COZZETTI PETECOF
+    Cidade: SAO PAULO
+    UF: SP
+Vivo Linhas: (3 item(s))
+  [1]
+    Telefone: (11) 4971-3460
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 04MAY2020:13:44:57
+    Cel Contato: +5511988078081
+    Complemento: AP - Apartamento: 84;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (11) 2091-5406
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Cel Contato: +5511988078081
+    Complemento: AP - Apartamento: 103;
+    Data Retirada: 08JAN2020:20:24:59
+    Tipo Cliente: Residencial
+  [3]
+    Telefone: (11) 94375-6626
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: -1
+    Plano: PF_CONTROLE
+    Data Instalacao: 19/05/2017
+    Valor Fatura: 74.99
+    Mes Referencia: 202009
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (11) 98807-8081
+    Nome: FRANCYNE COZZETTI PETECOF
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (11) 96640-3772
+    Nome: FRANCYNE COZZETTI PETECOF
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (4 item(s))
+  - francynecp@bol.com.br
+  - francynecp@yahoo.com.br
+  - francynecp@yahoo.com
+  - francis.cozzetti@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 4669
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2061-6302
+    Ddd: 11
+    Número: 20616302
+    Tipo: FIXO
+    Data Inclusao: 11/06/2008
+    Data Informacao: 01/05/2004
+    Classificacao: C
+  [2]
+    Telefone: (11) 95026-0666
+    Ddd: 11
+    Número: 950260666
+    Tipo: 3
+    Data Inclusao: 27/11/2014
+    Data Informacao: 10/06/2012
+    Classificacao: A0
+  [3]
+    Telefone: (11) 96915-8189
+    Ddd: 11
+    Número: 969158189
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (11) 98124-0002
+    Ddd: 11
+    Número: 981240002
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: C
+  [5]
+    Telefone: (11) 99017-0994
+    Ddd: 11
+    Número: 990170994
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: C2
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

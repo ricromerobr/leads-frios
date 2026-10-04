@@ -1,0 +1,437 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  93362668704
+Data/Hora:  04/10/2026, 14:22:09
+Tempo API:  719ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 933.626.687-04
+Nome: JULIO MACHADO PLAZA
+Primeiro Nome: JULIO
+Sobrenome: PLAZA
+Sexo: Masculino
+Data de Nascimento: 18/01/1968
+Nome da Mãe: DEBORAH M PLAZA
+Nome do Pai: JANUARIO PLAZA
+RG: 080154107
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: RJ
+Mosaic: C10
+Ocupação: Dirigente e administrador de organização da sociedade civil sem fins lucrativos
+Score:
+  Value: 808
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 2544
+Income Bracket: 3
+Cbo: 517420
+Endereço:
+  Tipo: RUA
+  Rua: PROJETADA ONZE
+  Número: 5
+  Bairro: STA CRUZ
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 23525-188
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PROJETADA ONZE
+    Número: 5
+    Bairro: STA CRUZ
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 23525-188
+    Fonte: PRINCIPAL
+  [2]
+    Rua: AREIA BRANCA 1461/99999
+    Número: 2564
+    Bairro: SANTA CRUZ
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: AREIA BRANCA
+    Tipo: AV
+    Número: 2
+    Complemento: LT 5 Q 9
+    Bairro: STA CRUZ
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23550-740
+    Data Atualizacao: 12/12/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: MARIA TERESA
+    Tipo: AV
+    Número: SN
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23050-160
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: XAVIER
+    Tipo: R
+    Número: 43
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23045-740
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: JOSE FERNANDES
+    Tipo: R
+    Número: 1995
+    Complemento: C 2
+    Bairro: SEPETIBA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23535-450
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: AREIA BRANCA
+    Tipo: AV
+    Número: 5
+    Bairro: STA CRUZ
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23550-740
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: [empty]
+    Rua: AREIA BRANCA
+    Número: 0000011
+    Bairro: SANTA CRUZ
+    Cidade: 23525002
+    Estado: RJ
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: ONZE
+    Bairro: SANTA CRUZ
+    Cidade: 23560868
+    Estado: RJ
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: PROJETADA ONZE AC AV AREIA BRANCA
+    Complemento: QU 9 LT 5
+    Bairro: SEPETIBA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23525-002
+    Fonte: ALGAR
+  [11]
+    Tipo: R
+    Rua: ONZE
+    Complemento: PROJETADA SN LT5FD QD9
+    Bairro: SANTACRUZ
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23560-868
+    Fonte: NEXTEL_BR24M
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (21) 97001-7671
+  - (21) 97001-5643
+  - (21) 98651-5626
+  - (21) 97013-6901
+  - (21) 98724-4743
+  - (21) 3427-8223
+  - (21) 3157-9848
+  - (21) 99566-1897
+Datasus Phones: (1 item(s))
+  - (21) 3157-9848
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 706706575069115
+Rg Issue Date: 518324400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/06/2019
+    Mosaic: C10
+    Mosaic New: E17
+    Mosaic Secondary: E16
+    Income Bracket Id: 4
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: AREIA BRANCA
+      Número: 2
+      Complemento: LT 5 Q 9
+      Bairro: STA CRUZ
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23550-740
+      Date Added: 04/04/2017
+    [2]
+      Tipo: AV
+      Rua: MARIA TERESA
+      Número: SN
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23050-160
+      Date Added: 22/09/2015
+    [3]
+      Tipo: R
+      Rua: XAVIER
+      Número: 43
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23045-740
+      Date Added: 22/09/2015
+    [4]
+      Tipo: R
+      Rua: JOSE FERNANDES
+      Número: 1995
+      Complemento: C 2
+      Bairro: SEPETIBA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23535-450
+      Date Added: 13/02/2013
+    [5]
+      Tipo: AV
+      Rua: AREIA BRANCA
+      Número: 5
+      Bairro: STA CRUZ
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23550-740
+      Date Added: 29/09/2015
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 31579848
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 15/03/2012
+      Info Date: 20/12/2011
+    [2]
+      Telefone: 995661897
+      Ddd: 21
+      Tipo: 3
+      Classificacao: C
+      Date Added: 17/03/2015
+    [3]
+      Telefone: 34278223
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 20/08/2015
+    [4]
+      Telefone: 987244743
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/09/2016
+  Score:
+    CSB8: 864
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 808
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 173.682.197-00
+      Nome: JANUARIO PLAZA
+      Vinculo: PAI
+    [2]
+      Nome: DEBORAH M PLAZA
+      Vinculo: MAE
+  Pis: 12282719648
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2285.5
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.538.697-92
+    Nome: LEILIANE SALDANHA DA SILVA
+    Logradouro: AREIA BRANCA
+    Número: 371
+    Bairro: STA CRUZ
+  [2]
+    CPF: 070.026.813-89
+    Nome: MARCOS VINICIUS ROCHA DOS SANTOS
+    Logradouro: AREIA BRANCA
+    Número: 1
+    Bairro: STA CRUZ
+  [3]
+    CPF: 070.027.063-90
+    Nome: MATEUS VINICIUS ROCHA DOS SANTOS
+    Logradouro: AREIA BRANCA
+    Número: 1
+    Bairro: STA CRUZ
+  [4]
+    CPF: 102.367.247-20
+    Nome: JORGE MEDEIROS
+    Logradouro: AREIA BRANCA
+    Número: 956
+    Bairro: STA CRUZ
+  [5]
+    CPF: 054.168.107-93
+    Nome: TATIANE CRISTINA BAHIA COUTINHO
+    Logradouro: AREIA BRANCA
+    Número: 952
+    Bairro: STA CRUZ
+  [6]
+    CPF: 052.894.537-84
+    Nome: PATRICIA XAVIER ESTACIO
+    Logradouro: AREIA BRANCA
+    Número: 783
+    Bairro: STA CRUZ
+  [7]
+    CPF: 053.817.637-78
+    Nome: GRACIETE SOARES GOMES
+    Logradouro: AREIA BRANCA
+    Número: 1313
+    Bairro: STA CRUZ
+  [8]
+    CPF: 055.328.127-56
+    Nome: ELCIONE CAMPOS
+    Logradouro: AREIA BRANCA
+    Número: 22
+    Bairro: STA CRUZ
+  [9]
+    CPF: 436.434.857-00
+    Nome: REGINA ROSA GOUVEIA
+    Logradouro: AREIA BRANCA
+    Número: 962
+    Bairro: STA CRUZ
+  [10]
+    CPF: 059.284.877-97
+    Nome: THIAGO FORTE DA COSTA JUVENAL
+    Logradouro: AREIA BRANCA
+    Número: 11
+    Bairro: STA CRUZ
+  [11]
+    CPF: 111.360.837-40
+    Nome: STEVENSON FRAGA REZENDE
+    Logradouro: AREIA BRANCA
+    Número: 611
+    Bairro: STA CRUZ
+  [12]
+    CPF: 025.510.517-70
+    Nome: ADEILSON GOMES DA COSTA
+    Logradouro: AREIA BRANCA
+    Número: 16
+    Bairro: STA CRUZ
+  [13]
+    CPF: 012.360.727-23
+    Nome: ANA BEATRIZ VALE COUTO
+    Logradouro: AREIA BRANCA
+    Número: 1063
+    Bairro: STA CRUZ
+  [14]
+    CPF: 099.758.087-94
+    Nome: CLAUDINEIA DUARTE DE CARVALHO
+    Logradouro: AREIA BRANCA
+    Número: 330
+    Bairro: STA CRUZ
+  [15]
+    CPF: 004.715.467-55
+    Nome: MARCIA VALERIA DE MIRANDA PAES
+    Logradouro: AREIA BRANCA
+    Número: 13
+    Bairro: STA CRUZ
+Telefones Assecc: (5 item(s))
+  [1]
+    Telefone: (21) 98651-5626
+    Nome: JULIO MACHADO PLAZA
+    Cidade: 23525002
+    UF: RJ
+  [2]
+    Telefone: (21) 98724-4743
+    Nome: JULIO MACHADO PLAZA
+    Cidade: 23525002
+    UF: RJ
+  [3]
+    Telefone: (21) 97001-5643
+    Nome: JULIO MACHADO PLAZA
+    Cidade: 23560868
+    UF: RJ
+  [4]
+    Telefone: (21) 97001-7671
+    Nome: JULIO MACHADO PLAZA
+    Cidade: 23560868
+    UF: RJ
+  [5]
+    Telefone: (21) 97013-6901
+    Nome: JULIO MACHADO PLAZA
+    Cidade: 23560868
+    UF: RJ
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (21) 3427-8223
+    Nome: JULIO MACHADO PLAZA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+    Operadora: TELEMAR - TELERJ
+    Fonte: algar
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2544
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2285.5
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (21) 3157-9848
+    Ddd: 21
+    Número: 31579848
+    Tipo: FIXO
+    Data Inclusao: 15/03/2012
+    Data Informacao: 20/12/2011
+    Classificacao: D2
+  [2]
+    Telefone: (21) 99566-1897
+    Ddd: 21
+    Número: 995661897
+    Tipo: 3
+    Data Inclusao: 17/03/2015
+    Classificacao: C
+  [3]
+    Telefone: (21) 3427-8223
+    Ddd: 21
+    Número: 34278223
+    Tipo: FIXO
+    Data Inclusao: 20/08/2015
+    Classificacao: B
+  [4]
+    Telefone: (21) 98724-4743
+    Ddd: 21
+    Número: 987244743
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: A0
+Occupation Code: 114405
+Occupation Name: Dirigente e administrador de organização da sociedade civil sem fins lucrativos
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

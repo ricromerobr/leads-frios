@@ -1,0 +1,279 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17169001748
+Data/Hora:  03/10/2026, 17:38:47
+Tempo API:  744ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 171.690.017-48
+Nome: CARLOS DANIEL BORGES OLIIVEIRA
+Primeiro Nome: CARLOS
+Sobrenome: OLIIVEIRA
+Sexo: Masculino
+Data de Nascimento: 05/07/1999
+Nome da Mãe: ROBERTA NUNES BORGES
+Nome do Pai: ALESSANDRO LISBOA OLIVEIRA
+RG: 00001346004
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: ES
+Ocupação: Gerente de serviços sociais
+Score:
+  Value: 579
+  Range: BAIXO
+E-mail: cdcarlos_@hotmail.com
+Additional Emails: (1 item(s))
+  - cdcarlos_@hotmail.com
+Federal Status: REGULAR
+Renda: 780
+Income Bracket: 1
+Cbo: 131120
+Endereço:
+  Tipo: RUA
+  Rua: FELIX GONCALVES
+  Bairro: ILHA DAS FLORES
+  Cidade: VILA VELHA
+  Estado: ESPIRITO SANTO
+  CEP: 02911-500
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FELIX GONCALVES
+    Bairro: ILHA DAS FLORES
+    Cidade: VILA VELHA
+    Estado: ESPIRITO SANTO
+    CEP: 02911-500
+    Fonte: PRINCIPAL
+  [2]
+    Rua: NICOLINO SOARES
+    Número: 166
+    Bairro: ILHA DAS FLORES
+    Cidade: VILA VELHA - ES
+    Fonte: DATASUS
+  [3]
+    Rua: MARAJO
+    Tipo: R
+    Número: 599
+    Complemento: CS
+    Bairro: GLORIA
+    Cidade: VILA VELHA
+    Estado: ES
+    CEP: 29122-125
+    Data Atualizacao: 03/04/2019
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (27) 99281-2299
+  - (27) 99802-1227
+  - (27) 98883-7383
+  - (27) 99509-4381
+  - (27) 3534-2127
+  - (27) 99747-8518
+Datasus Phones: (2 item(s))
+  - (27) 3329-8160
+  - (27) 99885-2153
+Cidade de Nascimento: VITORIA - ES
+Cns: 704609750104430
+Rg Issue Date: 968727600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 07/09/2019
+    Mosaic New: C08
+    Mosaic Secondary: D13
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: MARAJO
+      Número: 599
+      Complemento: CS
+      Bairro: GLORIA
+      Cidade: VILA VELHA
+      Estado: ES
+      CEP: 29122-125
+      Date Added: 05/04/2018
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 995094381
+      Ddd: 27
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 06/04/2018
+    [2]
+      Telefone: 35342127
+      Ddd: 27
+      Tipo: 1
+      Classificacao: D
+      Date Added: 27/03/2019
+    [3]
+      Telefone: 997478518
+      Ddd: 27
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 01/04/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: cdcarlos_@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 579
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 780.7
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 045.097.567-39
+    Nome: KEYLA ALMEIDA DE PAULA
+    Logradouro: MARAJO
+    Número: 622
+    Bairro: GLORIA
+  [2]
+    CPF: 768.284.687-91
+    Nome: WELBER MARTINS DIAS
+    Logradouro: MARAJO
+    Número: 609
+    Bairro: GLORIA
+  [3]
+    CPF: 055.166.436-35
+    Nome: ELISANGELA FERREIRA DA SILVA
+    Logradouro: MARAJO
+    Número: 444
+    Bairro: GLORIA
+  [4]
+    CPF: 058.790.777-05
+    Nome: EDUARDO RODRIGO MORENO DA SILVA
+    Logradouro: MARAJO
+    Número: 420
+    Bairro: GLORIA
+  [5]
+    CPF: 119.059.387-48
+    Nome: MARCELO FONSECA CARVALHO
+    Logradouro: MARAJO
+    Número: 279
+    Bairro: GLORIA
+  [6]
+    CPF: 358.806.606-30
+    Nome: JOSE DAS GRACAS FERREIRA SOUSA
+    Logradouro: MARAJO
+    Número: 38
+    Bairro: GLORIA
+  [7]
+    CPF: 451.042.637-20
+    Nome: JUAREZ PEREIRA DA SILVA
+    Logradouro: MARAJO
+    Número: 29
+    Bairro: GLORIA
+  [8]
+    CPF: 124.629.977-17
+    Nome: GUSTAVO BEZERRA MORAES
+    Logradouro: MARAJO
+    Número: 182
+    Bairro: GLORIA
+  [9]
+    CPF: 101.513.587-02
+    Nome: MARIA JESUS DA CRUZ
+    Logradouro: MARAJO
+    Número: 1
+    Bairro: GLORIA
+  [10]
+    CPF: 337.028.106-68
+    Nome: OLGA FERREIRA TEIXEIRA
+    Logradouro: MARAJO
+    Número: 33
+    Bairro: GLORIA
+  [11]
+    CPF: 073.495.967-23
+    Nome: SANDRA VIEIRA GODOY
+    Logradouro: MARAJO
+    Número: 40
+    Bairro: GLORIA
+  [12]
+    CPF: 045.612.547-73
+    Nome: RAIMUNDO MEDEIROS DE ASSIS
+    Logradouro: MARAJO
+    Número: 55
+    Bairro: GLORIA
+  [13]
+    CPF: 074.715.547-03
+    Nome: WILSON XAVIER LOYOLA
+    Logradouro: MARAJO
+    Número: 182
+    Bairro: GLORIA
+  [14]
+    CPF: 075.304.387-43
+    Nome: ALESSANDRO RAMOS
+    Logradouro: MARAJO
+    Número: 40
+    Bairro: GLORIA
+  [15]
+    CPF: 102.504.877-64
+    Nome: ANDERSON RAMOS NEVES ZARDINI
+    Logradouro: MARAJO
+    Número: 592
+    Bairro: GLORIA
+E-mails: (1 item(s))
+  - cdcarlos_@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 780
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 780.7
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (27) 99509-4381
+    Ddd: 27
+    Número: 995094381
+    Tipo: 3
+    Data Inclusao: 06/04/2018
+    Classificacao: A2
+  [2]
+    Telefone: (27) 3534-2127
+    Ddd: 27
+    Número: 35342127
+    Tipo: FIXO
+    Data Inclusao: 27/03/2019
+    Classificacao: D
+  [3]
+    Telefone: (27) 99747-8518
+    Ddd: 27
+    Número: 997478518
+    Tipo: 3
+    Data Inclusao: 01/04/2019
+    Classificacao: A2
+Occupation Code: 131120
+Occupation Name: Gerente de serviços sociais
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

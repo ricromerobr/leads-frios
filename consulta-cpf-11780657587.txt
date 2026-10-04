@@ -1,0 +1,438 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  11780657587
+Data/Hora:  03/10/2026, 17:36:07
+Tempo API:  424ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 117.806.575-87
+Nome: EVARISTO CARNEIRO DE SOUZA
+Primeiro Nome: EVARISTO
+Sobrenome: SOUZA
+Sexo: Masculino
+Data de Nascimento: 26/10/1957
+Nome da Mãe: MARIA CARNEIRO DE SOUZA
+Mosaic: D13
+Ocupação: Dirigente e administrador de organização da sociedade civil sem fins lucrativos
+Score:
+  Value: 911
+  Range: BAIXISSIMO RISCO
+E-mail: ecarneiros@yahoo.com.br
+Additional Emails: (2 item(s))
+  - ecarneiros@yahoo.com.br
+  - evaristouniaoerlin@yahoo.com.br
+Federal Status: REGULAR
+Renda: 1165
+Income Bracket: 2
+Cbo: 111415
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: JOAQUIM RIBEIRO MOREIRA
+  Número: 61
+  Bairro: CENTRO
+  Cidade: ABAIRA
+  Estado: BAHIA
+  CEP: 46690-000
+All Addresses: (9 item(s))
+  [1]
+    Tipo: RUA
+    Rua: JOAQUIM RIBEIRO MOREIRA
+    Número: 61
+    Bairro: CENTRO
+    Cidade: ABAIRA
+    Estado: BAHIA
+    CEP: 46690-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ANTONIO COSTA
+    Tipo: PC
+    Número: 15
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: URBINO SILVA
+    Número: 5
+    Bairro: CENTRO
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ALVIDE MOREIRA NEVES
+    Tipo: AV
+    Número: 17
+    Complemento: TER
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: JOAQUIM RIBEIRO MOREIRA
+    Tipo: R
+    Número: SN
+    Complemento: C
+    Bairro: CENTRO
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: 0000061
+    Número: JOAQUIM RIBEIRO MOREIRA
+    Bairro: CENTRO
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Fonte: ASSECC
+  [7]
+    Tipo: R
+    Rua: 0000061
+    Número: JOAQUIIM  RIBEIRO MOREIRA
+    Bairro: CENTRO
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Fonte: ASSECC
+  [8]
+    CEP: 00000-000
+    Fonte: BR21M
+  [9]
+    Tipo: R
+    Rua: JOAQUIM RIBEIRO MOREIRA
+    Bairro: CENTRO
+    Cidade: ABAIRA
+    Estado: BA
+    CEP: 46690-000
+    Fonte: ALGAR
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (75) 98186-5376
+  - (77) 98138-3556
+  - (77) 99191-4943
+  - (71) 97865-5959
+  - (77) 3476-2455
+  - (77) 3476-2408
+  - (77) 3476-2239
+  - (77) 99962-5450
+Paycom:
+  E-mail: evaristouniaoerlin@yahoo.com.br
+  Created At: 2018-01-04 15:45:02
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Conceição da Aparecida
+    Número: 7741
+    Bairro: Santa Terezinha
+    Cidade: Belo Horizonte
+    Estado: MG
+    País: BRA
+    CEP: 31365-150
+    Telephone: (71) 97865-5959
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/05/2019
+    Info Date: 21/12/2008
+    Mosaic: D13
+    Mosaic New: G24
+    Mosaic Secondary: G22
+  Endereços: (5 item(s))
+    [1]
+      Tipo: PC
+      Rua: ANTONIO COSTA
+      Número: 15
+      Cidade: ABAIRA
+      Estado: BA
+      CEP: 46690-000
+      Date Added: 03/08/2009
+    [2]
+      Rua: URBINO SILVA
+      Número: 5
+      Bairro: CENTRO
+      Cidade: ABAIRA
+      Estado: BA
+      CEP: 46690-000
+      Date Added: 16/08/2006
+    [3]
+      Tipo: AV
+      Rua: ALVIDE MOREIRA NEVES
+      Número: 17
+      Complemento: TER
+      Cidade: ABAIRA
+      Estado: BA
+      CEP: 46690-000
+      Date Added: 11/10/2006
+    [4]
+      Tipo: R
+      Rua: JOAQUIM RIBEIRO MOREIRA
+      Número: SN
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: ABAIRA
+      Estado: BA
+      CEP: 46690-000
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: JOAQUIM RIBEIRO MOREIRA
+      Número: 61
+      Bairro: CENTRO
+      Cidade: ABAIRA
+      Estado: BA
+      CEP: 46690-000
+      Date Added: 04/04/2017
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34762239
+      Ddd: 77
+      Tipo: 1
+      Classificacao: B
+      Date Added: 02/12/2009
+    [2]
+      Telefone: 991914943
+      Ddd: 77
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 04/11/2013
+    [3]
+      Telefone: 34762408
+      Ddd: 77
+      Tipo: 1
+      Classificacao: B
+      Date Added: 07/01/2014
+      Info Date: 18/03/2013
+    [4]
+      Telefone: 34762455
+      Ddd: 77
+      Tipo: 1
+      Classificacao: B
+      Date Added: 27/11/2014
+      Info Date: 28/08/2017
+    [5]
+      Telefone: 999625450
+      Ddd: 77
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: ecarneiros@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+  Score:
+    CSB8: 855
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 911
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA CARNEIRO DE SOUZA
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 032.840.685-62
+    Nome: JESSICA SILVA PEREIRA
+    Logradouro: AGRIPINO AZEVEDO
+    Número: 9972
+    Bairro: CENTRO ABAIRA
+  [2]
+    CPF: 020.975.115-03
+    Nome: ZILDA SILVA ALVES
+    Logradouro: DO COLEGIO
+    Número: 61
+    Bairro: CENTRO CATOLES
+  [3]
+    CPF: 036.488.475-46
+    Nome: MARIA TELVA DOS SANTOS LIMA
+    Logradouro: PO CAFUNDO
+    Número: 855
+    Bairro: CENTRO RIBEIRAO DE B
+  [4]
+    CPF: 027.952.395-58
+    Nome: BENEDITO NOVAIS PEREIRA
+    Logradouro: PO FAZENDINHA
+    Número: 9905
+    Bairro: CENTRO FAZENDINHA
+  [5]
+    CPF: 044.931.705-65
+    Nome: MARIA DE FATIMA VIANA SANTOS
+    Logradouro: NOVA
+    Número: 36
+    Bairro: CENTRO RIBEIRAO DE B
+  [6]
+    CPF: 030.313.825-44
+    Nome: ROSANGELA MARTINS ALVES SILVA
+    Logradouro: PRINCIPAL
+    Número: 2081
+    Bairro: CENTRO
+  [7]
+    CPF: 056.855.475-28
+    Nome: ANTONIO CARLOS ALVES ALMEIDA
+    Logradouro: TRES
+    Número: 51
+    Bairro: CENTRO CATOLES
+  [8]
+    CPF: 007.451.965-43
+    Nome: MARIA APARECIDA DE ALMEIDA SILVA
+    Logradouro: LOC POV OURO VERDE
+    Número: SN
+    Bairro: ZONA RURAL
+  [9]
+    CPF: 756.623.455-20
+    Nome: GUIOMAR SOUZA SANTOS
+    Logradouro: NOVA
+    Número: 9992
+    Bairro: CENTRO OURO VERDE
+  [10]
+    CPF: 071.632.085-10
+    Nome: EDSON OLIVEIRA
+    Logradouro: DO CAMPO
+    Número: 9983
+    Bairro: CENTRO ABAIRA
+  [11]
+    CPF: 456.840.735-49
+    Nome: MARIA NOVAIS SILVA
+    Logradouro: FAZENDINHA
+    Número: SN
+  [12]
+    CPF: 000.898.875-73
+    Nome: VALTER SOUZA
+    Logradouro: PO TANQUE
+    Número: 400
+    Bairro: CENTRO TANQUE
+  [13]
+    CPF: 087.317.305-82
+    Nome: RONILDO NOVAIS OLIVEIRA
+    Logradouro: FRANCISCO FILHO
+    Número: 47
+    Bairro: CENTRO ABAIRA
+  [14]
+    CPF: 003.833.915-39
+    Nome: MARIA CELMA NOVAIS VIEIRA SOUZA
+    Logradouro: ALTO DO BONFIM
+    Número: 9993
+    Bairro: CENTRO ABAIRA
+  [15]
+    CPF: 508.650.808-87
+    Nome: JAIME JOSE DE AZEVEDO
+    Logradouro: PO BARRA DOS CATOLES
+    Número: 16
+    Bairro: RURAL CATOLES
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (77) 99191-4943
+    Nome: EVARISTO CARNEIRO DE SOUZA
+    Cidade: ABAIRA
+    UF: BA
+  [2]
+    Telefone: (77) 98138-3556
+    Nome: EVARISTO CARNEIRO DE SOUZA
+    Cidade: ABAIRA
+    UF: BA
+Telefones Operadoras: (4 item(s))
+  [1]
+    Telefone: (77) 99191-4943
+    Nome: EVARISTO CARNEIRO DE SOUSA
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (77) 3476-2455
+    Nome: EVARISTO CARNEIRO DE SOUZA
+    Cidade: ABAIRA
+    UF: BA
+    Operadora: TELEMAR - TELEBAHIA
+    Fonte: algar
+  [3]
+    Telefone: (77) 3476-2408
+    Nome: EVARISTO CARNEIRO DE SOUZA
+    Cidade: ABAIRA
+    UF: BA
+    Operadora: TELEMAR - TELEBAHIA
+    Fonte: algar
+  [4]
+    Telefone: (77) 98138-3556
+    Nome: EVARISTO CARNEIRO DE SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - ecarneiros@yahoo.com.br
+  - evaristouniaoerlin@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1165
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (77) 3476-2239
+    Ddd: 77
+    Número: 34762239
+    Tipo: FIXO
+    Data Inclusao: 02/12/2009
+    Classificacao: B
+  [2]
+    Telefone: (77) 99191-4943
+    Ddd: 77
+    Número: 991914943
+    Tipo: 3
+    Data Inclusao: 04/11/2013
+    Classificacao: A1
+  [3]
+    Telefone: (77) 3476-2408
+    Ddd: 77
+    Número: 34762408
+    Tipo: FIXO
+    Data Inclusao: 07/01/2014
+    Data Informacao: 18/03/2013
+    Classificacao: B
+  [4]
+    Telefone: (77) 3476-2455
+    Ddd: 77
+    Número: 34762455
+    Tipo: FIXO
+    Data Inclusao: 27/11/2014
+    Data Informacao: 28/08/2017
+    Classificacao: B
+  [5]
+    Telefone: (77) 99962-5450
+    Ddd: 77
+    Número: 999625450
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+Occupation Code: 114405
+Occupation Name: Dirigente e administrador de organização da sociedade civil sem fins lucrativos
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

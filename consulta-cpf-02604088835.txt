@@ -1,0 +1,307 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02604088835
+Data/Hora:  04/10/2026, 10:08:52
+Tempo API:  319ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 026.040.888-35
+Nome: PAULO ROBERTO DE MELO
+Primeiro Nome: PAULO
+Sobrenome: MELO
+Sexo: Masculino
+Data de Nascimento: 11/03/1960
+Nome da Mãe: CANDIDA FRANCISCA DE MELO
+Nome do Pai: GERALDO DE MELO
+RG: 14094796
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 050729020116
+Mosaic: G26
+Ocupação: Vigilante
+Score:
+  Value: 54
+  Range: ALTISSIMO
+E-mail: meloroberto1960@gmail.com
+Additional Emails: (1 item(s))
+  - meloroberto1960@gmail.com
+Federal Status: REGULAR
+Renda: 987
+Income Bracket: 1
+Cbo: 391115
+Corporate Share Pct: 100
+Endereço:
+  Tipo: AVENIDA
+  Rua: JOSE OLEGARIO DE BARROS
+  Bairro: AREAO
+  Cidade: TAUBATE
+  Estado: SAO PAULO
+  CEP: 12060-400
+All Addresses: (4 item(s))
+  [1]
+    Tipo: AVENIDA
+    Rua: JOSE OLEGARIO DE BARROS
+    Bairro: AREAO
+    Cidade: TAUBATE
+    Estado: SAO PAULO
+    CEP: 12060-400
+    Fonte: PRINCIPAL
+  [2]
+    Rua: TENENTE ELISEU BUENO DE TOLEDO
+    Número: 120
+    Bairro: PARQUE SABARÁ
+    Cidade: TAUBATE - SP
+    Fonte: DATASUS
+  [3]
+    Rua: ELIZEU BUENO DE TOLEDO
+    Tipo: R
+    Número: 120
+    Bairro: PRQ STO ANTONIO
+    Cidade: TAUBATE
+    Estado: SP
+    CEP: 12061-320
+    Data Atualizacao: 16/03/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Tipo: JOSE OLEGARIO DE BARROS
+    Rua: AV
+    Número: 0000421
+    Bairro: AREAO
+    Cidade: SP
+    Estado: TAUBATE
+    CEP: 12060-400
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (12) 99200-4579
+  - (12) 3633-5311
+  - (12) 3624-2087
+  - (12) 3629-6713
+  - (12) 99111-2176
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: SAO JOSE DO RIO PRETO - SP
+Cns: 700408491059645
+Rg Issue Date: 310878000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/12/2019
+    Mosaic: G26
+    Mosaic New: I30
+    Mosaic Secondary: E15
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: ELIZEU BUENO DE TOLEDO
+      Número: 120
+      Bairro: PRQ STO ANTONIO
+      Cidade: TAUBATE
+      Estado: SP
+      CEP: 12061-320
+      Date Added: 11/10/2006
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 36242087
+      Ddd: 12
+      Tipo: 2
+      Classificacao: D2
+      Date Added: 19/04/2011
+      Info Date: 31/12/2002
+    [2]
+      Telefone: 36296713
+      Ddd: 12
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 17/03/2015
+    [3]
+      Telefone: 991112176
+      Ddd: 12
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 29/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: meloroberto1960@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 132
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 54
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: CANDIDA FRANCISCA DE MELO
+      Vinculo: MAE
+  Pis: 10779262031
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 501.16
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 029.977.538-05
+    Nome: GERALDO GALVAO MOTA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 70
+    Bairro: PRQ STO ANTONIO
+  [2]
+    CPF: 526.862.568-34
+    Nome: SALOMAO MARCOS DA SILVA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 136
+    Bairro: PRQ STO ANTONIO
+  [3]
+    CPF: 401.196.398-40
+    Nome: JEAN DOS SANTOS SLEIMAN ALI
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 107
+    Bairro: PRQ STO ANTONIO
+  [4]
+    CPF: 098.511.808-31
+    Nome: MARIA APARECIDA SOARES
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 176
+    Bairro: PRQ STO ANTONIO
+  [5]
+    CPF: 267.577.778-19
+    Nome: CRISTIANO JANUARIO DE OLIVEIRA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 125
+    Bairro: PRQ STO ANTONIO
+  [6]
+    CPF: 098.516.278-36
+    Nome: JOAO PAULO DE OLIVEIRA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 96
+    Bairro: PRQ STO ANTONIO
+  [7]
+    CPF: 122.087.988-64
+    Nome: ROSIANE GOMES DE LIMA SILVA FRADE
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 63
+    Bairro: PRQ STO ANTONIO
+  [8]
+    CPF: 306.612.188-72
+    Nome: IRINEU MOYSES DE OLIVEIRA FILHO
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 3
+    Bairro: PRQ STO ANTONIO
+  [9]
+    CPF: 057.049.318-80
+    Nome: MARIA APARECIDA ALVES
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 115
+    Bairro: PRQ STO ANTONIO
+  [10]
+    CPF: 337.224.008-13
+    Nome: CARLA FRANCINE FREITAS DOS SANTOS
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 100
+    Bairro: PRQ STO ANTONIO
+  [11]
+    CPF: 370.160.878-40
+    Nome: EMANUEL DE MORAIS JUNIOR
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 140
+    Bairro: PRQ STO ANTONIO
+  [12]
+    CPF: 342.804.478-96
+    Nome: MATEUS APARECIDO DA SILVA DE OLIVEIRA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 70
+    Bairro: PRQ STO ANTONIO
+  [13]
+    CPF: 038.097.018-07
+    Nome: MARIA DA CRUZ DA SILVA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 126
+    Bairro: PRQ STO ANTONIO
+  [14]
+    CPF: 469.895.048-11
+    Nome: JESSICA FABIANA CURSINO DE CAMPOS
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 23
+    Bairro: PRQ SABARA
+  [15]
+    CPF: 122.060.418-63
+    Nome: APARECIDA DONIZETTI DOS SANTOS MOTA
+    Logradouro: ELIZEU BUENO DE TOLEDO
+    Número: 70
+    Bairro: PRQ STO ANTONIO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (12) 99200-4579
+    Nome: PAULO ROBERTO DE MELO
+    Cidade: SP
+    UF: TAUBATE
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (12) 99200-4579
+    Nome: PAULO ROBERTO DE MELO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - meloroberto1960@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 987
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 501.16
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (12) 3624-2087
+    Ddd: 12
+    Número: 36242087
+    Tipo: CELULAR
+    Data Inclusao: 19/04/2011
+    Data Informacao: 31/12/2002
+    Classificacao: D2
+  [2]
+    Telefone: (12) 3629-6713
+    Ddd: 12
+    Número: 36296713
+    Tipo: FIXO
+    Data Inclusao: 17/03/2015
+    Classificacao: D2
+  [3]
+    Telefone: (12) 99111-2176
+    Ddd: 12
+    Número: 991112176
+    Tipo: 3
+    Data Inclusao: 29/03/2019
+    Classificacao: A2
+Occupation Code: 517330
+Occupation Name: Vigilante
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

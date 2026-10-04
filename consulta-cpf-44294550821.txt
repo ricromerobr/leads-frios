@@ -1,0 +1,372 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  44294550821
+Data/Hora:  03/10/2026, 16:20:32
+Tempo API:  554ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 442.945.508-21
+Nome: CAIO RICARDO
+Primeiro Nome: CAIO
+Sobrenome: RICARDO
+Sexo: Masculino
+Data de Nascimento: 03/12/1990
+Nome da Mãe: SANDRA DAISY RAGASSI
+Score:
+  Value: 727
+  Range: BAIXISSIMO RISCO
+E-mail: caio_dbca@hotmail.com
+Additional Emails: (6 item(s))
+  - caio_dbca@hotmail.com
+  - caio.ricardo@ig.com.br
+  - caio.ricardo@superig.com.br
+  - caio_ricardo@imvesbarcellos.com
+  - caio_ricardo@santacasasjc.com.br
+  - caio.ricardo@uol.com.br
+Federal Status: REGULAR
+Renda: 1166
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: BONFIM
+  Bairro: ALTO CAFEZAL
+  Cidade: MARILIA
+  Estado: SAO PAULO
+  CEP: 17504-040
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: BONFIM
+    Bairro: ALTO CAFEZAL
+    Cidade: MARILIA
+    Estado: SAO PAULO
+    CEP: 17504-040
+    Fonte: PRINCIPAL
+  [2]
+    Rua: BENITO JOSE ALLEGRO
+    Tipo: R
+    Número: 666
+    Bairro: VL NOVA SANTA LUZIA
+    Cidade: BAURU
+    Estado: SP
+    CEP: 17025-320
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: BONFIM
+    Tipo: R
+    Número: 1364
+    Bairro: AT CAFEZAL
+    Cidade: MARILIA
+    Estado: SP
+    CEP: 17504-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: BONFIM
+    Número: 1374
+    Bairro: ALTO CAFEZAL
+    Estado: SP
+    CEP: 17504-040
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Mte Data:
+  Nome: Caio Ricardo
+  Data de Nascimento: 03/12/1990
+  Nome da Mãe: Sandra Daisy Ragassi
+  Endereço:
+    Rua: Benito Jose Allegro
+    Número: 66
+    Complemento: Qd 06
+    Bairro: Beija Flor
+    Cidade: Bauru
+    Estado: SP
+    CEP: 17025-320
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/10/2019
+    Mosaic New: C07
+    Mosaic Secondary: I31
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: BENITO JOSE ALLEGRO
+      Número: 666
+      Bairro: VL NOVA SANTA LUZIA
+      Cidade: BAURU
+      Estado: SP
+      CEP: 17025-320
+      Date Added: 30/04/2015
+    [2]
+      Tipo: R
+      Rua: BONFIM
+      Número: 1364
+      Bairro: AT CAFEZAL
+      Cidade: MARILIA
+      Estado: SP
+      CEP: 17504-040
+      Date Added: 04/10/2013
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 998412150
+      Ddd: 14
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [2]
+      Telefone: 996564161
+      Ddd: 79
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+  E-mails: (6 item(s))
+    [1]
+      E-mail: caio.ricardo@ig.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [2]
+      E-mail: caio.ricardo@superig.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [3]
+      E-mail: caio_ricardo@imvesbarcellos.com
+      Priority: 3
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+    [4]
+      E-mail: caio_ricardo@santacasasjc.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 27/01/2017
+    [5]
+      E-mail: caio.ricardo@uol.com.br
+      Priority: 5
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 27/01/2017
+    [6]
+      E-mail: caio_dbca@hotmail.com
+      Priority: 6
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 727
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 387.487.688-80
+      Nome: CAMILA CRISTINA RICARDO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 269.764.328-17
+      Nome: ANA CLAUDIA RAGASSI
+      Vinculo: TIA(O)
+    [3]
+      CPF: 222.875.528-12
+      Nome: ANA MARIA SOARES RAGASSI
+      Vinculo: AVO
+    [4]
+      CPF: 6178705867
+      Nome: SANDRA DAISY RAGASSI
+      Vinculo: MAE
+    [5]
+      CPF: 145.891.958-79
+      Nome: HERIVELTO RAGASSI
+      Vinculo: TIA(O)
+    [6]
+      CPF: 6794212897
+      Nome: EDVALDO RAGASSI
+      Vinculo: TIA(O)
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1166.87
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (2 item(s))
+  - (14) 99841-2150
+  - (79) 99656-4161
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 023.787.538-10
+    Nome: ANA MARIA VIEIRA BARBOSA
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 5
+    Bairro: VL NOVA SANTA LUZIA
+  [2]
+    CPF: 023.787.538-10
+    Nome: ANA MARIA VIEIRA BARBOSA
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 33
+    Bairro: VL NOVA SANTA LUZIA
+  [3]
+    CPF: 827.127.868-15
+    Nome: ANTONIO PEREIRA DE ANDRADE
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 6
+    Bairro: VL NOVA SANTA LUZIA
+  [4]
+    CPF: 708.365.238-49
+    Nome: LUIZ VICTALINO
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 2058
+    Bairro: VL NOVA SANTA LUZIA
+  [5]
+    CPF: 323.432.358-56
+    Nome: NADIA RUBIA ANACLETO TORCINELLI
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 42
+    Bairro: VL NOVA SANTA LUZIA
+  [6]
+    CPF: 212.429.218-85
+    Nome: MARIA DIVA CORREIA DOS SANTOS
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 6
+    Bairro: VL NOVA SANTA LUZIA
+  [7]
+    CPF: 061.770.138-56
+    Nome: VALDEMAR FRANCO
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 6
+    Bairro: VL NOVA SANTA LUZIA
+  [8]
+    CPF: 393.156.608-03
+    Nome: JOSIMARA SANTANA DA CUNHA
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 54
+    Bairro: VL NOVA SANTA LUZIA
+  [9]
+    CPF: 825.799.468-53
+    Nome: JOSE CARLOS LOPES
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 8
+    Bairro: VL NOVA SANTA LUZIA
+  [10]
+    CPF: 130.828.938-30
+    Nome: TERESA DE JESUS SILVA
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 613
+    Bairro: VL NOVA SANTA LUZIA
+  [11]
+    CPF: 249.534.318-04
+    Nome: CLEMENTE MARTIN
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 1029
+    Bairro: VL NOVA SANTA LUZIA
+  [12]
+    CPF: 592.261.458-49
+    Nome: EDIVALDO ALVES SOARES
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 2039
+    Bairro: VL NOVA SANTA LUZIA
+  [13]
+    CPF: 136.554.188-68
+    Nome: JOCASTRO RODRIGUES
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 3069
+    Bairro: VL NOVA SANTA LUZIA
+  [14]
+    CPF: 079.025.788-27
+    Nome: LUIZ DOS SANTOS
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 6
+    Bairro: VL NOVA SANTA LUZIA
+  [15]
+    CPF: 078.943.998-09
+    Nome: DURCELINA FERNANDES VICENTE
+    Logradouro: BENITO JOSE ALLEGRO
+    Número: 3028
+    Bairro: VL NOVA SANTA LUZIA
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (14) 99841-2150
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 10DEC2012
+    Ultima Recarga: 11SEP2020
+    Telefone Anterior: (14) 9841-2150
+    Plano: PF_PRE_PURO
+    Data Instalacao: 08/12/2012
+E-mails: (6 item(s))
+  - caio_dbca@hotmail.com
+  - caio.ricardo@ig.com.br
+  - caio.ricardo@superig.com.br
+  - caio_ricardo@imvesbarcellos.com
+  - caio_ricardo@santacasasjc.com.br
+  - caio.ricardo@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1166
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1166.87
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (14) 99841-2150
+    Ddd: 14
+    Número: 998412150
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [2]
+    Telefone: (79) 99656-4161
+    Ddd: 79
+    Número: 996564161
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

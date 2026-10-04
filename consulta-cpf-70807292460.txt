@@ -1,0 +1,324 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  70807292460
+Data/Hora:  04/10/2026, 14:01:51
+Tempo API:  837ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 708.072.924-60
+Nome: CARLOS DANIEL DA SILVA
+Primeiro Nome: CARLOS
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 15/03/1999
+Nome da Mãe: SELMA MARIA DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+Score:
+  Value: 630
+  Range: BAIXO
+E-mail: carlossilva15031999@gmail.com
+Additional Emails: (2 item(s))
+  - carlossilva15031999@gmail.com
+  - CARLOSSILVA15031999@GMAIL.COM
+Federal Status: REGULAR
+Renda: 615
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: PRINCIPAL
+  Bairro: CAIANA
+  Cidade: CEARAMIRIM
+  Estado: RIO GRANDE DO NORTE
+  CEP: 59570-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PRINCIPAL
+    Bairro: CAIANA
+    Cidade: CEARAMIRIM
+    Estado: RIO GRANDE DO NORTE
+    CEP: 59570-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: LAGOA DE EXTREMOZ
+    Número: 26
+    Bairro: PAJUCARA
+    Cidade: NATAL - RN
+    Fonte: DATASUS
+  [3]
+    Rua: CAIANA
+    Número: 4
+    Complemento: P
+    Bairro: AREA RURAL
+    Cidade: CEARA MIRIM
+    Estado: RN
+    CEP: 59570-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: LAGOA DE EXTREMOZ
+    Tipo: R
+    Número: 54
+    Complemento: PRQ FLO
+    Bairro: PAJUCARA
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59123-570
+    Data Atualizacao: 27/08/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CAIANA BR
+    Número: 101
+    Complemento: 25 R BR 101
+    Bairro: CAIANA
+    Cidade: CEARA MIRIM
+    Estado: RN
+    CEP: 59570-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: PRINCIPAL DA BR
+    Tipo: R
+    Número: 25
+    Bairro: CAIANA
+    Cidade: CEARA MIRIM
+    Estado: RN
+    CEP: 59570-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: RUA
+    Rua: R LAGOS DE EXTREMOZ  26
+    Número: 26
+    Bairro: PAJUCARA
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59123-570
+    Fonte: NET
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (84) 99895-5277
+  - (84) 98782-0424
+  - (84) 98835-2458
+  - (84) 98757-6229
+  - (84) 98753-2167
+Datasus Phones: (2 item(s))
+  - (84) 98757-6229
+  - (84) 98711-8617
+Cidade de Nascimento: MAXARANGUAPE - RN
+Cns: 702606200158547
+Mte Data:
+  Nome: Carlos Daniel Da Silva
+  Data de Nascimento: 15/03/1999
+  Nome da Mãe: Selma Maria Da Silva
+  Endereço:
+    Rua: Caiana
+    Número: 4 P
+    Bairro: Area Rural
+    Cidade: Ceara-Mirim
+    Estado: RN
+    CEP: 59570-000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/10/2019
+    Mosaic New: D11
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Rua: CAIANA
+      Número: 4
+      Complemento: P
+      Bairro: AREA RURAL
+      Cidade: CEARA MIRIM
+      Estado: RN
+      CEP: 59570-000
+      Date Added: 05/04/2018
+    [2]
+      Tipo: R
+      Rua: LAGOA DE EXTREMOZ
+      Número: 54
+      Complemento: PRQ FLO
+      Bairro: PAJUCARA
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59123-570
+      Date Added: 13/05/2019
+    [3]
+      Rua: CAIANA BR
+      Número: 101
+      Complemento: 25 R BR 101
+      Bairro: CAIANA
+      Cidade: CEARA MIRIM
+      Estado: RN
+      CEP: 59570-000
+      Date Added: 06/11/2019
+    [4]
+      Tipo: R
+      Rua: PRINCIPAL DA BR
+      Número: 25
+      Bairro: CAIANA
+      Cidade: CEARA MIRIM
+      Estado: RN
+      CEP: 59570-000
+      Date Added: 22/04/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+    CSBA: 630
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 615.7
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 967.455.504-82
+    Nome: JOSE EDILSON DE MORAIS
+    Logradouro: CJ JOAO DE BARROS
+    Número: 59
+    Bairro: CENTRO
+  [2]
+    CPF: 052.146.774-80
+    Nome: ANDERSON DA CONCEICAO MOTA
+    Logradouro: JOAO VARELA
+    Número: 900
+  [3]
+    CPF: 052.108.034-73
+    Nome: LEONARDO FIURITO PEREIRA SILVESTRE
+    Logradouro: ANTONIO BASILIO
+    Número: 1560
+    Bairro: PR DE MURIU
+  [4]
+    CPF: 052.045.144-90
+    Nome: JOSELIA DE LIMA GOMES
+    Logradouro: AC SITIO GOIABEIRA
+    Número: 5
+  [5]
+    CPF: 052.045.714-50
+    Nome: EDNEIDE FERREIRA DE MELO
+    Logradouro: PRINCIPAL
+    Número: 13
+    Bairro: POV RIO DOS INDI
+  [6]
+    CPF: 069.925.344-67
+    Nome: FRANCISCA RARENY BARBOSA DA SILVA
+    Logradouro: PO LAGOA GRANDE
+    Número: 115
+    Bairro: ZONA RURAL
+  [7]
+    CPF: 062.490.644-27
+    Nome: FRANCISCA FRANCILEUSA DE FRANCA
+    Logradouro: ENEAS LOPES MARINHO
+    Número: 5
+    Bairro: STA LUZIA
+  [8]
+    CPF: 051.684.674-40
+    Nome: ANGELLINA BEZERRA DA SILVA
+    Logradouro: MANOEL DANTAS BARRETO
+    Número: 208
+  [9]
+    CPF: 051.683.694-30
+    Nome: ROJANE DA SILVA NICACIO
+    Logradouro: EUCLIDES DE SOUZA
+    Número: 241
+    Bairro: CENTRO
+  [10]
+    CPF: 051.683.694-30
+    Nome: ROJANE DA SILVA NICACIO
+    Logradouro: EUCLIDES
+    Número: 241
+    Bairro: CENTRO
+  [11]
+    CPF: 051.683.734-61
+    Nome: JOSE ADELSON DA SILVA NICACIO
+    Logradouro: RAFAEL FERNADES SOBRAL
+    Número: 1328
+  [12]
+    CPF: 076.537.734-94
+    Nome: JOANA DARC PAULINO GOMES
+    Logradouro: GETULIO VARGAS
+    Número: 863
+    Bairro: CEARA MIRIM
+  [13]
+    CPF: 051.667.684-93
+    Nome: ADALBERTO PEREIRA NICACIO
+    Logradouro: RIO PRATAGI
+    Número: 37
+    Bairro: CENTRO
+  [14]
+    CPF: 051.642.324-05
+    Nome: FRANCISCA DA SILVA OLIVEIRA
+    Logradouro: JOAO DA FONSECA NETO
+    Número: 7221
+    Bairro: CENTRO
+  [15]
+    CPF: 051.582.354-65
+    Nome: LUCELIA DE ALBUQUERQUE CARDOSO DA CRUZ
+    Logradouro: MADALENA ANTUNES
+    Número: 138
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 2353181
+    Operadora: 95
+    Situação: DESABILITADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 27/02/2020
+    Tempo Base: 5
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 202002
+    Geo:
+      Ibge Municipio: 2408102
+      Ddd Origem: 84
+      Estado Nome: RIO GRANDE DO NORTE
+    Nascimento: 15/03/1999
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Classe Social: NSEG
+      Score: 3
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 339
+        Net: 218
+        Ctv: 216
+        Faixa Cmv: 2- 345
+        Faixa Net: 212 - 285
+        Faixa Ctv: 1 - 453
+        Risco Cmv: CRÍTICO
+        Risco Net: ALTISSIMO
+        Risco Ctv: CRÍTICO
+        Idade: 21
+E-mails: (1 item(s))
+  - carlossilva15031999@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 615
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 615.7
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

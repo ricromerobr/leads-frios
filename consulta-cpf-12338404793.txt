@@ -1,0 +1,359 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  12338404793
+Data/Hora:  04/10/2026, 00:57:34
+Tempo API:  842ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 123.384.047-93
+Nome: GELCIMAR DO NASCIMENTO
+Primeiro Nome: GELCIMAR
+Sobrenome: NASCIMENTO
+Sexo: Feminino
+Data de Nascimento: 05/07/1988
+Nome da Mãe: LEIDA MACHADO DO NASCIMENTO
+Nome do Pai: GESSY DO NASCIMENTO
+RG: 2244510
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: ES
+Voter Id: 028081321430
+Mosaic: J36
+Ocupação: Almoxarife
+Score:
+  Value: 665
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 1573
+Income Bracket: 2
+Cbo: 414105
+Endereço:
+  Tipo: RUA
+  Rua: ELCIO MARQUES
+  Número: 165
+  Bairro: CJ DALVO LOUREI
+  Cidade: SOORETAMA
+  Estado: ESPIRITO SANTO
+  CEP: 29927-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: ELCIO MARQUES
+    Número: 165
+    Bairro: CJ DALVO LOUREI
+    Cidade: SOORETAMA
+    Estado: ESPIRITO SANTO
+    CEP: 29927-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ELCIO MARQUES
+    Número: 165
+    Bairro: VALE DO SOL
+    Cidade: SOORETAMA - ES
+    Fonte: DATASUS
+  [3]
+    Tipo: R
+    Rua: 0000165
+    Número: ELCIO MARQUES
+    Bairro: CONJUNTO DALVO LOUREI
+    Cidade: SOORETAMA
+    Estado: ES
+    CEP: 29927-000
+    Fonte: ASSECC
+  [4]
+    Tipo: ELCIO MARQUES
+    Rua: R
+    Número: 0000165
+    Bairro: CONJUNTO DALVO LOUREI
+    Cidade: SOORETAMA
+    Estado: ES
+    CEP: 29927-000
+    Fonte: ASSECC
+  [5]
+    Rua: R ELCIO MARQUES
+    Número: 165
+    Complemento: . BAIRRO VALE DO SOL
+    Bairro: CJ DALVO LOUREI
+    Estado: ES
+    CEP: 29927-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (27) 99919-1424
+  - (27) 99810-0847
+  - (27) 99991-9142
+  - (27) 99981-0084
+Datasus Phones: (1 item(s))
+  - (27) 99843-3661
+Cidade de Nascimento: LINHARES - ES
+Cns: 702607777505349
+Rg Issue Date: 1120705200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 30/08/2019
+    Mosaic: J36
+    Mosaic New: H28
+    Mosaic Secondary: D13
+    Income Bracket Id: 2
+  Endereços: (2 item(s))
+    [1]
+      Tipo: R
+      Rua: ELCIO MARQUES
+      Número: 165
+      Bairro: CJ DALVO LOUREI
+      Cidade: SOORETAMA
+      Estado: ES
+      CEP: 29927-000
+      Date Added: 30/09/2014
+    [2]
+      Rua: ELCIO MAEQUES
+      Número: 165
+      Complemento: IGREJA
+      Bairro: VLE DO SOL
+      Cidade: SOORETAMA
+      Estado: ES
+      CEP: 29927-000
+      Date Added: 09/12/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 999191424
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 26/01/2012
+    [2]
+      Telefone: 998100847
+      Ddd: 27
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 26/01/2012
+      Info Date: 21/02/2019
+    [3]
+      Telefone: 999919142
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 03/12/2014
+    [4]
+      Telefone: 999810084
+      Ddd: 27
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/12/2014
+  Score:
+    CSB8: 765
+    CSB8 FAIXA: BAIXISSIMO RISCO
+    CSBA: 665
+    CSBA FAIXA: BAIXO
+  Parentes: (4 item(s))
+    [1]
+      CPF: 9461215754
+      Nome: MARIA APARECIDA NASCIMENTO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 8631571733
+      Nome: DJALMA DO NASCIMENTO
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 8423496775
+      Nome: VANDERLEIA DO NASCIMENTO
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 949.913.757-20
+      Nome: LEIDA MACHADO DO NASCIMENTO
+      Vinculo: MAE
+  Pis: 16282749892
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1234.44
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 115.118.837-90
+    Nome: FERNANDO MAIA DA SILVA
+    Logradouro: CHUMBADO
+    Número: 1
+    Bairro: CRG CHUMBADO
+  [2]
+    CPF: 405.483.505-82
+    Nome: JOSE RAIMUNDO NUNES DOS SANTOS
+    Logradouro: JOAO MOURA
+    Número: SN
+    Bairro: BAIRRO SALVADOR
+  [3]
+    CPF: 417.367.105-91
+    Nome: ANANIAS ALVES SANTANA
+    Logradouro: CRISTO REI
+    Número: 200
+    Bairro: SALVADOR
+  [4]
+    CPF: 045.879.517-81
+    Nome: ADROALDO RIBEIRO MARINHO
+    Logradouro: ANTONIO MARTINHO DE PAULA
+    Número: 149
+    Bairro: SALVADOR
+  [5]
+    CPF: 055.270.117-32
+    Nome: JOSE DE FREITAS
+    Logradouro: FAZENDA AGROBOR
+    Número: SN
+    Bairro: INTERIOR
+  [6]
+    CPF: 143.828.717-86
+    Nome: MARIANA COLUNA ALVES
+    Logradouro: PRICIPAL
+    Número: 1
+    Bairro: JUNCADO
+  [7]
+    CPF: 144.662.857-48
+    Nome: DIEFERSON BARRINHA DE MOURA
+    Logradouro: LTM VALE DO SOL
+    Número: SN
+    Bairro: CENTRO
+  [8]
+    CPF: 052.573.646-89
+    Nome: DEMERVAL CAMILO DE MATES JUNIOR
+    Logradouro: BASILIO SERE
+    Número: 37
+    Bairro: PRQ S JORGE
+  [9]
+    CPF: 108.358.617-32
+    Nome: ANA LUCIA PIRES LUCIDIO
+    Logradouro: AMAZONICA
+    Número: SN
+  [10]
+    CPF: 053.681.717-06
+    Nome: ELY LUCAS BRAZ
+    Logradouro: BOM FIM
+    Número: 31
+    Bairro: CENTRO
+  [11]
+    CPF: 143.283.927-60
+    Nome: MAYARA RAMOS COUTINHO
+    Logradouro: IMETAME
+    Número: SN
+    Bairro: INTERIOR
+  [12]
+    CPF: 166.440.287-05
+    Nome: JAMILE SANTOS ARAUJO
+    Logradouro: JUERANA
+    Número: SN
+    Bairro: JUERANA
+  [13]
+    CPF: 119.387.277-46
+    Nome: LAUDICEIA MARTELO
+    Logradouro: VILMO GUIZANI
+    Número: 601
+    Bairro: SALVADOR
+  [14]
+    CPF: 121.275.367-46
+    Nome: ORLANDO CORDEIRO DOS SANTOS
+    Logradouro: JOSE LEONEL
+    Número: 668
+    Bairro: CENTRO
+  [15]
+    CPF: 053.459.727-02
+    Nome: DJEYCKSON GEIRA ZOCATELI
+    Logradouro: VISTA ALEGRE
+    Número: 736
+    Bairro: CENTRO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (27) 99810-0847
+    Nome: GELCIMAR DO NASCIMENTO
+    Cidade: SOORETAMA
+    UF: ES
+  [2]
+    Telefone: (27) 99919-1424
+    Nome: GELCIMAR DO NASCIMENTO
+    Cidade: SOORETAMA
+    UF: ES
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (27) 99810-0847
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (27) 9810-0847
+    Plano: PF_CONTROLE
+    Data Instalacao: 13/05/2009
+    Flag Divida: 1
+    Maior Atraso: -8
+    Menor Atraso: -8
+    Valor Fatura: 59.99
+    Mes Referencia: 202009
+  [2]
+    Telefone: (27) 99919-1424
+    Tipo: pos
+    Status Linha: ATIVO
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Telefone Anterior: (27) 9919-1424
+    Plano: PF_CONTROLE
+    Data Instalacao: 27/06/2009
+    Flag Divida: 1
+    Maior Atraso: 14
+    Menor Atraso: 14
+    Valor Fatura: 61.64
+    Mes Referencia: 202010
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1573
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1234.44
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (27) 99919-1424
+    Ddd: 27
+    Número: 999191424
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Classificacao: D
+  [2]
+    Telefone: (27) 99810-0847
+    Ddd: 27
+    Número: 998100847
+    Tipo: 3
+    Data Inclusao: 26/01/2012
+    Data Informacao: 21/02/2019
+    Classificacao: A0
+  [3]
+    Telefone: (27) 99991-9142
+    Ddd: 27
+    Número: 999919142
+    Tipo: 3
+    Data Inclusao: 03/12/2014
+    Classificacao: D2
+  [4]
+    Telefone: (27) 99981-0084
+    Ddd: 27
+    Número: 999810084
+    Tipo: 3
+    Data Inclusao: 17/12/2014
+    Classificacao: D
+Occupation Code: 414105
+Occupation Name: Almoxarife
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

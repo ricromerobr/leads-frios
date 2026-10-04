@@ -1,0 +1,223 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  14725500720
+Data/Hora:  04/10/2026, 10:05:42
+Tempo API:  319ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 147.255.007-20
+Nome: MICHELE DE PAULA OLIVEIRA
+Primeiro Nome: MICHELE
+Sobrenome: OLIVEIRA
+Sexo: Feminino
+Data de Nascimento: 05/05/1993
+Nome da Mãe: LUCIANA BELARMINA DE PAULA DE OLIVEIRA
+Ocupação: Atendente comercial (agência postal)
+Score:
+  Value: 762
+  Range: BAIXISSIMO RISCO
+Federal Status: REGULAR
+Renda: 825
+Income Bracket: 1
+Cbo: 421105
+Endereço:
+  Tipo: RUA
+  Rua: SAMUEL
+  Bairro: NOVA BELEM
+  Cidade: JAPERI
+  Estado: RIO DE JANEIRO
+  CEP: 26433-370
+All Addresses: (2 item(s))
+  [1]
+    Tipo: RUA
+    Rua: SAMUEL
+    Bairro: NOVA BELEM
+    Cidade: JAPERI
+    Estado: RIO DE JANEIRO
+    CEP: 26433-370
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EDSON SILVA
+    Tipo: R
+    Número: 19
+    Bairro: PACIENCIA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23585-810
+    Data Atualizacao: 15/07/2014
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (4 item(s))
+  - (21) 97029-1439
+  - (21) 99071-1596
+  - (21) 99278-3850
+  - (21) 3356-3027
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/09/2019
+    Mosaic New: H28
+    Mosaic Secondary: D11
+    Income Bracket Id: 3
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: EDSON SILVA
+      Número: 19
+      Bairro: PACIENCIA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23585-810
+      Date Added: 20/02/2014
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 33563027
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 23/08/2016
+  Score:
+    CSB8: 135
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 762
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 108.759.497-97
+      Nome: LUCIANA BELARMINA DE PAULA DE OLIVEIRA
+      Vinculo: MAE
+  Pis: 14489101895
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1771.85
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 181.908.477-91
+    Nome: ZILDETE ALVES TOURINHO
+    Logradouro: EDSON SILVA
+    Número: 28
+    Bairro: PACIENCIA
+  [2]
+    CPF: 633.830.557-87
+    Nome: JUAREZ DIAS DA COSTA
+    Logradouro: EDSON SILVA
+    Número: 88
+    Bairro: PACIENCIA
+  [3]
+    CPF: 013.645.997-83
+    Nome: SANDRA HELENA GOMES LOPES
+    Logradouro: EDSON SILVA
+    Número: 2
+    Bairro: PACIENCIA
+  [4]
+    CPF: 104.876.557-10
+    Nome: MARLETE MENDONCA CRUZ
+    Logradouro: EDSON SILVA
+    Número: 22
+    Bairro: PACIENCIA
+  [5]
+    CPF: 055.568.247-11
+    Nome: JONATHAS BARBOSA DOS SANTOS
+    Logradouro: EDSON SILVA
+    Número: SN
+    Bairro: PACIENCIA
+  [6]
+    CPF: 399.093.957-20
+    Nome: PAULO CESAR COSTA
+    Logradouro: EDSON SILVA
+    Número: 10
+    Bairro: PACIENCIA
+  [7]
+    CPF: 724.512.701-87
+    Nome: OLIVALDO RODRIGUES DE JESUS
+    Logradouro: EDSON SILVA
+    Número: 37
+    Bairro: PACIENCIA
+  [8]
+    CPF: 045.180.904-11
+    Nome: MOISES MANOEL DA SILVA
+    Logradouro: EDSON SILVA
+    Número: SN
+    Bairro: PACIENCIA
+  [9]
+    CPF: 543.311.457-00
+    Nome: MARIA DE FATIMA CRUZ
+    Logradouro: EDSON SILVA
+    Número: 142
+    Bairro: PACIENCIA
+  [10]
+    CPF: 026.195.237-45
+    Nome: ZULI NASCIMENTO DE FREITAS
+    Logradouro: EDSON SILVA
+    Número: 57
+    Bairro: PACIENCIA
+  [11]
+    CPF: 549.126.527-68
+    Nome: JOSE CARLOS DOS ANJOS
+    Logradouro: EDSON SILVA
+    Número: 1
+    Bairro: PACIENCIA
+  [12]
+    CPF: 595.081.407-04
+    Nome: LUIS AUGUSTO LOPES
+    Logradouro: EDSON SILVA
+    Número: 2
+    Bairro: PACIENCIA
+  [13]
+    CPF: 391.482.387-91
+    Nome: LUIZ CARLOS ALVES DOS SANTOS
+    Logradouro: EDSON SILVA
+    Número: SN
+    Bairro: PACIENCIA
+  [14]
+    CPF: 172.390.287-04
+    Nome: JOSE RANGEL GONCALVES
+    Logradouro: EDSON SILVA
+    Número: 9
+    Bairro: PACIENCIA
+  [15]
+    CPF: 624.139.107-00
+    Nome: JOSEFA CARDOSO BARRETO
+    Logradouro: EDSON SILVA
+    Número: 14
+    Bairro: PACIENCIA
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 825
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1771.85
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (21) 3356-3027
+    Ddd: 21
+    Número: 33563027
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D2
+Occupation Code: 421105
+Occupation Name: Atendente comercial (agência postal)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

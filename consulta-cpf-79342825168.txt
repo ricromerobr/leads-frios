@@ -1,0 +1,450 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  79342825168
+Data/Hora:  03/10/2026, 17:02:53
+Tempo API:  333ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 793.428.251-68
+Nome: ALEX PEREIRA MASCARENHAS
+Primeiro Nome: ALEX
+Sobrenome: MASCARENHAS
+Sexo: Masculino
+Data de Nascimento: 02/05/1975
+Nome da Mãe: EDMAR PEREIRA BARROS
+Nome do Pai: RAIMUNDO BARROS MASCARENHAS
+RG: 22928
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: TO
+Mosaic: E17
+Ocupação: Supervisor administrativo
+Score:
+  Value: 22
+  Range: ALTISSIMO
+E-mail: flagipan30@hotmail.com
+Additional Emails: (1 item(s))
+  - flagipan30@hotmail.com
+Federal Status: REGULAR
+Renda: 900
+Income Bracket: 1
+Cbo: 411010
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: LO 18
+  Número: 15
+  Complemento: CJ 35 T 20 T 21 LT 14 C 35
+  Bairro: LOT AGUA FRIA
+  Cidade: PALMAS
+  Estado: TOCANTINS
+  CEP: 77008-004
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LO 18
+    Número: 15
+    Complemento: CJ 35 T 20 T 21 LT 14 C 35
+    Bairro: LOT AGUA FRIA
+    Cidade: PALMAS
+    Estado: TOCANTINS
+    CEP: 77008-004
+    Fonte: PRINCIPAL
+  [2]
+    Rua: 606 SUL ALAMEDA DI CAVALCANTI
+    Número: 06
+    Bairro: PLANO DIRETOR SUL
+    Cidade: PALMAS - TO
+    Fonte: DATASUS
+  [3]
+    Rua: T 21 R LO 15
+    Número: 21
+    Complemento: LT 14 S N CJ 35
+    Bairro: JD TAQUARI TAQUARALTO
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77063-162
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TOCANTINS
+    Tipo: AV
+    Número: 1
+    Complemento: Q 38 LT 26
+    Bairro: ST STA FE TAQUARALTO
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77064-002
+    Data Atualizacao: 28/11/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: T 43
+    Tipo: Q
+    Número: 39
+    Complemento: LT 14 B 21 CJ 36 LT 14
+    Bairro: JD TAQUARI TAQUARALTO
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77063-600
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: T 21 R LO 15
+    Número: SN
+    Complemento: CJ 35
+    Bairro: JD TAQUARI TAQUARALTO
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77063-162
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: 603 SUL AL 13
+    Número: 16
+    Bairro: PLANO DIRETOR SUL
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77016-372
+    Data Atualizacao: 16/07/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [8]
+    Tipo: QD
+    Rua: T 21 AVENIDA TNS 4
+    Número: 0000014
+    Bairro: JARDIM TAQUARI TAQUARALTO
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77063-200
+    Fonte: ASSECC
+  [9]
+    Tipo: Q 
+    Rua: T21 CONJ 35
+    Número: 0000014
+    Bairro: TAQUARI
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77270-000
+    Fonte: ASSECC
+  [10]
+    Tipo: QD
+    Rua: 0000000
+    Número: TAQUARI
+    Bairro: T 21 AV TLO 5
+    Cidade: TAQUARI
+    Estado: TO
+    CEP: 77063-160
+    Fonte: ASSECC
+  [11]
+    Tipo: QD
+    Rua: 0000000
+    Número: JARDIM TAQUARI TAQUARALTO
+    Bairro: T 31 RUA LO 9
+    Cidade: PALMAS
+    Estado: TO
+    CEP: 77063-396
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (63) 99255-1453
+  - (63) 99102-6845
+  - (63) 98426-6320
+  - (63) 99211-6953
+  - (63) 98500-9471
+  - (63) 99934-0122
+  - (63) 3214-2051
+  - (63) 99978-2828
+  - (61) 98546-5849
+  - (63) 99915-2400
+Datasus Phones: (2 item(s))
+  - (16) 3324-5108
+  - (63) 99221-5400
+Cidade de Nascimento: CRISTALANDIA - TO
+Cns: 708902710820112
+Rg Issue Date: 1064199600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 11/08/2019
+    Info Date: 01/10/2008
+    Rg Issuer: SSP
+    Rg State: TO
+    Mosaic: E17
+    Mosaic New: G23
+    Mosaic Secondary: E15
+  Endereços: (5 item(s))
+    [1]
+      Rua: T 21 R LO 15
+      Número: 21
+      Complemento: LT 14 S N CJ 35
+      Bairro: JD TAQUARI TAQUARALTO
+      Cidade: PALMAS
+      Estado: TO
+      CEP: 77063-162
+      Date Added: 03/09/2019
+    [2]
+      Tipo: AV
+      Rua: TOCANTINS
+      Número: 1
+      Complemento: Q 38 LT 26
+      Bairro: ST STA FE TAQUARALTO
+      Cidade: PALMAS
+      Estado: TO
+      CEP: 77064-002
+      Date Added: 04/01/2016
+    [3]
+      Tipo: Q
+      Rua: T 43
+      Número: 39
+      Complemento: LT 14 B 21 CJ 36 LT 14
+      Bairro: JD TAQUARI TAQUARALTO
+      Cidade: PALMAS
+      Estado: TO
+      CEP: 77063-600
+      Date Added: 29/10/2018
+    [4]
+      Rua: T 21 R LO 15
+      Número: SN
+      Complemento: CJ 35
+      Bairro: JD TAQUARI TAQUARALTO
+      Cidade: PALMAS
+      Estado: TO
+      CEP: 77063-162
+      Date Added: 05/04/2018
+    [5]
+      Rua: 603 SUL AL 13
+      Número: 16
+      Bairro: PLANO DIRETOR SUL
+      Cidade: PALMAS
+      Estado: TO
+      CEP: 77016-372
+      Date Added: 22/04/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 32142051
+      Ddd: 63
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 05/03/2009
+      Info Date: 10/04/2017
+    [2]
+      Telefone: 999782828
+      Ddd: 63
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 992551453
+      Ddd: 63
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2014
+      Info Date: 02/04/2012
+    [4]
+      Telefone: 985465849
+      Ddd: 61
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 999152400
+      Ddd: 63
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: flagipan30@hotmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 16
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 22
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: EDMAR PEREIRA BARROS
+      Vinculo: MAE
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 040.097.591-27
+    Nome: NAIANE ALENCAR BARROS
+    Logradouro: T 21 R LO 15
+    Número: SN
+    Bairro: JD TAQUARI TAQUARALTO
+  [2]
+    CPF: 025.100.381-76
+    Nome: MARCOS SOUSA NOGUEIRA
+    Logradouro: T 21 R LO 15
+    Número: 14
+    Bairro: JD TAQUARI TAQUARALTO
+  [3]
+    CPF: 044.440.211-01
+    Nome: ADAO FERREIRA DA SILVA
+    Logradouro: T 21 R LO 15
+    Bairro: JD TAQUARI TAQUARALTO
+  [4]
+    CPF: 389.411.201-87
+    Nome: LUIZ GONCALVES ALVES DA SILVA
+    Logradouro: T 21 R LO 15
+    Número: 21
+    Bairro: JD TAQUARI TAQUARALTO
+  [5]
+    CPF: 041.329.961-90
+    Nome: MARCOS ANTONIO VIEIRA DA SILVA
+    Logradouro: T 21 R LO 15
+    Número: SN
+    Bairro: JD TAQUARI TAQUARALTO
+  [6]
+    CPF: 039.177.301-11
+    Nome: ALEXANDRE IGOR NUNES FAUSTINO
+    Logradouro: T 21 R LO 15
+    Número: 11
+    Bairro: JD TAQUARI TAQUARALTO
+  [7]
+    CPF: 621.387.822-04
+    Nome: ALDENIZIA PEREIRA DA SILVA
+    Logradouro: T 21 R LO 15
+    Número: 1
+    Bairro: JD TAQUARI TAQUARALTO
+  [8]
+    CPF: 621.387.822-04
+    Nome: ALDENIZIA PEREIRA DA SILVA
+    Logradouro: T 21 R LO 15
+    Número: SN
+    Bairro: JD TAQUARI TAQUARALTO
+  [9]
+    CPF: 188.815.051-34
+    Nome: JOSE HENRIQUE MILHOMEM DE ALMEIDA
+    Logradouro: T 21 R LO 15
+    Bairro: JD TAQUARI TAQUARALTO
+  [10]
+    CPF: 053.787.691-08
+    Nome: LAIANI RODRIGUES MOREIRA
+    Logradouro: T 21 R LO 15
+    Bairro: JD TAQUARI TAQUARALTO
+  [11]
+    CPF: 023.402.151-96
+    Nome: SIMONE SANTANA DE SOUSA SANTOS
+    Logradouro: T 21 R LO 15
+    Bairro: JD TAQUARI TAQUARALTO
+  [12]
+    CPF: 972.250.701-00
+    Nome: MAURICIO DE SOUZA MOURA
+    Logradouro: T 21 R LO 15
+    Número: 20
+    Bairro: JD TAQUARI TAQUARALTO
+  [13]
+    CPF: 041.353.481-22
+    Nome: KLESIEL PEREIRA DE AQUINO
+    Logradouro: T 21 R LO 15
+    Bairro: JD TAQUARI TAQUARALTO
+  [14]
+    CPF: 093.552.942-04
+    Nome: FRANCISCO DIAS FEITOSA
+    Logradouro: T 21 R LO 15
+    Número: 12
+    Bairro: JD TAQUARI TAQUARALTO
+  [15]
+    CPF: 903.335.601-59
+    Nome: LAUDICEIA NERES DE ANDRADE GUIMARAES
+    Logradouro: T 21 R LO 15
+    Bairro: JD TAQUARI TAQUARALTO
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (63) 99255-1453
+    Nome: ALEX PEREIRA MASCARENHAS
+    Cidade: PALMAS
+    UF: TO
+  [2]
+    Telefone: (63) 99211-6953
+    Nome: ALEX PEREIRA MASCARENHAS
+    Cidade: PALMAS
+    UF: TO
+  [3]
+    Telefone: (63) 98500-9471
+    Nome: ALEX PEREIRA MASCARENHAS
+    Cidade: TAQUARI
+    UF: TO
+  [4]
+    Telefone: (63) 99934-0122
+    Nome: ALEX PEREIRA MASCARENHAS
+    Cidade: PALMAS
+    UF: TO
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (63) 99255-1453
+    Nome: ALEX PEREIRA MASCARENHAS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - flagipan30@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 900
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (63) 3214-2051
+    Ddd: 63
+    Número: 32142051
+    Tipo: FIXO
+    Data Inclusao: 05/03/2009
+    Data Informacao: 10/04/2017
+    Classificacao: D2
+  [2]
+    Telefone: (63) 99978-2828
+    Ddd: 63
+    Número: 999782828
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (63) 99255-1453
+    Ddd: 63
+    Número: 992551453
+    Tipo: 3
+    Data Inclusao: 15/12/2014
+    Data Informacao: 02/04/2012
+    Classificacao: D
+  [4]
+    Telefone: (61) 98546-5849
+    Ddd: 61
+    Número: 985465849
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (63) 99915-2400
+    Ddd: 63
+    Número: 999152400
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+Occupation Code: 410105
+Occupation Name: Supervisor administrativo
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

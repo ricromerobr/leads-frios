@@ -1,0 +1,402 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  31672396468
+Data/Hora:  04/10/2026, 09:25:32
+Tempo API:  517ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 316.723.964-68
+Nome: JOSE PORFIRIO GARCIA
+Primeiro Nome: JOSE
+Sobrenome: GARCIA
+Sexo: Masculino
+Data de Nascimento: 19/09/1962
+Nome da Mãe: ADELAIDE MARCELINO GARCIA
+Nome do Pai: LOURIVAL PORFIRIO GARCIA
+RG: 549371
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RN
+Voter Id: 005553451686
+Mosaic: F18
+Ocupação: Cortador de pedras
+Score:
+  Value: 137
+  Range: ALTISSIMO
+E-mail: joseporfiriogarcia@10gmail.com
+Additional Emails: (2 item(s))
+  - joseporfiriogarcia@10gmail.com
+  - joseporfiriogarcia@gmail.com
+Federal Status: REGULAR
+Renda: 1264
+Income Bracket: 2
+Cbo: 712205
+Endereço:
+  Tipo: RUA
+  Rua: FRANCISCA CAMPOS
+  Número: 2020
+  Bairro: GUARAPES
+  Cidade: NATAL
+  Estado: RIO GRANDE DO NORTE
+  CEP: 59074-564
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FRANCISCA CAMPOS
+    Número: 2020
+    Bairro: GUARAPES
+    Cidade: NATAL
+    Estado: RIO GRANDE DO NORTE
+    CEP: 59074-564
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ACUDE DE ITANS
+    Número: 77
+    Bairro: PAJUÇARA
+    Cidade: NATAL - RN
+    Fonte: DATASUS
+  [3]
+    Rua: ADALBERTO LEOBINO
+    Tipo: R
+    Número: 10
+    Complemento: COND FRENTE AO
+    Bairro: PLANALTO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59073-132
+    Data Atualizacao: 15/04/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FLORENTINO DE SOUZA
+    Tipo: R
+    Número: 80
+    Bairro: NOSSA SENHORA DA APRESENTACAO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59115-599
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANA
+    Tipo: R
+    Número: 468
+    Complemento: AMARANTE
+    Bairro: GOLANDIM
+    Cidade: SAO GONCALO DO AMARANTE
+    Estado: RN
+    CEP: 59295-811
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ACUDE TOURAO
+    Tipo: R
+    Número: 56
+    Bairro: PAJUCARA
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59133-170
+    Data Atualizacao: 10/11/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: ACUDE TOURAO
+    Tipo: R
+    Número: 86
+    Bairro: PAJUCARA
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59133-170
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (84) 99194-1993
+  - (84) 98731-8074
+  - (84) 99104-8592
+  - (84) 98727-7414
+  - (84) 3674-5147
+  - (84) 98727-7351
+  - (84) 98783-9481
+Cidade de Nascimento: ACARI - RN
+Cns: 705000678850351
+Rg Issue Date: 341031600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/12/2019
+    Mosaic: F18
+    Mosaic New: H27
+    Mosaic Secondary: H26
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: ADALBERTO LEOBINO
+      Número: 10
+      Complemento: COND FRENTE AO
+      Bairro: PLANALTO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59073-132
+      Date Added: 04/03/2019
+    [2]
+      Tipo: R
+      Rua: FLORENTINO DE SOUZA
+      Número: 80
+      Bairro: NOSSA SENHORA DA APRESENTACAO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59115-599
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ANA
+      Número: 468
+      Complemento: AMARANTE
+      Bairro: GOLANDIM
+      Cidade: SAO GONCALO DO AMARANTE
+      Estado: RN
+      CEP: 59295-811
+      Date Added: 21/10/2012
+    [4]
+      Tipo: R
+      Rua: ACUDE TOURAO
+      Número: 56
+      Bairro: PAJUCARA
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59133-170
+      Date Added: 19/05/2010
+    [5]
+      Tipo: R
+      Rua: ACUDE TOURAO
+      Número: 86
+      Bairro: PAJUCARA
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59133-170
+      Date Added: 26/03/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991048592
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2010
+      Info Date: 31/12/2008
+    [2]
+      Telefone: 987277414
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 29/03/2011
+    [3]
+      Telefone: 36745147
+      Ddd: 84
+      Tipo: 1
+      Classificacao: A1
+      Date Added: 15/12/2014
+      Info Date: 09/01/2013
+    [4]
+      Telefone: 987277351
+      Ddd: 84
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 22/10/2015
+    [5]
+      Telefone: 987839481
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: joseporfiriogarcia@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 29/03/2019
+  Score:
+    CSB8: 138
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 137
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 241.630.314-72
+      Nome: LOURIVAL PORFIRIO GARCIA
+      Vinculo: PAI
+    [2]
+      Nome: ADELAIDE MARCELINO GARCIA
+      Vinculo: MAE
+  Pis: 12296201859
+  Tse:
+    Titulo: 5553451686
+    Zona: 50
+    Secao: 148
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 049.462.624-07
+    Nome: JAILTON RANIELE DE MESQUITA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 1
+    Bairro: PLANALTO
+  [2]
+    CPF: 271.844.634-04
+    Nome: MARIA AUXILIADORA DE OLIVEIRA PEREIRA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 12
+    Bairro: PLANALTO
+  [3]
+    CPF: 017.312.654-50
+    Nome: VIVIAN THAYNARA DE FREITAS NUNES
+    Logradouro: ADALBERTO LEOBINO
+    Número: 12
+    Bairro: PLANALTO
+  [4]
+    CPF: 054.173.534-93
+    Nome: ANDREIA PINHEIRO DE OLIVEIRA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 5
+    Bairro: PLANALTO
+  [5]
+    CPF: 942.073.304-10
+    Nome: OLINDINA GUEDES DE OLIVEIRA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 3
+    Bairro: PLANALTO
+  [6]
+    CPF: 063.593.324-18
+    Nome: MESSIAS LUIZ DE PAIVA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 14
+    Bairro: PLANALTO
+  [7]
+    CPF: 916.492.934-53
+    Nome: MARIA DA CONCEICAO VENANCIO DE MOURA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 5
+    Bairro: PLANALTO
+  [8]
+    CPF: 080.677.224-71
+    Nome: AUGUSTO CESAR DOS SANTOS GOMES
+    Logradouro: ADALBERTO LEOBINO
+    Número: 14
+    Bairro: PLANALTO
+  [9]
+    CPF: 967.498.904-82
+    Nome: JOAO MARIA FERREIRA DE SOUZA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 14
+    Bairro: PLANALTO
+  [10]
+    CPF: 063.593.324-18
+    Nome: MESSIAS LUIZ DE PAIVA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 1
+    Bairro: PLANALTO
+  [11]
+    CPF: 050.117.354-43
+    Nome: JOSE PATRICIO DE MACEDO NETO
+    Logradouro: ADALBERTO LEOBINO
+    Número: 7
+    Bairro: PLANALTO
+  [12]
+    CPF: 596.193.254-00
+    Nome: IZA PEREIRA DE ALBUQUERQUE
+    Logradouro: ADALBERTO LEOBINO
+    Número: 1
+    Bairro: PLANALTO
+  [13]
+    CPF: 048.612.034-14
+    Nome: ANA CARLA DA SILVA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 12
+    Bairro: PLANALTO
+  [14]
+    CPF: 014.141.694-77
+    Nome: EDSON EUFRAZIO DE OLIVEIRA
+    Logradouro: ADALBERTO LEOBINO
+    Número: 12
+    Bairro: PLANALTO
+  [15]
+    CPF: 875.808.374-04
+    Nome: FRANCISCO ERONILSON LEONARDO
+    Logradouro: ADALBERTO LEOBINO
+    Número: 12
+    Bairro: PLANALTO
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (84) 99194-1993
+    Nome: JOSE PORFIRIO GARCIA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - joseporfiriogarcia@10gmail.com
+  - joseporfiriogarcia@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1264
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (84) 99104-8592
+    Ddd: 84
+    Número: 991048592
+    Tipo: 3
+    Data Inclusao: 08/11/2010
+    Data Informacao: 31/12/2008
+    Classificacao: D
+  [2]
+    Telefone: (84) 98727-7414
+    Ddd: 84
+    Número: 987277414
+    Tipo: 3
+    Data Inclusao: 29/03/2011
+    Classificacao: D
+  [3]
+    Telefone: (84) 3674-5147
+    Ddd: 84
+    Número: 36745147
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 09/01/2013
+    Classificacao: A1
+  [4]
+    Telefone: (84) 98727-7351
+    Ddd: 84
+    Número: 987277351
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: A0
+  [5]
+    Telefone: (84) 98783-9481
+    Ddd: 84
+    Número: 987839481
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+Occupation Code: 712205
+Occupation Name: Cortador de pedras
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

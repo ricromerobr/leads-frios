@@ -1,0 +1,370 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13977649701
+Data/Hora:  04/10/2026, 05:19:22
+Tempo API:  705ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 139.776.497-01
+Nome: MAIZA ROSA SANTOS SILVA
+Primeiro Nome: MAIZA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 28/05/1994
+Nome da Mãe: EDNA ROSA DOS SANTOS SILVA
+Ocupação: Faxineiro
+Score:
+  Value: 356
+  Range: ALTO
+E-mail: maysa.bunekinhadeluxo@hotmail.com
+Additional Emails: (2 item(s))
+  - maysa.bunekinhadeluxo@hotmail.com
+  - maysa.bunekinhadeluxo@hotmail.com.br
+Federal Status: REGULAR
+Renda: 1239
+Income Bracket: 2
+Cbo: 514320
+Endereço:
+  Tipo: RUA
+  Rua: PETRONILHO RAMOS
+  Número: 177
+  Bairro: SEPETIBA
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 23530-810
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: PETRONILHO RAMOS
+    Número: 177
+    Bairro: SEPETIBA
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 23530-810
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DA LAPA
+    Tipo: R
+    Número: 148
+    Bairro: CENTRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20021-180
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: MACHADO PORTELA
+    Tipo: R
+    Número: 1
+    Bairro: BALNEARIO
+    Cidade: ANGRA DOS REIS
+    Estado: RJ
+    CEP: 23906-190
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ANTONIO REIS
+    Tipo: R
+    Número: 127
+    Bairro: PEDRA DE GUARATIBA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23027-220
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: PETRONILHORAMOS
+    Número: 0000177
+    Bairro: SEPETIBA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23530-810
+    Fonte: ASSECC
+  [6]
+    Rua: RUA R  DA LAPA 148
+    Número: 148
+    Bairro: CENTRO
+    Estado: RJ
+    CEP: 20021-180
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (21) 99833-8104
+  - (21) 99831-9631
+  - (21) 97967-7385
+  - (21) 98033-3172
+  - (21) 99578-2751
+  - (21) 3565-3138
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: DA LAPA
+      Número: 148
+      Bairro: CENTRO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20021-180
+      Date Added: 09/12/2014
+    [2]
+      Tipo: R
+      Rua: PETRONILHO RAMOS
+      Número: 177
+      Bairro: SEPETIBA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23530-810
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: MACHADO PORTELA
+      Número: 1
+      Bairro: BALNEARIO
+      Cidade: ANGRA DOS REIS
+      Estado: RJ
+      CEP: 23906-190
+      Date Added: 11/02/2016
+    [4]
+      Tipo: R
+      Rua: ANTONIO REIS
+      Número: 127
+      Bairro: PEDRA DE GUARATIBA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23027-220
+      Date Added: 23/03/2019
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 979677385
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+    [2]
+      Telefone: 980333172
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+    [3]
+      Telefone: 995782751
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [4]
+      Telefone: 35653138
+      Ddd: 21
+      Tipo: 1
+      Classificacao: C2
+      Date Added: 15/02/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: maysa.bunekinhadeluxo@hotmail.com.br
+      Priority: 1
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [2]
+      E-mail: maysa.bunekinhadeluxo@hotmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 461
+    CSB8 FAIXA: MEDIO
+    CSBA: 356
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: EDNA ROSA DOS SANTOS SILVA
+      Vinculo: MAE
+  Pis: 16501084769
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 253.4
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 054.000.497-96
+    Nome: MARCO ANTONIO GONZALEZ
+    Logradouro: DA LAPA
+    Número: 200
+    Bairro: CENTRO
+  [2]
+    CPF: 052.652.567-33
+    Nome: ROBSON LUIZ DAMASIO
+    Logradouro: DA LAPA
+    Número: 293
+    Bairro: CENTRO
+  [3]
+    CPF: 077.810.857-01
+    Nome: NEISIA GOMES DE BRITO
+    Logradouro: DA LAPA
+    Número: 410
+    Bairro: CENTRO
+  [4]
+    CPF: 040.951.967-77
+    Nome: MOACI GONCALVES JUNIOR
+    Logradouro: DA LAPA
+    Número: 65
+    Bairro: CENTRO
+  [5]
+    CPF: 053.284.737-79
+    Nome: MARIA DAS GRACAS PORTO PROENCA
+    Logradouro: DA LAPA
+    Número: 75
+    Bairro: CENTRO
+  [6]
+    CPF: 035.000.587-79
+    Nome: PATRICIA CAMPOS
+    Logradouro: DA LAPA
+    Número: 65
+    Bairro: CENTRO
+  [7]
+    CPF: 034.831.714-01
+    Nome: JOSEAN DA SILVA FERREIRA
+    Logradouro: DA LAPA
+    Número: 264
+    Bairro: CENTRO
+  [8]
+    CPF: 030.800.987-81
+    Nome: ANTONIETA LEMES CYRILLO LIMA
+    Logradouro: DA LAPA
+    Número: 180
+    Bairro: CENTRO
+  [9]
+    CPF: 056.875.657-60
+    Nome: DANIELLE DE LIMA
+    Logradouro: DA LAPA
+    Número: 180
+    Bairro: CENTRO
+  [10]
+    CPF: 028.078.697-26
+    Nome: ELIEL PEREIRA DA SILVA
+    Logradouro: DA LAPA
+    Número: 65
+    Bairro: CENTRO
+  [11]
+    CPF: 088.610.867-56
+    Nome: MARCELO DE OLIVEIRA SILVA
+    Logradouro: DA LAPA
+    Número: 180
+    Bairro: CENTRO
+  [12]
+    CPF: 021.581.947-07
+    Nome: SIMONE DE FREITAS MARQUES
+    Logradouro: DA LAPA
+    Número: 18
+    Bairro: CENTRO
+  [13]
+    CPF: 082.645.027-09
+    Nome: TATIANA PAULA DA SILVA
+    Logradouro: DA LAPA
+    Número: 200
+    Bairro: CENTRO
+  [14]
+    CPF: 019.437.227-81
+    Nome: EDNILSON DE ABREU SILVA
+    Logradouro: DA LAPA
+    Número: 119
+    Bairro: CENTRO
+  [15]
+    CPF: 019.300.367-87
+    Nome: SHEILA PEREIRA VERISSIMO
+    Logradouro: DA LAPA
+    Número: 154
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (21) 99833-8104
+    Nome: MAIZA ROSA SANTOS SILVA
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (21) 99831-9631
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 09JAN2020
+    Ultima Recarga: 11SEP2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 09/01/2020
+E-mails: (2 item(s))
+  - maysa.bunekinhadeluxo@hotmail.com
+  - maysa.bunekinhadeluxo@hotmail.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1239
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 253.4
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (21) 97967-7385
+    Ddd: 21
+    Número: 979677385
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+  [2]
+    Telefone: (21) 98033-3172
+    Ddd: 21
+    Número: 980333172
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+  [3]
+    Telefone: (21) 99578-2751
+    Ddd: 21
+    Número: 995782751
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [4]
+    Telefone: (21) 3565-3138
+    Ddd: 21
+    Número: 35653138
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: C2
+Occupation Code: 514320
+Occupation Name: Faxineiro
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

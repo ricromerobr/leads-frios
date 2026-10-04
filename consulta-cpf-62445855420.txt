@@ -1,0 +1,394 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  62445855420
+Data/Hora:  03/10/2026, 22:57:36
+Tempo API:  702ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 624.458.554-20
+Nome: GLAUCIDA DE SOUZA SOARES
+Primeiro Nome: GLAUCIDA
+Sobrenome: SOARES
+Sexo: Feminino
+Data de Nascimento: 11/04/1968
+Nome da Mãe: PAULINA RITA DE JESUS
+Voter Id: 048265180876
+Mosaic: E15
+Score:
+  Value: 291
+  Range: ALTO
+E-mail: glaucidadesouza68@gmail.com
+Additional Emails: (1 item(s))
+  - glaucidadesouza68@gmail.com
+Federal Status: REGULAR
+Renda: 476
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: GESSO
+  Número: 390
+  Cidade: RAJADA
+  Estado: PERNAMBUCO
+  CEP: 56345-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GESSO
+    Número: 390
+    Cidade: RAJADA
+    Estado: PERNAMBUCO
+    CEP: 56345-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DO GESO
+    Tipo: AV
+    Número: 411
+    Complemento: C
+    Bairro: CENTRO
+    Cidade: RAJADA
+    Estado: PE
+    CEP: 56345-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [3]
+    Rua: HUMAITA
+    Tipo: TV
+    Número: 2960
+    Bairro: MARCO
+    Cidade: BELEM
+    Estado: PA
+    CEP: 66093-048
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: TREZE
+    Tipo: R
+    Número: 115
+    Complemento: C
+    Bairro: S GONCALO
+    Cidade: PETROLINA
+    Estado: PE
+    CEP: 56312-131
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DO CAMPO
+    Tipo: R
+    Número: 3
+    Bairro: RAJADA RAJADA
+    Cidade: RAJADA
+    Estado: PE
+    CEP: 56345-000
+    Data Atualizacao: 03/01/2017
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Tipo: R
+    Rua: 0000064
+    Número: PRESIDENTE DUTRA
+    Bairro: AGAMENOM MAGALHAES
+    Cidade: CARUARU
+    Estado: PE
+    CEP: 55034-010
+    Fonte: ASSECC
+  [7]
+    Rua: RUA R ANBROZIO SANTOS
+    Número: 411
+    Complemento: C
+    Bairro: CENTRO
+    Estado: PE
+    CEP: 56345-000
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (81) 99112-2999
+  - (87) 98157-2996
+  - (87) 98865-1860
+  - (87) 98109-5364
+  - (87) 98154-6474
+  - (87) 99815-7299
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/10/2019
+    Mosaic: E15
+    Mosaic New: H26
+    Mosaic Secondary: H27
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: AV
+      Rua: DO GESO
+      Número: 411
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: RAJADA
+      Estado: PE
+      CEP: 56345-000
+      Date Added: 16/08/2013
+    [2]
+      Tipo: TV
+      Rua: HUMAITA
+      Número: 2960
+      Bairro: MARCO
+      Cidade: BELEM
+      Estado: PA
+      CEP: 66093-048
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: TREZE
+      Número: 115
+      Complemento: C
+      Bairro: S GONCALO
+      Cidade: PETROLINA
+      Estado: PE
+      CEP: 56312-131
+      Date Added: 26/11/2018
+    [4]
+      Tipo: AV
+      Rua: GESSO
+      Número: 411
+      Bairro: RAJADA
+      Cidade: RAJADA
+      Estado: PE
+      CEP: 56345-000
+      Date Added: 02/04/2019
+    [5]
+      Tipo: R
+      Rua: DO CAMPO
+      Número: 3
+      Bairro: RAJADA RAJADA
+      Cidade: RAJADA
+      Estado: PE
+      CEP: 56345-000
+      Date Added: 09/09/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988651860
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [2]
+      Telefone: 981095364
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [3]
+      Telefone: 981546474
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+    [4]
+      Telefone: 981572996
+      Ddd: 87
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 10/10/2018
+    [5]
+      Telefone: 998157299
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 02/08/2018
+  Score:
+    CSB8: 354
+    CSB8 FAIXA: MEDIO
+    CSBA: 291
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: PAULINA RITA DE JESUS
+      Vinculo: MAE
+  Tse:
+    Titulo: 48265180876
+    Zona: 145
+    Secao: 18
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 476.55
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 728.627.854-15
+    Nome: MARIA APARECIDA DE AMORIM MARCAL
+    Logradouro: MARIA COELHO
+    Número: 172
+    Bairro: CENTRO
+  [2]
+    CPF: 104.932.374-29
+    Nome: FLAVIO VALDECIO SILVA
+    Logradouro: ATRAS DO POSTO
+    Número: 71
+    Bairro: CENTRO
+  [3]
+    CPF: 418.192.094-15
+    Nome: MARIA EVANIS GOMES
+    Logradouro: DOCA VAQUEIRO
+    Número: 200
+  [4]
+    CPF: 086.761.894-98
+    Nome: HORACIO NETO TELES
+    Logradouro: PADARIA
+    Número: 195
+    Bairro: CENTRO
+  [5]
+    CPF: 105.385.694-68
+    Nome: JULIA IZABEL DE LIMA
+    Logradouro: ANTONIO VAZ
+    Número: 180
+    Bairro: CENTRO
+  [6]
+    CPF: 624.366.004-49
+    Nome: NISIA MARIA COELHO
+    Logradouro: CRECHE
+    Número: SN
+    Bairro: CENTRO
+  [7]
+    CPF: 932.157.705-04
+    Nome: MARIA DO CARMO DOS SANTOS SOUZA
+    Logradouro: DO CAMPO
+    Número: 284
+    Bairro: MUNICIPIO DE PE
+  [8]
+    CPF: 030.977.254-07
+    Nome: MARLETE DA CONCEICAO AMORIM COELHO
+    Logradouro: PADARIA
+    Número: 221
+    Bairro: CENTRO
+  [9]
+    CPF: 023.174.084-04
+    Nome: MARIA DA CONCEICAO AMORIM
+    Logradouro: DO COLEGIO
+    Número: 9
+    Bairro: RAJADA
+  [10]
+    CPF: 219.183.840-53
+    Nome: SINVALDO JOAQUIM GOMES
+    Logradouro: POSTO
+    Número: 171
+    Bairro: CENTRO
+  [11]
+    CPF: 071.564.194-80
+    Nome: MARLI JOSINEIDE RODRIGUES
+    Logradouro: CORREIROS RAJADA
+    Número: 77
+    Bairro: CENTRO
+  [12]
+    CPF: 043.587.304-00
+    Nome: RAIMUNDA MARIA DA SILVA ANDRADE
+    Logradouro: CORREIROS RAJADA
+    Número: 152
+    Bairro: CENTRO
+  [13]
+    CPF: 504.201.515-91
+    Nome: FRANCISCO ANDRE DA CRUZ
+    Logradouro: DO CAMPO
+    Número: 275
+    Bairro: CENTRO
+  [14]
+    CPF: 100.794.124-32
+    Nome: OZENI ALVES DOS SANTOS SILVA
+    Logradouro: ANTENA PARABOLICA
+    Número: 48
+    Bairro: CENTRO
+  [15]
+    CPF: 115.142.324-64
+    Nome: LEIDIANE DIAS DA SILVA
+    Logradouro: DA Q DE ESPORTES
+    Número: 244
+    Bairro: CENTRO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (81) 99112-2999
+    Nome: GLAUCIDA DE SOUZA
+    Cidade: CARUARU
+    UF: PE
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (87) 98157-2996
+    Tipo: pre
+    Status Linha: BARRADO
+    Primeira Recarga: 14OCT2014
+    Ultima Recarga: 18JUN2020
+    Telefone Anterior: (87) 8157-2996
+    Plano: PF_PRE_PURO
+    Data Instalacao: 13/10/2014
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (81) 99112-2999
+    Nome: GLAUCIDA DE SOUZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - glaucidadesouza68@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 476
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 476.55
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (87) 98865-1860
+    Ddd: 87
+    Número: 988651860
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [2]
+    Telefone: (87) 98109-5364
+    Ddd: 87
+    Número: 981095364
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [3]
+    Telefone: (87) 98154-6474
+    Ddd: 87
+    Número: 981546474
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+  [4]
+    Telefone: (87) 98157-2996
+    Ddd: 87
+    Número: 981572996
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: A0
+  [5]
+    Telefone: (87) 99815-7299
+    Ddd: 87
+    Número: 998157299
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 02/08/2018
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

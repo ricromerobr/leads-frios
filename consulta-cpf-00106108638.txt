@@ -1,0 +1,399 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  00106108638
+Data/Hora:  04/10/2026, 10:40:34
+Tempo API:  720ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 001.061.086-38
+Nome: RAMON BRAZ DA COSTA
+Primeiro Nome: RAMON
+Sobrenome: COSTA
+Sexo: Masculino
+Data de Nascimento: 03/02/1966
+Nome da Mãe: MARIA DA LUZ COSTA
+Nome do Pai: JOAO EURIPEDES DA COSTA
+RG: 6870984
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MG
+Voter Id: 057090650230
+Mosaic: E17
+Ocupação: Operador de máquinas de beneficiamento de produtos agrícolas
+Score:
+  Value: 68
+  Range: ALTISSIMO
+E-mail: ramoncosta10@gmail.com
+Additional Emails: (3 item(s))
+  - ramoncosta10@gmail.com
+  - ramon.rneir@hotmail.com
+  - etedrc@uol.com.br
+Federal Status: REGULAR
+Renda: 1122
+Income Bracket: 2
+Cbo: 641010
+Endereço:
+  Tipo: RUA
+  Rua: RAFAEL RINALDI
+  Número: 5
+  Bairro: MARTINS
+  Cidade: UBERLANDIA
+  Estado: MINAS GERAIS
+  CEP: 38400-384
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: RAFAEL RINALDI
+    Número: 5
+    Bairro: MARTINS
+    Cidade: UBERLANDIA
+    Estado: MINAS GERAIS
+    CEP: 38400-384
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CORREGO DO CERRADO
+    Número: S/N
+    Bairro: FAZENDA
+    Cidade: CANAPOLIS - MG
+    Fonte: DATASUS
+  [3]
+    Rua: GLAUCIA SANTOS MONTEIRO
+    Tipo: R
+    Número: 287
+    Bairro: TUBALINA
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38412-040
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: JANUARIO
+    Tipo: R
+    Número: 920
+    Bairro: TUBALINA
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38412-078
+    Data Atualizacao: 05/04/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: FRANCISCO ANGELO SOBRINHO
+    Número: 260
+    Complemento: C
+    Bairro: JORGE DE PAULA
+    Cidade: CANAPOLIS
+    Estado: MG
+    CEP: 38380-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: LAUDELINO GUERRA
+    Tipo: R
+    Número: 104
+    Bairro: PRES ROOSEVELT
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38401-226
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: URU�ANGA
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: MG
+    CEP: 00000-000
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: GLAUCIA SANTOS MONTEIRO
+    Número: 0000287
+    Bairro: TUBALINA
+    Cidade: UBERLANDIA
+    Estado: MG
+    CEP: 38412-040
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (34) 99653-4953
+Cidade de Nascimento: CANAPOLIS - MG
+Cns: 700406574784450
+Rg Issue Date: 1414119600000
+Telefones: (4 item(s))
+  - (34) 99675-5928
+  - (34) 99769-9672
+  - (34) 99678-9530
+  - (11) 4640-1664
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/11/2019
+    Mosaic: E17
+    Mosaic New: H26
+    Mosaic Secondary: D12
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: RAFAEL RINALDI
+      Número: 5
+      Bairro: MARTINS
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38400-384
+      Date Added: 05/04/2018
+    [2]
+      Tipo: R
+      Rua: GLAUCIA SANTOS MONTEIRO
+      Número: 287
+      Bairro: TUBALINA
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38412-040
+      Date Added: 17/01/2017
+    [3]
+      Tipo: R
+      Rua: JANUARIO
+      Número: 920
+      Bairro: TUBALINA
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38412-078
+      Date Added: 18/09/2013
+    [4]
+      Rua: FRANCISCO ANGELO SOBRINHO
+      Número: 260
+      Complemento: C
+      Bairro: JORGE DE PAULA
+      Cidade: CANAPOLIS
+      Estado: MG
+      CEP: 38380-000
+      Date Added: 20/06/2011
+    [5]
+      Tipo: R
+      Rua: LAUDELINO GUERRA
+      Número: 104
+      Bairro: PRES ROOSEVELT
+      Cidade: UBERLANDIA
+      Estado: MG
+      CEP: 38401-226
+      Date Added: 21/10/2012
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 996755928
+      Ddd: 34
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 14/06/2012
+    [2]
+      Telefone: 46401664
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 17/03/2015
+  E-mails: (3 item(s))
+    [1]
+      E-mail: etedrc@uol.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [2]
+      E-mail: ramon.rneir@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+    [3]
+      E-mail: ramoncosta10@gmail.com
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 58
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 68
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DA LUZ COSTA
+      Vinculo: MAE
+  Pis: 12863516983
+  Tse:
+    Titulo: 57090650230
+    Zona: 66
+    Secao: 7
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 363.46
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 418.806.842-68
+    Nome: CLAUDINEY CLAUDIO DE FREITAS
+    Logradouro: RAFAEL RINALDI
+    Número: 333
+    Bairro: MARTINS
+  [2]
+    CPF: 036.118.156-67
+    Nome: FRANCISCO CESAR DA SILVA JUNIOR
+    Logradouro: RAFAEL RINALDI
+    Número: 1474
+    Bairro: MARTINS
+  [3]
+    CPF: 015.570.126-60
+    Nome: CARLOS EDUARDO GUIMARAES JUNIOR
+    Logradouro: RAFAEL RINALDI
+    Número: 865
+    Bairro: MARTINS
+  [4]
+    CPF: 036.953.106-00
+    Nome: PIONANDES PINTO DE MIRANDA
+    Logradouro: RAFAEL RINALDI
+    Número: 1650
+    Bairro: MARTINS
+  [5]
+    CPF: 057.361.996-45
+    Nome: ROBERTA RODRIGUES DA CUNHA
+    Logradouro: RAFAEL RINALDI
+    Número: 1558
+    Bairro: MARTINS
+  [6]
+    CPF: 058.436.406-71
+    Nome: PATRICIA RODRIGUES RESENDE MARQUES
+    Logradouro: RAFAEL RINALDI
+    Número: 752
+    Bairro: MARTINS
+  [7]
+    CPF: 058.772.076-01
+    Nome: GRACIANNE DE JESUS MEDEIROS
+    Logradouro: RAFAEL RINALDI
+    Número: 1386
+    Bairro: MARTINS
+  [8]
+    CPF: 084.723.941-15
+    Nome: JARBAS MUNDIM PORTO
+    Logradouro: RAFAEL RINALDI
+    Número: 365
+    Bairro: MARTINS
+  [9]
+    CPF: 123.402.356-34
+    Nome: NEUSA DA SILVA FERREIRA
+    Logradouro: RAFAEL RINALDI
+    Número: 66
+    Bairro: MARTINS
+  [10]
+    CPF: 063.565.426-16
+    Nome: VANESSA PEREIRA DE ARAUJO
+    Logradouro: RAFAEL RINALDI
+    Número: 523
+    Bairro: MARTINS
+  [11]
+    CPF: 014.904.936-62
+    Nome: WILLIAN GODOY MALGOR
+    Logradouro: RAFAEL RINALDI
+    Número: 1072
+    Bairro: MARTINS
+  [12]
+    CPF: 652.144.636-34
+    Nome: RONALDO STEFANI AMANCIO
+    Logradouro: RAFAEL RINALDI
+    Número: 1355
+    Bairro: MARTINS
+  [13]
+    CPF: 061.355.176-19
+    Nome: ANDERSON SILVA
+    Logradouro: RAFAEL RINALDI
+    Número: 782
+    Bairro: MARTINS
+  [14]
+    CPF: 078.296.896-10
+    Nome: GRACIELLE TAVARES DOS SANTOS
+    Logradouro: RAFAEL RINALDI
+    Número: 1173
+    Bairro: MARTINS
+  [15]
+    CPF: 640.693.206-44
+    Nome: EDSON APARECIDO DE SOUSA
+    Logradouro: RAFAEL RINALDI
+    Número: 66
+    Bairro: MARTINS
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (34) 99769-9672
+    Nome: RAMON BRAZ DA COSTA
+    Cidade: [empty]
+    UF: MG
+  [2]
+    Telefone: (34) 99678-9530
+    Nome: RAMON BRAZ DA COSTA
+    Cidade: UBERLANDIA
+    UF: MG
+  [3]
+    Telefone: (34) 99675-5928
+    Nome: RAMON BRAZ DA COSTA
+    Cidade: UBERLANDIA
+    UF: MG
+E-mails: (3 item(s))
+  - ramoncosta10@gmail.com
+  - ramon.rneir@hotmail.com
+  - etedrc@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1122
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 363.46
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (34) 99675-5928
+    Ddd: 34
+    Número: 996755928
+    Tipo: 3
+    Data Inclusao: 14/06/2012
+    Classificacao: A0
+  [2]
+    Telefone: (11) 4640-1664
+    Ddd: 11
+    Número: 46401664
+    Tipo: FIXO
+    Data Inclusao: 17/03/2015
+    Classificacao: D2
+Occupation Code: 641010
+Occupation Name: Operador de máquinas de beneficiamento de produtos agrícolas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

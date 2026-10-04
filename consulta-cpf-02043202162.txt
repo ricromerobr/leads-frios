@@ -1,0 +1,323 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  02043202162
+Data/Hora:  02/10/2026, 15:29:55
+Tempo API:  20395ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 020.432.021-62
+Nome: KAROLINE ERONDINA DA SILVA
+Primeiro Nome: KAROLINE
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 15/02/1989
+Nome da Mãe: MARIA APARECIDA DE ARRUDA SILVA
+Nome do Pai: IZAIAS ALVES DA SILVA
+RG: 19005588
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MT
+Voter Id: 028363461899
+Mosaic: F18
+Ocupação: Farmacêutico
+Score:
+  Value: 252
+  Range: ALTO
+E-mail: KAROL_LI01@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 3809
+Income Bracket: 4
+Cbo: 223405
+Endereço:
+  Tipo: RUA
+  Rua: 8
+  Bairro: NUC HAB MAL RONDON
+  Cidade: RONDONOPOLIS
+  Estado: MATO GROSSO
+  CEP: 78715-618
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: 8
+    Bairro: NUC HAB MAL RONDON
+    Cidade: RONDONOPOLIS
+    Estado: MATO GROSSO
+    CEP: 78715-618
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JARDIM SOFIA
+    Número: S/N
+    Bairro: LUZIMANGUES
+    Cidade: PORTO NACIONAL - TO
+    Fonte: DATASUS
+  [3]
+    Rua: OITO
+    Tipo: R
+    Número: 25
+    Complemento: Q 24
+    Bairro: RES DAS ORQUIDEAS
+    Cidade: RONDONOPOLIS
+    Estado: MT
+    CEP: 78717-146
+    Data Atualizacao: 05/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ARISTIDES NEGRAO DA SILVA
+    Tipo: R
+    Número: 357
+    Bairro: NUC HABITACIONAL MARECHAL RONDON
+    Cidade: RONDONOPOLIS
+    Estado: MT
+    CEP: 78715-618
+    Data Atualizacao: 10/09/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: RONDON
+    Tipo: AV
+    Número: 1280
+    Bairro: CENTRO
+    Cidade: RONDONOPOLIS
+    Estado: MT
+    CEP: 78700-075
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: LIONS INTERNACIONAL
+    Tipo: AV
+    Número: 920
+    Bairro: VL AURORA I
+    Cidade: RONDONOPOLIS
+    Estado: MT
+    CEP: 78740-046
+    Data Atualizacao: 09/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: JORGE RUDGE
+    Tipo: R
+    Número: 29
+    Complemento: AP 105
+    Bairro: VL ISABEL
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20550-220
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (66) 3423-8784
+  - (66) 99986-2702
+  - (66) 99684-5318
+  - (65) 3426-5186
+  - (66) 3426-6639
+  - (66) 3426-5186
+  - (66) 99679-1443
+Datasus Phones: (1 item(s))
+  - (63) 3363-7888
+Cidade de Nascimento: RONDONOPOLIS - MT
+Cns: 708206662358949
+Rg Issue Date: 1363575600000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/11/2019
+    Rg Issuer: SSP
+    Mosaic: F18
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 3
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: OITO
+      Número: 25
+      Complemento: Q 24
+      Bairro: RES DAS ORQUIDEAS
+      Cidade: RONDONOPOLIS
+      Estado: MT
+      CEP: 78717-146
+      Date Added: 22/08/2013
+    [2]
+      Tipo: R
+      Rua: ARISTIDES NEGRAO DA SILVA
+      Número: 357
+      Bairro: NUC HABITACIONAL MARECHAL RONDON
+      Cidade: RONDONOPOLIS
+      Estado: MT
+      CEP: 78715-618
+      Date Added: 18/12/2017
+    [3]
+      Tipo: AV
+      Rua: RONDON
+      Número: 1280
+      Bairro: CENTRO
+      Cidade: RONDONOPOLIS
+      Estado: MT
+      CEP: 78700-075
+      Date Added: 01/02/2018
+    [4]
+      Tipo: AV
+      Rua: LIONS INTERNACIONAL
+      Número: 920
+      Bairro: VL AURORA I
+      Cidade: RONDONOPOLIS
+      Estado: MT
+      CEP: 78740-046
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: JORGE RUDGE
+      Número: 29
+      Complemento: AP 105
+      Bairro: VL ISABEL
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20550-220
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 34265186
+      Ddd: 65
+      Tipo: 1
+      Classificacao: D
+      Date Added: 13/02/2008
+    [2]
+      Telefone: 34266639
+      Ddd: 66
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/08/2013
+    [3]
+      Telefone: 34265186
+      Ddd: 66
+      Tipo: 1
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 996791443
+      Ddd: 66
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 996845318
+      Ddd: 66
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 18/10/2018
+  Score:
+    CSBA: 252
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA APARECIDA DE ARRUDA
+      Vinculo: MAE
+  Pis: 13350872408
+  Tse:
+    Titulo: 28363461899
+    Zona: 46
+    Secao: 104
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 1752.94
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Vizinhos: (3 item(s))
+  [1]
+    CPF: 290.823.898-51
+    Nome: RUCHELI BAROSSI BAVARESCO
+    Logradouro: OITO
+    Número: 15
+    Bairro: RES DAS ORQUIDEAS
+  [2]
+    CPF: 879.030.591-49
+    Nome: IRANETE SANTANA OLIVEIRA
+    Logradouro: OITO
+    Número: 4
+    Bairro: RES DAS ORQUIDEAS
+  [3]
+    CPF: 667.505.471-68
+    Nome: LEIA MARIANA
+    Logradouro: OITO
+    Número: 271
+    Bairro: RES DAS ORQUIDEAS
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (66) 99684-5318
+    Nome: KAROLINE ERONDINA DA SILVA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - karol_li01@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3809
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1752.94
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: KAROLINE ERONDINA DA SILVA
+    Ano Vestibular: 2007
+    Faculdade: FACULDADES INTEGRADAS DE FERNANDAPOLIS
+    Curso: FARMACIA   FARMACIA
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (65) 3426-5186
+    Ddd: 65
+    Número: 34265186
+    Tipo: FIXO
+    Data Inclusao: 13/02/2008
+    Classificacao: D
+  [2]
+    Telefone: (66) 3426-6639
+    Ddd: 66
+    Número: 34266639
+    Tipo: FIXO
+    Data Inclusao: 20/08/2013
+    Classificacao: D2
+  [3]
+    Telefone: (66) 3426-5186
+    Ddd: 66
+    Número: 34265186
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (66) 99679-1443
+    Ddd: 66
+    Número: 996791443
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (66) 99684-5318
+    Ddd: 66
+    Número: 996845318
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: A0
+Occupation Code: 223405
+Occupation Name: Farmacêutico
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

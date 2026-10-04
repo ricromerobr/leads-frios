@@ -1,0 +1,378 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  08409594439
+Data/Hora:  04/10/2026, 08:29:41
+Tempo API:  798ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 084.095.944-39
+Nome: SILVIA PATRICIA DA SILVA DUARTE
+Primeiro Nome: SILVIA
+Sobrenome: DUARTE
+Sexo: Feminino
+Data de Nascimento: 21/01/1992
+Nome da Mãe: MARIA IRANILDA DA SILVA DUARTE
+Score:
+  Value: 647
+  Range: BAIXO
+E-mail: patriciaduarte14@hotmail.com
+Additional Emails: (2 item(s))
+  - patriciaduarte14@hotmail.com
+  - patriciaduarte@hotmail.com
+Federal Status: REGULAR
+Renda: 522
+Income Bracket: 1
+Endereço:
+  Tipo: PRACA
+  Rua: MONSENHOR ESTANISLAU
+  Bairro: CENTRO
+  Cidade: POCAO
+  Estado: PERNAMBUCO
+  CEP: 55240-000
+All Addresses: (5 item(s))
+  [1]
+    Tipo: PRACA
+    Rua: MONSENHOR ESTANISLAU
+    Bairro: CENTRO
+    Cidade: POCAO
+    Estado: PERNAMBUCO
+    CEP: 55240-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA MANOEL PEREIRA DA SILVA
+    Número: 898
+    Complemento: APARTAMENTO 204
+    Bairro: NOSSA SENHORA DA PENHA
+    Cidade: SERRA TALHADA
+    Estado: PE
+    CEP: 56903-590
+    Fonte: SARAIVA
+  [3]
+    Tipo: R
+    Rua: FRANCISCO DUARTE
+    Número: 0000134
+    Bairro: [empty]
+    Cidade: POCAO
+    Estado: PE
+    CEP: 55240-000
+    Fonte: ASSECC
+  [4]
+    Tipo: R
+    Rua: OLAVO BILAC
+    Número: 0000956
+    Bairro: SAO GERARDO
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60320-000
+    Fonte: ASSECC
+  [5]
+    Tipo: R.
+    Rua: DR. VIRGINIO MARQUES 135 - BL 2
+    Número: 135
+    Complemento: BL - Blocos: B; AP - Apartamento: 204;
+    Bairro: RECIFE
+    Cidade: RECIFE
+    Estado: PE
+    CEP: 50731-330
+    Fonte: VIVO_FIXO
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (87) 99627-4961
+  - (87) 99104-4371
+  - (87) 9104-4371
+  - +55 (87) 99192-3094
+  - (81) 3019-2489
+  - +55 (87) 99627-4961
+  - 558134538285
+  - (87) 99104-4434
+  - (87) 3834-1541
+Saraiva:
+  Customer Id: 7034461
+  Telefone: (87) 9104-4371
+  E-mail: patriciaduarte14@hotmail.com
+  Data de Nascimento: 21/01/1992
+Paycom:
+  E-mail: patriciaduarte14@hotmail.com
+  Data de Nascimento: 21/01/1992
+  Created At: 2020-06-04 11:20:18
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Francisco Duarte
+    Número: 134
+    Complemento: casa
+    Bairro: Centro
+    Cidade: Poção
+    Estado: PE
+    País: BRA
+    CEP: 55240-000
+    Telephone: +55 (87) 99192-3094
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/10/2019
+    Mosaic New: C08
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: PC
+      Rua: MANOEL PEREIRA LINS
+      Número: 898
+      Complemento: AP 204
+      Bairro: AABB
+      Cidade: SERRA TALHADA
+      Estado: PE
+      CEP: 56903-590
+      Date Added: 25/03/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 991044434
+      Ddd: 87
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [2]
+      Telefone: 38341541
+      Ddd: 87
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+    [3]
+      Telefone: 30192489
+      Ddd: 81
+      Tipo: 1
+      Classificacao: B
+      Date Added: 25/03/2019
+    [4]
+      Telefone: 991044371
+      Ddd: 87
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 16/04/2019
+    [5]
+      Telefone: 996274961
+      Ddd: 87
+      Tipo: 3
+      Classificacao: A1
+      Date Added: 16/04/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: patriciaduarte@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 04/04/2018
+    [2]
+      E-mail: patriciaduarte14@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 256
+    CSB8 FAIXA: ALTO
+    CSBA: 647
+    CSBA FAIXA: BAIXO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA IRANILDA DA SILVA DUARTE
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 522.73
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 026.284.344-74
+    Nome: ELSON PEDRO DA SILVA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1251
+    Bairro: AABB
+  [2]
+    CPF: 021.766.524-10
+    Nome: EDNALDO RODRIGUES DA SILVA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1849
+    Bairro: AABB
+  [3]
+    CPF: 424.331.848-43
+    Nome: MARY KAUHANE DOS SANTOS FERREIRA NASCIMENTO
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 785
+    Bairro: AABB
+  [4]
+    CPF: 398.355.104-15
+    Nome: DELMIRA ANTONIA DO NASCIMENTO NUNES
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 913
+    Bairro: AABB
+  [5]
+    CPF: 189.658.224-91
+    Nome: GIVALDO VITURINO DA SILVA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1825
+    Bairro: AABB
+  [6]
+    CPF: 881.252.034-00
+    Nome: MARIA DA PENHA MAGALHAES SILVA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 696
+    Bairro: AABB
+  [7]
+    CPF: 046.911.984-58
+    Nome: GENEDITE MORAIS DA SILVA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1198
+    Bairro: AABB
+  [8]
+    CPF: 060.356.954-42
+    Nome: LIDIANE MOREIRA SOUZA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1841
+    Bairro: AABB
+  [9]
+    CPF: 063.881.664-58
+    Nome: MARIA DO CARMO LIMA CANDIDO
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1730
+    Bairro: AABB
+  [10]
+    CPF: 472.071.084-00
+    Nome: WILIANS CAVALCANTI LACERDA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 890
+    Bairro: AABB
+  [11]
+    CPF: 097.396.044-20
+    Nome: JEFFERSON FILIPE DE SOUZA SILVA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1825
+    Bairro: AABB
+  [12]
+    CPF: 101.699.644-69
+    Nome: BRUNO JOSE SOUZA DOS SANTOS
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 1868
+    Bairro: AABB
+  [13]
+    CPF: 122.394.744-08
+    Nome: DAVIDSON LEITE LIMA
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 103
+    Bairro: AABB
+  [14]
+    CPF: 317.469.184-20
+    Nome: CLAUDECIA FEITOZA TIMOTEO BRAZIL
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 735
+    Bairro: AABB
+  [15]
+    CPF: 040.568.654-42
+    Nome: CESAR AUGUSTO BARROS DOS SANTOS
+    Logradouro: MANOEL PEREIRA LINS
+    Número: 920
+    Bairro: AABB
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (87) 99627-4961
+    Nome: SILVIA PATRCIA DA SILVA DUARTE
+    Cidade: POCAO
+    UF: PE
+  [2]
+    Telefone: (87) 99104-4371
+    Nome: SILVIA PATRICIA DA SILVA DUARTE
+    Cidade: FORTALEZA
+    UF: CE
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (81) 3019-2489
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 09MAR2018:16:48:19
+    Cel Contato: +5587996274961
+    Complemento: BL - Blocos: B; AP - Apartamento: 204;
+    Tipo Cliente: Residencial
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (87) 99104-4371
+    Nome: SILVIA PATRICIA DA SILVA DUARTE
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - patriciaduarte14@hotmail.com
+  - patriciaduarte@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 522
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 522.73
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (87) 99104-4434
+    Ddd: 87
+    Número: 991044434
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [2]
+    Telefone: (87) 3834-1541
+    Ddd: 87
+    Número: 38341541
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+  [3]
+    Telefone: (81) 3019-2489
+    Ddd: 81
+    Número: 30192489
+    Tipo: FIXO
+    Data Inclusao: 25/03/2019
+    Classificacao: B
+  [4]
+    Telefone: (87) 99104-4371
+    Ddd: 87
+    Número: 991044371
+    Tipo: 3
+    Data Inclusao: 16/04/2019
+    Classificacao: A0
+  [5]
+    Telefone: (87) 99627-4961
+    Ddd: 87
+    Número: 996274961
+    Tipo: 3
+    Data Inclusao: 16/04/2019
+    Classificacao: A1
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

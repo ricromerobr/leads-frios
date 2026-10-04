@@ -1,0 +1,457 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  05673753748
+Data/Hora:  02/10/2026, 16:36:23
+Tempo API:  262ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 056.737.537-48
+Nome: MARIA ANITA STARLING BARCELLOS DUARTE
+Primeiro Nome: MARIA
+Sobrenome: DUARTE
+Sexo: Feminino
+Data de Nascimento: 14/10/1982
+Nome da Mãe: VANDA SERRADO P BARCELLOS
+Mosaic: C09
+Ocupação: Instrutor de cursos livres
+Score:
+  Value: 109
+  Range: ALTISSIMO
+E-mail: MARIANITA_STARLING@YAHOO.COM.BR
+Federal Status: REGULAR
+Renda: 3072
+Income Bracket: 4
+Cbo: 21205
+Endereço:
+  Tipo: RUA
+  Rua: DR MARCH  329 BL 02
+  Complemento: APT 802
+  Bairro: BARRETO
+  Cidade: NITEROI
+  Estado: RIO DE JANEIRO
+  CEP: 24110-651
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: DR MARCH  329 BL 02
+    Complemento: APT 802
+    Bairro: BARRETO
+    Cidade: NITEROI
+    Estado: RIO DE JANEIRO
+    CEP: 24110-651
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA Guilherme Santos Andrade
+    Número: 545
+    Complemento: casa
+    Bairro: GALO BRANCO
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24422-330
+    Fonte: SARAIVA
+  [3]
+    Rua: CORNELIA MENDONCA
+    Tipo: R
+    Número: 49
+    Bairro: MUTUA
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24460-040
+    Data Atualizacao: 30/06/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: GUILHERME SANTOS ANDRADE
+    Tipo: R
+    Número: 824
+    Complemento: C 6
+    Bairro: GALO BRANCO
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24422-330
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ITABAIANA DE OLIVEIRA
+    Tipo: R
+    Número: 49
+    Bairro: ZE GAROTO
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24440-180
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: RJ CENTO E QUATRO
+    Tipo: ROD
+    Complemento: BL 6 AP 108 104 104
+    Bairro: MARAMBAIA MANILHA
+    Cidade: ITABORAI
+    Estado: RJ
+    CEP: 24859-372
+    Data Atualizacao: 12/11/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Rua: GILBERTO ANTUNES
+    Tipo: AV
+    Número: 763
+    Complemento: BL 6 AP 108
+    Bairro: APOLO II MANILHA
+    Cidade: ITABORAI
+    Estado: RJ
+    CEP: 24858-680
+    Data Atualizacao: 15/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: MAURICIODEABREU
+    Número: 0002500
+    Bairro: NEVES
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24425-300
+    Fonte: ASSECC
+  [9]
+    Tipo: GUILHERME SANTOS ANDRADE
+    Rua: R
+    Número: 0000545
+    Bairro: GALO BRANCO
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24422-330
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: SALVATORI
+    Número: 0000529
+    Bairro: ROCHA
+    Cidade: SAO GONCALO
+    Estado: RJ
+    CEP: 24440-000
+    Fonte: NEXTEL_BR24M
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (21) 99315-6845
+  - (21) 96415-2245
+  - (21) 7810-8667
+  - +55 (21) 96415-2245
+  - (21) 99934-9052
+  - (21) 99604-8092
+  - (21) 2501-3441
+Saraiva:
+  Customer Id: 7512673
+  Telefone: (21) 7810-8667
+  E-mail: marianita_starling@yahoo.com.br
+  Data de Nascimento: 14/10/1982
+Paycom:
+  E-mail: marianita_starling@yahoo.com.br
+  Data de Nascimento: 06/07/1990
+  Created At: 2018-12-03 20:07:43
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Doutor March
+    Número: 329
+    Complemento: Bl 02 apt 802
+    Bairro: Barreto
+    Cidade: Niterói
+    Estado: RJ
+    País: BRA
+    CEP: 24110-651
+    Telephone: +55 (21) 96415-2245
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 23/10/2019
+    Mosaic: C09
+    Mosaic New: E15
+    Mosaic Secondary: C07
+    Income Bracket Id: 5
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CORNELIA MENDONCA
+      Número: 49
+      Bairro: MUTUA
+      Cidade: SAO GONCALO
+      Estado: RJ
+      CEP: 24460-040
+      Date Added: 06/03/2014
+    [2]
+      Tipo: R
+      Rua: GUILHERME SANTOS ANDRADE
+      Número: 824
+      Complemento: C 6
+      Bairro: GALO BRANCO
+      Cidade: SAO GONCALO
+      Estado: RJ
+      CEP: 24422-330
+      Date Added: 09/12/2014
+    [3]
+      Tipo: R
+      Rua: ITABAIANA DE OLIVEIRA
+      Número: 49
+      Bairro: ZE GAROTO
+      Cidade: SAO GONCALO
+      Estado: RJ
+      CEP: 24440-180
+      Date Added: 02/02/2016
+    [4]
+      Tipo: ROD
+      Rua: RJ CENTO E QUATRO
+      Complemento: BL 6 AP 108 104 104
+      Bairro: MARAMBAIA MANILHA
+      Cidade: ITABORAI
+      Estado: RJ
+      CEP: 24859-372
+      Date Added: 09/04/2018
+    [5]
+      Tipo: AV
+      Rua: GILBERTO ANTUNES
+      Número: 763
+      Complemento: BL 6 AP 108
+      Bairro: APOLO II MANILHA
+      Cidade: ITABORAI
+      Estado: RJ
+      CEP: 24858-680
+      Date Added: 01/02/2018
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 999349052
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 15/12/2009
+    [2]
+      Telefone: 78108667
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/01/2013
+    [3]
+      Telefone: 996048092
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [4]
+      Telefone: 964152245
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 01/02/2018
+    [5]
+      Telefone: 25013441
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 15/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: marianita_starling@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 457
+    CSB8 FAIXA: MEDIO
+    CSBA: 109
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: VANDA SERRADO PEREIRA BARCELLOS
+      Vinculo: MAE
+  Pis: 12870467623
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO
+    RENDA PODER AQUISITIVO: 2759.89
+    FX PODER AQUISITIVO: De R$ 1630 até R$ 4082
+    COD PODER AQUISITIVO: 4
+Additional Emails: (1 item(s))
+  - marianita_starling@yahoo.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 043.984.877-60
+    Nome: ARINA CANCIO GONCALVES
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [2]
+    CPF: 073.567.727-10
+    Nome: CARLA CRISTINA DA SILVA
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [3]
+    CPF: 486.323.847-91
+    Nome: JOAO LUIZ AMUEDO AFONSO
+    Logradouro: CORNELIA MENDONCA
+    Número: 63
+    Bairro: MUTUA
+  [4]
+    CPF: 958.354.077-34
+    Nome: LUCIO LUIZ GONCALVES
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [5]
+    CPF: 057.229.417-43
+    Nome: ERONILDES SOARES
+    Logradouro: CORNELIA MENDONCA
+    Número: 56
+    Bairro: MUTUA
+  [6]
+    CPF: 122.573.987-00
+    Nome: GABRIELE ORTIZ GONCALVES
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [7]
+    CPF: 475.393.307-59
+    Nome: SONIA MARIA GOMES MONTEIRO DIAS
+    Logradouro: CORNELIA MENDONCA
+    Número: 42
+    Bairro: MUTUA
+  [8]
+    CPF: 055.747.157-59
+    Nome: DILMA ARAUJO DE ALMEIDA
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [9]
+    CPF: 086.359.687-86
+    Nome: BARBARA CRISTINA COSTA CANELA DOS SANTOS
+    Logradouro: CORNELIA MENDONCA
+    Número: 61
+    Bairro: MUTUA
+  [10]
+    CPF: 879.488.937-68
+    Nome: JOSE LUIZ GONCALVES
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [11]
+    CPF: 641.747.947-15
+    Nome: JERUSA SELMA DE ARAUJO MOTTA
+    Logradouro: CORNELIA MENDONCA
+    Número: 72
+    Bairro: MUTUA
+  [12]
+    CPF: 094.722.047-08
+    Nome: ANDREIA SILVA STORCK
+    Logradouro: CORNELIA MENDONCA
+    Número: SN
+    Bairro: MUTUA
+  [13]
+    CPF: 720.688.687-68
+    Nome: MARIA DA SILVA CAMPOS
+    Logradouro: CORNELIA MENDONCA
+    Número: 22
+    Bairro: MUTUA
+  [14]
+    CPF: 504.111.607-53
+    Nome: ALICE MARIA DA SILVA NETO
+    Logradouro: CORNELIA MENDONCA
+    Número: 61
+    Bairro: MUTUA
+  [15]
+    CPF: 022.252.587-83
+    Nome: FRANCISCO JOSE RODRIGUES DA SILVA
+    Logradouro: CORNELIA MENDONCA
+    Número: 37
+    Bairro: MUTUA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (21) 96415-2245
+    Nome: MARIA ANITA STARLING BARCELLOS DUARTE
+    Cidade: SAO GONCALO
+    UF: RJ
+  [2]
+    Telefone: (21) 99315-6845
+    Nome: MARIA ANITA STARLING BARCELLOS DUARTE
+    Cidade: SAO GONCALO
+    UF: RJ
+E-mails: (1 item(s))
+  - marianita_starling@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3072
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 2759.89
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Universitarios: (1 item(s))
+  [1]
+    Nome: MARIA ANITA STARLING BARCELLOS DUARTE
+    Ano Vestibular: 2015
+    Faculdade: UFF
+    UF: RJ 
+    Campus: S�O GON�ALO
+    Curso: TECNOLOGIA EM SEGURANCA PUBLICA  80  
+    Data de Nascimento: 14/10/1982
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 99934-9052
+    Ddd: 21
+    Número: 999349052
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: A0
+  [2]
+    Telefone: (21) 7810-8667
+    Ddd: 21
+    Número: 78108667
+    Tipo: 3
+    Data Inclusao: 05/01/2013
+    Classificacao: D
+  [3]
+    Telefone: (21) 99604-8092
+    Ddd: 21
+    Número: 996048092
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (21) 96415-2245
+    Ddd: 21
+    Número: 964152245
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: A0
+  [5]
+    Telefone: (21) 2501-3441
+    Ddd: 21
+    Número: 25013441
+    Tipo: FIXO
+    Data Inclusao: 15/02/2018
+    Classificacao: D
+Occupation Code: 333110
+Occupation Name: Instrutor de cursos livres
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

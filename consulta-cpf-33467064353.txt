@@ -1,0 +1,384 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  33467064353
+Data/Hora:  04/10/2026, 10:04:39
+Tempo API:  417ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 334.670.643-53
+Nome: RONNY LUCIO SILVA SABINO
+Primeiro Nome: RONNY
+Sobrenome: SABINO
+Sexo: Masculino
+Data de Nascimento: 29/09/1970
+Nome da Mãe: BENEDITA SILVA SABINO
+Nome do Pai: JOSE EDVANDO SABINO
+Voter Id: 036587581139
+Mosaic: D13
+Ocupação: Comerciante varejista
+Score:
+  Value: 82
+  Range: ALTISSIMO
+E-mail: lucio-sabino@hotmail.com
+Additional Emails: (2 item(s))
+  - lucio-sabino@hotmail.com
+  - poetachico@uol.com.br
+Federal Status: REGULAR
+Renda: 6500
+Income Bracket: 5
+Cbo: 141410
+Endereço:
+  Tipo: RUA
+  Rua: VINTE E CINCO DE DEZEMBRO
+  Número: 22
+  Complemento: C BR MANUS
+  Bairro: ANIL
+  Cidade: SAO LUIS
+  Estado: MARANHAO
+  CEP: 65047-240
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VINTE E CINCO DE DEZEMBRO
+    Número: 22
+    Complemento: C BR MANUS
+    Bairro: ANIL
+    Cidade: SAO LUIS
+    Estado: MARANHAO
+    CEP: 65047-240
+    Fonte: PRINCIPAL
+  [2]
+    Rua: VINTE E CINCO DE DEZEMBRO
+    Número: 22
+    Bairro: ANIL
+    Cidade: SAO LUIS - MA
+    Fonte: DATASUS
+  [3]
+    Rua: GUAJAJARAS
+    Tipo: AV
+    Número: 11
+    Bairro: JD S CRISTOVAO
+    Cidade: SAO LUIS
+    Estado: MA
+    CEP: 65055-285
+    Data Atualizacao: 09/11/2015
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: DO ARAME
+    Tipo: R
+    Número: 144
+    Bairro: VL PALMEIRA
+    Cidade: SAO LUIS
+    Estado: MA
+    CEP: 65045-070
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: VINTE E CINCO DE DEZEMBRO
+    Número: 0000022
+    Bairro: ANIL
+    Cidade: SAO LUIS
+    Estado: MA
+    CEP: 65047-240
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (7 item(s))
+  - (98) 99988-2787
+  - (98) 98504-0739
+  - (98) 98837-0965
+  - (98) 3245-9780
+  - (98) 98888-3228
+  - (98) 3324-4505
+  - (98) 99883-7096
+Datasus Phones: (1 item(s))
+  - (98) 3244-5051
+Cidade de Nascimento: SAO LUIS - MA
+Cns: 707404052550771
+Mte Data:
+  Nome: Ronny Lucio Silva Sabino
+  Data de Nascimento: 29/09/1970
+  Nome da Mãe: Benedita Silva Sabino
+  Endereço:
+    Rua: Dos Jornaleiros
+    Número: 22
+    Bairro: Anil
+    Cidade: Sao Luis
+    Estado: MA
+    CEP: 65047-240
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/10/2019
+    Info Date: 28/02/2007
+    Mosaic: D13
+    Mosaic New: G23
+    Mosaic Secondary: G24
+  Endereços: (3 item(s))
+    [1]
+      Tipo: AV
+      Rua: GUAJAJARAS
+      Número: 11
+      Bairro: JD S CRISTOVAO
+      Cidade: SAO LUIS
+      Estado: MA
+      CEP: 65055-285
+      Date Added: 22/09/2015
+    [2]
+      Tipo: R
+      Rua: VINTE E CINCO DE DEZEMBRO
+      Número: 22
+      Complemento: HABITADO SAO LUIS MA 65000
+      Bairro: ANIL
+      Cidade: SAO LUIS
+      Estado: MA
+      CEP: 65047-240
+      Date Added: 12/04/2014
+    [3]
+      Tipo: R
+      Rua: DO ARAME
+      Número: 144
+      Bairro: VL PALMEIRA
+      Cidade: SAO LUIS
+      Estado: MA
+      CEP: 65045-070
+      Date Added: 02/02/2016
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 988370965
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [2]
+      Telefone: 33244505
+      Ddd: 98
+      Tipo: 1
+      Classificacao: D
+      Date Added: 14/06/2016
+      Info Date: 30/05/2016
+    [3]
+      Telefone: 998837096
+      Ddd: 98
+      Tipo: 3
+      Classificacao: D
+      Date Added: 11/08/2016
+    [4]
+      Telefone: 988883228
+      Ddd: 98
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/08/2016
+  E-mails: (2 item(s))
+    [1]
+      E-mail: lucio-sabino@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+    [2]
+      E-mail: poetachico@uol.com.br
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/05/2017
+  Score:
+    CSB8: 61
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 82
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 832.176.903-97
+      Nome: LUCIVANDA SILVA SABINO
+      Vinculo: IRMA(O)
+    [2]
+      CPF: 417.975.743-53
+      Nome: BENEDITA SILVA SABINO
+      Vinculo: MAE
+  Pis: 12356332334
+  Tse:
+    Titulo: 36587581139
+    Zona: 10
+    Secao: 27
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 493.752.023-72
+    Nome: WALDECY SOUSA DE PAULO
+    Logradouro: GUAJAJARAS
+    Número: 300
+    Bairro: JD S CRISTOVAO
+  [2]
+    CPF: 058.247.523-62
+    Nome: JOSE MARIA SANTANA RAMOS
+    Logradouro: GUAJAJARAS
+    Número: 1000
+    Bairro: JD S CRISTOVAO
+  [3]
+    CPF: 044.886.523-87
+    Nome: CONCEICAO DE MARIA BELICHE ALVES
+    Logradouro: GUAJAJARAS
+    Número: 65
+    Bairro: JD S CRISTOVAO
+  [4]
+    CPF: 254.909.903-68
+    Nome: DUALIM FERREIRA
+    Logradouro: GUAJAJARAS
+    Número: 185
+    Bairro: JD S CRISTOVAO
+  [5]
+    CPF: 013.919.113-50
+    Nome: JOAO GABRIEL PORTELA DE CARVALHO
+    Logradouro: GUAJAJARAS
+    Número: 1
+    Bairro: JD S CRISTOVAO
+  [6]
+    CPF: 276.686.734-15
+    Nome: DELMIRA DA SILVA LOPES
+    Logradouro: GUAJAJARAS
+    Número: 194
+    Bairro: JD S CRISTOVAO
+  [7]
+    CPF: 097.775.633-53
+    Nome: LUIZ ALBERTO BORGES
+    Logradouro: GUAJAJARAS
+    Número: 491
+    Bairro: JD S CRISTOVAO
+  [8]
+    CPF: 003.059.623-88
+    Nome: CARLA PONTES SILVA
+    Logradouro: GUAJAJARAS
+    Número: 60
+    Bairro: JD S CRISTOVAO
+  [9]
+    CPF: 773.046.912-04
+    Nome: CLEBER OLIVEIRA SILVA JUNIOR
+    Logradouro: GUAJAJARAS
+    Número: 100
+    Bairro: JD S CRISTOVAO
+  [10]
+    CPF: 011.727.953-63
+    Nome: ARNALDO CARDOSO DA SILVA
+    Logradouro: GUAJAJARAS
+    Número: 1
+    Bairro: JD S CRISTOVAO
+  [11]
+    CPF: 062.940.143-87
+    Nome: CANDIDO SIMPLICIO FERREIRA
+    Logradouro: GUAJAJARAS
+    Número: 260
+    Bairro: JD S CRISTOVAO
+  [12]
+    CPF: 832.204.703-78
+    Nome: MARCIO ROMERIO VIANA MARINHO
+    Logradouro: GUAJAJARAS
+    Número: 16
+    Bairro: JD S CRISTOVAO
+  [13]
+    CPF: 405.937.623-04
+    Nome: JAQUES DOUGLAS CUTRIM BOTELHO
+    Logradouro: GUAJAJARAS
+    Número: 270
+    Bairro: JD S CRISTOVAO
+  [14]
+    CPF: 292.693.503-04
+    Nome: JOSE MARIA AQUINO DOS SANTOS
+    Logradouro: GUAJAJARAS
+    Número: 50
+    Bairro: JD S CRISTOVAO
+  [15]
+    CPF: 009.572.543-18
+    Nome: RAFAEL CARLOS COQUEIRO MACHADO
+    Logradouro: GUAJAJARAS
+    Número: 23
+    Bairro: JD S CRISTOVAO
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (98) 98837-0965
+    Nome: RONNY LUCIO SILVA SABINO
+    Cidade: SAO LUIS
+    UF: MA
+Telefones Operadoras: (3 item(s))
+  [1]
+    Telefone: (98) 3245-9780
+    Nome: RONNY LUCIO SILVA SABINO
+    Cidade: SAO LUIS
+    UF: MA
+    Operadora: TELEMAR - TELMA
+    Fonte: algar
+  [2]
+    Telefone: (98) 99988-2787
+    Nome: RONNY LUCIO SILVA SABINO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [3]
+    Telefone: (98) 98888-3228
+    Nome: RONNY LUCIO SILVA SABINO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (2 item(s))
+  - lucio-sabino@hotmail.com
+  - poetachico@uol.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 5
+Renda Estimativas:
+  Presumida:
+    Valor: 6500
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (98) 98837-0965
+    Ddd: 98
+    Número: 988370965
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [2]
+    Telefone: (98) 3324-4505
+    Ddd: 98
+    Número: 33244505
+    Tipo: FIXO
+    Data Inclusao: 14/06/2016
+    Data Informacao: 30/05/2016
+    Classificacao: D
+  [3]
+    Telefone: (98) 99883-7096
+    Ddd: 98
+    Número: 998837096
+    Tipo: 3
+    Data Inclusao: 11/08/2016
+    Classificacao: D
+  [4]
+    Telefone: (98) 98888-3228
+    Ddd: 98
+    Número: 988883228
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: A0
+Occupation Code: 141410
+Occupation Name: Comerciante varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,444 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  37407142807
+Data/Hora:  03/10/2026, 21:15:58
+Tempo API:  355ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 374.071.428-07
+Nome: ANDERSON FERNANDO GABRIEL
+Primeiro Nome: ANDERSON
+Sobrenome: GABRIEL
+Sexo: Masculino
+Data de Nascimento: 29/10/1988
+Nome da Mãe: LUCY HELENA DA SILVA GABRIEL
+Nome do Pai: MARCOS FERNANDO GABRIEL
+RG: 468354086
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: SP
+Voter Id: 378418460175
+Mosaic: C10
+Ocupação: Trabalhador da manutenção de edificações
+Score:
+  Value: 386
+  Range: ALTO
+E-mail: valdecimalvero@gmail.com
+Additional Emails: (2 item(s))
+  - valdecimalvero@gmail.com
+  - s_kmel@hotmail.com
+Federal Status: REGULAR
+Renda: 1565
+Income Bracket: 2
+Cbo: 514325
+Endereço:
+  Tipo: RUA
+  Rua: CONSTANTINO SURIANI
+  Número: 404
+  Bairro: VILA PARAISO
+  Cidade: CAMPINAS
+  Estado: SAO PAULO
+  CEP: 13043-510
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CONSTANTINO SURIANI
+    Número: 404
+    Bairro: VILA PARAISO
+    Cidade: CAMPINAS
+    Estado: SAO PAULO
+    CEP: 13043-510
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CONSTANTINO SURIANI
+    Número: 404
+    Bairro: VILA PARAISO
+    Cidade: CAMPINAS - SP
+    Fonte: DATASUS
+  [3]
+    Rua: PEDRO BIANCONI
+    Tipo: R
+    Número: 85
+    Bairro: JD PACAEMBU
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13033-320
+    Data Atualizacao: 27/09/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ERNESTO KHULMANN
+    Tipo: R
+    Número: 45
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13013-010
+    Data Atualizacao: 29/10/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ZOCCA
+    Tipo: R
+    Número: 50
+    Bairro: VL CASTELO BRANCO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13061-231
+    Data Atualizacao: 27/09/2010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: ERNESTO KHULMANN
+    Tipo: R
+    Número: 6
+    Complemento: C
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13013-010
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: ERNESTO KHULMANN
+    Número: 0000045
+    Bairro: CENTRO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13013-010
+    Fonte: ASSECC
+  [8]
+    Tipo: R
+    Rua: CONSTANTINO SURIANI
+    Número: 0000404
+    Bairro: VILA PARAISO
+    Cidade: CAMPINAS
+    Estado: SP
+    CEP: 13043-510
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Datasus Phones: (3 item(s))
+  - (19) 3212-2198
+  - (19) 99435-4363
+  - (19) 99435-4005
+Cidade de Nascimento: CAMPINAS - SP
+Cns: 705402458247891
+Rg Issue Date: 1291950000000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 21/11/2019
+    Mosaic: C10
+    Mosaic New: C07
+    Mosaic Secondary: C08
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: PEDRO BIANCONI
+      Número: 85
+      Bairro: JD PACAEMBU
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13033-320
+      Date Added: 03/08/2009
+    [2]
+      Tipo: R
+      Rua: ERNESTO KHULMANN
+      Número: 45
+      Bairro: CENTRO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13013-010
+      Date Added: 09/04/2018
+    [3]
+      Tipo: R
+      Rua: ZOCCA
+      Número: 50
+      Bairro: VL CASTELO BRANCO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13061-231
+      Date Added: 03/03/2007
+    [4]
+      Tipo: R
+      Rua: ERNESTO KHULMANN
+      Número: 6
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13013-010
+      Date Added: 27/04/2016
+    [5]
+      Tipo: R
+      Rua: CONSTANTINO SURIANI
+      Número: 404
+      Bairro: VL PARAISO
+      Cidade: CAMPINAS
+      Estado: SP
+      CEP: 13043-510
+      Date Added: 19/03/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33969463
+      Ddd: 19
+      Tipo: 1
+      Classificacao: B
+      Date Added: 26/09/2010
+    [2]
+      Telefone: 991916184
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [3]
+      Telefone: 32762593
+      Ddd: 19
+      Tipo: 2
+      Classificacao: C
+      Date Added: 18/03/2015
+    [4]
+      Telefone: 33688084
+      Ddd: 19
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 24/03/2015
+    [5]
+      Telefone: 984025265
+      Ddd: 19
+      Tipo: 3
+      Classificacao: D
+      Date Added: 09/02/2017
+  E-mails: (1 item(s))
+    [1]
+      E-mail: s_kmel@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSB8: 467
+    CSB8 FAIXA: MEDIO
+    CSBA: 386
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: LUCY H DA S GABRIEL
+      Vinculo: MAE
+  Pis: 12934352252
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1310.02
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Telefones: (10 item(s))
+  - (19) 99435-4363
+  - (19) 99191-6184
+  - (19) 2519-1184
+  - +55 (19) 99362-8478
+  - +55 (19) 98891-2117
+  - (19) 3324-3894
+  - (19) 3396-9463
+  - (19) 3276-2593
+  - (19) 3368-8084
+  - (19) 98402-5265
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 420.916.388-03
+    Nome: BEATRIZ FERREIRA DOS SANTOS
+    Logradouro: PEDRO BIANCONI
+    Número: 85
+    Bairro: JD PACAEMBU
+  [2]
+    CPF: 168.454.798-95
+    Nome: RICHARDSON CARLOS PISCELLI
+    Logradouro: PEDRO BIANCONI
+    Número: 84
+    Bairro: JD PACAEMBU
+  [3]
+    CPF: 137.953.368-64
+    Nome: MABIA DARK VILELA ESCORIZA
+    Logradouro: PEDRO BIANCONI
+    Número: 85
+    Bairro: JD PACAEMBU
+  [4]
+    CPF: 263.248.808-77
+    Nome: CLEBER BENEDITO DE SOUZA LIMA
+    Logradouro: PEDRO BIANCONI
+    Número: 51
+    Bairro: JD PACAEMBU
+  [5]
+    CPF: 195.596.928-01
+    Nome: ADEMIR FRANCISCO DOS SANTOS SA
+    Logradouro: PEDRO BIANCONI
+    Número: 74
+    Bairro: JD PACAEMBU
+  [6]
+    CPF: 087.182.058-79
+    Nome: MARIA DE LOURDES BRITO HILARIO
+    Logradouro: PEDRO BIANCONI
+    Número: 160
+    Bairro: JD PACAEMBU
+  [7]
+    CPF: 221.650.818-74
+    Nome: SILVANA CUNHA FRAGA
+    Logradouro: PEDRO BIANCONI
+    Número: 38
+    Bairro: JD PACAEMBU
+  [8]
+    CPF: 059.167.068-20
+    Nome: VALDECI MALVERO
+    Logradouro: PEDRO BIANCONI
+    Número: 85
+    Bairro: JD PACAEMBU
+  [9]
+    CPF: 079.606.148-30
+    Nome: WALTER APARECIDO ALEIXO
+    Logradouro: PEDRO BIANCONI
+    Número: 113
+    Bairro: JD PACAEMBU
+  [10]
+    CPF: 195.654.408-94
+    Nome: JOSE ILTON DOS SANTOS
+    Logradouro: PEDRO BIANCONI
+    Número: 75
+    Bairro: JD PACAEMBU
+  [11]
+    CPF: 120.715.698-14
+    Nome: MARCELO BRITO CAMARGO
+    Logradouro: PEDRO BIANCONI
+    Número: 11
+    Bairro: JD PACAEMBU
+  [12]
+    CPF: 329.816.178-00
+    Nome: LUCILENE ABADE BALLARIN
+    Logradouro: PEDRO BIANCONI
+    Número: 18
+    Bairro: JD PACAEMBU
+  [13]
+    CPF: 164.572.988-50
+    Nome: CARLA PATRICIA ANTONIO
+    Logradouro: PEDRO BIANCONI
+    Número: 18
+    Bairro: JD PACAEMBU
+  [14]
+    CPF: 053.188.458-94
+    Nome: INEZITA BASSI
+    Logradouro: PEDRO BIANCONI
+    Número: 143
+    Bairro: JD PACAEMBU
+  [15]
+    CPF: 035.842.955-21
+    Nome: PAULO LOIOLA FERREIRA
+    Logradouro: PEDRO BIANCONI
+    Número: 85
+    Bairro: JD PACAEMBU
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (19) 99435-4363
+    Nome: ANDERSON FERNANDO GABRIEL
+    Cidade: CAMPINAS
+    UF: SP
+  [2]
+    Telefone: (19) 99191-6184
+    Nome: ANDERSON FERNANDO GABRIEL
+    Cidade: CAMPINAS
+    UF: SP
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (19) 99435-4363
+    Nome: ANDERSON FERNANDO GABRIEL
+    Cidade: CAMPINAS
+    UF: SP
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (19) 3324-3894
+    Nome: ANDERSON FERNANDO GABRIEL
+    Cidade: CAMPINAS
+    UF: SP
+    Operadora: EMBRATEL
+    Fonte: algar
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (19) 2519-1184
+    Tipo: fixo
+    Status Linha: Cancelado
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Cel Contato: +5519993628478
+    Data Retirada: 08JUL2015:18:44:53
+    Tipo Cliente: Residencial
+E-mails: (2 item(s))
+  - valdecimalvero@gmail.com
+  - s_kmel@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1565
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1310.02
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (19) 3396-9463
+    Ddd: 19
+    Número: 33969463
+    Tipo: FIXO
+    Data Inclusao: 26/09/2010
+    Classificacao: B
+  [2]
+    Telefone: (19) 99191-6184
+    Ddd: 19
+    Número: 991916184
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [3]
+    Telefone: (19) 3276-2593
+    Ddd: 19
+    Número: 32762593
+    Tipo: CELULAR
+    Data Inclusao: 18/03/2015
+    Classificacao: C
+  [4]
+    Telefone: (19) 3368-8084
+    Ddd: 19
+    Número: 33688084
+    Tipo: FIXO
+    Data Inclusao: 24/03/2015
+    Classificacao: A0
+  [5]
+    Telefone: (19) 98402-5265
+    Ddd: 19
+    Número: 984025265
+    Tipo: 3
+    Data Inclusao: 09/02/2017
+    Classificacao: D
+Occupation Code: 514325
+Occupation Name: Trabalhador da manutenção de edificações
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

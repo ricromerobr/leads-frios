@@ -1,0 +1,509 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  63397587387
+Data/Hora:  02/10/2026, 16:11:23
+Tempo API:  219ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 633.975.873-87
+Nome: GUSTAVO RIBEIRO DE ARAUJO
+Primeiro Nome: GUSTAVO
+Sobrenome: ARAUJO
+Sexo: Masculino
+Data de Nascimento: 08/03/1980
+Nome da Mãe: RITA MARIA RIBEIRO DE ARAUJO
+Nome do Pai: SEM INFORMAÃÃO
+RG: 16119
+Rg Issuer: OAB
+Rg State: CE
+Voter Id: 052412420736
+Mosaic: A02
+Ocupação: Corretor de imóveis
+Score:
+  Value: 23
+  Range: ALTISSIMO
+E-mail: GUSTAVORIBEIRODEARAUJO@YAHOO.COM.BR
+Federal Status: REGULAR
+Renda: 1543
+Income Bracket: 2
+Cbo: 411010
+Endereço:
+  Tipo: RUA
+  Rua: TR CARLOS JATHAY
+  Bairro: VARJOTA
+  Cidade: FORTALEZA
+  Estado: CEARA
+  CEP: 60160-270
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: TR CARLOS JATHAY
+    Bairro: VARJOTA
+    Cidade: FORTALEZA
+    Estado: CEARA
+    CEP: 60160-270
+    Fonte: PRINCIPAL
+  [2]
+    Rua: R ISRAEL BEZERRA
+    Número: 511
+    Bairro: DIONISIO TORRES
+    Cidade: FORTALEZA - CE
+    Fonte: DATASUS
+  [3]
+    Rua: ISRAEL BEZERRA
+    Tipo: R
+    Número: 511
+    Complemento: AP 5 4
+    Bairro: DIONISIO TORRES
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60135-460
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: CARLOS JATAI
+    Tipo: TV
+    Número: 40
+    Complemento: ALDEOTA
+    Bairro: VARJOTA
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60160-270
+    Data Atualizacao: 10/09/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: BRUNO
+    Tipo: R
+    Número: 333
+    Complemento: AP 903
+    Bairro: MEIRELES
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60115-190
+    Data Atualizacao: 15/05/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: MOREIRA DA ROCHA
+    Tipo: R
+    Número: 1443
+    Complemento: AP 502
+    Bairro: MEIRELES
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60160-060
+    Data Atualizacao: 12/11/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: 0000511
+    Número: ISRAEL BEZERRA
+    Bairro: DIONISIO TORRES
+    Cidade: FORTALEZA
+    Estado: CE
+    CEP: 60135-460
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (85) 98608-3696
+  - (85) 98896-4970
+  - +55 (85) 98896-4970
+  - (85) 98661-4459
+  - (85) 3257-2186
+  - (85) 3248-1211
+  - (85) 98896-5033
+  - (85) 99995-5544
+  - (85) 98531-5507
+Datasus Phones: (1 item(s))
+  - (21) 2105-0000
+Cidade de Nascimento: INVALIDO
+Cns: 700007848079400
+Paycom:
+  E-mail: gustavo.ribeiro.adv@hotmail.com
+  Data de Nascimento: 01/01/1990
+  Created At: 2018-09-14 22:55:59
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Rua Deputado Moreira da Rocha
+    Número: 1443
+    Complemento: ap 502
+    Bairro: Meireles
+    Cidade: Fortaleza
+    Estado: Ceará
+    País: BRA
+    CEP: 60160-060
+    Telephone: +55 (85) 98896-4970
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 28/09/2019
+    Info Date: 21/12/2008
+    Rg Issuer: OAB
+    Rg State: CE
+    Mosaic: A02
+    Mosaic New: A01
+    Mosaic Secondary: A02
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: ISRAEL BEZERRA
+      Número: 511
+      Complemento: AP 5 4
+      Bairro: DIONISIO TORRES
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60135-460
+      Date Added: 05/05/2015
+    [2]
+      Tipo: TV
+      Rua: CARLOS JATAI
+      Número: 40
+      Complemento: ALDEOTA
+      Bairro: VARJOTA
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60160-270
+      Date Added: 15/08/2006
+    [3]
+      Tipo: R
+      Rua: BRUNO
+      Número: 333
+      Complemento: AP 903
+      Bairro: MEIRELES
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60115-190
+      Date Added: 16/10/2018
+    [4]
+      Tipo: R
+      Rua: MOREIRA DA ROCHA
+      Número: 1443
+      Complemento: AP 502
+      Bairro: MEIRELES
+      Cidade: FORTALEZA
+      Estado: CE
+      CEP: 60160-060
+      Date Added: 28/11/2016
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988965033
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/07/2013
+    [2]
+      Telefone: 986614459
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/01/2016
+    [3]
+      Telefone: 988964970
+      Ddd: 85
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 23/01/2016
+    [4]
+      Telefone: 999955544
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 985315507
+      Ddd: 85
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (4 item(s))
+    [1]
+      E-mail: gustavo.ribeiro.adv@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: gustavoribeirodearaujo@yahoo.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [3]
+      E-mail: gustavo02@bol.com.br
+      Priority: 3
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: gustavo.ribeiro@ramaral.com
+      Priority: 4
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 02/06/2016
+  Score:
+    CSBA: 23
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (6 item(s))
+    [1]
+      CPF: 241.540.403-91
+      Nome: FRANCISCA ZUILA AGUIAR RIBEIRO
+      Vinculo: AVO
+    [2]
+      CPF: 621.435.813-00
+      Nome: LYA RIBEIRO MONTENEGRO DE ALMEIDA
+      Vinculo: PRIMA(O)
+    [3]
+      CPF: 161.957.603-15
+      Nome: MARIA MARFIZA RIBEIRO DE ALMEIDA
+      Vinculo: TIA(O)
+    [4]
+      CPF: 645.851.233-34
+      Nome: ANGELINA RIBEIRO DE ALMEIDA PARENTE
+      Vinculo: PRIMA(O)
+    [5]
+      CPF: 512.882.303-20
+      Nome: RAQUEL RIBEIRO DE ARAUJO
+      Vinculo: IRMA(O)
+    [6]
+      CPF: 6082610334
+      Nome: RITA MARIA RIBEIRO DE ARAUJO
+      Vinculo: MAE
+  Pis: 12966260191
+  Tse:
+    Titulo: 52412420736
+    Zona: 1
+    Secao: 676
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1340.9
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Additional Emails: (4 item(s))
+  - gustavo.ribeiro.adv@hotmail.com
+  - gustavoribeirodearaujo@yahoo.com.br
+  - gustavo02@bol.com.br
+  - gustavo.ribeiro@ramaral.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 461.804.433-00
+    Nome: IVONEIDE MIGUEL RIBEIRO DE FREITAS
+    Logradouro: ISRAEL BEZERRA
+    Número: 630
+    Bairro: DIONISIO TORRES
+  [2]
+    CPF: 426.508.013-87
+    Nome: ERIKA ALBUQUERQUE FARIAS
+    Logradouro: ISRAEL BEZERRA
+    Número: 203
+    Bairro: DIONISIO TORRES
+  [3]
+    CPF: 855.754.293-34
+    Nome: ACRISIO ALVES NUNES FILHO
+    Logradouro: ISRAEL BEZERRA
+    Número: 633
+    Bairro: DIONISIO TORRES
+  [4]
+    CPF: 728.419.403-06
+    Nome: MARIA MATOS NOGUEIRA
+    Logradouro: ISRAEL BEZERRA
+    Número: 375
+    Bairro: DIONISIO TORRES
+  [5]
+    CPF: 399.087.713-53
+    Nome: ITALO BANDEIRA FERNANDES
+    Logradouro: ISRAEL BEZERRA
+    Número: 326
+    Bairro: DIONISIO TORRES
+  [6]
+    CPF: 001.206.443-20
+    Nome: GLAUBIANA ALVES
+    Logradouro: ISRAEL BEZERRA
+    Número: 465
+    Bairro: DIONISIO TORRES
+  [7]
+    CPF: 166.206.583-34
+    Nome: LUIZA DE MARILAC E SILVA DOS SANTOS
+    Logradouro: ISRAEL BEZERRA
+    Número: 465
+    Bairro: DIONISIO TORRES
+  [8]
+    CPF: 022.667.373-17
+    Nome: LUCIMAR ROCHA DA SILVA
+    Logradouro: ISRAEL BEZERRA
+    Número: 176
+    Bairro: DIONISIO TORRES
+  [9]
+    CPF: 443.567.813-68
+    Nome: CYNTHIA PAULA BRUNO DA SILVA
+    Logradouro: ISRAEL BEZERRA
+    Número: 212
+    Bairro: DIONISIO TORRES
+  [10]
+    CPF: 712.642.053-68
+    Nome: VERA LUCIA PAULINO DA SILVA
+    Logradouro: ISRAEL BEZERRA
+    Número: 465
+    Bairro: DIONISIO TORRES
+  [11]
+    CPF: 005.755.694-68
+    Nome: GERARDO OLIVEIRA MAGALHAES
+    Logradouro: ISRAEL BEZERRA
+    Número: 557
+    Bairro: DIONISIO TORRES
+  [12]
+    CPF: 464.538.143-15
+    Nome: CLICE REINALDO MONTEIRO
+    Logradouro: ISRAEL BEZERRA
+    Número: 511
+    Bairro: DIONISIO TORRES
+  [13]
+    CPF: 472.074.693-49
+    Nome: FERNANDO SAULO CALHEIROS DE OLIVEIRA PINHEIRO
+    Logradouro: ISRAEL BEZERRA
+    Número: 326
+    Bairro: DIONISIO TORRES
+  [14]
+    CPF: 000.265.493-87
+    Nome: JOSE FIRMO DE SOUSA HOLANDA
+    Logradouro: ISRAEL BEZERRA
+    Número: 326
+    Bairro: DIONISIO TORRES
+  [15]
+    CPF: 219.916.853-00
+    Nome: CHRISTIANE COSTA PESSOA MARTINS
+    Logradouro: ISRAEL BEZERRA
+    Número: 326
+    Bairro: DIONISIO TORRES
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (85) 98661-4459
+    Nome: GUSTAVO RIBEIRO DE ARAUJO
+    Cidade: FORTALEZA
+    UF: CE
+  [2]
+    Telefone: (85) 98896-4970
+    Nome: GUSTAVO RIBEIRO DE ARAUJO
+    Cidade: FORTALEZA
+    UF: CE
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (85) 3257-2186
+    Nome: GUSTAVO RIBEIRO DE ARAUJO
+    Cidade: FORTALEZA
+    UF: CE
+    Operadora: TELEMAR - TELECEARA
+    Fonte: algar
+  [2]
+    Telefone: (85) 3248-1211
+    Nome: GUSTAVO RIBEIRO DE ARAUJO
+    Cidade: FORTALEZA
+    UF: CE
+    Operadora: TELEMAR - TELECEARA
+    Fonte: algar
+E-mails: (4 item(s))
+  - gustavoribeirodearaujo@yahoo.com.br
+  - gustavo.ribeiro.adv@hotmail.com
+  - gustavo02@bol.com.br
+  - gustavo.ribeiro@ramaral.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1543
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1340.9
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (85) 98896-5033
+    Ddd: 85
+    Número: 988965033
+    Tipo: 3
+    Data Inclusao: 18/07/2013
+    Classificacao: D
+  [2]
+    Telefone: (85) 98661-4459
+    Ddd: 85
+    Número: 986614459
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: D
+  [3]
+    Telefone: (85) 98896-4970
+    Ddd: 85
+    Número: 988964970
+    Tipo: 3
+    Data Inclusao: 23/01/2016
+    Classificacao: A0
+  [4]
+    Telefone: (85) 99995-5544
+    Ddd: 85
+    Número: 999955544
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (85) 98531-5507
+    Ddd: 85
+    Número: 985315507
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Processos: (1 item(s))
+  [1]
+    Número: 1002012-20.2022.8.26.0609
+    Classe: Procedimento Comum Cível
+    Assunto: Auxílio-Acidente (Art. 86)
+    Vara: 1ª Vara Cível
+    Data: 18/03/2022 às 12:02 - Livre
+    Partes: (3 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Gustavo Ribeiro de Araujo Advogado: Marcio Silva Coelho Advogado: Rogério Carreta Cigari
+      [2]
+        Papel: Reqdo
+        Nome: Instituto Nacional do Seguro Social - INSS
+      [3]
+        Papel: Perito
+        Nome: Daniel Constantino Yazbek
+Occupation Code: 354605
+Occupation Name: Corretor de imóveis
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

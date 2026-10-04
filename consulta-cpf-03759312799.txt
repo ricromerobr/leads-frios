@@ -1,0 +1,511 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03759312799
+Data/Hora:  04/10/2026, 12:34:09
+Tempo API:  717ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 037.593.127-99
+Nome: CLAUDIO DE SOUZA PINTO
+Primeiro Nome: CLAUDIO
+Sobrenome: PINTO
+Sexo: Masculino
+Data de Nascimento: 15/04/1973
+Nome da Mãe: NEUZA LUIZA DE SOUZA PINTO
+Nome do Pai: SEM INFORMAÇÃO
+RG: 113928907
+Rg Issuer: IFP
+Rg State: RJ
+Voter Id: 101009410302
+Mosaic: F18
+Ocupação: Auxiliar de enfermagem
+Score:
+  Value: 546
+  Range: MEDIO
+E-mail: claudinha.marilia@yahoo.com.br
+Additional Emails: (1 item(s))
+  - claudinha.marilia@yahoo.com.br
+Federal Status: REGULAR
+Renda: 3262
+Income Bracket: 4
+Cbo: 324115
+Endereço:
+  Tipo: RUA
+  Rua: CRISTAIS PAULISTA
+  Bairro: CAMPO GRANDE
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 23085-800
+All Addresses: (11 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CRISTAIS PAULISTA
+    Bairro: CAMPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 23085-800
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CND RUA IRAJUBA
+    Número: 114
+    Bairro: CAMPO GRANDE
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: HENRI DUNANT
+    Tipo: R
+    Número: 597
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23052-350
+    Data Atualizacao: 01/02/2018
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ADOLFO BERGAMINI
+    Tipo: R
+    Número: 206
+    Bairro: ENGENHO DE DENTRO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20730-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: FRANCISCO REAL
+    Tipo: R
+    Número: SN
+    Bairro: BANGU
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21810-041
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: IRAJUBA
+    Tipo: R
+    Número: 114
+    Complemento: BL 1 C
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23017-170
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Rua: IRAJUBA
+    Tipo: R
+    Número: 2
+    Complemento: BL 1 114
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23017-170
+    Data Atualizacao: 28/10/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [8]
+    Tipo: R
+    Rua: IRAJUBA
+    Número: 0000114
+    Bairro: CAMPO GRANDE
+    Cidade: 23017170
+    Estado: RJ
+    Fonte: ASSECC
+  [9]
+    Tipo: [empty]
+    Rua: IRAJUBA
+    Número: 0000114
+    Bairro: CAMPO GRANDE
+    Cidade: 02301770
+    Estado: RJ
+    Fonte: ASSECC
+  [10]
+    Tipo: R
+    Rua: TOULON
+    Número: 0000294
+    Bairro: PADRE MIGUEL
+    Cidade: 21875080
+    Estado: RJ
+    Fonte: ASSECC
+  [11]
+    Tipo: R
+    Rua: TOULON
+    Número: 0000294
+    Bairro: PADREMIGUEL
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21875-080
+    Fonte: NEXTEL_BR24M
+Vehicles:
+  Count: 0
+Telefones: (9 item(s))
+  - (21) 96991-3714
+  - (21) 96430-3904
+  - (21) 96428-1846
+  - (21) 99792-0313
+  - (21) 99392-0313
+  - (21) 96857-5635
+  - (21) 3407-3180
+  - (21) 99893-0727
+  - (21) 3407-3234
+Cidade de Nascimento: INVALIDO
+Cns: 704002806815263
+Serasa Completo:
+  Dados Cadastrais:
+    Nacionalidade: 10
+    Status Date: 26/11/2019
+    Info Date: 23/09/2004
+    Rg Issuer: IFP
+    Rg State: RJ
+    Mosaic: F18
+    Mosaic New: D09
+    Mosaic Secondary: E17
+    Income Bracket Id: 2
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: HENRI DUNANT
+      Número: 597
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23052-350
+      Date Added: 18/03/2011
+    [2]
+      Tipo: R
+      Rua: ADOLFO BERGAMINI
+      Número: 206
+      Bairro: ENGENHO DE DENTRO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20730-000
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: FRANCISCO REAL
+      Número: SN
+      Bairro: BANGU
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21810-041
+      Date Added: 30/04/2015
+    [4]
+      Tipo: R
+      Rua: IRAJUBA
+      Número: 114
+      Complemento: BL 1 C
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23017-170
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: IRAJUBA
+      Número: 2
+      Complemento: BL 1 114
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23017-170
+      Date Added: 03/07/2014
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 34073180
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 11/06/2008
+      Info Date: 23/09/2004
+    [2]
+      Telefone: 998930727
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2009
+    [3]
+      Telefone: 34073234
+      Ddd: 21
+      Tipo: 1
+      Classificacao: A0
+      Date Added: 15/12/2014
+      Info Date: 24/10/2012
+    [4]
+      Telefone: 964281846
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 01/02/2018
+  E-mails: (1 item(s))
+    [1]
+      E-mail: claudinha.marilia@yahoo.com.br
+      Priority: 1
+      Quality: PESSIMO
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+  Score:
+    CSB8: 472
+    CSB8 FAIXA: MEDIO
+    CSBA: 546
+    CSBA FAIXA: MEDIO
+  Parentes: (1 item(s))
+    [1]
+      Nome: NEUZA LUIZA DE SOUZA PINTO
+      Vinculo: MAE
+  Pis: 17045049089
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1285.81
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 057.751.026-65
+    Nome: HIRAN LIBANIO DO CARMO
+    Logradouro: HENRI DUNANT
+    Número: 831
+    Bairro: CPO GRANDE
+  [2]
+    CPF: 054.446.707-80
+    Nome: FERNANDO SERGIO ROSA PEREIRA
+    Logradouro: HENRI DUNANT
+    Número: 70
+    Bairro: CPO GRANDE
+  [3]
+    CPF: 025.967.467-27
+    Nome: REGINALDO FRANCISCO DA SILVA
+    Logradouro: HENRI DUNANT
+    Número: 108
+    Bairro: CPO GRANDE
+  [4]
+    CPF: 833.912.237-15
+    Nome: MARCOS VIEIRA DE OLIVEIRA
+    Logradouro: HENRI DUNANT
+    Número: 453
+    Bairro: CPO GRANDE
+  [5]
+    CPF: 021.132.537-63
+    Nome: IRENE VIDAL DE SALVADOR FRENSEL BOTELHO
+    Logradouro: HENRI DUNANT
+    Número: 575
+    Bairro: CPO GRANDE
+  [6]
+    CPF: 038.835.857-26
+    Nome: FRANCINE FIGUEIREDO
+    Logradouro: HENRI DUNANT
+    Número: 793
+    Bairro: CPO GRANDE
+  [7]
+    CPF: 908.014.827-04
+    Nome: MARCO AURELIO FERRAZ DE SOUZA
+    Logradouro: HENRI DUNANT
+    Número: 913
+    Bairro: CPO GRANDE
+  [8]
+    CPF: 510.280.697-15
+    Nome: NEUCINEA SILVA OLIVEIRA
+    Logradouro: HENRI DUNANT
+    Número: 657
+    Bairro: CPO GRANDE
+  [9]
+    CPF: 128.956.997-55
+    Nome: ESTER CARLA AGUIAR DE OLIVEIRA
+    Logradouro: HENRI DUNANT
+    Número: 96
+    Bairro: CPO GRANDE
+  [10]
+    CPF: 733.299.917-04
+    Nome: MARIA APARECIDA LIMA DE AGUIAR
+    Logradouro: HENRI DUNANT
+    Número: 287
+    Bairro: CPO GRANDE
+  [11]
+    CPF: 438.147.947-53
+    Nome: JOAO JANUARIO
+    Logradouro: HENRI DUNANT
+    Número: 311
+    Bairro: CPO GRANDE
+  [12]
+    CPF: 080.079.897-06
+    Nome: ANA MAGALI PRIES BOTELHO
+    Logradouro: HENRI DUNANT
+    Número: 413
+    Bairro: CPO GRANDE
+  [13]
+    CPF: 037.601.407-50
+    Nome: CRISTIANO SALGUEIRO DA SILVA
+    Logradouro: HENRI DUNANT
+    Número: 484
+    Bairro: CPO GRANDE
+  [14]
+    CPF: 347.728.637-53
+    Nome: MARCO ANTONIO DE PAULA
+    Logradouro: HENRI DUNANT
+    Número: 290
+    Bairro: CPO GRANDE
+  [15]
+    CPF: 083.599.287-03
+    Nome: MARIA CAROLINA DOLIVEIRA VILARINHO
+    Logradouro: HENRI DUNANT
+    Número: 352
+    Bairro: CPO GRANDE
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (21) 96991-3714
+    Nome: CLAUDIO DE SOUZA PINTO
+    Cidade: 23017170
+    UF: RJ
+  [2]
+    Telefone: (21) 99792-0313
+    Nome: CLAUDIO DE SOUZA PINTO
+    Cidade: 02301770
+    UF: RJ
+  [3]
+    Telefone: (21) 96430-3904
+    Nome: CLAUDIO DE SOUZA PINTO
+    Cidade: 21875080
+    UF: RJ
+  [4]
+    Telefone: (21) 96428-1846
+    Nome: CLAUDIO DE SOUZA PINTO
+    Cidade: 21875080
+    UF: RJ
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (21) 99392-0313
+    Nome: CLAUDIO DE SOUZA PINTO
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (21) 96857-5635
+    Nome: CLAUDIO DE SOUZA PINTO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - claudinha.marilia@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 4
+Renda Estimativas:
+  Presumida:
+    Valor: 3262
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1285.81
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (21) 3407-3180
+    Ddd: 21
+    Número: 34073180
+    Tipo: FIXO
+    Data Inclusao: 11/06/2008
+    Data Informacao: 23/09/2004
+    Classificacao: D2
+  [2]
+    Telefone: (21) 99893-0727
+    Ddd: 21
+    Número: 998930727
+    Tipo: 3
+    Data Inclusao: 15/12/2009
+    Classificacao: D
+  [3]
+    Telefone: (21) 3407-3234
+    Ddd: 21
+    Número: 34073234
+    Tipo: FIXO
+    Data Inclusao: 15/12/2014
+    Data Informacao: 24/10/2012
+    Classificacao: A0
+  [4]
+    Telefone: (21) 96428-1846
+    Ddd: 21
+    Número: 964281846
+    Tipo: 3
+    Data Inclusao: 01/02/2018
+    Classificacao: D
+Processos: (6 item(s))
+  [1]
+    Número: 1031329-33.2025.8.26.0100
+    Classe: Outros procedimentos de jurisdição voluntária
+    Assunto: Prestação de Contas
+    Vara: 1ª Vara da Família e Sucessões
+    Data: 12/03/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Parte
+        Nome: Claudio de Souza Pinto
+  [2]
+    Número: 1085354-74.2017.8.26.0100
+    Classe: Inventário
+    Assunto: Inventário e Partilha
+    Vara: 1ª Vara da Família e Sucessões
+    Data: 28/08/2017
+    Partes: (1 item(s))
+      [1]
+        Papel: Herdeiro
+        Nome: Claudio de Souza Pinto
+  [3]
+    Número: 0302643-34.2009.8.26.0100
+    Classe: Inventário
+    Assunto: Inventário e Partilha
+    Vara: 1ª Vara da Família e Sucessões
+    Data: 29/01/2009
+    Partes: (1 item(s))
+      [1]
+        Papel: Herdeiro
+        Nome: Claudio de Souza Pinto
+  [4]
+    Número: 1020587-43.2017.8.26.0224
+    Classe: Falência de Empresários, Sociedades Empresáriais, Microempresas e Empresas de Pequeno Porte
+    Assunto: Concurso de Credores
+    Vara: 1ª Vara Cível
+    Data: 07/06/2017
+    Partes: (1 item(s))
+      [1]
+        Papel: Credor
+        Nome: Claudio de Souza Pinto
+  [5]
+    Número: 0104243-28.2008.8.26.0547
+    Classe: Procedimento Comum Cível
+    Vara: 1ª Vara
+    Data: 29/12/2008
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: CLAUDIO DE SOUZA PINTO
+  [6]
+    Número: 1001699-78.2025.8.26.0601
+    Classe: Inventário
+    Assunto: Sucessões
+    Vara: 1ª Vara
+    Data: 17/10/2025
+    Partes: (1 item(s))
+      [1]
+        Papel: Reqte
+        Nome: Claudio Cesar de Souza Pinto
+Occupation Code: 322230
+Occupation Name: Auxiliar de enfermagem
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,562 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  31412801850
+Data/Hora:  04/10/2026, 14:45:50
+Tempo API:  376ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 314.128.018-50
+Nome: VANESSA OLIVEIRA DA SILVA NUNES
+Primeiro Nome: VANESSA
+Sobrenome: NUNES
+Sexo: Feminino
+Data de Nascimento: 01/10/1983
+Nome da Mãe: MARIA JOSE OLIVEIRA DA SILVA
+Nome do Pai: SEM INFORMAÇÃO
+RG: 42888314
+Rg Issuer: SSP
+Voter Id: 296596190116
+Mosaic: F20
+Ocupação: Promotor de vendas
+Score:
+  Value: 287
+  Range: ALTO
+E-mail: alisson3@br.inter.net
+Additional Emails: (7 item(s))
+  - alisson3@br.inter.net
+  - vanessavivo83@hotmail.com
+  - vanessavivo83@terra.com.br
+  - douglasgor@ig.com.br
+  - asas@terra.com.br
+  - dg.jd.helena@terra.com.br
+  - internet@terra.com.br
+Federal Status: REGULAR
+Renda: 1294
+Income Bracket: 2
+Cbo: 521115
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: VISTOSA DA MADRE DE DEUS
+  Número: 780
+  Bairro: JARDIM NOEMIA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 08180-110
+All Addresses: (10 item(s))
+  [1]
+    Tipo: RUA
+    Rua: VISTOSA DA MADRE DE DEUS
+    Número: 780
+    Bairro: JARDIM NOEMIA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 08180-110
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SEM INFORMAÇÃO
+    Número: 351
+    Bairro: SEM INFORMAÇÃO
+    Cidade: SAO PAULO - SP
+    Fonte: DATASUS
+  [3]
+    Rua: CURUAMANEMA
+    Tipo: R
+    Número: 84
+    Bairro: VL SEABRA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08180-170
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: DAS FLORES
+    Tipo: R
+    Número: 41
+    Bairro: JD HELENA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08090-605
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CANINANA
+    Tipo: R
+    Número: 351
+    Complemento: C 2
+    Bairro: JD NOEMIA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08180-090
+    Data Atualizacao: 03/10/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: CURUAMANEMA
+    Tipo: R
+    Número: 85
+    Bairro: VL SEABRA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08180-170
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: DAS FLORES
+    Número: 0000041
+    Bairro: JARDIM HELENA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08090-605
+    Fonte: ASSECC
+  [8]
+    Tipo: [empty]
+    Rua: DAS FLORES
+    Número: 0000045
+    Bairro: JARDIM HELENA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08090-605
+    Fonte: ASSECC
+  [9]
+    Tipo: R
+    Rua: CURUAMANEMA
+    Número: 0000005
+    Bairro: VILA SEABRA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 08180-170
+    Fonte: ASSECC
+  [10]
+    CEP: 00000-000
+    Fonte: BR21M
+Vehicles:
+  Count: 2
+  List: (2 item(s))
+    [1]
+      Marca: FIAT
+      Modelo: UNO ECONOMY
+      Ano: 2012
+    [2]
+      Marca: FIAT
+      Modelo: UNO MILLE FIRE FLEX
+      Ano: 2005
+Telefones: (11 item(s))
+  - (11) 98636-5837
+  - (11) 96217-1329
+  - (11) 95919-8272
+  - +55 (11) 98636-5837
+  - (11) 99187-3989
+  - (11) 2581-3228
+  - 551125813228
+  - (11) 2025-2994
+  - (11) 99774-3898
+  - (11) 96209-1255
+  - (11) 2156-6217
+Datasus Phones: (1 item(s))
+  - (11) 2025-2994
+Cidade de Nascimento: INVALIDO
+Cns: 705005877989257
+Paycom:
+  E-mail: vanessavivo83@hotmail.com
+  Data de Nascimento: 01/10/1983
+  Created At: 2021-01-29 18:19:17
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Sabia Laranjeira
+    Número: 671
+    Complemento: Casa
+    Bairro: 08090
+    Cidade: São Paulo
+    Estado: São Paulo
+    País: Brasil
+    Telephone: +55 (11) 98636-5837
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/11/2019
+    Info Date: 02/07/2007
+    Rg Issuer: SSP
+    Mosaic: F20
+    Mosaic New: E17
+    Mosaic Secondary: G23
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CURUAMANEMA
+      Número: 84
+      Bairro: VL SEABRA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08180-170
+      Date Added: 30/08/2019
+    [2]
+      Tipo: R
+      Rua: DAS FLORES
+      Número: 41
+      Bairro: JD HELENA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08090-605
+      Date Added: 27/08/2019
+    [3]
+      Tipo: R
+      Rua: VISTOSA DA MADRE DE DEUS
+      Número: 780
+      Bairro: JD NOEMIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08180-110
+      Date Added: 19/03/2015
+    [4]
+      Tipo: R
+      Rua: CANINANA
+      Número: 351
+      Complemento: C 2
+      Bairro: JD NOEMIA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08180-090
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: CURUAMANEMA
+      Número: 85
+      Bairro: VL SEABRA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 08180-170
+      Date Added: 23/09/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 997743898
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 05/03/2009
+      Info Date: 15/06/2009
+    [2]
+      Telefone: 962091255
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 24/06/2013
+      Info Date: 02/09/2019
+    [3]
+      Telefone: 986365837
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [4]
+      Telefone: 21566217
+      Ddd: 11
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [5]
+      Telefone: 25813228
+      Ddd: 11
+      Tipo: 1
+      Classificacao: C
+      Date Added: 06/12/2018
+  E-mails: (7 item(s))
+    [1]
+      E-mail: vanessavivo83@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: vanessavivo83@terra.com.br
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [3]
+      E-mail: alisson3@br.inter.net
+      Priority: 3
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [4]
+      E-mail: douglasgor@ig.com.br
+      Priority: 4
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [5]
+      E-mail: asas@terra.com.br
+      Priority: 5
+      Quality: POTENCIALMENTE BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [6]
+      E-mail: dg.jd.helena@terra.com.br
+      Priority: 6
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 22/11/2016
+    [7]
+      E-mail: internet@terra.com.br
+      Priority: 7
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 22/11/2016
+  Score:
+    CSB8: 138
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 287
+    CSBA FAIXA: ALTO
+  Parentes: (2 item(s))
+    [1]
+      Nome: MARIA JOSE OLIVEIRA DA SILVA
+      Vinculo: MAE
+    [2]
+      CPF: 126.389.317-13
+      Nome: ESTHER SILVA NUNES
+      Vinculo: FILHA(O)
+  Pis: 13016851899
+  Tse:
+    Titulo: 296596190116
+    Zona: 397
+    Secao: 280
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 884.268.585-20
+    Nome: JOSE ROBERIO SANTOS CONCEICAO
+    Logradouro: CURUAMANEMA
+    Número: 86
+    Bairro: VL SEABRA
+  [2]
+    CPF: 809.051.538-04
+    Nome: RUBENITO ALVES PEREIRA
+    Logradouro: CURUAMANEMA
+    Número: 11
+    Bairro: VL SEABRA
+  [3]
+    CPF: 405.647.328-50
+    Nome: FLAVIA FERREIRA DO NASCIMENTO CRUZ
+    Logradouro: CURUAMANEMA
+    Número: 23
+    Bairro: VL SEABRA
+  [4]
+    CPF: 257.593.448-62
+    Nome: MARILENE MARQUES DOS SANTOS ANDRADE
+    Logradouro: CURUAMANEMA
+    Número: 84
+    Bairro: VL SEABRA
+  [5]
+    CPF: 165.040.768-80
+    Nome: ALEXANDRE CASTILHO DE LIMA RESENDE
+    Logradouro: CURUAMANEMA
+    Número: 23
+    Bairro: VL SEABRA
+  [6]
+    CPF: 169.935.158-90
+    Nome: PATRICIA LANDIM DA COSTA MOURA
+    Logradouro: CURUAMANEMA
+    Número: 9
+    Bairro: VL SEABRA
+  [7]
+    CPF: 066.717.988-77
+    Nome: WILMA DE SOUZA BORGES LACERDA
+    Logradouro: CURUAMANEMA
+    Número: 150
+    Bairro: VL SEABRA
+  [8]
+    CPF: 273.693.148-39
+    Nome: CIRLEIDE RAMOS DA SILVA
+    Logradouro: CURUAMANEMA
+    Número: 31
+    Bairro: VL SEABRA
+  [9]
+    CPF: 230.123.058-90
+    Nome: JOSE VALNERI PEREIRA HENRIQUE
+    Logradouro: CURUAMANEMA
+    Número: 9
+    Bairro: VL SEABRA
+  [10]
+    CPF: 365.362.628-59
+    Nome: SILVANA COSTA DA SILVA
+    Logradouro: CURUAMANEMA
+    Número: 25
+    Bairro: VL SEABRA
+  [11]
+    CPF: 287.065.028-06
+    Nome: RICARDO DA SILVA ANTONIO
+    Logradouro: CURUAMANEMA
+    Número: 164
+    Bairro: VL SEABRA
+  [12]
+    CPF: 438.270.046-91
+    Nome: MARIA CELESTE SOUZA XAVIER SOARES
+    Logradouro: CURUAMANEMA
+    Número: 86
+    Bairro: VL SEABRA
+  [13]
+    CPF: 344.950.628-59
+    Nome: VANESSA SOARES DE CARVALHO
+    Logradouro: CURUAMANEMA
+    Número: 9
+    Bairro: VL SEABRA
+  [14]
+    CPF: 085.555.508-40
+    Nome: MARCOS ANTONIO MIGUEL DOS SANTOS
+    Logradouro: CURUAMANEMA
+    Número: 95
+    Bairro: VL SEABRA
+  [15]
+    CPF: 230.123.048-19
+    Nome: MARIA VALDIRENE PEREIRA HENRIQUE
+    Logradouro: CURUAMANEMA
+    Número: 7
+    Bairro: VL SEABRA
+Telefones Assecc: (3 item(s))
+  [1]
+    Telefone: (11) 95919-8272
+    Nome: VANESSA OLIVEIRA DA SILVA NUNES
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 98636-5837
+    Nome: VANESSA OLIVEIRA DA SILVA NUNES
+    Cidade: SAO PAULO
+    UF: SP
+  [3]
+    Telefone: (11) 99187-3989
+    Nome: VANESSA OLIVEIRA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+Telefones Operadoras: (4 item(s))
+  [1]
+    Telefone: (11) 98636-5837
+    Nome: VANESSA OLIVEIRA DA SILVA NUNES
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [2]
+    Telefone: (11) 95919-8272
+    Nome: VANESSA OLIVEIRA DA SILVA NUNES
+    Operadora: TIM - Celular
+    Fonte: br21m
+  [3]
+    Telefone: (11) 2025-2994
+    Nome: VANESSA OLIVEIRA DA SILVA NUNES
+    Cidade: SAO PAULO
+    UF: SP
+    Operadora: TELEFONICA
+    Fonte: algar
+  [4]
+    Telefone: (11) 99187-3989
+    Nome: VANESSA OLIVEIRA DA SILVA NUNES
+    Operadora: CLARO
+    Fonte: claro_cpf
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 2581-3228
+    Tipo: fixo
+    Status Linha: Inativo
+    Tecnologia: CABO
+    Tecnologia Banda: METALICO
+    Data Ativacao: 26APR2018:17:20:22
+    Data Retirada: 09DEC2019:23:05:06
+    Tipo Cliente: Residencial
+E-mails: (7 item(s))
+  - alisson3@br.inter.net
+  - vanessavivo83@hotmail.com
+  - vanessavivo83@terra.com.br
+  - douglasgor@ig.com.br
+  - asas@terra.com.br
+  - dg.jd.helena@terra.com.br
+  - internet@terra.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1294
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 99774-3898
+    Ddd: 11
+    Número: 997743898
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 15/06/2009
+    Classificacao: D
+  [2]
+    Telefone: (11) 96209-1255
+    Ddd: 11
+    Número: 962091255
+    Tipo: 3
+    Data Inclusao: 24/06/2013
+    Data Informacao: 02/09/2019
+    Classificacao: A0
+  [3]
+    Telefone: (11) 98636-5837
+    Ddd: 11
+    Número: 986365837
+    Tipo: 3
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [4]
+    Telefone: (11) 2156-6217
+    Ddd: 11
+    Número: 21566217
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [5]
+    Telefone: (11) 2581-3228
+    Ddd: 11
+    Número: 25813228
+    Tipo: FIXO
+    Data Inclusao: 06/12/2018
+    Classificacao: C
+Occupation Code: 521115
+Occupation Name: Promotor de vendas
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

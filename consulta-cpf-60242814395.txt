@@ -1,0 +1,275 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  60242814395
+Data/Hora:  02/10/2026, 16:32:19
+Tempo API:  567ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 602.428.143-95
+Nome: FRANCISCA DE ARAUJO DOS SANTOS
+Primeiro Nome: FRANCISCA
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 29/08/1974
+Nome da Mãe: JOSEFA MARIA DE ARAUJO
+Nome do Pai: FRANCISCO CONCEICAO DOS SANTOS
+RG: 1705644
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: MA
+Voter Id: 037484771104
+Mosaic: I30
+Score:
+  Value: 215
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 226
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: EDSON LOBAO
+  Número: 5
+  Bairro: PRQ RUI BARBOSA
+  Cidade: BACABAL
+  Estado: MARANHAO
+  CEP: 65700-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: EDSON LOBAO
+    Número: 5
+    Bairro: PRQ RUI BARBOSA
+    Cidade: BACABAL
+    Estado: MARANHAO
+    CEP: 65700-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: CORONEL JOAO TELES
+    Número: 5
+    Bairro: JUCARAL
+    Cidade: BACABAL - MA
+    Fonte: DATASUS
+  [3]
+    Rua: DOIS
+    Tipo: V
+    Número: 29
+    Bairro: COHAB I
+    Cidade: BACABAL
+    Estado: MA
+    CEP: 65700-000
+    Data Atualizacao: 30/06/2016
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Tipo: RUI BARBOSA
+    Rua: [empty]
+    Bairro: CENTRO
+    Cidade: BACABAL
+    Estado: MA
+    CEP: 06570-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (99) 99108-6432
+  - (99) 98846-6021
+Datasus Phones: (1 item(s))
+  - (99) 96210-1032
+Cidade de Nascimento: SAO LUIS GONZAGA DO MARANHAO - MA
+Cns: 702808625496761
+Rg Issue Date: 701924400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/10/2019
+    Mosaic: I30
+    Mosaic New: H26
+    Mosaic Secondary: D11
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: V
+      Rua: DOIS
+      Número: 29
+      Bairro: COHAB I
+      Cidade: BACABAL
+      Estado: MA
+      CEP: 65700-000
+      Date Added: 30/06/2014
+    [2]
+      Tipo: R
+      Rua: JOAO TELES
+      Número: 5
+      Bairro: JUSSARAL
+      Cidade: BACABAL
+      Estado: MA
+      CEP: 65700-000
+      Date Added: 27/11/2017
+    [3]
+      Tipo: R
+      Rua: EDSON LOBAO
+      Número: 5
+      Bairro: PRQ RUI BARBOSA
+      Cidade: BACABAL
+      Estado: MA
+      CEP: 65700-000
+      Date Added: 09/12/2014
+    [4]
+      Tipo: AV
+      Rua: COSTA E SILVA
+      Número: 5
+      Bairro: PRQ RUY BARBOSA
+      Cidade: BACABAL
+      Estado: MA
+      CEP: 65700-000
+      Date Added: 26/07/2010
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 988466021
+      Ddd: 99
+      Tipo: 3
+      Classificacao: D
+      Date Added: 17/11/2019
+  Score:
+    CSB8: 331
+    CSB8 FAIXA: MEDIO
+    CSBA: 215
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: JOSEFA MARIA DE ARAUJO
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 226.42
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 809.843.123-15
+    Nome: HILDERLAN SOUSA SANTOS
+    Logradouro: QUATRO
+    Número: SN
+    Bairro: COHAB II
+  [2]
+    CPF: 466.579.753-68
+    Nome: ELENILTON DIAS SOARES
+    Logradouro: TRES C
+    Número: 30
+  [3]
+    CPF: 005.147.633-96
+    Nome: GENIELY FONTENELE JACINTO
+    Logradouro: PROJETADA
+    Número: 3
+    Bairro: JD VALERIA
+  [4]
+    CPF: 018.728.713-99
+    Nome: FRANCISCA DE OLIVEIRA DA SILVA
+    Logradouro: JURANDIR LAGO
+    Número: 6
+    Bairro: VL PEDRO BRITO
+  [5]
+    CPF: 012.361.233-01
+    Nome: AIRTON FREITAS DE OLIVEIRA
+    Logradouro: PAZ
+    Número: 92
+    Bairro: COELHO DIAS
+  [6]
+    CPF: 985.936.413-34
+    Nome: PRYSCILLA CRISTYANE OLIVEIRA DE FARIA
+    Logradouro: TREZENTOS
+    Número: 21
+    Bairro: BSQ ARACATY
+  [7]
+    CPF: 637.143.103-04
+    Nome: ELDO VERAS MELO
+    Logradouro: UM
+    Número: 44
+    Bairro: AT DA ASSUNCAO
+  [8]
+    CPF: 028.504.073-13
+    Nome: MARIA DA CONCEICAO ALMEIDA MOREIRA
+    Logradouro: DA ESPERANCA
+    Número: 905
+    Bairro: ESPERANCA
+  [9]
+    CPF: 044.208.503-61
+    Nome: RICHASDSON DA CONCEICAO ALENCAR
+    Logradouro: TREZE DE MAIO
+    Número: 52
+    Bairro: DA AREIA
+  [10]
+    CPF: 028.500.573-12
+    Nome: CARLOS CESAR CASTRO SILVA
+    Logradouro: LIMEIRA
+    Número: SN
+    Bairro: ZONA RURAL
+  [11]
+    CPF: 046.346.893-75
+    Nome: DAMARIA DA SILVA PAIVA
+    Logradouro: DOMINGOS
+    Número: 149
+    Bairro: VL COELHO DIAS
+  [12]
+    CPF: 052.121.333-94
+    Nome: FRANCISCA DA CONCEICAO ARAUJO DE SOUSA
+    Logradouro: ARTHUR AZEVEDO
+    Número: 348
+    Bairro: ESPERANCA
+  [13]
+    CPF: 820.750.693-87
+    Nome: ANTONIO ALVES NETO
+    Logradouro: ONZE
+    Número: 7
+    Bairro: VL S JOAO
+  [14]
+    CPF: 046.915.153-64
+    Nome: LARISSE DA SILVA PINTO
+    Logradouro: VICENTE SILVA
+    Número: 97
+    Bairro: AREIA
+  [15]
+    CPF: 040.268.053-79
+    Nome: JULIAN LIMA GOMES
+    Logradouro: FILOMENO PARGA
+    Número: 329
+    Bairro: ESPERANCA
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (99) 99108-6432
+    Nome: FRANCISCA DE ARAUJO DOS SANTOS
+    Cidade: BACABAL
+    UF: MA
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 226
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 226.42
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (99) 98846-6021
+    Ddd: 99
+    Número: 988466021
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

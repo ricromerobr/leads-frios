@@ -1,0 +1,407 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  17013082740
+Data/Hora:  03/10/2026, 19:18:18
+Tempo API:  725ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 170.130.827-40
+Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+Primeiro Nome: JAQUELINE
+Sobrenome: SANTOS
+Sexo: Feminino
+Data de Nascimento: 16/02/1997
+Nome da Mãe: SIMONE RODRIGUES DA SILVA
+Nome do Pai: JOAO CARLOS DA SILVA DOS SANTOS
+RG: 296699317
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: RJ
+Score:
+  Value: 274
+  Range: ALTO
+E-mail: tiago200975@hotmail.com
+Additional Emails: (1 item(s))
+  - tiago200975@hotmail.com
+Federal Status: REGULAR
+Renda: 486
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MANUEL PEREIRA
+  Número: 5
+  Bairro: CAPIVARI
+  Cidade: DUQUE DE CAXIAS
+  Estado: RIO DE JANEIRO
+  CEP: 25231-135
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MANUEL PEREIRA
+    Número: 5
+    Bairro: CAPIVARI
+    Cidade: DUQUE DE CAXIAS
+    Estado: RIO DE JANEIRO
+    CEP: 25231-135
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DONA ZICA
+    Número: 103
+    Bairro: CENTRO
+    Cidade: VARGEM - SP
+    Fonte: DATASUS
+  [3]
+    Rua: DO FEIJAO
+    Tipo: R
+    Número: 160
+    Bairro: PENHA CIRCULAR
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21011-050
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: TEREZA CRISTINA
+    Tipo: AV
+    Número: 76
+    Complemento: C
+    Bairro: CH RIO PETROPOLIS
+    Cidade: DUQUE DE CAXIAS
+    Estado: RJ
+    CEP: 25230-480
+    Data Atualizacao: 13/10/2015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: MANUEL PEREIRA
+    Número: 0000005
+    Bairro: CAPIVARI
+    Cidade: 25231135
+    Estado: RJ
+    Fonte: ASSECC
+  [6]
+    Tipo: DO FEIJAO
+    Rua: R
+    Número: 0000160
+    Bairro: PENHA CIRCULAR
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21011-050
+    Fonte: ASSECC
+  [7]
+    Tipo: MANUEL PEREIRA
+    Rua: R
+    Número: 0000005
+    Bairro: CAPIVARI
+    Cidade: DUQUE DE CAXIAS
+    Estado: RJ
+    CEP: 25231-135
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (10 item(s))
+  - (21) 96699-6545
+  - (21) 99172-2629
+  - (21) 99463-0725
+  - (21) 99172-7668
+  - (21) 99578-0724
+  - (21) 2773-5913
+  - (21) 96492-0348
+  - (21) 98056-1294
+  - (21) 98166-0310
+  - (21) 96905-6005
+Datasus Phones: (1 item(s))
+  - (11) 96594-9594
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 700001824946605
+Rg Issue Date: 1343703600000
+Mte Data:
+  Nome: Jaqueline Rodrigues Da Silva Dos Santos
+  Data de Nascimento: 16/02/1997
+  Nome da Mãe: Simone Rodrigues Da Silva
+  Endereço:
+    Rua: Luiz De Souza
+    Complemento: Lt 21 Qd 39
+    Bairro: Pilar
+    Cidade: Duque De Caxias
+    Estado: RJ
+    CEP: 25230-230
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 04/10/2019
+    Mosaic New: D11
+    Mosaic Secondary: H28
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: DO FEIJAO
+      Número: 160
+      Bairro: PENHA CIRCULAR
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21011-050
+      Date Added: 16/05/2017
+    [2]
+      Tipo: AV
+      Rua: TEREZA CRISTINA
+      Número: 76
+      Complemento: C
+      Bairro: CH RIO PETROPOLIS
+      Cidade: DUQUE DE CAXIAS
+      Estado: RJ
+      CEP: 25230-480
+      Date Added: 15/09/2015
+    [3]
+      Tipo: R
+      Rua: MANUEL PEREIRA
+      Número: 5
+      Bairro: CAPIVARI
+      Cidade: DUQUE DE CAXIAS
+      Estado: RJ
+      CEP: 25231-135
+      Date Added: 11/03/2019
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 27735913
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 19/03/2015
+      Info Date: 09/03/2015
+    [2]
+      Telefone: 964920348
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/11/2017
+    [3]
+      Telefone: 980561294
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [4]
+      Telefone: 981660310
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 25/01/2018
+    [5]
+      Telefone: 969056005
+      Ddd: 21
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 07/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: tiago200975@hotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 28/03/2018
+  Score:
+    CSB8: 310
+    CSB8 FAIXA: MEDIO
+    CSBA: 274
+    CSBA FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 486.26
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 080.618.447-70
+    Nome: CRISTIANO SILVA DOS SANTOS
+    Logradouro: DO FEIJAO
+    Número: 160
+    Bairro: PENHA CIRCULAR
+  [2]
+    CPF: 004.404.577-85
+    Nome: IRANILDO VICENTE PEREIRA
+    Logradouro: DO FEIJAO
+    Número: 130
+    Bairro: PENHA CIRCULAR
+  [3]
+    CPF: 091.724.797-36
+    Nome: JAILSON JOSE SOCORRO
+    Logradouro: DO FEIJAO
+    Número: 630
+    Bairro: PENHA CIRCULAR
+  [4]
+    CPF: 059.563.207-61
+    Nome: NILMA SANTOS DE JESUS
+    Logradouro: DO FEIJAO
+    Número: 813
+    Bairro: PENHA CIRCULAR
+  [5]
+    CPF: 150.991.467-67
+    Nome: DANIEL DE LIMA MARQUEZZINI
+    Logradouro: DO FEIJAO
+    Número: 530
+    Bairro: PENHA CIRCULAR
+  [6]
+    CPF: 759.797.727-15
+    Nome: MARCUS RODRIGUES DE MORAES
+    Logradouro: DO FEIJAO
+    Número: 107
+    Bairro: PENHA CIRCULAR
+  [7]
+    CPF: 585.060.397-20
+    Nome: ARY FERNANDES PEREIRA FILHO
+    Logradouro: DO FEIJAO
+    Número: 530
+    Bairro: PENHA CIRCULAR
+  [8]
+    CPF: 073.903.987-36
+    Nome: LUCIANO DA SILVA CARVALHO
+    Logradouro: DO FEIJAO
+    Número: 601
+    Bairro: PENHA CIRCULAR
+  [9]
+    CPF: 130.120.817-55
+    Nome: MAYKON FERREIRA MARTINS
+    Logradouro: DO FEIJAO
+    Número: 624
+    Bairro: PENHA CIRCULAR
+  [10]
+    CPF: 128.457.237-41
+    Nome: TUANE DIAS CARDOSO
+    Logradouro: DO FEIJAO
+    Número: 843
+    Bairro: PENHA CIRCULAR
+  [11]
+    CPF: 460.991.587-15
+    Nome: ALMERINDA MARIA OURIQUES CARDOSO
+    Logradouro: DO FEIJAO
+    Número: 701
+    Bairro: PENHA CIRCULAR
+  [12]
+    CPF: 118.049.227-73
+    Nome: JULIANA CARNEIRO DE MELO
+    Logradouro: DO FEIJAO
+    Número: 780
+    Bairro: PENHA CIRCULAR
+  [13]
+    CPF: 110.358.937-70
+    Nome: JOANA APARECIDA DA SILVA PROENCA
+    Logradouro: DO FEIJAO
+    Número: 106
+    Bairro: PENHA CIRCULAR
+  [14]
+    CPF: 080.510.197-76
+    Nome: JOAO CARLOS ARAUJO SANTOS
+    Logradouro: DO FEIJAO
+    Número: 841
+    Bairro: PENHA CIRCULAR
+  [15]
+    CPF: 625.389.007-78
+    Nome: MARLENE DA COSTA PASSOS
+    Logradouro: DO FEIJAO
+    Número: 102
+    Bairro: PENHA CIRCULAR
+Telefones Assecc: (4 item(s))
+  [1]
+    Telefone: (21) 96699-6545
+    Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+    Cidade: 25231135
+    UF: RJ
+  [2]
+    Telefone: (21) 99172-7668
+    Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+  [3]
+    Telefone: (21) 99172-2629
+    Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+    Cidade: DUQUE DE CAXIAS
+    UF: RJ
+  [4]
+    Telefone: (21) 99578-0724
+    Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (21) 99463-0725
+    Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (21) 96699-6545
+    Nome: JAQUELINE RODRIGUES DA SILVA DOS SANTOS
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - tiago200975@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 486
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 486.26
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 2773-5913
+    Ddd: 21
+    Número: 27735913
+    Tipo: FIXO
+    Data Inclusao: 19/03/2015
+    Data Informacao: 09/03/2015
+    Classificacao: D2
+  [2]
+    Telefone: (21) 96492-0348
+    Ddd: 21
+    Número: 964920348
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: D
+  [3]
+    Telefone: (21) 98056-1294
+    Ddd: 21
+    Número: 980561294
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [4]
+    Telefone: (21) 98166-0310
+    Ddd: 21
+    Número: 981660310
+    Tipo: 3
+    Data Inclusao: 25/01/2018
+    Classificacao: D
+  [5]
+    Telefone: (21) 96905-6005
+    Ddd: 21
+    Número: 969056005
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 07/03/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

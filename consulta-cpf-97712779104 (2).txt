@@ -1,0 +1,458 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  97712779104
+Data/Hora:  02/10/2026, 15:51:21
+Tempo API:  388ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 977.127.791-04
+Nome: ELIO MARCOS HOLANDA DA COSTA
+Primeiro Nome: ELIO
+Sobrenome: COSTA
+Sexo: Masculino
+Data de Nascimento: 15/05/1982
+Nome da Mãe: CREUSA HOLANDA DA COSTA
+Nome do Pai: RAIMUNDO JARDIM DA COSTA
+Voter Id: 034064662747
+Mosaic: J37
+Ocupação: Motorista de caminhão (rotas regionais e internacionais)
+Score:
+  Value: 519
+  Range: MEDIO
+E-mail: RAIMUNDOJARDIMDACOSTA@OUTLOOK.COM
+Federal Status: REGULAR
+Renda: 1943
+Income Bracket: 2
+Cbo: 782510
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: FILADELFIA
+  Número: 1153
+  Bairro: CENTRO
+  Cidade: NOVA OLINDA
+  Estado: TOCANTINS
+  CEP: 77790-000
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FILADELFIA
+    Número: 1153
+    Bairro: CENTRO
+    Cidade: NOVA OLINDA
+    Estado: TOCANTINS
+    CEP: 77790-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: FILADELFIA
+    Número: 1153
+    Bairro: CENTRO
+    Cidade: NOVA OLINDA - TO
+    Fonte: DATASUS
+  [3]
+    Rua: BR
+    Número: 153
+    Complemento: KM 190
+    Bairro: ZONA RURAL
+    Cidade: NOVA OLINDA
+    Estado: TO
+    CEP: 77790-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: A
+    Tipo: R
+    Número: 206
+    Bairro: ST LESTE VILA NOVA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74645-210
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ANHANGUERA
+    Tipo: AV
+    Número: 7743
+    Complemento: Q 63 LT 1
+    Bairro: ST COIMBRA
+    Cidade: GOIANIA
+    Estado: GO
+    CEP: 74535-010
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: BERNARDO SAYAO
+    Tipo: AV
+    Número: 650
+    Bairro: ST OESTE
+    Cidade: ARAGUAINA
+    Estado: TO
+    CEP: 77816-212
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: AV CONT
+    Rua: FILADELFIO
+    Número: 0001153
+    Bairro: CENTRO
+    Cidade: NOVA OLINDA
+    Estado: TO
+    CEP: 77790-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (5 item(s))
+  - (63) 99222-4978
+  - (63) 99238-4690
+  - (62) 3091-2934
+  - (64) 3411-5129
+  - (41) 98408-4659
+Datasus Phones: (1 item(s))
+  - (63) 99222-4978
+Cidade de Nascimento: COLINAS DO TOCANTINS - TO
+Cns: 708408744559166
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 02/10/2019
+    Mosaic: J37
+    Mosaic New: G24
+    Mosaic Secondary: H27
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Rua: BR
+      Número: 153
+      Complemento: KM 190
+      Bairro: ZONA RURAL
+      Cidade: NOVA OLINDA
+      Estado: TO
+      CEP: 77790-000
+      Date Added: 13/04/2010
+    [2]
+      Tipo: R
+      Rua: FILADELFIA
+      Número: 1153
+      Cidade: NOVA OLINDA
+      Estado: TO
+      CEP: 77790-000
+      Date Added: 11/10/2006
+    [3]
+      Tipo: R
+      Rua: A
+      Número: 206
+      Bairro: ST LESTE VILA NOVA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74645-210
+      Date Added: 09/12/2014
+    [4]
+      Tipo: AV
+      Rua: ANHANGUERA
+      Número: 7743
+      Complemento: Q 63 LT 1
+      Bairro: ST COIMBRA
+      Cidade: GOIANIA
+      Estado: GO
+      CEP: 74535-010
+      Date Added: 09/12/2014
+    [5]
+      Tipo: AV
+      Rua: BERNARDO SAYAO
+      Número: 650
+      Bairro: ST OESTE
+      Cidade: ARAGUAINA
+      Estado: TO
+      CEP: 77816-212
+      Date Added: 30/10/2017
+  Telefones: (4 item(s))
+    [1]
+      Telefone: 992224978
+      Ddd: 63
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 31/01/2013
+    [2]
+      Telefone: 30912934
+      Ddd: 62
+      Tipo: 1
+      Classificacao: D2
+      Date Added: 20/07/2017
+    [3]
+      Telefone: 34115129
+      Ddd: 64
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 27/07/2017
+    [4]
+      Telefone: 984084659
+      Ddd: 41
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/10/2018
+  E-mails: (2 item(s))
+    [1]
+      E-mail: elio_marcosh@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: kassio_michel@hotmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 03/07/2017
+  Score:
+    CSB8: 554
+    CSB8 FAIXA: BAIXO
+    CSBA: 519
+    CSBA FAIXA: MEDIO
+  Parentes: (13 item(s))
+    [1]
+      CPF: 4531266188
+      Nome: MARILIA GABRIELLA HOLANDA DA COSTA
+      Vinculo: SOBRINHA(O)
+    [2]
+      CPF: 565.669.991-91
+      Nome: JACKSON BARBOSA HOLANDA
+      Vinculo: TIA(O)
+    [3]
+      CPF: 1644372150
+      Nome: ELIZANDRA HOLANDA DA COSTA
+      Vinculo: IRMA(O)
+    [4]
+      CPF: 336.586.411-34
+      Nome: NELSON BARBOSA HOLANDA
+      Vinculo: TIA(O)
+    [5]
+      CPF: 2615303139
+      Nome: JARDEL HOLANDA MARTINS
+      Vinculo: PRIMA(O)
+    [6]
+      CPF: 455824169
+      Nome: MARINES BARBOSA HOLANDA MARTINS
+      Vinculo: TIA(O)
+    [7]
+      CPF: 575.420.231-87
+      Nome: PAULO BARBOSA HOLANDA
+      Vinculo: TIA(O)
+    [8]
+      CPF: 565.673.911-20
+      Nome: VALTER BARBOSA HOLANDA
+      Vinculo: TIA(O)
+    [9]
+      CPF: 785.433.391-20
+      Nome: FELICISSIMA FERREIRA HOLANDA
+      Vinculo: AVO
+    [10]
+      CPF: 788.860.151-00
+      Nome: ARMANDO BARBOSA HOLANDA
+      Vinculo: TIA(O)
+    [11]
+      CPF: 4531261119
+      Nome: GABRIEL HOLANDA DA COSTA
+      Vinculo: SOBRINHA(O)
+    [12]
+      CPF: 844.003.231-53
+      Nome: ELISANGELA HOLANDA DA COSTA
+      Vinculo: IRMA(O)
+    [13]
+      CPF: 971.702.241-00
+      Nome: CREUSA HOLANDA DA COSTA
+      Vinculo: MAE
+  Pis: 20427462864
+  Tse:
+    Titulo: 34064662747
+    Zona: 34
+    Secao: 67
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 785.43
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (2 item(s))
+  - elio_marcosh@hotmail.com
+  - kassio_michel@hotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 016.044.183-89
+    Nome: GILVANE DE SOUZA SANTOS
+    Logradouro: PERIMETRAL I
+    Número: 981
+    Bairro: CENTRO
+  [2]
+    CPF: 028.102.081-74
+    Nome: ISAQUE LEAL SANTOS
+    Logradouro: TOCANTINOPOLIS
+    Número: 876
+    Bairro: CENTRO
+  [3]
+    CPF: 038.248.051-11
+    Nome: MAURICIO DUARTE DOS SANTOS
+    Logradouro: BERNARDO SAYAO
+    Número: 547
+    Bairro: CENTRO
+  [4]
+    CPF: 031.777.601-01
+    Nome: WANDERLEI GERMANO DA CUNHA
+    Logradouro: URUACU
+    Número: 1809
+    Bairro: CENTRO
+  [5]
+    CPF: 048.578.341-03
+    Nome: JANDERSON GOMES DE ALENCAR
+    Logradouro: JK
+    Número: 1619
+    Bairro: CENTRO
+  [6]
+    CPF: 056.692.041-74
+    Nome: WERMERSON NASCIMENTO DA SILVA
+    Logradouro: SETE SETEMBRO
+    Número: 1068
+    Bairro: CENTRO
+  [7]
+    CPF: 612.633.453-10
+    Nome: FRANCISCO ANTONIO DE SOUSA
+    Logradouro: ARAGUATINS
+    Número: 1248
+    Bairro: CENTRO
+  [8]
+    CPF: 064.862.721-71
+    Nome: LEONARDO WILLAMES GONCALVES
+    Logradouro: TEODORO DA FONSECA
+    Número: 1230
+    Bairro: CENTRO
+  [9]
+    CPF: 004.796.411-10
+    Nome: JOSE DA GUIA ALVES DE SOUSA
+    Logradouro: LOC VENIDA DQ DE CAXIAS
+    Número: 1951
+  [10]
+    CPF: 020.320.701-70
+    Nome: FABIOLA COELHO FERRARI
+    Logradouro: ARAGUATINS
+    Número: 89
+    Bairro: CENTRO
+  [11]
+    CPF: 037.663.094-98
+    Nome: JOSE SILVIO ALBUQUERQUE
+    Logradouro: GOIAS
+    Número: 710
+    Bairro: S CENTRAL
+  [12]
+    CPF: 055.803.901-49
+    Nome: NUCARIAO DE ABREU VALADARES
+    Logradouro: VINTE E UM DE ABRIL
+    Número: 1578
+    Bairro: CENTRO
+  [13]
+    CPF: 055.803.901-49
+    Nome: NUCARIAO DE ABREU VALADARES
+    Logradouro: TRINTA E UM DE MARCO
+    Número: 1861
+    Bairro: CENTRO
+  [14]
+    CPF: 043.804.671-47
+    Nome: JOSE CARLOS SOUSA SANTOS
+    Logradouro: RUI BARBOSA
+    Número: 914
+    Bairro: CENTRO
+  [15]
+    CPF: 050.804.061-27
+    Nome: KASSIO OLIVEIRA DE SOUSA
+    Logradouro: GOIAS
+    Número: 812
+    Bairro: CENTRO
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (63) 99238-4690
+    Nome: ELIO MARCOS HOLANDA DA COSTA
+    Cidade: NOVA OLINDA
+    UF: TO
+  [2]
+    Telefone: (63) 99222-4978
+    Nome: ELIO MARCOS HOLANDA DA COSTA
+    Cidade: NOVA OLINDA
+    UF: TO
+Telefones Operadoras: (2 item(s))
+  [1]
+    Telefone: (63) 99238-4690
+    Nome: ELIO MARCOS HOLANDA DA COSTA
+    Operadora: CLARO
+    Fonte: claro_cpf
+  [2]
+    Telefone: (63) 99222-4978
+    Nome: ELIO MARCOS HOLANDA DA COSTA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - raimundojardimdacosta@outlook.com
+  - elio_marcosh@hotmail.com
+  - kassio_michel@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1943
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 785.43
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (4 item(s))
+  [1]
+    Telefone: (63) 99222-4978
+    Ddd: 63
+    Número: 992224978
+    Tipo: 3
+    Data Inclusao: 31/01/2013
+    Classificacao: A0
+  [2]
+    Telefone: (62) 3091-2934
+    Ddd: 62
+    Número: 30912934
+    Tipo: FIXO
+    Data Inclusao: 20/07/2017
+    Classificacao: D2
+  [3]
+    Telefone: (64) 3411-5129
+    Ddd: 64
+    Número: 34115129
+    Tipo: FIXO
+    Data Inclusao: 27/07/2017
+    Classificacao: A2
+  [4]
+    Telefone: (41) 98408-4659
+    Ddd: 41
+    Número: 984084659
+    Tipo: 3
+    Data Inclusao: 10/10/2018
+    Classificacao: D
+Occupation Code: 782510
+Occupation Name: Motorista de caminhão (rotas regionais e internacionais)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

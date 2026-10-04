@@ -1,0 +1,375 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  01212373464
+Data/Hora:  01/10/2026, 18:09:33
+Tempo API:  711ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 012.123.734-64
+Nome: VANEIDE DE MORAIS LERIO
+Primeiro Nome: VANEIDE
+Sobrenome: LERIO
+Sexo: Feminino
+Data de Nascimento: 11/09/1980
+Nome da Mãe: MARIA GORETTI DE MORAIS LERIO
+Nome do Pai: AMADEU JUVINO LERIO
+RG: 2124326
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: RN
+Voter Id: 020700331643
+Mosaic: F18
+Ocupação: Administrador
+Score:
+  Value: 872
+  Range: BAIXISSIMO RISCO
+E-mail: VANEIDEARTHUR@OUTLOOK.COM
+Federal Status: REGULAR
+Renda: 1112
+Income Bracket: 2
+Cbo: 252105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: MARCILIO DIAS
+  Bairro: IGAPO
+  Cidade: NATAL
+  Estado: RIO GRANDE DO NORTE
+  CEP: 59104-260
+All Addresses: (6 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARCILIO DIAS
+    Bairro: IGAPO
+    Cidade: NATAL
+    Estado: RIO GRANDE DO NORTE
+    CEP: 59104-260
+    Fonte: PRINCIPAL
+  [2]
+    Rua: SANTA INES
+    Número: 540
+    Bairro: PAJUCARA
+    Cidade: NATAL - RN
+    Fonte: DATASUS
+  [3]
+    Rua: MARCILIO DIAS
+    Tipo: R
+    Número: 22
+    Bairro: IGAPO
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59104-260
+    Data Atualizacao: 19/04/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: MARIA PIRES DE AZEV
+    Número: 100
+    Bairro: COMISSAO
+    Cidade: JARDIM DO SERIDO
+    Estado: RN
+    CEP: 59343-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: ARACY DE ALMEIDA
+    Tipo: R
+    Número: 72
+    Complemento: CJ VISTA V
+    Bairro: PAJUCARA
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59132-710
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: DOS PAJEUS
+    Tipo: R
+    Número: 1332
+    Bairro: ALECRIM
+    Cidade: NATAL
+    Estado: RN
+    CEP: 59031-800
+    Classificacao: comercial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Telefones: (8 item(s))
+  - (84) 99187-1274
+  - (84) 98797-2475
+  - (84) 98849-3028
+  - (84) 98891-1998
+  - (84) 98735-6871
+  - (84) 98866-2995
+  - (84) 98880-3033
+  - (84) 98621-5227
+Datasus Phones: (1 item(s))
+  - (84) 9604-3485
+Cidade de Nascimento: CAICO - RN
+Cns: 700302450169840
+Rg Issue Date: 496378800000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/10/2019
+    Mosaic: F18
+    Mosaic New: G22
+    Mosaic Secondary: G24
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: MARCILIO DIAS
+      Número: 22
+      Bairro: IGAPO
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59104-260
+      Date Added: 10/06/2008
+    [2]
+      Rua: MARIA PIRES DE AZEV
+      Número: 100
+      Bairro: COMISSAO
+      Cidade: JARDIM DO SERIDO
+      Estado: RN
+      CEP: 59343-000
+      Date Added: 17/12/2019
+    [3]
+      Tipo: R
+      Rua: ARACY DE ALMEIDA
+      Número: 72
+      Complemento: CJ VISTA V
+      Bairro: PAJUCARA
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59132-710
+      Date Added: 09/12/2014
+    [4]
+      Tipo: R
+      Rua: DOS PAJEUS
+      Número: 1332
+      Bairro: ALECRIM
+      Cidade: NATAL
+      Estado: RN
+      CEP: 59031-800
+      Date Added: 21/10/2012
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 988911998
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D2
+      Date Added: 02/10/2012
+      Info Date: 04/07/2012
+    [2]
+      Telefone: 987356871
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [3]
+      Telefone: 988662995
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [4]
+      Telefone: 988803033
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 22/10/2015
+    [5]
+      Telefone: 986215227
+      Ddd: 84
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/09/2016
+  E-mails: (1 item(s))
+    [1]
+      E-mail: vaneidearthur@outlook.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 07/11/2018
+  Score:
+    CSB8: 445
+    CSB8 FAIXA: MEDIO
+    CSBA: 872
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA GORETTI DE MORAIS LERIO
+      Vinculo: MAE
+  Tse:
+    Titulo: 20700331643
+    Zona: 2
+    Secao: 49
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1112.56
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Additional Emails: (1 item(s))
+  - vaneidearthur@outlook.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 050.000.104-93
+    Nome: ITALO ROGERIO GOMES DA SILVA
+    Logradouro: MARCILIO DIAS
+    Número: 1159
+    Bairro: IGAPO
+  [2]
+    CPF: 092.706.624-62
+    Nome: ADRIANA ANGELO RIBEIRO
+    Logradouro: MARCILIO DIAS
+    Número: 1137
+    Bairro: IGAPO
+  [3]
+    CPF: 017.595.144-62
+    Nome: JERLANE DA SILVA MARTINS
+    Logradouro: MARCILIO DIAS
+    Número: 1044
+    Bairro: IGAPO
+  [4]
+    CPF: 079.916.374-09
+    Nome: BARBARA RAISSA SILVA DE SOUZA
+    Logradouro: MARCILIO DIAS
+    Número: 346
+    Bairro: IGAPO
+  [5]
+    CPF: 029.837.734-93
+    Nome: ANDRE MATIAS DA SILVA
+    Logradouro: MARCILIO DIAS
+    Número: 920
+    Bairro: IGAPO
+  [6]
+    CPF: 029.105.304-18
+    Nome: JOSINALDO MARQUES DE MEDEIROS
+    Logradouro: MARCILIO DIAS
+    Número: 647
+    Bairro: IGAPO
+  [7]
+    CPF: 904.600.814-20
+    Nome: MARIA ADEILZA PINHEIRO DA SILVA
+    Logradouro: MARCILIO DIAS
+    Número: 305
+    Bairro: IGAPO
+  [8]
+    CPF: 026.911.954-06
+    Nome: JULIO CESAR DE AGUIAR PATRICIO
+    Logradouro: MARCILIO DIAS
+    Número: 875
+    Bairro: IGAPO
+  [9]
+    CPF: 016.530.754-49
+    Nome: JOAO MILITAO MARTINS
+    Logradouro: MARCILIO DIAS
+    Número: 401
+    Bairro: IGAPO
+  [10]
+    CPF: 062.488.684-09
+    Nome: ANDRE DE CARVALHO ROCHA
+    Logradouro: MARCILIO DIAS
+    Número: 1175
+    Bairro: IGAPO
+  [11]
+    CPF: 010.804.354-17
+    Nome: FRANCILENE SILVA DE ANDRADE
+    Logradouro: MARCILIO DIAS
+    Número: 696
+    Bairro: IGAPO
+  [12]
+    CPF: 008.022.154-83
+    Nome: ANA CRISTINA BARBOSA CARLOS
+    Logradouro: MARCILIO DIAS
+    Número: 1168
+    Bairro: IGAPO
+  [13]
+    CPF: 512.117.934-00
+    Nome: MARIA DA CONCEICAO GOMES DA SILVA
+    Logradouro: MARCILIO DIAS
+    Número: 1018
+    Bairro: IGAPO
+  [14]
+    CPF: 075.014.554-49
+    Nome: FRANCISCO CLEITON PEREGRINO
+    Logradouro: MARCILIO DIAS
+    Número: 230
+    Bairro: IGAPO
+  [15]
+    CPF: 175.762.704-97
+    Nome: JOAO EVANGELISTA DA SILVA MIRANDA
+    Logradouro: MARCILIO DIAS
+    Número: 1538
+    Bairro: IGAPO
+E-mails: (1 item(s))
+  - vaneidearthur@outlook.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1112
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1112.56
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (84) 98891-1998
+    Ddd: 84
+    Número: 988911998
+    Tipo: 3
+    Data Inclusao: 02/10/2012
+    Data Informacao: 04/07/2012
+    Classificacao: D2
+  [2]
+    Telefone: (84) 98735-6871
+    Ddd: 84
+    Número: 987356871
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [3]
+    Telefone: (84) 98866-2995
+    Ddd: 84
+    Número: 988662995
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [4]
+    Telefone: (84) 98880-3033
+    Ddd: 84
+    Número: 988803033
+    Tipo: 3
+    Data Inclusao: 22/10/2015
+    Classificacao: D
+  [5]
+    Telefone: (84) 98621-5227
+    Ddd: 84
+    Número: 986215227
+    Tipo: 3
+    Data Inclusao: 23/09/2016
+    Classificacao: D
+Occupation Code: 252105
+Occupation Name: Administrador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,359 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  03546858484
+Data/Hora:  02/10/2026, 17:18:58
+Tempo API:  257ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 035.468.584-84
+Nome: MONICA DA SILVA OLINTO
+Primeiro Nome: MONICA
+Sobrenome: OLINTO
+Sexo: Feminino
+Data de Nascimento: 30/08/1978
+Nome da Mãe: MARIA DAS NEVES DA SILVA
+Nome do Pai: ANTONIO OLINTO FRANCISCO
+RG: 2375116
+Rg Issuer: SSP - SSP - SECRETARIA DE SEGURANCA PUBLICA
+Rg State: PB
+Mosaic: J37
+Ocupação: Atendente de lanchonete
+Score:
+  Value: 86
+  Range: ALTISSIMO
+E-mail: NIKINIKI@EULALIAHOTMAIL.COM
+Federal Status: REGULAR
+Renda: 1591
+Income Bracket: 2
+Cbo: 513435
+Endereço:
+  Tipo: RUA
+  Rua: IVANILDO ALVES
+  Número: 42
+  Complemento: C BX SAPATEIRO
+  Bairro: BONSUCESSO
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 21043-230
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: IVANILDO ALVES
+    Número: 42
+    Complemento: C BX SAPATEIRO
+    Bairro: BONSUCESSO
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 21043-230
+    Fonte: PRINCIPAL
+  [2]
+    Rua: MOTORISTA ANTONIO BELARMINO DOS SANTOS
+    Número: S/N
+    Bairro: GRAMAME
+    Cidade: JOAO PESSOA - PB
+    Fonte: DATASUS
+  [3]
+    Rua: REGINALDO RAMOS DE PONTES
+    Tipo: R
+    Número: 295
+    Complemento: CS 295 CS
+    Cidade: SAPE
+    Estado: PB
+    CEP: 58340-000
+    Data Atualizacao: 04/04/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: AVILA
+    Tipo: R
+    Número: 260
+    Bairro: TIJUCA
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 20540-092
+    Data Atualizacao: 21/03/2019
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: IVANILDO ALVES
+    Tipo: R
+    Número: 9
+    Complemento: A
+    Bairro: BONSUCESSO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21043-230
+    Data Atualizacao: 13/09/2013
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: GUANABARA
+    Tipo: R
+    Número: 1
+    Complemento: AP 105 A
+    Bairro: BONSUCESSO
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 21010-820
+    Data Atualizacao: 30/10/2017
+    Classificacao: residencial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: REGINALDO RAMOS DE PONTES
+    Número: 0000295
+    Bairro: NOVO
+    Cidade: SAPE
+    Estado: PB
+    CEP: 58340-000
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (3 item(s))
+  - (83) 99165-6118
+  - (83) 99167-2102
+  - (83) 98858-5119
+Datasus Phones: (1 item(s))
+  - (83) 99165-6118
+Cidade de Nascimento: SAPE - PB
+Cns: 706404302776390
+Rg Issue Date: 845953200000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 25/08/2019
+    Mosaic: J37
+    Mosaic New: H29
+    Mosaic Secondary: D10
+    Income Bracket Id: 1
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: REGINALDO RAMOS DE PONTES
+      Número: 295
+      Complemento: CS 295 CS
+      Cidade: SAPE
+      Estado: PB
+      CEP: 58340-000
+      Date Added: 13/03/2019
+    [2]
+      Tipo: R
+      Rua: AVILA
+      Número: 260
+      Bairro: TIJUCA
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 20540-092
+      Date Added: 02/03/2009
+    [3]
+      Tipo: R
+      Rua: IVANILDO ALVES
+      Número: 9
+      Complemento: A
+      Bairro: BONSUCESSO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21043-230
+      Date Added: 13/12/2011
+    [4]
+      Tipo: R
+      Rua: GUANABARA
+      Número: 1
+      Complemento: AP 105 A
+      Bairro: BONSUCESSO
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 21010-820
+      Date Added: 13/04/2010
+    [5]
+      Tipo: R
+      Rua: REGINALDO R DE PONTE
+      Número: 295
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: SAPE
+      Estado: PB
+      CEP: 58340-000
+      Date Added: 15/12/2009
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 988585119
+      Ddd: 83
+      Tipo: 3
+      Classificacao: D
+      Date Added: 13/03/2019
+    [2]
+      Telefone: 991656118
+      Ddd: 83
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 21/03/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: nikiniki@eulaliahotmail.com
+      Priority: 1
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: INVALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: DESCONHECIDO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 417
+    CSB8 FAIXA: MEDIO
+    CSBA: 86
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      Nome: MARIA DAS NEVES DA SILVA
+      Vinculo: MAE
+  Pis: 12679036443
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 356.14
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Additional Emails: (1 item(s))
+  - nikiniki@eulaliahotmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 933.923.467-72
+    Nome: LUIZ CARLOS DOS SANTOS
+    Logradouro: JOAO URSULO
+    Número: 77
+    Bairro: CENTRO
+  [2]
+    CPF: 216.606.544-91
+    Nome: MARIA DA SOLIDADE MUNIZ SOARES
+    Logradouro: NAPOLEAO LAURANO
+    Número: 51
+    Bairro: CENTRO
+  [3]
+    CPF: 713.878.704-91
+    Nome: JOSE AUGUSTO DE FIGUEIREDO
+    Logradouro: ANTONIO P DA SILVA
+    Número: 96
+    Bairro: CENTRO
+  [4]
+    CPF: 052.144.934-01
+    Nome: MARIA DO DESTERRO DOS SANTOS
+    Logradouro: JOSE AIRES ALENCAR
+    Número: 1
+  [5]
+    CPF: 052.130.624-82
+    Nome: ABRAAO DIAS MACIEL
+    Logradouro: RIO BRANCO
+    Número: 181
+  [6]
+    CPF: 052.016.174-25
+    Nome: DANILO DE ARAUJO RODRIGUES
+    Logradouro: MANOEL ANTONIO FERNANDES
+    Número: 120
+  [7]
+    CPF: 052.267.904-81
+    Nome: ROSINALDO ARAUJO DOS SANTOS
+    Logradouro: DEZESSEIS DE AGOSTO
+    Número: 48
+  [8]
+    CPF: 052.294.084-64
+    Nome: DOMERINDA ALVES DE SOUZA
+    Logradouro: REN R COUTINHO
+    Número: 240
+  [9]
+    CPF: 052.294.084-64
+    Nome: DOMERINDA ALVES DE SOUZA
+    Logradouro: MARLINDO ALMEIDA
+    Número: 363
+  [10]
+    CPF: 051.496.054-09
+    Nome: LEIDEJANE SOARES PACHECO
+    Logradouro: ANRONIO DE MOURA BELEM
+    Número: 327
+  [11]
+    CPF: 051.165.884-24
+    Nome: FERNANDO ANTONIO LISBOA FILHO
+    Logradouro: NAPOLEAO LAUREANO
+    Número: 319
+    Bairro: CENTRO
+  [12]
+    CPF: 053.892.564-76
+    Nome: JOSAFA AUGUSTO DE OLIVEIRA
+    Logradouro: MARINA
+    Número: SN
+    Bairro: C SM
+  [13]
+    CPF: 059.186.404-52
+    Nome: EDILSON ALVES DE OLIVEIRA
+    Logradouro: JUSCELINO KUBITSHECK
+    Número: 50
+    Bairro: CENTRO
+  [14]
+    CPF: 050.798.214-26
+    Nome: WELLINGTON JOSE NUNES DO NASCIMENTO
+    Logradouro: RUASEN RUI CARNEIRO
+    Número: 493
+    Bairro: NOVA BRASILIA
+  [15]
+    CPF: 050.798.994-50
+    Nome: BERNARDETE PEREIRA DE SOUZA LIMA
+    Logradouro: ASSENTAMENTO BOA VISTA
+    Número: 25
+    Bairro: ZONA RURAL
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (83) 99167-2102
+    Nome: MONICA DA SILVA OLINTO
+    Cidade: SAPE
+    UF: PB
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (83) 99165-6118
+    Nome: MONICA DA SILVA OLINTO
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (1 item(s))
+  - nikiniki@eulaliahotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1591
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 356.14
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (83) 98858-5119
+    Ddd: 83
+    Número: 988585119
+    Tipo: 3
+    Data Inclusao: 13/03/2019
+    Classificacao: D
+  [2]
+    Telefone: (83) 99165-6118
+    Ddd: 83
+    Número: 991656118
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: A0
+Occupation Code: 513435
+Occupation Name: Atendente de lanchonete
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

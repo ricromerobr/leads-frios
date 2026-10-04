@@ -1,0 +1,470 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  33093112877
+Data/Hora:  03/10/2026, 17:55:42
+Tempo API:  681ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 330.931.128-77
+Nome: CAMILA PISETTA
+Primeiro Nome: CAMILA
+Sobrenome: PISETTA
+Sexo: Feminino
+Data de Nascimento: 02/09/1985
+Nome da Mãe: NILZA FERREIRA PISETTA
+Voter Id: 323689140116
+Mosaic: C07
+Ocupação: Contador
+Score:
+  Value: 898
+  Range: BAIXISSIMO RISCO
+E-mail: myllangel@bol.com.br
+Additional Emails: (4 item(s))
+  - myllangel@bol.com.br
+  - camila.pisetta@gmail.com
+  - camila_bhm@hotmail.com
+  - angeloassis@gmail.com
+Federal Status: REGULAR
+Renda: 8926
+Income Bracket: 6
+Cbo: 252210
+Endereço:
+  Tipo: RUA
+  Rua: CHACARA
+  Número: 1
+  Bairro: CS GDE
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 04898-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CHACARA
+    Número: 1
+    Bairro: CS GDE
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 04898-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: DA SERVIDAO
+    Tipo: EST
+    Número: 1
+    Bairro: CH STO HUBERTUS
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04870-470
+    Data Atualizacao: 06/12/2011
+    Classificacao: comercial
+    Fonte: SERASA
+  [3]
+    Rua: LUIZ CARLOS BERRINI
+    Tipo: AV
+    Número: 1645
+    Bairro: CIDADE MONCOES
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04571-011
+    Classificacao: comercial
+    Fonte: SERASA
+  [4]
+    Rua: ZACARIAS DE GOIS
+    Tipo: R
+    Número: 2049
+    Bairro: PRQ COLONIAL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04610-005
+    Data Atualizacao: 28/04/2014
+    Classificacao: comercial
+    Fonte: SERASA
+  [5]
+    Rua: ALEXANDRE DUMAS
+    Tipo: R
+    Número: 2200
+    Bairro: CH STO ANTONIO ZONA SUL
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04717-910
+    Classificacao: comercial
+    Fonte: SERASA
+  [6]
+    Rua: AFONSO DUARTE
+    Tipo: R
+    Número: 1004
+    Bairro: RIO BONITO
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 04826-020
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: [empty]
+    Rua: [empty]
+    Bairro: [empty]
+    Cidade: [empty]
+    Estado: SP
+    CEP: 00000-000
+    Fonte: ASSECC
+  [8]
+    Tipo: AVENIDA
+    Rua: AV CAETANO GORNATI 1500 BL A
+    Número: 1500
+    Complemento: APT 125
+    Bairro: ENGORDADOURO
+    Cidade: JUNDIAI
+    Estado: SP
+    CEP: 13214-661
+    Fonte: NET
+Vehicles:
+  Count: 1
+  List: (1 item(s))
+    [1]
+      Marca: VW
+      Modelo: FOX 1.6 PRIME GII
+      Ano: 2013
+Telefones: (5 item(s))
+  - (11) 98382-6166
+  - +55 (11) 98382-6166
+  - (11) 97310-5622
+  - (11) 94127-1324
+  - (11) 4508-5798
+Paycom:
+  E-mail: camila.pisetta@gmail.com
+  Data de Nascimento: 02/09/1985
+  Created At: 2016-12-21 15:38:48
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 2
+    Rua: Avenida Caetano Gornati
+    Número: 1500
+    Complemento: Apto 125 A
+    Bairro: Engordadouro
+    Cidade: Jundiaí
+    Estado: SP
+    País: BRA
+    CEP: 13214-661
+    Telephone: +55 (11) 98382-6166
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 27/10/2019
+    Mosaic: C07
+    Mosaic New: A02
+    Mosaic Secondary: C06
+    Income Bracket Id: 11
+  Endereços: (5 item(s))
+    [1]
+      Tipo: EST
+      Rua: DA SERVIDAO
+      Número: 1
+      Bairro: CH STO HUBERTUS
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04870-470
+      Date Added: 30/09/2009
+    [2]
+      Tipo: AV
+      Rua: LUIZ CARLOS BERRINI
+      Número: 1645
+      Bairro: CIDADE MONCOES
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04571-011
+      Date Added: 30/04/2015
+    [3]
+      Tipo: R
+      Rua: ZACARIAS DE GOIS
+      Número: 2049
+      Bairro: PRQ COLONIAL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04610-005
+      Date Added: 14/10/2013
+    [4]
+      Tipo: R
+      Rua: ALEXANDRE DUMAS
+      Número: 2200
+      Bairro: CH STO ANTONIO ZONA SUL
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04717-910
+      Date Added: 09/12/2014
+    [5]
+      Tipo: R
+      Rua: AFONSO DUARTE
+      Número: 1004
+      Bairro: RIO BONITO
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 04826-020
+      Date Added: 15/02/2013
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 45085798
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 14/10/2013
+      Info Date: 17/04/2014
+  E-mails: (3 item(s))
+    [1]
+      E-mail: camila.pisetta@gmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: camila_bhm@hotmail.com
+      Priority: 2
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+    [3]
+      E-mail: myllangel@bol.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 02/06/2016
+  Score:
+    CSB8: 367
+    CSB8 FAIXA: MEDIO
+    CSBA: 898
+    CSBA FAIXA: BAIXISSIMO RISCO
+  Parentes: (9 item(s))
+    [1]
+      CPF: 496.121.310-15
+      Nome: FRANCISCA FORTES FERREIRA
+      Vinculo: AVO
+    [2]
+      CPF: 329.909.708-35
+      Nome: DANIELLA ALESSANDRA PISETTA
+      Vinculo: IRMA(O)
+    [3]
+      CPF: 538.633.729-72
+      Nome: NILZA FERREIRA PISETTA
+      Vinculo: MAE
+    [4]
+      CPF: 412.116.930-15
+      Nome: JUSCELINO FERREIRA DA SILVA
+      Vinculo: TIA(O)
+    [5]
+      CPF: 289.229.210-72
+      Nome: ERONIR FERREIRA DA SILVA
+      Vinculo: TIA(O)
+    [6]
+      CPF: 412.161.300-78
+      Nome: NILTON FERREIRA DA SILVA
+      Vinculo: TIA(O)
+    [7]
+      CPF: 299.985.900-78
+      Nome: ADEJANIR FERREIRA DA SILVA
+      Vinculo: TIA(O)
+    [8]
+      CPF: 294.427.700-63
+      Nome: EVANIR FERREIRA DA SILVA
+      Vinculo: TIA(O)
+    [9]
+      CPF: 295.545.000-68
+      Nome: ROOSEVELT FERREIRA DA SILVA
+      Vinculo: TIA(O)
+  Pis: 13257640772
+  Tse:
+    Titulo: 323689140116
+    Zona: 258
+    Secao: 137
+  Poder Aquisitivo:
+    PODER AQUISITIVO: ALTO
+    RENDA PODER AQUISITIVO: 8013.64
+    FX PODER AQUISITIVO: De R$ 7017 até R$ 11742
+    COD PODER AQUISITIVO: 6
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 128.410.988-77
+    Nome: IRACEMA BERTOLINO DOS SANTOS
+    Logradouro: DA SERVIDAO
+    Número: SN
+    Bairro: CH STO HUBERTUS
+  [2]
+    CPF: 033.379.658-65
+    Nome: RAIMUNDO CARDOSO MUNIZ
+    Logradouro: DA SERVIDAO
+    Número: 23
+    Bairro: CH STO HUBERTUS
+  [3]
+    CPF: 429.473.988-66
+    Nome: JHONATA APARECIDO DA SILVA PEREIRA
+    Logradouro: DA SERVIDAO
+    Número: 58
+    Bairro: CH STO HUBERTUS
+  [4]
+    CPF: 429.473.998-38
+    Nome: GABRIELA APARECIDA DA SILVA PEREIRA
+    Logradouro: DA SERVIDAO
+    Número: 58
+    Bairro: CH STO HUBERTUS
+  [5]
+    CPF: 064.842.908-30
+    Nome: EVA GOMES DA SILVA
+    Logradouro: DA SERVIDAO
+    Número: 10
+    Bairro: CH STO HUBERTUS
+  [6]
+    CPF: 170.944.508-42
+    Nome: JOSE RODRIGUES DA SILVA
+    Logradouro: DA SERVIDAO
+    Número: 400
+    Bairro: CH STO HUBERTUS
+  [7]
+    CPF: 576.075.836-53
+    Nome: ALCIDES OVIDIO DE OLIVEIRA
+    Logradouro: DA SERVIDAO
+    Número: 16
+    Bairro: CH STO HUBERTUS
+  [8]
+    CPF: 365.667.998-34
+    Nome: JOSE MARIA CATARINO
+    Logradouro: DA SERVIDAO
+    Número: 1900
+    Bairro: CH STO HUBERTUS
+  [9]
+    CPF: 302.571.178-73
+    Nome: VANDERLEI SANTOS SILVA
+    Logradouro: DA SERVIDAO
+    Número: 170
+    Bairro: CH STO HUBERTUS
+  [10]
+    CPF: 088.867.368-00
+    Nome: ELIAS HENRIQUE DA SILVA
+    Logradouro: DA SERVIDAO
+    Número: 7
+    Bairro: CH STO HUBERTUS
+  [11]
+    CPF: 086.540.848-39
+    Nome: JOSELITA SANTOS SOUZA
+    Logradouro: DA SERVIDAO
+    Número: 3
+    Bairro: CH STO HUBERTUS
+  [12]
+    CPF: 493.590.298-15
+    Nome: AFONSO COVA DOS REIS
+    Logradouro: DA SERVIDAO
+    Número: 777
+    Bairro: CH STO HUBERTUS
+  [13]
+    CPF: 050.979.398-32
+    Nome: MAURINHO ALVES
+    Logradouro: DA SERVIDAO
+    Número: 478
+    Bairro: CH STO HUBERTUS
+  [14]
+    CPF: 030.095.308-97
+    Nome: DAVID PEREIRA DE NOBREGA
+    Logradouro: DA SERVIDAO
+    Número: 9091
+    Bairro: CH STO HUBERTUS
+  [15]
+    CPF: 266.653.508-86
+    Nome: MIRIAM ROSA DA SILVA
+    Logradouro: DA SERVIDAO
+    Número: 1349
+    Bairro: CH STO HUBERTUS
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (11) 98382-6166
+    Nome: CAMILA PISETTA
+    Cidade: [empty]
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 11803210
+    Operadora: 55
+    Situação: CONECTADO
+    Forma Pagamento: DEBITO EM CONTA
+    Data Instalacao: 18/03/2017
+    Tempo Base: 41
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201703
+    Geo:
+      Ibge Municipio: 3525904
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 02/09/1985
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 7854
+      Classe Social: B2
+      Score: 782
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 907
+        Net: 911
+        Ctv: 866
+        Faixa Cmv: 789 - 1000
+        Faixa Net: 885 - 1000
+        Faixa Ctv: 703 - 1000
+        Risco Cmv: BAIXISSIMO
+        Risco Net: BAIXISSIMO
+        Risco Ctv: BAIXISSIMO
+        Idade: 35
+E-mails: (4 item(s))
+  - myllangel@bol.com.br
+  - camila.pisetta@gmail.com
+  - camila_bhm@hotmail.com
+  - angeloassis@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 6
+Renda Estimativas:
+  Presumida:
+    Valor: 8926
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 8013.64
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 7854
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (11) 4508-5798
+    Ddd: 11
+    Número: 45085798
+    Tipo: FIXO
+    Data Inclusao: 14/10/2013
+    Data Informacao: 17/04/2014
+    Classificacao: D
+Occupation Code: 252210
+Occupation Name: Contador
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

@@ -1,0 +1,475 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  39820325803
+Data/Hora:  02/10/2026, 15:26:07
+Tempo API:  21542ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 398.203.258-03
+Nome: GEORGIA VIEIRA DA SILVA
+Primeiro Nome: GEORGIA
+Sobrenome: SILVA
+Sexo: Feminino
+Data de Nascimento: 27/07/1989
+Nome da Mãe: CREUSA M DA SILVA VIEIRA
+Mosaic: F20
+Score:
+  Value: 213
+  Range: ALTO
+E-mail: GE_VIEIRA@YAHOO.COM.BR
+Federal Status: REGULAR
+Renda: 1049
+Income Bracket: 2
+Endereço:
+  Tipo: RUA
+  Rua: FILHAS DO SAGRADO CORACAO
+  Número: 34
+  Bairro: VILA FORMOSA
+  Cidade: SAO PAULO
+  Estado: SAO PAULO
+  CEP: 03364-000
+All Addresses: (8 item(s))
+  [1]
+    Tipo: RUA
+    Rua: FILHAS DO SAGRADO CORACAO
+    Número: 34
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SAO PAULO
+    CEP: 03364-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ESTRADA MUNICIPAL do Votuparim
+    Número: 540
+    Bairro: VOTUPARIM
+    Cidade: SANTANA DE PARNAIBA
+    Estado: SP
+    CEP: 06513-030
+    Fonte: SARAIVA
+  [3]
+    Rua: FILHAS DO SAGRADO CORACAO
+    Tipo: R
+    Número: 40
+    Complemento: CHA MOSTEI
+    Bairro: VL FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03364-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: FILHAS DO SAGRADO CORACAO
+    Tipo: R
+    Número: 46
+    Bairro: VL FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03364-000
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Tipo: R
+    Rua: FILHAS DO SAGRADO CORACAO
+    Número: 0000040
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    CEP: 03364-000
+    Fonte: ASSECC
+  [6]
+    Tipo: [empty]
+    Rua: FILHAS DO SAGRADO CORACAO
+    Número: 0000040
+    Bairro: VILA FORMOSA
+    Cidade: S PAULO
+    Estado: SP
+    CEP: 00336-400
+    Fonte: ASSECC
+  [7]
+    Tipo: RUA
+    Rua: R FILHAS DO SAGRADO CORACAO  34
+    Número: 34
+    Bairro: VILA FORMOSA
+    Cidade: SAO PAULO
+    Estado: SP
+    Fonte: NET
+  [8]
+    Rua: R FILHAS DO SAGRADO CORACAO
+    Número: 40
+    Bairro: VILA FORMOSA
+    Estado: SP
+    CEP: 03364-000
+    Fonte: VIVO_POS
+Vehicles:
+  Count: 0
+Saraiva:
+  Customer Id: 870152
+  Telefone: (11) 4154-1335
+  E-mail: ge_vieira@yahoo.com.br
+  Data de Nascimento: 27/07/1989
+Telefones: (8 item(s))
+  - (11) 4154-1335
+  - (11) 97121-2231
+  - (11) 95028-2231
+  - (11) 3368-1442
+  - (11) 2385-3032
+  - (11) 97441-6532
+  - (11) 94262-2142
+  - (11) 2729-6165
+Paycom:
+  E-mail: georgiavieira89@yahoo.com.br
+  Created At: 2021-05-09 22:38:14
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 26/01/2020
+    Info Date: 08/06/2008
+    Mosaic: F20
+    Mosaic New: D13
+    Mosaic Secondary: D12
+    Income Bracket Id: 2
+  Endereços: (4 item(s))
+    [1]
+      Tipo: R
+      Rua: FILHAS DO SAGRADO CORACAO
+      Número: 40
+      Complemento: CHA MOSTEI
+      Bairro: VL FORMOSA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03364-000
+      Date Added: 14/01/2020
+    [2]
+      Tipo: ESTRADA MU
+      Rua: DO VOTUPARIM
+      Número: 540
+      Complemento: CH MOSTEIRO
+      Bairro: VOTUPARIM
+      Cidade: SANTANA DE PARNAIBA
+      Estado: SP
+      CEP: 06513-030
+      Date Added: 03/08/2009
+    [3]
+      Tipo: R
+      Rua: FILHAS DO SAGRADO CORACAO
+      Número: 34
+      Bairro: VL FORMOSA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03364-000
+      Date Added: 25/03/2019
+    [4]
+      Tipo: R
+      Rua: FILHAS DO SAGRADO CORACAO
+      Número: 46
+      Bairro: VL FORMOSA
+      Cidade: SAO PAULO
+      Estado: SP
+      CEP: 03364-000
+      Date Added: 22/09/2015
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 23853032
+      Ddd: 11
+      Tipo: 1
+      Classificacao: D
+      Date Added: 22/09/2015
+      Info Date: 24/08/2015
+    [2]
+      Telefone: 974416532
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 08/05/2017
+    [3]
+      Telefone: 950282231
+      Ddd: 11
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 08/11/2017
+    [4]
+      Telefone: 942622142
+      Ddd: 11
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/10/2018
+    [5]
+      Telefone: 27296165
+      Ddd: 11
+      Tipo: 1
+      Classificacao: B
+      Date Added: 25/03/2019
+  E-mails: (3 item(s))
+    [1]
+      E-mail: ge_vieira@yahoo.com.br
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+    [2]
+      E-mail: levybrazil@yahoo.com
+      Priority: 2
+      Quality: BOM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 07/06/2016
+    [3]
+      E-mail: levybrazil@yahoo.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: N
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 24/07/2014
+  Score:
+    CSB8: 141
+    CSB8 FAIXA: ALTISSIMO
+    CSBA: 213
+    CSBA FAIXA: ALTO
+  Parentes: (2 item(s))
+    [1]
+      CPF: 365.665.278-34
+      Nome: JOAO CESARIO VIEIRA DA SILVA
+      Vinculo: PAI
+    [2]
+      Nome: CREUSA M DA SILVA VIEIRA
+      Vinculo: MAE
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MEDIO BAIXO
+    RENDA PODER AQUISITIVO: 1049.6
+    FX PODER AQUISITIVO: De R$ 1018 até R$ 1630
+    COD PODER AQUISITIVO: 3
+Additional Emails: (4 item(s))
+  - ge_vieira@yahoo.com.br
+  - levybrazil@yahoo.com
+  - levybrazil@yahoo.com.br
+  - GEORGIAVIEIRA89@YAHOO.COM.BR
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 051.009.514-35
+    Nome: RISOLENE DE ANDRADE SILVA
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 25
+    Bairro: VL FORMOSA
+  [2]
+    CPF: 326.567.528-92
+    Nome: CLAUDIA PRISCILA TRESSINO SOARES
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 406
+    Bairro: VL FORMOSA
+  [3]
+    CPF: 426.138.988-60
+    Nome: JEFERSON ANTONIO DOS SANTOS
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 173
+    Bairro: VL FORMOSA
+  [4]
+    CPF: 380.493.568-09
+    Nome: CAMILA ESPINDOLA MORALES
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 185
+    Bairro: VL FORMOSA
+  [5]
+    CPF: 063.558.858-70
+    Nome: GENOVEVA SOFIA SOUSA SILVA
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 542
+    Bairro: VL FORMOSA
+  [6]
+    CPF: 091.521.618-38
+    Nome: ANA ALICE SERRA DE SALES
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 308
+    Bairro: VL FORMOSA
+  [7]
+    CPF: 131.752.328-84
+    Nome: ANEZIO RODRIGUES MENDONCA
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 237
+    Bairro: VL FORMOSA
+  [8]
+    CPF: 095.211.948-04
+    Nome: SIGVARD LIIS AMBROSEN
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 11
+    Bairro: VL FORMOSA
+  [9]
+    CPF: 033.553.269-17
+    Nome: PAULO ROBERTO RODRIGUES DOS SANTOS
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 29
+    Bairro: VL FORMOSA
+  [10]
+    CPF: 012.378.678-94
+    Nome: EDELZUITA LOPES BOMFIM
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 391
+    Bairro: VL FORMOSA
+  [11]
+    CPF: 113.155.028-52
+    Nome: MARIA OSMARINA BRITO DOS SANTOS
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 317
+    Bairro: VL FORMOSA
+  [12]
+    CPF: 390.254.318-36
+    Nome: BRUNA DANIELE DOS SANTOS
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 115
+    Bairro: VL FORMOSA
+  [13]
+    CPF: 077.444.958-61
+    Nome: CLAUDIO APARECIDO DA COSTA
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 16
+    Bairro: VL FORMOSA
+  [14]
+    CPF: 271.168.558-66
+    Nome: GABRIELA MARTINS COSTA
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 406
+    Bairro: VL FORMOSA
+  [15]
+    CPF: 219.146.788-18
+    Nome: JOYCE CRISTINA DOS SANTOS FARIA
+    Logradouro: FILHAS DO SAGRADO CORACAO
+    Número: 76
+    Bairro: VL FORMOSA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (11) 97121-2231
+    Nome: GEORGIA  VIEIRA DA SILVA
+    Cidade: SAO PAULO
+    UF: SP
+  [2]
+    Telefone: (11) 95028-2231
+    Nome: GEORGIA  VIEIRA DA SILVA
+    Cidade: S PAULO
+    UF: SP
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 350008666
+    Operadora: 3
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 22/08/2017
+    Tempo Base: 36
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201708
+    Geo:
+      Ibge Municipio: 3550308
+      Ddd Origem: 11
+      Estado Nome: SAO PAULO
+    Nascimento: 27/07/1989
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 4680
+      Classe Social: C1
+      Score: 730
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 458
+        Net: 218
+        Ctv: 337
+        Faixa Cmv: 435 - 547
+        Faixa Net: 212 - 285
+        Faixa Ctv: 1 - 453
+        Risco Cmv: MEDIO
+        Risco Net: ALTISSIMO
+        Risco Ctv: CRÍTICO
+        Idade: 31
+Vivo Linhas: (1 item(s))
+  [1]
+    Telefone: (11) 95028-2231
+    Tipo: pos
+    Status Linha: SUSPENS�O PARCIAL
+    Primeira Recarga: 01JAN1900
+    Ultima Recarga: 01JAN1900
+    Plano: PF_CONTROLE
+    Data Instalacao: 09/09/2015
+    Valor Fatura: 74.99
+    Mes Referencia: 202009
+E-mails: (4 item(s))
+  - ge_vieira@yahoo.com.br
+  - levybrazil@yahoo.com
+  - levybrazil@yahoo.com.br
+  - georgiavieira89@yahoo.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 2
+Renda Estimativas:
+  Presumida:
+    Valor: 1049
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 1049.6
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 4680
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (11) 2385-3032
+    Ddd: 11
+    Número: 23853032
+    Tipo: FIXO
+    Data Inclusao: 22/09/2015
+    Data Informacao: 24/08/2015
+    Classificacao: D
+  [2]
+    Telefone: (11) 97441-6532
+    Ddd: 11
+    Número: 974416532
+    Tipo: 3
+    Data Inclusao: 08/05/2017
+    Classificacao: D
+  [3]
+    Telefone: (11) 95028-2231
+    Ddd: 11
+    Número: 950282231
+    Tipo: 3
+    Data Inclusao: 08/11/2017
+    Classificacao: A0
+  [4]
+    Telefone: (11) 94262-2142
+    Ddd: 11
+    Número: 942622142
+    Tipo: 3
+    Data Inclusao: 18/10/2018
+    Classificacao: D
+  [5]
+    Telefone: (11) 2729-6165
+    Ddd: 11
+    Número: 27296165
+    Tipo: FIXO
+    Data Inclusao: 25/03/2019
+    Classificacao: B
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

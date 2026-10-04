@@ -1,0 +1,277 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13853348602
+Data/Hora:  03/10/2026, 16:33:33
+Tempo API:  393ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 138.533.486-02
+Nome: CAIO GOMES SILVA GUIMARAES
+Primeiro Nome: CAIO
+Sobrenome: GUIMARAES
+Sexo: Masculino
+Data de Nascimento: 06/03/2001
+Nome da Mãe: MARIA APARECIDA GOMES DOS SANTOS
+Nome do Pai: MANOEL CANDIDO DA SILVA GUIMARAES
+Score:
+  Value: 0
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 225
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MINAS GERAIS
+  Número: 2210
+  Bairro: IPIRANGA
+  Cidade: DIVINOPOLIS
+  Estado: MINAS GERAIS
+  CEP: 35502-026
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MINAS GERAIS
+    Número: 2210
+    Bairro: IPIRANGA
+    Cidade: DIVINOPOLIS
+    Estado: MINAS GERAIS
+    CEP: 35502-026
+    Fonte: PRINCIPAL
+  [2]
+    Rua: ALZIRA LOPES OLIVEIRA
+    Número: 82
+    Bairro: IMPERIAL
+    Cidade: IGARAPE - MG
+    Fonte: DATASUS
+  [3]
+    Tipo: CAIO GOMES SILVA GUIMARAES
+    Rua: 0000156
+    Número: 1 DE MAIO
+    Bairro: CENTRO
+    Cidade: VICOSA
+    Estado: MG
+    CEP: 36570-000
+    Fonte: ASSECC
+  [4]
+    Tipo: [empty]
+    Rua: MINAS GERAIS
+    Número: 0002210
+    Bairro: IPIRANGA
+    Cidade: DIVINOPOLIS
+    Estado: MG
+    CEP: 35502-026
+    Fonte: ASSECC
+  [5]
+    Rua: RUA R  MINAS GERAIS 2210 AP 102
+    Número: 2210
+    Complemento: AP 102
+    Bairro: IPIRANGA
+    Estado: MG
+    CEP: 35502-026
+    Fonte: VIVO_PRE
+Vehicles:
+  Count: 0
+Telefones: (6 item(s))
+  - (37) 3215-9524
+  - (37) 99144-7576
+  - (31) 99633-8943
+  - (37) 3027-6625
+  - +55 (31) 99633-8943
+  - (37) 99822-7541
+Datasus Phones: (1 item(s))
+  - (38) 98812-1943
+Cidade de Nascimento: TRES MARIAS - MG
+Cns: 707602279217798
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 23/08/2019
+    Mosaic New: K38
+    Mosaic Secondary: D14
+    Income Bracket Id: 1
+  Endereços: (1 item(s))
+    [1]
+      Tipo: R
+      Rua: MINAS GERAIS
+      Número: 2210
+      Complemento: AP 102
+      Bairro: IPIRANGA
+      Cidade: DIVINOPOLIS
+      Estado: MG
+      CEP: 35502-026
+      Date Added: 09/12/2019
+  Telefones: (1 item(s))
+    [1]
+      Telefone: 996338943
+      Ddd: 31
+      Tipo: 3
+      Classificacao: D
+      Date Added: 10/07/2019
+  Score:
+    CSB8: 234
+    CSB8 FAIXA: ALTO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 225.84
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 129.946.456-45
+    Nome: TUANIA CONCEICAO CLEMENTE
+    Logradouro: MINAS GERAIS
+    Número: 2535
+    Bairro: IPIRANGA
+  [2]
+    CPF: 039.207.006-51
+    Nome: SILVIA MARIA DA SILVA
+    Logradouro: MINAS GERAIS
+    Número: 1783
+    Bairro: IPIRANGA
+  [3]
+    CPF: 031.929.276-23
+    Nome: ANDRE MARCIO RIBEIRO
+    Logradouro: MINAS GERAIS
+    Número: 1997
+    Bairro: IPIRANGA
+  [4]
+    CPF: 072.223.936-09
+    Nome: MONICA MAJELLA RESENDE
+    Logradouro: MINAS GERAIS
+    Número: 2008
+    Bairro: IPIRANGA
+  [5]
+    CPF: 013.566.446-27
+    Nome: ROGER JUNIO FERREIRA
+    Logradouro: MINAS GERAIS
+    Número: 2452
+    Bairro: IPIRANGA
+  [6]
+    CPF: 013.908.746-05
+    Nome: DENILTON DA GUIA CHAGAS
+    Logradouro: MINAS GERAIS
+    Número: 1975
+    Bairro: IPIRANGA
+  [7]
+    CPF: 296.095.346-00
+    Nome: ALVIMAR MARTINS DO AMARAL
+    Logradouro: MINAS GERAIS
+    Número: 2045
+    Bairro: IPIRANGA
+  [8]
+    CPF: 899.076.476-91
+    Nome: ALESSANDRO FIRMINO MASCARENHAS
+    Logradouro: MINAS GERAIS
+    Número: 1997
+    Bairro: IPIRANGA
+  [9]
+    CPF: 091.838.606-30
+    Nome: JOSE MARIA DAS CHAGAS FILHO
+    Logradouro: MINAS GERAIS
+    Número: 1997
+    Bairro: IPIRANGA
+  [10]
+    CPF: 073.972.846-63
+    Nome: JULIANA CRISTINA CRUZ PINTO
+    Logradouro: MINAS GERAIS
+    Número: 2387
+    Bairro: IPIRANGA
+  [11]
+    CPF: 063.510.076-23
+    Nome: DANIEL FERNANDES MENDES
+    Logradouro: MINAS GERAIS
+    Número: 1759
+    Bairro: IPIRANGA
+  [12]
+    CPF: 082.988.566-86
+    Nome: SIMONE CRISTINA SILVA BIBIANO
+    Logradouro: MINAS GERAIS
+    Número: 2035
+    Bairro: IPIRANGA
+  [13]
+    CPF: 139.137.386-30
+    Nome: MATHEUS HENRIQUE ALVES BISPO
+    Logradouro: MINAS GERAIS
+    Número: 1850
+    Bairro: IPIRANGA
+  [14]
+    CPF: 326.670.866-00
+    Nome: DELCIO AUGUSTO CORTEZ
+    Logradouro: MINAS GERAIS
+    Número: 2452
+    Bairro: IPIRANGA
+  [15]
+    CPF: 087.635.626-93
+    Nome: MARCELO DO CARMO DA SILVA
+    Logradouro: MINAS GERAIS
+    Número: 2210
+    Bairro: IPIRANGA
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (31) 99633-8943
+    Nome: R
+    Cidade: VICOSA
+    UF: MG
+  [2]
+    Telefone: (37) 99144-7576
+    Nome: CAIO GOMES SILVA GUIMARAES
+    Cidade: DIVINOPOLIS
+    UF: MG
+Vivo Linhas: (2 item(s))
+  [1]
+    Telefone: (37) 3027-6625
+    Tipo: fixo
+    Status Linha: Ativo
+    Tecnologia: CABO
+    Tecnologia Banda: GPON
+    Data Ativacao: 31JUL2019:11:54:16
+    Cel Contato: +5531996338943
+    Complemento: AP - Apartamento: 102;
+    Tipo Cliente: Residencial
+  [2]
+    Telefone: (37) 99822-7541
+    Tipo: pre
+    Status Linha: ATIVO
+    Primeira Recarga: 12MAY2020
+    Ultima Recarga: 29AUG2020
+    Plano: PF_PRE_PURO
+    Data Instalacao: 12/05/2020
+E-mail: caiogomes3mnm@gmail.com
+Additional Emails: (1 item(s))
+  - caiogomes3mnm@gmail.com
+E-mails: (1 item(s))
+  - caiogomes3mnm@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 225
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 225.84
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (1 item(s))
+  [1]
+    Telefone: (31) 99633-8943
+    Ddd: 31
+    Número: 996338943
+    Tipo: 3
+    Data Inclusao: 10/07/2019
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

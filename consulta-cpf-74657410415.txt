@@ -1,0 +1,295 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  74657410415
+Data/Hora:  02/10/2026, 17:26:16
+Tempo API:  1042ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 746.574.104-15
+Nome: IVANILDO JOSE DA SILVA
+Primeiro Nome: IVANILDO
+Sobrenome: SILVA
+Sexo: Masculino
+Data de Nascimento: 24/04/1964
+Nome da Mãe: JOSEFA OLINDINA DA CONCEICAO
+Nome do Pai: JOSE JORGE DA SILVA
+RG: 4011828
+Rg Issuer: OUT - OUTROS EMISSORES
+Rg State: PE
+Voter Id: 014981330850
+Mosaic: I30
+Score:
+  Value: 203
+  Range: ALTO
+Federal Status: REGULAR
+Renda: 468
+Income Bracket: 1
+Endereço:
+  Tipo: RUA
+  Rua: MARCO FREIRES
+  Número: 146
+  Bairro: CENTRO
+  Cidade: SAO CAITANO
+  Estado: PERNAMBUCO
+  CEP: 55130-000
+All Addresses: (4 item(s))
+  [1]
+    Tipo: RUA
+    Rua: MARCO FREIRES
+    Número: 146
+    Bairro: CENTRO
+    Cidade: SAO CAITANO
+    Estado: PERNAMBUCO
+    CEP: 55130-000
+    Fonte: PRINCIPAL
+  [2]
+    Rua: PADRE CICERO
+    Número: 136
+    Bairro: PADRE CICERO
+    Cidade: SAO CAITANO - PE
+    Fonte: DATASUS
+  [3]
+    Rua: FELIX CORDEIRO DE BARROS
+    Tipo: AV
+    Número: 7
+    Bairro: CENTRO
+    Cidade: SAO CAITANO
+    Estado: PE
+    CEP: 55130-000
+    Data Atualizacao: 12/12/2014
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: ESTACIO COIMBRA
+    Tipo: R
+    Número: 4
+    Complemento: C
+    Bairro: CENTRO
+    Cidade: SAO CAITANO
+    Estado: PE
+    CEP: 55130-000
+    Data Atualizacao: 08/05/2017
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (81) 9204-7968
+Cidade de Nascimento: SAO CAITANO - PE
+Cns: 705801408534035
+Rg Issue Date: 940820400000
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 22/12/2019
+    Mosaic: I30
+    Mosaic New: H26
+    Mosaic Secondary: J34
+    Income Bracket Id: 1
+  Endereços: (3 item(s))
+    [1]
+      Tipo: R
+      Rua: MARCO FREIRES
+      Número: 146
+      Bairro: CENTRO
+      Cidade: SAO CAITANO
+      Estado: PE
+      CEP: 55130-000
+      Date Added: 03/01/2017
+    [2]
+      Tipo: AV
+      Rua: FELIX CORDEIRO DE BARROS
+      Número: 7
+      Bairro: CENTRO
+      Cidade: SAO CAITANO
+      Estado: PE
+      CEP: 55130-000
+      Date Added: 14/12/2009
+    [3]
+      Tipo: R
+      Rua: ESTACIO COIMBRA
+      Número: 4
+      Complemento: C
+      Bairro: CENTRO
+      Cidade: SAO CAITANO
+      Estado: PE
+      CEP: 55130-000
+      Date Added: 31/01/2017
+  Telefones: (3 item(s))
+    [1]
+      Telefone: 996256373
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/03/2015
+    [2]
+      Telefone: 996256310
+      Ddd: 81
+      Tipo: 3
+      Classificacao: C2
+      Date Added: 07/01/2015
+      Info Date: 02/07/2015
+    [3]
+      Telefone: 993298116
+      Ddd: 81
+      Tipo: 3
+      Classificacao: D
+      Date Added: 18/06/2019
+      Info Date: 27/10/2016
+  Score:
+    CSB8: 338
+    CSB8 FAIXA: MEDIO
+    CSBA: 203
+    CSBA FAIXA: ALTO
+  Parentes: (1 item(s))
+    [1]
+      Nome: JOSEFA OLINDINA DA CONCEICAO
+      Vinculo: MAE
+  Tse:
+    Titulo: 14981330850
+    Zona: 44
+    Secao: 26
+  Poder Aquisitivo:
+    PODER AQUISITIVO: MUITO BAIXO
+    RENDA PODER AQUISITIVO: 468.43
+    FX PODER AQUISITIVO: De R$ 112 até R$ 630
+    COD PODER AQUISITIVO: 1
+Telefones: (3 item(s))
+  - (81) 99625-6373
+  - (81) 99625-6310
+  - (81) 99329-8116
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 052.128.084-21
+    Nome: SIMONE COSMA DA SILVA
+    Logradouro: MIGUEL EUGENIO
+    Número: 120
+    Bairro: PE CICERO
+  [2]
+    CPF: 052.128.144-05
+    Nome: INAIARA MOURA SILVA
+    Logradouro: ANTONIO PAES DE LIRA
+    Número: 27
+  [3]
+    CPF: 051.964.074-80
+    Nome: DANIEL DAMIAO SANTOS DE MACEDO
+    Logradouro: OTHON BEZERRA DE MELO
+    Número: 1
+  [4]
+    CPF: 024.069.464-36
+    Nome: MARTA DORALICE DA SILVA
+    Logradouro: OTHON BEZERRA DE MELO
+    Número: 71
+    Bairro: CENTRO
+  [5]
+    CPF: 063.463.784-30
+    Nome: QUITERIA MARIA DA SILVA
+    Logradouro: FE
+    Número: 50
+    Bairro: CENTRO
+  [6]
+    CPF: 051.324.944-39
+    Nome: WAGNER MIRANDA DE LIMA
+    Logradouro: JOAO GUILHERME
+    Número: 95
+    Bairro: CENTRO
+  [7]
+    CPF: 050.587.404-00
+    Nome: SEVERINO RODRIGUES DA SILVA
+    Logradouro: COSTA SILVA
+    Número: 63
+  [8]
+    CPF: 050.008.794-65
+    Nome: JOSE CARLOS DA SILVA
+    Logradouro: BOA VISTA
+    Número: 101
+    Bairro: LT BOA VISTA
+  [9]
+    CPF: 133.877.058-67
+    Nome: ANA MARIA DO SOCORRO DOS SANTOS
+    Logradouro: CAITANO
+    Número: 34
+    Bairro: NOVA S CAITANO
+  [10]
+    CPF: 049.644.064-07
+    Nome: ROZILENE QUITERIA DA SILVA
+    Logradouro: BEZERRA CAVALCANTE
+    Número: 14
+  [11]
+    CPF: 095.079.558-52
+    Nome: EDVALDO CAETANO FREIRE
+    Logradouro: JOAO PAES DE LIRA
+    Número: 485
+    Bairro: CENTRO
+  [12]
+    CPF: 746.648.914-15
+    Nome: MARIA HELENA DA SILVA FRANCA
+    Logradouro: BR
+    Número: 232
+    Bairro: CENTRO
+  [13]
+    CPF: 048.117.114-24
+    Nome: JOSEILDO SEVERINO DA SILVA
+    Logradouro: FE
+    Número: SN
+  [14]
+    CPF: 047.770.498-09
+    Nome: ARISTIDES MIGUEL DA SILVA
+    Logradouro: JOAO PAES DE LIMA
+    Número: 375
+  [15]
+    CPF: 043.332.644-13
+    Nome: MANOEL AVELINO GOMES FILHO
+    Logradouro: SI AGRESTE DE MINGU
+    Número: 10
+    Bairro: SIT AGRESTE DE MIN
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 468
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 468.43
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (3 item(s))
+  [1]
+    Telefone: (81) 99625-6373
+    Ddd: 81
+    Número: 996256373
+    Tipo: 3
+    Data Inclusao: 18/03/2015
+    Classificacao: D
+  [2]
+    Telefone: (81) 99625-6310
+    Ddd: 81
+    Número: 996256310
+    Tipo: 3
+    Data Inclusao: 07/01/2015
+    Data Informacao: 02/07/2015
+    Classificacao: C2
+  [3]
+    Telefone: (81) 99329-8116
+    Ddd: 81
+    Número: 993298116
+    Tipo: 3
+    Data Inclusao: 18/06/2019
+    Data Informacao: 27/10/2016
+    Classificacao: D
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

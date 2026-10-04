@@ -1,0 +1,166 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  12346455997
+Data/Hora:  03/10/2026, 17:51:13
+Tempo API:  692ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 123.464.559-97
+Nome: ANDRIELE DA SILVA LUZ
+Primeiro Nome: ANDRIELE
+Sobrenome: LUZ
+Sexo: Feminino
+Data de Nascimento: 07/06/2000
+Nome da Mãe: FERNANDA CANUTO DA SILVA
+Nome do Pai: LUIZ CARLOS LUZ
+Ocupação: Vendedor de comércio varejista
+Score:
+  Value: 630
+  Range: BAIXO
+Federal Status: REGULAR
+Renda: 710.25
+Income Bracket: 1
+Cbo: 521110
+Endereço:
+  Tipo: RUA
+  Rua: GILIO BURIGO
+  Número: 1
+  Bairro: JARDIM MARISTELA
+  Cidade: CRICIUMA
+  Estado: SANTA CATARINA
+  CEP: 88815-300
+All Addresses: (3 item(s))
+  [1]
+    Tipo: RUA
+    Rua: GILIO BURIGO
+    Número: 1
+    Bairro: JARDIM MARISTELA
+    Cidade: CRICIUMA
+    Estado: SANTA CATARINA
+    CEP: 88815-300
+    Fonte: PRINCIPAL
+  [2]
+    Rua: JOSE KAMINSKI
+    Número: S/N
+    Bairro: LINHA BATISTA
+    Cidade: CRICIUMA - SC
+    Fonte: DATASUS
+  [3]
+    Tipo: [empty]
+    Rua: GILIO BURIGO
+    Número: 0000001
+    Bairro: JARDIM MARISTELA
+    Cidade: CRICIUMA
+    Estado: SC
+    CEP: 88815-300
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Telefones: (2 item(s))
+  - (48) 99810-1151
+  - (48) 99841-2541
+Datasus Phones: (1 item(s))
+  - (48) 99841-2541
+Cidade de Nascimento: CRICIUMA - SC
+Cns: 704606601299628
+Serasa Completo:
+  Dados Cadastrais:
+    Status Date: 24/12/2019
+    Info Date: 18/02/2017
+    Mosaic New: C08
+    Income Bracket Id: 1
+  Telefones: (2 item(s))
+    [1]
+      Telefone: 998101151
+      Ddd: 48
+      Tipo: 3
+      Classificacao: D1
+      Date Added: 21/03/2019
+    [2]
+      Telefone: 998412541
+      Ddd: 48
+      Tipo: 3
+      Classificacao: A2
+      Date Added: 17/11/2019
+  E-mails: (1 item(s))
+    [1]
+      E-mail: andrielesilva940@gmail.com
+      Priority: 1
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 29/10/2019
+  Score:
+    CSBA: 630
+    CSBA FAIXA: BAIXO
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 710.25
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (1 item(s))
+  - andrielesilva940@gmail.com
+E-mail: andrielesilva940@gmail.com
+Telefones Assecc: (1 item(s))
+  [1]
+    Telefone: (48) 99810-1151
+    Nome: ANDRIELE DA SILVA LUIZ
+    Cidade: CRICIUMA
+    UF: SC
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (48) 99810-1151
+    Nome: ANDRIELE DA SILVA LUIZ
+    Cidade: CRICIUMA
+    UF: SC
+    Operadora: TIM - Celular
+    Fonte: br21m
+E-mails: (1 item(s))
+  - andrielesilva940@gmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 1
+Renda Estimativas:
+  Presumida:
+    Valor: 710.25
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 710.25
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (2 item(s))
+  [1]
+    Telefone: (48) 99810-1151
+    Ddd: 48
+    Número: 998101151
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: D1
+  [2]
+    Telefone: (48) 99841-2541
+    Ddd: 48
+    Número: 998412541
+    Tipo: 3
+    Data Inclusao: 17/11/2019
+    Classificacao: A2
+Occupation Code: 521110
+Occupation Name: Vendedor de comércio varejista
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

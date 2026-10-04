@@ -1,0 +1,449 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  13429549710
+Data/Hora:  02/10/2026, 16:01:22
+Tempo API:  422ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 134.295.497-10
+Nome: THALYTA FERRARI CANEDO NASCIMENTO
+Primeiro Nome: THALYTA
+Sobrenome: NASCIMENTO
+Sexo: Feminino
+Data de Nascimento: 04/10/1990
+Nome da Mãe: SIMONE FERRARI CANEDO NASCIMENTO
+Nome do Pai: RICARDO RODRIGUES NASCIMENTO
+RG: 2527752352
+Rg Issuer: DIC
+Voter Id: 139674700353
+Mosaic: F18
+Ocupação: Técnico em secretariado
+Score:
+  Value: 46
+  Range: ALTISSIMO
+E-mail: T.FERRARICANEDO@GMAIL.COM
+Federal Status: REGULAR
+Renda: 2618
+Income Bracket: 3
+Cbo: 517215
+Endereço:
+  Tipo: RUA
+  Rua: LEAO GONDIM DE OLIVEIRA  115 CS 102
+  Número: 115
+  Bairro: CAMPO GRANDE
+  Cidade: RIO DE JANEIRO
+  Estado: RIO DE JANEIRO
+  CEP: 23042-270
+All Addresses: (5 item(s))
+  [1]
+    Tipo: RUA
+    Rua: LEAO GONDIM DE OLIVEIRA  115 CS 102
+    Número: 115
+    Bairro: CAMPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RIO DE JANEIRO
+    CEP: 23042-270
+    Fonte: PRINCIPAL
+  [2]
+    Rua: EST DA POSSE
+    Número: 3000
+    Bairro: SANTISSIMO
+    Cidade: RIO DE JANEIRO - RJ
+    Fonte: DATASUS
+  [3]
+    Rua: OLOF PALME
+    Tipo: AV
+    Número: 705
+    Complemento: BL 2 AP 80
+    Bairro: CAMORIM
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 22783-119
+    Data Atualizacao: 30/12/2019
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: SEBASTIAO RIBEIRO
+    Tipo: R
+    Número: 211
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23080-660
+    Data Atualizacao: 06/04/2018
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: DA POSSE
+    Tipo: EST
+    Número: 3000
+    Complemento: BL 6 A 501
+    Bairro: CPO GRANDE
+    Cidade: RIO DE JANEIRO
+    Estado: RJ
+    CEP: 23088-000
+    Data Atualizacao: 25/09/2017
+    Classificacao: residencial
+    Fonte: SERASA
+Vehicles:
+  Count: 0
+Datasus Phones: (1 item(s))
+  - (21) 2412-7658
+Cidade de Nascimento: RIO DE JANEIRO - RJ
+Cns: 702304155587511
+Paycom:
+  E-mail: t.ferraricanedo@gmail.com
+  Created At: 2018-05-30 00:00:00
+Endereços de Entrega: (1 item(s))
+  [1]
+    Tipo: 1
+    Rua: Avenida Olof Palme
+    Número: 705
+    Complemento: blc 02 apto 805
+    Bairro: Camorim
+    Cidade: Rio de Janeiro
+    Estado: Rio de Janeiro
+    País: Brasil
+    CEP: 22783-119
+    Telephone: (21) 96421-0660
+Telefones: (7 item(s))
+  - (21) 96421-0660
+  - (21) 97056-1346
+  - (21) 97056-1347
+  - (21) 3065-5673
+  - (21) 3394-7776
+  - (21) 3498-6450
+  - (21) 3412-2588
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: O
+    Status Date: 29/08/2019
+    Info Date: 30/01/2009
+    Rg Issuer: DIC
+    Mosaic: F18
+    Mosaic New: D10
+    Mosaic Secondary: E15
+    Income Bracket Id: 1
+  Endereços: (4 item(s))
+    [1]
+      Tipo: AV
+      Rua: OLOF PALME
+      Número: 705
+      Complemento: BL 2 AP 80
+      Bairro: CAMORIM
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 22783-119
+      Date Added: 12/11/2018
+    [2]
+      Tipo: R
+      Rua: LEAO GONDIM DE OLIVEIRA
+      Número: 115
+      Complemento: CS 102
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23042-270
+      Date Added: 26/09/2016
+    [3]
+      Tipo: R
+      Rua: SEBASTIAO RIBEIRO
+      Número: 211
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23080-660
+      Date Added: 30/06/2010
+    [4]
+      Tipo: EST
+      Rua: DA POSSE
+      Número: 3000
+      Complemento: BL 6 A 501
+      Bairro: CPO GRANDE
+      Cidade: RIO DE JANEIRO
+      Estado: RJ
+      CEP: 23088-000
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 33947776
+      Ddd: 21
+      Tipo: 1
+      Classificacao: A2
+      Date Added: 07/01/2011
+    [2]
+      Telefone: 30655673
+      Ddd: 21
+      Tipo: 1
+      Classificacao: B
+      Date Added: 22/09/2016
+      Info Date: 14/01/2016
+    [3]
+      Telefone: 34986450
+      Ddd: 21
+      Tipo: 1
+      Classificacao: D
+      Date Added: 02/05/2017
+      Info Date: 28/03/2017
+    [4]
+      Telefone: 34122588
+      Ddd: 21
+      Tipo: 2
+      Classificacao: D
+      Date Added: 09/05/2017
+      Info Date: 06/04/2017
+    [5]
+      Telefone: 964210660
+      Ddd: 21
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 21/03/2019
+  E-mails: (2 item(s))
+    [1]
+      E-mail: thalytaferrari@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 06/04/2018
+    [2]
+      E-mail: t.ferraricanedo@gmail.com
+      Priority: 2
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 04/05/2017
+  Score:
+    CSB8: 274
+    CSB8 FAIXA: ALTO
+    CSBA: 46
+    CSBA FAIXA: ALTISSIMO
+  Parentes: (1 item(s))
+    [1]
+      CPF: 855.213.297-49
+      Nome: SIMONE FERRARI CANEDO NASCIMENTO
+      Vinculo: MAE
+  Pis: 20484544696
+  Poder Aquisitivo:
+    PODER AQUISITIVO: BAIXO
+    RENDA PODER AQUISITIVO: 889.55
+    FX PODER AQUISITIVO: De R$ 630 até R$ 1018
+    COD PODER AQUISITIVO: 2
+Additional Emails: (2 item(s))
+  - thalytaferrari@hotmail.com
+  - t.ferraricanedo@gmail.com
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 898.549.007-97
+    Nome: LUCIANA PAURA MARTINS
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [2]
+    CPF: 014.178.207-21
+    Nome: RENATA RODRIGUES BARBOSA
+    Logradouro: OLOF PALME
+    Número: 555
+    Bairro: CAMORIM
+  [3]
+    CPF: 101.189.067-47
+    Nome: LUANA NICACIO JORGE
+    Logradouro: OLOF PALME
+    Número: 705
+    Bairro: CAMORIM
+  [4]
+    CPF: 054.387.117-71
+    Nome: OTAVIO ALVES DA SILVA
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [5]
+    CPF: 009.179.807-86
+    Nome: VALERIA SOUZA MATOS DE ALBUQUERQUE
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [6]
+    CPF: 071.187.007-11
+    Nome: ROBERTA DOS ANJOS PIMENTA
+    Logradouro: OLOF PALME
+    Número: 555
+    Bairro: CAMORIM
+  [7]
+    CPF: 071.006.297-48
+    Nome: RAFAEL DE OLIVEIRA PEREIRA
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [8]
+    CPF: 081.746.687-80
+    Nome: BENICIO DE MOURA COUTINHO JUNIOR
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [9]
+    CPF: 109.048.127-66
+    Nome: SIMONE WARTON BOECHAT DUTRA
+    Logradouro: OLOF PALME
+    Número: 555
+    Bairro: CAMORIM
+  [10]
+    CPF: 030.021.996-21
+    Nome: RENATA APARECIDA DA CUNHA PEREIRA
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [11]
+    CPF: 750.656.497-15
+    Nome: GILEADE AMARO DE ALBUQUERQUE
+    Logradouro: OLOF PALME
+    Número: 605
+    Bairro: CAMORIM
+  [12]
+    CPF: 124.462.157-93
+    Nome: ELISE DUQUE DA SILVA
+    Logradouro: OLOF PALME
+    Número: 555
+    Bairro: CAMORIM
+  [13]
+    CPF: 141.207.757-55
+    Nome: DANIEL ANDRE MIRANDA PAZ DE OLIVEIRA
+    Logradouro: OLOF PALME
+    Número: 505
+    Bairro: CAMORIM
+  [14]
+    CPF: 869.137.867-00
+    Nome: MARCELO FERRAZ
+    Logradouro: OLOF PALME
+    Número: 555
+    Bairro: CAMORIM
+  [15]
+    CPF: 070.290.837-17
+    Nome: ELAINE AUGUSTO DE MEDEIROS
+    Logradouro: OLOF PALME
+    Número: 505
+    Bairro: CAMORIM
+Net Contratos: (1 item(s))
+  [1]
+    Contrato: 67285031
+    Operadora: 38
+    Situação: CONECTADO
+    Forma Pagamento: BOLETO
+    Data Instalacao: 25/03/2018
+    Tempo Base: 29
+    Faixa Tempo Base: Tempo de Base >= 4M
+    Safra Instalacao: 201803
+    Geo:
+      Ibge Municipio: 3304557
+      Ddd Origem: 21
+      Estado Nome: RIO DE JANEIRO
+    Nascimento: 04/10/1990
+    Receita Situacao: VALIDO
+    Receita Status: REGULAR
+    Financeiro:
+      Renda Media Familiar: 10854
+      Classe Social: B1
+      Score: 621
+      Obito: Não
+      Status Cpf: TRUE
+      Bureau Scores:
+        Cmv: 688
+        Net: 652
+        Ctv: 557
+        Faixa Cmv: 548 - 788
+        Faixa Net: 349 - 669
+        Faixa Ctv: 557 - 597
+        Risco Cmv: BAIXO
+        Risco Net: MEDIO
+        Risco Ctv: ALTO
+        Idade: 30
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (21) 3065-5673
+    Nome: THALYTA FERRARI CANEDO NASCIMENTO
+    Cidade: RIO DE JANEIRO
+    UF: RJ
+    Operadora: EMBRATEL - RJ
+    Fonte: algar
+E-mails: (2 item(s))
+  - t.ferraricanedo@gmail.com
+  - thalytaferrari@hotmail.com
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2618
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Poder Aquisitivo:
+    Valor: 889.55
+    Fonte: serasa
+    Tipo: individual
+    Descrição: Renda derivada da FAIXA de poder aquisitivo (modelo Serasa, distinto da presumida).
+  Media Familiar:
+    Valor: 10854
+    Fonte: telco_net
+    Tipo: familiar
+    Descrição: Renda media da FAMILIA (nao individual), da base telco. Tende a ser maior que a renda da pessoa.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (21) 3394-7776
+    Ddd: 21
+    Número: 33947776
+    Tipo: FIXO
+    Data Inclusao: 07/01/2011
+    Classificacao: A2
+  [2]
+    Telefone: (21) 3065-5673
+    Ddd: 21
+    Número: 30655673
+    Tipo: FIXO
+    Data Inclusao: 22/09/2016
+    Data Informacao: 14/01/2016
+    Classificacao: B
+  [3]
+    Telefone: (21) 3498-6450
+    Ddd: 21
+    Número: 34986450
+    Tipo: FIXO
+    Data Inclusao: 02/05/2017
+    Data Informacao: 28/03/2017
+    Classificacao: D
+  [4]
+    Telefone: (21) 3412-2588
+    Ddd: 21
+    Número: 34122588
+    Tipo: CELULAR
+    Data Inclusao: 09/05/2017
+    Data Informacao: 06/04/2017
+    Classificacao: D
+  [5]
+    Telefone: (21) 96421-0660
+    Ddd: 21
+    Número: 964210660
+    Tipo: 3
+    Data Inclusao: 21/03/2019
+    Classificacao: A0
+Occupation Code: 351505
+Occupation Name: Técnico em secretariado
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================

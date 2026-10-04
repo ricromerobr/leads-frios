@@ -1,0 +1,445 @@
+============================================================
+  NEXA DATA — Resultado de Consulta
+============================================================
+Módulo:     CONSULTA CPF
+Parâmetro:  04557531997
+Data/Hora:  02/10/2026, 15:50:50
+Tempo API:  599ms
+HTTP:       200
+============================================================
+
+Total de resultados: 1
+
+------------------------------------------------------------
+RESULTADO 1 de 1
+------------------------------------------------------------
+CPF: 045.575.319-97
+Nome: JACSON RAFAEL TEREZA
+Primeiro Nome: JACSON
+Sobrenome: TEREZA
+Sexo: Masculino
+Data de Nascimento: 25/09/1983
+Nome da Mãe: JANETE APARECIDA DE PAULA
+RG: 88522532
+Rg Issuer: SSP
+Voter Id: 081313980655
+Mosaic: E17
+Ocupação: Trabalhadores de Servicos Administrativos (categoria CBO)
+Score:
+  Value: 322
+  Range: ALTO
+E-mail: JACSON_RAFAEL@HOTMAIL.COM
+Federal Status: REGULAR
+Renda: 2032
+Income Bracket: 3
+Cbo: 414105
+Corporate Share Pct: 100
+Endereço:
+  Tipo: RUA
+  Rua: CASTRO ALVES
+  Complemento: CASA
+  Bairro: JARDIM PANORAMA
+  Cidade: SARANDI
+  Estado: PARANA
+  CEP: 87113-080
+All Addresses: (7 item(s))
+  [1]
+    Tipo: RUA
+    Rua: CASTRO ALVES
+    Complemento: CASA
+    Bairro: JARDIM PANORAMA
+    Cidade: SARANDI
+    Estado: PARANA
+    CEP: 87113-080
+    Fonte: PRINCIPAL
+  [2]
+    Rua: RUA TEREZINHA DE OLIVEIRA COSTA
+    Número: 135
+    Bairro: REQUIÃO 4
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87047-467
+    Fonte: SARAIVA
+  [3]
+    Rua: CASTRO ALVES
+    Tipo: R
+    Número: 406
+    Complemento: FDS
+    Bairro: ZONA 06
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87015-440
+    Classificacao: residencial
+    Fonte: SERASA
+  [4]
+    Rua: PROJETADA
+    Tipo: R
+    Número: 102
+    Complemento: 543 C 12
+    Bairro: PRQ INDUSTRIAL
+    Cidade: SARANDI
+    Estado: PR
+    CEP: 87111-015
+    Classificacao: residencial
+    Fonte: SERASA
+  [5]
+    Rua: CASTRO ALVES
+    Tipo: R
+    Número: 406
+    Complemento: FDS
+    Bairro: JD PANORAMA
+    Cidade: SARANDI
+    Estado: PR
+    CEP: 87113-080
+    Data Atualizacao: 06/02/2016
+    Classificacao: residencial
+    Fonte: SERASA
+  [6]
+    Rua: BRASIL
+    Tipo: AV
+    Número: 3916
+    Bairro: ZONA 01
+    Cidade: MARINGA
+    Estado: PR
+    CEP: 87013-000
+    Classificacao: comercial
+    Fonte: SERASA
+  [7]
+    Tipo: R
+    Rua: CASTRO ALVES
+    Número: 0000406
+    Bairro: JARDIM PANORAMA
+    Cidade: SARANDI
+    Estado: PR
+    CEP: 87113-080
+    Fonte: ASSECC
+Vehicles:
+  Count: 0
+Saraiva:
+  Customer Id: 7238777
+  Telefone: (44) 8821-4454
+  E-mail: JACSON_RAFAEL@HOTMAIL.COM
+  Data de Nascimento: 25/09/1983
+Telefones: (8 item(s))
+  - (44) 8821-4454
+  - (44) 98401-7958
+  - (44) 98826-3536
+  - (44) 3026-2928
+  - (44) 99923-6084
+  - (44) 99916-6742
+  - (44) 2534-9940
+  - (44) 99973-6094
+Serasa Completo:
+  Dados Cadastrais:
+    Estado Civil: S
+    Status Date: 02/10/2019
+    Info Date: 21/12/2008
+    Rg Issuer: SSP
+    Mosaic: E17
+    Mosaic New: E17
+    Mosaic Secondary: G22
+  Endereços: (5 item(s))
+    [1]
+      Tipo: R
+      Rua: CASTRO ALVES
+      Número: 406
+      Complemento: FDS
+      Bairro: ZONA 06
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87015-440
+      Date Added: 28/06/2016
+    [2]
+      Tipo: R
+      Rua: PROJETADA
+      Número: 102
+      Complemento: 543 C 12
+      Bairro: PRQ INDUSTRIAL
+      Cidade: SARANDI
+      Estado: PR
+      CEP: 87111-015
+      Date Added: 30/12/2019
+    [3]
+      Tipo: R
+      Rua: TEREZINHA DE OLIVEIRA COSTA
+      Número: 135
+      Bairro: CJ HABITACIONAL REQUIAO
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87047-467
+      Date Added: 25/08/2016
+    [4]
+      Tipo: R
+      Rua: CASTRO ALVES
+      Número: 406
+      Complemento: FDS
+      Bairro: JD PANORAMA
+      Cidade: SARANDI
+      Estado: PR
+      CEP: 87113-080
+      Date Added: 28/02/2013
+    [5]
+      Tipo: AV
+      Rua: BRASIL
+      Número: 3916
+      Bairro: ZONA 01
+      Cidade: MARINGA
+      Estado: PR
+      CEP: 87013-000
+      Date Added: 09/12/2014
+  Telefones: (5 item(s))
+    [1]
+      Telefone: 30262928
+      Ddd: 44
+      Tipo: 1
+      Classificacao: C
+      Date Added: 11/06/2008
+      Info Date: 29/01/2008
+    [2]
+      Telefone: 999236084
+      Ddd: 44
+      Tipo: 3
+      Classificacao: A0
+      Date Added: 05/03/2009
+      Info Date: 29/09/2007
+    [3]
+      Telefone: 999166742
+      Ddd: 44
+      Tipo: 3
+      Classificacao: D
+      Date Added: 15/12/2014
+      Info Date: 03/12/2012
+    [4]
+      Telefone: 25349940
+      Ddd: 44
+      Tipo: 1
+      Classificacao: D
+      Date Added: 23/08/2016
+    [5]
+      Telefone: 999736094
+      Ddd: 44
+      Tipo: 3
+      Classificacao: D
+      Date Added: 23/08/2016
+  E-mails: (3 item(s))
+    [1]
+      E-mail: jacson_rafael@hotmail.com
+      Priority: 1
+      Quality: OTIMO
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: CONFIRMADO
+      Domain Type: PUBLICO
+      Date Added: 13/01/2016
+    [2]
+      E-mail: jacsonrafael2@gmail.com
+      Priority: 2
+      Quality: BOM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: SEM EVIDENCIA
+      Domain Type: PUBLICO
+      Date Added: 05/07/2019
+    [3]
+      E-mail: jacsontereza@oi.com.br
+      Priority: 3
+      Quality: RUIM
+      Personal: S
+      Blacklisted: N
+      Valid Format: VALIDA
+      Situação: INVALIDO
+      Domain Type: PUBLICO
+      Date Added: 14/11/2014
+  Score:
+    CSBA: 322
+    CSBA FAIXA: ALTO
+  Parentes: (3 item(s))
+    [1]
+      Nome: JANETE APARECIDA DE PAULA
+      Vinculo: MAE
+    [2]
+      CPF: 581.325.039-53
+      Nome: ISAAC RAFAEL TEREZA
+      Vinculo: PAI
+    [3]
+      CPF: 5127244900
+      Nome: WILLIAM RAFAEL TEREZA
+      Vinculo: IRMA(O)
+  Pis: 12756449506
+  Tse:
+    Titulo: 81313980655
+    Zona: 137
+    Secao: 260
+Additional Emails: (3 item(s))
+  - jacson_rafael@hotmail.com
+  - jacsonrafael2@gmail.com
+  - jacsontereza@oi.com.br
+Vizinhos: (15 item(s))
+  [1]
+    CPF: 025.554.649-13
+    Nome: LEANDRO CARDOSO
+    Logradouro: CASTRO ALVES
+    Número: 123
+    Bairro: ZONA 06
+  [2]
+    CPF: 965.369.003-59
+    Nome: WANUT MORAES LOPES
+    Logradouro: CASTRO ALVES
+    Número: 32
+    Bairro: ZONA 06
+  [3]
+    CPF: 301.562.288-90
+    Nome: ANDREIA APARECIDA IDES PALMA
+    Logradouro: CASTRO ALVES
+    Número: 1390
+    Bairro: ZONA 06
+  [4]
+    CPF: 442.105.409-78
+    Nome: FRANCISCO CARLOS PUPPIN
+    Logradouro: CASTRO ALVES
+    Número: 106
+    Bairro: ZONA 06
+  [5]
+    CPF: 445.226.229-53
+    Nome: LUIZ DE SOUZA DE OLIVEIRA
+    Logradouro: CASTRO ALVES
+    Número: 106
+    Bairro: ZONA 06
+  [6]
+    CPF: 388.775.549-91
+    Nome: LIDIA FRANCISCA DA COSTA OLIVEIRA
+    Logradouro: CASTRO ALVES
+    Número: 581
+    Bairro: ZONA 06
+  [7]
+    CPF: 458.042.149-34
+    Nome: ANTONIO CARLOS VICENTIN
+    Logradouro: CASTRO ALVES
+    Número: 191
+    Bairro: ZONA 06
+  [8]
+    CPF: 061.068.659-30
+    Nome: RAFAEL THIAGO ROCHA DA SILVA
+    Logradouro: CASTRO ALVES
+    Número: 580
+    Bairro: ZONA 06
+  [9]
+    CPF: 941.063.809-78
+    Nome: JOSE MILTON DA SILVA
+    Logradouro: CASTRO ALVES
+    Número: 106
+    Bairro: ZONA 06
+  [10]
+    CPF: 611.152.159-49
+    Nome: IZABEL ARLINDO MAZOTI
+    Logradouro: CASTRO ALVES
+    Número: 325
+    Bairro: ZONA 06
+  [11]
+    CPF: 081.532.579-78
+    Nome: THIAGO GABRIEL MARCHI
+    Logradouro: CASTRO ALVES
+    Número: 1390
+    Bairro: ZONA 06
+  [12]
+    CPF: 034.953.264-80
+    Nome: SERGIO JOAQUIM FRANCISCO
+    Logradouro: CASTRO ALVES
+    Número: 1407
+    Bairro: ZONA 06
+  [13]
+    CPF: 727.316.309-06
+    Nome: MARIA DE LOURDES BROTTO
+    Logradouro: CASTRO ALVES
+    Número: 120
+    Bairro: ZONA 06
+  [14]
+    CPF: 736.295.619-34
+    Nome: DORACI POLO MARTINS FERNANDES
+    Logradouro: CASTRO ALVES
+    Número: 386
+    Bairro: ZONA 06
+  [15]
+    CPF: 388.775.209-06
+    Nome: ILDA DA COSTA ROCHA
+    Logradouro: CASTRO ALVES
+    Número: 1255
+    Bairro: ZONA 06
+Telefones Assecc: (2 item(s))
+  [1]
+    Telefone: (44) 98401-7958
+    Nome: JACSON RAFAEL TEREZA
+    Cidade: SARANDI
+    UF: PR
+  [2]
+    Telefone: (44) 98826-3536
+    Nome: JACSON RAFAEL TEREZA
+    Cidade: SARANDI
+    UF: PR
+Telefones Operadoras: (1 item(s))
+  [1]
+    Telefone: (44) 98826-3536
+    Nome: JACSON RAFAEL TEREZA
+    Operadora: CLARO
+    Fonte: claro_cpf
+E-mails: (3 item(s))
+  - jacson_rafael@hotmail.com
+  - jacsonrafael2@gmail.com
+  - jacsontereza@oi.com.br
+Social Class:
+  Social Class: D
+  Sub Social Class: 3
+Renda Estimativas:
+  Presumida:
+    Valor: 2032
+    Fonte: credilink/serasa
+    Tipo: individual
+    Descrição: Renda presumida INDIVIDUAL estimada por modelo de bureau de credito.
+  Nota: Estimativas INDEPENDENTES de bureaus/modelos distintos, em reguas diferentes (individual x familiar). Divergencia entre elas e esperada: NAO se somam, NAO se substituem, NAO devem ser comparadas diretamente.
+Historico Telefones: (5 item(s))
+  [1]
+    Telefone: (44) 3026-2928
+    Ddd: 44
+    Número: 30262928
+    Tipo: FIXO
+    Data Inclusao: 11/06/2008
+    Data Informacao: 29/01/2008
+    Classificacao: C
+  [2]
+    Telefone: (44) 99923-6084
+    Ddd: 44
+    Número: 999236084
+    Tipo: 3
+    Data Inclusao: 05/03/2009
+    Data Informacao: 29/09/2007
+    Classificacao: A0
+  [3]
+    Telefone: (44) 99916-6742
+    Ddd: 44
+    Número: 999166742
+    Tipo: 3
+    Data Inclusao: 15/12/2014
+    Data Informacao: 03/12/2012
+    Classificacao: D
+  [4]
+    Telefone: (44) 2534-9940
+    Ddd: 44
+    Número: 25349940
+    Tipo: FIXO
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+  [5]
+    Telefone: (44) 99973-6094
+    Ddd: 44
+    Número: 999736094
+    Tipo: 3
+    Data Inclusao: 23/08/2016
+    Classificacao: D
+Occupation Code: 4110
+Occupation Name: Trabalhadores de Servicos Administrativos (categoria CBO)
+
+============================================================
+Gerado por Nexa Data • https://nexadata.pro
+============================================================
